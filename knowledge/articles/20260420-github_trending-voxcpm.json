@@ -1,0 +1,32 @@
+{
+  "id": "73149b94-5f73-44e1-94d0-c89121083b91",
+  "title": "OpenBMB/VoxCPM",
+  "source_url": "https://github.com/OpenBMB/VoxCPM",
+  "source": "github_trending",
+  "collected_at": "2026-04-20T00:00:00+08:00",
+  "analyzed_at": "2026-04-20T17:28:36+08:00",
+  "summary": "VoxCPM是OpenBMB推出的无分词器语音合成系统，采用端到端扩散自回归方案直接生成连续语音表示，摒弃了传统TTS依赖离散音频token的范式。VoxCPM2将参数量提升至2B，支持30种语言和48kHz音频输出，仅需3秒参考音频即可实现零样本声音克隆，并支持自然语言指令控制语气、情感和语速。在开源TTS模型中零样本克隆性能领先，500M参数版本可在消费级GPU运行。解决了开源TTS模型语言覆盖窄、声音克隆门槛高、情感表达不足的问题。",
+  "highlights": [
+    "无分词器架构突破传统TTS离散token局限，语音自然度更高",
+    "3秒音频零样本克隆+自然语言指令控制，开源模型中的标杆",
+    "Apache-2.0许可，500M版本消费级GPU可运行，2B版本30种语言"
+  ],
+  "score": 9,
+  "score_reason": "无分词器TTS范式创新，开源模型中零样本克隆性能领先，30语言覆盖，学术与工程价值兼具",
+  "tags": [
+    "multimodal",
+    "open_source",
+    "research_paper"
+  ],
+  "target_audience": "语音合成研究者、需要多语言TTS和声音克隆能力的应用开发者、AI产品团队",
+  "status": "analyzed",
+  "published_at": null,
+  "metadata": {
+    "stars": 14648,
+    "stars_today": 1745,
+    "score": null,
+    "comments": null,
+    "language": "Python",
+    "author": "OpenBMB"
+  }
+}

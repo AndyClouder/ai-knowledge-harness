@@ -1,0 +1,31 @@
+{
+  "id": "56c93611-a290-4ecf-8238-3a5c4b14bf1d",
+  "title": "coleam00/Archon",
+  "source_url": "https://github.com/coleam00/Archon",
+  "source": "github_trending",
+  "collected_at": "2026-04-20T00:00:00+08:00",
+  "analyzed_at": "2026-04-20T17:28:36+08:00",
+  "summary": "首个开源 AI 编码工作流引擎，允许开发者用 YAML 文件定义完整的开发流程，包括规划、实现、验证、代码审查和 PR 创建等阶段。项目已从 Python 迁移至 TypeScript，核心目标是将 AI 辅助编码从不确定的交互式操作转变为确定性、可重复的自动化流程。通过将开发流程编码为配置文件，团队可以标准化 AI 编码行为，确保每次执行的一致性。正在开发触发器（定时任务、事件驱动）和脚本运行时节点等高级特性，社区活跃度高。",
+  "highlights": [
+    "用 YAML 定义 AI 编码流程，实现确定性和可重复的开发自动化",
+    "首个开源 AI 编码工作流引擎，填补 CI/CD 与 AI 编码之间的空白",
+    "支持规划到 PR 创建的完整开发流程编排"
+  ],
+  "score": 7,
+  "score_reason": "解决了 AI 编码不可重复的痛点，架构思路清晰，社区活跃，可直接用于团队工作流",
+  "tags": [
+    "agent",
+    "open_source"
+  ],
+  "target_audience": "使用 AI 编码工具的开发团队、DevOps 工程师、AI Agent 工作流设计师",
+  "status": "analyzed",
+  "published_at": null,
+  "metadata": {
+    "stars": 18817,
+    "stars_today": 2917,
+    "score": null,
+    "comments": null,
+    "language": "TypeScript",
+    "author": "coleam00"
+  }
+}

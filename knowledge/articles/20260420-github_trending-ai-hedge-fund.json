@@ -1,0 +1,32 @@
+{
+  "id": "3ec0705c-2b1b-4658-a08e-7a2051ff8496",
+  "title": "virattt/ai-hedge-fund",
+  "source_url": "https://github.com/virattt/ai-hedge-fund",
+  "source": "github_trending",
+  "collected_at": "2026-04-20T00:00:00+08:00",
+  "analyzed_at": "2026-04-20T17:28:36+08:00",
+  "summary": "一个开源的 AI 驱动对冲基金概念验证项目，采用多 Agent 协作架构模拟完整投资团队。系统内置 18 个 AI Agent，分别模拟巴菲特、芒格等知名投资者的不同分析风格，从基本面、技术面、情绪面等多维度评估公司，最终以投票机制产生买/卖/持有决策。该项目解决了单一策略偏差问题，通过模拟多元化投资团队来提升决策鲁棒性。项目定位为教学与研究用途的概念验证，展示了多 Agent 系统在金融分析领域的应用潜力。",
+  "highlights": [
+    "18 个 AI Agent 模拟不同投资者风格，多维度协作分析",
+    "投票机制汇总决策，克服单一策略偏差问题",
+    "完整开源的多 Agent 金融分析框架，适合学习与研究"
+  ],
+  "score": 6,
+  "score_reason": "多 Agent 协作金融分析有教学价值，但作为概念验证项目，实盘可靠性未经验证",
+  "tags": [
+    "agent",
+    "open_source",
+    "tutorial"
+  ],
+  "target_audience": "量化交易学习者、多 Agent 架构研究者、AI 金融应用开发者",
+  "status": "analyzed",
+  "published_at": null,
+  "metadata": {
+    "stars": 56203,
+    "stars_today": 9754,
+    "score": null,
+    "comments": null,
+    "language": "Python",
+    "author": "virattt"
+  }
+}

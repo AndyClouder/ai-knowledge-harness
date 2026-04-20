@@ -1,0 +1,302 @@
+[
+  {
+    "id": "a1b2c3d4-0001-4a5b-8c6d-000000000001",
+    "title": "NousResearch/hermes-agent",
+    "source_url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github_trending",
+    "collected_at": "2026-04-20T00:00:00+08:00",
+    "summary": "NousResearch构建的自改进AI Agent，内置学习循环，可从经验中创建技能并持续进化，支持Telegram、Discord、Slack等多平台。",
+    "tags": ["agent", "open_source", "llm"],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 100181,
+      "score": null,
+      "author": "NousResearch",
+      "language": "Python",
+      "stars_today": 14220
+    },
+    "analysis": {
+      "summary_cn": "Nous Research 开发的自改进开源 AI Agent，2026 年 2 月发布，两个月内即获近 10 万 Stars。其核心创新在于内置学习循环机制——Agent 能从使用经验中自动创建可复用技能，随时间持续进化，而非依赖一次性提示词。支持部署在用户自有服务器上，并通过 Telegram、Discord、Slack 等多平台触达用户。最新 v0.10.0 版本引入 Tool Gateway，付费用户可接入网页工具等高级集成。该项目定位介于 CLI 工具与聊天平台 Agent 之间，填补了自托管智能 Agent 的空白，MIT 协议开源。",
+      "highlights": [
+        "内置学习循环，从经验中自动创建技能并持续进化",
+        "两个月内获近 10 万 Stars，2026 年增长最快的开源 Agent 之一",
+        "自托管架构，支持 Telegram/Discord/Slack 多平台部署"
+      ],
+      "score": 9,
+      "score_reason": "自改进 Agent 架构是 AI Agent 领域的重大范式创新，GitHub 增长极快，实际可用且有活跃社区",
+      "suggested_tags": ["agent", "open_source", "llm"],
+      "target_audience": "AI Agent 开发者、自托管爱好者、需要多平台智能助手的开发团队"
+    }
+  },
+  {
+    "id": "a1b2c3d4-0002-4a5b-8c6d-000000000002",
+    "title": "virattt/ai-hedge-fund",
+    "source_url": "https://github.com/virattt/ai-hedge-fund",
+    "source": "github_trending",
+    "collected_at": "2026-04-20T00:00:00+08:00",
+    "summary": "AI驱动的对冲基金概念验证项目，多个AI Agent模拟巴菲特、芒格等知名投资者风格协作进行投资决策分析。",
+    "tags": ["agent", "open_source", "tutorial"],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 56203,
+      "score": null,
+      "author": "virattt",
+      "language": "Python",
+      "stars_today": 9754
+    },
+    "analysis": {
+      "summary_cn": "一个开源的 AI 驱动对冲基金概念验证项目，采用多 Agent 协作架构模拟完整投资团队。系统内置 18 个 AI Agent，分别模拟巴菲特、芒格等知名投资者的不同分析风格，从基本面、技术面、情绪面等多维度评估公司，最终以投票机制产生买/卖/持有决策。该项目解决了单一策略偏差问题，通过模拟多元化投资团队来提升决策鲁棒性。项目定位为教学与研究用途的概念验证，展示了多 Agent 系统在金融分析领域的应用潜力。",
+      "highlights": [
+        "18 个 AI Agent 模拟不同投资者风格，多维度协作分析",
+        "投票机制汇总决策，克服单一策略偏差问题",
+        "完整开源的多 Agent 金融分析框架，适合学习与研究"
+      ],
+      "score": 6,
+      "score_reason": "多 Agent 协作金融分析有教学价值，但作为概念验证项目，实盘可靠性未经验证",
+      "suggested_tags": ["agent", "open_source", "tutorial"],
+      "target_audience": "量化交易学习者、多 Agent 架构研究者、AI 金融应用开发者"
+    }
+  },
+  {
+    "id": "a1b2c3d4-0003-4a5b-8c6d-000000000003",
+    "title": "microsoft/markitdown",
+    "source_url": "https://github.com/microsoft/markitdown",
+    "source": "github_trending",
+    "collected_at": "2026-04-20T00:00:00+08:00",
+    "summary": "微软开发的Python工具，将PDF、Word、Excel、PPT等文件转换为Markdown格式，供LLM和文本分析管线使用，支持OCR和音频转录。",
+    "tags": ["rag", "open_source", "multimodal"],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 112198,
+      "score": null,
+      "author": "microsoft",
+      "language": "Python",
+      "stars_today": 7247
+    },
+    "analysis": {
+      "summary_cn": "微软开源的轻量级 Python 文档转换工具，专门为 LLM 和文本分析管线设计。支持将 PDF、Word、Excel、PowerPoint、HTML、CSV、JSON、XML 等多种格式转换为结构化 Markdown，保留文档的层级结构和格式信息。内置 OCR 能力可从图片中提取文字，支持 WAV/MP3 音频转录及 YouTube 视频转录。相比 textract 等通用工具，MarkItDown 专注于输出对 LLM 友好的 Markdown 格式，是 RAG 管线和文档智能处理场景的基础设施级工具，MIT 协议开源。",
+      "highlights": [
+        "一站式文档转 Markdown，覆盖 Office 全家桶及图片/音频",
+        "内置 OCR 和语音转录，图片音频均可处理为文本",
+        "专为 LLM 管线设计，是 RAG 文档预处理的基础设施工具"
+      ],
+      "score": 8,
+      "score_reason": "微软出品的基础设施级工具，功能全面且直接可用于生产环境的 RAG 管线",
+      "suggested_tags": ["rag", "open_source", "multimodal"],
+      "target_audience": "RAG 系统开发者、文档智能处理工程师、需要文档转 Markdown 的数据团队"
+    }
+  },
+  {
+    "id": "a1b2c3d4-0004-4a5b-8c6d-000000000004",
+    "title": "coleam00/Archon",
+    "source_url": "https://github.com/coleam00/Archon",
+    "source": "github_trending",
+    "collected_at": "2026-04-20T00:00:00+08:00",
+    "summary": "首个开源AI编码工作流引擎，用YAML定义开发流程（规划、实现、验证、代码审查、PR创建），使AI编码确定性可重复。",
+    "tags": ["agent", "open_source"],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 18817,
+      "score": null,
+      "author": "coleam00",
+      "language": "TypeScript",
+      "stars_today": 2917
+    },
+    "analysis": {
+      "summary_cn": "首个开源 AI 编码工作流引擎，允许开发者用 YAML 文件定义完整的开发流程，包括规划、实现、验证、代码审查和 PR 创建等阶段。项目已从 Python 迁移至 TypeScript，核心目标是将 AI 辅助编码从不确定的交互式操作转变为确定性、可重复的自动化流程。通过将开发流程编码为配置文件，团队可以标准化 AI 编码行为，确保每次执行的一致性。正在开发触发器（定时任务、事件驱动）和脚本运行时节点等高级特性，社区活跃度高。",
+      "highlights": [
+        "用 YAML 定义 AI 编码流程，实现确定性和可重复的开发自动化",
+        "首个开源 AI 编码工作流引擎，填补 CI/CD 与 AI 编码之间的空白",
+        "支持规划到 PR 创建的完整开发流程编排"
+      ],
+      "score": 7,
+      "score_reason": "解决了 AI 编码不可重复的痛点，架构思路清晰，社区活跃，可直接用于团队工作流",
+      "suggested_tags": ["agent", "open_source"],
+      "target_audience": "使用 AI 编码工具的开发团队、DevOps 工程师、AI Agent 工作流设计师"
+    }
+  },
+  {
+    "id": "a1b2c3d4-0005-4a5b-8c6d-000000000005",
+    "title": "jamiepine/voicebox",
+    "source_url": "https://github.com/jamiepine/voicebox",
+    "source": "github_trending",
+    "collected_at": "2026-04-20T00:00:00+08:00",
+    "summary": "开源语音合成工作室，本地运行7种TTS引擎，支持23种语言声音克隆、情感标签、后期效果处理和多轨时间线编辑。",
+    "tags": ["multimodal", "open_source"],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 20688,
+      "score": null,
+      "author": "jamiepine",
+      "language": "TypeScript",
+      "stars_today": 2371
+    },
+    "analysis": {
+      "summary_cn": "开源的本地优先语音合成工作室，v0.2.0 版本进行了全面重构，集成 5 个 TTS 引擎，支持 23 种语言的语音合成与克隆。核心亮点在于仅需数秒音频样本即可克隆人声，并提供副语言控制能力，可精细调节语调、情感、口音和节奏。内置音频后期效果处理和多轨时间线编辑，具备类似 DAW（数字音频工作站）的专业级功能。项目完全本地运行，无需依赖云服务，是云端 TTS 平台的开源替代方案。文档结构清晰，支持第三方开发者自主接入新的 TTS 引擎。",
+      "highlights": [
+        "数秒音频即可克隆人声，支持 23 种语言和 5 个 TTS 引擎",
+        "本地优先架构，完全离线运行，无需依赖云端服务",
+        "内置 DAW 级多轨编辑和副语言控制，专业度较高"
+      ],
+      "score": 7,
+      "score_reason": "功能全面的本地 TTS 工作室，克隆质量受社区好评，对语音合成领域有实用价值",
+      "suggested_tags": ["multimodal", "open_source"],
+      "target_audience": "语音内容创作者、TTS 引擎开发者、需要本地语音合成的应用开发者"
+    }
+  },
+  {
+    "id": "a1b2c3d4-0006-4a5b-8c6d-000000000006",
+    "title": "multica-ai/multica",
+    "source_url": "https://github.com/multica-ai/multica",
+    "source": "github_trending",
+    "collected_at": "2026-04-20T00:00:00+08:00",
+    "summary": "开源托管Agent平台，将编码Agent转变为真正的团队成员，支持任务分配、进度跟踪和技能复用，兼容Claude Code等多种Agent。",
+    "tags": ["agent", "open_source"],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 16336,
+      "score": null,
+      "author": "multica-ai",
+      "language": "TypeScript",
+      "stars_today": 2019
+    },
+    "analysis": {
+      "summary_cn": "Multica是一个开源托管Agent平台，定位类似Linear的任务管理系统，但以AI Agent为一等公民。核心方案是将Claude Code、Codex等编码Agent视为团队成员，支持像分配任务给同事一样将Issue指派给Agent，Agent自动认领并执行任务。平台提供多工作区管理、统一运行时监控和技能复用机制，不同Agent可配置不同模型。解决了多Agent协作缺乏统一管理、任务进度不可追踪、Agent能力无法沉淀复用的痛点。",
+      "highlights": [
+        "将AI Agent作为任务管理的一等公民，而非被动工具",
+        "支持Claude Code、Codex等多Agent运行时统一管理",
+        "技能复用机制让Agent能力可跨任务、跨项目沉淀"
+      ],
+      "score": 7,
+      "score_reason": "实用的多Agent协作管理平台，填补了Agent编排层的工具空白，但架构创新有限",
+      "suggested_tags": ["agent", "open_source"],
+      "target_audience": "使用Claude Code等编码Agent的团队，需要多Agent协作管理和任务编排的开发者"
+    }
+  },
+  {
+    "id": "a1b2c3d4-0007-4a5b-8c6d-000000000007",
+    "title": "thedotmack/claude-mem",
+    "source_url": "https://github.com/thedotmack/claude-mem",
+    "source": "github_trending",
+    "collected_at": "2026-04-20T00:00:00+08:00",
+    "summary": "Claude Code持久化记忆插件，自动捕获编码会话中的操作，通过AI压缩后注入未来会话，实现跨会话上下文保持。",
+    "tags": ["agent", "prompt_engineering", "open_source"],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 62688,
+      "score": null,
+      "author": "thedotmack",
+      "language": "TypeScript",
+      "stars_today": 5250
+    },
+    "analysis": {
+      "summary_cn": "claude-mem是Claude Code的持久化记忆插件，通过MCP协议集成，自动捕获编码会话中的工具调用和操作记录，经AI语义压缩后存储到ChromaDB向量数据库。后续会话启动时自动检索相关记忆并注入上下文，使Claude能够跨会话记住架构决策、Bug修复方案和项目上下文。支持Docker一键部署。解决了编码Agent每次会话从零开始、丢失历史上下文的核心痛点，目前存在内存占用较高和Windows兼容性等问题。",
+      "highlights": [
+        "单行安装、自动运行的Claude Code记忆方案，用户零配置",
+        "ChromaDB向量存储实现语义级记忆检索",
+        "日增5000+星，反映编码Agent记忆是强需求"
+      ],
+      "score": 7,
+      "score_reason": "解决编码Agent记忆断层的高需求工具，实用性强，但存在内存占用和稳定性问题",
+      "suggested_tags": ["agent", "prompt_engineering", "open_source"],
+      "target_audience": "频繁使用Claude Code的独立开发者和团队，希望跨会话保持项目上下文"
+    }
+  },
+  {
+    "id": "a1b2c3d4-0008-4a5b-8c6d-000000000008",
+    "title": "OpenBMB/VoxCPM",
+    "source_url": "https://github.com/OpenBMB/VoxCPM",
+    "source": "github_trending",
+    "collected_at": "2026-04-20T00:00:00+08:00",
+    "summary": "VoxCPM2：2B参数无分词器TTS模型，支持30种语言语音合成、语音设计、可控声音克隆和48kHz音频输出，Apache-2.0开源。",
+    "tags": ["multimodal", "open_source", "research_paper"],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 14648,
+      "score": null,
+      "author": "OpenBMB",
+      "language": "Python",
+      "stars_today": 1745
+    },
+    "analysis": {
+      "summary_cn": "VoxCPM是OpenBMB推出的无分词器语音合成系统，采用端到端扩散自回归方案直接生成连续语音表示，摒弃了传统TTS依赖离散音频token的范式。VoxCPM2将参数量提升至2B，支持30种语言和48kHz音频输出，仅需3秒参考音频即可实现零样本声音克隆，并支持自然语言指令控制语气、情感和语速。在开源TTS模型中零样本克隆性能领先，500M参数版本可在消费级GPU运行。解决了开源TTS模型语言覆盖窄、声音克隆门槛高、情感表达不足的问题。",
+      "highlights": [
+        "无分词器架构突破传统TTS离散token局限，语音自然度更高",
+        "3秒音频零样本克隆+自然语言指令控制，开源模型中的标杆",
+        "Apache-2.0许可，500M版本消费级GPU可运行，2B版本30种语言"
+      ],
+      "score": 9,
+      "score_reason": "无分词器TTS范式创新，开源模型中零样本克隆性能领先，30语言覆盖，学术与工程价值兼具",
+      "suggested_tags": ["multimodal", "open_source", "research_paper"],
+      "target_audience": "语音合成研究者、需要多语言TTS和声音克隆能力的应用开发者、AI产品团队"
+    }
+  },
+  {
+    "id": "a1b2c3d4-0009-4a5b-8c6d-000000000009",
+    "title": "EvoMap/evolver",
+    "source_url": "https://github.com/EvoMap/evolver",
+    "source": "github_trending",
+    "collected_at": "2026-04-20T00:00:00+08:00",
+    "summary": "基于GEP（基因组进化协议）的AI Agent自进化引擎，将临时提示词调整转化为可审计、可复用的进化资产，支持策略预设和技能商店。",
+    "tags": ["agent", "prompt_engineering", "open_source"],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 5157,
+      "score": null,
+      "author": "EvoMap",
+      "language": "JavaScript",
+      "stars_today": 499
+    },
+    "analysis": {
+      "summary_cn": "Evolver是基于基因组进化协议（GEP）的AI Agent自进化引擎，核心理念是将Agent日常调试中的临时提示词修改转化为可审计、可复用的进化资产（称为基因胶囊）。GEP协议支持Agent间经验共享、跨模型能力继承和自然选择式进化筛选，通过内容寻址ID和GDI评分机制确保进化资产的可验证性。提供策略预设和技能商店。试图解决Agent能力提升依赖人工调参、经验无法跨Agent传递、进化过程不可审计的问题。",
+      "highlights": [
+        "提出GEP协议，将Agent提示词进化形式化为可审计的基因胶囊",
+        "支持跨模型、跨环境的Agent能力继承与经验共享",
+        "自然选择机制自动筛选有效进化策略"
+      ],
+      "score": 6,
+      "score_reason": "概念新颖但生态尚早，协议规范和实际效果需更多验证，适合关注Agent自进化方向的人",
+      "suggested_tags": ["agent", "prompt_engineering", "open_source"],
+      "target_audience": "研究AI Agent自进化和能力传承的开发者，关注Agent生命周期管理的架构师"
+    }
+  },
+  {
+    "id": "a1b2c3d4-0010-4a5b-8c6d-000000000010",
+    "title": "lsdefine/GenericAgent",
+    "source_url": "https://github.com/lsdefine/GenericAgent",
+    "source": "github_trending",
+    "collected_at": "2026-04-20T00:00:00+08:00",
+    "summary": "极简自进化Agent框架，仅3K行核心代码，通过9个原子工具实现系统级控制，自动将任务执行路径固化为可复用技能。",
+    "tags": ["agent", "open_source"],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 4309,
+      "score": null,
+      "author": "lsdefine",
+      "language": "Python",
+      "stars_today": 457
+    },
+    "analysis": {
+      "summary_cn": "GenericAgent是一个极简自进化Agent框架，核心代码仅约3300行，通过9个原子工具加上约100行的Agent循环即可赋予任意LLM对本地计算机的系统级控制能力，覆盖浏览器、终端等操作。其核心机制是将完成的任务执行路径自动固化为可复用技能，构建个人技能树，随使用不断增长。声称相比同类框架Token消耗降低6倍。支持Claude、Gemini、Kimi等多种LLM，跨平台运行。解决了Agent框架复杂度高、预定义技能有限、无法从经验中自动成长的痛点。",
+      "highlights": [
+        "3.3K行极简代码实现系统级控制，框架复杂度极低",
+        "技能树自动生长机制，任务执行路径自动固化为可复用技能",
+        "6倍Token效率提升，支持多种主流LLM"
+      ],
+      "score": 7,
+      "score_reason": "极简设计理念出色，自进化技能树实用性强，但实际安全性和长期可靠性待验证",
+      "suggested_tags": ["agent", "open_source"],
+      "target_audience": "希望构建自进化本地Agent的开发者，偏好轻量框架而非重型Agent平台"
+    }
+  }
+]

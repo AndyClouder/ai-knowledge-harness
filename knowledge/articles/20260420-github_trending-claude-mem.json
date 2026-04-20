@@ -1,0 +1,32 @@
+{
+  "id": "28d0d971-3bec-4f33-8a0c-93efd3f0dc87",
+  "title": "thedotmack/claude-mem",
+  "source_url": "https://github.com/thedotmack/claude-mem",
+  "source": "github_trending",
+  "collected_at": "2026-04-20T00:00:00+08:00",
+  "analyzed_at": "2026-04-20T17:28:36+08:00",
+  "summary": "claude-mem是Claude Code的持久化记忆插件，通过MCP协议集成，自动捕获编码会话中的工具调用和操作记录，经AI语义压缩后存储到ChromaDB向量数据库。后续会话启动时自动检索相关记忆并注入上下文，使Claude能够跨会话记住架构决策、Bug修复方案和项目上下文。支持Docker一键部署。解决了编码Agent每次会话从零开始、丢失历史上下文的核心痛点，目前存在内存占用较高和Windows兼容性等问题。",
+  "highlights": [
+    "单行安装、自动运行的Claude Code记忆方案，用户零配置",
+    "ChromaDB向量存储实现语义级记忆检索",
+    "日增5000+星，反映编码Agent记忆是强需求"
+  ],
+  "score": 7,
+  "score_reason": "解决编码Agent记忆断层的高需求工具，实用性强，但存在内存占用和稳定性问题",
+  "tags": [
+    "agent",
+    "prompt_engineering",
+    "open_source"
+  ],
+  "target_audience": "频繁使用Claude Code的独立开发者和团队，希望跨会话保持项目上下文",
+  "status": "analyzed",
+  "published_at": null,
+  "metadata": {
+    "stars": 62688,
+    "stars_today": 5250,
+    "score": null,
+    "comments": null,
+    "language": "TypeScript",
+    "author": "thedotmack"
+  }
+}

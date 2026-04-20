@@ -1,0 +1,32 @@
+{
+  "id": "75d06edd-7bf3-4488-956f-5a06e056b0cc",
+  "title": "NousResearch/hermes-agent",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "source": "github_trending",
+  "collected_at": "2026-04-20T00:00:00+08:00",
+  "analyzed_at": "2026-04-20T17:28:36+08:00",
+  "summary": "Nous Research 开发的自改进开源 AI Agent，2026 年 2 月发布，两个月内即获近 10 万 Stars。其核心创新在于内置学习循环机制——Agent 能从使用经验中自动创建可复用技能，随时间持续进化，而非依赖一次性提示词。支持部署在用户自有服务器上，并通过 Telegram、Discord、Slack 等多平台触达用户。最新 v0.10.0 版本引入 Tool Gateway，付费用户可接入网页工具等高级集成。该项目定位介于 CLI 工具与聊天平台 Agent 之间，填补了自托管智能 Agent 的空白，MIT 协议开源。",
+  "highlights": [
+    "内置学习循环，从经验中自动创建技能并持续进化",
+    "两个月内获近 10 万 Stars，2026 年增长最快的开源 Agent 之一",
+    "自托管架构，支持 Telegram/Discord/Slack 多平台部署"
+  ],
+  "score": 9,
+  "score_reason": "自改进 Agent 架构是 AI Agent 领域的重大范式创新，GitHub 增长极快，实际可用且有活跃社区",
+  "tags": [
+    "agent",
+    "open_source",
+    "llm"
+  ],
+  "target_audience": "AI Agent 开发者、自托管爱好者、需要多平台智能助手的开发团队",
+  "status": "analyzed",
+  "published_at": null,
+  "metadata": {
+    "stars": 100181,
+    "stars_today": 14220,
+    "score": null,
+    "comments": null,
+    "language": "Python",
+    "author": "NousResearch"
+  }
+}

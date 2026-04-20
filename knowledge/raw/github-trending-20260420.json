@@ -1,0 +1,142 @@
+[
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github_trending",
+    "popularity": {
+      "stars": 100181,
+      "stars_today": 14220,
+      "score": null,
+      "comments": null
+    },
+    "summary": "NousResearch构建的自改进AI Agent，内置学习循环，可从经验中创建技能并持续进化，支持Telegram、Discord、Slack等多平台。",
+    "language": "Python",
+    "author": "NousResearch"
+  },
+  {
+    "title": "virattt/ai-hedge-fund",
+    "url": "https://github.com/virattt/ai-hedge-fund",
+    "source": "github_trending",
+    "popularity": {
+      "stars": 56203,
+      "stars_today": 9754,
+      "score": null,
+      "comments": null
+    },
+    "summary": "AI驱动的对冲基金概念验证项目，多个AI Agent模拟巴菲特、芒格等知名投资者风格协作进行投资决策分析。",
+    "language": "Python",
+    "author": "virattt"
+  },
+  {
+    "title": "microsoft/markitdown",
+    "url": "https://github.com/microsoft/markitdown",
+    "source": "github_trending",
+    "popularity": {
+      "stars": 112198,
+      "stars_today": 7247,
+      "score": null,
+      "comments": null
+    },
+    "summary": "微软开发的Python工具，将PDF、Word、Excel、PPT等文件转换为Markdown格式，供LLM和文本分析管线使用，支持OCR和音频转录。",
+    "language": "Python",
+    "author": "microsoft"
+  },
+  {
+    "title": "coleam00/Archon",
+    "url": "https://github.com/coleam00/Archon",
+    "source": "github_trending",
+    "popularity": {
+      "stars": 18817,
+      "stars_today": 2917,
+      "score": null,
+      "comments": null
+    },
+    "summary": "首个开源AI编码工作流引擎，用YAML定义开发流程（规划、实现、验证、代码审查、PR创建），使AI编码确定性可重复。",
+    "language": "TypeScript",
+    "author": "coleam00"
+  },
+  {
+    "title": "jamiepine/voicebox",
+    "url": "https://github.com/jamiepine/voicebox",
+    "source": "github_trending",
+    "popularity": {
+      "stars": 20688,
+      "stars_today": 2371,
+      "score": null,
+      "comments": null
+    },
+    "summary": "开源语音合成工作室，本地运行7种TTS引擎，支持23种语言声音克隆、情感标签、后期效果处理和多轨时间线编辑。",
+    "language": "TypeScript",
+    "author": "jamiepine"
+  },
+  {
+    "title": "multica-ai/multica",
+    "url": "https://github.com/multica-ai/multica",
+    "source": "github_trending",
+    "popularity": {
+      "stars": 16336,
+      "stars_today": 2019,
+      "score": null,
+      "comments": null
+    },
+    "summary": "开源托管Agent平台，将编码Agent转变为真正的团队成员，支持任务分配、进度跟踪和技能复用，兼容Claude Code等多种Agent。",
+    "language": "TypeScript",
+    "author": "multica-ai"
+  },
+  {
+    "title": "thedotmack/claude-mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "source": "github_trending",
+    "popularity": {
+      "stars": 62688,
+      "stars_today": 5250,
+      "score": null,
+      "comments": null
+    },
+    "summary": "Claude Code持久化记忆插件，自动捕获编码会话中的操作，通过AI压缩后注入未来会话，实现跨会话上下文保持。",
+    "language": "TypeScript",
+    "author": "thedotmack"
+  },
+  {
+    "title": "OpenBMB/VoxCPM",
+    "url": "https://github.com/OpenBMB/VoxCPM",
+    "source": "github_trending",
+    "popularity": {
+      "stars": 14648,
+      "stars_today": 1745,
+      "score": null,
+      "comments": null
+    },
+    "summary": "VoxCPM2：2B参数无分词器TTS模型，支持30种语言语音合成、语音设计、可控声音克隆和48kHz音频输出，Apache-2.0开源。",
+    "language": "Python",
+    "author": "OpenBMB"
+  },
+  {
+    "title": "EvoMap/evolver",
+    "url": "https://github.com/EvoMap/evolver",
+    "source": "github_trending",
+    "popularity": {
+      "stars": 5157,
+      "stars_today": 499,
+      "score": null,
+      "comments": null
+    },
+    "summary": "基于GEP（基因组进化协议）的AI Agent自进化引擎，将临时提示词调整转化为可审计、可复用的进化资产，支持策略预设和技能商店。",
+    "language": "JavaScript",
+    "author": "EvoMap"
+  },
+  {
+    "title": "lsdefine/GenericAgent",
+    "url": "https://github.com/lsdefine/GenericAgent",
+    "source": "github_trending",
+    "popularity": {
+      "stars": 4309,
+      "stars_today": 457,
+      "score": null,
+      "comments": null
+    },
+    "summary": "极简自进化Agent框架，仅3K行核心代码，通过9个原子工具实现系统级控制，自动将任务执行路径固化为可复用技能。",
+    "language": "Python",
+    "author": "lsdefine"
+  }
+]

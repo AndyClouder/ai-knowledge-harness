@@ -1,0 +1,31 @@
+{
+  "id": "5c04344e-cad7-44da-a344-382cd24c92f7",
+  "title": "multica-ai/multica",
+  "source_url": "https://github.com/multica-ai/multica",
+  "source": "github_trending",
+  "collected_at": "2026-04-20T00:00:00+08:00",
+  "analyzed_at": "2026-04-20T17:28:36+08:00",
+  "summary": "Multica是一个开源托管Agent平台，定位类似Linear的任务管理系统，但以AI Agent为一等公民。核心方案是将Claude Code、Codex等编码Agent视为团队成员，支持像分配任务给同事一样将Issue指派给Agent，Agent自动认领并执行任务。平台提供多工作区管理、统一运行时监控和技能复用机制，不同Agent可配置不同模型。解决了多Agent协作缺乏统一管理、任务进度不可追踪、Agent能力无法沉淀复用的痛点。",
+  "highlights": [
+    "将AI Agent作为任务管理的一等公民，而非被动工具",
+    "支持Claude Code、Codex等多Agent运行时统一管理",
+    "技能复用机制让Agent能力可跨任务、跨项目沉淀"
+  ],
+  "score": 7,
+  "score_reason": "实用的多Agent协作管理平台，填补了Agent编排层的工具空白，但架构创新有限",
+  "tags": [
+    "agent",
+    "open_source"
+  ],
+  "target_audience": "使用Claude Code等编码Agent的团队，需要多Agent协作管理和任务编排的开发者",
+  "status": "analyzed",
+  "published_at": null,
+  "metadata": {
+    "stars": 16336,
+    "stars_today": 2019,
+    "score": null,
+    "comments": null,
+    "language": "TypeScript",
+    "author": "multica-ai"
+  }
+}

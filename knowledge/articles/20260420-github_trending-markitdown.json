@@ -1,0 +1,32 @@
+{
+  "id": "a6086a11-5bf1-464a-bcea-7f16ff1bcb43",
+  "title": "microsoft/markitdown",
+  "source_url": "https://github.com/microsoft/markitdown",
+  "source": "github_trending",
+  "collected_at": "2026-04-20T00:00:00+08:00",
+  "analyzed_at": "2026-04-20T17:28:36+08:00",
+  "summary": "微软开源的轻量级 Python 文档转换工具，专门为 LLM 和文本分析管线设计。支持将 PDF、Word、Excel、PowerPoint、HTML、CSV、JSON、XML 等多种格式转换为结构化 Markdown，保留文档的层级结构和格式信息。内置 OCR 能力可从图片中提取文字，支持 WAV/MP3 音频转录及 YouTube 视频转录。相比 textract 等通用工具，MarkItDown 专注于输出对 LLM 友好的 Markdown 格式，是 RAG 管线和文档智能处理场景的基础设施级工具，MIT 协议开源。",
+  "highlights": [
+    "一站式文档转 Markdown，覆盖 Office 全家桶及图片/音频",
+    "内置 OCR 和语音转录，图片音频均可处理为文本",
+    "专为 LLM 管线设计，是 RAG 文档预处理的基础设施工具"
+  ],
+  "score": 8,
+  "score_reason": "微软出品的基础设施级工具，功能全面且直接可用于生产环境的 RAG 管线",
+  "tags": [
+    "rag",
+    "open_source",
+    "multimodal"
+  ],
+  "target_audience": "RAG 系统开发者、文档智能处理工程师、需要文档转 Markdown 的数据团队",
+  "status": "analyzed",
+  "published_at": null,
+  "metadata": {
+    "stars": 112198,
+    "stars_today": 7247,
+    "score": null,
+    "comments": null,
+    "language": "Python",
+    "author": "microsoft"
+  }
+}

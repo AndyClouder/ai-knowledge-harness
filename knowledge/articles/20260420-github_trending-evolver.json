@@ -1,0 +1,32 @@
+{
+  "id": "eabe7770-7101-4ff4-9e75-608039d00cee",
+  "title": "EvoMap/evolver",
+  "source_url": "https://github.com/EvoMap/evolver",
+  "source": "github_trending",
+  "collected_at": "2026-04-20T00:00:00+08:00",
+  "analyzed_at": "2026-04-20T17:28:36+08:00",
+  "summary": "Evolver是基于基因组进化协议（GEP）的AI Agent自进化引擎，核心理念是将Agent日常调试中的临时提示词修改转化为可审计、可复用的进化资产（称为基因胶囊）。GEP协议支持Agent间经验共享、跨模型能力继承和自然选择式进化筛选，通过内容寻址ID和GDI评分机制确保进化资产的可验证性。提供策略预设和技能商店。试图解决Agent能力提升依赖人工调参、经验无法跨Agent传递、进化过程不可审计的问题。",
+  "highlights": [
+    "提出GEP协议，将Agent提示词进化形式化为可审计的基因胶囊",
+    "支持跨模型、跨环境的Agent能力继承与经验共享",
+    "自然选择机制自动筛选有效进化策略"
+  ],
+  "score": 6,
+  "score_reason": "概念新颖但生态尚早，协议规范和实际效果需更多验证，适合关注Agent自进化方向的人",
+  "tags": [
+    "agent",
+    "prompt_engineering",
+    "open_source"
+  ],
+  "target_audience": "研究AI Agent自进化和能力传承的开发者，关注Agent生命周期管理的架构师",
+  "status": "analyzed",
+  "published_at": null,
+  "metadata": {
+    "stars": 5157,
+    "stars_today": 499,
+    "score": null,
+    "comments": null,
+    "language": "JavaScript",
+    "author": "EvoMap"
+  }
+}

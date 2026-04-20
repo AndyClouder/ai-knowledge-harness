@@ -1,0 +1,31 @@
+{
+  "id": "4aba809f-ff47-4b66-be52-37a1dc243d86",
+  "title": "jamiepine/voicebox",
+  "source_url": "https://github.com/jamiepine/voicebox",
+  "source": "github_trending",
+  "collected_at": "2026-04-20T00:00:00+08:00",
+  "analyzed_at": "2026-04-20T17:28:36+08:00",
+  "summary": "开源的本地优先语音合成工作室，v0.2.0 版本进行了全面重构，集成 5 个 TTS 引擎，支持 23 种语言的语音合成与克隆。核心亮点在于仅需数秒音频样本即可克隆人声，并提供副语言控制能力，可精细调节语调、情感、口音和节奏。内置音频后期效果处理和多轨时间线编辑，具备类似 DAW（数字音频工作站）的专业级功能。项目完全本地运行，无需依赖云服务，是云端 TTS 平台的开源替代方案。文档结构清晰，支持第三方开发者自主接入新的 TTS 引擎。",
+  "highlights": [
+    "数秒音频即可克隆人声，支持 23 种语言和 5 个 TTS 引擎",
+    "本地优先架构，完全离线运行，无需依赖云端服务",
+    "内置 DAW 级多轨编辑和副语言控制，专业度较高"
+  ],
+  "score": 7,
+  "score_reason": "功能全面的本地 TTS 工作室，克隆质量受社区好评，对语音合成领域有实用价值",
+  "tags": [
+    "multimodal",
+    "open_source"
+  ],
+  "target_audience": "语音内容创作者、TTS 引擎开发者、需要本地语音合成的应用开发者",
+  "status": "analyzed",
+  "published_at": null,
+  "metadata": {
+    "stars": 20688,
+    "stars_today": 2371,
+    "score": null,
+    "comments": null,
+    "language": "TypeScript",
+    "author": "jamiepine"
+  }
+}

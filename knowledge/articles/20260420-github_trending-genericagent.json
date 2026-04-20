@@ -1,0 +1,31 @@
+{
+  "id": "0be93c17-7b99-4258-ab5c-0e43705224a7",
+  "title": "lsdefine/GenericAgent",
+  "source_url": "https://github.com/lsdefine/GenericAgent",
+  "source": "github_trending",
+  "collected_at": "2026-04-20T00:00:00+08:00",
+  "analyzed_at": "2026-04-20T17:28:36+08:00",
+  "summary": "GenericAgent是一个极简自进化Agent框架，核心代码仅约3300行，通过9个原子工具加上约100行的Agent循环即可赋予任意LLM对本地计算机的系统级控制能力，覆盖浏览器、终端等操作。其核心机制是将完成的任务执行路径自动固化为可复用技能，构建个人技能树，随使用不断增长。声称相比同类框架Token消耗降低6倍。支持Claude、Gemini、Kimi等多种LLM，跨平台运行。解决了Agent框架复杂度高、预定义技能有限、无法从经验中自动成长的痛点。",
+  "highlights": [
+    "3.3K行极简代码实现系统级控制，框架复杂度极低",
+    "技能树自动生长机制，任务执行路径自动固化为可复用技能",
+    "6倍Token效率提升，支持多种主流LLM"
+  ],
+  "score": 7,
+  "score_reason": "极简设计理念出色，自进化技能树实用性强，但实际安全性和长期可靠性待验证",
+  "tags": [
+    "agent",
+    "open_source"
+  ],
+  "target_audience": "希望构建自进化本地Agent的开发者，偏好轻量框架而非重型Agent平台",
+  "status": "analyzed",
+  "published_at": null,
+  "metadata": {
+    "stars": 4309,
+    "stars_today": 457,
+    "score": null,
+    "comments": null,
+    "language": "Python",
+    "author": "lsdefine"
+  }
+}
