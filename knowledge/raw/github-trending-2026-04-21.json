@@ -1,0 +1,192 @@
+{
+  "source": "github_trending",
+  "skill": "github-trending",
+  "collected_at": "2026-04-21T11:38:53+08:00",
+  "items": [
+    {
+      "name": "kyegomez/OpenMythos",
+      "url": "https://github.com/kyegomez/OpenMythos",
+      "summary": "Claude Mythos 架构的理论复现项目，实现循环深度 Transformer（RDT），支持 MLA/GQA 注意力切换和稀疏 MoE 前馈网络，可探索计算自适应、深度可变的推理模式。",
+      "stars": 4472,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "claude",
+        "transformer",
+        "deep-learning",
+        "ml"
+      ]
+    },
+    {
+      "name": "browser-use/browser-harness",
+      "url": "https://github.com/browser-use/browser-harness",
+      "summary": "极简自愈合浏览器控制器，基于 CDP 协议让 LLM 完成任意浏览器任务。Agent 可在任务中动态补写缺失工具函数，约 592 行 Python 实现。",
+      "stars": 3703,
+      "language": "Python",
+      "topics": [
+        "llm",
+        "agent",
+        "browser-automation"
+      ]
+    },
+    {
+      "name": "lewislulu/html-ppt-skill",
+      "url": "https://github.com/lewislulu/html-ppt-skill",
+      "summary": "AI Agent 专用 HTML PPT 制作技能，内置 36 主题、31 页面布局、47 种动画效果和演讲者模式（含逐字稿、计时器），纯静态 HTML/CSS/JS 无需构建。",
+      "stars": 1671,
+      "language": "HTML",
+      "topics": [
+        "ai",
+        "agent",
+        "presentation"
+      ]
+    },
+    {
+      "name": "Manavarya09/design-extract",
+      "url": "https://github.com/Manavarya09/design-extract",
+      "summary": "一条命令提取任意网站的完整设计系统，输出 DTCG 令牌，支持多平台代码生成（SwiftUI、Compose、Flutter），内置 Claude Code MCP Server。",
+      "stars": 1165,
+      "language": "JavaScript",
+      "topics": [
+        "ai",
+        "agent",
+        "mcp-server",
+        "design-system"
+      ]
+    },
+    {
+      "name": "BuilderPulse/BuilderPulse",
+      "url": "https://github.com/BuilderPulse/BuilderPulse",
+      "summary": "面向独立开发者的 AI 每日情报简报，从 300+ 公开信号源中筛选机会，每日生成一个可立即动手的构建建议及背后的市场时机分析。",
+      "stars": 1022,
+      "language": null,
+      "topics": [
+        "ai",
+        "indiehackers"
+      ]
+    },
+    {
+      "name": "WeaveMindAI/weft",
+      "url": "https://github.com/WeaveMindAI/weft",
+      "summary": "面向 AI 系统的编程语言，原生支持 LLM、人类审批、API 调用和基础设施编排。编译器自动检查架构，支持持久化执行和代码/图双视图。",
+      "stars": 912,
+      "language": "Rust",
+      "topics": [
+        "ai",
+        "programming-language",
+        "agent"
+      ]
+    },
+    {
+      "name": "codejunkie99/agentic-stack",
+      "url": "https://github.com/codejunkie99/agentic-stack",
+      "summary": "可移植的 Agent 跨平台方案，通过 .agent/ 文件夹（记忆+技能+协议）一键接入 Claude Code、Cursor、Windsurf 等多种 AI 编码工具并保持知识同步。",
+      "stars": 777,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "agent",
+        "llm"
+      ]
+    },
+    {
+      "name": "stanford-iris-lab/meta-harness",
+      "url": "https://github.com/stanford-iris-lab/meta-harness",
+      "summary": "斯坦福 IRIS Lab 发布的 Meta-Harness 框架，自动搜索并优化模型运行时的代码架构（存储、检索、展示策略），论文发表于 arXiv 2026。",
+      "stars": 537,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "llm-agents",
+        "research"
+      ]
+    },
+    {
+      "name": "baidu/ERNIE-Image",
+      "url": "https://github.com/baidu/ERNIE-Image",
+      "summary": "百度开源文生图模型，基于单流 DiT 架构仅 8B 参数即达 SOTA，擅长密集文字渲染、复杂指令跟随和结构化视觉生成（海报/漫画/分镜），可在 24G 显存消费级 GPU 运行。",
+      "stars": 306,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "diffusion",
+        "image-generation",
+        "deep-learning"
+      ]
+    },
+    {
+      "name": "mukul975/cve-mcp-server",
+      "url": "https://github.com/mukul975/cve-mcp-server",
+      "summary": "生产级安全情报 MCP 服务器，为 Claude 提供 27 个安全工具和 21 个数据源（NVD、EPSS、CISA KEV、Shodan、VirusTotal 等），支持复合风险评分和优先级推荐。",
+      "stars": 259,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "mcp-server",
+        "security",
+        "claude"
+      ]
+    },
+    {
+      "name": "AIScientists-Dev/WorldSeed",
+      "url": "https://github.com/AIScientists-Dev/WorldSeed",
+      "summary": "AI Agent 自主世界引擎，用 YAML 定义场景规则后 AI 角色自主决策行动，支持信息不对称和多 Agent 交互，同一引擎可运行不同故事场景。",
+      "stars": 156,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "agent",
+        "multi-agent",
+        "simulation"
+      ]
+    },
+    {
+      "name": "cosmicstack-labs/mercury-agent",
+      "url": "https://github.com/cosmicstack-labs/mercury-agent",
+      "summary": "Soul-driven AI Agent，具备权限硬化工具、Token 预算控制和多渠道访问能力，支持 CLI 和 Telegram 24/7 运行。",
+      "stars": 155,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "llm"
+      ]
+    },
+    {
+      "name": "deeplethe/ForgeRAG",
+      "url": "https://github.com/deeplethe/ForgeRAG",
+      "summary": "生产级 RAG 引擎，融合 BM25+向量搜索、知识图谱多跳检索和 LLM 树推理，支持像素级引用溯源，在 UltraDomain 基准上全面超越 LightRAG。",
+      "stars": 151,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "rag",
+        "knowledge-graph",
+        "llm"
+      ]
+    },
+    {
+      "name": "yzhao062/agent-style",
+      "url": "https://github.com/yzhao062/agent-style",
+      "summary": "21 条 AI 编码/写作 Agent 的风格指南，即插即用兼容 Claude Code、Codex、Copilot、Cursor 等，让 AI 输出像资深工程师撰写。",
+      "stars": 152,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "llm",
+        "prompt-engineering"
+      ]
+    },
+    {
+      "name": "ovoment/ovo-local-llm",
+      "url": "https://github.com/ovoment/ovo-local-llm",
+      "summary": "Apple Silicon 专用的本地 Claude Code 替代方案，集成 AI 编码 Agent、聊天和图片生成，零云端依赖，支持 MLX 和 Ollama/OpenAI API 兼容。",
+      "stars": 62,
+      "language": "TypeScript",
+      "topics": [
+        "local-llm",
+        "claude-code",
+        "on-device-ai"
+      ]
+    }
+  ]
+}
