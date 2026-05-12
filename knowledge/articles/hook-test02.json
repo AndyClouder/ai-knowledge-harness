@@ -1,0 +1,17 @@
+{
+  "id": "f7a3b9c2-4e8d-4f1a-9b6c-3d2e1f0a8b7c",
+  "title": "Harness Engineering: Platform Engineering 的下一步演进",
+  "source_url": "https://harness.io/blog/harness-engineering-platform",
+  "source": "hacker_news",
+  "collected_at": "2026-05-12T10:30:00+08:00",
+  "summary": "Harness Engineering 是 Platform Engineering 的延伸理念，强调通过内部开发者平台（IDP）实现工程流程的自助化与自动化。其核心目标是将 CI/CD、安全扫描、云成本治理等能力整合为统一平台，减少开发者认知负载并提升交付效率。该领域正在从工具链整合走向智能化编排。",
+  "tags": ["platform-engineering", "devops", "ci-cd", "idp"],
+  "status": "draft",
+  "published_at": null,
+  "metadata": {
+    "stars": null,
+    "score": 186,
+    "author": "Harness Team",
+    "language": null
+  }
+}

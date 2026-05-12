@@ -1,0 +1,17 @@
+{
+  "id": "a3f7c9e1-4b2d-4e8a-9c1f-5d6b8a2e4f03",
+  "title": "Harness Engineering：现代软件交付平台的核心工程实践",
+  "source_url": "https://www.harness.io/blog/harness-engineering-overview",
+  "source": "hacker_news",
+  "collected_at": "2026-05-12T10:30:00+08:00",
+  "summary": "Harness Engineering 涵盖持续集成（CI）、持续交付（CD）、特性标志（Feature Flags）、云成本管理及安全合规自动化等核心能力。通过 AI 驱动的流水线编排和智能回滚机制，帮助企业实现从代码提交到生产部署的全链路自动化，显著缩短交付周期并降低变更风险。该理念强调平台工程与开发者体验的深度融合。",
+  "tags": ["devops", "ci-cd", "platform-engineering", "ai-ops"],
+  "status": "draft",
+  "published_at": null,
+  "metadata": {
+    "stars": null,
+    "score": 186,
+    "author": "Harness Team",
+    "language": null
+  }
+}

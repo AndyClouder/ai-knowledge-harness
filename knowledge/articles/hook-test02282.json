@@ -1,0 +1,17 @@
+{
+  "id": "a7e3f1b2-4c9d-4e8a-b6f5-1d2e3f4a5b6c",
+  "title": "Harness Engineering: 用 AI Agent 重塑软件交付流水线",
+  "source_url": "https://harness.io/blog/harness-engineering-ai-agents",
+  "source": "hacker_news",
+  "collected_at": "2026-05-12T10:30:00+08:00",
+  "summary": "Harness Engineering 平台推出基于 AI Agent 的持续交付方案，将构建、测试、部署流程中的重复性决策自动化。核心特性包括智能回滚、资源预估和故障根因分析，通过 LLM 理解流水线日志和指标，显著降低 MTTR。该方案已在多家企业级客户中落地，平均部署效率提升 40%。",
+  "tags": ["agent", "ci-cd", "devops", "llm"],
+  "status": "draft",
+  "published_at": null,
+  "metadata": {
+    "stars": null,
+    "score": 186,
+    "author": "Harness Team",
+    "language": null
+  }
+}
