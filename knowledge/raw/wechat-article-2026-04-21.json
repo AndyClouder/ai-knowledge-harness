@@ -1,0 +1,159 @@
+{
+  "source": "wechat_article",
+  "skill": "wechat-article",
+  "collected_at": "2026-04-21T17:00:00+08:00",
+  "rss_service": "http://localhost:8001",
+  "note": "当前仅订阅 1 个公众号（欧巴聊AI），部分文章正文为空（we-mp-rss 尚未完成内容抓取），摘要基于标题和描述撰写。建议后续订阅更多公众号以丰富数据源。",
+  "items": [
+    {
+      "title": "智谱AutoClaw到底有多少东西？",
+      "url": "https://mp.weixin.qq.com/s/wclxMOXjO0APnWI1C6RTDw",
+      "account": "欧巴聊AI",
+      "author": null,
+      "summary": "深度实测智谱 AutoClaw（澳龙）最新更新，核心亮点：自进化机制采用审批制，用户可通过关键词触发进化请求，质量优先原则避免噪音干扰；Skills 商店支持一键安装官方和专家共创技能，覆盖信息收集、开发工具、内容创作等场景；支持一键连接飞书、微信、钉钉等 IM 频道，大幅降低使用门槛。",
+      "publish_date": "2026-04-20",
+      "tags": ["agent", "llm"],
+      "related_github_url": null
+    },
+    {
+      "title": "阿里快乐生蚝真是敢啊",
+      "url": "https://mp.weixin.qq.com/s/RGF4z6Qjq_pddsso_IDd0A",
+      "account": "欧巴聊AI",
+      "author": null,
+      "summary": "实测阿里首个世界模型，从产品体验角度分析其技术能力和应用场景。",
+      "publish_date": "2026-04-19",
+      "tags": ["multimodal"],
+      "related_github_url": null
+    },
+    {
+      "title": "我一人公司的设计自由，是Lovart给的",
+      "url": "https://mp.weixin.qq.com/s/NRSQztYrbPQ2uGUP8zLpRQ",
+      "account": "欧巴聊AI",
+      "author": null,
+      "summary": "体验 Lovart AI 设计工具，展示一人公司场景下如何借助 AI 实现设计自由。",
+      "publish_date": "2026-04-17",
+      "tags": ["ai", "diffusion"],
+      "related_github_url": null
+    },
+    {
+      "title": "纳米漫剧流水线，我劝你别太离谱",
+      "url": "https://mp.weixin.qq.com/s/88UsHfQT_uwlNMX7Mdp4PQ",
+      "account": "欧巴聊AI",
+      "author": null,
+      "summary": "实测 AI 纳米漫剧（AI 短剧）制作流水线，评估当前技术方案的可行性和效果上限。",
+      "publish_date": "2026-04-13",
+      "tags": ["diffusion", "ai"],
+      "related_github_url": null
+    },
+    {
+      "title": "LibTV首发Seedance 2.0真人模式，效果夯爆了",
+      "url": "https://mp.weixin.qq.com/s/dpqgE5_uJScuFkCd7C86pg",
+      "account": "欧巴聊AI",
+      "author": null,
+      "summary": "LibTV 首发字节跳动 Seedance 2.0 真人模式视频生成，实测免排队出片体验和视频质量。",
+      "publish_date": "2026-04-11",
+      "tags": ["diffusion", "ai"],
+      "related_github_url": null
+    },
+    {
+      "title": "AI这波操作，比甄嬛传还精彩",
+      "url": "https://mp.weixin.qq.com/s/cERi48sXmJFqlDgGM6_BYQ",
+      "account": "欧巴聊AI",
+      "author": null,
+      "summary": "盘点 Claude Mythos 系统卡中最有意思的 9 个案例，展示 AI Agent 在复杂场景中的实际表现。",
+      "publish_date": "2026-04-08",
+      "tags": ["agent", "llm"],
+      "related_github_url": "https://github.com/kyegomez/OpenMythos"
+    },
+    {
+      "title": "小米AI比想象中凶狠太多了",
+      "url": "https://mp.weixin.qq.com/s/F4vlTPq4M7OyjJbp4MgJPQ",
+      "account": "欧巴聊AI",
+      "author": null,
+      "summary": "评测小米 AI 产品矩阵，分析其技术布局和产品能力，认为超出市场预期。",
+      "publish_date": "2026-04-04",
+      "tags": ["llm", "ai"],
+      "related_github_url": null
+    },
+    {
+      "title": "2分钟出片不排队，LibTV的Seedance 2.0让我一晚上没睡",
+      "url": "https://mp.weixin.qq.com/s/sYEpIUS--zC0cpzSLKfK6g",
+      "account": "欧巴聊AI",
+      "author": null,
+      "summary": "深度体验 LibTV 平台的 Seedance 2.0 视频生成能力，实测 2 分钟快速出片流程和生成质量。",
+      "publish_date": "2026-04-02",
+      "tags": ["diffusion", "ai"],
+      "related_github_url": null
+    },
+    {
+      "title": "盘点Claude Code源码里好玩的东西",
+      "url": "https://mp.weixin.qq.com/s/cYosGtjaiCmQWYSeyH40tA",
+      "account": "欧巴聊AI",
+      "author": null,
+      "summary": "深入 Claude Code 源码，盘点其中有趣的实现细节和技术设计，适合开发者了解 Anthropic 的工程实践。",
+      "publish_date": "2026-03-31",
+      "tags": ["code-generation", "agent"],
+      "related_github_url": null
+    },
+    {
+      "title": "龙虾纪元的第一个夏天",
+      "url": "https://mp.weixin.qq.com/s/54Weq0Z5rilO-3xfPuoA0Q",
+      "account": "欧巴聊AI",
+      "author": null,
+      "summary": "讨论 OpenClaw 与 AI 开源圆桌会议，回顾 Claude（龙虾）生态的发展历程和开源进展。",
+      "publish_date": "2026-03-27",
+      "tags": ["agent", "open-source"],
+      "related_github_url": null
+    },
+    {
+      "title": "上帝视角+3D机位，这绝对是我见过最离谱的AI交互",
+      "url": "https://mp.weixin.qq.com/s/pBxSsMAN5xYMGv3hpO6Qzw",
+      "account": "欧巴聊AI",
+      "author": null,
+      "summary": "展示一种结合上帝视角和 3D 机位的新型 AI 交互方式，体验 AI 驱动的沉浸式内容创作。",
+      "publish_date": "2026-03-27",
+      "tags": ["multimodal", "ai"],
+      "related_github_url": null
+    },
+    {
+      "title": "Sora死了，但它教会了我们一些事",
+      "url": "https://mp.weixin.qq.com/s/PZQKA-0qKph-s59b7mXGwA",
+      "account": "欧巴聊AI",
+      "author": null,
+      "summary": "分析 OpenAI Sora 视频生成项目停摆的原因，讨论视频生成领域的技术瓶颈和行业教训。",
+      "publish_date": "2026-03-25",
+      "tags": ["diffusion", "ai"],
+      "related_github_url": null
+    },
+    {
+      "title": "别被Token焦虑绑架了",
+      "url": "https://mp.weixin.qq.com/s/42fOQ5c7rXIgy9sA8pWQqA",
+      "account": "欧巴聊AI",
+      "author": null,
+      "summary": "讨论 LLM 使用中的 Token 焦虑问题，分析 token 成本优化的实际策略和认知误区。",
+      "publish_date": "2026-03-24",
+      "tags": ["llm"],
+      "related_github_url": null
+    },
+    {
+      "title": "微信正式上线龙虾插件，四大龙虾接入实测全攻略",
+      "url": "https://mp.weixin.qq.com/s/_DVb8xtkUctzG-ZCbGkK9Q",
+      "account": "欧巴聊AI",
+      "author": null,
+      "summary": "微信正式上线 Claude（龙虾）插件，实测四大主流 Claude 接入方式，提供完整的配置攻略。",
+      "publish_date": "2026-03-23",
+      "tags": ["agent", "llm"],
+      "related_github_url": null
+    },
+    {
+      "title": "全网猜了一周的DeepSeek-V4，来自小米",
+      "url": "https://mp.weixin.qq.com/s/rgFpZNVSdlyup-mUur7ABA",
+      "account": "欧巴聊AI",
+      "author": null,
+      "summary": "分析此前全网猜测的 DeepSeek-V4 模型实际来自小米团队，讨论国产大模型竞争格局和技术路线。",
+      "publish_date": "2026-03-19",
+      "tags": ["llm", "ai"],
+      "related_github_url": null
+    }
+  ]
+}

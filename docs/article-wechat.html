@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>一篇文章带你搭建一个 AI 知识库系统</title>
+</head>
+<body style="margin:0;padding:0;background:#f5f5f5;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif;">
+<div style="max-width:680px;margin:0 auto;background:#fff;padding:0;">
+
+<!-- ═══ 标题区 ═══ -->
+<div style="padding:40px 24px 30px;border-bottom:1px solid #eee;">
+  <h1 style="margin:0;font-size:24px;font-weight:700;color:#1a1a1a;line-height:1.4;">一篇文章带你搭建一个<br>AI 知识库系统</h1>
+  <p style="margin:12px 0 0;font-size:13px;color:#999;">2026-04-21 · AndyClouder</p>
+</div>
+
+<!-- ═══ 正文 ═══ -->
+<div style="padding:24px;font-size:16px;line-height:1.9;color:#333;">
+
+<!-- ════ Section 1: 开头 ════ -->
+<h2 style="font-size:20px;font-weight:700;color:#1a1a1a;margin:32px 0 16px;padding-bottom:8px;border-bottom:2px solid #7c3aed;">你有没有这样的体验？</h2>
+
+<p>每天打开 GitHub Trending，看到几十个新项目冒出来，心里想着「这个不错，star 一下」。打开 Hacker News，首页又是十几个 AI 相关的帖子，标题都很诱人。</p>
+
+<p>然后呢？</p>
+
+<p>收藏了一堆链接，存了一堆书签，加了一堆 Read It Later。一周后回头看——<strong>一个都没读过</strong>。</p>
+
+<p>这不是你一个人的问题。在 AI 领域，每天产生的技术内容呈指数级增长。GitHub 上每天都有上百个新仓库获得 50+ stars，Hacker News 每天有几百条 AI 相关讨论。靠人力去筛选、阅读、整理，根本不现实。</p>
+
+<p>那如果——<strong>让 AI 来做这件事呢？</strong></p>
+
+<p>不是那种「帮我总结一下这个网页」的简单指令。而是一个<strong>完整的自动化系统</strong>：每天自动采集、逐条深度分析、打分排序、结构化存储。你每天只需要花 5 分钟看结果。</p>
+
+<p>这就是我今天要分享的：一个用 Claude Code 搭建的 AI 知识库系统。不需要写复杂的代码，核心全靠自然语言描述。</p>
+
+<!-- ════ Section 2: 效果 ════ -->
+<h2 style="font-size:20px;font-weight:700;color:#1a1a1a;margin:32px 0 16px;padding-bottom:8px;border-bottom:2px solid #2563eb;">这个系统能做什么？</h2>
+
+<p>先看效果。这是今天（4 月 21 日）系统自动采集的结果，从 GitHub 上筛选出的 AI 领域热门项目 Top 5：</p>
+
+<div style="background:#f8f9fa;border-radius:8px;padding:16px 20px;margin:16px 0;">
+
+<p style="margin:0 0 12px;font-size:15px;font-weight:600;color:#1a1a1a;">🥇 OpenMythos — 4,472 ⭐</p>
+<p style="margin:0 0 8px;color:#555;font-size:15px;">Claude Mythos 架构的理论复现项目，实现循环深度 Transformer（RDT），支持 MLA/GQA 注意力切换和稀疏 MoE 前馈网络。</p>
+
+<p style="margin:0 0 12px;font-size:15px;font-weight:600;color:#1a1a1a;">🥈 Browser Harness — 3,703 ⭐</p>
+<p style="margin:0 0 8px;color:#555;font-size:15px;">极简自愈合浏览器控制器，基于 CDP 协议让 LLM 完成任意浏览器任务。Agent 可在任务中动态补写缺失工具函数，约 592 行 Python 实现。</p>
+
+<p style="margin:0 0 12px;font-size:15px;font-weight:600;color:#1a1a1a;">🥉 HTML PPT Skill — 1,671 ⭐</p>
+<p style="margin:0 0 8px;color:#555;font-size:15px;">AI Agent 专用 PPT 制作技能，内置 36 主题、31 布局、47 种动画效果，纯静态 HTML/CSS/JS。</p>
+
+</div>
+
+<p>注意：这些不是简单的标题复制。每一条都经过了 AI 的<strong>深度阅读和分析</strong>——它会去读 README，提取技术亮点，判断项目质量，然后给出评分和标签。</p>
+
+<p>完整的工作流是这样的：</p>
+
+<div style="background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);border-radius:8px;padding:20px;margin:16px 0;color:#fff;">
+<p style="margin:0 0 8px;font-size:15px;font-weight:600;">📋 每日自动化管线</p>
+<p style="margin:0;font-size:15px;line-height:2;">
+<strong>① 采集</strong> → 从 GitHub Trending + Hacker News 抓取原始数据<br>
+<strong>② 分析</strong> → AI 逐条阅读，生成中文摘要、技术亮点、评分、标签<br>
+<strong>③ 入库</strong> → 去重、Schema 校验、结构化存储
+</p>
+</div>
+
+<p>整个过程全自动。你唯一需要做的是：每天花几分钟看结果。</p>
+
+<!-- ════ Section 3: 架构 ════ -->
+<h2 style="font-size:20px;font-weight:700;color:#1a1a1a;margin:32px 0 16px;padding-bottom:8px;border-bottom:2px solid #059669;">系统架构：四层设计</h2>
+
+<p>这个系统的核心设计思想是<strong>分层</strong>。一共四层，每层各司其职：</p>
+
+<div style="margin:20px 0;">
+
+<!-- Layer 1 -->
+<div style="border-left:4px solid #7c3aed;padding:12px 16px;margin-bottom:12px;background:#faf5ff;">
+<p style="margin:0;font-size:16px;font-weight:700;color:#7c3aed;">第一层：CLAUDE.md — 全局宪法</p>
+<p style="margin:6px 0 0;color:#555;font-size:15px;">这是整个项目的「最高法律」。它定义了技术栈、编码规范、项目结构、JSON Schema，以及<strong>红线</strong>——那些绝对不能做的事。Claude Code 每次对话都会自动加载这个文件，确保所有行为都遵守规则。</p>
+</div>
+
+<!-- Layer 2 -->
+<div style="border-left:4px solid #2563eb;padding:12px 16px;margin-bottom:12px;background:#eff6ff;">
+<p style="margin:0;font-size:16px;font-weight:700;color:#2563eb;">第二层：Agents — 角色定义</p>
+<p style="margin:6px 0 0;color:#555;font-size:15px;">三个 Agent，各管一段工序。<strong>Collector</strong>（采集）负责「找得全、抓得准」，<strong>Analyzer</strong>（分析）负责「读得深、评得准」，<strong>Organizer</strong>（整理）负责「去重校验入库」。每个 Agent 只定义「做什么」和「输出什么」，不关心具体怎么做。</p>
+</div>
+
+<!-- Layer 3 -->
+<div style="border-left:4px solid #059669;padding:12px 16px;margin-bottom:12px;background:#ecfdf5;">
+<p style="margin:0;font-size:16px;font-weight:700;color:#059669;">第三层：Skills — 执行手册</p>
+<p style="margin:6px 0 0;color:#555;font-size:15px;">Agent 的「手脚」。比如 <code style="background:#e2e8f0;padding:2px 6px;border-radius:3px;font-size:13px;">github-trending</code> 这个 Skill，详细规定了从搜索 API、过滤关键词、去重、写摘要到输出 JSON 的每一步 SOP。Agent 只需要调用这个 Skill，按步骤执行即可。</p>
+</div>
+
+<!-- Layer 4 -->
+<div style="border-left:4px solid #d97706;padding:12px 16px;background:#fffbeb;">
+<p style="margin:0;font-size:16px;font-weight:700;color:#d97706;">第四层：Knowledge — 数据产物</p>
+<p style="margin:6px 0 0;color:#555;font-size:15px;">最终的数据存储。<code style="background:#e2e8f0;padding:2px 6px;border-radius:3px;font-size:13px;">raw/</code> 保存采集原始数据（供审计和重跑），<code style="background:#e2e8f0;padding:2px 6px;border-radius:3px;font-size:13px;">articles/</code> 保存经分析、去重、校验后的结构化知识条目。所有数据都是 JSON 文件，文件名包含日期和来源。</p>
+</div>
+
+</div>
+
+<p>打个比方：如果你开一家公司，<strong>CLAUDE.md</strong> 是公司章程，<strong>Agents</strong> 是各部门的职责说明书，<strong>Skills</strong> 是每个岗位的 SOP 操作手册，<strong>Knowledge</strong> 是最终的产品仓库。</p>
+
+<p>这个设计的好处是：<strong>每一层都可以独立演进</strong>。想增加一个新的采集源？加一个 Skill 文件就行，Agent 和 CLAUDE.md 都不需要改。想调整评分标准？只改 Analyzer 的定义，不影响采集流程。</p>
+
+<!-- ════ Section 4: 设计决策 ════ -->
+<h2 style="font-size:20px;font-weight:700;color:#1a1a1a;margin:32px 0 16px;padding-bottom:8px;border-bottom:2px solid #d97706;">几个关键的设计决策</h2>
+
+<p>在搭建过程中，有几个设计决策值得单独聊聊。这些不是技术细节，而是<strong>思维方式</strong>。</p>
+
+<h3 style="font-size:17px;font-weight:700;color:#1a1a1a;margin:24px 0 12px;">1. 为什么采集和分析要拆成两个 Skill？</h3>
+
+<p>直觉上，采集完直接分析，一步到位不就行了吗？</p>
+
+<p>但仔细想想：<strong>它们的执行时机和频率不同</strong>。采集可以一天跑多次——上午抓一波 GitHub，下午补一波 HN。但分析只需要在当天最后一次采集后跑一次，消费所有原始数据。如果合成一个 Skill，每次采集都强制跑分析，既浪费算力，又可能产生重复的分析结果。</p>
+
+<p>更重要的原因是<strong>可复用性</strong>。将来如果加了 Hacker News 的采集 Skill，<code style="background:#e2e8f0;padding:2px 6px;border-radius:3px;font-size:13px;">tech-summary</code> 这个分析 Skill 照样能消费它的输出，一行代码都不用改。</p>
+
+<h3 style="font-size:17px;font-weight:700;color:#1a1a1a;margin:24px 0 12px;">2. 为什么 collector 和 analyzer 不能写文件？</h3>
+
+<p>这是系统的<strong>第一条红线</strong>：禁止直接写入生产知识库。</p>
+
+<p>为什么要这么严格？因为如果每个 Agent 都能自由写文件，你很快就会得到一个混乱的数据仓库——格式不一致、重复数据满天飞、错误的摘要混入其中。</p>
+
+<p>所以我把权限做了硬隔离：<strong>只有 Organizer（整理 Agent）有写入权限</strong>。Collector 和 Analyzer 只能通过返回 JSON 来传递数据。Organizer 在写入之前，会做去重检查、Schema 校验，确保每一条入库的数据都是合格的。</p>
+
+<p>这就像工厂的流水线：采集车间和生产车间只负责加工，最终质检和入库由专门的质检部门把关。</p>
+
+<h3 style="font-size:17px;font-weight:700;color:#1a1a1a;margin:24px 0 12px;">3. 为什么用 CLAUDE.md 而不是配置文件？</h3>
+
+<p>CLAUDE.md 是 Claude Code 的项目级配置文件，每次对话自动加载。用它的好处是<strong>自然语言即配置</strong>。</p>
+
+<p>传统方式下，你需要写 YAML、JSON、TOML 来定义规则。但自然语言的表达力远超任何配置格式。比如「禁止裸 print()——统一使用 logging 模块」，用代码写要好几行，用自然语言一句话就说清楚了。</p>
+
+<p>更重要的是，AI 能<strong>理解意图</strong>。配置文件只能机械执行，但 CLAUDE.md 里的规则，AI 会在具体场景中灵活应用。比如红线里写着「禁止跳过 JSON Schema 校验」，AI 在写入数据前会自动做校验，而不需要你写具体的校验代码。</p>
+
+<h3 style="font-size:17px;font-weight:700;color:#1a1a1a;margin:24px 0 12px;">4. 评分体系：为什么 9-10 分不超过 2 个？</h3>
+
+<p>如果让 AI 自由评分，它很容易陷入「老好人模式」——大部分项目都给 7-8 分，评分失去区分度。</p>
+
+<p>所以我设计了一个硬约束：<strong>每批 15 个项目中，9-10 分（改变格局级）不超过 2 个</strong>。这倒逼 AI 严格按标准打分，大部分项目会落在 5-8 分区间。</p>
+
+<div style="background:#f8f9fa;border-radius:8px;padding:16px 20px;margin:16px 0;">
+<p style="margin:0 0 8px;font-size:14px;font-weight:600;color:#1a1a1a;">评分标准：</p>
+<p style="margin:0;font-size:14px;color:#555;line-height:2;">
+<b>9-10 改变格局</b> — 开创性技术或范式转移<br>
+<b>7-8 直接有帮助</b> — 可直接用于生产的高质量工具<br>
+<b>5-6 值得了解</b> — 有一定创新性，特定场景有用<br>
+<b>1-4 可略过</b> — 同质化、营销为主、无实质贡献
+</p>
+</div>
+
+<!-- ════ Section 5: 搭建过程 ════ -->
+<h2 style="font-size:20px;font-weight:700;color:#1a1a1a;margin:32px 0 16px;padding-bottom:8px;border-bottom:2px solid #7c3aed;">搭建过程</h2>
+
+<p>好消息是：这个系统的核心逻辑<strong>不需要写代码</strong>。全部用自然语言描述，Claude Code 负责执行。</p>
+
+<h3 style="font-size:17px;font-weight:700;color:#1a1a1a;margin:24px 0 12px;">第一步：写 CLAUDE.md</h3>
+
+<p>这是整个项目的起点。你只需要告诉 AI：这个项目是什么、用什么技术栈、有哪些规范、哪些事绝对不能做。</p>
+
+<p>比如我的 CLAUDE.md 里写了：</p>
+
+<div style="background:#1e293b;border-radius:8px;padding:16px 20px;margin:12px 0;overflow-x:auto;">
+<pre style="margin:0;font-size:13px;color:#e2e8f0;font-family:'Cascadia Code','Fira Code',monospace;line-height:1.7;white-space:pre-wrap;"><span style="color:#7c3aed;">## 红线（绝对禁止）</span>
+
+1. 禁止直接写入生产知识库
+2. 禁止硬编码 API Key / Token
+3. 禁止在采集循环中使用同步阻塞 I/O
+4. 禁止跳过 JSON Schema 校验
+5. 禁止裸 print() 调试输出
+6. 禁止覆盖已有知识条目
+7. 禁止在 Agent 间传递未序列化的对象</pre>
+</div>
+
+<p>七条红线，清清楚楚。AI 看了就知道什么能做、什么不能做。</p>
+
+<h3 style="font-size:17px;font-weight:700;color:#1a1a1a;margin:24px 0 12px;">第二步：定义 Agent 角色</h3>
+
+<p>创建三个 Agent 文件，每个文件用 Markdown 描述这个角色的职责和输出格式。</p>
+
+<p>比如 Collector Agent 的定义：</p>
+
+<div style="background:#1e293b;border-radius:8px;padding:16px 20px;margin:12px 0;overflow-x:auto;">
+<pre style="margin:0;font-size:13px;color:#e2e8f0;font-family:'Cascadia Code','Fira Code',monospace;line-height:1.7;white-space:pre-wrap;"><span style="color:#7c3aed;">采集 Agent — collector</span>
+
+流水线第一道工序。
+只负责「找得全、抓得准」，不写入任何文件。
+
+<span style="color:#7c3aed;">## 输出契约</span>
+
+返回给下游的统一 JSON 数组，两个源合并后 ≥ 15 条：
+{
+  "title": "文章/项目标题",
+  "url": "完整 HTTPS 链接",
+  "source": "github_trending | hacker_news",
+  "popularity": { "stars": "int", "score": "int" },
+  "summary": "简要描述（50 字以内）"
+}</pre>
+</div>
+
+<p>注意关键设计：<strong>输出契约</strong>。它明确规定了 Collector 必须返回什么格式的数据，以及最低数量要求（≥ 15 条）。这保证了下游 Analyzer 拿到的数据是可预期的。</p>
+
+<h3 style="font-size:17px;font-weight:700;color:#1a1a1a;margin:24px 0 12px;">第三步：写 Skill SOP</h3>
+
+<p>Skill 是最细粒度的执行手册。比如 GitHub Trending 的采集 Skill，详细规定了 7 个步骤：</p>
+
+<div style="margin:12px 0;">
+<div style="display:flex;align-items:center;margin-bottom:8px;">
+<span style="background:#7c3aed;color:#fff;width:24px;height:24px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:12px;font-weight:700;margin-right:10px;flex-shrink:0;">1</span>
+<span style="font-size:15px;color:#333;">搜索热门仓库（GitHub Search API，多时间窗口并行）</span>
+</div>
+<div style="display:flex;align-items:center;margin-bottom:8px;">
+<span style="background:#7c3aed;color:#fff;width:24px;height:24px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:12px;font-weight:700;margin-right:10px;flex-shrink:0;">2</span>
+<span style="font-size:15px;color:#333;">提取关键信息（仓库名、URL、Stars、语言、Topics）</span>
+</div>
+<div style="display:flex;align-items:center;margin-bottom:8px;">
+<span style="background:#7c3aed;color:#fff;width:24px;height:24px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:12px;font-weight:700;margin-right:10px;flex-shrink:0;">3</span>
+<span style="font-size:15px;color:#333;">双向过滤（AI 关键词纳入 + awesome-list 排除）</span>
+</div>
+<div style="display:flex;align-items:center;margin-bottom:8px;">
+<span style="background:#7c3aed;color:#fff;width:24px;height:24px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:12px;font-weight:700;margin-right:10px;flex-shrink:0;">4</span>
+<span style="font-size:15px;color:#333;">去重（与近 7 天历史文件比对 URL）</span>
+</div>
+<div style="display:flex;align-items:center;margin-bottom:8px;">
+<span style="background:#7c3aed;color:#fff;width:24px;height:24px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:12px;font-weight:700;margin-right:10px;flex-shrink:0;">5</span>
+<span style="font-size:15px;color:#333;">阅读 README，撰写中文摘要</span>
+</div>
+<div style="display:flex;align-items:center;margin-bottom:8px;">
+<span style="background:#7c3aed;color:#fff;width:24px;height:24px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:12px;font-weight:700;margin-right:10px;flex-shrink:0;">6</span>
+<span style="font-size:15px;color:#333;">按 Stars 降序取 Top 15</span>
+</div>
+<div style="display:flex;align-items:center;">
+<span style="background:#7c3aed;color:#fff;width:24px;height:24px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:12px;font-weight:700;margin-right:10px;flex-shrink:0;">7</span>
+<span style="font-size:15px;color:#333;">输出结构化 JSON 文件</span>
+</div>
+</div>
+
+<p>有了这个 SOP，不管是谁（或者哪个 AI 模型）来执行，都能得到一致的结果。这就是<strong>流程标准化的价值</strong>。</p>
+
+<h3 style="font-size:17px;font-weight:700;color:#1a1a1a;margin:24px 0 12px;">第四步：跑起来</h3>
+
+<p>配置文件写好后，只需要对 Claude Code 说一句：</p>
+
+<div style="background:#1e293b;border-radius:8px;padding:16px 20px;margin:12px 0;">
+<p style="margin:0;font-size:15px;color:#6ee7b7;font-family:'Cascadia Code','Fira Code',monospace;">/github-trending</p>
+</div>
+
+<p>Claude Code 就会按照 Skill 定义的 SOP，自动搜索 API、过滤、去重、读 README、写摘要、输出 JSON。整个过程大概 2-3 分钟。</p>
+
+<!-- ════ Section 6: 实际效果 ════ -->
+<h2 style="font-size:20px;font-weight:700;color:#1a1a1a;margin:32px 0 16px;padding-bottom:8px;border-bottom:2px solid #2563eb;">实际效果展示</h2>
+
+<p>来看看 4 月 21 日系统自动采集的完整结果。从 GitHub 上筛选出 15 个 AI 相关热门项目，以下是最值得关注的几个：</p>
+
+<div style="margin:20px 0;">
+
+<!-- Project 1 -->
+<div style="border:1px solid #e5e7eb;border-radius:10px;padding:16px;margin-bottom:12px;">
+<p style="margin:0 0 6px;font-size:16px;font-weight:700;color:#1a1a1a;">OpenMythos <span style="font-size:12px;color:#999;font-weight:400;">⭐ 4,472 · Python</span></p>
+<p style="margin:0 0 8px;font-size:15px;color:#555;">Claude Mythos 架构的理论复现。实现循环深度 Transformer（RDT），支持 MLA/GQA 注意力切换和稀疏 MoE 前馈网络，可探索计算自适应、深度可变的推理模式。</p>
+<p style="margin:0;font-size:13px;color:#7c3aed;"><b>标签：</b>ai · claude · transformer · deep-learning</p>
+</div>
+
+<!-- Project 2 -->
+<div style="border:1px solid #e5e7eb;border-radius:10px;padding:16px;margin-bottom:12px;">
+<p style="margin:0 0 6px;font-size:16px;font-weight:700;color:#1a1a1a;">Browser Harness <span style="font-size:12px;color:#999;font-weight:400;">⭐ 3,703 · Python</span></p>
+<p style="margin:0 0 8px;font-size:15px;color:#555;">极简自愈合浏览器控制器。基于 CDP 协议让 LLM 完成任意浏览器任务。Agent 可在任务中动态补写缺失工具函数，整个实现只有约 592 行 Python 代码。</p>
+<p style="margin:0;font-size:13px;color:#2563eb;"><b>标签：</b>llm · agent · browser-automation</p>
+</div>
+
+<!-- Project 3 -->
+<div style="border:1px solid #e5e7eb;border-radius:10px;padding:16px;margin-bottom:12px;">
+<p style="margin:0 0 6px;font-size:16px;font-weight:700;color:#1a1a1a;">ERNIE-Image <span style="font-size:12px;color:#999;font-weight:400;">⭐ 306 · Python</span></p>
+<p style="margin:0 0 8px;font-size:15px;color:#555;">百度开源文生图模型。基于单流 DiT 架构，仅 8B 参数即达 SOTA。擅长密集文字渲染、复杂指令跟随和结构化视觉生成（海报、漫画、分镜），可在 24G 显存消费级 GPU 运行。</p>
+<p style="margin:0;font-size:13px;color:#059669;"><b>标签：</b>ai · diffusion · image-generation</p>
+</div>
+
+<!-- Project 4 -->
+<div style="border:1px solid #e5e7eb;border-radius:10px;padding:16px;margin-bottom:12px;">
+<p style="margin:0 0 6px;font-size:16px;font-weight:700;color:#1a1a1a;">Weft <span style="font-size:12px;color:#999;font-weight:400;">⭐ 912 · Rust</span></p>
+<p style="margin:0 0 8px;font-size:15px;color:#555;">面向 AI 系统的编程语言。原生支持 LLM、人类审批、API 调用和基础设施编排。编译器自动检查架构，支持持久化执行和代码/图双视图。</p>
+<p style="margin:0;font-size:13px;color:#d97706;"><b>标签：</b>ai · programming-language · agent</p>
+</div>
+
+<!-- Project 5 -->
+<div style="border:1px solid #e5e7eb;border-radius:10px;padding:16px;">
+<p style="margin:0 0 6px;font-size:16px;font-weight:700;color:#1a1a1a;">ForgeRAG <span style="font-size:12px;color:#999;font-weight:400;">⭐ 151 · Python</span></p>
+<p style="margin:0 0 8px;font-size:15px;color:#555;">生产级 RAG 引擎。融合 BM25+向量搜索、知识图谱多跳检索和 LLM 树推理，支持像素级引用溯源，在 UltraDomain 基准上全面超越 LightRAG。</p>
+<p style="margin:0;font-size:13px;color:#7c3aed;"><b>标签：</b>ai · rag · knowledge-graph · llm</p>
+</div>
+
+</div>
+
+<p>除了逐条分析，系统还能从所有条目中提炼<strong>趋势</strong>。比如从这两天的数据中，可以观察到：</p>
+
+<div style="background:#f0fdf4;border-left:4px solid #059669;padding:12px 16px;margin:16px 0;border-radius:0 8px 8px 0;">
+<p style="margin:0 0 6px;font-size:15px;font-weight:600;color:#059669;">📈 趋势信号</p>
+<p style="margin:0;font-size:15px;color:#333;line-height:1.8;">
+<b>Agent 自愈合</b> — Browser Harness（3703⭐）和 Agentic Video Editor 都体现了让 Agent 自主解决运行时问题的趋势<br>
+<b>AI 编程语言</b> — Weft（912⭐）将 LLM、API、人类审批作为语言原生原语，预示 AI 系统编程范式的新方向<br>
+<b>本地优先 LLM</b> — ovo-local-llm 等项目表明完全离线、零云端的 AI 工具需求正在升温
+</p>
+</div>
+
+<!-- ════ Section 7: 总结 ════ -->
+<h2 style="font-size:20px;font-weight:700;color:#1a1a1a;margin:32px 0 16px;padding-bottom:8px;border-bottom:2px solid #7c3aed;">写在最后</h2>
+
+<p>这个系统的核心价值不在于技术本身，而在于一种<strong>新的知识管理思路</strong>：</p>
+
+<div style="background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);border-radius:8px;padding:20px;margin:16px 0;color:#fff;">
+<p style="margin:0;font-size:17px;font-weight:600;text-align:center;line-height:1.8;">
+不是你去找知识，<br>
+而是让知识主动来找你。
+</p>
+</div>
+
+<p>传统方式是「我主动搜索 → 筛选 → 阅读 → 整理」，每一步都需要消耗你的注意力和时间。新方式是「AI 帮你做完所有事，你只需要看结果」。</p>
+
+<p>而且这个思路不局限于 AI 领域。你可以用同样的架构来追踪：</p>
+
+<div style="margin:12px 0;padding-left:16px;border-left:3px solid #e5e7eb;">
+<p style="margin:0 0 6px;font-size:15px;color:#555;">任何你感兴趣的技术领域（Web3、Security、DevOps…）</p>
+<p style="margin:0 0 6px;font-size:15px;color:#555;">行业动态（竞品监控、政策变化、市场趋势）</p>
+<p style="margin:0;font-size:15px;color:#555;">学术前沿（论文追踪、实验室动态）</p>
+</div>
+
+<p>只需要换一套关键词和采集源，整个系统就能迁移过去。</p>
+
+<p>如果你对这个项目感兴趣，可以在 GitHub 上查看完整代码：</p>
+
+<div style="background:#f8f9fa;border-radius:8px;padding:16px 20px;margin:16px 0;text-align:center;">
+<p style="margin:0;font-size:15px;"><b>github.com/AndyClouder/ai-knowledge-harness</b></p>
+</div>
+
+<p>项目完全开源，所有配置文件都是自然语言 Markdown，欢迎 Star、Fork、提 Issue。</p>
+
+<p>下次见 👋</p>
+
+</div>
+
+<!-- ═══ 底部 ═══ -->
+<div style="padding:20px 24px;border-top:1px solid #eee;text-align:center;">
+<p style="margin:0;font-size:12px;color:#999;">— END —</p>
+</div>
+
+</div>
+</body>
+</html>

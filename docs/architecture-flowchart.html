@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>AI 知识库助手 — 架构流程图</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: #0f172a;
+    color: #e2e8f0;
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+    padding: 40px 20px;
+  }
+  .container { max-width: 1100px; width: 100%; }
+  h1 {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 8px;
+    color: #f1f5f9;
+  }
+  .subtitle {
+    text-align: center;
+    font-size: 13px;
+    color: #64748b;
+    margin-bottom: 36px;
+  }
+
+  /* ── Top: 4 pillars ── */
+  .pillars {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 16px;
+    margin-bottom: 20px;
+  }
+  .pillar {
+    border-radius: 12px;
+    padding: 20px 16px;
+    border: 1.5px solid;
+    position: relative;
+  }
+  .pillar .badge {
+    position: absolute;
+    top: -10px;
+    left: 16px;
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    padding: 2px 8px;
+    border-radius: 4px;
+    text-transform: uppercase;
+  }
+  .pillar h3 { font-size: 15px; margin-bottom: 6px; }
+  .pillar .path { font-size: 12px; font-family: 'Cascadia Code', 'Fira Code', monospace; opacity: 0.6; margin-bottom: 10px; }
+  .pillar p { font-size: 12.5px; line-height: 1.65; color: #94a3b8; }
+  .pillar ul { list-style: none; margin-top: 8px; }
+  .pillar ul li { font-size: 12px; color: #94a3b8; padding: 2px 0; }
+  .pillar ul li::before { content: "· "; color: #475569; }
+
+  /* pillar colors */
+  .p-claude { border-color: #7c3aed; background: #1e1538; }
+  .p-claude .badge { background: #7c3aed; color: #fff; }
+  .p-agents { border-color: #2563eb; background: #111d3a; }
+  .p-agents .badge { background: #2563eb; color: #fff; }
+  .p-skills { border-color: #059669; background: #0d2818; }
+  .p-skills .badge { background: #059669; color: #fff; }
+  .p-knowledge { border-color: #d97706; background: #271c08; }
+  .p-knowledge .badge { background: #d97706; color: #fff; }
+
+  /* ── Relationship arrows ── */
+  .relationships {
+    border: 1px solid #1e293b;
+    border-radius: 12px;
+    padding: 24px;
+    background: #0c1322;
+  }
+  .relationships h2 {
+    font-size: 14px;
+    font-weight: 600;
+    color: #94a3b8;
+    margin-bottom: 16px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+
+  .flow-row {
+    display: flex;
+    align-items: stretch;
+    gap: 0;
+    margin-bottom: 12px;
+  }
+  .flow-row:last-child { margin-bottom: 0; }
+
+  .flow-box {
+    padding: 10px 14px;
+    border-radius: 8px;
+    font-size: 12px;
+    font-weight: 500;
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    flex-shrink: 0;
+  }
+  .flow-box .icon { font-size: 14px; }
+  .flow-box.code {
+    font-family: 'Cascadia Code', 'Fira Code', monospace;
+    font-size: 11px;
+    font-weight: 400;
+  }
+
+  /* colors for boxes */
+  .fb-claude { background: #2d1f5e; color: #c4b5fd; border: 1px solid #7c3aed33; }
+  .fb-agent  { background: #172554; color: #93c5fd; border: 1px solid #2563eb33; }
+  .fb-skill  { background: #064e3b; color: #6ee7b7; border: 1px solid #05966933; }
+  .fb-data   { background: #451a03; color: #fcd34d; border: 1px solid #d9770633; }
+
+  .arrow {
+    display: flex;
+    align-items: center;
+    padding: 0 8px;
+    color: #475569;
+    font-size: 18px;
+    flex-shrink: 0;
+  }
+  .arrow-label {
+    font-size: 10px;
+    color: #64748b;
+    text-align: center;
+    line-height: 1.2;
+    min-width: 70px;
+  }
+
+  /* spacer */
+  .spacer { flex: 1; min-width: 12px; }
+
+  /* legend */
+  .legend {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+    flex-wrap: wrap;
+  }
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 11px;
+    color: #64748b;
+  }
+  .legend-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 3px;
+  }
+
+  /* detail section */
+  .detail-section {
+    margin-top: 20px;
+    border: 1px solid #1e293b;
+    border-radius: 12px;
+    padding: 24px;
+    background: #0c1322;
+  }
+  .detail-section h2 {
+    font-size: 14px;
+    font-weight: 600;
+    color: #94a3b8;
+    margin-bottom: 16px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  .detail-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+  }
+  .detail-card {
+    border-radius: 8px;
+    padding: 16px;
+    border: 1px solid #1e293b;
+    background: #111827;
+  }
+  .detail-card h4 {
+    font-size: 13px;
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .detail-card p {
+    font-size: 12px;
+    color: #94a3b8;
+    line-height: 1.7;
+  }
+  .detail-card code {
+    font-family: 'Cascadia Code', monospace;
+    font-size: 11px;
+    background: #1e293b;
+    padding: 1px 5px;
+    border-radius: 3px;
+    color: #e2e8f0;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+<h1>AI 知识库助手 — 架构关系图</h1>
+<p class="subtitle">CLAUDE.md · Agents · Skills · Knowledge 四层协作关系</p>
+
+<!-- ═══ 4 Pillars ═══ -->
+<div class="pillars">
+
+  <div class="pillar p-claude">
+    <span class="badge">全局宪法</span>
+    <h3>CLAUDE.md</h3>
+    <div class="path">./CLAUDE.md</div>
+    <p>项目的<strong>最高层规范</strong>，Claude Code 每次对话自动加载。</p>
+    <ul>
+      <li>定义技术栈、编码规范</li>
+      <li>声明项目结构和 JSON Schema</li>
+      <li>列出 Agent 角色概览</li>
+      <li>设定红线（绝对禁止事项）</li>
+    </ul>
+  </div>
+
+  <div class="pillar p-agents">
+    <span class="badge">角色定义</span>
+    <h3>.claudecode/agents/</h3>
+    <div class="path">agents/{collector,analyzer,organizer}.md</div>
+    <p>三个 <strong>Agent 角色文件</strong>，各管一段工序，定义职责边界和输出契约。</p>
+    <ul>
+      <li><strong>collector</strong> — 找得全、抓得准</li>
+      <li><strong>analyzer</strong> — 读得深、评得准</li>
+      <li><strong>organizer</strong> — 去重校验入库</li>
+    </ul>
+  </div>
+
+  <div class="pillar p-skills">
+    <span class="badge">执行手册</span>
+    <h3>.claudecode/skills/</h3>
+    <div class="path">skills/{github-trending,tech-summary}/SKILL.md</div>
+    <p><strong>可复用的 SOP 手册</strong>，Agent 按步骤执行，保证每次输出一致。</p>
+    <ul>
+      <li><strong>github-trending</strong> — 采集 SOP</li>
+      <li><strong>tech-summary</strong> — 分析 SOP</li>
+      <li>可按需扩展（hacker-news…）</li>
+    </ul>
+  </div>
+
+  <div class="pillar p-knowledge">
+    <span class="badge">数据层</span>
+    <h3>knowledge/</h3>
+    <div class="path">knowledge/{raw,articles}/</div>
+    <p><strong>流水线最终产物</strong>，所有 Agent 的读写目标。</p>
+    <ul>
+      <li><strong>raw/</strong> — 采集原始 JSON</li>
+      <li><strong>articles/</strong> — 结构化知识条目</li>
+      <li>文件命名含日期 + 来源 + slug</li>
+    </ul>
+  </div>
+
+</div>
+
+<!-- ═══ Relationships ═══ -->
+<div class="relationships">
+  <h2>关系与数据流</h2>
+
+  <!-- Row 1: CLAUDE → Agents -->
+  <div class="flow-row">
+    <div class="flow-box fb-claude"><span class="icon">📖</span> CLAUDE.md</div>
+    <div class="arrow">→</div>
+    <div class="arrow-label">规范约束<br>全局生效</div>
+    <div class="arrow">→</div>
+    <div class="flow-box fb-agent"><span class="icon">🤖</span> agents/*.md</div>
+    <div class="spacer"></div>
+    <div class="arrow-label">技术栈、红线、<br>JSON Schema<br>对下层全部生效</div>
+  </div>
+
+  <!-- Row 2: Agent → Skill -->
+  <div class="flow-row">
+    <div class="flow-box fb-agent"><span class="icon">🤖</span> collector.md</div>
+    <div class="arrow">→</div>
+    <div class="arrow-label">调用<br>SOP</div>
+    <div class="arrow">→</div>
+    <div class="flow-box fb-skill"><span class="icon">📋</span> github-trending/SKILL.md</div>
+    <div class="spacer"></div>
+    <div class="arrow-label">Agent 是「角色」，<br>Skill 是「手脚」<br>Agent 决定做什么，<br>Skill 规定怎么做</div>
+  </div>
+
+  <!-- Row 3: Skill → Knowledge -->
+  <div class="flow-row">
+    <div class="flow-box fb-skill"><span class="icon">📋</span> github-trending</div>
+    <div class="arrow">→</div>
+    <div class="arrow-label">写入<br>采集结果</div>
+    <div class="arrow">→</div>
+    <div class="flow-box fb-data code">knowledge/raw/<br>github-trending-{date}.json</div>
+  </div>
+
+  <!-- Row 4: Skill reads raw -->
+  <div class="flow-row">
+    <div class="flow-box fb-skill"><span class="icon">📋</span> tech-summary</div>
+    <div class="arrow">←</div>
+    <div class="arrow-label">读取<br>采集文件</div>
+    <div class="arrow">←</div>
+    <div class="flow-box fb-data code">knowledge/raw/<br>*-{date}.json</div>
+    <div class="spacer"></div>
+    <div class="arrow-label">tech-summary 的输入<br>= github-trending 的输出</div>
+  </div>
+
+  <!-- Row 5: Skill → analyzed -->
+  <div class="flow-row">
+    <div class="flow-box fb-skill"><span class="icon">📋</span> tech-summary</div>
+    <div class="arrow">→</div>
+    <div class="arrow-label">写入<br>分析结果</div>
+    <div class="arrow">→</div>
+    <div class="flow-box fb-data code">knowledge/raw/<br>tech-summary-{date}.json</div>
+  </div>
+
+  <!-- Row 6: organizer reads + writes -->
+  <div class="flow-row">
+    <div class="flow-box fb-agent"><span class="icon">🤖</span> organizer.md</div>
+    <div class="arrow">→</div>
+    <div class="arrow-label">去重·校验<br>Schema·入库</div>
+    <div class="arrow">→</div>
+    <div class="flow-box fb-data code">knowledge/articles/<br>{YYYYMMDD}-{source}-{slug}.json</div>
+    <div class="spacer"></div>
+    <div class="arrow-label">organizer 是唯一<br>有 Write 权限的 Agent<br>（红线 #1）</div>
+  </div>
+
+  <!-- Row 7: full pipeline -->
+  <div class="flow-row" style="margin-top: 16px; padding-top: 16px; border-top: 1px solid #1e293b;">
+    <div class="flow-box fb-skill" style="font-size:11px;">github-trending</div>
+    <div class="arrow">→</div>
+    <div class="flow-box fb-data code" style="font-size:10px; padding: 6px 10px;">raw/</div>
+    <div class="arrow">→</div>
+    <div class="flow-box fb-skill" style="font-size:11px;">tech-summary</div>
+    <div class="arrow">→</div>
+    <div class="flow-box fb-agent" style="font-size:11px;">organizer</div>
+    <div class="arrow">→</div>
+    <div class="flow-box fb-data code" style="font-size:10px; padding: 6px 10px;">articles/</div>
+    <div class="spacer"></div>
+    <div class="arrow-label">完整管线：<br>采集 → 分析 → 入库</div>
+  </div>
+
+</div>
+
+<!-- ═══ Legend ═══ -->
+<div class="legend">
+  <div class="legend-item"><div class="legend-dot" style="background:#7c3aed;"></div> CLAUDE.md — 全局规范</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#2563eb;"></div> Agents — 角色定义</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#059669;"></div> Skills — 执行手册</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#d97706;"></div> Knowledge — 数据产物</div>
+</div>
+
+<!-- ═══ Key Rules ═══ -->
+<div class="detail-section">
+  <h2>关键约束</h2>
+  <div class="detail-grid">
+    <div class="detail-card">
+      <h4 style="color:#c4b5fd;">🔒 权限隔离</h4>
+      <p><code>collector</code> 和 <code>analyzer</code> <strong>没有 Write 权限</strong>，只能通过返回 JSON 传递数据。<code>organizer</code> 是唯一能写入 <code>knowledge/articles/</code> 的角色（红线 #1）。</p>
+    </div>
+    <div class="detail-card">
+      <h4 style="color:#93c5fd;">🔗 Agent ↔ Skill 分工</h4>
+      <p>Agent 定义<strong>「做什么、输出什么」</strong>（角色职责 + 输出契约）。Skill 定义<strong>「怎么做」</strong>（逐步 SOP）。一个 Agent 可调用多个 Skill，一个 Skill 可被多个 Agent 复用。</p>
+    </div>
+    <div class="detail-card">
+      <h4 style="color:#6ee7b7;">📋 Skill 可独立演进</h4>
+      <p>新增采集源（如 <code>hacker-news</code>）只需添加一个 Skill 文件，collector 的角色定义和输出契约<strong>不需要修改</strong>。tech-summary 可消费任意来源的采集文件。</p>
+    </div>
+    <div class="detail-card">
+      <h4 style="color:#fcd34d;">📊 Knowledge 是最终真相</h4>
+      <p><code>raw/</code> 保存原始采集结果（供审计和重跑）。<code>articles/</code> 保存经分析、去重、Schema 校验后的结构化知识条目。相同 URL 不覆盖，保留历史版本（红线 #6）。</p>
+    </div>
+  </div>
+</div>
+
+</div>
+</body>
+</html>

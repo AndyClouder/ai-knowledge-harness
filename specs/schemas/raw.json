@@ -1,0 +1,65 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "RawArticle",
+  "description": "Collector 产出的原始数据格式，每个文件为一个 JSON 数组",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["title", "url", "source", "popularity", "summary", "language", "author"],
+    "properties": {
+      "title": {
+        "type": "string",
+        "description": "项目/文章标题，格式通常为 owner/repo",
+        "minLength": 1
+      },
+      "url": {
+        "type": "string",
+        "format": "uri",
+        "description": "原文链接"
+      },
+      "source": {
+        "type": "string",
+        "enum": ["github_trending", "hacker_news"],
+        "description": "数据来源"
+      },
+      "popularity": {
+        "type": "object",
+        "required": ["stars", "stars_today", "score", "comments"],
+        "properties": {
+          "stars": {
+            "type": "integer",
+            "minimum": 0,
+            "description": "GitHub Stars 总数（仅 github_trending）"
+          },
+          "stars_today": {
+            "type": "integer",
+            "minimum": 0,
+            "description": "今日新增 Stars（仅 github_trending）"
+          },
+          "score": {
+            "type": ["integer", "null"],
+            "description": "HN 得分（仅 hacker_news）"
+          },
+          "comments": {
+            "type": ["integer", "null"],
+            "description": "HN 评论数（仅 hacker_news）"
+          }
+        }
+      },
+      "summary": {
+        "type": "string",
+        "description": "简要描述（原文提取，非 AI 生成）",
+        "minLength": 1
+      },
+      "language": {
+        "type": ["string", "null"],
+        "description": "编程语言（仅 github_trending）"
+      },
+      "author": {
+        "type": ["string", "null"],
+        "description": "作者或组织名"
+      }
+    },
+    "additionalProperties": false
+  }
+}
