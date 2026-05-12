@@ -23,3 +23,10 @@ venv/
 Thumbs.db
 desktop.ini
 .DS_Store
+
+# 学习笔记
+学习笔记/
+
+# 测试数据
+knowledge/articles/hook-test*.json
+knowledge/quality_reports/
