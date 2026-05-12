@@ -1,0 +1,38 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "if": "Write(*articles*)",
+            "command": "python hooks/validate_json.py"
+          },
+          {
+            "type": "command",
+            "if": "Edit(*articles*)",
+            "command": "python hooks/validate_json.py"
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "if": "Write(*articles*)",
+            "command": "python hooks/check_quality.py"
+          },
+          {
+            "type": "command",
+            "if": "Edit(*articles*)",
+            "command": "python hooks/check_quality.py"
+          }
+        ]
+      }
+    ]
+  }
+}

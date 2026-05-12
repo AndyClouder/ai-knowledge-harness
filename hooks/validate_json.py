@@ -16,7 +16,13 @@ Python 前置检查（摘要长度、标签数量等 Schema 难以表达的规�
 import json
 import re
 import sys
+from datetime import datetime
 from pathlib import Path
+
+if sys.platform == "win32":
+    sys.stdin.reconfigure(encoding="utf-8")
+    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stderr.reconfigure(encoding="utf-8")
 
 # ---------------------------------------------------------------------------
 # Schema 加载
@@ -267,6 +273,54 @@ def validate_file(filepath: Path, schema: dict | None = None) -> tuple[int, int,
 
 
 # ---------------------------------------------------------------------------
+# Hook 模式（从 stdin 读取 Claude Code 传入的文件路径）
+# ---------------------------------------------------------------------------
+
+
+def _log_hook_call(file_paths: list[str]) -> None:
+    """记录 hook 调用到诊断日志。"""
+    ts = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+    fp = file_paths[0] if file_paths else '?'
+    with open('hooks_diag.log', 'a', encoding='utf-8') as f:
+        f.write(f'[{ts}] PreToolUse:validate_json.py | file={fp}\n')
+
+
+def _try_hook_mode() -> list[str] | None:
+    """尝试从 stdin 读取 hook 模式的文件路径。
+
+    Returns:
+        文件路径列表（匹配 knowledge/articles/*.json 时），
+        或 None 表示非 hook 模式（交互式终端）。
+        hook 模式下任何异常均静默 exit(0)，不阻塞写入。
+    """
+    if sys.stdin.isatty():
+        return None
+
+    try:
+        raw = sys.stdin.read()
+    except Exception:
+        sys.exit(0)
+
+    if not raw.strip():
+        sys.exit(0)
+
+    try:
+        data = json.loads(raw)
+    except (json.JSONDecodeError, ValueError):
+        sys.exit(0)
+
+    file_path = data.get("tool_input", {}).get("file_path", "")
+    if not file_path:
+        sys.exit(0)
+
+    norm = file_path.replace("\\", "/")
+    if "knowledge/articles/" not in norm or not norm.endswith(".json"):
+        sys.exit(0)
+
+    return [file_path]
+
+
+# ---------------------------------------------------------------------------
 # CLI 入口
 # ---------------------------------------------------------------------------
 
@@ -291,11 +345,15 @@ def _collect_files(paths: list[str]) -> list[Path]:
 
 
 def main() -> None:
-    if len(sys.argv) < 2:
+    hook_files = _try_hook_mode()
+    if hook_files is not None:
+        _log_hook_call(hook_files)
+        files = [Path(p) for p in hook_files]
+    elif len(sys.argv) >= 2:
+        files = _collect_files(sys.argv[1:])
+    else:
         print("用法: python hooks/validate_json.py <file.json> [file2.json ...]", file=sys.stderr)
         sys.exit(1)
-
-    files = _collect_files(sys.argv[1:])
     if not files:
         print("错误: 未找到匹配的 JSON 文件", file=sys.stderr)
         sys.exit(1)

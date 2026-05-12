@@ -14,6 +14,12 @@ from __future__ import annotations
 
 import json
 import sys
+from datetime import datetime
+
+if sys.platform == "win32":
+    sys.stdin.reconfigure(encoding="utf-8")
+    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stderr.reconfigure(encoding="utf-8")
 from dataclasses import dataclass, field
 from pathlib import Path
 
@@ -42,6 +48,9 @@ BUZZWORDS_EN: tuple[str, ...] = (
 )
 
 ALL_BUZZWORDS: tuple[str, ...] = BUZZWORDS_ZH + BUZZWORDS_EN
+
+# 评分报告输出目录
+QUALITY_REPORT_DIR = Path(__file__).resolve().parent.parent / "knowledge" / "quality_reports"
 
 # 技术关键词（用于摘要质量奖励）
 TECH_KEYWORDS: tuple[str, ...] = (
@@ -157,7 +166,7 @@ def _score_format(item: dict) -> DimensionScore:
         ("source_url", isinstance(item.get("source_url"), str)
          and item.get("source_url", "").startswith(("http://", "https://"))),
         ("status", isinstance(item.get("status"), str) and item.get("status", "") in
-         ("raw", "analyzed", "published")),
+         ("raw", "analyzed", "published", "draft")),
         ("时间戳", isinstance(item.get("collected_at"), str)
          and len(item.get("collected_at", "")) > 0),
     ]
@@ -337,6 +346,54 @@ def score_file(filepath: Path) -> list[QualityReport]:
 
 
 # ---------------------------------------------------------------------------
+# Hook 模式（从 stdin 读取 Claude Code 传入的文件路径）
+# ---------------------------------------------------------------------------
+
+
+def _log_hook_call(file_paths: list[str]) -> None:
+    """记录 hook 调用到诊断日志。"""
+    ts = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+    fp = file_paths[0] if file_paths else '?'
+    with open('hooks_diag.log', 'a', encoding='utf-8') as f:
+        f.write(f'[{ts}] PostToolUse:check_quality.py | file={fp}\n')
+
+
+def _try_hook_mode() -> list[str] | None:
+    """尝试从 stdin 读取 hook 模式的文件路径。
+
+    Returns:
+        文件路径列表（匹配 knowledge/articles/*.json 时），
+        或 None 表示非 hook 模式（交互式终端）。
+        hook 模式下任何异常均静默 exit(0)，不阻塞写入。
+    """
+    if sys.stdin.isatty():
+        return None
+
+    try:
+        raw = sys.stdin.read()
+    except Exception:
+        sys.exit(0)
+
+    if not raw.strip():
+        sys.exit(0)
+
+    try:
+        data = json.loads(raw)
+    except (json.JSONDecodeError, ValueError):
+        sys.exit(0)
+
+    file_path = data.get("tool_input", {}).get("file_path", "")
+    if not file_path:
+        sys.exit(0)
+
+    norm = file_path.replace("\\", "/")
+    if "knowledge/articles/" not in norm or not norm.endswith(".json"):
+        sys.exit(0)
+
+    return [file_path]
+
+
+# ---------------------------------------------------------------------------
 # CLI 入口
 # ---------------------------------------------------------------------------
 
@@ -359,12 +416,63 @@ def _collect_files(paths: list[str]) -> list[Path]:
     return files
 
 
+# ---------------------------------------------------------------------------
+# Markdown 报告生成
+# ---------------------------------------------------------------------------
+
+
+def _save_md_report(reports: list[QualityReport]) -> None:
+    """将评分结果保存为 Markdown 文件到 knowledge/quality_reports/。"""
+    QUALITY_REPORT_DIR.mkdir(parents=True, exist_ok=True)
+    timestamp = datetime.now().strftime("%Y%m%d-%H%M%S")
+    md_path = QUALITY_REPORT_DIR / f"quality-{timestamp}.md"
+
+    grade_badge = {"A": "🟢", "B": "🟡", "C": "🔴"}
+    total = len(reports)
+    grade_a = sum(1 for r in reports if r.grade == "A")
+    grade_b = sum(1 for r in reports if r.grade == "B")
+    grade_c = sum(1 for r in reports if r.grade == "C")
+    avg_score = round(sum(r.total for r in reports) / total) if total else 0
+
+    lines: list[str] = [
+        f"# 知识条目质量评分报告",
+        f"",
+        f"> 生成时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}  |  "
+        f"共 {total} 条  |  A={grade_a} B={grade_b} C={grade_c}  |  平均分={avg_score}",
+        f"",
+        f"---",
+        f"",
+    ]
+
+    for report in reports:
+        badge = grade_badge.get(report.grade, "⚪")
+        lines.append(f"## {badge} {report.title}")
+        lines.append(f"- **文件**: `{report.file_path}`")
+        lines.append(f"- **总分**: {report.total}/100  |  **等级**: {report.grade}")
+        lines.append("")
+        lines.append("| 维度 | 得分 | 满分 | 详情 |")
+        lines.append("|------|------|------|------|")
+        for dim in report.dimensions:
+            lines.append(f"| {dim.name} | {dim.score} | {dim.max} | {dim.details} |")
+        lines.append("")
+
+    lines.append("---")
+    lines.append(f"**汇总**: {total} 条 | A={grade_a} B={grade_b} C={grade_c} | 平均分={avg_score}")
+
+    md_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    print(f"报告已保存: {md_path}", file=sys.stderr)
+
+
 def main() -> None:
-    if len(sys.argv) < 2:
+    hook_files = _try_hook_mode()
+    if hook_files is not None:
+        _log_hook_call(hook_files)
+        files = [Path(p) for p in hook_files]
+    elif len(sys.argv) >= 2:
+        files = _collect_files(sys.argv[1:])
+    else:
         print("用法: python hooks/check_quality.py <file.json> [file2.json ...]", file=sys.stderr)
         sys.exit(1)
-
-    files = _collect_files(sys.argv[1:])
     if not files:
         print("错误: 未找到匹配的 JSON 文件", file=sys.stderr)
         sys.exit(1)
@@ -390,6 +498,15 @@ def main() -> None:
     print(f"{'═' * 60}")
     print(f"  汇总: {total} 条 | A={grade_a} B={grade_b} C={grade_c} | 平均分={avg_score}")
     print(f"{'═' * 60}")
+
+    # 保存 Markdown 报告
+    _save_md_report(all_reports)
+
+    # Hook 模式下仅输出评分警告，不阻塞写入
+    if hook_files is not None:
+        if grade_c > 0:
+            print(f"⚠ 质量评分警告: {grade_c} 条 C 级条目，建议后续优化", file=sys.stderr)
+        sys.exit(0)
 
     sys.exit(1 if grade_c > 0 else 0)
 
