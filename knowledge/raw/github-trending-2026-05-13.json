@@ -1,7 +1,7 @@
 {
   "source": "github-trending",
   "skill": "github-trending",
-  "collected_at": "2026-05-13T02:31:34.763586+00:00",
+  "collected_at": "2026-05-13T03:11:42.629300+00:00",
   "items": [
     {
       "name": "V4bel/dirtyfrag",
@@ -72,6 +72,216 @@
         "qwen",
         "speed-of-light",
         "tokenspeed"
+      ]
+    },
+    {
+      "name": "haydenbleasel/files-sdk",
+      "url": "https://github.com/haydenbleasel/files-sdk",
+      "summary": "A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O.",
+      "stars": 571,
+      "language": "TypeScript",
+      "topics": [
+        "agents",
+        "blob",
+        "cloudflare",
+        "files",
+        "google",
+        "minio",
+        "r2",
+        "s3",
+        "storage",
+        "vercel"
+      ]
+    },
+    {
+      "name": "thakur-works/DarkGPT",
+      "url": "https://github.com/thakur-works/DarkGPT",
+      "summary": "Darkgpt mod free #chatgpt",
+      "stars": 532,
+      "language": null,
+      "topics": [
+        "chatgpt-bypass",
+        "chatgpt5",
+        "darkgpt"
+      ]
+    },
+    {
+      "name": "thakur-works/Velocity-Executor",
+      "url": "https://github.com/thakur-works/Velocity-Executor",
+      "summary": "This repository contains Velocity Executor — a free Roblox script executor for PC built for fast injection, stable performance, and easy access. Includes Level 8 execution in 2026 with no ads, no key ",
+      "stars": 528,
+      "language": null,
+      "topics": [
+        "roblox",
+        "velocity",
+        "velocity-roblox"
+      ]
+    },
+    {
+      "name": "RadianceToadAmend/Fortnite-Cheats-2026",
+      "url": "https://github.com/RadianceToadAmend/Fortnite-Cheats-2026",
+      "summary": "⭐️ Fortnite Cheats 2026 | Aimbot ESP WH | Triggerbot NoRecoil Glow | Skin Changer | AntiAFK Auto Farm Heal | Mod Menu Loader Injector | Full Version Latest Build Pro | PC Epic Windows 10/11 ⭐️",
+      "stars": 521,
+      "language": null,
+      "topics": [
+        "1hack",
+        "aimassist",
+        "fortnite",
+        "fov-changer",
+        "gamehacks",
+        "ogfn",
+        "prefire-macros"
+      ]
+    },
+    {
+      "name": "RadianceToadAmend/ARC-Raiders-External-Tool",
+      "url": "https://github.com/RadianceToadAmend/ARC-Raiders-External-Tool",
+      "summary": "External overlay tool for ARC Raiders. UE5 memory reader, entity , radar, performance monitor. D3D11 render, no injection. For offline training purposes only.",
+      "stars": 521,
+      "language": "C++",
+      "topics": [
+        "arc",
+        "arc-raiders",
+        "d3d11",
+        "external",
+        "game-tool",
+        "imgui",
+        "memory-reader",
+        "mit-license",
+        "overlay",
+        "ue5",
+        "windows"
+      ]
+    },
+    {
+      "name": "RadianceToadAmend/cs2-overlay-utility",
+      "url": "https://github.com/RadianceToadAmend/cs2-overlay-utility",
+      "summary": "CS2 external overlay tool — memory reader, entity ESP, and visual aids. D3D11 render, no injection. For educational purposes.",
+      "stars": 499,
+      "language": "C++",
+      "topics": [
+        "cs-2-bypass",
+        "cs2",
+        "csgo",
+        "d3d11",
+        "game-tool",
+        "imgui",
+        "memory-reader",
+        "open-source",
+        "overlay",
+        "source2"
+      ]
+    },
+    {
+      "name": "alchaincyf/huashu-md-html",
+      "url": "https://github.com/alchaincyf/huashu-md-html",
+      "summary": "md/html 双向流水线 · 三个能力一站式：万物→md / md→精美html / html→md。封装 markitdown + Pandoc + html-to-markdown + trafilatura。4 套反 AI slop 主题。Claude Code skill.",
+      "stars": 486,
+      "language": "CSS",
+      "topics": []
+    },
+    {
+      "name": "PentHertz/LUKSbox",
+      "url": "https://github.com/PentHertz/LUKSbox",
+      "summary": "Store sensitive files in the cloud, or on shared media without trusting the host. LUKSbox is a Rust-based encrypted-container tool with passphrase, FIDO2 (YubiKey, Titan, Nitrokey, Windows Hello), TPM",
+      "stars": 462,
+      "language": "Rust",
+      "topics": [
+        "encryption",
+        "file",
+        "secure",
+        "sensitive-data",
+        "vault"
+      ]
+    },
+    {
+      "name": "darkrishabh/agent-skills-eval",
+      "url": "https://github.com/darkrishabh/agent-skills-eval",
+      "summary": "A test runner for agentskills.io-style AI agent skills",
+      "stars": 460,
+      "language": "TypeScript",
+      "topics": [
+        "agent-evals",
+        "agent-skills",
+        "agentskills",
+        "ai-agents",
+        "cli",
+        "jsonl",
+        "llm-evals",
+        "llm-evaluation",
+        "openai-compatible",
+        "typescript",
+        "yaml"
+      ]
+    },
+    {
+      "name": "nickvasilescu/hermes-desktop-os1",
+      "url": "https://github.com/nickvasilescu/hermes-desktop-os1",
+      "summary": "Hermes Desktop - OS1 Edition: native macOS workspace for Hermes Agent on Orgo cloud computers and SSH hosts",
+      "stars": 391,
+      "language": "Swift",
+      "topics": []
+    },
+    {
+      "name": "iampedii/WhiteDNS",
+      "url": "https://github.com/iampedii/WhiteDNS",
+      "summary": "Source-available Android DNS tunneling client with VPN and proxy modes, backed by MasterDNS & StormDNS.",
+      "stars": 362,
+      "language": "Kotlin",
+      "topics": [
+        "vpn",
+        "vpn-client"
+      ]
+    },
+    {
+      "name": "ChristianJR19/Goblin-Agent",
+      "url": "https://github.com/ChristianJR19/Goblin-Agent",
+      "summary": "",
+      "stars": 352,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "TrueGunsmithFence/Hentaihunter",
+      "url": "https://github.com/TrueGunsmithFence/Hentaihunter",
+      "summary": "Hentaihunter - How to steal your Doujinshi easily",
+      "stars": 345,
+      "language": "Python",
+      "topics": [
+        "doujinshi",
+        "hentai2read",
+        "hentaifox",
+        "hitomi",
+        "lewd",
+        "nhentai",
+        "nsfw",
+        "pururin"
+      ]
+    },
+    {
+      "name": "iam567/LifeManga",
+      "url": "https://github.com/iam567/LifeManga",
+      "summary": "ios swift swiftui openai gpt-image manga ai-art",
+      "stars": 326,
+      "language": "Swift",
+      "topics": []
+    },
+    {
+      "name": "TQ-trade-agent/tq-trading-agent",
+      "url": "https://github.com/TQ-trade-agent/tq-trading-agent",
+      "summary": "🌮 Traidng agent, AI-powered multi-agent stock research & trading strategy orchestration, trading agent - TypeScript, LangGraph, OpenAI-compatible APIs",
+      "stars": 316,
+      "language": "Vue",
+      "topics": [
+        "algorithmic-trading",
+        "financial-analysis",
+        "langchain",
+        "langgraph",
+        "openai",
+        "stock-research",
+        "trading-agent",
+        "trading-bot",
+        "typescript"
       ]
     }
   ]
