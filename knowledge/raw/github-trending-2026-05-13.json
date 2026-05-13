@@ -1,7 +1,7 @@
 {
   "source": "github-trending",
   "skill": "github-trending",
-  "collected_at": "2026-05-13T03:11:42.629300+00:00",
+  "collected_at": "2026-05-13T08:15:13.026080+00:00",
   "items": [
     {
       "name": "V4bel/dirtyfrag",
@@ -283,6 +283,22 @@
         "trading-bot",
         "typescript"
       ]
+    },
+    {
+      "name": "HermannBjorgvin/Clawdmeter",
+      "url": "https://github.com/HermannBjorgvin/Clawdmeter",
+      "summary": "ESP32 desk dashboard that shows Claude Code usage",
+      "stars": 364,
+      "language": "C",
+      "topics": []
+    },
+    {
+      "name": "simonlin1212/a-stock-data",
+      "url": "https://github.com/simonlin1212/a-stock-data",
+      "summary": "A 股全栈数据工具包 — 6层架构 · 15个端点 · 7个数据源 | AI Skill for China A-Share Market Data",
+      "stars": 357,
+      "language": null,
+      "topics": []
     }
   ]
 }
