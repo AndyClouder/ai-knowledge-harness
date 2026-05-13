@@ -20,6 +20,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
@@ -77,4 +79,4 @@ jobs:
           TODAY=$(date -u +%Y-%m-%d)
 
           git commit -m "feat: 采集 ${TODAY} AI 动态，新增 ${NEW_COUNT} 篇，共变更 ${CHANGED_COUNT} 篇文章"
-          git push
+          git push origin HEAD:master
