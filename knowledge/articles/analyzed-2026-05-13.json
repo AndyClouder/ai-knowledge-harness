@@ -1,0 +1,422 @@
+[
+  {
+    "id": "afa874c5-68e4-4c02-8172-b7653f2a02a3",
+    "title": "V4bel/dirtyfrag",
+    "source_url": "https://github.com/V4bel/dirtyfrag",
+    "source": "unknown",
+    "collected_at": "2026-05-13T05:46:08.342576+00:00",
+    "analyzed_at": "2026-05-13T05:46:08.342576+00:00",
+    "summary": "",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 4333,
+      "score": null,
+      "author": null,
+      "language": "C"
+    }
+  },
+  {
+    "id": "a37792db-aacb-4177-b0ad-f0dab61565a1",
+    "title": "strukto-ai/mirage",
+    "source_url": "https://github.com/strukto-ai/mirage",
+    "source": "unknown",
+    "collected_at": "2026-05-13T05:46:31.442566+00:00",
+    "analyzed_at": "2026-05-13T05:46:31.442566+00:00",
+    "summary": "A Unified Virtual Filesystem For AI Agents",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 2069,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "9e624bd5-1ecc-4140-bdab-379e7f481c05",
+    "title": "yaojingang/yao-open-prompts",
+    "source_url": "https://github.com/yaojingang/yao-open-prompts",
+    "source": "unknown",
+    "collected_at": "2026-05-13T05:46:48.120565+00:00",
+    "analyzed_at": "2026-05-13T05:46:48.120565+00:00",
+    "summary": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1847,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "0f339efd-7350-45f3-bccb-df298b753c49",
+    "title": "huangserva/3DCellForge",
+    "source_url": "https://github.com/huangserva/3DCellForge",
+    "source": "unknown",
+    "collected_at": "2026-05-13T05:47:09.690664+00:00",
+    "analyzed_at": "2026-05-13T05:47:09.690664+00:00",
+    "summary": "AI-powered interactive 3D cell generation and exploration studio.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1713,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "5fcc8576-8cd6-4659-acae-1bf4fde26b3e",
+    "title": "lightseekorg/tokenspeed",
+    "source_url": "https://github.com/lightseekorg/tokenspeed",
+    "source": "unknown",
+    "collected_at": "2026-05-13T05:47:32.354711+00:00",
+    "analyzed_at": "2026-05-13T05:47:32.354711+00:00",
+    "summary": "TokenSpeed is a speed-of-light LLM inference engine.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 976,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "a3c63a07-849c-4882-8162-84516b42f820",
+    "title": "haydenbleasel/files-sdk",
+    "source_url": "https://github.com/haydenbleasel/files-sdk",
+    "source": "unknown",
+    "collected_at": "2026-05-13T05:47:53.947211+00:00",
+    "analyzed_at": "2026-05-13T05:47:53.947211+00:00",
+    "summary": "A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 571,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "19a688b1-2578-4da7-b062-97684f9dda4c",
+    "title": "thakur-works/DarkGPT",
+    "source_url": "https://github.com/thakur-works/DarkGPT",
+    "source": "unknown",
+    "collected_at": "2026-05-13T05:48:15.527308+00:00",
+    "analyzed_at": "2026-05-13T05:48:15.527308+00:00",
+    "summary": "Darkgpt mod free #chatgpt",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 532,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "4c404d7f-1732-451a-8668-eb1616ce4d83",
+    "title": "thakur-works/Velocity-Executor",
+    "source_url": "https://github.com/thakur-works/Velocity-Executor",
+    "source": "unknown",
+    "collected_at": "2026-05-13T05:48:35.606777+00:00",
+    "analyzed_at": "2026-05-13T05:48:35.606777+00:00",
+    "summary": "This repository contains Velocity Executor — a free Roblox script executor for PC built for fast injection, stable performance, and easy access. Includes Level 8 execution in 2026 with no ads, no key ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 528,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "50f24a90-6458-4a36-907d-e106bedf0c91",
+    "title": "RadianceToadAmend/Fortnite-Cheats-2026",
+    "source_url": "https://github.com/RadianceToadAmend/Fortnite-Cheats-2026",
+    "source": "unknown",
+    "collected_at": "2026-05-13T05:49:02.610955+00:00",
+    "analyzed_at": "2026-05-13T05:49:02.610955+00:00",
+    "summary": "⭐️ Fortnite Cheats 2026 | Aimbot ESP WH | Triggerbot NoRecoil Glow | Skin Changer | AntiAFK Auto Farm Heal | Mod Menu Loader Injector | Full Version Latest Build Pro | PC Epic Windows 10/11 ⭐️",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 521,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "763eea54-bdc3-4875-a5ab-1a9a3ce1b448",
+    "title": "RadianceToadAmend/ARC-Raiders-External-Tool",
+    "source_url": "https://github.com/RadianceToadAmend/ARC-Raiders-External-Tool",
+    "source": "unknown",
+    "collected_at": "2026-05-13T05:49:24.334224+00:00",
+    "analyzed_at": "2026-05-13T05:49:24.334224+00:00",
+    "summary": "External overlay tool for ARC Raiders. UE5 memory reader, entity , radar, performance monitor. D3D11 render, no injection. For offline training purposes only.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 521,
+      "score": null,
+      "author": null,
+      "language": "C++"
+    }
+  },
+  {
+    "id": "a630c268-2b4b-4cde-ba52-c7704096e234",
+    "title": "RadianceToadAmend/cs2-overlay-utility",
+    "source_url": "https://github.com/RadianceToadAmend/cs2-overlay-utility",
+    "source": "unknown",
+    "collected_at": "2026-05-13T05:49:49.110110+00:00",
+    "analyzed_at": "2026-05-13T05:49:49.110110+00:00",
+    "summary": "CS2 external overlay tool — memory reader, entity ESP, and visual aids. D3D11 render, no injection. For educational purposes.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 499,
+      "score": null,
+      "author": null,
+      "language": "C++"
+    }
+  },
+  {
+    "id": "669ea676-d88b-4f23-a0fd-a4acbc9dcc6b",
+    "title": "alchaincyf/huashu-md-html",
+    "source_url": "https://github.com/alchaincyf/huashu-md-html",
+    "source": "unknown",
+    "collected_at": "2026-05-13T05:50:18.363088+00:00",
+    "analyzed_at": "2026-05-13T05:50:18.363088+00:00",
+    "summary": "md/html 双向流水线 · 三个能力一站式：万物→md / md→精美html / html→md。封装 markitdown + Pandoc + html-to-markdown + trafilatura。4 套反 AI slop 主题。Claude Code skill.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 486,
+      "score": null,
+      "author": null,
+      "language": "CSS"
+    }
+  },
+  {
+    "id": "a29bb28a-271c-406b-b0b9-ab0a7d0e9878",
+    "title": "PentHertz/LUKSbox",
+    "source_url": "https://github.com/PentHertz/LUKSbox",
+    "source": "unknown",
+    "collected_at": "2026-05-13T05:50:40.321163+00:00",
+    "analyzed_at": "2026-05-13T05:50:40.321163+00:00",
+    "summary": "Store sensitive files in the cloud, or on shared media without trusting the host. LUKSbox is a Rust-based encrypted-container tool with passphrase, FIDO2 (YubiKey, Titan, Nitrokey, Windows Hello), TPM",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 462,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "86084807-4baf-4494-8a59-43889a285cbf",
+    "title": "darkrishabh/agent-skills-eval",
+    "source_url": "https://github.com/darkrishabh/agent-skills-eval",
+    "source": "unknown",
+    "collected_at": "2026-05-13T05:51:45.734149+00:00",
+    "analyzed_at": "2026-05-13T05:51:45.734149+00:00",
+    "summary": "A test runner for agentskills.io-style AI agent skills",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 460,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "fdd19e7c-7e58-41bd-af18-8a272f27e053",
+    "title": "nickvasilescu/hermes-desktop-os1",
+    "source_url": "https://github.com/nickvasilescu/hermes-desktop-os1",
+    "source": "unknown",
+    "collected_at": "2026-05-13T05:52:09.077003+00:00",
+    "analyzed_at": "2026-05-13T05:52:09.077003+00:00",
+    "summary": "Hermes Desktop - OS1 Edition: native macOS workspace for Hermes Agent on Orgo cloud computers and SSH hosts",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 391,
+      "score": null,
+      "author": null,
+      "language": "Swift"
+    }
+  },
+  {
+    "id": "9906f0b2-5e7e-45e0-92c7-e74b307babb2",
+    "title": "iampedii/WhiteDNS",
+    "source_url": "https://github.com/iampedii/WhiteDNS",
+    "source": "unknown",
+    "collected_at": "2026-05-13T05:52:36.162939+00:00",
+    "analyzed_at": "2026-05-13T05:52:36.162939+00:00",
+    "summary": "Source-available Android DNS tunneling client with VPN and proxy modes, backed by MasterDNS & StormDNS.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 362,
+      "score": null,
+      "author": null,
+      "language": "Kotlin"
+    }
+  },
+  {
+    "id": "4a2b1195-0f7c-4b42-87d7-7a04d2baad50",
+    "title": "ChristianJR19/Goblin-Agent",
+    "source_url": "https://github.com/ChristianJR19/Goblin-Agent",
+    "source": "unknown",
+    "collected_at": "2026-05-13T05:52:59.002805+00:00",
+    "analyzed_at": "2026-05-13T05:52:59.002805+00:00",
+    "summary": "",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 352,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "2b742a96-37a2-41da-8371-85a48cdfd5ae",
+    "title": "TrueGunsmithFence/Hentaihunter",
+    "source_url": "https://github.com/TrueGunsmithFence/Hentaihunter",
+    "source": "unknown",
+    "collected_at": "2026-05-13T05:53:27.354354+00:00",
+    "analyzed_at": "2026-05-13T05:53:27.354354+00:00",
+    "summary": "Hentaihunter - How to steal your Doujinshi easily",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 345,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "f00500d5-9ac7-418c-a244-8883f769fff8",
+    "title": "iam567/LifeManga",
+    "source_url": "https://github.com/iam567/LifeManga",
+    "source": "unknown",
+    "collected_at": "2026-05-13T05:53:46.607520+00:00",
+    "analyzed_at": "2026-05-13T05:53:46.607520+00:00",
+    "summary": "ios swift swiftui openai gpt-image manga ai-art",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 326,
+      "score": null,
+      "author": null,
+      "language": "Swift"
+    }
+  },
+  {
+    "id": "ff10f45b-b85d-458a-a638-3bcaacca7073",
+    "title": "TQ-trade-agent/tq-trading-agent",
+    "source_url": "https://github.com/TQ-trade-agent/tq-trading-agent",
+    "source": "unknown",
+    "collected_at": "2026-05-13T05:54:07.981562+00:00",
+    "analyzed_at": "2026-05-13T05:54:07.981562+00:00",
+    "summary": "🌮 Traidng agent, AI-powered multi-agent stock research & trading strategy orchestration, trading agent - TypeScript, LangGraph, OpenAI-compatible APIs",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 316,
+      "score": null,
+      "author": null,
+      "language": "Vue"
+    }
+  }
+]
