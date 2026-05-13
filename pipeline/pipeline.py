@@ -17,6 +17,9 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
 
+# 确保 pipeline/ 目录在 sys.path 中，以便 import analyzer
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
 import feedparser
 import requests
 
@@ -360,7 +363,7 @@ def main() -> None:
     # ── 仅分析模式 ──
     if args.analyze_only:
         logger.info("仅分析模式: 跳过采集")
-        from pipeline.analyzer import run_analysis, save_articles
+        from analyzer import run_analysis, save_articles
 
         articles = run_analysis(limit=args.limit)
         if articles:
@@ -399,7 +402,7 @@ def main() -> None:
     # ── 分析步骤 ──
     if total_collected > 0:
         logger.info("启动 LLM 分析步骤")
-        from pipeline.analyzer import run_analysis, save_articles
+        from analyzer import run_analysis, save_articles
 
         articles = run_analysis(limit=args.limit)
         if articles:
