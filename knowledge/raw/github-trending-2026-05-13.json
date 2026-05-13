@@ -1,0 +1,78 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-05-13T02:31:34.763586+00:00",
+  "items": [
+    {
+      "name": "V4bel/dirtyfrag",
+      "url": "https://github.com/V4bel/dirtyfrag",
+      "summary": "",
+      "stars": 4333,
+      "language": "C",
+      "topics": []
+    },
+    {
+      "name": "strukto-ai/mirage",
+      "url": "https://github.com/strukto-ai/mirage",
+      "summary": "A Unified Virtual Filesystem For AI Agents",
+      "stars": 2069,
+      "language": "TypeScript",
+      "topics": [
+        "agent-sandbox",
+        "agent-tools",
+        "ai-agents",
+        "bash",
+        "claude-code",
+        "fuse",
+        "langchain",
+        "llm-agents",
+        "openai-agents",
+        "python",
+        "typescript",
+        "vfs",
+        "virtual-filesystem"
+      ]
+    },
+    {
+      "name": "yaojingang/yao-open-prompts",
+      "url": "https://github.com/yaojingang/yao-open-prompts",
+      "summary": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
+      "stars": 1847,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "chinese-prompts",
+        "geo",
+        "prompt-engineering",
+        "prompts"
+      ]
+    },
+    {
+      "name": "huangserva/3DCellForge",
+      "url": "https://github.com/huangserva/3DCellForge",
+      "summary": "AI-powered interactive 3D cell generation and exploration studio.",
+      "stars": 1713,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "name": "lightseekorg/tokenspeed",
+      "url": "https://github.com/lightseekorg/tokenspeed",
+      "summary": "TokenSpeed is a speed-of-light LLM inference engine.",
+      "stars": 976,
+      "language": "Python",
+      "topics": [
+        "blackwell",
+        "deepseek",
+        "gpt-oss",
+        "kimi",
+        "lightseek",
+        "llm",
+        "minimax",
+        "qwen",
+        "speed-of-light",
+        "tokenspeed"
+      ]
+    }
+  ]
+}
