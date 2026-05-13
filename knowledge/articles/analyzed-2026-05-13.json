@@ -418,5 +418,425 @@
       "author": null,
       "language": "Vue"
     }
+  },
+  {
+    "id": "f4d47f44-ed16-49c9-94c9-8752f894a5be",
+    "title": "Self-hosted AI memory with web dashboard – Cloudflare Workers, D1, Vectorize",
+    "source_url": "https://github.com/rahilp/second-brain-cloudflare",
+    "source": "hacker_news",
+    "collected_at": "2026-05-13T07:40:47.130131+00:00",
+    "analyzed_at": "2026-05-13T07:40:47.130131+00:00",
+    "summary": "Article URL: https://github.com/rahilp/second-brain-cloudflare\nComments URL: https://news.ycombinator.com/item?id=48117112\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rahilpirani",
+      "language": null
+    }
+  },
+  {
+    "id": "2e901314-e049-4aeb-a881-548ef67d5c37",
+    "title": "Show HN: I spent $100 in Claude tokens and 1k battles training my AI tank",
+    "source_url": "https://agentank.ai/history/mat_8v9fSEZE8295dcZ8U",
+    "source": "hacker_news",
+    "collected_at": "2026-05-13T07:41:07.993382+00:00",
+    "analyzed_at": "2026-05-13T07:41:07.993382+00:00",
+    "summary": "Hi HN, I built AgenTank.It is a small game where an AI agent writes the logic for your tank. You watch it fight, give strategic feedback, let the agent update the tank code, and send it back into batt",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mazzystar",
+      "language": null
+    }
+  },
+  {
+    "id": "590f4f10-860a-46ef-a7ee-38edeac50a56",
+    "title": "Revisiting \"No Silver Bullets\" in the Age of AI",
+    "source_url": "https://newsletter.pragmaticengineer.com/p/revisiting-no-silver-bullets-in-the",
+    "source": "hacker_news",
+    "collected_at": "2026-05-13T07:41:30.515718+00:00",
+    "analyzed_at": "2026-05-13T07:41:30.515718+00:00",
+    "summary": "Article URL: https://newsletter.pragmaticengineer.com/p/revisiting-no-silver-bullets-in-the\nComments URL: https://news.ycombinator.com/item?id=48116862\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "perpetua",
+      "language": null
+    }
+  },
+  {
+    "id": "dd063f3f-c885-40af-a7e0-ee53280eec35",
+    "title": "Ask HN: Is your kids Alexa now have conversational AI?",
+    "source_url": "https://news.ycombinator.com/item?id=48116806",
+    "source": "hacker_news",
+    "collected_at": "2026-05-13T07:41:55.836413+00:00",
+    "analyzed_at": "2026-05-13T07:41:55.836413+00:00",
+    "summary": "I had a very locked down kids Alexa for my daughter that could just play music and stories and was age restricted. Today though its now a conversational AI and my daughter is talking to it like a huma",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "stevenhubertron",
+      "language": null
+    }
+  },
+  {
+    "id": "e7d281dd-5562-4b34-b432-b88d8f574f5d",
+    "title": "AI agents can self-replicate. Who is building for the human side?",
+    "source_url": "https://hugonomy.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-05-13T07:42:26.693240+00:00",
+    "analyzed_at": "2026-05-13T07:42:26.693240+00:00",
+    "summary": "Article URL: https://hugonomy.com/\nComments URL: https://news.ycombinator.com/item?id=48116782\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "GlyphWeaver_a",
+      "language": null
+    }
+  },
+  {
+    "id": "dda54f22-304b-4449-9332-b96c8e0b7b60",
+    "title": "How AI Killed a 133-Year-Old Princeton Tradition",
+    "source_url": "https://www.theatlantic.com/ideas/2026/05/princeton-ai-honor-code/687144/",
+    "source": "hacker_news",
+    "collected_at": "2026-05-13T07:42:48.174921+00:00",
+    "analyzed_at": "2026-05-13T07:42:48.174921+00:00",
+    "summary": "Article URL: https://www.theatlantic.com/ideas/2026/05/princeton-ai-honor-code/687144/\nComments URL: https://news.ycombinator.com/item?id=48116752\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "KnuthIsGod",
+      "language": null
+    }
+  },
+  {
+    "id": "17da5d68-c261-45ed-a9bf-97d47f37432f",
+    "title": "The New York Times Got Caught Using AI Hallucinations in Its Reporting",
+    "source_url": "https://thewalrus.ca/the-new-york-times-got-caught-using-ai-hallucinations-in-its-reporting/",
+    "source": "hacker_news",
+    "collected_at": "2026-05-13T07:43:13.494022+00:00",
+    "analyzed_at": "2026-05-13T07:43:13.494022+00:00",
+    "summary": "Article URL: https://thewalrus.ca/the-new-york-times-got-caught-using-ai-hallucinations-in-its-reporting/\nComments URL: https://news.ycombinator.com/item?id=48116740\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ireflect",
+      "language": null
+    }
+  },
+  {
+    "id": "54e88c98-c312-44f3-a894-d73028ab905e",
+    "title": "AI shouldn't have a meter. Unlimited tokens. Forever",
+    "source_url": "https://www.openmonoagent.ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-05-13T07:43:40.953229+00:00",
+    "analyzed_at": "2026-05-13T07:43:40.953229+00:00",
+    "summary": "Article URL: https://www.openmonoagent.ai/\nComments URL: https://news.ycombinator.com/item?id=48116604\nPoints: 15\n# Comments: 6",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "startuphakk",
+      "language": null
+    }
+  },
+  {
+    "id": "b948f714-9d1e-4859-9f21-c24aaf5acf6b",
+    "title": "Show HN: Chrome extension that blocks API keys from being pasted into AI tools",
+    "source_url": "https://vaultbix.com",
+    "source": "hacker_news",
+    "collected_at": "2026-05-13T07:44:05.352218+00:00",
+    "analyzed_at": "2026-05-13T07:44:05.352218+00:00",
+    "summary": "Article URL: https://vaultbix.com\nComments URL: https://news.ycombinator.com/item?id=48116429\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "shiqingao",
+      "language": null
+    }
+  },
+  {
+    "id": "fe1c6ade-b3b2-4e0e-95f5-c0de53fae68e",
+    "title": "Zoom info charges 15k a year for business leads. I built an alternative using AI",
+    "source_url": "https://dayonelead.com",
+    "source": "hacker_news",
+    "collected_at": "2026-05-13T07:44:34.407925+00:00",
+    "analyzed_at": "2026-05-13T07:44:34.407925+00:00",
+    "summary": "Article URL: https://dayonelead.com\nComments URL: https://news.ycombinator.com/item?id=48116100\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "monkeeguy",
+      "language": null
+    }
+  },
+  {
+    "id": "361c1778-f0ed-4150-97e1-260098b70672",
+    "title": "AI load breaks GitHub – why not other vendors?",
+    "source_url": "https://blog.pragmaticengineer.com/the-pulse-ai-load-breaks-github/",
+    "source": "hacker_news",
+    "collected_at": "2026-05-13T07:45:03.198606+00:00",
+    "analyzed_at": "2026-05-13T07:45:03.198606+00:00",
+    "summary": "Article URL: https://blog.pragmaticengineer.com/the-pulse-ai-load-breaks-github/\nComments URL: https://news.ycombinator.com/item?id=48115918\nPoints: 6\n# Comments: 3",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "esafak",
+      "language": null
+    }
+  },
+  {
+    "id": "27efc3e5-1391-4e84-8024-2fc729774f5e",
+    "title": "In the Vacuum of AI Legislation, Libraries Have the Playbook",
+    "source_url": "https://www.techdirt.com/2026/05/11/in-the-vacuum-of-ai-legislation-libraries-have-the-playbook/",
+    "source": "hacker_news",
+    "collected_at": "2026-05-13T07:45:30.950378+00:00",
+    "analyzed_at": "2026-05-13T07:45:30.950378+00:00",
+    "summary": "Article URL: https://www.techdirt.com/2026/05/11/in-the-vacuum-of-ai-legislation-libraries-have-the-playbook/\nComments URL: https://news.ycombinator.com/item?id=48115828\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "hn_acker",
+      "language": null
+    }
+  },
+  {
+    "id": "3f750cc4-09c1-4971-841b-895b688d2dc5",
+    "title": "The newest AI boom pitch: Host a mini data center at your home",
+    "source_url": "https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/",
+    "source": "hacker_news",
+    "collected_at": "2026-05-13T07:45:55.444837+00:00",
+    "analyzed_at": "2026-05-13T07:45:55.444837+00:00",
+    "summary": "Article URL: https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/\nComments URL: https://news.ycombinator.com/item?id=48115754\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Bender",
+      "language": null
+    }
+  },
+  {
+    "id": "67a2b71b-c77d-4100-aa09-d6c75a849d8d",
+    "title": "Show HN: Clodcapture – save and resume Claude.ai chats across sessions",
+    "source_url": "https://chromewebstore.google.com/detail/clodcapture/mhapejnhlmepeinjmlppoopcoicmgojb",
+    "source": "hacker_news",
+    "collected_at": "2026-05-13T07:46:18.920665+00:00",
+    "analyzed_at": "2026-05-13T07:46:18.920665+00:00",
+    "summary": "Chrome extension that captures Claude.ai conversation state and lets you reload it into a new chat. All local, no account, free. Solves the \"I lost my whole debugging session\" problem.\n\nComments URL: ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "leo_agent",
+      "language": null
+    }
+  },
+  {
+    "id": "cef21f1a-b753-4dc9-8948-81ad9d6f5fae",
+    "title": "Anything that is underneath the cursor gets fed into Google's surveillance AI",
+    "source_url": "https://mastodon.social/@mcc/116563821063587689",
+    "source": "hacker_news",
+    "collected_at": "2026-05-13T07:46:49.309895+00:00",
+    "analyzed_at": "2026-05-13T07:46:49.309895+00:00",
+    "summary": "Article URL: https://mastodon.social/@mcc/116563821063587689\nComments URL: https://news.ycombinator.com/item?id=48115669\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "doener",
+      "language": null
+    }
+  },
+  {
+    "id": "9bfa9b5d-ae75-4fc9-aea4-6eedfa170887",
+    "title": "How AI Is Making Us All Dumber [video]",
+    "source_url": "https://www.youtube.com/watch?v=eSABedBwZjQ",
+    "source": "hacker_news",
+    "collected_at": "2026-05-13T07:47:20.451617+00:00",
+    "analyzed_at": "2026-05-13T07:47:20.451617+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=eSABedBwZjQ\nComments URL: https://news.ycombinator.com/item?id=48115456\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mooreds",
+      "language": null
+    }
+  },
+  {
+    "id": "0e6b7168-79bb-4582-a20c-eb7af6ecd0fe",
+    "title": "Apple will soon start using AI-generated presenters on its Sales Coach app",
+    "source_url": "https://9to5mac.com/2026/05/12/apple-will-soon-start-using-ai-generated-presenters-on-its-sales-coach-app/",
+    "source": "hacker_news",
+    "collected_at": "2026-05-13T07:47:42.584032+00:00",
+    "analyzed_at": "2026-05-13T07:47:42.584032+00:00",
+    "summary": "Article URL: https://9to5mac.com/2026/05/12/apple-will-soon-start-using-ai-generated-presenters-on-its-sales-coach-app/\nComments URL: https://news.ycombinator.com/item?id=48115440\nPoints: 1\n# Comments",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "cdrnsf",
+      "language": null
+    }
+  },
+  {
+    "id": "4c96b8e7-ab1e-465f-af7e-0d70abcd5fd4",
+    "title": "Long AI Short AGI",
+    "source_url": "https://1984.substack.com/p/long-ai-short-agi",
+    "source": "hacker_news",
+    "collected_at": "2026-05-13T07:48:18.034748+00:00",
+    "analyzed_at": "2026-05-13T07:48:18.034748+00:00",
+    "summary": "Article URL: https://1984.substack.com/p/long-ai-short-agi\nComments URL: https://news.ycombinator.com/item?id=48115043\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "gmays",
+      "language": null
+    }
+  },
+  {
+    "id": "fc721e71-a2f3-4fc5-b8aa-e73578455d8b",
+    "title": "The Emotional Cost of AI-Assisted Coding",
+    "source_url": "https://news.ycombinator.com/item?id=48114954",
+    "source": "hacker_news",
+    "collected_at": "2026-05-13T07:48:49.732969+00:00",
+    "analyzed_at": "2026-05-13T07:48:49.732969+00:00",
+    "summary": "This post doesn’t have a blog or article; it is a blog itself (kind of). I’m just sharing how coding agents feel.A little about me: I started CS in 2020. I liked being able to instruct and interact wi",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "northfield27",
+      "language": null
+    }
+  },
+  {
+    "id": "48e547d9-b10d-43d1-aa61-87aa65b9fded",
+    "title": "Anthropic's Computer Use API: How AI Is Navigating Your Desktop Now",
+    "source_url": "https://www.aigridnews.com/anthropics-computer-use-api-how-ai-is-navigating-your-desktop-now",
+    "source": "hacker_news",
+    "collected_at": "2026-05-13T07:49:11.784799+00:00",
+    "analyzed_at": "2026-05-13T07:49:11.784799+00:00",
+    "summary": "Article URL: https://www.aigridnews.com/anthropics-computer-use-api-how-ai-is-navigating-your-desktop-now\nComments URL: https://news.ycombinator.com/item?id=48114849\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rolph",
+      "language": null
+    }
   }
 ]
