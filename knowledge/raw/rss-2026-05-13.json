@@ -1,7 +1,7 @@
 {
   "source": "rss",
   "skill": "rss",
-  "collected_at": "2026-05-13T09:58:11.382724+00:00",
+  "collected_at": "2026-05-13T10:24:53.285060+00:00",
   "items": [
     {
       "name": "What if AI systems weren't chatbots?",
@@ -182,6 +182,33 @@
       "score": null,
       "author": "bundie",
       "published": "Wed, 13 May 2026 05:07:04 +0000"
+    },
+    {
+      "name": "Tsjilp – AI as a silent communication assistant",
+      "url": "https://www.tsjilp.me",
+      "summary": "Article URL: https://www.tsjilp.me\nComments URL: https://news.ycombinator.com/item?id=48119947\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "hkuperus",
+      "published": "Wed, 13 May 2026 10:07:42 +0000"
+    },
+    {
+      "name": "Show HN: Before Upload – check files locally before sending them to AI tools",
+      "url": "https://beforeupload.com/",
+      "summary": "Article URL: https://beforeupload.com/\nComments URL: https://news.ycombinator.com/item?id=48119939\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ailef",
+      "published": "Wed, 13 May 2026 10:07:09 +0000"
+    },
+    {
+      "name": "Berget AI announces Berget Code for European teams powered by Kimi K2.6",
+      "url": "https://berget.ai/blog/berget-code-launch-en",
+      "summary": "Article URL: https://berget.ai/blog/berget-code-launch-en\nComments URL: https://news.ycombinator.com/item?id=48119899\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "marols",
+      "published": "Wed, 13 May 2026 10:02:08 +0000"
     }
   ]
 }
