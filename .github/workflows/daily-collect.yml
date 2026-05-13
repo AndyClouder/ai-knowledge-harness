@@ -65,7 +65,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add knowledge/articles/ knowledge/raw/ knowledge/quality_reports/
+          git add knowledge/raw/
+          git add knowledge/articles/ 2>/dev/null || true
+          git add knowledge/quality_reports/ 2>/dev/null || true
 
           # 检查是否有变更
           if git diff --cached --quiet; then
