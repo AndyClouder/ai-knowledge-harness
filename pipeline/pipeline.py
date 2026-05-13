@@ -347,10 +347,28 @@ def main() -> None:
         action="store_true",
         help="启用详细日志 (DEBUG)",
     )
+    parser.add_argument(
+        "--analyze-only",
+        action="store_true",
+        help="跳过采集，仅对已有 raw 数据运行 LLM 分析",
+    )
     args = parser.parse_args()
 
     if args.verbose:
         logging.getLogger().setLevel(logging.DEBUG)
+
+    # ── 仅分析模式 ──
+    if args.analyze_only:
+        logger.info("仅分析模式: 跳过采集")
+        from pipeline.analyzer import run_analysis, save_articles
+
+        articles = run_analysis(limit=args.limit)
+        if articles:
+            save_articles(articles)
+            logger.info("LLM 分析完成: 新增 %d 条文章", len(articles))
+        else:
+            logger.info("LLM 分析: 无新数据需要分析")
+        return
 
     sources = [s.strip() for s in args.sources.split(",")]
     logger.info("采集流水线启动: sources=%s, limit=%d", sources, args.limit)
