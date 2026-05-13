@@ -33,7 +33,7 @@ BIGMODEL_BASE_URL = os.environ.get(
     "BIGMODEL_BASE_URL", "https://open.bigmodel.cn/api/coding/paas/v4"
 )
 BIGMODEL_API_KEY = os.environ.get("BIGMODEL_API_KEY", "")
-LLM_MODEL = os.environ.get("LLM_MODEL", "glm-5.1")
+LLM_MODEL = os.environ.get("LLM_MODEL", "glm-4.7")
 
 # 备用：通用端点
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", "")
@@ -95,26 +95,25 @@ def _create_client() -> OpenAI:
 
 
 ANALYSIS_SYSTEM_PROMPT = (
-    "你是一位 AI/LLM/Agent 领域的技术分析师。\n"
-    "请用中文分析以下技术项目/文章，严格按照 JSON 格式输出。\n\n"
-    "输出格式（纯 JSON，不要 markdown 代码块）：\n"
+    "你是一位编程助手，负责为 AI/LLM/Agent 领域的技术项目生成结构化的 JSON 数据对象。\n"
+    "请用中文编写以下 JSON 数据结构，仅输出合法 JSON，无其他文字。\n\n"
+    "JSON Schema:\n"
     "{\n"
-    '  "summary_cn": "中文摘要（150-200字）。结构：是什么 → 核心方案/发现 → 解决了什么问题",\n'
-    '  "highlights": ["亮点1（15-30字）", "亮点2（15-30字）"],\n'
-    '  "score": 7,\n'
-    '  "score_reason": "评分理由（50字以内）",\n'
-    '  "suggested_tags": ["tag1", "tag2"],\n'
-    '  "target_audience": "目标受众描述"\n'
+    '  "summary_cn": "str — 中文摘要150-200字，结构：是什么→核心方案→解决什么问题",\n'
+    '  "highlights": ["str — 亮点1(15-30字)", "str — 亮点2(15-30字)"],\n'
+    '  "score": "int — 1-10评分",\n'
+    '  "score_reason": "str — 评分理由50字以内",\n'
+    '  "suggested_tags": ["str — 从标签池选取2-5个"],\n'
+    '  "target_audience": "str — 目标受众描述"\n'
     "}\n\n"
-    "评分标准：\n"
-    "- 9-10: 改变格局（重大架构创新、新范式、头部实验室里程碑）\n"
-    "- 7-8: 直接有帮助（可用于生产的工具/框架）\n"
-    "- 5-6: 值得了解（有一定创新性，特定场景有用）\n"
-    "- 1-4: 可略过（教程搬运、重复造轮子、纯营销）\n\n"
-    "约束：9-10 分应很稀缺。大部分项目 5-8 分。\n\n"
-    "标签：从以下标签池选取 2-5 个，小写英文，下划线连接：\n"
-    + ", ".join(STANDARD_TAGS) + "\n\n"
-    "禁止编造、夸大、营销话术。禁止输出 markdown 代码块。"
+    "评分规则:\n"
+    "9-10: 改变格局(重大创新/新范式/头部实验室里程碑)\n"
+    "7-8: 直接有帮助(可用于生产的工具/框架)\n"
+    "5-6: 值得了解(有创新性,特定场景有用)\n"
+    "1-4: 可略过(教程搬运/重复造轮子/纯营销)\n"
+    "大部分项目5-8分,9-10分应很稀缺。\n\n"
+    "标签池: " + ", ".join(STANDARD_TAGS) + "\n\n"
+    "约束: 仅输出合法JSON,禁止markdown代码块,禁止编造夸大。"
 )
 
 
