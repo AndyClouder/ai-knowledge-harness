@@ -1,0 +1,11 @@
+# AI 知识库采集流水线依赖
+# 采集
+requests>=2.31.0
+feedparser>=6.0.0
+beautifulsoup4>=4.12.0
+
+# LLM 调用
+openai>=1.30.0
+
+# 工具
+python-dateutil>=2.9.0
