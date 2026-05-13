@@ -98,14 +98,14 @@ ANALYSIS_SYSTEM_PROMPT = (
     "你是一位 AI/LLM/Agent 领域的技术分析师。\n"
     "请用中文分析以下技术项目/文章，严格按照 JSON 格式输出。\n\n"
     "输出格式（纯 JSON，不要 markdown 代码块）：\n"
-    "{{\n"
+    "{\n"
     '  "summary_cn": "中文摘要（150-200字）。结构：是什么 → 核心方案/发现 → 解决了什么问题",\n'
     '  "highlights": ["亮点1（15-30字）", "亮点2（15-30字）"],\n'
     '  "score": 7,\n'
     '  "score_reason": "评分理由（50字以内）",\n'
     '  "suggested_tags": ["tag1", "tag2"],\n'
     '  "target_audience": "目标受众描述"\n'
-    "}}\n\n"
+    "}\n\n"
     "评分标准：\n"
     "- 9-10: 改变格局（重大架构创新、新范式、头部实验室里程碑）\n"
     "- 7-8: 直接有帮助（可用于生产的工具/框架）\n"
@@ -146,6 +146,36 @@ def _build_user_prompt(item: dict) -> str:
 # ── LLM 调用 ────────────────────────────────────────
 
 
+def _extract_json_object(text: str) -> str | None:
+    """从文本中提取第一个完整的 JSON 对象（支持嵌套）。"""
+    start = text.find("{")
+    if start == -1:
+        return None
+    depth = 0
+    in_string = False
+    escape = False
+    for i in range(start, len(text)):
+        ch = text[i]
+        if escape:
+            escape = False
+            continue
+        if ch == "\\":
+            escape = True
+            continue
+        if ch == '"' and not escape:
+            in_string = not in_string
+            continue
+        if in_string:
+            continue
+        if ch == "{":
+            depth += 1
+        elif ch == "}":
+            depth -= 1
+            if depth == 0:
+                return text[start : i + 1]
+    return None
+
+
 def _parse_llm_response(text: str) -> dict | None:
     """从 LLM 回复中提取 JSON。"""
     # 去除 markdown 代码块
@@ -153,18 +183,22 @@ def _parse_llm_response(text: str) -> dict | None:
     text = re.sub(r"```\s*", "", text)
     text = text.strip()
 
+    # 直接解析
     try:
         return json.loads(text)
     except json.JSONDecodeError:
-        # 尝试找到 JSON 对象
-        match = re.search(r"\{[^{}]*\}", text, re.DOTALL)
-        if match:
-            try:
-                return json.loads(match.group())
-            except json.JSONDecodeError:
-                pass
-        logger.warning("无法解析 LLM 回复为 JSON: %s...", text[:100])
-        return None
+        pass
+
+    # 提取第一个完整 JSON 对象（支持嵌套）
+    json_str = _extract_json_object(text)
+    if json_str:
+        try:
+            return json.loads(json_str)
+        except json.JSONDecodeError:
+            pass
+
+    logger.warning("无法解析 LLM 回复为 JSON: %s...", text[:200])
+    return None
 
 
 def analyze_item(client: OpenAI, item: dict) -> dict | None:
@@ -182,6 +216,7 @@ def analyze_item(client: OpenAI, item: dict) -> dict | None:
             max_tokens=500,
         )
         text = response.choices[0].message.content or ""
+        logger.debug("LLM 原始回复 (%s): %s", item.get("name") or item.get("title"), text[:300])
         return _parse_llm_response(text)
     except Exception as exc:
         logger.warning("LLM 分析失败 (%s): %s", item.get("name") or item.get("title"), exc)
