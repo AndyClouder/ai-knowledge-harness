@@ -378,6 +378,18 @@ def main() -> None:
 
     logger.info("采集流水线完成: 共采集 %d 条新数据", total_collected)
 
+    # ── 分析步骤 ──
+    if total_collected > 0:
+        logger.info("启动 LLM 分析步骤")
+        from pipeline.analyzer import run_analysis, save_articles
+
+        articles = run_analysis(limit=args.limit)
+        if articles:
+            save_articles(articles)
+            logger.info("LLM 分析完成: 新增 %d 条文章", len(articles))
+        else:
+            logger.info("LLM 分析: 无新数据需要分析")
+
 
 if __name__ == "__main__":
     main()

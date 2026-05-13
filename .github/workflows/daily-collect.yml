@@ -75,10 +75,10 @@ jobs:
             exit 0
           fi
 
-          # 统计新增文章数
-          NEW_COUNT=$(git diff --cached --name-only --diff-filter=A -- 'knowledge/articles/*.json' | grep -c -v 'hook-test' || true)
-          CHANGED_COUNT=$(git diff --cached --name-only -- 'knowledge/articles/*.json' | grep -c -v 'hook-test' || true)
+          # 统计变更
+          RAW_COUNT=$(git diff --cached --name-only -- 'knowledge/raw/*.json' | wc -l || true)
+          ART_COUNT=$(git diff --cached --name-only -- 'knowledge/articles/*.json' | grep -c -v 'hook-test' || true)
           TODAY=$(date -u +%Y-%m-%d)
 
-          git commit -m "feat: 采集 ${TODAY} AI 动态，新增 ${NEW_COUNT} 篇，共变更 ${CHANGED_COUNT} 篇文章"
+          git commit -m "feat: 采集 ${TODAY} AI 动态，${RAW_COUNT} 个原始文件，${ART_COUNT} 篇分析文章"
           git push origin HEAD:master
