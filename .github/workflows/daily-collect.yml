@@ -1,0 +1,78 @@
+name: Daily AI Knowledge Collection
+
+on:
+  schedule:
+    - cron: '0 8 * * *'  # UTC 08:00 = 北京时间 16:00
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  LLM_PROVIDER: bigmodel
+  BIGMODEL_BASE_URL: https://open.bigmodel.cn/api/coding/paas/v4
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run collection pipeline
+        env:
+          BIGMODEL_API_KEY: ${{ secrets.BIGMODEL_API_KEY }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          QWEN_API_KEY: ${{ secrets.QWEN_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python pipeline/pipeline.py --sources github,rss --limit 20 --verbose
+
+      - name: Validate new articles
+        run: |
+          TODAY=$(date -u +%Y%m%d)
+          FILES=$(find knowledge/articles/ -name "*.json" -newer .git/index -not -name "hook-test*" 2>/dev/null | head -100)
+          if [ -n "$FILES" ]; then
+            echo "校验文章: $(echo "$FILES" | wc -l) 个文件"
+            python hooks/validate_json.py $FILES
+          else
+            echo "没有新文章需要校验"
+          fi
+
+      - name: Quality check
+        run: |
+          FILES=$(find knowledge/articles/ -name "*.json" -newer .git/index -not -name "hook-test*" 2>/dev/null | head -100)
+          if [ -n "$FILES" ]; then
+            python hooks/check_quality.py $FILES
+          else
+            echo "没有新文章需要质量检查"
+          fi
+
+      - name: Commit and push new articles
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add knowledge/articles/ knowledge/raw/ knowledge/quality_reports/
+
+          # 检查是否有变更
+          if git diff --cached --quiet; then
+            echo "没有新数据，跳过提交"
+            exit 0
+          fi
+
+          # 统计新增文章数
+          NEW_COUNT=$(git diff --cached --name-only --diff-filter=A -- 'knowledge/articles/*.json' | grep -c -v 'hook-test' || true)
+          CHANGED_COUNT=$(git diff --cached --name-only -- 'knowledge/articles/*.json' | grep -c -v 'hook-test' || true)
+          TODAY=$(date -u +%Y-%m-%d)
+
+          git commit -m "feat: 采集 ${TODAY} AI 动态，新增 ${NEW_COUNT} 篇，共变更 ${CHANGED_COUNT} 篇文章"
+          git push
