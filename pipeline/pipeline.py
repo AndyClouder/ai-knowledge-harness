@@ -59,7 +59,7 @@ logger = logging.getLogger("pipeline")
 
 def _github_api_get(url: str, params: dict, session: requests.Session) -> dict | None:
     """发送 GitHub API 请求，返回 JSON 或 None。"""
-    token = os.environ.get("GITHUB_TOKEN")
+    token = os.environ.get("GH_TOKEN")
     headers = {"Accept": "application/vnd.github.v3+json"}
     if token:
         headers["Authorization"] = f"Bearer {token}"
