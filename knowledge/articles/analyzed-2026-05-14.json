@@ -1,0 +1,422 @@
+[
+  {
+    "id": "08484dac-03d5-4ec2-9b8a-ba425387f7be",
+    "title": "JUk1-GH/gpt-promo-scanner",
+    "source_url": "https://github.com/JUk1-GH/gpt-promo-scanner",
+    "source": "unknown",
+    "collected_at": "2026-05-14T10:14:05.023368+00:00",
+    "analyzed_at": "2026-05-14T10:14:05.023368+00:00",
+    "summary": "ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% of",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 408,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "d4f5c393-fb5c-407a-8106-dabb23688c0f",
+    "title": "Salomondiei08/oh-my-hermes",
+    "source_url": "https://github.com/Salomondiei08/oh-my-hermes",
+    "source": "unknown",
+    "collected_at": "2026-05-14T10:14:20.180023+00:00",
+    "analyzed_at": "2026-05-14T10:14:20.180023+00:00",
+    "summary": "An opinionated workflow layer for building, shipping, and operating apps with Hermes Agent",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 361,
+      "score": null,
+      "author": null,
+      "language": "Shell"
+    }
+  },
+  {
+    "id": "019ac0f9-8422-48ae-90c4-335f871acab6",
+    "title": "yaassin12/DeepSeek-V4-Pro-App",
+    "source_url": "https://github.com/yaassin12/DeepSeek-V4-Pro-App",
+    "source": "unknown",
+    "collected_at": "2026-05-14T10:14:37.981105+00:00",
+    "analyzed_at": "2026-05-14T10:14:37.981105+00:00",
+    "summary": "DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M token context window, Engram memory. Pro coding agent, Think Mode (High/Max), repo-level reasoning, complex bug fixing. Re",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 360,
+      "score": null,
+      "author": null,
+      "language": "C++"
+    }
+  },
+  {
+    "id": "d09bb69d-7513-46ba-a762-b54b1f6a0914",
+    "title": "sunyouzhi2003/LSFG-Desktop",
+    "source_url": "https://github.com/sunyouzhi2003/LSFG-Desktop",
+    "source": "unknown",
+    "collected_at": "2026-05-14T10:15:07.396058+00:00",
+    "analyzed_at": "2026-05-14T10:15:07.396058+00:00",
+    "summary": "Lossless Scaling 2026: Universal Frame Generation LSFG 3. Multi-frame gen: X2, X3, X4 multiplier for extreme FPS. AI Upscaling: LS1, FSR 3.1, NIS. Smooth gaming on Steam Deck, handhelds, and Android (",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 355,
+      "score": null,
+      "author": null,
+      "language": "C++"
+    }
+  },
+  {
+    "id": "c5e448ea-a4de-435c-a29d-8cea9bc85279",
+    "title": "mark9-droid/TomodachiPC",
+    "source_url": "https://github.com/mark9-droid/TomodachiPC",
+    "source": "unknown",
+    "collected_at": "2026-05-14T10:15:17.355936+00:00",
+    "analyzed_at": "2026-05-14T10:15:17.355936+00:00",
+    "summary": "Tomodachi Life Living The Dream PC: Ultimate Mii manager and life simulator. Virtual island community, custom apartment editor, food preferences database, gift system. Mii personality maker, character",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 350,
+      "score": null,
+      "author": null,
+      "language": "C++"
+    }
+  },
+  {
+    "id": "739740c9-0442-46d6-aaca-831031849ae8",
+    "title": "PHjont/Wallpaper-Engine-Live-wallpaper-engine",
+    "source_url": "https://github.com/PHjont/Wallpaper-Engine-Live-wallpaper-engine",
+    "source": "unknown",
+    "collected_at": "2026-05-14T10:15:27.206635+00:00",
+    "analyzed_at": "2026-05-14T10:15:27.206635+00:00",
+    "summary": "Wallpaper Engine Steam: Live wallpaper engine. Features: 3D interactive scenes, audio visualizer, clock widgets. Android sync, mobile companion, playlist scheduler. Performance optimization, low CPU u",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 349,
+      "score": null,
+      "author": null,
+      "language": "C++"
+    }
+  },
+  {
+    "id": "4241bb99-3b8c-4b69-a905-dd245548f3cd",
+    "title": "gtxx3600/GPTSession2CPAandSub2API",
+    "source_url": "https://github.com/gtxx3600/GPTSession2CPAandSub2API",
+    "source": "unknown",
+    "collected_at": "2026-05-14T10:15:41.550347+00:00",
+    "analyzed_at": "2026-05-14T10:15:41.550347+00:00",
+    "summary": "",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 317,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "5d72acdb-7292-4a18-880a-e0c201cb7107",
+    "title": "Researchers say AI just broke every benchmark for autonomous cyber capability",
+    "source_url": "https://cyberscoop.com/ai-autonomous-cyber-capability-benchmarks-broken-gpt5-claude-mythos/",
+    "source": "hacker_news",
+    "collected_at": "2026-05-14T10:15:51.022512+00:00",
+    "analyzed_at": "2026-05-14T10:15:51.022512+00:00",
+    "summary": "Article URL: https://cyberscoop.com/ai-autonomous-cyber-capability-benchmarks-broken-gpt5-claude-mythos/\nComments URL: https://news.ycombinator.com/item?id=48133072\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "lschueller",
+      "language": null
+    }
+  },
+  {
+    "id": "d52e55a9-9a2a-4ee6-abd4-011413d9189e",
+    "title": "Avocado Studio – open-source AI content editor for Next.js sites",
+    "source_url": "https://docs.avocadostudio.dev",
+    "source": "hacker_news",
+    "collected_at": "2026-05-14T10:16:01.834293+00:00",
+    "analyzed_at": "2026-05-14T10:16:01.834293+00:00",
+    "summary": "Article URL: https://docs.avocadostudio.dev\nComments URL: https://news.ycombinator.com/item?id=48133069\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "yury_h",
+      "language": null
+    }
+  },
+  {
+    "id": "9b809b82-401b-4ce6-a63d-24ec28b07b9c",
+    "title": "40-Year-Old System Analyzed with AI: It Turned Out to Have a Modern Architecture",
+    "source_url": "https://medium.com/@noborutakahashi/a-40-year-old-system-analyzed-with-ai-it-turned-out-to-have-a-modern-architecture-83751821bf5a",
+    "source": "hacker_news",
+    "collected_at": "2026-05-14T10:16:40.866745+00:00",
+    "analyzed_at": "2026-05-14T10:16:40.866745+00:00",
+    "summary": "Article URL: https://medium.com/@noborutakahashi/a-40-year-old-system-analyzed-with-ai-it-turned-out-to-have-a-modern-architecture-83751821bf5a\nComments URL: https://news.ycombinator.com/item?id=48133",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "fragmede",
+      "language": null
+    }
+  },
+  {
+    "id": "5c35e940-c15c-4069-8a5a-32036a235662",
+    "title": "Facebook comments on Citizen-Dividends from AI roil Korean markets",
+    "source_url": "https://finance.yahoo.com/economy/policy/articles/korea-roils-market-floating-citizen-081026940.html",
+    "source": "hacker_news",
+    "collected_at": "2026-05-14T10:16:54.867138+00:00",
+    "analyzed_at": "2026-05-14T10:16:54.867138+00:00",
+    "summary": "Article URL: https://finance.yahoo.com/economy/policy/articles/korea-roils-market-floating-citizen-081026940.html\nComments URL: https://news.ycombinator.com/item?id=48132986\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "oliculipolicula",
+      "language": null
+    }
+  },
+  {
+    "id": "52e793c2-6954-4ea0-a5d6-ec72c210a751",
+    "title": "Beware AI Productivity Theater",
+    "source_url": "https://iknowa.spot/posts/26-5-9-beware-ai-productivity-theater",
+    "source": "hacker_news",
+    "collected_at": "2026-05-14T10:17:29.430771+00:00",
+    "analyzed_at": "2026-05-14T10:17:29.430771+00:00",
+    "summary": "Article URL: https://iknowa.spot/posts/26-5-9-beware-ai-productivity-theater\nComments URL: https://news.ycombinator.com/item?id=48132969\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "dmm",
+      "language": null
+    }
+  },
+  {
+    "id": "a75135d7-ad29-4912-93bd-ab4fff429b19",
+    "title": "Meta Incognito Mode: A Private Way to Chat with AI",
+    "source_url": "https://about.fb.com/news/2026/05/incognito-chat-whatsapp-meta-ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-05-14T10:17:38.728069+00:00",
+    "analyzed_at": "2026-05-14T10:17:38.728069+00:00",
+    "summary": "Article URL: https://about.fb.com/news/2026/05/incognito-chat-whatsapp-meta-ai/\nComments URL: https://news.ycombinator.com/item?id=48132764\nPoints: 2\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "7777777phil",
+      "language": null
+    }
+  },
+  {
+    "id": "d6a3ca88-5be8-44da-a242-229ca404ea45",
+    "title": "Show HN: I built an AI travel camera because I was tired of Google Lens",
+    "source_url": "https://apps.apple.com/us/app/spotter-the-travel-companion/id6761238251",
+    "source": "hacker_news",
+    "collected_at": "2026-05-14T10:17:50.198431+00:00",
+    "analyzed_at": "2026-05-14T10:17:50.198431+00:00",
+    "summary": "Article URL: https://apps.apple.com/us/app/spotter-the-travel-companion/id6761238251\nComments URL: https://news.ycombinator.com/item?id=48132515\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "XanMan",
+      "language": null
+    }
+  },
+  {
+    "id": "d292e152-e15b-4b63-be7c-63e152db9ebd",
+    "title": "Show HN: AGEF, an open evidence format for AI agent sessions",
+    "source_url": "https://github.com/radotsvetkov/agef",
+    "source": "hacker_news",
+    "collected_at": "2026-05-14T10:18:17.151150+00:00",
+    "analyzed_at": "2026-05-14T10:18:17.151150+00:00",
+    "summary": "Article URL: https://github.com/radotsvetkov/agef\nComments URL: https://news.ycombinator.com/item?id=48132513\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "radotsvetkov",
+      "language": null
+    }
+  },
+  {
+    "id": "9ae225fa-6d22-4e86-98c5-2d9a647002f7",
+    "title": "People Would Rather Have Nuclear Power Plants in Their Area Than AI Data Centers",
+    "source_url": "https://www.forbes.com/sites/maryroeloffs/2026/05/13/people-would-rather-have-nuclear-power-plants-in-their-area-than-ai-data-centers/",
+    "source": "hacker_news",
+    "collected_at": "2026-05-14T10:18:26.312223+00:00",
+    "analyzed_at": "2026-05-14T10:18:26.312223+00:00",
+    "summary": "Article URL: https://www.forbes.com/sites/maryroeloffs/2026/05/13/people-would-rather-have-nuclear-power-plants-in-their-area-than-ai-data-centers/\nComments URL: https://news.ycombinator.com/item?id=4",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "robtherobber",
+      "language": null
+    }
+  },
+  {
+    "id": "59505c74-47f0-461c-8e82-6ffc29c24960",
+    "title": "Ask HN: I've been using AI for 3 years,I've lost the ability to think for myself",
+    "source_url": "https://news.ycombinator.com/item?id=48132421",
+    "source": "hacker_news",
+    "collected_at": "2026-05-14T10:18:39.082265+00:00",
+    "analyzed_at": "2026-05-14T10:18:39.082265+00:00",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=48132421\nPoints: 2\n# Comments: 6",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "snasan",
+      "language": null
+    }
+  },
+  {
+    "id": "d3b6d997-e78b-4afe-87d5-deccb7daf119",
+    "title": "Gloop – A Self-Modifying AI Agent and TS Library",
+    "source_url": "https://gloop.codes/",
+    "source": "hacker_news",
+    "collected_at": "2026-05-14T10:19:13.989359+00:00",
+    "analyzed_at": "2026-05-14T10:19:13.989359+00:00",
+    "summary": "Article URL: https://gloop.codes/\nComments URL: https://news.ycombinator.com/item?id=48132408\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "hypendev",
+      "language": null
+    }
+  },
+  {
+    "id": "a2f3e8c6-26c4-4efd-a22b-62bd6bc0e5cb",
+    "title": "Dissatisfied: Three-fourths of AI customer service rollouts are a letdown",
+    "source_url": "https://www.theregister.com/ai-ml/2026/05/13/ai-customer-service-bots-get-rolled-back-at-74-of-firms/5239800",
+    "source": "hacker_news",
+    "collected_at": "2026-05-14T10:19:26.611161+00:00",
+    "analyzed_at": "2026-05-14T10:19:26.611161+00:00",
+    "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/13/ai-customer-service-bots-get-rolled-back-at-74-of-firms/5239800\nComments URL: https://news.ycombinator.com/item?id=48132391\nPoints: 2\n# Commen",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "dijksterhuis",
+      "language": null
+    }
+  },
+  {
+    "id": "2f9f8fa8-0b96-4ae3-93b3-1a10d00e3484",
+    "title": "What features are missing in current AI agent frameworks?",
+    "source_url": "https://news.ycombinator.com/item?id=48132357",
+    "source": "hacker_news",
+    "collected_at": "2026-05-14T10:19:40.209408+00:00",
+    "analyzed_at": "2026-05-14T10:19:40.209408+00:00",
+    "summary": "What’s currently missing in AI agent frameworks?Examples:* better memory systems\n* workflow debugging\n* human-in-loop controls\n* distributed execution\n* lower latency orchestrationInterested in hearin",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jeevesworks",
+      "language": null
+    }
+  }
+]

@@ -1,0 +1,151 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-05-14T10:13:08.449001+00:00",
+  "items": [
+    {
+      "name": "JUk1-GH/gpt-promo-scanner",
+      "url": "https://github.com/JUk1-GH/gpt-promo-scanner",
+      "summary": "ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% of",
+      "stars": 408,
+      "language": "Python",
+      "topics": [
+        "chatgpt",
+        "chatgpt-business",
+        "chatgpt-team",
+        "clash",
+        "cloudflare-bypass",
+        "curl-cffi",
+        "discount",
+        "openai",
+        "promo-code",
+        "promo-codes",
+        "proxy",
+        "python",
+        "stripe",
+        "web-scraping"
+      ]
+    },
+    {
+      "name": "Salomondiei08/oh-my-hermes",
+      "url": "https://github.com/Salomondiei08/oh-my-hermes",
+      "summary": "An opinionated workflow layer for building, shipping, and operating apps with Hermes Agent",
+      "stars": 361,
+      "language": "Shell",
+      "topics": []
+    },
+    {
+      "name": "yaassin12/DeepSeek-V4-Pro-App",
+      "url": "https://github.com/yaassin12/DeepSeek-V4-Pro-App",
+      "summary": "DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M token context window, Engram memory. Pro coding agent, Think Mode (High/Max), repo-level reasoning, complex bug fixing. Re",
+      "stars": 360,
+      "language": "C++",
+      "topics": [
+        "agentic-ai",
+        "ai-application",
+        "ai-application-development",
+        "deep-seek",
+        "deepseek",
+        "deepseek-api",
+        "deepseek-chat",
+        "deepseek-ocr-2",
+        "deepseek-r1",
+        "deepseek-r1-zero",
+        "deepseek-v4-download",
+        "deepseek-v4-pro"
+      ]
+    },
+    {
+      "name": "sunyouzhi2003/LSFG-Desktop",
+      "url": "https://github.com/sunyouzhi2003/LSFG-Desktop",
+      "summary": "Lossless Scaling 2026: Universal Frame Generation LSFG 3. Multi-frame gen: X2, X3, X4 multiplier for extreme FPS. AI Upscaling: LS1, FSR 3.1, NIS. Smooth gaming on Steam Deck, handhelds, and Android (",
+      "stars": 355,
+      "language": "C++",
+      "topics": [
+        "crimson-desert-lsfg",
+        "frame-generation",
+        "fsr-alternative",
+        "game-upscaler",
+        "gaming-booster",
+        "gaming-performance",
+        "integer-scaling",
+        "lossless-frame-generation",
+        "lossless-scaling",
+        "lossless-scaling-2026",
+        "lossless-scaling-isfg",
+        "lossless-scaling-pc",
+        "lossless-scaling-software",
+        "lossless-scaling-v3",
+        "lsfg",
+        "lsfg-3",
+        "lsfg-ai-upscaling",
+        "smooth-gaming",
+        "upscale-tool",
+        "windows-scaling-tool"
+      ]
+    },
+    {
+      "name": "mark9-droid/TomodachiPC",
+      "url": "https://github.com/mark9-droid/TomodachiPC",
+      "summary": "Tomodachi Life Living The Dream PC: Ultimate Mii manager and life simulator. Virtual island community, custom apartment editor, food preferences database, gift system. Mii personality maker, character",
+      "stars": 350,
+      "language": "C++",
+      "topics": [
+        "island-life",
+        "life-sim",
+        "life-simulator",
+        "living-the-dream",
+        "mii",
+        "mii-game",
+        "mii-sharing",
+        "nes-emulator",
+        "nintendo-port",
+        "nintendo-switch-emulator",
+        "nintendo-tomodachi-life",
+        "nintendoswitch",
+        "tomodachi",
+        "tomodachi-life",
+        "tomodachi-life-2026",
+        "tomodachi-life-desktop",
+        "tomodachi-life-living-the-dream",
+        "tomodachi-life-windows",
+        "tomodachi-living-the-dream",
+        "tomodachi-pc"
+      ]
+    },
+    {
+      "name": "PHjont/Wallpaper-Engine-Live-wallpaper-engine",
+      "url": "https://github.com/PHjont/Wallpaper-Engine-Live-wallpaper-engine",
+      "summary": "Wallpaper Engine Steam: Live wallpaper engine. Features: 3D interactive scenes, audio visualizer, clock widgets. Android sync, mobile companion, playlist scheduler. Performance optimization, low CPU u",
+      "stars": 349,
+      "language": "C++",
+      "topics": [
+        "animated-wallpaper",
+        "best-wallpaper-engine",
+        "free-wallpapers-engine",
+        "live-wallpaper",
+        "livewallpaper",
+        "steamworkshop",
+        "wallpaper-engine-downloader",
+        "wallpaper-engine-downloaderwallpaper-downloader",
+        "wallpaper-engine-gui",
+        "wallpaper-engine-pc",
+        "wallpaper-engine-setup",
+        "wallpaper-engine-software",
+        "wallpaper-engine-steam",
+        "wallpaper-live",
+        "wallpaper-pc",
+        "wallpaperengine-download",
+        "wallpapers"
+      ]
+    },
+    {
+      "name": "gtxx3600/GPTSession2CPAandSub2API",
+      "url": "https://github.com/gtxx3600/GPTSession2CPAandSub2API",
+      "summary": "",
+      "stars": 317,
+      "language": null,
+      "topics": []
+    }
+  ]
+}
