@@ -1,0 +1,100 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-05-15T10:20:58.777756+00:00",
+  "items": [
+    {
+      "name": "nexu-io/html-anything",
+      "url": "https://github.com/nexu-io/html-anything",
+      "summary": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed pre",
+      "stars": 1627,
+      "language": "HTML",
+      "topics": [
+        "agent-skills",
+        "agentic",
+        "ai-agents",
+        "ai-design",
+        "ai-editor",
+        "byok",
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "coding-agents",
+        "generative-ai",
+        "html",
+        "html-editor",
+        "hyperframes",
+        "local-first",
+        "markdown",
+        "nextjs",
+        "vibe-coding",
+        "wechat",
+        "xiaohongshu"
+      ]
+    },
+    {
+      "name": "yetone/native-feel-skill",
+      "url": "https://github.com/yetone/native-feel-skill",
+      "summary": "An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectural tenets, four-layer a",
+      "stars": 819,
+      "language": null,
+      "topics": []
+    },
+    {
+      "name": "S4rdenz/gta-5-mod-menu",
+      "url": "https://github.com/S4rdenz/gta-5-mod-menu",
+      "summary": "🚀 Dominate GTA V servers with this free, reliable FiveM mod menu featuring ESP, aimbot, and more, designed for Steam and Epic Games versions.",
+      "stars": 516,
+      "language": null,
+      "topics": []
+    },
+    {
+      "name": "ChristianJR19/p-peg",
+      "url": "https://github.com/ChristianJR19/p-peg",
+      "summary": "pinocchio peg stability module + on-chain creature engine.",
+      "stars": 478,
+      "language": "Rust",
+      "topics": [
+        "creatures",
+        "defi",
+        "no-std",
+        "on-chain",
+        "p-token",
+        "pinocchio",
+        "rust",
+        "solana",
+        "stablecoin",
+        "typescript",
+        "zero-copy"
+      ]
+    },
+    {
+      "name": "AnythingForTheTrustRank/Jenny-Mod-All-Versions",
+      "url": "https://github.com/AnythingForTheTrustRank/Jenny-Mod-All-Versions",
+      "summary": "Jenny Mod Minecraft: Interactive virtual companion system. Jenny, Ellie, Bia social interactions, gift giving, friendship levels. Minecraft Java 1.12.2, Bedrock Edition addon, MCPE compatibility. Cust",
+      "stars": 380,
+      "language": "Java",
+      "topics": [
+        "1-12-2-mod",
+        "forge-mod",
+        "forgemc-mod",
+        "java-edition",
+        "jenny-mod",
+        "jenny-mod-2026",
+        "jenny-mod-all-versions",
+        "jenny-mod-minecraft-download",
+        "jennybot",
+        "jennymod",
+        "jennymod-2026",
+        "jennymod-minecraft",
+        "mcmod",
+        "minecraft",
+        "minecraft-jenny-mod",
+        "minecraft-jenny-mod-2026",
+        "minecraft-mod",
+        "minecraftjennymod",
+        "minecraftjennymod-2026"
+      ]
+    }
+  ]
+}

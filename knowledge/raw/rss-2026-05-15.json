@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-05-15T10:21:05.305090+00:00",
+  "items": [
+    {
+      "name": "Local Transformer Language Model Running on GameBoy Color",
+      "url": "https://github.com/maddiedreese/gbc-transformer",
+      "summary": "Article URL: https://github.com/maddiedreese/gbc-transformer\nComments URL: https://news.ycombinator.com/item?id=48120026\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "redbell",
+      "published": "Wed, 13 May 2026 10:18:32 +0000"
+    },
+    {
+      "name": "Can a Language Model Paint?",
+      "url": "https://www.etive-mor.com/blog/can-a-language-model-paint/",
+      "summary": "Article URL: https://www.etive-mor.com/blog/can-a-language-model-paint/\nComments URL: https://news.ycombinator.com/item?id=48105385\nPoints: 25\n# Comments: 8",
+      "source": "hacker_news",
+      "score": null,
+      "author": "liamlaverty",
+      "published": "Tue, 12 May 2026 07:44:19 +0000"
+    },
+    {
+      "name": "Show HN: \"Be horse.\" – a diffusion language model on an M2 Air",
+      "url": "https://boesch.dev/posts/simple-dlm/",
+      "summary": "Be horse.\n\nComments URL: https://news.ycombinator.com/item?id=47962008\nPoints: 10\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "encrux",
+      "published": "Thu, 30 Apr 2026 13:20:16 +0000"
+    },
+    {
+      "name": "Amália- Open Source Large Language Model (LLM) for European Portuguese",
+      "url": "https://portugal.gov.pt/gc24/comunicacao/noticias/modelo-de-linguagem-em-grande-escala-para-a-lingua-portuguesa",
+      "summary": "Article URL: https://portugal.gov.pt/gc24/comunicacao/noticias/modelo-de-linguagem-em-grande-escala-para-a-lingua-portuguesa\nComments URL: https://news.ycombinator.com/item?id=47900407\nPoints: 8\n# Com",
+      "source": "hacker_news",
+      "score": null,
+      "author": "marcogarces",
+      "published": "Sat, 25 Apr 2026 10:49:18 +0000"
+    },
+    {
+      "name": "Sophia: A Scalable Second-Order Optimizer for Language Model Pre-Training",
+      "url": "https://arxiv.org/abs/2305.14342",
+      "summary": "Article URL: https://arxiv.org/abs/2305.14342\nComments URL: https://news.ycombinator.com/item?id=47882107\nPoints: 4\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Anon84",
+      "published": "Thu, 23 Apr 2026 21:13:15 +0000"
+    },
+    {
+      "name": "Looking for feedback on a paper about a revision-capable language model [pdf]",
+      "url": "https://github.com/Sean-Diab/Reviser/blob/main/main.pdf",
+      "summary": "Article URL: https://github.com/Sean-Diab/Reviser/blob/main/main.pdf\nComments URL: https://news.ycombinator.com/item?id=47807889\nPoints: 2\n# Comments: 3",
+      "source": "hacker_news",
+      "score": null,
+      "author": "param-updater",
+      "published": "Fri, 17 Apr 2026 16:46:52 +0000"
+    },
+    {
+      "name": "A language model that emits raw VM opcodes instead of text",
+      "url": "https://news.ycombinator.com/item?id=47803689",
+      "summary": "A few months ago I posted asking why AI agents control machines through human text instead of emitting machine instructions directly. I've built a demo about this concept.I replaced the decoder head o",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ilbert",
+      "published": "Fri, 17 Apr 2026 08:24:33 +0000"
+    },
+    {
+      "name": "HiFloat4 Format for Language Model Pre-Training on Ascend NPUs",
+      "url": "https://arxiv.org/abs/2604.08826",
+      "summary": "Article URL: https://arxiv.org/abs/2604.08826\nComments URL: https://news.ycombinator.com/item?id=47754427\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rbanffy",
+      "published": "Mon, 13 Apr 2026 16:26:17 +0000"
+    },
+    {
+      "name": "Raon-SpeechChat-9B: A Full-Duplex Speech Language Model",
+      "url": "https://huggingface.co/KRAFTON/Raon-SpeechChat-9B",
+      "summary": "Article URL: https://huggingface.co/KRAFTON/Raon-SpeechChat-9B\nComments URL: https://news.ycombinator.com/item?id=47716382\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "BrutalCoding",
+      "published": "Fri, 10 Apr 2026 11:18:09 +0000"
+    },
+    {
+      "name": "A complete GPT language model in ~600 lines of C#, zero dependencies",
+      "url": "https://github.com/milanm/AutoGrad-Engine",
+      "summary": "Article URL: https://github.com/milanm/AutoGrad-Engine\nComments URL: https://news.ycombinator.com/item?id=47704687\nPoints: 26\n# Comments: 4",
+      "source": "hacker_news",
+      "score": null,
+      "author": "evo_9",
+      "published": "Thu, 09 Apr 2026 15:03:49 +0000"
+    },
+    {
+      "name": "Emotion Concepts and Their Function in a Large Language Model",
+      "url": "https://transformer-circuits.pub/2026/emotions/index.html",
+      "summary": "Article URL: https://transformer-circuits.pub/2026/emotions/index.html\nComments URL: https://news.ycombinator.com/item?id=47637580\nPoints: 63\n# Comments: 10",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Anon84",
+      "published": "Sat, 04 Apr 2026 09:52:55 +0000"
+    },
+    {
+      "name": "Emotion concepts and their function in a large language model",
+      "url": "https://www.anthropic.com/research/emotion-concepts-function",
+      "summary": "Article URL: https://www.anthropic.com/research/emotion-concepts-function\nComments URL: https://news.ycombinator.com/item?id=47636435\nPoints: 191\n# Comments: 204",
+      "source": "hacker_news",
+      "score": null,
+      "author": "dnw",
+      "published": "Sat, 04 Apr 2026 06:30:25 +0000"
+    },
+    {
+      "name": "Emotion Concepts and Their Function in a Large Language Model",
+      "url": "https://transformer-circuits.pub/2026/emotions/",
+      "summary": "Article URL: https://transformer-circuits.pub/2026/emotions/\nComments URL: https://news.ycombinator.com/item?id=47621280\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "stared",
+      "published": "Thu, 02 Apr 2026 22:58:37 +0000"
+    },
+    {
+      "name": "Transformer from scratch HTTPS://github.com/Eamon2009/Transformer-language-model",
+      "url": "https://news.ycombinator.com/item?id=47602482",
+      "summary": "GitHub Repo: https://github.com/Eamon2009/Transformer-language-model\nNo pre-trained weights. No fine-tuning. Pure architecture built from zero in PyTorch.\n\nComments URL: https://news.ycombinator.com/i",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Eamon_Sippy",
+      "published": "Wed, 01 Apr 2026 15:49:01 +0000"
+    },
+    {
+      "name": "Agentic Context Engineering: Evolving Contexts for Self-Improving Language Model",
+      "url": "https://arxiv.org/abs/2510.04618",
+      "summary": "Article URL: https://arxiv.org/abs/2510.04618\nComments URL: https://news.ycombinator.com/item?id=47534337\nPoints: 3\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Anon84",
+      "published": "Thu, 26 Mar 2026 19:03:51 +0000"
+    },
+    {
+      "name": "Show HN: I ran a language model on a PS2",
+      "url": "https://github.com/xaskasdf/ps2-llm",
+      "summary": "The Emotion Engine has 32 MB of RAM total, so the trick is streaming weights from CD-ROM one matrix at a time during the forward pass — only activations, KV cache and embeddings live in RAM. This mean",
+      "source": "hacker_news",
+      "score": null,
+      "author": "xaskasdf",
+      "published": "Sat, 21 Mar 2026 19:27:57 +0000"
+    },
+    {
+      "name": "LLM-eliza – LLM plugin providing access to the ELIZA language model",
+      "url": "https://codeberg.org/EvanHahn/llm-eliza",
+      "summary": "Article URL: https://codeberg.org/EvanHahn/llm-eliza\nComments URL: https://news.ycombinator.com/item?id=47302400\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "zdw",
+      "published": "Sun, 08 Mar 2026 22:42:38 +0000"
+    },
+    {
+      "name": "Language Model Contains Personality Subnetworks",
+      "url": "https://arxiv.org/abs/2602.07164",
+      "summary": "Article URL: https://arxiv.org/abs/2602.07164\nComments URL: https://news.ycombinator.com/item?id=47219387\nPoints: 58\n# Comments: 34",
+      "source": "hacker_news",
+      "score": null,
+      "author": "PaulHoule",
+      "published": "Mon, 02 Mar 2026 15:41:08 +0000"
+    },
+    {
+      "name": "Show HN: Sleeping LLM – A language model that remembers by sleeping",
+      "url": "https://github.com/vbario/sleeping-llm",
+      "summary": "I built a system that gives LLMs persistent memory from conversations — not through RAG or databases, but by editing the model's actual weights. The knowledge lives in the parameters. The context wind",
+      "source": "hacker_news",
+      "score": null,
+      "author": "vbaranov87",
+      "published": "Thu, 26 Feb 2026 06:09:07 +0000"
+    },
+    {
+      "name": "Show HN: Steerling-8B, a language model that can explain any token it generates",
+      "url": "https://www.guidelabs.ai/post/steerling-8b-base-model-release/",
+      "summary": "Article URL: https://www.guidelabs.ai/post/steerling-8b-base-model-release/\nComments URL: https://news.ycombinator.com/item?id=47131225\nPoints: 328\n# Comments: 91",
+      "source": "hacker_news",
+      "score": null,
+      "author": "adebayoj",
+      "published": "Tue, 24 Feb 2026 00:38:02 +0000"
+    }
+  ]
+}
