@@ -1,0 +1,34 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-05-16T09:28:03.138613+00:00",
+  "items": [
+    {
+      "name": "trong776/gta-5-mod-menu",
+      "url": "https://github.com/trong776/gta-5-mod-menu",
+      "summary": "External game enhancement for GTA V single-player. ImGui overlay, no injection, minimal FPS impact. Windows x64, C++17.",
+      "stars": 497,
+      "language": null,
+      "topics": [
+        "cpp",
+        "directx",
+        "enhancement",
+        "gaming-tool",
+        "gta-5",
+        "imgui",
+        "open-source",
+        "trainer",
+        "utility",
+        "windows"
+      ]
+    },
+    {
+      "name": "vercel-labs/zero",
+      "url": "https://github.com/vercel-labs/zero",
+      "summary": "The programming language for agents",
+      "stars": 443,
+      "language": "C",
+      "topics": []
+    }
+  ]
+}
