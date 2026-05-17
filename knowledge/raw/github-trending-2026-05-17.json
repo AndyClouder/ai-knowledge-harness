@@ -1,0 +1,74 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-05-17T09:45:04.667031+00:00",
+  "items": [
+    {
+      "name": "DenisSergeevitch/agents-best-practices",
+      "url": "https://github.com/DenisSergeevitch/agents-best-practices",
+      "summary": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
+      "stars": 628,
+      "language": null,
+      "topics": [
+        "agent-skill",
+        "agent-skills",
+        "agentic-workflows",
+        "agents",
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "codex",
+        "codex-skill",
+        "mcp",
+        "prompt-engineering"
+      ]
+    },
+    {
+      "name": "TheRunicDev/MaaNTE",
+      "url": "https://github.com/TheRunicDev/MaaNTE",
+      "summary": "MaaNTE Neverness to Everness (NTE) MAAFramework  强力驱动！QQ交流群 异环小助手，由 Automation assistant for Neverness to Everness Auto fishing, auto-sell fish, auto-buy bait. Features: auto coffee making, cafe reven",
+      "stars": 482,
+      "language": null,
+      "topics": [
+        "computer-vision",
+        "genshin-impact",
+        "maaframework",
+        "neverness-to-everness-software",
+        "nevernesstoeverness",
+        "nte",
+        "nte-auto-fish",
+        "nte-ray-tracing"
+      ]
+    },
+    {
+      "name": "alexaloneboy1-droid/Invincible-VS-Showdown-Desktop",
+      "url": "https://github.com/alexaloneboy1-droid/Invincible-VS-Showdown-Desktop",
+      "summary": "Invincible VS Game 2026 PC Download Best Desktop Fighter 2026 New Release 🎮💥",
+      "stars": 420,
+      "language": null,
+      "topics": [
+        "invincible",
+        "invincible-2026",
+        "invincible-combat-game",
+        "invincible-desktop",
+        "invincible-fighting-game",
+        "invincible-game",
+        "invincible-game-pc",
+        "invincible-pc",
+        "invincible-steam",
+        "invincible-vs",
+        "invincible-vs-game",
+        "invincible-vs-pc",
+        "invincible-vs-ps5",
+        "invincible-vs-release",
+        "invincible-vs-release-date",
+        "invincible-vs-review",
+        "invincible-vs-steam",
+        "invincible-vs-windows",
+        "superhero-fighting-game",
+        "tfu2-invincible-trainer"
+      ]
+    }
+  ]
+}
