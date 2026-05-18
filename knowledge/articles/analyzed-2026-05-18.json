@@ -1,0 +1,194 @@
+[
+  {
+    "id": "8c1a1439-6591-460d-b240-90656f4da786",
+    "title": "gi-dellav/zerostack",
+    "source_url": "https://github.com/gi-dellav/zerostack",
+    "source": "unknown",
+    "collected_at": "2026-05-18T11:43:54.014743+00:00",
+    "analyzed_at": "2026-05-18T11:43:54.014743+00:00",
+    "summary": "ZeroStack 是一个用 Rust 语言构建的极简主义 AI 编程智能体。其核心方案在于利用 Rust 的高性能与低内存占用特性，重新实现 Agent 框架。该项目主要解决了现有基于 Python 的代码 Agent 运行臃肿、资源消耗大且难以在低功耗设备部署的问题。",
+    "highlights": [
+      "Rust 实现极致轻量，内存占用极低",
+      "专注代码生成性能，高效执行"
+    ],
+    "score": 6,
+    "score_reason": "Rust 实现的创新架构，解决了资源占用痛点，适合特定场景。",
+    "tags": [
+      "agent",
+      "code_generation"
+    ],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 626,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    },
+    "target_audience": "追求高性能的 AI 工具开发者、Rust 技术爱好者、边缘计算场景用户"
+  },
+  {
+    "id": "57a0ab1e-51cd-4cd6-afbb-b8814ed193ac",
+    "title": "cdanielc293/Jenny-Mod-All-Versions",
+    "source_url": "https://github.com/cdanielc293/Jenny-Mod-All-Versions",
+    "source": "unknown",
+    "collected_at": "2026-05-18T11:45:52.765238+00:00",
+    "analyzed_at": "2026-05-18T11:45:52.765238+00:00",
+    "summary": "这是一个Minecraft游戏模组，支持Java版、基岩版及移动端，兼容Forge和Fabric加载器。核心方案是提供Jenny、Ellie等特定角色的全版本下载与安装包。主要解决玩家在不同Minecraft版本和平台上安装该模组的兼容性问题。",
+    "highlights": [
+      "支持Java版及移动端全平台",
+      "兼容Forge与Fabric加载器",
+      "包含特定角色及自定义动画"
+    ],
+    "score": 1,
+    "score_reason": "属于游戏模组，与AI/LLM/Agent技术领域完全无关。",
+    "tags": [
+      "open_source",
+      "programming_language"
+    ],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 537,
+      "score": null,
+      "author": null,
+      "language": "C#"
+    },
+    "target_audience": "Minecraft游戏玩家及模组爱好者"
+  },
+  {
+    "id": "9e36552e-053a-4b1d-a619-e4b6ac8b1199",
+    "title": "BharathKumarSuresh/claude-design-system-hooks",
+    "source_url": "https://github.com/BharathKumarSuresh/claude-design-system-hooks",
+    "source": "unknown",
+    "collected_at": "2026-05-18T11:47:56.493510+00:00",
+    "analyzed_at": "2026-05-18T11:47:56.493510+00:00",
+    "summary": "这是一个面向 Claude Code CLI 的设计技能与 Hooks 扩展集合项目。核心方案提供了一套预构建的 AI 设计系统能力和自动化钩子，支持用户通过简单的安装集成到开发环境中。该项目主要解决了开发者在利用 Claude Code 进行界面设计时缺乏现成专业工具和自动化流程的问题，旨在通过社区共享的插件包增强 Claude Code 的前端与设计生产力。",
+    "highlights": [
+      "集成 Claude Code CLI 设计技能集",
+      "提供预构建 Hooks 自动化插件"
+    ],
+    "score": 6,
+    "score_reason": "扩展 Claude Code 实用功能，适合特定场景，但非底层创新。",
+    "tags": [
+      "code_generation",
+      "prompt_engineering",
+      "open_source"
+    ],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 423,
+      "score": null,
+      "author": null,
+      "language": null
+    },
+    "target_audience": "使用 Claude Code CLI 进行前端开发或 UI 设计的开发者"
+  },
+  {
+    "id": "0b9e07fa-3a45-42d7-a213-6636b40e7006",
+    "title": "2508965-ship-it/harmonist-orchestral",
+    "source_url": "https://github.com/2508965-ship-it/harmonist-orchestral",
+    "source": "unknown",
+    "collected_at": "2026-05-18T11:49:26.694119+00:00",
+    "analyzed_at": "2026-05-18T11:49:26.694119+00:00",
+    "summary": "Harmonist Orchestral 是一个多智能体编排引擎，致力于构建与部署 AI 群体。核心方案是结合 Claude Code 和 Cursor IDE，提供代码级的智能体集群管理能力。该项目主要解决在复杂开发场景下，如何高效调度与协同多个 AI 智能体以完成自动化任务的问题，为 AI 原生开发提供了底层编排支持。",
+    "highlights": [
+      "专为 AI 群体协作设计的编排引擎",
+      "深度集成 Claude Code 与 Cursor IDE"
+    ],
+    "score": 6,
+    "score_reason": "针对特定IDE集成的框架，有一定创新性但生态尚在发展。",
+    "tags": [
+      "agent",
+      "llm",
+      "code_generation",
+      "prompt_engineering"
+    ],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 421,
+      "score": null,
+      "author": null,
+      "language": null
+    },
+    "target_audience": "使用 Claude/Cursor 的 AI 开发者及多智能体系统研究者"
+  },
+  {
+    "id": "3a8464d9-3e53-48c9-8fbe-5cc3d2fdcc2c",
+    "title": "NirmalKumar-77/R6S-Rainmaker-2027",
+    "source_url": "https://github.com/NirmalKumar-77/R6S-Rainmaker-2027",
+    "source": "unknown",
+    "collected_at": "2026-05-18T11:50:47.407025+00:00",
+    "analyzed_at": "2026-05-18T11:50:47.407025+00:00",
+    "summary": "这是一个针对《彩虹六号》游戏的作弊工具，其核心方案是通过底层代码操纵游戏内存与利用安全漏洞，实现自动瞄准及透视等非法功能。该项目声称具备反检测能力，旨在为玩家提供不公平的竞技优势，属于典型的游戏外挂工具，完全不属于AI技术范畴，不具备任何积极的开发参考价值。",
+    "highlights": [
+      "专为R6S游戏设计的作弊外挂工具",
+      "提供自瞄与透视等非法游戏功能"
+    ],
+    "score": 1,
+    "score_reason": "属于游戏作弊工具，与AI技术完全无关，且涉及安全问题。",
+    "tags": [
+      "security",
+      "open_source"
+    ],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 420,
+      "score": null,
+      "author": null,
+      "language": null
+    },
+    "target_audience": "游戏外挂寻求者或进行游戏安全逆向分析的研究人员"
+  },
+  {
+    "id": "7edfb6d0-e68e-40cb-b670-04d010122980",
+    "title": "cyldz666/Arc-Raiders-Latency-Redux-Kit",
+    "source_url": "https://github.com/cyldz666/Arc-Raiders-Latency-Redux-Kit",
+    "source": "unknown",
+    "collected_at": "2026-05-18T11:51:56.191784+00:00",
+    "analyzed_at": "2026-05-18T11:51:56.191784+00:00",
+    "summary": "这是一个专为《Arc Raiders》FPS游戏设计的网络性能优化工具。其核心方案是通过特定的网络配置脚本或参数调整，针对性地修复数据包丢失和抖动问题。该工具旨在为PC玩家解决在多人在线对战时因网络波动导致的游戏卡顿和高延迟现象，从而通过优化网络环境提升整体的游戏帧率稳定性和操作响应速度。",
+    "highlights": [
+      "针对Arc Raiders定制的网络优化方案",
+      "有效降低丢包率与网络延迟抖动"
+    ],
+    "score": 1,
+    "score_reason": "非AI/LLM/Agent相关项目，仅为特定游戏工具。",
+    "tags": [
+      "open_source"
+    ],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 420,
+      "score": null,
+      "author": null,
+      "language": null
+    },
+    "target_audience": "Arc Raiders游戏的PC玩家及寻求网络优化的游戏爱好者"
+  },
+  {
+    "id": "ae0066a9-a5da-4d7f-9082-404c28d45663",
+    "title": "MardaRizkyPurwadi/Warzone-2026-Scan-Framework",
+    "source_url": "https://github.com/MardaRizkyPurwadi/Warzone-2026-Scan-Framework",
+    "source": "unknown",
+    "collected_at": "2026-05-18T11:52:15.143596+00:00",
+    "analyzed_at": "2026-05-18T11:52:15.143596+00:00",
+    "summary": "🛡️ Warzone 2026 DM-A – Ultimate Pixel Scan Bot & Mod Menu for COD Black Ops 6",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 420,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  }
+]
