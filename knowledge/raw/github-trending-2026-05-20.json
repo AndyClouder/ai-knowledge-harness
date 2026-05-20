@@ -1,0 +1,65 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-05-20T10:48:35.335849+00:00",
+  "items": [
+    {
+      "name": "vercel-labs/zerolang",
+      "url": "https://github.com/vercel-labs/zerolang",
+      "summary": "The programming language for agents",
+      "stars": 3749,
+      "language": "C",
+      "topics": []
+    },
+    {
+      "name": "AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
+      "url": "https://github.com/AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
+      "summary": "Claude pro free Mythos design Opus Cowork  Sonnet AI Anthropic App: download free PC android apk iOS, Anthropic Claude API key setup, Claude roleplay mythos client, SillyTavern Claude prompt formattin",
+      "stars": 514,
+      "language": "C#",
+      "topics": [
+        "claude",
+        "claude-ai",
+        "claude-code",
+        "claude-code-cli",
+        "claude-code-hooks",
+        "claude-code-marketplace",
+        "claude-code-plugin",
+        "claude-code-plugins",
+        "claude-code-skill",
+        "claude-code-skills",
+        "claude-code-subagents",
+        "claude-cowork-free",
+        "claude-design-ai",
+        "claude-design-alternative",
+        "claude-design-download",
+        "claude-design-free",
+        "claude-mythos",
+        "claude-opus",
+        "claude-opus-4-6",
+        "mythos"
+      ]
+    },
+    {
+      "name": "sapientinc/HRM-Text",
+      "url": "https://github.com/sapientinc/HRM-Text",
+      "summary": "HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.",
+      "stars": 480,
+      "language": "Python",
+      "topics": [
+        "hierarchical-reasoning-model",
+        "hrm",
+        "large-language-models",
+        "pretraining"
+      ]
+    },
+    {
+      "name": "simonlin1212/TradingAgents-astock",
+      "url": "https://github.com/simonlin1212/TradingAgents-astock",
+      "summary": "A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A-share multi-agent investment research framework — 7 AI analysts, bull/bear debate, risk assessment。",
+      "stars": 423,
+      "language": "Python",
+      "topics": []
+    }
+  ]
+}

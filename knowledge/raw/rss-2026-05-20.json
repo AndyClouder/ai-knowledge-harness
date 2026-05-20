@@ -1,0 +1,178 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-05-20T10:49:03.376476+00:00",
+  "items": [
+    {
+      "name": "Chronify – extension+webapp that turns AI chats and files into dated timeline",
+      "url": "https://chronify.life",
+      "summary": "Article URL: https://chronify.life\nComments URL: https://news.ycombinator.com/item?id=48205601\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "bulyaki",
+      "published": "Wed, 20 May 2026 10:31:14 +0000"
+    },
+    {
+      "name": "Show HN: I fixed my AI goose tutor to stop punishing understanding",
+      "url": "https://professorgoose.com/?version=2.0",
+      "summary": "a few weeks ago, I built professor goose, a socratic ai tutor built around the feynman idea that if you can’t explain it, you don’t understand it. the way professor goose works specifically is you pic",
+      "source": "hacker_news",
+      "score": null,
+      "author": "zapseo",
+      "published": "Wed, 20 May 2026 10:30:15 +0000"
+    },
+    {
+      "name": "Learnings from 100K lines of Rust with AI (2025)",
+      "url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
+      "summary": "Article URL: https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html\nComments URL: https://news.ycombinator.com/item?id=48205415\nPoints: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pramodbiligiri",
+      "published": "Wed, 20 May 2026 10:04:28 +0000"
+    },
+    {
+      "name": "Ask HN: How to make a mono-repo AI-Ready?",
+      "url": "https://news.ycombinator.com/item?id=48205190",
+      "summary": "The org is pushing for AI-readiness! We run a fairly large monorepo, part of that is a shared web-platform.Our team is struggling with the inbound contributions to said web-platform from other teams s",
+      "source": "hacker_news",
+      "score": null,
+      "author": "kasnaka",
+      "published": "Wed, 20 May 2026 09:32:57 +0000"
+    },
+    {
+      "name": "Public have more fear than hope on AI and future of work, study finds",
+      "url": "https://www.kcl.ac.uk/news/one-in-five-britons-think-ai-will-create-civil-unrest-study-finds",
+      "summary": "Article URL: https://www.kcl.ac.uk/news/one-in-five-britons-think-ai-will-create-civil-unrest-study-finds\nComments URL: https://news.ycombinator.com/item?id=48205143\nPoints: 8\n# Comments: 3",
+      "source": "hacker_news",
+      "score": null,
+      "author": "geox",
+      "published": "Wed, 20 May 2026 09:26:39 +0000"
+    },
+    {
+      "name": "AI will create more jobs than it eliminates from 2028",
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2026-05-13-gartner-hr-research-reveals-ai-will-create-more-jobs-than-it-eliminates-beginning-in-2028",
+      "summary": "Article URL: https://www.gartner.com/en/newsroom/press-releases/2026-05-13-gartner-hr-research-reveals-ai-will-create-more-jobs-than-it-eliminates-beginning-in-2028\nComments URL: https://news.ycombina",
+      "source": "hacker_news",
+      "score": null,
+      "author": "01-_-",
+      "published": "Wed, 20 May 2026 08:58:25 +0000"
+    },
+    {
+      "name": "The Expired Domain Trap: Why Legacy SEO Metrics Fail in the Age of AI Agents",
+      "url": "https://domainalot.substack.com/p/the-great-domain-illusion-why-legacy",
+      "summary": "Article URL: https://domainalot.substack.com/p/the-great-domain-illusion-why-legacy\nComments URL: https://news.ycombinator.com/item?id=48204875\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "sonofmarzipan",
+      "published": "Wed, 20 May 2026 08:52:35 +0000"
+    },
+    {
+      "name": "Auto Agent Protocol – an A2A vertical for AI agents buying cars",
+      "url": "https://autoagentprotocol.org/",
+      "summary": "Article URL: https://autoagentprotocol.org/\nComments URL: https://news.ycombinator.com/item?id=48204856\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "yankouskia",
+      "published": "Wed, 20 May 2026 08:51:07 +0000"
+    },
+    {
+      "name": "Show HN: The AI Quant Desk for Onchain Finance",
+      "url": "https://grid.raster.finance/en/portfolio-analytics",
+      "summary": "Most Web3 tools only track basic balances and approximate wallet data.Raster brings TradFi accounting rigor to DeFi through a unified Truth, Risk, and Decision Intelligence framework.Our proprietary a",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Iwan-Raster",
+      "published": "Wed, 20 May 2026 08:49:20 +0000"
+    },
+    {
+      "name": "Show HN: Shitty AI App Idea Generator",
+      "url": "https://shittyaiappidea.com",
+      "summary": "Just a little fun take on tonnes of new AI apps. It's not meant to be serious. Only for fun and giggles.\n\nComments URL: https://news.ycombinator.com/item?id=48204772\nPoints: 2\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "onexey",
+      "published": "Wed, 20 May 2026 08:38:39 +0000"
+    },
+    {
+      "name": "Gemini Omni AI Video Generator",
+      "url": "https://gemini-omni-ai.com/",
+      "summary": "Article URL: https://gemini-omni-ai.com/\nComments URL: https://news.ycombinator.com/item?id=48204672\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "gregzeng95",
+      "published": "Wed, 20 May 2026 08:21:19 +0000"
+    },
+    {
+      "name": "I built my AI Chief of Staff",
+      "url": "https://www.cesarrg.com/how-i-built-my-ai-chief-of-staff/",
+      "summary": "Article URL: https://www.cesarrg.com/how-i-built-my-ai-chief-of-staff/\nComments URL: https://news.ycombinator.com/item?id=48204641\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "cesarrg",
+      "published": "Wed, 20 May 2026 08:15:12 +0000"
+    },
+    {
+      "name": "The Many Kings Problem: Why Humans May Survive an Age of Superior AI [pdf]",
+      "url": "https://zenodo.org/records/20281580",
+      "summary": "Article URL: https://zenodo.org/records/20281580\nComments URL: https://news.ycombinator.com/item?id=48204522\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "AccidentalOrder",
+      "published": "Wed, 20 May 2026 07:59:23 +0000"
+    },
+    {
+      "name": "I built a scrubber to prevent AI from reading your secrets",
+      "url": "https://news.ycombinator.com/item?id=48204499",
+      "summary": "https://github.com/svn-arv/redacted\n\nComments URL: https://news.ycombinator.com/item?id=48204499\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "svn-arv",
+      "published": "Wed, 20 May 2026 07:54:40 +0000"
+    },
+    {
+      "name": "You cannot sell AI written software",
+      "url": "https://blog.habets.se/2026/05/You-cannot-sell-AI-written-software.html",
+      "summary": "Article URL: https://blog.habets.se/2026/05/You-cannot-sell-AI-written-software.html\nComments URL: https://news.ycombinator.com/item?id=48204280\nPoints: 2\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "marcofloriano",
+      "published": "Wed, 20 May 2026 07:24:04 +0000"
+    },
+    {
+      "name": "AI Could Help the Climate",
+      "url": "https://www.economist.com/leaders/2025/04/10/how-ai-could-help-the-climate",
+      "summary": "Article URL: https://www.economist.com/leaders/2025/04/10/how-ai-could-help-the-climate\nComments URL: https://news.ycombinator.com/item?id=48204138\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "andsoitis",
+      "published": "Wed, 20 May 2026 07:05:33 +0000"
+    },
+    {
+      "name": "Slax Reader CLI: a read-later library your AI agents can use",
+      "url": "https://slax.com/blog/slax-reader-cli-a-read-later-library-for-ai-agents/",
+      "summary": "Article URL: https://slax.com/blog/slax-reader-cli-a-read-later-library-for-ai-agents/\nComments URL: https://news.ycombinator.com/item?id=48204032\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "wulujia",
+      "published": "Wed, 20 May 2026 06:52:17 +0000"
+    },
+    {
+      "name": "SRM: Detecting slow-burn risk in AI-agent sessions before execution",
+      "url": "https://arxiv.org/abs/2603.22350",
+      "summary": "Article URL: https://arxiv.org/abs/2603.22350\nComments URL: https://news.ycombinator.com/item?id=48204007\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ilion_identity",
+      "published": "Wed, 20 May 2026 06:50:08 +0000"
+    },
+    {
+      "name": "Nucleus: Enforced permissions for AI agents – policy+enforcement in one stack",
+      "url": "https://github.com/coproduct-opensource/nucleus",
+      "summary": "Article URL: https://github.com/coproduct-opensource/nucleus\nComments URL: https://news.ycombinator.com/item?id=48203918\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "weitzj",
+      "published": "Wed, 20 May 2026 06:38:07 +0000"
+    }
+  ]
+}
