@@ -1,0 +1,159 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-05-21T11:20:40.564602+00:00",
+  "items": [
+    {
+      "name": "bytedance/Lance",
+      "url": "https://github.com/bytedance/Lance",
+      "summary": "A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing.",
+      "stars": 610,
+      "language": "Python",
+      "topics": [
+        "image-editing",
+        "image-generation",
+        "image-understanding",
+        "unified-multimodal-models",
+        "video-generation",
+        "video-understanding"
+      ]
+    },
+    {
+      "name": "SalhaNabil/CloakBrowser",
+      "url": "https://github.com/SalhaNabil/CloakBrowser",
+      "summary": "CloakBrowser Github: anti-detect browser download, source-level chromium patches, browser fingerprinting spoofing, multi-accounting tool, canvas webgl modification, proxy manager http socks5, cookie i",
+      "stars": 525,
+      "language": "TypeScript",
+      "topics": [
+        "anti-detect",
+        "anti-detect-browser",
+        "antidetect-browser",
+        "chromium",
+        "cloak-browser",
+        "cloak-browser-github",
+        "cloakbrowser",
+        "cloakbrowser-download",
+        "cloakbrowser-downloader",
+        "cloakbrowser-install",
+        "cloakbrowser-installer",
+        "stealth-browser"
+      ]
+    },
+    {
+      "name": "uktrash/LSFG-Desktop",
+      "url": "https://github.com/uktrash/LSFG-Desktop",
+      "summary": "Lossless Scaling github steam reddit LSFG 3 frame generation  v3.22, uncap FPS low end PC, AMD FSR NIS scaling, cursor lag fix. Double FPS laptop guide, windowed to borderless fullscreen, ghosting art",
+      "stars": 430,
+      "language": "C#",
+      "topics": [
+        "crimson-desert-lsfg",
+        "frame-generation",
+        "gaming-performance",
+        "lossless-frame-generation",
+        "lossless-scaling",
+        "lossless-scaling-2026",
+        "lossless-scaling-android",
+        "lossless-scaling-download",
+        "lossless-scaling-github",
+        "lossless-scaling-lsfg",
+        "lossless-scaling-pc",
+        "lossless-scaling-reddit",
+        "lossless-scaling-software",
+        "lossless-scaling-steam",
+        "lossless-scaling-v3",
+        "lsfg",
+        "lsfg-ai-upscaling",
+        "lsfg-vk",
+        "optiscaler",
+        "smooth-gaming"
+      ]
+    },
+    {
+      "name": "CylinderChairman/aida64",
+      "url": "https://github.com/CylinderChairman/aida64",
+      "summary": "aida64 unlocker extreme edition",
+      "stars": 417,
+      "language": "PowerShell",
+      "topics": [
+        "aida64",
+        "aida64-extreme-patch",
+        "aida64-unlocker"
+      ]
+    },
+    {
+      "name": "dannyhsueh2/Forza-Horizon-6-Premium",
+      "url": "https://github.com/dannyhsueh2/Forza-Horizon-6-Premium",
+      "summary": "Forza Horizon 6 release date : PC system requirements, early access Steam. Premium Upgrade Bundle, Car Pass, VIP Membership. Japan map, Mt Fuji, Tokyo street racing, Touge Battles, JDM cars, Ferrari J",
+      "stars": 412,
+      "language": "C++",
+      "topics": [
+        "forza",
+        "forza-horizon",
+        "forza-horizon-4",
+        "forza-horizon-5",
+        "forza-horizon-6",
+        "forza-horizon-6-download",
+        "forza-horizon-6-free",
+        "forza-horizon-6-install",
+        "forza-horizon-6-pc",
+        "forza-horizon-6-premium",
+        "forza-horizon-6-release",
+        "forza-horizon-6-steam",
+        "forza-motorsport",
+        "game",
+        "open-source-game"
+      ]
+    },
+    {
+      "name": "MFS9628/Deepseek-v4-pro-app",
+      "url": "https://github.com/MFS9628/Deepseek-v4-pro-app",
+      "summary": "DeepSeek v4 Pro github Flash chat: API flash gemma 4 gemini qwen claude chatgpt 4  key pricing tier, open source weights, huggingface model repository, local execution ollama setup. context window tok",
+      "stars": 399,
+      "language": null,
+      "topics": [
+        "ai-app",
+        "ai-powered-applications",
+        "artificial-intelligence-projects",
+        "deep-seek",
+        "deepseek",
+        "deepseek-api",
+        "deepseek-free-api",
+        "deepseek-integration",
+        "deepseek-ocr-2",
+        "deepseek-r1",
+        "deepseek-r1-zero",
+        "deepseek-v3",
+        "deepseek-v4",
+        "deepseek-v4-api",
+        "deepseek-v4-app",
+        "deepseek-v4-free",
+        "deepseek-v4-pro",
+        "deepseekv4",
+        "deepseekv4-flash",
+        "free-api"
+      ]
+    },
+    {
+      "name": "shannhk/hermes-agent-control-room",
+      "url": "https://github.com/shannhk/hermes-agent-control-room",
+      "summary": "Control Room-first template for managing Hermes agents from one VPS agent to specialist teams and orchestrated workflows",
+      "stars": 396,
+      "language": "Shell",
+      "topics": [
+        "agent-control-room",
+        "ai-agents",
+        "hermes-agent",
+        "multi-agent",
+        "vps"
+      ]
+    },
+    {
+      "name": "evilsocket/audit",
+      "url": "https://github.com/evilsocket/audit",
+      "summary": "An 8-stage vulnerability-discovery agent.",
+      "stars": 388,
+      "language": "Python",
+      "topics": []
+    }
+  ]
+}

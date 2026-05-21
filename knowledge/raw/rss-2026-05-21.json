@@ -1,0 +1,178 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-05-21T11:20:49.181202+00:00",
+  "items": [
+    {
+      "name": "Let the AI Cook",
+      "url": "https://www.ivan.codes/blog/let-it-cook",
+      "summary": "Article URL: https://www.ivan.codes/blog/let-it-cook\nComments URL: https://news.ycombinator.com/item?id=48220710\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "thecupisblue",
+      "published": "Thu, 21 May 2026 11:11:15 +0000"
+    },
+    {
+      "name": "AI Can Seem More Human Than Real Humans in a Classic Turing Test, Study Finds",
+      "url": "https://today.ucsd.edu/story/ai-can-seem-more-human-than-real-humans-in-a-classic-turing-test-study-finds",
+      "summary": "Article URL: https://today.ucsd.edu/story/ai-can-seem-more-human-than-real-humans-in-a-classic-turing-test-study-finds\nComments URL: https://news.ycombinator.com/item?id=48220433\nPoints: 3\n# Comments:",
+      "source": "hacker_news",
+      "score": null,
+      "author": "giuliomagnifico",
+      "published": "Thu, 21 May 2026 10:36:44 +0000"
+    },
+    {
+      "name": "Built a live multi-agent AI operations workspace for software engineering teams",
+      "url": "https://realtechsolutions.work.gd/",
+      "summary": "Article URL: https://realtechsolutions.work.gd/\nComments URL: https://news.ycombinator.com/item?id=48220377\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "MunangiwaR",
+      "published": "Thu, 21 May 2026 10:28:16 +0000"
+    },
+    {
+      "name": "KiroGraph: Local code knowledge graph for AI, optimized for token efficiency",
+      "url": "https://github.com/davide-desio-eleva/kirograph",
+      "summary": "Article URL: https://github.com/davide-desio-eleva/kirograph\nComments URL: https://news.ycombinator.com/item?id=48220335\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ddesio",
+      "published": "Thu, 21 May 2026 10:22:54 +0000"
+    },
+    {
+      "name": "The three layers: browser, index, AI – what happens when you own all three",
+      "url": "https://github.com/the-ai-coop/open-letter",
+      "summary": "Article URL: https://github.com/the-ai-coop/open-letter\nComments URL: https://news.ycombinator.com/item?id=48220326\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "the-ai-coop",
+      "published": "Thu, 21 May 2026 10:22:05 +0000"
+    },
+    {
+      "name": "Intuit CEO says company's 17% workforce cut had 'nothing to do with AI'",
+      "url": "https://www.cnbc.com/2026/05/20/intuit-ceo-says-companys-17percent-workforce-cut-had-nothing-to-do-with-ai.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/05/20/intuit-ceo-says-companys-17percent-workforce-cut-had-nothing-to-do-with-ai.html\nComments URL: https://news.ycombinator.com/item?id=48220274\nPoints: 4\n# Com",
+      "source": "hacker_news",
+      "score": null,
+      "author": "yacin",
+      "published": "Thu, 21 May 2026 10:15:23 +0000"
+    },
+    {
+      "name": "Google officially announces that ads will be included in AI Mode search results",
+      "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
+      "summary": "Article URL: https://blog.google/products/ads-commerce/google-marketing-live-search-ads/\nComments URL: https://news.ycombinator.com/item?id=48220105\nPoints: 90\n# Comments: 82",
+      "source": "hacker_news",
+      "score": null,
+      "author": "sofumel",
+      "published": "Thu, 21 May 2026 09:49:46 +0000"
+    },
+    {
+      "name": "AMD's New Ryzen AI Max Pro 400 with 192GB LPDDR5X Memory",
+      "url": "https://www.servethehome.com/amd-reveals-ryzen-ai-max-pro-400-series-192gb-ram-for-ai-systems/",
+      "summary": "Article URL: https://www.servethehome.com/amd-reveals-ryzen-ai-max-pro-400-series-192gb-ram-for-ai-systems/\nComments URL: https://news.ycombinator.com/item?id=48220054\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "calcifer",
+      "published": "Thu, 21 May 2026 09:40:14 +0000"
+    },
+    {
+      "name": "I Taught an AI to Be Our On-Call Engineer",
+      "url": "https://medium.com/pipedrive-engineering/scooby-how-i-taught-an-ai-to-be-our-on-call-engineer-163e3b3662ab",
+      "summary": "Article URL: https://medium.com/pipedrive-engineering/scooby-how-i-taught-an-ai-to-be-our-on-call-engineer-163e3b3662ab\nComments URL: https://news.ycombinator.com/item?id=48220042\nPoints: 2\n# Comments",
+      "source": "hacker_news",
+      "score": null,
+      "author": "devuo",
+      "published": "Thu, 21 May 2026 09:38:33 +0000"
+    },
+    {
+      "name": "AI token streaming isn't about SSE vs. WebSockets",
+      "url": "https://zknill.io/posts/ai-token-streaming-isnt-about-sse-vs-websockets/",
+      "summary": "Article URL: https://zknill.io/posts/ai-token-streaming-isnt-about-sse-vs-websockets/\nComments URL: https://news.ycombinator.com/item?id=48219943\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "zknill",
+      "published": "Thu, 21 May 2026 09:25:11 +0000"
+    },
+    {
+      "name": "AI Engineering from Scratch",
+      "url": "https://aiengineeringfromscratch.com",
+      "summary": "Article URL: https://aiengineeringfromscratch.com\nComments URL: https://news.ycombinator.com/item?id=48219853\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rippeltippel",
+      "published": "Thu, 21 May 2026 09:14:13 +0000"
+    },
+    {
+      "name": "AI red teaming agents change how LLMs get tested",
+      "url": "https://www.helpnetsecurity.com/2026/05/21/ai-red-teaming-agents-research/",
+      "summary": "Article URL: https://www.helpnetsecurity.com/2026/05/21/ai-red-teaming-agents-research/\nComments URL: https://news.ycombinator.com/item?id=48219556\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "SVI",
+      "published": "Thu, 21 May 2026 08:36:22 +0000"
+    },
+    {
+      "name": "Google search AI mode, the biggest update",
+      "url": "https://www.usatoday.com/story/tech/2026/05/20/google-search-ai-mode-biggest-update/90180507007/",
+      "summary": "Article URL: https://www.usatoday.com/story/tech/2026/05/20/google-search-ai-mode-biggest-update/90180507007/\nComments URL: https://news.ycombinator.com/item?id=48219539\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "aledevv",
+      "published": "Thu, 21 May 2026 08:32:55 +0000"
+    },
+    {
+      "name": "Show HN: Gemini Omni Flash access notes and AI video generator",
+      "url": "https://omnigemini.video",
+      "summary": "Article URL: https://omnigemini.video\nComments URL: https://news.ycombinator.com/item?id=48219536\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "howardV",
+      "published": "Thu, 21 May 2026 08:32:45 +0000"
+    },
+    {
+      "name": "Twelve Ways to Be Wrong About AI-Assisted Coding",
+      "url": "https://third-bit.com/2026/05/20/twelve-ways-to-be-wrong/",
+      "summary": "Article URL: https://third-bit.com/2026/05/20/twelve-ways-to-be-wrong/\nComments URL: https://news.ycombinator.com/item?id=48219481\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "calcifer",
+      "published": "Thu, 21 May 2026 08:24:42 +0000"
+    },
+    {
+      "name": "Linki – open-source AI SDR for LinkedIn sequences and cold email",
+      "url": "https://github.com/moaljumaa/linki",
+      "summary": "Article URL: https://github.com/moaljumaa/linki\nComments URL: https://news.ycombinator.com/item?id=48219367\nPoints: 4\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "moisacow",
+      "published": "Thu, 21 May 2026 08:06:14 +0000"
+    },
+    {
+      "name": "Are TypeScript back end frameworks ready for AI Agents?",
+      "url": "https://encore.dev/blog/ai-benchmark",
+      "summary": "Article URL: https://encore.dev/blog/ai-benchmark\nComments URL: https://news.ycombinator.com/item?id=48219346\nPoints: 4\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "dohguy",
+      "published": "Thu, 21 May 2026 08:03:14 +0000"
+    },
+    {
+      "name": "Transforming Digital Pathology with AI",
+      "url": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00049-X/fulltext",
+      "summary": "Article URL: https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00049-X/fulltext\nComments URL: https://news.ycombinator.com/item?id=48219330\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "teleforce",
+      "published": "Thu, 21 May 2026 08:00:52 +0000"
+    },
+    {
+      "name": "Show HN: A SQLite graph that captures why AI-generated code exists",
+      "url": "https://github.com/enzoferraripapa-arch/ai-vprocess-ops",
+      "summary": "I'm experimenting with a way to make AI-assisted development easier to review later. I built a small Python/SQLite prototype and would like feedback.\n\nComments URL: https://news.ycombinator.com/item?i",
+      "source": "hacker_news",
+      "score": null,
+      "author": "enzo_ferrari",
+      "published": "Thu, 21 May 2026 07:30:49 +0000"
+    }
+  ]
+}
