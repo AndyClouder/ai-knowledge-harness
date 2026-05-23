@@ -1,0 +1,265 @@
+[
+  {
+    "id": "70fab634-16d0-4d3f-a87c-64bda766ada9",
+    "title": "perplexityai/bumblebee",
+    "source_url": "https://github.com/perplexityai/bumblebee",
+    "source": "unknown",
+    "collected_at": "2026-05-23T09:50:47.008800+00:00",
+    "analyzed_at": "2026-05-23T09:50:47.008800+00:00",
+    "summary": "Bumblebee 是一款由 Perplexity AI 开发的开源工具，旨在盘点 macOS 和 Linux 开发环境中的软件包、扩展及元数据。它采用高效的只读扫描机制，能够快速识别开发者端点上的各类开发工具和组件信息。该工具主要解决企业供应链安全暴露检查的问题，帮助安全团队快速发现潜在风险。",
+    "highlights": [
+      "针对开发者端点的供应链安全工具",
+      "支持快速盘点各类软件包元数据"
+    ],
+    "score": 6,
+    "score_reason": "实用的安全辅助工具，偏向特定运维场景，非通用AI框架。",
+    "tags": [
+      "security",
+      "open_source"
+    ],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 529,
+      "score": null,
+      "author": null,
+      "language": "Go"
+    },
+    "target_audience": "DevOps工程师、安全运维人员及关注供应链安全的技术团队"
+  },
+  {
+    "id": "ba4b1891-805c-4254-b6a9-2bd15246d667",
+    "title": "lynote-ai/humanize-text",
+    "source_url": "https://github.com/lynote-ai/humanize-text",
+    "source": "unknown",
+    "collected_at": "2026-05-23T09:51:45.688460+00:00",
+    "analyzed_at": "2026-05-23T09:51:45.688460+00:00",
+    "summary": "这是一个免费开源的AI文本拟人化工具，旨在将机器生成内容转换为难以被检测的类人写作风格。核心方案通过智能重写技术调整文本的语言特征与统计指纹，有效绕过Turnitin、GPTZero等主流AI检测器。它主要解决了用户在使用AI辅助写作时面临的内容被识别风险与合规性挑战，无需注册即可无限次使用，保障内容通过率。",
+    "highlights": [
+      "免费开源且无需注册，提供无限次使用的文本拟人化服务。",
+      "有效绕过GPTZero等主流检测器，解决内容被识别问题。"
+    ],
+    "score": 6,
+    "score_reason": "针对特定场景的实用工具，解决了AI检测规避需求。",
+    "tags": [
+      "nlp",
+      "llm",
+      "open_source"
+    ],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 496,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    },
+    "target_audience": "需要规避AI检测的内容创作者、学生及SEO从业者"
+  },
+  {
+    "id": "426c40ca-087c-4d2b-8b33-79ef30dfd96a",
+    "title": "paradigmxyz/centaur",
+    "source_url": "https://github.com/paradigmxyz/centaur",
+    "source": "unknown",
+    "collected_at": "2026-05-23T09:52:25.032111+00:00",
+    "analyzed_at": "2026-05-23T09:52:25.032111+00:00",
+    "summary": "Centaur是一个专为多人协作场景打造的开源自托管智能体框架，其核心方案在于构建高安全隔离的运行环境与端到端加密通信机制。该项目致力于彻底解决多智能体系统在复杂人机交互与协作过程中面临的数据隐私泄露风险及系统安全性漏洞，从而为企业级用户提供私有化部署、完全可控且高安全性的AI协作基础设施体验。",
+    "highlights": [
+      "支持多人协作的安全自托管架构",
+      "解决智能体交互的隐私安全问题"
+    ],
+    "score": 6,
+    "score_reason": "针对智能体安全协作提供了可行的解决方案。",
+    "tags": [
+      "agent",
+      "security",
+      "open_source"
+    ],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 402,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    },
+    "target_audience": "需要高安全性私有化部署多智能体系统的开发者与企业"
+  },
+  {
+    "id": "4263bf29-7dbe-488d-b18c-9d28afc9d389",
+    "title": "xzf-thu/Mega-ASR",
+    "source_url": "https://github.com/xzf-thu/Mega-ASR",
+    "source": "unknown",
+    "collected_at": "2026-05-23T09:53:06.357243+00:00",
+    "analyzed_at": "2026-05-23T09:53:06.357243+00:00",
+    "summary": "Mega-ASR是首个专为现实复杂环境构建的基础语音识别模型，核心方案利用涵盖7种原子声学条件与54种复合场景的260万样本数据训练。它解决了现有模型在恶劣声学条件下识别失效的痛点，相比SOTA在极端场景下实现了高达30%的性能提升，具备极强的环境鲁棒性。",
+    "highlights": [
+      "260万样本覆盖54种复杂场景",
+      "极端环境下性能超越SOTA约30%"
+    ],
+    "score": 8,
+    "score_reason": "首个面向现实场景的基础ASR，鲁棒性突破",
+    "tags": [
+      "speech",
+      "multimodal",
+      "open_source"
+    ],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 365,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    },
+    "target_audience": "ASR研究人员、语音交互系统开发者、多模态大模型构建者"
+  },
+  {
+    "id": "0632416b-0fcb-4f1b-a879-a8f28fb14969",
+    "title": "seochecks-ai/slopless",
+    "source_url": "https://github.com/seochecks-ai/slopless",
+    "source": "unknown",
+    "collected_at": "2026-05-23T09:54:17.566593+00:00",
+    "analyzed_at": "2026-05-23T09:54:17.566593+00:00",
+    "summary": "Slopless 是一个基于 TypeScript 的静态分析工具，提供了一套确定性的 textlint 规则和命令行界面。它通过扫描 Markdown 文件，自动检测并标记其中的低劣散文风格和冗余表达。该项目旨在有效解决技术文档或博客文章中可能存在的 AI 生成内容质量问题，帮助开发者和写作者在发布前清理文本中的“垃圾”内容，确保输出内容的专业度和准确性，是提升技术写作标准的有力辅助工具。",
+    "highlights": [
+      "提供确定性 textlint 规则检测 Markdown 文本",
+      "支持 CLI 命令行工具，易于集成开发流",
+      "针对性捕获并修正低劣的 AI 生成散文"
+    ],
+    "score": 7,
+    "score_reason": "实用的静态分析工具，能显著提升文档质量，易于集成。",
+    "tags": [
+      "nlp",
+      "llm",
+      "open_source"
+    ],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 351,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    },
+    "target_audience": "技术文档编写者、维护开源项目的开发者以及对内容质量有要求的写作者。"
+  },
+  {
+    "id": "3e34a4ac-c6e3-4a01-805b-9db38eaafe66",
+    "title": "Jawaz-Keyzor/CS2-External-Cheat-2026",
+    "source_url": "https://github.com/Jawaz-Keyzor/CS2-External-Cheat-2026",
+    "source": "unknown",
+    "collected_at": "2026-05-23T09:54:53.020503+00:00",
+    "analyzed_at": "2026-05-23T09:54:53.020503+00:00",
+    "summary": "这是一个针对反恐精英2（CS2）开发的外部游戏辅助工具。其核心方案是利用屏幕捕获与实时图像分析技术，在屏幕上渲染透视墙、声纳雷达及手雷轨迹等视觉叠加层。该工具解决了传统作弊手段因修改内存或注入代码而被反作弊系统检测封禁的风险问题，为用户提供了一种基于视觉层面的信息获取优势，实现了在不触碰游戏内存进程下的辅助功能。",
+    "highlights": [
+      "基于屏幕捕获分析的视觉叠加",
+      "零内存访问与代码注入设计",
+      "整合透视可视化与战术辅助"
+    ],
+    "score": 2,
+    "score_reason": "非AI领域创新，属于游戏作弊工具，对AI开发者参考价值有限。",
+    "tags": [
+      "vision",
+      "security"
+    ],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 338,
+      "score": null,
+      "author": null,
+      "language": null
+    },
+    "target_audience": "CS2游戏玩家及游戏安全对抗研究人员"
+  },
+  {
+    "id": "33a7acf3-5caa-4cfa-bfe6-bf6cc527592a",
+    "title": "0xSero/codex-shim",
+    "source_url": "https://github.com/0xSero/codex-shim",
+    "source": "unknown",
+    "collected_at": "2026-05-23T09:55:52.286398+00:00",
+    "analyzed_at": "2026-05-23T09:55:52.286398+00:00",
+    "summary": "0xSero/codex-shim 是一个本地 Responses-API 兼容层工具。其核心方案是作为 Codex Desktop 与外部模型服务间的通信桥梁，通过接口转换将 Factory BYOK 模型及可选的 ChatGPT 暴露给桌面端。该项目解决了 Codex Desktop 难以直接调用非官方模型的问题，让用户能灵活地在本地环境接入和使用自定义大模型，提升工具的可扩展性。",
+    "highlights": [
+      "实现Codex与Factory BYOK模型桥接",
+      "支持本地模型接入Codex桌面环境",
+      "提供Responses-API标准兼容层"
+    ],
+    "score": 6,
+    "score_reason": "特定场景下的实用工具，扩展了Codex模型能力。",
+    "tags": [
+      "llm",
+      "open_source",
+      "code_generation"
+    ],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 278,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    },
+    "target_audience": "需要将自定义或本地模型集成到 Codex Desktop 的开发者"
+  },
+  {
+    "id": "92c59252-5e3c-4017-b676-0df6b5be47b8",
+    "title": "Nvidia unveils its spreading language model, \"Nemotron-Labs-Diffusion\"",
+    "source_url": "https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-14B",
+    "source": "hacker_news",
+    "collected_at": "2026-05-23T09:57:04.062927+00:00",
+    "analyzed_at": "2026-05-23T09:57:04.062927+00:00",
+    "summary": "Nvidia发布了名为Nemotron-Labs-Diffusion-14B的新型扩散语言模型。该模型摒弃传统自回归生成，采用扩散概率模型进行文本构建。核心方案在于利用去噪过程实现语言生成，旨在解决长序列生成中的累积误差与多样性平衡问题，为生成式AI提供新范式。",
+    "highlights": [
+      "Nvidia推出扩散语言模型，探索生成式新路径。",
+      "结合去噪机制优化生成，提升输出可控性与稳定性。"
+    ],
+    "score": 7,
+    "score_reason": "头部实验室探索非自回归LLM，具有重要研究价值。",
+    "tags": [
+      "llm",
+      "diffusion",
+      "open_source"
+    ],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "sofumel",
+      "language": null
+    },
+    "target_audience": "生成式AI研究员、大语言模型开发者、NLP技术爱好者"
+  },
+  {
+    "id": "1f3e667a-3cf6-48c7-80da-5d4a77fc4ca4",
+    "title": "Running Local Language Model on Game Boy Color",
+    "source_url": "https://old.reddit.com/r/LocalLLaMA/comments/1tbi2n3/i_got_a_real_transformer_language_model_running/",
+    "source": "hacker_news",
+    "collected_at": "2026-05-23T09:57:39.584889+00:00",
+    "analyzed_at": "2026-05-23T09:57:39.584889+00:00",
+    "summary": "这是一个在 Game Boy Color 掌机上运行 Transformer 语言模型的项目。作者通过极度量化和代码优化，将模型适配到该 8 位硬件平台。虽然输出能力极其有限且速度缓慢，但该项目展示了在复古计算环境中运行现代神经网络的可能性，主要满足极客探索精神和复古硬件爱好者的兴趣。",
+    "highlights": [
+      "在 Game Boy Color 上运行 Transformer",
+      "展示极致的模型量化和硬件适配能力",
+      "复古硬件与现代 AI 技术的有趣结合"
+    ],
+    "score": 6,
+    "score_reason": "极具创意的技术实验，虽无实用价值，但展示了算法极限。",
+    "tags": [
+      "llm",
+      "quantization",
+      "transformer"
+    ],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "AbuAssar",
+      "language": null
+    },
+    "target_audience": "复古计算爱好者、嵌入式开发者及对 AI 极限探索感兴趣的极客"
+  }
+]

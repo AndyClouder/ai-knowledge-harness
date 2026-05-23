@@ -1,0 +1,25 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-05-23T09:50:18.671728+00:00",
+  "items": [
+    {
+      "name": "Nvidia unveils its spreading language model, \"Nemotron-Labs-Diffusion\"",
+      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-14B",
+      "summary": "Article URL: https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-14B\nComments URL: https://news.ycombinator.com/item?id=48220074\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "sofumel",
+      "published": "Thu, 21 May 2026 09:43:35 +0000"
+    },
+    {
+      "name": "Running Local Language Model on Game Boy Color",
+      "url": "https://old.reddit.com/r/LocalLLaMA/comments/1tbi2n3/i_got_a_real_transformer_language_model_running/",
+      "summary": "Article URL: https://old.reddit.com/r/LocalLLaMA/comments/1tbi2n3/i_got_a_real_transformer_language_model_running/\nComments URL: https://news.ycombinator.com/item?id=48167721\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "AbuAssar",
+      "published": "Sun, 17 May 2026 10:42:38 +0000"
+    }
+  ]
+}
