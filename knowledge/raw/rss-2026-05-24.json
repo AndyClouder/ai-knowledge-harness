@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-05-24T09:52:24.407081+00:00",
+  "items": [
+    {
+      "name": "State Explosion Security Problem in AI-Era Software Supply Chains",
+      "url": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=09213cdc-9f30-4e82-aa6f-9b6e8d82dab3&redirect_uri=https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fs%2Fauth%2Foauth2callback%2Fproviderid%2Fdefault&response_type=code&state=NvXPbqZ37O0VmIJaiNKiAjCz7yTOwVZ7xk8ZlXLO9C2fqqrIl4euo9S_A75_2IG4VuQ4ksOf1FkVUZIJLuRHngiRd6dED-IOdAYL0z8V36yZglQkbjEyslljCbf-NMbv&scope=User.Read+openid+email+profile+offline_access&referer=https%253A%252F%252Ftechcommunity.microsoft.com%252Fblog%252Fmicrosoft-security-blog%252Fstate-explosion-security-problem-in-ai-era-software-supply-chains%252F4518255%253FpreviewMessage%253Dtrue",
+      "summary": "Article URL: https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=09213cdc-9f30-4e82-aa6f-9b6e8d82dab3&amp;redirect_uri=https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fs%2Fauth%2F",
+      "source": "hacker_news",
+      "score": null,
+      "author": "nirwandogra",
+      "published": "Sun, 24 May 2026 09:43:59 +0000"
+    },
+    {
+      "name": "ShannonBase: The Lightweight Semantic Layer for Enterprise AI SQL",
+      "url": "https://medium.com/@shannon.data.tech/shannonbase-the-lightweight-semantic-layer-for-enterprise-ai-sql-aac116b82a7e",
+      "summary": "Article URL: https://medium.com/@shannon.data.tech/shannonbase-the-lightweight-semantic-layer-for-enterprise-ai-sql-aac116b82a7e\nComments URL: https://news.ycombinator.com/item?id=48255851\nPoints: 1\n#",
+      "source": "hacker_news",
+      "score": null,
+      "author": "shannon-data-ai",
+      "published": "Sun, 24 May 2026 09:27:09 +0000"
+    },
+    {
+      "name": "OpenAI and Nvidia Are Using Google's SynthID to Watermark AI Content",
+      "url": "https://firethering.com/openai-nvidia-using-google-synthid-ai-watermarking/",
+      "summary": "Article URL: https://firethering.com/openai-nvidia-using-google-synthid-ai-watermarking/\nComments URL: https://news.ycombinator.com/item?id=48255746\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "steveharing1",
+      "published": "Sun, 24 May 2026 09:04:49 +0000"
+    },
+    {
+      "name": "Karen Hao: AI creating a DESPERATE BASE OF WORKERS with no full-time employment",
+      "url": "https://www.youtube.com/watch?v=E4Zd9ZXjkao",
+      "summary": "Article URL: https://www.youtube.com/watch?v=E4Zd9ZXjkao\nComments URL: https://news.ycombinator.com/item?id=48255657\nPoints: 5\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "chvid",
+      "published": "Sun, 24 May 2026 08:45:13 +0000"
+    },
+    {
+      "name": "Structured LLM Learning Path, from Zero to AI Researcher, 8-Phase Curriculum",
+      "url": "https://github.com/barvhaim/llm-learning-path",
+      "summary": "Article URL: https://github.com/barvhaim/llm-learning-path\nComments URL: https://news.ycombinator.com/item?id=48255624\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "bignet",
+      "published": "Sun, 24 May 2026 08:37:22 +0000"
+    },
+    {
+      "name": "A maintainability ratchet for AI-assisted Python",
+      "url": "https://kayhan.dev/posts/014-letting-agents-write-code-without-ratcheting-up-risk/",
+      "summary": "Article URL: https://kayhan.dev/posts/014-letting-agents-write-code-without-ratcheting-up-risk/\nComments URL: https://news.ycombinator.com/item?id=48255553\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "keynha",
+      "published": "Sun, 24 May 2026 08:23:11 +0000"
+    },
+    {
+      "name": "Why AI Hardware Is a Chip Layer Problem",
+      "url": "https://www.easelinktech.com/why-every-electronic-product-may-need-to-be-rebuilt-for-on-device-ai-the-chip-layer-will-decide-the-next-hardware-wave/",
+      "summary": "Article URL: https://www.easelinktech.com/why-every-electronic-product-may-need-to-be-rebuilt-for-on-device-ai-the-chip-layer-will-decide-the-next-hardware-wave/\nComments URL: https://news.ycombinator",
+      "source": "hacker_news",
+      "score": null,
+      "author": "EnXu",
+      "published": "Sun, 24 May 2026 08:16:04 +0000"
+    },
+    {
+      "name": "Ask HN: I mapped 6,494 AI engines into a taxonomy – anyone else tried this?",
+      "url": "https://news.ycombinator.com/item?id=48255441",
+      "summary": "Spent months verifying and classifying 6,494 active AI engines into 13 domains and 69 subcategories (GAIT 69). No such taxonomy existed before. Built a live app that auto-updates daily. Happy to share",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Developer_H",
+      "published": "Sun, 24 May 2026 08:02:58 +0000"
+    },
+    {
+      "name": "China behind in LLM race but it can still win in AI, ex-Tencent AI lead says",
+      "url": "https://www.scmp.com/tech/big-tech/article/3354394/china-losing-llm-race-it-can-still-win-ai-ex-tencent-ai-lead-says",
+      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3354394/china-losing-llm-race-it-can-still-win-ai-ex-tencent-ai-lead-says\nComments URL: https://news.ycombinator.com/item?id=48255311\nPoints: 1\n",
+      "source": "hacker_news",
+      "score": null,
+      "author": "01-_-",
+      "published": "Sun, 24 May 2026 07:38:51 +0000"
+    },
+    {
+      "name": "Newsom signs order aimed at tackling AI job displacement",
+      "url": "https://thehill.com/policy/technology/5889582-california-ai-job-losses/",
+      "summary": "Article URL: https://thehill.com/policy/technology/5889582-california-ai-job-losses/\nComments URL: https://news.ycombinator.com/item?id=48255299\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "01-_-",
+      "published": "Sun, 24 May 2026 07:36:11 +0000"
+    },
+    {
+      "name": "How AI is redefining Software Engineering",
+      "url": "https://adlrocha.substack.com/p/adlrocha-how-ai-is-redefining-software",
+      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-how-ai-is-redefining-software\nComments URL: https://news.ycombinator.com/item?id=48255277\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "adlrocha",
+      "published": "Sun, 24 May 2026 07:29:21 +0000"
+    },
+    {
+      "name": "Hiro, AI job matching with real visa sponsorship data (550K jobs)",
+      "url": "https://hirocareers.com",
+      "summary": "Article URL: https://hirocareers.com\nComments URL: https://news.ycombinator.com/item?id=48255235\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "sharvenrane7",
+      "published": "Sun, 24 May 2026 07:21:17 +0000"
+    },
+    {
+      "name": "For developers without design skills, how do you leverage AI for front end dev?",
+      "url": "https://news.ycombinator.com/item?id=48255197",
+      "summary": "The best tool I've found so far is Open Design, which you can combine with any of the vibe coding tools you've been using for a long time, but it's still hard to collaborate on long term projects that",
+      "source": "hacker_news",
+      "score": null,
+      "author": "boundless88",
+      "published": "Sun, 24 May 2026 07:15:00 +0000"
+    },
+    {
+      "name": "The anatomy of AI power in 2026",
+      "url": "https://wayneresearch.com/research/anatomy-of-ai-power/",
+      "summary": "Article URL: https://wayneresearch.com/research/anatomy-of-ai-power/\nComments URL: https://news.ycombinator.com/item?id=48255193\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "7moritz7",
+      "published": "Sun, 24 May 2026 07:13:46 +0000"
+    },
+    {
+      "name": "Turned ArXiv into an AI-Agent-Friendly Interface (No Browser Vision Needed)",
+      "url": "https://mediause.dev/skills/arxiv",
+      "summary": "Article URL: https://mediause.dev/skills/arxiv\nComments URL: https://news.ycombinator.com/item?id=48254958\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "yooibox",
+      "published": "Sun, 24 May 2026 06:33:27 +0000"
+    },
+    {
+      "name": "AI Can Do Anything",
+      "url": "https://clawdcursor.com",
+      "summary": "Article URL: https://clawdcursor.com\nComments URL: https://news.ycombinator.com/item?id=48254618\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "AmDab",
+      "published": "Sun, 24 May 2026 05:17:23 +0000"
+    },
+    {
+      "name": "SpaceX, OpenAI and Anthropic IPOs set to test limits of AI boom",
+      "url": "https://www.ft.com/content/ae9bb47d-bd1d-473c-b4c5-abae0420cc12",
+      "summary": "Article URL: https://www.ft.com/content/ae9bb47d-bd1d-473c-b4c5-abae0420cc12\nComments URL: https://news.ycombinator.com/item?id=48254566\nPoints: 3\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "1vuio0pswjnm7",
+      "published": "Sun, 24 May 2026 05:07:07 +0000"
+    },
+    {
+      "name": "Export chats from 11 AI platforms to PDF or Markdown locally",
+      "url": "https://chromewebstore.google.com/detail/ai-chat-exporter-sharer-p/eamemmejpblbiapnigdimieiblldhgoi",
+      "summary": "Article URL: https://chromewebstore.google.com/detail/ai-chat-exporter-sharer-p/eamemmejpblbiapnigdimieiblldhgoi\nComments URL: https://news.ycombinator.com/item?id=48254348\nPoints: 2\n# Comments: 3",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Rocke1001feller",
+      "published": "Sun, 24 May 2026 04:23:45 +0000"
+    },
+    {
+      "name": "AI as a Design Medium",
+      "url": "https://www.harvarddesignmagazine.org/articles/ai-as-a-design-medium-rodenbeck/",
+      "summary": "Article URL: https://www.harvarddesignmagazine.org/articles/ai-as-a-design-medium-rodenbeck/\nComments URL: https://news.ycombinator.com/item?id=48254170\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "vinhnx",
+      "published": "Sun, 24 May 2026 03:46:29 +0000"
+    },
+    {
+      "name": "From Vibe Coding to AI-Assisted Engineering: Lessons from Real Projects",
+      "url": "https://medium.com/@eritonsilva/from-vibe-coding-to-ai-assisted-engineering-lessons-from-real-projects-c403b85eaad1",
+      "summary": "Article URL: https://medium.com/@eritonsilva/from-vibe-coding-to-ai-assisted-engineering-lessons-from-real-projects-c403b85eaad1\nComments URL: https://news.ycombinator.com/item?id=48253987\nPoints: 4\n#",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Eritsil",
+      "published": "Sun, 24 May 2026 03:13:52 +0000"
+    }
+  ]
+}
