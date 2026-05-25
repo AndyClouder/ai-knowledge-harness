@@ -1,0 +1,15 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-05-25T11:51:41.567896+00:00",
+  "items": [
+    {
+      "name": "MoonshotAI/kimi-code",
+      "url": "https://github.com/MoonshotAI/kimi-code",
+      "summary": "The Starting Point for Next-Gen Agents",
+      "stars": 361,
+      "language": "TypeScript",
+      "topics": []
+    }
+  ]
+}
