@@ -1,0 +1,253 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-05-28T11:36:37.781083+00:00",
+  "items": [
+    {
+      "name": "OpenBMB/PilotDeck",
+      "url": "https://github.com/OpenBMB/PilotDeck",
+      "summary": "Task-oriented AI Agent productivity platform",
+      "stars": 1213,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "op7418/guizang-social-card-skill",
+      "url": "https://github.com/op7418/guizang-social-card-skill",
+      "summary": "🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对",
+      "stars": 556,
+      "language": "HTML",
+      "topics": [
+        "agent-skill",
+        "ai-agent",
+        "anthropic",
+        "claude-code",
+        "claude-skill",
+        "codex",
+        "editorial-design",
+        "html-template",
+        "image-generation",
+        "playwright",
+        "rednote",
+        "social-cards",
+        "swiss-design",
+        "wechat",
+        "xiaohongshu"
+      ]
+    },
+    {
+      "name": "XingYu-Zhong/DeepSeek-GUI",
+      "url": "https://github.com/XingYu-Zhong/DeepSeek-GUI",
+      "summary": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application.",
+      "stars": 483,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "UditAkhourii/adhd",
+      "url": "https://github.com/UditAkhourii/adhd",
+      "summary": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the ",
+      "stars": 405,
+      "language": "TypeScript",
+      "topics": [
+        "adhd",
+        "agents",
+        "ai",
+        "ai-agents",
+        "brainstorm",
+        "chain-of-thought",
+        "claude",
+        "claude-agent-sdk",
+        "creativity",
+        "divergent-thinking",
+        "ideation",
+        "interdisciplinary",
+        "llm",
+        "llm-tools",
+        "nodejs",
+        "prompt-engineering",
+        "tree-of-thought",
+        "typescript"
+      ]
+    },
+    {
+      "name": "nv-tlabs/PiD",
+      "url": "https://github.com/nv-tlabs/PiD",
+      "summary": "PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion",
+      "stars": 399,
+      "language": "Python",
+      "topics": [
+        "diffusion-decoder",
+        "pixel-diffusion"
+      ]
+    },
+    {
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "summary": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "stars": 343,
+      "language": "Rust",
+      "topics": []
+    },
+    {
+      "name": "VILA-Lab/FigMirror",
+      "url": "https://github.com/VILA-Lab/FigMirror",
+      "summary": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
+      "stars": 341,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "claude-code",
+        "codex",
+        "data-visualization",
+        "llm-agents",
+        "matplotlib",
+        "paper-figures",
+        "plotting",
+        "python",
+        "research-tools",
+        "scientific-visualization",
+        "skill"
+      ]
+    },
+    {
+      "name": "ShinyaTomitsuka/arbitrage-trading-bot",
+      "url": "https://github.com/ShinyaTomitsuka/arbitrage-trading-bot",
+      "summary": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket tradi",
+      "stars": 341,
+      "language": "TypeScript",
+      "topics": [
+        "arbitrage-bot",
+        "arbitrage-trading-bot",
+        "bot",
+        "polymarket-arbitrage-trading-bot",
+        "polymarket-trading-bot",
+        "trading-bot"
+      ]
+    },
+    {
+      "name": "Outcome-Signal-Forge/trading-bot",
+      "url": "https://github.com/Outcome-Signal-Forge/trading-bot",
+      "summary": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket tradi",
+      "stars": 330,
+      "language": "TypeScript",
+      "topics": [
+        "arbitrage-trading-bot",
+        "polymarket-arbitrage-bot",
+        "polymarket-arbitrage-trading-bot",
+        "polymarket-trading-bot",
+        "trading-bot"
+      ]
+    },
+    {
+      "name": "jianshuo/ccglass",
+      "url": "https://github.com/jianshuo/ccglass",
+      "summary": "See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard",
+      "stars": 326,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "name": "open-gsd/gsd-pi",
+      "url": "https://github.com/open-gsd/gsd-pi",
+      "summary": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture",
+      "stars": 324,
+      "language": "TypeScript",
+      "topics": [
+        "context-engineering",
+        "meta-prompting",
+        "spec-driven-development"
+      ]
+    },
+    {
+      "name": "hanyi0000/chatgpt-plus-automation-toolkit",
+      "url": "https://github.com/hanyi0000/chatgpt-plus-automation-toolkit",
+      "summary": "自动化完成 ChatGPT 账号注册、GoPay/PayPal 支付、OAuth 授权与 Session 导出，含 Windows 控制面板",
+      "stars": 298,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "bryanyzhu/agentic-ai-system-course",
+      "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
+      "summary": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
+      "stars": 280,
+      "language": "JavaScript",
+      "topics": [
+        "agentic-ai",
+        "agentic-workflow",
+        "ai-agents",
+        "course",
+        "system-design",
+        "tutorial"
+      ]
+    },
+    {
+      "name": "5-m0cftvuvif/stake-monthly",
+      "url": "https://github.com/5-m0cftvuvif/stake-monthly",
+      "summary": "Stake Monthly is one of the most discussed topics in online platform communities, loyalty systems, and crypto entertainment ecosystems. This educational guide explains how monthly reward structures, V",
+      "stars": 266,
+      "language": "HTML",
+      "topics": []
+    },
+    {
+      "name": "neuralCPL/polymarket-trading-bot",
+      "url": "https://github.com/neuralCPL/polymarket-trading-bot",
+      "summary": "polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
+      "stars": 254,
+      "language": "JavaScript",
+      "topics": [
+        "arbitrage",
+        "automated-trading",
+        "btc-trading",
+        "clob",
+        "copy-trading",
+        "defi",
+        "ethereum",
+        "nodejs",
+        "polygon",
+        "polymarket",
+        "prediction-markets",
+        "trading-bot",
+        "websocket"
+      ]
+    },
+    {
+      "name": "mikaeldengale-cloud/Deepseek-v4-Pro-App",
+      "url": "https://github.com/mikaeldengale-cloud/Deepseek-v4-Pro-App",
+      "summary": "deepseek v4 flash pro chat  api  app windows 11 desktop client github open source ai assistant chatbot coding agent moe model 1.6t parameters free api setup guide reasoning max mode local deployment",
+      "stars": 248,
+      "language": "TypeScript",
+      "topics": [
+        "ai-app",
+        "ai-application",
+        "ai-powered-applications",
+        "deep-seek",
+        "deepseek",
+        "deepseek-ai",
+        "deepseek-api",
+        "deepseek-app",
+        "deepseek-chat",
+        "deepseek-cli",
+        "deepseek-desktop",
+        "deepseek-download",
+        "deepseek-ocr-2",
+        "deepseek-pro",
+        "deepseek-r1",
+        "deepseek-v3",
+        "deepseek-v4",
+        "deepseek-v4-pro",
+        "deepseekv4"
+      ]
+    },
+    {
+      "name": "realrossmanngroup/no_ai_slop_writing_rules",
+      "url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
+      "summary": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
+      "stars": 247,
+      "language": null,
+      "topics": []
+    }
+  ]
+}

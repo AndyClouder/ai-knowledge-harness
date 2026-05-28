@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-05-28T11:36:41.030237+00:00",
+  "items": [
+    {
+      "name": "I cut my AI API costs 99% by switching from Claude to DeepSeek",
+      "url": "https://twitter.com/kevinsays/status/2059724146221662339",
+      "summary": "Article URL: https://twitter.com/kevinsays/status/2059724146221662339\nComments URL: https://news.ycombinator.com/item?id=48307455\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "agentbc9000",
+      "published": "Thu, 28 May 2026 11:27:36 +0000"
+    },
+    {
+      "name": "Show HN: Local Coding Agent with LLMs to Delegate Tool Calls to Small AI Models",
+      "url": "https://github.com/district-solutions/open-agent-tools-coder",
+      "summary": "Article URL: https://github.com/district-solutions/open-agent-tools-coder\nComments URL: https://news.ycombinator.com/item?id=48307438\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "dsdevjay",
+      "published": "Thu, 28 May 2026 11:25:20 +0000"
+    },
+    {
+      "name": "Is AI Inherently Anti-Social?",
+      "url": "https://battellemedia.com/archives/2026/05/is-ai-inherently-anti-social",
+      "summary": "Article URL: https://battellemedia.com/archives/2026/05/is-ai-inherently-anti-social\nComments URL: https://news.ycombinator.com/item?id=48307419\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "thm",
+      "published": "Thu, 28 May 2026 11:23:17 +0000"
+    },
+    {
+      "name": "Why Tesla's AI trainers don't trust its self-driving tech – or its safety stats",
+      "url": "https://www.reuters.com/investigations/why-teslas-ai-trainers-dont-trust-its-self-driving-tech-or-its-safety-stats-2026-05-28/",
+      "summary": "Article URL: https://www.reuters.com/investigations/why-teslas-ai-trainers-dont-trust-its-self-driving-tech-or-its-safety-stats-2026-05-28/\nComments URL: https://news.ycombinator.com/item?id=48307404\n",
+      "source": "hacker_news",
+      "score": null,
+      "author": "puzzlingcaptcha",
+      "published": "Thu, 28 May 2026 11:21:18 +0000"
+    },
+    {
+      "name": "SpaceX has almost finished writing v1.0 of an in-house AI training stack in C",
+      "url": "https://twitter.com/elonmusk/status/2059884150187053488",
+      "summary": "Article URL: https://twitter.com/elonmusk/status/2059884150187053488\nComments URL: https://news.ycombinator.com/item?id=48307306\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "tosh",
+      "published": "Thu, 28 May 2026 11:07:48 +0000"
+    },
+    {
+      "name": "The AI Hype Index: AI gets booed in graduation season",
+      "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+      "summary": "Article URL: https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/\nComments URL: https://news.ycombinator.com/item?id=48307261\nPoints: 4\n# Comments:",
+      "source": "hacker_news",
+      "score": null,
+      "author": "joozio",
+      "published": "Thu, 28 May 2026 11:01:56 +0000"
+    },
+    {
+      "name": "Shields up: Guidance for defending in the age of AI-enabled attacks [pdf]",
+      "url": "https://www.cisco.com/c/dam/en_us/about/doing_business/trust-center/docs/cisco-defending-against-ai-attacks-guidance.pdf",
+      "summary": "Article URL: https://www.cisco.com/c/dam/en_us/about/doing_business/trust-center/docs/cisco-defending-against-ai-attacks-guidance.pdf\nComments URL: https://news.ycombinator.com/item?id=48307151\nPoints",
+      "source": "hacker_news",
+      "score": null,
+      "author": "cebert",
+      "published": "Thu, 28 May 2026 10:48:10 +0000"
+    },
+    {
+      "name": "AI sticker shock hits corporate America",
+      "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
+      "summary": "Article URL: https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs\nComments URL: https://news.ycombinator.com/item?id=48307098\nPoints: 23\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "1vuio0pswjnm7",
+      "published": "Thu, 28 May 2026 10:39:32 +0000"
+    },
+    {
+      "name": "MOT: A tool to fight openwashing in AI",
+      "url": "https://lwn.net/SubscriberLink/1073420/1c373bcf2b77abe0/",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1073420/1c373bcf2b77abe0/\nComments URL: https://news.ycombinator.com/item?id=48307057\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mkesper",
+      "published": "Thu, 28 May 2026 10:32:14 +0000"
+    },
+    {
+      "name": "Show HN: I packaged a Python AI agent and Vue dashboard into one Electron app",
+      "url": "https://github.com/sir1st/hermes-desktop",
+      "summary": "Article URL: https://github.com/sir1st/hermes-desktop\nComments URL: https://news.ycombinator.com/item?id=48306902\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "sir1st",
+      "published": "Thu, 28 May 2026 10:12:26 +0000"
+    },
+    {
+      "name": "Money Printer Pro – Open-source AI content generator",
+      "url": "https://github.com/office233/MoneyPrinterPro",
+      "summary": "Article URL: https://github.com/office233/MoneyPrinterPro\nComments URL: https://news.ycombinator.com/item?id=48306781\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "office233",
+      "published": "Thu, 28 May 2026 09:53:36 +0000"
+    },
+    {
+      "name": "Dirk and Linus discuss AI and kernel development",
+      "url": "https://lwn.net/SubscriberLink/1073761/289a4e5513688987/",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1073761/289a4e5513688987/\nComments URL: https://news.ycombinator.com/item?id=48306705\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "chmaynard",
+      "published": "Thu, 28 May 2026 09:40:58 +0000"
+    },
+    {
+      "name": "China works on AI token futures market",
+      "url": "https://www.reuters.com/world/china/china-works-ai-token-futures-market-sources-say-race-with-us-2026-05-28/",
+      "summary": "Article URL: https://www.reuters.com/world/china/china-works-ai-token-futures-market-sources-say-race-with-us-2026-05-28/\nComments URL: https://news.ycombinator.com/item?id=48306633\nPoints: 2\n# Commen",
+      "source": "hacker_news",
+      "score": null,
+      "author": "StromFLIX",
+      "published": "Thu, 28 May 2026 09:30:35 +0000"
+    },
+    {
+      "name": "Mistral AI Launches Mistral Vibe",
+      "url": "https://mistral.ai/fr/products/vibe",
+      "summary": "Article URL: https://mistral.ai/fr/products/vibe\nComments URL: https://news.ycombinator.com/item?id=48306590\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "greengirl_8",
+      "published": "Thu, 28 May 2026 09:23:20 +0000"
+    },
+    {
+      "name": "Superpowers: An Agentic Skills Framework for AI Coding Workflows",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "Article URL: https://github.com/obra/superpowers\nComments URL: https://news.ycombinator.com/item?id=48306576\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "v-mdev",
+      "published": "Thu, 28 May 2026 09:20:45 +0000"
+    },
+    {
+      "name": "Is this sustainable? The senior engineer role after three years of AI",
+      "url": "https://jamiehurst.co.uk/2026-05-24_ai-sustainable",
+      "summary": "Article URL: https://jamiehurst.co.uk/2026-05-24_ai-sustainable\nComments URL: https://news.ycombinator.com/item?id=48306398\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "emirb",
+      "published": "Thu, 28 May 2026 08:52:22 +0000"
+    },
+    {
+      "name": "UK spy chief labels AI 'unstoppable force' with off., def. ramifications",
+      "url": "https://cyberscoop.com/gchq-warns-ai-cyber-warfare-threats/",
+      "summary": "Article URL: https://cyberscoop.com/gchq-warns-ai-cyber-warfare-threats/\nComments URL: https://news.ycombinator.com/item?id=48306387\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "lschueller",
+      "published": "Thu, 28 May 2026 08:50:35 +0000"
+    },
+    {
+      "name": "Don't let Big Tech hide ecological cost of AI, environment agency chief tells EU",
+      "url": "https://www.politico.eu/article/big-tech-ecological-cost-ai-environment-agency-chief-eu/",
+      "summary": "Article URL: https://www.politico.eu/article/big-tech-ecological-cost-ai-environment-agency-chief-eu/\nComments URL: https://news.ycombinator.com/item?id=48306344\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "robtherobber",
+      "published": "Thu, 28 May 2026 08:44:23 +0000"
+    },
+    {
+      "name": "Where I think my career is headed (with AI-assisted dev)",
+      "url": "https://assertchris.dev/articles/2026-05-27-the-future-of-ai-development",
+      "summary": "Article URL: https://assertchris.dev/articles/2026-05-27-the-future-of-ai-development\nComments URL: https://news.ycombinator.com/item?id=48306302\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "assertchris",
+      "published": "Thu, 28 May 2026 08:38:27 +0000"
+    },
+    {
+      "name": "Use Zite and AI to build an app",
+      "url": "https://www.zite.com/help/platform/getting-started/quickstart",
+      "summary": "Article URL: https://www.zite.com/help/platform/getting-started/quickstart\nComments URL: https://news.ycombinator.com/item?id=48306275\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "janandonly",
+      "published": "Thu, 28 May 2026 08:34:51 +0000"
+    }
+  ]
+}

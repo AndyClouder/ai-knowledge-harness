@@ -1,0 +1,594 @@
+[
+  {
+    "id": "d909d3ce-5d04-420c-be9e-701224b5fc5f",
+    "title": "OpenBMB/PilotDeck",
+    "source_url": "https://github.com/OpenBMB/PilotDeck",
+    "source": "unknown",
+    "collected_at": "2026-05-28T11:37:26.823957+00:00",
+    "analyzed_at": "2026-05-28T11:37:26.823957+00:00",
+    "summary": "OpenBMB/PilotDeck 是一个面向任务的 AI Agent 生产力平台。它提供了一套完整的 Agent 开发与编排框架，支持多 Agent 协作与工具调用。核心方案在于将复杂任务拆解并分配给具备不同能力的 Agent 执行，旨在解决构建复杂智能体应用时的高门槛与效率问题，提升自动化工作流的开发与部署效率。",
+    "highlights": [
+      "面向任务的 Agent 编排与管理平台",
+      "支持多 Agent 协作与生态工具集成"
+    ],
+    "score": 7,
+    "score_reason": "知名实验室出品，提供实用的编排能力，适合构建生产级应用。",
+    "tags": [
+      "agent",
+      "open_source",
+      "llm",
+      "mlops"
+    ],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 1213,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    },
+    "target_audience": "希望构建企业级 AI Agent 应用与自动化工作流的开发者及团队。"
+  },
+  {
+    "id": "86089ea3-7887-4c7c-abcc-a965eefacf6a",
+    "title": "op7418/guizang-social-card-skill",
+    "source_url": "https://github.com/op7418/guizang-social-card-skill",
+    "source": "unknown",
+    "collected_at": "2026-05-28T11:38:09.123352+00:00",
+    "analyzed_at": "2026-05-28T11:38:09.123352+00:00",
+    "summary": "这是一个专为Claude Code/Codex设计的AI智能体技能，用于自动生成社交媒体图片。核心方案是基于单文件HTML模板与Playwright渲染引擎，融合了编辑式与瑞士视觉系统，提供28种布局和10种主题样式，实现从HTML到PNG的快速转换。它主要解决了开发者和内容创作者在制作小红书轮播图及微信公众号封面时，缺乏高效、美观且可自动化设计工具的问题，显著提升了视觉内容的生成效率。",
+    "highlights": [
+      "Claude Code技能，自动化生成社交媒体图文。",
+      "融合瑞士视觉风格，提供28种布局与主题。",
+      "单文件HTML转PNG，适配小红书与微信。"
+    ],
+    "score": 7,
+    "score_reason": "实用的设计自动化工具，显著提升社交媒体内容生产效率。",
+    "tags": [
+      "agent",
+      "vision",
+      "browser_automation"
+    ],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 556,
+      "score": null,
+      "author": null,
+      "language": "HTML"
+    },
+    "target_audience": "使用Claude Code的开发者、新媒体运营及社交媒体内容创作者"
+  },
+  {
+    "id": "5112eedd-6aaf-4e6e-b0d0-9c0b28a96ca4",
+    "title": "XingYu-Zhong/DeepSeek-GUI",
+    "source_url": "https://github.com/XingYu-Zhong/DeepSeek-GUI",
+    "source": "unknown",
+    "collected_at": "2026-05-28T11:38:56.242533+00:00",
+    "analyzed_at": "2026-05-28T11:38:56.242533+00:00",
+    "summary": "这是一个针对DeepSeek模型的图形化AI Agent工作空间，集成了代码生成与浏览器抓取模式。它通过TypeScript构建的直观界面，解决了用户在本地部署和使用DeepSeek进行复杂编程及网页交互任务时的操作门槛问题，提升了使用便捷性。",
+    "highlights": [
+      "内置代码生成与网页抓取双模式",
+      "提供本地化Agent工作空间解决方案"
+    ],
+    "score": 6,
+    "score_reason": "DeepSeek的实用GUI工具，集成特定Agent模式。",
+    "tags": [
+      "agent",
+      "llm",
+      "code_generation",
+      "browser_automation"
+    ],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 483,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    },
+    "target_audience": "希望使用本地化界面操作DeepSeek模型进行编程或自动化任务的开发者及爱好者"
+  },
+  {
+    "id": "8a9394fc-b5e6-451f-a583-2e944d518925",
+    "title": "UditAkhourii/adhd",
+    "source_url": "https://github.com/UditAkhourii/adhd",
+    "source": "unknown",
+    "collected_at": "2026-05-28T11:39:45.031898+00:00",
+    "analyzed_at": "2026-05-28T11:39:45.031898+00:00",
+    "summary": "ADHD 是一个专为编码代理设计的技能工具，实现了带剪枝机制的思维树算法。核心方案是在不同认知框架下并行发散思维，通过评分系统识别并修剪无效路径，从而深化优质思路。它有效解决了 LLM 在处理复杂编程任务时容易陷入思维陷阱或缺乏创造性发散的问题，显著提升了代码生成与调试的质量。",
+    "highlights": [
+      "基于思维树算法，支持自动剪枝无效路径",
+      "多框架并行发散，提升模型思考广度",
+      "无缝集成 Claude Agent SDK 构建"
+    ],
+    "score": 7,
+    "score_reason": "实现了思维树剪枝，有效提升代理复杂任务处理能力，实用性强。",
+    "tags": [
+      "agent",
+      "llm",
+      "prompt_engineering",
+      "code_generation"
+    ],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 405,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    },
+    "target_audience": "AI 代理开发者，需要增强模型推理能力的工程师，Claude Agent SDK 用户"
+  },
+  {
+    "id": "3a171f9a-f2aa-49d0-8011-a0c59cc1ab23",
+    "title": "nv-tlabs/PiD",
+    "source_url": "https://github.com/nv-tlabs/PiD",
+    "source": "unknown",
+    "collected_at": "2026-05-28T11:40:28.068177+00:00",
+    "analyzed_at": "2026-05-28T11:40:28.068177+00:00",
+    "summary": "PiD 是 NVIDIA 实验室推出的基于像素扩散的快速高分辨率潜在解码模型。其核心方案在于摒弃传统的 VAE 解码器，转而采用像素级扩散技术直接解码潜在表示，大幅提升了生成效率与保真度。该项目有效解决了现有扩散模型在高分辨率图像重建时面临的速度慢与细节丢失问题，为高性能图像生成提供了极具竞争力的技术解决方案。",
+    "highlights": [
+      "实现快速且高分辨率的潜在解码",
+      "采用像素扩散技术提升图像质量"
+    ],
+    "score": 8,
+    "score_reason": "顶尖实验室出品，针对高分辨率生成效率痛点，方案创新且实用。",
+    "tags": [
+      "diffusion",
+      "vision",
+      "open_source"
+    ],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 399,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    },
+    "target_audience": "计算机视觉研究员、图像生成算法工程师、对高效率扩散模型感兴趣的开发者"
+  },
+  {
+    "id": "af55c67b-1828-4b13-95fc-b821b774ffdf",
+    "title": "akitaonrails/ai-memory",
+    "source_url": "https://github.com/akitaonrails/ai-memory",
+    "source": "unknown",
+    "collected_at": "2026-05-28T11:41:17.320115+00:00",
+    "analyzed_at": "2026-05-28T11:41:17.320115+00:00",
+    "summary": "这是一个专为AI Agent编码CLI设计的长期记忆管理解决方案。该项目基于Rust构建，提供了一套标准化的记忆存储与检索机制，用于记录上下文、项目状态及历史操作。其核心方案是创建统一的数据层，支持在不同Agent供应商（如Cursor、Claude等）之间迁移和共享记忆。主要解决了开发者在多Agent工具切换时面临的上下文丢失、记忆孤岛问题，以及Agent在长期任务中无法有效积累经验的问题。",
+    "highlights": [
+      "跨Agent供应商实现记忆无缝互通",
+      "为CLI工具提供Rust级高性能存储"
+    ],
+    "score": 6,
+    "score_reason": "解决了Agent切换时的痛点，但受众较窄，属于特定场景实用工具。",
+    "tags": [
+      "agent",
+      "code_generation",
+      "open_source"
+    ],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 343,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    },
+    "target_audience": "多AI编程工具使用者、需要维护Agent长期记忆的开发者"
+  },
+  {
+    "id": "5cbb3836-f3d7-488f-8013-c12a43b68024",
+    "title": "VILA-Lab/FigMirror",
+    "source_url": "https://github.com/VILA-Lab/FigMirror",
+    "source": "unknown",
+    "collected_at": "2026-05-28T11:42:00.140079+00:00",
+    "analyzed_at": "2026-05-28T11:42:00.140079+00:00",
+    "summary": "FigMirror 是一款基于 AI Agent 的自动化科研绘图工具，旨在将用户数据自动转换为任意学术论文中的图片风格。它通过结合视觉语言模型解析参考图片的配色、字体及布局特征，生成精确的代码逻辑并应用于新数据，一键复现专业图表。该工具有效解决了科研人员在进行论文投稿或数据展示时，需要耗费大量时间手动调整绘图细节以满足出版规范或特定审美要求的痛点。",
+    "highlights": [
+      "自动化科研绘图，一键复现论文图表风格。",
+      "基于视觉模型解析，精准提取配色与布局特征。",
+      "集成 Matplotlib，无缝对接 Python 数据分析生态。"
+    ],
+    "score": 7,
+    "score_reason": "自动化科研绘图流程，显著提升科研效率，实用性强。",
+    "tags": [
+      "agent",
+      "code_generation",
+      "vision"
+    ],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 341,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    },
+    "target_audience": "科研人员、数据分析师及需要制作高质量学术图表的学者。"
+  },
+  {
+    "id": "5798579e-2576-4582-b316-86e252fa77db",
+    "title": "ShinyaTomitsuka/arbitrage-trading-bot",
+    "source_url": "https://github.com/ShinyaTomitsuka/arbitrage-trading-bot",
+    "source": "unknown",
+    "collected_at": "2026-05-28T11:42:36.578389+00:00",
+    "analyzed_at": "2026-05-28T11:42:36.578389+00:00",
+    "summary": "这是一个针对Polymarket预测市场的自动化套利交易机器人项目，基于TypeScript开发。其核心方案在于利用自动化脚本实时监控市场波动，识别不同市场间的价格差异并迅速执行交易策略。该工具主要解决了交易员在人工操作中难以全时段盯盘、无法即时捕捉套利机会以及执行效率低下的问题，旨在通过算法交易实现无风险或低风险收益。",
+    "highlights": [
+      "自动捕捉预测市场套利机会",
+      "基于TypeScript开发的高效脚本"
+    ],
+    "score": 5,
+    "score_reason": "特定领域的自动化工具，实用但小众，通用性有限。",
+    "tags": [
+      "agent",
+      "open_source"
+    ],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 341,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    },
+    "target_audience": "量化交易开发者、Polymarket用户及链上自动化爱好者"
+  },
+  {
+    "id": "054ba9b5-c1f0-4277-b430-0ad36929b20e",
+    "title": "Outcome-Signal-Forge/trading-bot",
+    "source_url": "https://github.com/Outcome-Signal-Forge/trading-bot",
+    "source": "unknown",
+    "collected_at": "2026-05-28T11:43:42.406745+00:00",
+    "analyzed_at": "2026-05-28T11:43:42.406745+00:00",
+    "summary": "这是一个基于TypeScript语言开发的Polymarket预测市场自动交易机器人。其核心方案是通过编程接口实时监控市场数据，自动识别并执行套利交易策略。该项目主要解决了传统交易者在快节奏的预测市场中无法全天候盯盘、手动操作响应滞后导致错失盈利机会的问题，旨在通过自动化手段提升交易效率并捕获市场价差。",
+    "highlights": [
+      "专注于Polymarket市场的套利自动化",
+      "基于TypeScript实现的高性能交易逻辑",
+      "帮助用户捕捉预测市场的瞬时价差"
+    ],
+    "score": 6,
+    "score_reason": "针对特定预测市场的实用工具，对量化交易者有参考价值，但非通用AI框架。",
+    "tags": [
+      "agent",
+      "open_source",
+      "programming_language"
+    ],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 330,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    },
+    "target_audience": "专注于Polymarket市场的量化交易者、预测市场套利爱好者及区块链开发者。"
+  },
+  {
+    "id": "ed193288-fda2-414e-b300-3df67b7cdcd1",
+    "title": "jianshuo/ccglass",
+    "source_url": "https://github.com/jianshuo/ccglass",
+    "source": "unknown",
+    "collected_at": "2026-05-28T11:44:40.164506+00:00",
+    "analyzed_at": "2026-05-28T11:44:40.164506+00:00",
+    "summary": "CCGlass是一款开源的本地代理与可视化仪表盘工具，专为监控各类编码智能体（如Claude Code、Kimi等）与模型之间的通信而设计。它通过拦截并解析智能体发送给大模型的API请求，将复杂的Prompt和上下文信息以直观的Web界面呈现出来。该工具解决了开发者在调试AI编程助手时面临的“黑盒”难题，帮助用户深入理解智能体的思考过程、优化提示词策略并排查潜在错误。",
+    "highlights": [
+      "可视化展示编码智能体的完整请求上下文",
+      "支持Claude Code、Kimi等多种主流编程助手",
+      "本地代理架构，确保数据隐私且部署简单",
+      "提供Web仪表盘，调试体验直观高效"
+    ],
+    "score": 7,
+    "score_reason": "提供可视化调试能力，有效提升AI编程助手开发效率，实用性强。",
+    "tags": [
+      "agent",
+      "llm",
+      "code_generation",
+      "prompt_engineering",
+      "open_source"
+    ],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 326,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    },
+    "target_audience": "使用AI编程助手的开发者，以及构建自定义Coding Agent的技术人员"
+  },
+  {
+    "id": "e71ed235-dea7-4de7-8b42-ccca0bb54c4a",
+    "title": "open-gsd/gsd-pi",
+    "source_url": "https://github.com/open-gsd/gsd-pi",
+    "source": "unknown",
+    "collected_at": "2026-05-28T11:45:26.871862+00:00",
+    "analyzed_at": "2026-05-28T11:45:26.871862+00:00",
+    "summary": "gsd-pi 是一个基于 TypeScript 的元提示、上下文工程及规格驱动开发系统。其核心方案是利用规格驱动的方法构建上下文，引导代理在长时间任务中保持对全局目标的关注。该项目主要解决了当前 AI 代理在执行长周期复杂任务时容易遗忘上下文、偏离初始目标的问题，显著提升了代理的长期自主工作能力。",
+    "highlights": [
+      "规格驱动开发，确保代理行为符合预期",
+      "强化上下文工程，防止长任务中丢失目标",
+      "支持长期自主运行，无需人工频繁干预"
+    ],
+    "score": 6,
+    "score_reason": "针对Agent长时记忆问题有独特解法，但生态尚小。",
+    "tags": [
+      "agent",
+      "prompt_engineering",
+      "code_generation"
+    ],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 324,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    },
+    "target_audience": "需要构建长期自主AI代理的开发者和研究人员，关注上下文管理及复杂任务自动化处理的工程师。"
+  },
+  {
+    "id": "020d2a63-8e7a-45e7-9f6a-7ae54a0d4f3a",
+    "title": "hanyi0000/chatgpt-plus-automation-toolkit",
+    "source_url": "https://github.com/hanyi0000/chatgpt-plus-automation-toolkit",
+    "source": "unknown",
+    "collected_at": "2026-05-28T11:46:22.830603+00:00",
+    "analyzed_at": "2026-05-28T11:46:22.830603+00:00",
+    "summary": "这是一个基于Python的ChatGPT账号自动化管理工具包，专注于全流程自动化操作。核心方案采用浏览器自动化技术，实现了从账号注册、GoPay/PayPal支付订阅到OAuth授权与Session导出的闭环，并配备了Windows可视化控制面板。该项目主要解决了用户在批量管理ChatGPT Plus订阅时面临的重复性操作繁琐、账号维护成本高及支付流程复杂的问题，显著提升了管理效率。",
+    "highlights": [
+      "自动化完成账号注册与支付订阅",
+      "支持Session导出与OAuth授权",
+      "集成Windows可视化控制面板"
+    ],
+    "score": 6,
+    "score_reason": "实用的自动化脚本，解决账号管理繁琐问题，适合特定需求人群，非核心AI技术。",
+    "tags": [
+      "browser_automation",
+      "llm"
+    ],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 298,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    },
+    "target_audience": "需要批量管理ChatGPT账号的运营者、自动化脚本开发者及需要解决支付订阅难题的个人用户"
+  },
+  {
+    "id": "12313170-dade-404d-8c94-eeb71b41d38e",
+    "title": "bryanyzhu/agentic-ai-system-course",
+    "source_url": "https://github.com/bryanyzhu/agentic-ai-system-course",
+    "source": "unknown",
+    "collected_at": "2026-05-28T11:47:00.587676+00:00",
+    "analyzed_at": "2026-05-28T11:47:00.587676+00:00",
+    "summary": "这是一个专注于生产级AI智能体系统构建的骨架课程项目。它通过提供系统化的设计架构、构建方法及运维实践，帮助开发者深入掌握Agentic工作流与系统设计。该项目解决了开发者缺乏系统性指导的痛点，填补了从理论到企业级应用落地的空白，旨在培养具备构建复杂智能系统能力的专业人才。",
+    "highlights": [
+      "聚焦生产级AI智能体系统构建",
+      "涵盖设计、构建与运维全生命周期",
+      "提供实战导向的骨架课程结构"
+    ],
+    "score": 7,
+    "score_reason": "针对生产环境的课程较少，实战性强，适合进阶学习。",
+    "tags": [
+      "agent",
+      "tutorial",
+      "system_design",
+      "llm"
+    ],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 280,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    },
+    "target_audience": "希望深入理解AI智能体架构，并致力于将其部署到生产环境的后端工程师和AI应用开发者。"
+  },
+  {
+    "id": "2660dc0d-c75c-4574-9596-f9d6b10c5c8a",
+    "title": "5-m0cftvuvif/stake-monthly",
+    "source_url": "https://github.com/5-m0cftvuvif/stake-monthly",
+    "source": "unknown",
+    "collected_at": "2026-05-28T11:47:51.417492+00:00",
+    "analyzed_at": "2026-05-28T11:47:51.417492+00:00",
+    "summary": "这是一个专注于在线平台社区、忠诚度系统以及加密娱乐生态系统中月度奖励机制的静态HTML教育指南。该项目核心方案是通过构建结构化的网页文档，详细阐述Stake等平台的月度奖励结构、VIP体系运作逻辑及相关规则。它旨在解决用户在面对复杂的平台奖励体系和社区讨论热点时，缺乏清晰认知和指导信息的问题，帮助用户深入理解生态激励机制。",
+    "highlights": [
+      "详细解析平台月度奖励结构",
+      "针对忠诚度系统的HTML指南"
+    ],
+    "score": 2,
+    "score_reason": "非AI技术项目，仅为简单文档，参考价值低。",
+    "tags": [
+      "tutorial",
+      "open_source"
+    ],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 266,
+      "score": null,
+      "author": null,
+      "language": "HTML"
+    },
+    "target_audience": "对在线平台忠诚度系统及加密娱乐奖励机制感兴趣的用户"
+  },
+  {
+    "id": "9eeb4b97-01e3-49c4-a92e-5e3cd0ad6fd2",
+    "title": "neuralCPL/polymarket-trading-bot",
+    "source_url": "https://github.com/neuralCPL/polymarket-trading-bot",
+    "source": "unknown",
+    "collected_at": "2026-05-28T11:48:37.738631+00:00",
+    "analyzed_at": "2026-05-28T11:48:37.738631+00:00",
+    "summary": "这是一个基于Node.js的Polymarket预测市场自动化交易机器人，核心实现了套利和跟单策略。方案通过WebSocket实时连接CLOB订单簿，支持高频数据获取与自动下单。该项目主要解决了交易者在去中心化预测市场中无法全天候盯盘、难以捕捉瞬时效用不均带来的套利机会以及手动执行交易延迟的问题，显著提升了交易效率。",
+    "highlights": [
+      "实现Polymarket市场自动套利",
+      "实时WebSocket连接CLOB订单簿",
+      "集成跟单交易与自动化策略"
+    ],
+    "score": 7,
+    "score_reason": "功能完整的量化工具，套利逻辑清晰，可直接部署使用。",
+    "tags": [
+      "agent",
+      "open_source"
+    ],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 254,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    },
+    "target_audience": "Polymarket量化交易者、DeFi爱好者以及对预测市场自动化交易感兴趣的开发者"
+  },
+  {
+    "id": "857bad70-9f5c-4d71-963a-e856b6e2f559",
+    "title": "mikaeldengale-cloud/Deepseek-v4-Pro-App",
+    "source_url": "https://github.com/mikaeldengale-cloud/Deepseek-v4-Pro-App",
+    "source": "unknown",
+    "collected_at": "2026-05-28T11:49:21.526939+00:00",
+    "analyzed_at": "2026-05-28T11:49:21.526939+00:00",
+    "summary": "这是一款基于TypeScript开发的Windows 11桌面客户端应用，封装了DeepSeek V4 Pro模型API。核心方案提供图形化交互界面、API配置指南及推理模式。解决了Windows用户在本地便捷访问DeepSeek高级模型进行对话与编程辅助的需求。",
+    "highlights": [
+      "支持Windows 11的DeepSeek V4 Pro桌面客户端",
+      "集成API配置指南与推理模式交互功能"
+    ],
+    "score": 6,
+    "score_reason": "实用的第三方桌面客户端，解决了本地化访问问题，但本质是API封装。",
+    "tags": [
+      "llm",
+      "open_source",
+      "code_generation",
+      "agent"
+    ],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 248,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    },
+    "target_audience": "需要在Windows桌面环境下便捷使用DeepSeek V4模型进行开发、写作或编程的用户。"
+  },
+  {
+    "id": "9a9c9276-edc6-4b70-941f-e81973e06338",
+    "title": "realrossmanngroup/no_ai_slop_writing_rules",
+    "source_url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
+    "source": "unknown",
+    "collected_at": "2026-05-28T11:50:04.782053+00:00",
+    "analyzed_at": "2026-05-28T11:50:04.782053+00:00",
+    "summary": "这是一个专为 Claude Code 设计的定制化写作风格配置库，旨在消除通用 AI 输出的机械感。核心方案是通过提供便携的 CLAUDE.md 配置文件及配套的技能指令，强制 AI 模型严格模仿 Louis Rossmann 那种直率、犀利且不加修饰的人类口吻进行代码生成和解释。它有效解决了当前 LLM 辅助编程中普遍存在的废话多、语气生硬及充满“AI 味”的问题，确保技术输出更加接地气、高效且具备鲜明的个人风格。",
+    "highlights": [
+      "强制 Claude 模仿特定人类口吻",
+      "有效消除 AI 生成文本的机器味",
+      "提供便携的 CLAUDE.md 配置指令"
+    ],
+    "score": 6,
+    "score_reason": "特定场景有效的提示词配置，解决 AI 输出风格问题，实用性强但技术深度有限。",
+    "tags": [
+      "prompt_engineering",
+      "code_generation",
+      "llm"
+    ],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": 247,
+      "score": null,
+      "author": null,
+      "language": null
+    },
+    "target_audience": "使用 AI 编程助手（尤其是 Claude）并希望输出内容自然、拒绝机械腔调的开发者。"
+  },
+  {
+    "id": "70a9f492-c116-4e35-8f71-83b8a701149a",
+    "title": "I cut my AI API costs 99% by switching from Claude to DeepSeek",
+    "source_url": "https://twitter.com/kevinsays/status/2059724146221662339",
+    "source": "hacker_news",
+    "collected_at": "2026-05-28T11:50:55.113912+00:00",
+    "analyzed_at": "2026-05-28T11:50:55.113912+00:00",
+    "summary": "本文详细分享了AI API成本优化的实战案例，核心方案是将后端服务从昂贵的Claude迁移至性价比极高的DeepSeek模型。通过直接替换模型提供商，该项目在保持应用性能基本不变的前提下，有效解决了企业级应用中日益高涨的API调用费用问题，最终实现了惊人的99%成本削减。",
+    "highlights": [
+      "切换至DeepSeek节省99%API成本",
+      "实战验证低成本替代Claude方案"
+    ],
+    "score": 6,
+    "score_reason": "纯个人使用经验分享，非技术创新，仅供成本优化参考。",
+    "tags": [
+      "llm",
+      "open_source",
+      "tutorial"
+    ],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "agentbc9000",
+      "language": null
+    },
+    "target_audience": "关注AI应用成本优化的开发者与技术创业者"
+  },
+  {
+    "id": "6d1845fd-8b63-45c1-b353-82b937e72725",
+    "title": "Show HN: Local Coding Agent with LLMs to Delegate Tool Calls to Small AI Models",
+    "source_url": "https://github.com/district-solutions/open-agent-tools-coder",
+    "source": "hacker_news",
+    "collected_at": "2026-05-28T11:51:43.436421+00:00",
+    "analyzed_at": "2026-05-28T11:51:43.436421+00:00",
+    "summary": "这是一个面向本地开发环境的编程代理框架，核心方案是将工具调用等具体执行任务智能委托给轻量级小型AI模型处理，而非全部由大模型承担。该方案旨在有效解决在本地资源受限环境下运行大模型代理时面临的算力消耗巨大与响应延迟过高等关键痛点，从而实现更高效的自动化编码。",
+    "highlights": [
+      "支持本地运行，确保代码数据隐私",
+      "委派小模型处理工具调用降本增效"
+    ],
+    "score": 6,
+    "score_reason": "针对本地场景的降本增效优化",
+    "tags": [
+      "agent",
+      "code_generation",
+      "open_source"
+    ],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "dsdevjay",
+      "language": null
+    },
+    "target_audience": "希望在本地搭建高效编程代理的开发者"
+  },
+  {
+    "id": "bc1fb7e7-62ed-4be1-be99-7669c509d2f9",
+    "title": "Is AI Inherently Anti-Social?",
+    "source_url": "https://battellemedia.com/archives/2026/05/is-ai-inherently-anti-social",
+    "source": "hacker_news",
+    "collected_at": "2026-05-28T11:52:32.058397+00:00",
+    "analyzed_at": "2026-05-28T11:52:32.058397+00:00",
+    "summary": "这是一篇探讨人工智能社会属性的观点文章，深入分析了AI系统运作机制与人类社会的互动模式。文章核心在于审视算法决策与社会规范间的冲突，呼吁建立更具包容性的AI伦理框架以缓解社会疏离感。该文章旨在解决公众对技术进步导致的人际关系异化及交往淡化的担忧，为人机共存的社会结构提供了深刻的思考路径。",
+    "highlights": [
+      "深入探讨AI技术的伦理边界",
+      "分析人机交互引发的社会问题"
+    ],
+    "score": 4,
+    "score_reason": "纯观点讨论，无技术工具产出。",
+    "tags": [
+      "llm"
+    ],
+    "status": "analyzed",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "thm",
+      "language": null
+    },
+    "target_audience": "AI伦理研究者、科技行业观察者及关注技术对社会影响的公众"
+  }
+]
