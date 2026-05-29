@@ -1,0 +1,166 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-05-29T11:26:30.048483+00:00",
+  "items": [
+    {
+      "name": "helloianneo/ian-xiaohei-illustrations",
+      "url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
+      "summary": "中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
+      "stars": 512,
+      "language": null,
+      "topics": [
+        "ai-agent",
+        "chinese",
+        "codex-skill",
+        "handdrawn",
+        "illustration",
+        "image-generation",
+        "xiaohei"
+      ]
+    },
+    {
+      "name": "withkynam/vibecode-pro-max-kit",
+      "url": "https://github.com/withkynam/vibecode-pro-max-kit",
+      "summary": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships featu",
+      "stars": 454,
+      "language": "JavaScript",
+      "topics": [
+        "agentic",
+        "ai-agents",
+        "ai-coding-assistant",
+        "ai-development",
+        "ai-workflow",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "cli-tools",
+        "code-quality",
+        "codex",
+        "coding-agents",
+        "cursor",
+        "developer-tools",
+        "llm",
+        "openai",
+        "prompt-engineering",
+        "typescript",
+        "vibe-coding",
+        "vibecoding"
+      ]
+    },
+    {
+      "name": "cortneymanieri50677828029/RBX-Executor-Version-2026",
+      "url": "https://github.com/cortneymanieri50677828029/RBX-Executor-Version-2026",
+      "summary": "A curated collection of documentation and safe templates for understanding and analyzing Roblox execution environments in a controlled lab setting.",
+      "stars": 341,
+      "language": "C#",
+      "topics": [
+        "aimlock",
+        "blox-fruits-script-2026",
+        "blox-fruits-script-all-fruits",
+        "blox-fruits-script-auto-farm-no-key",
+        "bloxburg",
+        "codex-download",
+        "delta-executor-windows",
+        "delta-new-update",
+        "delta-roblox-for-pc-2026",
+        "luna-key",
+        "nexus-lifetime-access",
+        "pet-simulator",
+        "petsim-99",
+        "ps99",
+        "roblox",
+        "roblox-script-lua",
+        "script-execution",
+        "script-hub",
+        "script-ware",
+        "xeno-script"
+      ]
+    },
+    {
+      "name": "Sophomoresty/gemini-web2api",
+      "url": "https://github.com/Sophomoresty/gemini-web2api",
+      "summary": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
+      "stars": 322,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "AmmarkoV/SAM3DBody-cpp",
+      "url": "https://github.com/AmmarkoV/SAM3DBody-cpp",
+      "summary": "Real-time 3D full-body reconstruction from a single camera, Multiperson BVH output, Pure C++ runtime, ONNX + ggml, 70-joint skeleton with hands.",
+      "stars": 306,
+      "language": "C",
+      "topics": [
+        "3d-human-pose",
+        "bvh",
+        "computer-vision",
+        "cpp",
+        "cuda",
+        "ggml",
+        "motion-capture",
+        "multi-person-pose-estimation",
+        "onnx",
+        "opengl",
+        "pose-detection",
+        "pose-estimation",
+        "pose-tracking",
+        "real-time",
+        "sam-3d-body"
+      ]
+    },
+    {
+      "name": "odinsalazar964150/Gemini-Pro-Desktop-2026",
+      "url": "https://github.com/odinsalazar964150/Gemini-Pro-Desktop-2026",
+      "summary": "A free, locally runnable desktop application powered by Gemini Pro for enhanced productivity.",
+      "stars": 303,
+      "language": "C#",
+      "topics": [
+        "free-ai-api",
+        "free-gemini-api",
+        "gemini-15-pro",
+        "gemini-api",
+        "gemini-api-free",
+        "gemini-free",
+        "gemini-pro",
+        "gemini-pro-1-5",
+        "gemini-pro-api",
+        "gemini-pro-vision",
+        "gemini-pro-visiongoogle-ai-studio",
+        "gemini-proxy",
+        "google-gemini",
+        "google-gemini-pro-vision"
+      ]
+    },
+    {
+      "name": "MatinSenPai/SenPaiScanner",
+      "url": "https://github.com/MatinSenPai/SenPaiScanner",
+      "summary": "A light-weight scanner for Cloudflare IPs, written in Golang",
+      "stars": 291,
+      "language": "Go",
+      "topics": []
+    },
+    {
+      "name": "adelaideacfalle50838568946/ChatGPT-Pro-Desktop-2026",
+      "url": "https://github.com/adelaideacfalle50838568946/ChatGPT-Pro-Desktop-2026",
+      "summary": "A comprehensive desktop application package for advanced ChatGPT interactions and management.",
+      "stars": 289,
+      "language": "C#",
+      "topics": [
+        "chatgpt",
+        "chatgpt-4",
+        "chatgpt-4o",
+        "chatgpt-5-5",
+        "chatgpt-5-pro",
+        "chatgpt-clone",
+        "chatgpt-free",
+        "free-chat-gpt",
+        "free-chatgpt",
+        "free-gpt",
+        "gpt-5-pro",
+        "gpt-pro-review",
+        "openai-chatgpt"
+      ]
+    }
+  ]
+}
