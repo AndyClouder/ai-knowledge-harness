@@ -1,0 +1,154 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-05-30T09:58:20.765348+00:00",
+  "items": [
+    {
+      "name": "baoweise-bot/aimili-vpngate",
+      "url": "https://github.com/baoweise-bot/aimili-vpngate",
+      "summary": "aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。",
+      "stars": 473,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "2aronS/Duel-Agents",
+      "url": "https://github.com/2aronS/Duel-Agents",
+      "summary": "CLI, SDK, and IDE plugins for Duel Agents",
+      "stars": 415,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "claude-code",
+        "cli",
+        "cursor",
+        "duel-agents",
+        "llm",
+        "npm",
+        "openai-compatible",
+        "openclaw",
+        "sdk",
+        "typescript"
+      ]
+    },
+    {
+      "name": "ace-trump-tech/DeltaForce-OBS-Locker",
+      "url": "https://github.com/ace-trump-tech/DeltaForce-OBS-Locker",
+      "summary": "三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recog",
+      "stars": 366,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "6537445/jenny-mod-minecraft-",
+      "url": "https://github.com/6537445/jenny-mod-minecraft-",
+      "summary": "jenny mod minecraft mod de jenny download video curseforge 1.21 forge fabric tlauncher java edition bedrock mcpe virtual girlfriend addon skins gameplay setup guide latest version 26.1.2 windows 11 fr",
+      "stars": 338,
+      "language": "Java",
+      "topics": [
+        "curseforge-jenny-mod",
+        "jenny",
+        "jenny-mod",
+        "jenny-mod-2026",
+        "jenny-mod-minecraft-download",
+        "jenny-mod-minecraft-video",
+        "jenny-mod-update",
+        "jenny-mod-video",
+        "jennymod",
+        "jennymod-2026",
+        "jennymod-minecraft",
+        "minecraft-jenny-mod",
+        "minecraft-jenny-mod-2026",
+        "minecraft-mod",
+        "minecraft-nsfw-mod",
+        "minecraftjennymod",
+        "minecraftjennymod-2026",
+        "mod-de-jenny",
+        "nsfw",
+        "nsfw-forge-mod"
+      ]
+    },
+    {
+      "name": "GordenSun/GordenPPTSkill",
+      "url": "https://github.com/GordenSun/GordenPPTSkill",
+      "summary": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the lay",
+      "stars": 322,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "foru17/make-x-great-again",
+      "url": "https://github.com/foru17/make-x-great-again",
+      "summary": "Make X Great Again — passive ambient browser extension that makes X usable: spam shield, KOL signal score, profile digest, social graph hints. Public-good, open source.",
+      "stars": 314,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "nv-tlabs/Gamma-World",
+      "url": "https://github.com/nv-tlabs/Gamma-World",
+      "summary": "Implementation of Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players",
+      "stars": 314,
+      "language": null,
+      "topics": [
+        "aigc",
+        "multi-agent",
+        "robotics",
+        "video-game",
+        "worldmodel"
+      ]
+    },
+    {
+      "name": "zhristophe/Claude-Mythos-AI-Anthropic-App",
+      "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
+      "summary": "claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep reasoning chain of thought system prompts jailb",
+      "stars": 306,
+      "language": "TypeScript",
+      "topics": [
+        "anthropic-claude-mythos",
+        "claude-ai-skills",
+        "claude-anthropic",
+        "claude-chat",
+        "claude-code-",
+        "claude-code-action",
+        "claude-code-cli",
+        "claude-code-hooks",
+        "claude-code-marketplace",
+        "claude-code-plugin",
+        "claude-code-skill",
+        "claude-code-skills",
+        "claude-design-download",
+        "claude-design-free",
+        "claude-desktop-app",
+        "claude-free",
+        "claude-mythos",
+        "claude-pro",
+        "claude-skills",
+        "mythos"
+      ]
+    },
+    {
+      "name": "Astraltenprosper/uncensored-ai-image-video-generator",
+      "url": "https://github.com/Astraltenprosper/uncensored-ai-image-video-generator",
+      "summary": "AI tool for generating uncensored images and videos (18+)",
+      "stars": 302,
+      "language": "Python",
+      "topics": [
+        "adult-ai",
+        "adult-videos",
+        "adults",
+        "adults-only",
+        "ai-video",
+        "ai-video-generation",
+        "ai-video-generator",
+        "ai-video-maker",
+        "nude-ai-generator-list",
+        "uncensored-ai-image-generator",
+        "uncensored-ai-video-generator",
+        "undress-ai-gen",
+        "unrestricted-ai"
+      ]
+    }
+  ]
+}

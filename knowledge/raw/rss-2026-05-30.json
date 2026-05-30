@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-05-30T09:58:39.526455+00:00",
+  "items": [
+    {
+      "name": "Slow Journal app, with AI integration",
+      "url": "https://nemejournal.app/",
+      "summary": "Article URL: https://nemejournal.app/\nComments URL: https://news.ycombinator.com/item?id=48334405\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "djampodev",
+      "published": "Sat, 30 May 2026 09:41:07 +0000"
+    },
+    {
+      "name": "AI coding agents ships at the cost of intuition and taste",
+      "url": "https://shivekkhurana.com/blog/coding-agent-dopamine/",
+      "summary": "Article URL: https://shivekkhurana.com/blog/coding-agent-dopamine/\nComments URL: https://news.ycombinator.com/item?id=48334363\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "shivekkhurana",
+      "published": "Sat, 30 May 2026 09:33:05 +0000"
+    },
+    {
+      "name": "Three flavors of coding with AI agents",
+      "url": "https://nocodefunctions.com/blog/three-flavors-agentic-coding/",
+      "summary": "Article URL: https://nocodefunctions.com/blog/three-flavors-agentic-coding/\nComments URL: https://news.ycombinator.com/item?id=48334332\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "seinecle",
+      "published": "Sat, 30 May 2026 09:27:02 +0000"
+    },
+    {
+      "name": "Show HN: AI-org – org-mode powered by AI",
+      "url": "https://ai-org.net/",
+      "summary": "Hey guys. I made an attempt at using AI agents to help organize your tasks and life.I liked orgmode before AI. But just wondered how it could look with AI.So I created ai-org, a non-taken name it seem",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mannders",
+      "published": "Sat, 30 May 2026 08:59:47 +0000"
+    },
+    {
+      "name": "A $2k AI-generated film will make its debut at Tribeca",
+      "url": "https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca",
+      "summary": "Article URL: https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca\nComments URL: https://news.ycombinator.com/item?id=48333728\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "fuzzythinker",
+      "published": "Sat, 30 May 2026 07:45:03 +0000"
+    },
+    {
+      "name": "Company Blew $500M on Claude AI in One Month Due to No Usage Limit on Licenses",
+      "url": "https://www.gadgetreview.com/company-blew-500m-on-claude-ai-in-one-month",
+      "summary": "Article URL: https://www.gadgetreview.com/company-blew-500m-on-claude-ai-in-one-month\nComments URL: https://news.ycombinator.com/item?id=48333209\nPoints: 4\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "dotcoma",
+      "published": "Sat, 30 May 2026 06:21:27 +0000"
+    },
+    {
+      "name": "Nvidia says it has largely conceded China's AI chip market to Huawei",
+      "url": "https://www.cnbc.com/2026/05/21/nvidia-jensen-huang-china-ai-chip-market-huawei.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/05/21/nvidia-jensen-huang-china-ai-chip-market-huawei.html\nComments URL: https://news.ycombinator.com/item?id=48333181\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "KnuthIsGod",
+      "published": "Sat, 30 May 2026 06:16:53 +0000"
+    },
+    {
+      "name": "The 12 Futures of AI",
+      "url": "https://medium.com/@butsch_79/the-12-futures-of-ai-a42d67bd9a20",
+      "summary": "Article URL: https://medium.com/@butsch_79/the-12-futures-of-ai-a42d67bd9a20\nComments URL: https://news.ycombinator.com/item?id=48332942\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "andsoitis",
+      "published": "Sat, 30 May 2026 05:32:10 +0000"
+    },
+    {
+      "name": "The Biggest Tell That Something Was Written by AI",
+      "url": "https://www.theatlantic.com/technology/2026/05/how-to-tell-ai-writing/687345/",
+      "summary": "Article URL: https://www.theatlantic.com/technology/2026/05/how-to-tell-ai-writing/687345/\nComments URL: https://news.ycombinator.com/item?id=48332936\nPoints: 10\n# Comments: 6",
+      "source": "hacker_news",
+      "score": null,
+      "author": "nlawalker",
+      "published": "Sat, 30 May 2026 05:31:05 +0000"
+    },
+    {
+      "name": "Meta plans AI pendant, 'wearables for work' in hardware boost",
+      "url": "https://economictimes.indiatimes.com/tech/technology/meta-plans-ai-pendant-wearables-for-work-in-hardware-boost-report/articleshow/131402525.cms?from=mdr",
+      "summary": "Article URL: https://economictimes.indiatimes.com/tech/technology/meta-plans-ai-pendant-wearables-for-work-in-hardware-boost-report/articleshow/131402525.cms?from=mdr\nComments URL: https://news.ycombi",
+      "source": "hacker_news",
+      "score": null,
+      "author": "jeffufl",
+      "published": "Sat, 30 May 2026 04:08:36 +0000"
+    },
+    {
+      "name": "US judiciary asked to adopt rule to curb fake AI-generated cases in filings",
+      "url": "https://www.reuters.com/legal/government/us-judiciary-asked-adopt-rule-curb-fake-ai-generated-cases-filings-2026-05-29/",
+      "summary": "Article URL: https://www.reuters.com/legal/government/us-judiciary-asked-adopt-rule-curb-fake-ai-generated-cases-filings-2026-05-29/\nComments URL: https://news.ycombinator.com/item?id=48332432\nPoints:",
+      "source": "hacker_news",
+      "score": null,
+      "author": "droidjj",
+      "published": "Sat, 30 May 2026 04:02:15 +0000"
+    },
+    {
+      "name": "DeepSWE blows up AI coding leaderboard, crowns GPT-5.5, + ClaudeOpus loophole",
+      "url": "https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole",
+      "summary": "Article URL: https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole\nComments URL: https://news.ycombinator.c",
+      "source": "hacker_news",
+      "score": null,
+      "author": "BriStoller",
+      "published": "Sat, 30 May 2026 03:44:07 +0000"
+    },
+    {
+      "name": "Imece – a decentralized AI compute cooperative",
+      "url": "https://github.com/jstdv/imece",
+      "summary": "Article URL: https://github.com/jstdv/imece\nComments URL: https://news.ycombinator.com/item?id=48332332\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "jstdv",
+      "published": "Sat, 30 May 2026 03:43:02 +0000"
+    },
+    {
+      "name": "AI Isn't Replacing Curious Developers",
+      "url": "https://dataengineeringcentral.substack.com/p/ai-isnt-replacing-developers",
+      "summary": "Article URL: https://dataengineeringcentral.substack.com/p/ai-isnt-replacing-developers\nComments URL: https://news.ycombinator.com/item?id=48332282\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "eigenBasis",
+      "published": "Sat, 30 May 2026 03:32:55 +0000"
+    },
+    {
+      "name": "Uber and the Bitter Truth About Low AI ROI",
+      "url": "https://news.ycombinator.com/item?id=48332242",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=48332242\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "thegrandidiot",
+      "published": "Sat, 30 May 2026 03:26:58 +0000"
+    },
+    {
+      "name": "A Famous Math Problem Stumped Humans for 80 Years. AI Just Cracked It",
+      "url": "https://www.wsj.com/tech/ai/ai-math-solves-erdos-problem-openai-c4029e84",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-math-solves-erdos-problem-openai-c4029e84\nComments URL: https://news.ycombinator.com/item?id=48332080\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "bryan0",
+      "published": "Sat, 30 May 2026 03:05:04 +0000"
+    },
+    {
+      "name": "Lessons from Shipping Persistent Memory for AI Agents",
+      "url": "https://www.pingcap.com/blog/how-we-built-mem9-agent-memory-product/",
+      "summary": "Article URL: https://www.pingcap.com/blog/how-we-built-mem9-agent-memory-product/\nComments URL: https://news.ycombinator.com/item?id=48332053\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "jinqueeny",
+      "published": "Sat, 30 May 2026 02:59:43 +0000"
+    },
+    {
+      "name": "SpaceX has almost finished writing v1.0 of an in-house AI training stack in C",
+      "url": "https://xcancel.com/elonmusk/status/2059884150187053488",
+      "summary": "Article URL: https://xcancel.com/elonmusk/status/2059884150187053488\nComments URL: https://news.ycombinator.com/item?id=48332000\nPoints: 3\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "SilverElfin",
+      "published": "Sat, 30 May 2026 02:50:31 +0000"
+    },
+    {
+      "name": "Avai – your first AI antivirus",
+      "url": "https://github.com/iklobato/avai",
+      "summary": "Article URL: https://github.com/iklobato/avai\nComments URL: https://news.ycombinator.com/item?id=48331726\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "iklobato1",
+      "published": "Sat, 30 May 2026 02:11:14 +0000"
+    },
+    {
+      "name": "Aedis – An open-source macroeconomic framework for the AI transition Body",
+      "url": "https://github.com/rand55/project-aedis-framework/tree/main",
+      "summary": "Article URL: https://github.com/rand55/project-aedis-framework/tree/main\nComments URL: https://news.ycombinator.com/item?id=48331506\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Randal1964",
+      "published": "Sat, 30 May 2026 01:39:46 +0000"
+    }
+  ]
+}
