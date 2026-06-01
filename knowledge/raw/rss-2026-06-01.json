@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-06-01T13:34:39.653826+00:00",
+  "items": [
+    {
+      "name": "Introducing Pulse: A Post-Scrum Manifesto and Agent Workflow for AI-Native Teams",
+      "url": "https://github.com/pssah4/digital-innovation-agents",
+      "summary": "Article URL: https://github.com/pssah4/digital-innovation-agents\nComments URL: https://news.ycombinator.com/item?id=48356590\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pssah4",
+      "published": "Mon, 01 Jun 2026 13:28:00 +0000"
+    },
+    {
+      "name": "Major Israeli tech firms start layoffs as AI revolution roils industry",
+      "url": "https://www.timesofisrael.com/major-israeli-tech-firms-commence-sweeping-layoffs-as-ai-revolution-roils-industry/",
+      "summary": "Article URL: https://www.timesofisrael.com/major-israeli-tech-firms-commence-sweeping-layoffs-as-ai-revolution-roils-industry/\nComments URL: https://news.ycombinator.com/item?id=48356568\nPoints: 2\n# C",
+      "source": "hacker_news",
+      "score": null,
+      "author": "tcp_handshaker",
+      "published": "Mon, 01 Jun 2026 13:26:13 +0000"
+    },
+    {
+      "name": "Cosmos 3: Omnimodal World Models for Physical AI",
+      "url": "https://research.nvidia.com/labs/cosmos-lab/cosmos3/",
+      "summary": "Article URL: https://research.nvidia.com/labs/cosmos-lab/cosmos3/\nComments URL: https://news.ycombinator.com/item?id=48356566\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "armcat",
+      "published": "Mon, 01 Jun 2026 13:26:10 +0000"
+    },
+    {
+      "name": "When AI Starts Writing Systems Code",
+      "url": "https://www.coreauto.com/blog/when-ai-starts-writing-systems-code",
+      "summary": "Article URL: https://www.coreauto.com/blog/when-ai-starts-writing-systems-code\nComments URL: https://news.ycombinator.com/item?id=48356519\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "yurivish",
+      "published": "Mon, 01 Jun 2026 13:22:48 +0000"
+    },
+    {
+      "name": "Nvidia Introduces First PCs Designed for AI Agents",
+      "url": "https://www.wsj.com/tech/ai/nvidia-introduces-first-pcs-designed-for-ai-agents-47445bcd",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/nvidia-introduces-first-pcs-designed-for-ai-agents-47445bcd\nComments URL: https://news.ycombinator.com/item?id=48356472\nPoints: 2\n# Comments: 3",
+      "source": "hacker_news",
+      "score": null,
+      "author": "fortran77",
+      "published": "Mon, 01 Jun 2026 13:19:27 +0000"
+    },
+    {
+      "name": "Show HN: AI Agents Need Inspectable State. That's Why I Built LangMCP",
+      "url": "https://medium.com/towards-artificial-intelligence/ai-agents-need-inspectable-state-thats-why-i-built-langmcp-6038cca8a1d9",
+      "summary": "Article URL: https://medium.com/towards-artificial-intelligence/ai-agents-need-inspectable-state-thats-why-i-built-langmcp-6038cca8a1d9\nComments URL: https://news.ycombinator.com/item?id=48356387\nPoin",
+      "source": "hacker_news",
+      "score": null,
+      "author": "muhammad-shafat",
+      "published": "Mon, 01 Jun 2026 13:11:43 +0000"
+    },
+    {
+      "name": "Autonomous capabilities audit of a hotel voice AI assistant",
+      "url": "https://ktoyame.substack.com/p/autonomous-security-audit-of-a-hotel",
+      "summary": "Article URL: https://ktoyame.substack.com/p/autonomous-security-audit-of-a-hotel\nComments URL: https://news.ycombinator.com/item?id=48356319\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ktoyame",
+      "published": "Mon, 01 Jun 2026 13:06:19 +0000"
+    },
+    {
+      "name": "The Sandbox Shift – sandboxes are the new containers, for AI-written code",
+      "url": "https://zozo123.github.io/sandboxes-why-how-when/",
+      "summary": "Article URL: https://zozo123.github.io/sandboxes-why-how-when/\nComments URL: https://news.ycombinator.com/item?id=48356254\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "zozo123-IB",
+      "published": "Mon, 01 Jun 2026 12:59:22 +0000"
+    },
+    {
+      "name": "What to build before the EU AI Act deadline",
+      "url": "https://www.cerbos.dev/blog/authorization-for-ai-agents-what-to-build-before-eu-ai-act-deadline",
+      "summary": "Article URL: https://www.cerbos.dev/blog/authorization-for-ai-agents-what-to-build-before-eu-ai-act-deadline\nComments URL: https://news.ycombinator.com/item?id=48356180\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mooreds",
+      "published": "Mon, 01 Jun 2026 12:53:17 +0000"
+    },
+    {
+      "name": "Google, Anthropic, and Nvidia Just Made AI Permissions the Real Risk",
+      "url": "https://blog.keryxsolutions.com/p/google-anthropic-and-nvidia-just",
+      "summary": "Article URL: https://blog.keryxsolutions.com/p/google-anthropic-and-nvidia-just\nComments URL: https://news.ycombinator.com/item?id=48356176\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "kdb1008",
+      "published": "Mon, 01 Jun 2026 12:52:39 +0000"
+    },
+    {
+      "name": "AI isn't a value-add for software; software is a value-add for AI",
+      "url": "https://brianguthrie.com/p/ai-isnt-a-value-add-for-software-software-is-a-value-add-for-ai/",
+      "summary": "Article URL: https://brianguthrie.com/p/ai-isnt-a-value-add-for-software-software-is-a-value-add-for-ai/\nComments URL: https://news.ycombinator.com/item?id=48356050\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "bguthrie",
+      "published": "Mon, 01 Jun 2026 12:38:56 +0000"
+    },
+    {
+      "name": "Time for the AI Discussion – The Pattern",
+      "url": "https://github.com/ublue-os/bluefin/discussions/4724",
+      "summary": "Article URL: https://github.com/ublue-os/bluefin/discussions/4724\nComments URL: https://news.ycombinator.com/item?id=48355945\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mooreds",
+      "published": "Mon, 01 Jun 2026 12:29:40 +0000"
+    },
+    {
+      "name": "Context is essential for AI agents, but I think shared state is the next problem",
+      "url": "https://github.com/Abloatai/ablo",
+      "summary": "Article URL: https://github.com/Abloatai/ablo\nComments URL: https://news.ycombinator.com/item?id=48355849\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "lukasanderss",
+      "published": "Mon, 01 Jun 2026 12:19:05 +0000"
+    },
+    {
+      "name": "When AI Crosses the Line: The Matplotlib Incident",
+      "url": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096",
+      "summary": "Article URL: https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096\nComments URL: https://news.ycombinator.com/item?id=48355751\nPoints: 66\n# Comments: 43",
+      "source": "hacker_news",
+      "score": null,
+      "author": "sigmazero",
+      "published": "Mon, 01 Jun 2026 12:08:23 +0000"
+    },
+    {
+      "name": "FTSE 100's likely new entrant puts a British spin on the AI boom",
+      "url": "https://www.ft.com/content/19330d92-fee6-4ddf-95f5-98f005061c0b",
+      "summary": "Article URL: https://www.ft.com/content/19330d92-fee6-4ddf-95f5-98f005061c0b\nComments URL: https://news.ycombinator.com/item?id=48355688\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mmarian",
+      "published": "Mon, 01 Jun 2026 11:59:51 +0000"
+    },
+    {
+      "name": "'More harmful than helpful': young people sour on AI",
+      "url": "https://www.ft.com/content/73fc962e-ce68-4521-9c5d-841a666eed10",
+      "summary": "Article URL: https://www.ft.com/content/73fc962e-ce68-4521-9c5d-841a666eed10\nComments URL: https://news.ycombinator.com/item?id=48355598\nPoints: 4\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "1vuio0pswjnm7",
+      "published": "Mon, 01 Jun 2026 11:48:03 +0000"
+    },
+    {
+      "name": "IEA: About Energy and AI",
+      "url": "https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary",
+      "summary": "Article URL: https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary\nComments URL: https://news.ycombinator.com/item?id=48355510\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "samber",
+      "published": "Mon, 01 Jun 2026 11:38:25 +0000"
+    },
+    {
+      "name": "MiniMax debuts AI model built for long and complex coding tasks",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3355529/minimax-debuts-ai-model-built-long-and-complex-coding-tasks",
+      "summary": "Article URL: https://www.scmp.com/tech/tech-trends/article/3355529/minimax-debuts-ai-model-built-long-and-complex-coding-tasks\nComments URL: https://news.ycombinator.com/item?id=48355509\nPoints: 3\n# C",
+      "source": "hacker_news",
+      "score": null,
+      "author": "thm",
+      "published": "Mon, 01 Jun 2026 11:38:23 +0000"
+    },
+    {
+      "name": "Copilot usage metrics API adds cohorts for AI adoption",
+      "url": "https://github.blog/changelog/2026-05-29-copilot-usage-metrics-api-adds-cohorts-for-ai-adoption/",
+      "summary": "Article URL: https://github.blog/changelog/2026-05-29-copilot-usage-metrics-api-adds-cohorts-for-ai-adoption/\nComments URL: https://news.ycombinator.com/item?id=48355451\nPoints: 3\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "saikatsg",
+      "published": "Mon, 01 Jun 2026 11:31:04 +0000"
+    },
+    {
+      "name": "AI Companies Don't Want Us to Be Token Efficient",
+      "url": "https://prgrmmr.org/posts/ai-companies-dont-want-us-to-be-token-efficient/",
+      "summary": "Article URL: https://prgrmmr.org/posts/ai-companies-dont-want-us-to-be-token-efficient/\nComments URL: https://news.ycombinator.com/item?id=48355440\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "magalhaesh",
+      "published": "Mon, 01 Jun 2026 11:30:10 +0000"
+    }
+  ]
+}

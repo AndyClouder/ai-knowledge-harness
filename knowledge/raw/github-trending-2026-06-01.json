@@ -1,0 +1,57 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-06-01T13:34:26.860344+00:00",
+  "items": [
+    {
+      "name": "pewdiepie-archdaemon/odysseus",
+      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+      "summary": "Self-hosted AI workspace. ",
+      "stars": 14930,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "name": "asz798838958/aBaiAutoplus",
+      "url": "https://github.com/asz798838958/aBaiAutoplus",
+      "summary": "多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
+      "stars": 499,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "liyue-aigc/female-portrait-director",
+      "url": "https://github.com/liyue-aigc/female-portrait-director",
+      "summary": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
+      "stars": 364,
+      "language": null,
+      "topics": [
+        "ai-image-generation",
+        "codex",
+        "codex-skill",
+        "open-source",
+        "prompt-engineering"
+      ]
+    },
+    {
+      "name": "jdevalk/specification.website",
+      "url": "https://github.com/jdevalk/specification.website",
+      "summary": "Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT.",
+      "stars": 355,
+      "language": "TypeScript",
+      "topics": [
+        "accessibility",
+        "agent-readiness",
+        "astro",
+        "cloudflare-pages",
+        "llms-txt",
+        "mcp",
+        "seo",
+        "specification",
+        "web-security",
+        "web-standards",
+        "well-known"
+      ]
+    }
+  ]
+}
