@@ -1,0 +1,97 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-06-02T12:02:29.920474+00:00",
+  "items": [
+    {
+      "name": "boona13/image-extender",
+      "url": "https://github.com/boona13/image-extender",
+      "summary": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.",
+      "stars": 632,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "gemini",
+        "image-generation",
+        "nano-banana",
+        "nextjs",
+        "openrouter",
+        "outpainting",
+        "poisson-blending",
+        "tailwindcss",
+        "typescript"
+      ]
+    },
+    {
+      "name": "DannyMac180/skills",
+      "url": "https://github.com/DannyMac180/skills",
+      "summary": "AI agent skills created by me: Dan McAteer",
+      "stars": 358,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "ClaudioDrews/memory-os",
+      "url": "https://github.com/ClaudioDrews/memory-os",
+      "summary": "A 6-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.",
+      "stars": 340,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "actuallyaridan/linux-devmgmt",
+      "url": "https://github.com/actuallyaridan/linux-devmgmt",
+      "summary": "A faithful recreation of the Windows Device Manager built with Qt6 and real hardware backends via sysfs/procfs. Best enjoyed with AeroThemePlasma, but looks great on regular KDE as well.",
+      "stars": 319,
+      "language": "C++",
+      "topics": [
+        "aerothemeplasma",
+        "device-management",
+        "device-manager",
+        "devmgmt",
+        "kde",
+        "linux",
+        "qt6",
+        "windows"
+      ]
+    },
+    {
+      "name": "cellinlab/how-pi-agent-works",
+      "url": "https://github.com/cellinlab/how-pi-agent-works",
+      "summary": "Pi Agent 原理与实现",
+      "stars": 307,
+      "language": null,
+      "topics": [
+        "agent",
+        "ai",
+        "pi"
+      ]
+    },
+    {
+      "name": "yb2460/harness-anything",
+      "url": "https://github.com/yb2460/harness-anything",
+      "summary": "CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation",
+      "stars": 297,
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "automation",
+        "cli",
+        "cli-anything",
+        "com",
+        "office",
+        "python",
+        "windows",
+        "wps"
+      ]
+    },
+    {
+      "name": "MatixYo/ESP32-Plane-Radar",
+      "url": "https://github.com/MatixYo/ESP32-Plane-Radar",
+      "summary": "Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar.",
+      "stars": 291,
+      "language": "C++",
+      "topics": []
+    }
+  ]
+}

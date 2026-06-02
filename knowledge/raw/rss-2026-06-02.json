@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-06-02T12:03:30.129082+00:00",
+  "items": [
+    {
+      "name": "MDMA – Turn LLM Responses into Interactive UI via MCP",
+      "url": "https://github.com/MobileReality/mdma",
+      "summary": "Article URL: https://github.com/MobileReality/mdma\nComments URL: https://news.ycombinator.com/item?id=48368005\nPoints: 4\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mattsadowsky",
+      "published": "Tue, 02 Jun 2026 09:46:45 +0000"
+    },
+    {
+      "name": "Good LLM development and usage patterns",
+      "url": "https://blog.bluebyday.com/posts/good-llm-dev-and-usage/",
+      "summary": "Article URL: https://blog.bluebyday.com/posts/good-llm-dev-and-usage/\nComments URL: https://news.ycombinator.com/item?id=48367934\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "_QrE",
+      "published": "Tue, 02 Jun 2026 09:37:25 +0000"
+    },
+    {
+      "name": "The LLM Job Paradox",
+      "url": "https://blog.nilesh.io/post/llms-and-jobs",
+      "summary": "Article URL: https://blog.nilesh.io/post/llms-and-jobs\nComments URL: https://news.ycombinator.com/item?id=48366813\nPoints: 2\n# Comments: 4",
+      "source": "hacker_news",
+      "score": null,
+      "author": "MisterKent",
+      "published": "Tue, 02 Jun 2026 06:40:05 +0000"
+    },
+    {
+      "name": "Show HN: Viveka: filter LLM output against a Lean-verified Advaita Vedanta model",
+      "url": "https://github.com/SpecStudio-net/Viveka",
+      "summary": "Article URL: https://github.com/SpecStudio-net/Viveka\nComments URL: https://news.ycombinator.com/item?id=48366607\nPoints: 4\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "adyashakti",
+      "published": "Tue, 02 Jun 2026 06:01:37 +0000"
+    },
+    {
+      "name": "Why Study CS? Thoughts on LLM-assisted software engineering",
+      "url": "https://kmicinski.com/claude-code-and-why-study-cs",
+      "summary": "Article URL: https://kmicinski.com/claude-code-and-why-study-cs\nComments URL: https://news.ycombinator.com/item?id=48365109\nPoints: 4\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "jruohonen",
+      "published": "Tue, 02 Jun 2026 02:10:15 +0000"
+    },
+    {
+      "name": "LLM and Clojure",
+      "url": "https://tusshah.codeberg.page/",
+      "summary": "Article URL: https://tusshah.codeberg.page/\nComments URL: https://news.ycombinator.com/item?id=48364415\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mmts",
+      "published": "Tue, 02 Jun 2026 00:41:32 +0000"
+    },
+    {
+      "name": "CHSE – Rust LLM compressor: 1.15M lines/s, 69-91% token savings",
+      "url": "https://news.ycombinator.com/item?id=48364338",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=48364338\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "humanethq",
+      "published": "Tue, 02 Jun 2026 00:29:42 +0000"
+    },
+    {
+      "name": "Show HN: Figure – produce printable STL files via LLM and OpenSCAD",
+      "url": "https://figure.codes/",
+      "summary": "Article URL: https://figure.codes/\nComments URL: https://news.ycombinator.com/item?id=48363989\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "EddieLomax",
+      "published": "Mon, 01 Jun 2026 23:36:17 +0000"
+    },
+    {
+      "name": "agentgateway – One high-performance gateway for service, LLM, and MCP traffic",
+      "url": "https://agentgateway.dev/",
+      "summary": "Article URL: https://agentgateway.dev/\nComments URL: https://news.ycombinator.com/item?id=48363702\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "wicket",
+      "published": "Mon, 01 Jun 2026 22:59:02 +0000"
+    },
+    {
+      "name": "Show HN: I reduced LLM inference GPU calls by 94% using semantic routing",
+      "url": "https://icomnewtechnologies.com/proof/proof_install.sh",
+      "summary": "on any ubuntu curl -fsSL https://icomnewtechnologies.com/proof/proof_install.sh -o ~/proof.sh\nbash ~/proof.sh\n\nComments URL: https://news.ycombinator.com/item?id=48363484\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "kanacki",
+      "published": "Mon, 01 Jun 2026 22:30:52 +0000"
+    },
+    {
+      "name": "Show HN: Glq LLM quantization using E8 lattice",
+      "url": "https://github.com/cnygaard/glq",
+      "summary": "I have with the help of AI create an open source method of E8 LLM code book quantization library called glq. I was interested in creating Glq\nas a PC gamer and devops, interested in both LLMs and AI. ",
+      "source": "hacker_news",
+      "score": null,
+      "author": "acd",
+      "published": "Mon, 01 Jun 2026 21:17:26 +0000"
+    },
+    {
+      "name": "Possibly made by a human: a tool for claiming that you are not an LLM",
+      "url": "https://possiblymadebyahuman.com",
+      "summary": "Article URL: https://possiblymadebyahuman.com\nComments URL: https://news.ycombinator.com/item?id=48361117\nPoints: 4\n# Comments: 3",
+      "source": "hacker_news",
+      "score": null,
+      "author": "juanre",
+      "published": "Mon, 01 Jun 2026 18:59:43 +0000"
+    },
+    {
+      "name": "The Illusion of Perfect LLM Code",
+      "url": "https://ariya.io/2026/05/the-illusion-of-perfect-llm-code/",
+      "summary": "Article URL: https://ariya.io/2026/05/the-illusion-of-perfect-llm-code/\nComments URL: https://news.ycombinator.com/item?id=48360797\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pavel_lishin",
+      "published": "Mon, 01 Jun 2026 18:33:57 +0000"
+    },
+    {
+      "name": "Show HN: AI Sandbox based on FEP now online – no LLM",
+      "url": "https://aic-ai-lab.site/login",
+      "summary": "The System includes individual neurochemical hormon system for every agent, an own world for them where they try to survive, different tasks they need to manage like politics, justice, healthcare, lea",
+      "source": "hacker_news",
+      "score": null,
+      "author": "luzifer333",
+      "published": "Mon, 01 Jun 2026 17:59:51 +0000"
+    },
+    {
+      "name": "I ran a few local LLM models on my MacBook Air M3, these are the results",
+      "url": "https://prasadkhake.com/blog/16gb-mac-llm",
+      "summary": "Article URL: https://prasadkhake.com/blog/16gb-mac-llm\nComments URL: https://news.ycombinator.com/item?id=48358776\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "robertlangdon",
+      "published": "Mon, 01 Jun 2026 16:10:19 +0000"
+    },
+    {
+      "name": "Fine-tuning an LLM to write docs like it's 1995",
+      "url": "https://passo.uno/fine-tuning-docs-llm/",
+      "summary": "Article URL: https://passo.uno/fine-tuning-docs-llm/\nComments URL: https://news.ycombinator.com/item?id=48354674\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "theletterf",
+      "published": "Mon, 01 Jun 2026 09:48:28 +0000"
+    },
+    {
+      "name": "Two LLM UI Patterns That Aren't Chat",
+      "url": "https://poyo.co/note/20260525T094605/",
+      "summary": "Article URL: https://poyo.co/note/20260525T094605/\nComments URL: https://news.ycombinator.com/item?id=48354521\nPoints: 5\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "minikomi",
+      "published": "Mon, 01 Jun 2026 09:29:56 +0000"
+    },
+    {
+      "name": "What Kind of Clock Is an LLM?",
+      "url": "https://isthisanart.substack.com/p/what-kind-of-clock-is-an-llm",
+      "summary": "Article URL: https://isthisanart.substack.com/p/what-kind-of-clock-is-an-llm\nComments URL: https://news.ycombinator.com/item?id=48351302\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "HR01",
+      "published": "Mon, 01 Jun 2026 00:28:24 +0000"
+    },
+    {
+      "name": "Karpathy LLM Wiki pattern integrated into Obsidian agenic workflow",
+      "url": "https://github.com/pssah4/vault-operator",
+      "summary": "Article URL: https://github.com/pssah4/vault-operator\nComments URL: https://news.ycombinator.com/item?id=48351115\nPoints: 28\n# Comments: 9",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pssah4",
+      "published": "Mon, 01 Jun 2026 00:03:11 +0000"
+    },
+    {
+      "name": "New AI Agent Architecture to fix LLM deviations and token costs",
+      "url": "https://github.com/botcircuits-ai/botcircuits-agent",
+      "summary": "Article URL: https://github.com/botcircuits-ai/botcircuits-agent\nComments URL: https://news.ycombinator.com/item?id=48350800\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "nexcatara",
+      "published": "Sun, 31 May 2026 23:21:43 +0000"
+    }
+  ]
+}
