@@ -1,0 +1,422 @@
+[
+  {
+    "id": "5138eb41-53f7-4bed-9b7b-60ca7b39a95a",
+    "title": "JuneYaooo/nihaisha-tcm",
+    "source_url": "https://github.com/JuneYaooo/nihaisha-tcm",
+    "source": "unknown",
+    "collected_at": "2026-06-03T12:40:28.369884+00:00",
+    "analyzed_at": "2026-06-03T12:40:28.369884+00:00",
+    "summary": "倪海厦中医课程资料的 Agent Skill：支持课程检索、方证穴位辨析、学习笔记整理与板书截图证据索引。 |  An Agent Skill for Ni Haisha TCM course study, formula-pattern lookup, acupoint reference, and screenshot evidence indexing.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 293,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "3b4a6d98-24da-4371-968a-087ded35af72",
+    "title": "VAST-AI-Research/TripoSplat",
+    "source_url": "https://github.com/VAST-AI-Research/TripoSplat",
+    "source": "unknown",
+    "collected_at": "2026-06-03T12:40:29.599622+00:00",
+    "analyzed_at": "2026-06-03T12:40:29.599622+00:00",
+    "summary": "TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 279,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "2dda027c-20e4-460f-93b4-b8f5db101901",
+    "title": "ProxyShard/ShardBrowser",
+    "source_url": "https://github.com/ProxyShard/ShardBrowser",
+    "source": "unknown",
+    "collected_at": "2026-06-03T12:40:30.830737+00:00",
+    "analyzed_at": "2026-06-03T12:40:30.830737+00:00",
+    "summary": "Free, open-source anti-detect browser launcher for web scraping and multi-accounting. By the ProxyShard team. Engine-level fingerprint spoofing in Chromium 148 (WebGL / WebGPU / Client Hints / fonts /",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 273,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "ef93b349-24e1-469b-9bb8-2545d62d0991",
+    "title": "bytedance/Bernini",
+    "source_url": "https://github.com/bytedance/Bernini",
+    "source": "unknown",
+    "collected_at": "2026-06-03T12:40:32.058915+00:00",
+    "analyzed_at": "2026-06-03T12:40:32.058915+00:00",
+    "summary": "Bernini is a unified framework for video generation and editing that combines an MLLM-based semantic planner with a DiT-based renderer.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 251,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "2ebd41e1-9fe3-4e06-9b73-a351019284ed",
+    "title": "cpaczek/skylight",
+    "source_url": "https://github.com/cpaczek/skylight",
+    "source": "unknown",
+    "collected_at": "2026-06-03T12:40:33.289789+00:00",
+    "analyzed_at": "2026-06-03T12:40:33.289789+00:00",
+    "summary": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 237,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "80ba3bee-c7e4-49a6-9c2c-14c2251b4dc2",
+    "title": "AI Bots Cite Dentists More Than Fortune 500s. The Data Surprised Us",
+    "source_url": "https://engagemii.com/blog/dentists-vs-fortune-500-ai-citations",
+    "source": "hacker_news",
+    "collected_at": "2026-06-03T12:40:34.518075+00:00",
+    "analyzed_at": "2026-06-03T12:40:34.518075+00:00",
+    "summary": "Article URL: https://engagemii.com/blog/dentists-vs-fortune-500-ai-citations\nComments URL: https://news.ycombinator.com/item?id=48383203\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Greg_engagemii",
+      "language": null
+    }
+  },
+  {
+    "id": "ea885dcf-d895-4c18-a034-4274f2f6dc37",
+    "title": "AI licensing coalition SPUR in expansion",
+    "source_url": "https://pressgazette.co.uk/news/ai-licensing-coalition-spur-in-huge-expansion/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-03T12:40:35.747576+00:00",
+    "analyzed_at": "2026-06-03T12:40:35.747576+00:00",
+    "summary": "Article URL: https://pressgazette.co.uk/news/ai-licensing-coalition-spur-in-huge-expansion/\nComments URL: https://news.ycombinator.com/item?id=48383193\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "thm",
+      "language": null
+    }
+  },
+  {
+    "id": "a0c25157-1bff-4586-80d9-75f583273d0c",
+    "title": "Uber's $1,500/Month AI Limit Is a Useful Signal for AI Tool Pricing",
+    "source_url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-03T12:40:36.976199+00:00",
+    "analyzed_at": "2026-06-03T12:40:36.976199+00:00",
+    "summary": "Article URL: https://simonwillison.net/2026/Jun/3/uber-caps-usage/\nComments URL: https://news.ycombinator.com/item?id=48383056\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pdyc",
+      "language": null
+    }
+  },
+  {
+    "id": "ae49b712-727a-4f0b-8126-ffe87cc3b050",
+    "title": "Ask HN: Would you use a soundproof mic mask to dictate to AI in public?",
+    "source_url": "https://news.ycombinator.com/item?id=48383050",
+    "source": "hacker_news",
+    "collected_at": "2026-06-03T12:40:38.206281+00:00",
+    "analyzed_at": "2026-06-03T12:40:38.206281+00:00",
+    "summary": "I dictate to Claude Code with Wispr Flow and it's fast and natural at home. The moment I'm in the office or a cafe I stop, because everyone can hear me talking to my laptop. Whisper mode helps a littl",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "sodakim",
+      "language": null
+    }
+  },
+  {
+    "id": "41f82d2d-0d36-4dfb-a1fa-efe972b0336e",
+    "title": "Goldman Sachs CEO says markets in 'greed' mode as AI companies seek billions",
+    "source_url": "https://www.cnbc.com/2026/06/02/goldman-ceo-david-solomon-greed-mode-ai-firms-ipos.html",
+    "source": "hacker_news",
+    "collected_at": "2026-06-03T12:40:39.461226+00:00",
+    "analyzed_at": "2026-06-03T12:40:39.461226+00:00",
+    "summary": "Article URL: https://www.cnbc.com/2026/06/02/goldman-ceo-david-solomon-greed-mode-ai-firms-ipos.html\nComments URL: https://news.ycombinator.com/item?id=48382926\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "1vuio0pswjnm7",
+      "language": null
+    }
+  },
+  {
+    "id": "54255ed0-9ce7-47d5-a25f-30d3b571ddbe",
+    "title": "Introducing Search Generative AI Performance Reports in Google Search Console",
+    "source_url": "https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports",
+    "source": "hacker_news",
+    "collected_at": "2026-06-03T12:40:40.688108+00:00",
+    "analyzed_at": "2026-06-03T12:40:40.688108+00:00",
+    "summary": "Article URL: https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports\nComments URL: https://news.ycombinator.com/item?id=48382897\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "thm",
+      "language": null
+    }
+  },
+  {
+    "id": "e7505099-fa1c-48b4-98bc-fb2fbc1fabd1",
+    "title": "Show HN: VNN – AI news aggregator that verifies every source live",
+    "source_url": "https://vnn.valyrian.tech",
+    "source": "hacker_news",
+    "collected_at": "2026-06-03T12:40:41.918584+00:00",
+    "analyzed_at": "2026-06-03T12:40:41.918584+00:00",
+    "summary": "Article URL: https://vnn.valyrian.tech\nComments URL: https://news.ycombinator.com/item?id=48382882\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "WouterGlorieux",
+      "language": null
+    }
+  },
+  {
+    "id": "02f91817-62b6-43e3-b408-f80cfc720523",
+    "title": "The interface for AI hasn't been invented yet",
+    "source_url": "https://adaptivesoftware.substack.com/p/the-interface-for-ai-hasnt-been-invented",
+    "source": "hacker_news",
+    "collected_at": "2026-06-03T12:40:43.147161+00:00",
+    "analyzed_at": "2026-06-03T12:40:43.147161+00:00",
+    "summary": "Article URL: https://adaptivesoftware.substack.com/p/the-interface-for-ai-hasnt-been-invented\nComments URL: https://news.ycombinator.com/item?id=48382876\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "iristenteije",
+      "language": null
+    }
+  },
+  {
+    "id": "dd89c4cd-5b55-48ca-aaee-e302d2ebfb82",
+    "title": "Zero Evidence of AI-Related Job Losses",
+    "source_url": "https://www.apollo.com/wealth/the-daily-spark/zero-evidence-of-ai-related-job-losses",
+    "source": "hacker_news",
+    "collected_at": "2026-06-03T12:40:44.375634+00:00",
+    "analyzed_at": "2026-06-03T12:40:44.375634+00:00",
+    "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/zero-evidence-of-ai-related-job-losses\nComments URL: https://news.ycombinator.com/item?id=48382872\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "RickJWagner",
+      "language": null
+    }
+  },
+  {
+    "id": "c608f9d7-fc47-4ec1-9c13-55501d4f991b",
+    "title": "AI Workflows Need Topological Sort",
+    "source_url": "https://arpitbhayani.me/blogs/ai-topological-sort/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-03T12:40:45.605762+00:00",
+    "analyzed_at": "2026-06-03T12:40:45.605762+00:00",
+    "summary": "Article URL: https://arpitbhayani.me/blogs/ai-topological-sort/\nComments URL: https://news.ycombinator.com/item?id=48382849\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "saikrishnanair",
+      "language": null
+    }
+  },
+  {
+    "id": "eb6ba58d-7acb-423f-9662-978c890eb658",
+    "title": "Show HN: AI Council Toolkit – open-source playbook for AI governance",
+    "source_url": "https://www.aicounciltoolkit.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-03T12:40:46.834988+00:00",
+    "analyzed_at": "2026-06-03T12:40:46.834988+00:00",
+    "summary": "Article URL: https://www.aicounciltoolkit.com/\nComments URL: https://news.ycombinator.com/item?id=48382844\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "RickCraig",
+      "language": null
+    }
+  },
+  {
+    "id": "5a8e6cad-e3cf-4ff9-9289-ba6ecf396a38",
+    "title": "Top AI labs expand research into machine 'consciousness'",
+    "source_url": "https://www.ft.com/content/53e14bcc-788c-4959-b260-7aee363594bc",
+    "source": "hacker_news",
+    "collected_at": "2026-06-03T12:40:48.063591+00:00",
+    "analyzed_at": "2026-06-03T12:40:48.063591+00:00",
+    "summary": "Article URL: https://www.ft.com/content/53e14bcc-788c-4959-b260-7aee363594bc\nComments URL: https://news.ycombinator.com/item?id=48382807\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "1vuio0pswjnm7",
+      "language": null
+    }
+  },
+  {
+    "id": "b21f68c6-3f89-4d5f-b257-5d6066bfca58",
+    "title": "Study finds AI chatbots frequently miss possible diagnoses",
+    "source_url": "https://www.nbcboston.com/news/local/study-finds-ai-chatbots-frequently-miss-possible-diagnoses/3953915/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-03T12:40:49.292016+00:00",
+    "analyzed_at": "2026-06-03T12:40:49.292016+00:00",
+    "summary": "Article URL: https://www.nbcboston.com/news/local/study-finds-ai-chatbots-frequently-miss-possible-diagnoses/3953915/\nComments URL: https://news.ycombinator.com/item?id=48382771\nPoints: 1\n# Comments: ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "1vuio0pswjnm7",
+      "language": null
+    }
+  },
+  {
+    "id": "c27d1b32-4347-46a0-a73b-0c4319be2b15",
+    "title": "Why Aren't We Measuring How AI Affects Humans?",
+    "source_url": "https://spectrum.ieee.org/measuring-ai-societal-impact-khan",
+    "source": "hacker_news",
+    "collected_at": "2026-06-03T12:40:50.520029+00:00",
+    "analyzed_at": "2026-06-03T12:40:50.520029+00:00",
+    "summary": "Article URL: https://spectrum.ieee.org/measuring-ai-societal-impact-khan\nComments URL: https://news.ycombinator.com/item?id=48382752\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "oldnetguy",
+      "language": null
+    }
+  },
+  {
+    "id": "bf78e45f-63ff-47fa-a9f8-bb3c88f9ae42",
+    "title": "I'm thinking of adding an AI chat support widget to the Pushover website",
+    "source_url": "https://bsky.app/profile/pushover.net/post/3mmcmbxtcks2n",
+    "source": "hacker_news",
+    "collected_at": "2026-06-03T12:40:51.749213+00:00",
+    "analyzed_at": "2026-06-03T12:40:51.749213+00:00",
+    "summary": "Article URL: https://bsky.app/profile/pushover.net/post/3mmcmbxtcks2n\nComments URL: https://news.ycombinator.com/item?id=48382737\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "shaunpud",
+      "language": null
+    }
+  }
+]

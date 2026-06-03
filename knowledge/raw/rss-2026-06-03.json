@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-06-03T12:40:26.484762+00:00",
+  "items": [
+    {
+      "name": "AI Bots Cite Dentists More Than Fortune 500s. The Data Surprised Us",
+      "url": "https://engagemii.com/blog/dentists-vs-fortune-500-ai-citations",
+      "summary": "Article URL: https://engagemii.com/blog/dentists-vs-fortune-500-ai-citations\nComments URL: https://news.ycombinator.com/item?id=48383203\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Greg_engagemii",
+      "published": "Wed, 03 Jun 2026 12:39:45 +0000"
+    },
+    {
+      "name": "AI licensing coalition SPUR in expansion",
+      "url": "https://pressgazette.co.uk/news/ai-licensing-coalition-spur-in-huge-expansion/",
+      "summary": "Article URL: https://pressgazette.co.uk/news/ai-licensing-coalition-spur-in-huge-expansion/\nComments URL: https://news.ycombinator.com/item?id=48383193\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "thm",
+      "published": "Wed, 03 Jun 2026 12:38:19 +0000"
+    },
+    {
+      "name": "Uber's $1,500/Month AI Limit Is a Useful Signal for AI Tool Pricing",
+      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+      "summary": "Article URL: https://simonwillison.net/2026/Jun/3/uber-caps-usage/\nComments URL: https://news.ycombinator.com/item?id=48383056\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pdyc",
+      "published": "Wed, 03 Jun 2026 12:25:14 +0000"
+    },
+    {
+      "name": "Ask HN: Would you use a soundproof mic mask to dictate to AI in public?",
+      "url": "https://news.ycombinator.com/item?id=48383050",
+      "summary": "I dictate to Claude Code with Wispr Flow and it's fast and natural at home. The moment I'm in the office or a cafe I stop, because everyone can hear me talking to my laptop. Whisper mode helps a littl",
+      "source": "hacker_news",
+      "score": null,
+      "author": "sodakim",
+      "published": "Wed, 03 Jun 2026 12:24:31 +0000"
+    },
+    {
+      "name": "Goldman Sachs CEO says markets in 'greed' mode as AI companies seek billions",
+      "url": "https://www.cnbc.com/2026/06/02/goldman-ceo-david-solomon-greed-mode-ai-firms-ipos.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/06/02/goldman-ceo-david-solomon-greed-mode-ai-firms-ipos.html\nComments URL: https://news.ycombinator.com/item?id=48382926\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "1vuio0pswjnm7",
+      "published": "Wed, 03 Jun 2026 12:08:41 +0000"
+    },
+    {
+      "name": "Introducing Search Generative AI Performance Reports in Google Search Console",
+      "url": "https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports",
+      "summary": "Article URL: https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports\nComments URL: https://news.ycombinator.com/item?id=48382897\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "thm",
+      "published": "Wed, 03 Jun 2026 12:06:02 +0000"
+    },
+    {
+      "name": "Show HN: VNN – AI news aggregator that verifies every source live",
+      "url": "https://vnn.valyrian.tech",
+      "summary": "Article URL: https://vnn.valyrian.tech\nComments URL: https://news.ycombinator.com/item?id=48382882\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "WouterGlorieux",
+      "published": "Wed, 03 Jun 2026 12:04:37 +0000"
+    },
+    {
+      "name": "The interface for AI hasn't been invented yet",
+      "url": "https://adaptivesoftware.substack.com/p/the-interface-for-ai-hasnt-been-invented",
+      "summary": "Article URL: https://adaptivesoftware.substack.com/p/the-interface-for-ai-hasnt-been-invented\nComments URL: https://news.ycombinator.com/item?id=48382876\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "iristenteije",
+      "published": "Wed, 03 Jun 2026 12:03:57 +0000"
+    },
+    {
+      "name": "Zero Evidence of AI-Related Job Losses",
+      "url": "https://www.apollo.com/wealth/the-daily-spark/zero-evidence-of-ai-related-job-losses",
+      "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/zero-evidence-of-ai-related-job-losses\nComments URL: https://news.ycombinator.com/item?id=48382872\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "RickJWagner",
+      "published": "Wed, 03 Jun 2026 12:03:28 +0000"
+    },
+    {
+      "name": "AI Workflows Need Topological Sort",
+      "url": "https://arpitbhayani.me/blogs/ai-topological-sort/",
+      "summary": "Article URL: https://arpitbhayani.me/blogs/ai-topological-sort/\nComments URL: https://news.ycombinator.com/item?id=48382849\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "saikrishnanair",
+      "published": "Wed, 03 Jun 2026 11:59:15 +0000"
+    },
+    {
+      "name": "Show HN: AI Council Toolkit – open-source playbook for AI governance",
+      "url": "https://www.aicounciltoolkit.com/",
+      "summary": "Article URL: https://www.aicounciltoolkit.com/\nComments URL: https://news.ycombinator.com/item?id=48382844\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "RickCraig",
+      "published": "Wed, 03 Jun 2026 11:58:49 +0000"
+    },
+    {
+      "name": "Top AI labs expand research into machine 'consciousness'",
+      "url": "https://www.ft.com/content/53e14bcc-788c-4959-b260-7aee363594bc",
+      "summary": "Article URL: https://www.ft.com/content/53e14bcc-788c-4959-b260-7aee363594bc\nComments URL: https://news.ycombinator.com/item?id=48382807\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "1vuio0pswjnm7",
+      "published": "Wed, 03 Jun 2026 11:53:36 +0000"
+    },
+    {
+      "name": "Study finds AI chatbots frequently miss possible diagnoses",
+      "url": "https://www.nbcboston.com/news/local/study-finds-ai-chatbots-frequently-miss-possible-diagnoses/3953915/",
+      "summary": "Article URL: https://www.nbcboston.com/news/local/study-finds-ai-chatbots-frequently-miss-possible-diagnoses/3953915/\nComments URL: https://news.ycombinator.com/item?id=48382771\nPoints: 1\n# Comments: ",
+      "source": "hacker_news",
+      "score": null,
+      "author": "1vuio0pswjnm7",
+      "published": "Wed, 03 Jun 2026 11:49:14 +0000"
+    },
+    {
+      "name": "Why Aren't We Measuring How AI Affects Humans?",
+      "url": "https://spectrum.ieee.org/measuring-ai-societal-impact-khan",
+      "summary": "Article URL: https://spectrum.ieee.org/measuring-ai-societal-impact-khan\nComments URL: https://news.ycombinator.com/item?id=48382752\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "oldnetguy",
+      "published": "Wed, 03 Jun 2026 11:47:54 +0000"
+    },
+    {
+      "name": "I'm thinking of adding an AI chat support widget to the Pushover website",
+      "url": "https://bsky.app/profile/pushover.net/post/3mmcmbxtcks2n",
+      "summary": "Article URL: https://bsky.app/profile/pushover.net/post/3mmcmbxtcks2n\nComments URL: https://news.ycombinator.com/item?id=48382737\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "shaunpud",
+      "published": "Wed, 03 Jun 2026 11:46:06 +0000"
+    },
+    {
+      "name": "AI in a box: Windrose wants to containerize the data center [update]",
+      "url": "https://electrek.co/2026/06/03/ai-in-a-box-windrose-wants-to-containerize-the-data-center/",
+      "summary": "Article URL: https://electrek.co/2026/06/03/ai-in-a-box-windrose-wants-to-containerize-the-data-center/\nComments URL: https://news.ycombinator.com/item?id=48382729\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Bender",
+      "published": "Wed, 03 Jun 2026 11:45:12 +0000"
+    },
+    {
+      "name": "Marvell enters the AI network fray with 102.4 Tbps switch silicon",
+      "url": "https://www.theregister.com/networks/2026/06/02/marvell-enters-the-ai-network-fray-with-1024-tbps-switch-silicon/5250180",
+      "summary": "Article URL: https://www.theregister.com/networks/2026/06/02/marvell-enters-the-ai-network-fray-with-1024-tbps-switch-silicon/5250180\nComments URL: https://news.ycombinator.com/item?id=48382717\nPoints",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Bender",
+      "published": "Wed, 03 Jun 2026 11:43:37 +0000"
+    },
+    {
+      "name": "Trump's AI E-(I)-O could let feds pick winners and losers",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/02/trump-ai-executive-order-sets-30-day-frontier-model-review/5250322",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/02/trump-ai-executive-order-sets-30-day-frontier-model-review/5250322\nComments URL: https://news.ycombinator.com/item?id=48382713\nPoints: 2\n#",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Bender",
+      "published": "Wed, 03 Jun 2026 11:42:58 +0000"
+    },
+    {
+      "name": "Google tests option to allow sites to opt out of appearing in AI search results",
+      "url": "https://blog.google/products-and-platforms/products/search/new-controls-website-owners/",
+      "summary": "Article URL: https://blog.google/products-and-platforms/products/search/new-controls-website-owners/\nComments URL: https://news.ycombinator.com/item?id=48382659\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "HelloUsername",
+      "published": "Wed, 03 Jun 2026 11:38:13 +0000"
+    },
+    {
+      "name": "Google is buying Play Store developers' code for AI training",
+      "url": "https://runtimewire.com/article/google-play-store-code-ai-training-pilot",
+      "summary": "Article URL: https://runtimewire.com/article/google-play-store-code-ai-training-pilot\nComments URL: https://news.ycombinator.com/item?id=48382551\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "faangguyindia",
+      "published": "Wed, 03 Jun 2026 11:25:34 +0000"
+    }
+  ]
+}

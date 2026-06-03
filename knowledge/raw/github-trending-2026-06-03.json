@@ -1,0 +1,95 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-06-03T12:40:04.803752+00:00",
+  "items": [
+    {
+      "name": "JuneYaooo/nihaisha-tcm",
+      "url": "https://github.com/JuneYaooo/nihaisha-tcm",
+      "summary": "倪海厦中医课程资料的 Agent Skill：支持课程检索、方证穴位辨析、学习笔记整理与板书截图证据索引。 |  An Agent Skill for Ni Haisha TCM course study, formula-pattern lookup, acupoint reference, and screenshot evidence indexing.",
+      "stars": 293,
+      "language": "Python",
+      "topics": [
+        "acupuncture",
+        "agent-skills",
+        "claude-code-skills",
+        "codex-skill",
+        "nihaisha",
+        "nihaixia",
+        "shennong",
+        "tcm",
+        "tcmcp",
+        "traditional-chinese-medicine",
+        "traditional-chinese-medicine-healthcare"
+      ]
+    },
+    {
+      "name": "VAST-AI-Research/TripoSplat",
+      "url": "https://github.com/VAST-AI-Research/TripoSplat",
+      "summary": "TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.",
+      "stars": 279,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "ProxyShard/ShardBrowser",
+      "url": "https://github.com/ProxyShard/ShardBrowser",
+      "summary": "Free, open-source anti-detect browser launcher for web scraping and multi-accounting. By the ProxyShard team. Engine-level fingerprint spoofing in Chromium 148 (WebGL / WebGPU / Client Hints / fonts /",
+      "stars": 273,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "anti-detect-browser",
+        "antidetect-browser",
+        "browser-fingerprinting",
+        "chromium",
+        "fingerprint",
+        "headless-browser",
+        "headless-chrome",
+        "multi-accounting",
+        "playwright",
+        "proxy",
+        "proxyshard",
+        "puppeteer",
+        "quic",
+        "stealth-browser",
+        "tauri",
+        "udp",
+        "web-scraping",
+        "webrtc",
+        "webscraping"
+      ]
+    },
+    {
+      "name": "bytedance/Bernini",
+      "url": "https://github.com/bytedance/Bernini",
+      "summary": "Bernini is a unified framework for video generation and editing that combines an MLLM-based semantic planner with a DiT-based renderer.",
+      "stars": 251,
+      "language": "Python",
+      "topics": [
+        "image-editing",
+        "image-generation",
+        "video-editing",
+        "video-generation"
+      ]
+    },
+    {
+      "name": "cpaczek/skylight",
+      "url": "https://github.com/cpaczek/skylight",
+      "summary": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.",
+      "stars": 237,
+      "language": "TypeScript",
+      "topics": [
+        "ads-b",
+        "aircraft",
+        "art-installation",
+        "flight-tracker",
+        "projector",
+        "raspberry-pi",
+        "react",
+        "rtl-sdr",
+        "typescript"
+      ]
+    }
+  ]
+}
