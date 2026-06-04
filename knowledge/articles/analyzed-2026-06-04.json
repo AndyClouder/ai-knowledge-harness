@@ -1,0 +1,128 @@
+[
+  {
+    "id": "90bb58ac-d67c-406a-83ef-7c328d8339e9",
+    "title": "jd-opensource/JoyAI-Echo",
+    "source_url": "https://github.com/jd-opensource/JoyAI-Echo",
+    "source": "unknown",
+    "collected_at": "2026-06-04T10:58:58.378607+00:00",
+    "analyzed_at": "2026-06-04T10:58:58.378607+00:00",
+    "summary": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 341,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "bad5432e-8b59-430e-a58c-c9734eb7ed17",
+    "title": "BarneyD66/open-warehouse-system",
+    "source_url": "https://github.com/BarneyD66/open-warehouse-system",
+    "source": "unknown",
+    "collected_at": "2026-06-04T10:58:59.747697+00:00",
+    "analyzed_at": "2026-06-04T10:58:59.747697+00:00",
+    "summary": "Chinese-first open-source WMS starter for cross-border warehouse, fulfillment, inventory, billing, returns, and 3PL operations.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 272,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "79855908-0964-4614-ad3c-35684b9f60d3",
+    "title": "V0id-v2/Void-Tools-v2.0",
+    "source_url": "https://github.com/V0id-v2/Void-Tools-v2.0",
+    "source": "unknown",
+    "collected_at": "2026-06-04T10:59:01.123143+00:00",
+    "analyzed_at": "2026-06-04T10:59:01.123143+00:00",
+    "summary": "Python terminal multitool — OSINT, Discord, web & network utilities. Rich TUI, 13 themes, remote updates. Educational use only.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 258,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "6ea185e3-27f1-4813-abfc-e6690c2c6850",
+    "title": "Mochocyang/QMAI",
+    "source_url": "https://github.com/Mochocyang/QMAI",
+    "source": "unknown",
+    "collected_at": "2026-06-04T10:59:02.608198+00:00",
+    "analyzed_at": "2026-06-04T10:59:02.608198+00:00",
+    "summary": "青幕AI写作软件，解决长篇小说写作问题，解决小说角色性格不统一，防止人设崩坏。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 255,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "14853070-770d-4e0c-b067-6a1b9d282890",
+    "title": "OnlyTerp/UltraCode-Shim",
+    "source_url": "https://github.com/OnlyTerp/UltraCode-Shim",
+    "source": "unknown",
+    "collected_at": "2026-06-04T10:59:03.977766+00:00",
+    "analyzed_at": "2026-06-04T10:59:03.977766+00:00",
+    "summary": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 255,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "f3fae744-67ca-4a93-97bf-2e72fc92868b",
+    "title": "johnbean393/KeyType",
+    "source_url": "https://github.com/johnbean393/KeyType",
+    "source": "unknown",
+    "collected_at": "2026-06-04T10:59:05.350035+00:00",
+    "analyzed_at": "2026-06-04T10:59:05.350035+00:00",
+    "summary": "An open-source Cotypist with macOS system wide AI autocomplete",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 242,
+      "score": null,
+      "author": null,
+      "language": "Swift"
+    }
+  }
+]

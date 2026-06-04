@@ -1,0 +1,86 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-06-04T10:58:52.119489+00:00",
+  "items": [
+    {
+      "name": "jd-opensource/JoyAI-Echo",
+      "url": "https://github.com/jd-opensource/JoyAI-Echo",
+      "summary": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
+      "stars": 341,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "BarneyD66/open-warehouse-system",
+      "url": "https://github.com/BarneyD66/open-warehouse-system",
+      "summary": "Chinese-first open-source WMS starter for cross-border warehouse, fulfillment, inventory, billing, returns, and 3PL operations.",
+      "stars": 272,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "V0id-v2/Void-Tools-v2.0",
+      "url": "https://github.com/V0id-v2/Void-Tools-v2.0",
+      "summary": "Python terminal multitool — OSINT, Discord, web & network utilities. Rich TUI, 13 themes, remote updates. Educational use only.",
+      "stars": 258,
+      "language": "Python",
+      "topics": [
+        "discord-joiner",
+        "discord-multi-tool",
+        "discord-multitool",
+        "discord-multitools",
+        "discord-nuke-bot",
+        "discord-nuker",
+        "discord-nukers",
+        "discord-raid",
+        "discord-raid-tool",
+        "discord-raider",
+        "discord-token-gen",
+        "discord-token-generator",
+        "discord-tool",
+        "discord-tools",
+        "multi-tools",
+        "multitool",
+        "token-generator",
+        "token-joiner",
+        "token-nuker"
+      ]
+    },
+    {
+      "name": "Mochocyang/QMAI",
+      "url": "https://github.com/Mochocyang/QMAI",
+      "summary": "青幕AI写作软件，解决长篇小说写作问题，解决小说角色性格不统一，防止人设崩坏。",
+      "stars": 255,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "OnlyTerp/UltraCode-Shim",
+      "url": "https://github.com/OnlyTerp/UltraCode-Shim",
+      "summary": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
+      "stars": 255,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "johnbean393/KeyType",
+      "url": "https://github.com/johnbean393/KeyType",
+      "summary": "An open-source Cotypist with macOS system wide AI autocomplete",
+      "stars": 242,
+      "language": "Swift",
+      "topics": [
+        "ai",
+        "ai-autocomplete",
+        "autocomplete",
+        "completions",
+        "cotabby",
+        "cotypist",
+        "gemma4",
+        "llm",
+        "macos",
+        "qwen3-5"
+      ]
+    }
+  ]
+}
