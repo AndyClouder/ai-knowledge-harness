@@ -1,0 +1,422 @@
+[
+  {
+    "id": "b19ae636-2d5a-4054-83a1-0afebb234991",
+    "title": "tastyeffectco/sandboxes",
+    "source_url": "https://github.com/tastyeffectco/sandboxes",
+    "source": "unknown",
+    "collected_at": "2026-06-05T11:27:08.690259+00:00",
+    "analyzed_at": "2026-06-05T11:27:08.690259+00:00",
+    "summary": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 414,
+      "score": null,
+      "author": null,
+      "language": "Go"
+    }
+  },
+  {
+    "id": "e43cf4eb-960c-4286-bf77-8a1dfa168b9f",
+    "title": "PentesterFlow/agent",
+    "source_url": "https://github.com/PentesterFlow/agent",
+    "source": "unknown",
+    "collected_at": "2026-06-05T11:27:09.921508+00:00",
+    "analyzed_at": "2026-06-05T11:27:09.921508+00:00",
+    "summary": "Agentic offensive-security in your terminal",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 284,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "74ded5c3-bc1d-4d19-a853-0ebe9f92b1d2",
+    "title": "Fullive-AI/Anima",
+    "source_url": "https://github.com/Fullive-AI/Anima",
+    "source": "unknown",
+    "collected_at": "2026-06-05T11:27:11.127371+00:00",
+    "analyzed_at": "2026-06-05T11:27:11.127371+00:00",
+    "summary": "Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 282,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "0fc52d7c-35b3-4e08-9c24-1803c26a81a0",
+    "title": "chaitanyagiri/munder-difflin",
+    "source_url": "https://github.com/chaitanyagiri/munder-difflin",
+    "source": "unknown",
+    "collected_at": "2026-06-05T11:27:12.332051+00:00",
+    "analyzed_at": "2026-06-05T11:27:12.332051+00:00",
+    "summary": "local multi-agent harness",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 269,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "89605a9b-e204-4fc9-bc9e-76ce7ec2de7e",
+    "title": "Canada says AI strategy will help create 250k jobs, boost GDP by 3%",
+    "source_url": "https://www.reuters.com/business/world-at-work/canada-says-ai-strategy-will-help-create-250000-jobs-boost-gdp-by-3-2026-06-04/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-05T11:27:13.538556+00:00",
+    "analyzed_at": "2026-06-05T11:27:13.538556+00:00",
+    "summary": "Article URL: https://www.reuters.com/business/world-at-work/canada-says-ai-strategy-will-help-create-250000-jobs-boost-gdp-by-3-2026-06-04/\nComments URL: https://news.ycombinator.com/item?id=48410827\n",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "voisin",
+      "language": null
+    }
+  },
+  {
+    "id": "f714e1ef-5d96-4eac-b41a-a7b83ca479c5",
+    "title": "Productivity effects across generations of AI coding tools [pdf]",
+    "source_url": "https://www.nber.org/papers/w35275",
+    "source": "hacker_news",
+    "collected_at": "2026-06-05T11:27:14.746258+00:00",
+    "analyzed_at": "2026-06-05T11:27:14.746258+00:00",
+    "summary": "Article URL: https://www.nber.org/papers/w35275\nComments URL: https://news.ycombinator.com/item?id=48410792\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pramodbiligiri",
+      "language": null
+    }
+  },
+  {
+    "id": "338d6265-d25b-4997-9f6d-485d9c2cbd72",
+    "title": "Beneath Nvidia AI chips, Chinese PCBs raise security concerns in U.S.",
+    "source_url": "https://www.cnbc.com/2026/06/03/beneath-nvidia-ai-chips-chinese-pcbs-raise-security-concerns-in-us.html",
+    "source": "hacker_news",
+    "collected_at": "2026-06-05T11:27:15.953487+00:00",
+    "analyzed_at": "2026-06-05T11:27:15.953487+00:00",
+    "summary": "Article URL: https://www.cnbc.com/2026/06/03/beneath-nvidia-ai-chips-chinese-pcbs-raise-security-concerns-in-us.html\nComments URL: https://news.ycombinator.com/item?id=48410791\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "throw0101a",
+      "language": null
+    }
+  },
+  {
+    "id": "2fcd2149-b5f8-49bf-9a78-9333fd0e327d",
+    "title": "We spent $50 to measure Pearl's \"AI mining\" – 320K GPUs produce zero AI",
+    "source_url": "https://arxiv.org/abs/2606.04819",
+    "source": "hacker_news",
+    "collected_at": "2026-06-05T11:27:17.161175+00:00",
+    "analyzed_at": "2026-06-05T11:27:17.161175+00:00",
+    "summary": "Article URL: https://arxiv.org/abs/2606.04819\nComments URL: https://news.ycombinator.com/item?id=48410769\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "abhinaba_ai",
+      "language": null
+    }
+  },
+  {
+    "id": "14162248-ed7e-453c-8b0d-27e5386a53a1",
+    "title": "Show HN: Kaya Suites – An AI Native Knowledge Base",
+    "source_url": "https://github.com/Kaya-suites/Kaya-Suites",
+    "source": "hacker_news",
+    "collected_at": "2026-06-05T11:27:18.367025+00:00",
+    "analyzed_at": "2026-06-05T11:27:18.367025+00:00",
+    "summary": "I'm really interested in this idea of generating a knowledge base that's native for agents as well as humans. I'm pretty much inspired by Den's  [https://www.producthunt.com/products/den] product and ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "kyahwill",
+      "language": null
+    }
+  },
+  {
+    "id": "9940b044-52a7-4bf5-b856-e8d12b309494",
+    "title": "The Meta hack shows there's more to AI security than Mythos",
+    "source_url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-05T11:27:19.574209+00:00",
+    "analyzed_at": "2026-06-05T11:27:19.574209+00:00",
+    "summary": "Article URL: https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/\nComments URL: https://news.ycombinator.com/item?id=48410736\nPoints: 1\n# Com",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "joozio",
+      "language": null
+    }
+  },
+  {
+    "id": "67c3afb6-2105-4d1b-861d-bc1e9a3364d8",
+    "title": "I built an AI code reviewer that reads the room before commenting",
+    "source_url": "https://codemouse.ai",
+    "source": "hacker_news",
+    "collected_at": "2026-06-05T11:27:20.778698+00:00",
+    "analyzed_at": "2026-06-05T11:27:20.778698+00:00",
+    "summary": "Article URL: https://codemouse.ai\nComments URL: https://news.ycombinator.com/item?id=48410581\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pro_methe5",
+      "language": null
+    }
+  },
+  {
+    "id": "a6755ebe-0749-4ab3-b592-c0c96c4b2efb",
+    "title": "AI Graduation Speech",
+    "source_url": "https://www.smbc-comics.com/comic/speech",
+    "source": "hacker_news",
+    "collected_at": "2026-06-05T11:27:21.982133+00:00",
+    "analyzed_at": "2026-06-05T11:27:21.982133+00:00",
+    "summary": "Article URL: https://www.smbc-comics.com/comic/speech\nComments URL: https://news.ycombinator.com/item?id=48410556\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "limbicsystem",
+      "language": null
+    }
+  },
+  {
+    "id": "7e7f2a1c-1c7d-4fed-9bee-c25556e5e30c",
+    "title": "Anthropic calls for global freeze in AI development",
+    "source_url": "https://www.telegraph.co.uk/business/2026/06/04/worlds-most-valuable-ai-start-up-calls-for-global-freeze-in/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-05T11:27:23.191470+00:00",
+    "analyzed_at": "2026-06-05T11:27:23.191470+00:00",
+    "summary": "Article URL: https://www.telegraph.co.uk/business/2026/06/04/worlds-most-valuable-ai-start-up-calls-for-global-freeze-in/\nComments URL: https://news.ycombinator.com/item?id=48410437\nPoints: 3\n# Commen",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "truegoric",
+      "language": null
+    }
+  },
+  {
+    "id": "070a2767-b04f-4534-bb5a-2f2fad0a343c",
+    "title": "Doctors file complaint against Philip Morris over 'misleading AI tool'",
+    "source_url": "https://www.dutchnews.nl/2026/06/doctors-slam-misleading-philip-morris-tobacco-campaign/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-05T11:27:24.395659+00:00",
+    "analyzed_at": "2026-06-05T11:27:24.395659+00:00",
+    "summary": "Article URL: https://www.dutchnews.nl/2026/06/doctors-slam-misleading-philip-morris-tobacco-campaign/\nComments URL: https://news.ycombinator.com/item?id=48410380\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "molf",
+      "language": null
+    }
+  },
+  {
+    "id": "103e882c-f37f-429c-8075-e3139ad0ce97",
+    "title": "OpenAI says it will comply with Trump's order requiring AI model reviews",
+    "source_url": "https://www.cnbc.com/2026/06/05/openai-trump-ai-model-review-order.html",
+    "source": "hacker_news",
+    "collected_at": "2026-06-05T11:27:25.601026+00:00",
+    "analyzed_at": "2026-06-05T11:27:25.601026+00:00",
+    "summary": "Article URL: https://www.cnbc.com/2026/06/05/openai-trump-ai-model-review-order.html\nComments URL: https://news.ycombinator.com/item?id=48410136\nPoints: 3\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "thm",
+      "language": null
+    }
+  },
+  {
+    "id": "edbfcc2d-0593-4814-8bbd-18ab95a55dfb",
+    "title": "Preprint warns of catastrophic AI risks if no action is taken within five years",
+    "source_url": "https://news.uq.edu.au/2026-06-global-experts-assess-risk-ai-catastrophes",
+    "source": "hacker_news",
+    "collected_at": "2026-06-05T11:27:26.806213+00:00",
+    "analyzed_at": "2026-06-05T11:27:26.806213+00:00",
+    "summary": "Article URL: https://news.uq.edu.au/2026-06-global-experts-assess-risk-ai-catastrophes\nComments URL: https://news.ycombinator.com/item?id=48410131\nPoints: 3\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "giuliomagnifico",
+      "language": null
+    }
+  },
+  {
+    "id": "11fb7be5-e700-4ef2-972c-a02edec869fe",
+    "title": "N8n-style tool chains for AI agents – custom design, or reinforced by what works",
+    "source_url": "https://github.com/pssah4/stigmergy",
+    "source": "hacker_news",
+    "collected_at": "2026-06-05T11:27:28.011697+00:00",
+    "analyzed_at": "2026-06-05T11:27:28.011697+00:00",
+    "summary": "Article URL: https://github.com/pssah4/stigmergy\nComments URL: https://news.ycombinator.com/item?id=48410036\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pssah4",
+      "language": null
+    }
+  },
+  {
+    "id": "5f54863e-88df-4fee-ad59-033f37f6c6d5",
+    "title": "Anthropic Urges Global Pause in AI Development, Flags 'Self-Improvement' Risk",
+    "source_url": "https://www.wsj.com/tech/ai/anthropic-urges-global-pause-in-ai-development-flags-self-improvement-risk-99cefb73",
+    "source": "hacker_news",
+    "collected_at": "2026-06-05T11:27:29.216707+00:00",
+    "analyzed_at": "2026-06-05T11:27:29.216707+00:00",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/anthropic-urges-global-pause-in-ai-development-flags-self-improvement-risk-99cefb73\nComments URL: https://news.ycombinator.com/item?id=48409735\nPoints: 10\n# Co",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "andsoitis",
+      "language": null
+    }
+  },
+  {
+    "id": "d07ceb44-f183-4090-aaf1-2ab65a79b33d",
+    "title": "Chip Capacity Constraints Put a Governor on AI Spending Growth",
+    "source_url": "https://www.nextplatform.com/ai/2026/06/05/chip-capacity-constraints-put-a-governor-on-ai-spending-growth/5251474",
+    "source": "hacker_news",
+    "collected_at": "2026-06-05T11:27:30.422887+00:00",
+    "analyzed_at": "2026-06-05T11:27:30.422887+00:00",
+    "summary": "Article URL: https://www.nextplatform.com/ai/2026/06/05/chip-capacity-constraints-put-a-governor-on-ai-spending-growth/5251474\nComments URL: https://news.ycombinator.com/item?id=48409650\nPoints: 1\n# C",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rbanffy",
+      "language": null
+    }
+  },
+  {
+    "id": "a75785f3-632c-4db1-a293-29ecdcca4547",
+    "title": "AI Agents Enable Adaptive Computer Worms",
+    "source_url": "https://arxiv.org/abs/2606.03811",
+    "source": "hacker_news",
+    "collected_at": "2026-06-05T11:27:31.640442+00:00",
+    "analyzed_at": "2026-06-05T11:27:31.640442+00:00",
+    "summary": "Article URL: https://arxiv.org/abs/2606.03811\nComments URL: https://news.ycombinator.com/item?id=48409547\nPoints: 5\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "u1hcw9nx",
+      "language": null
+    }
+  }
+]

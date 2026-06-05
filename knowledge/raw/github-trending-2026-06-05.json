@@ -1,0 +1,63 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-06-05T11:26:26.398990+00:00",
+  "items": [
+    {
+      "name": "tastyeffectco/sandboxes",
+      "url": "https://github.com/tastyeffectco/sandboxes",
+      "summary": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+      "stars": 414,
+      "language": "Go",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "dev-environment",
+        "docker",
+        "isolation",
+        "preview",
+        "preview-environment",
+        "sandbox",
+        "self-hosted"
+      ]
+    },
+    {
+      "name": "PentesterFlow/agent",
+      "url": "https://github.com/PentesterFlow/agent",
+      "summary": "Agentic offensive-security in your terminal",
+      "stars": 284,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "bugbounty",
+        "penetration-testing",
+        "security-audit",
+        "security-automation"
+      ]
+    },
+    {
+      "name": "Fullive-AI/Anima",
+      "url": "https://github.com/Fullive-AI/Anima",
+      "summary": "Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence",
+      "stars": 282,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "summary": "local multi-agent harness",
+      "stars": 269,
+      "language": "TypeScript",
+      "topics": [
+        "agents",
+        "claude-code",
+        "free",
+        "harness",
+        "harness-engineering",
+        "memory"
+      ]
+    }
+  ]
+}

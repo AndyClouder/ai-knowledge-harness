@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-06-05T11:27:06.658961+00:00",
+  "items": [
+    {
+      "name": "Canada says AI strategy will help create 250k jobs, boost GDP by 3%",
+      "url": "https://www.reuters.com/business/world-at-work/canada-says-ai-strategy-will-help-create-250000-jobs-boost-gdp-by-3-2026-06-04/",
+      "summary": "Article URL: https://www.reuters.com/business/world-at-work/canada-says-ai-strategy-will-help-create-250000-jobs-boost-gdp-by-3-2026-06-04/\nComments URL: https://news.ycombinator.com/item?id=48410827\n",
+      "source": "hacker_news",
+      "score": null,
+      "author": "voisin",
+      "published": "Fri, 05 Jun 2026 11:13:49 +0000"
+    },
+    {
+      "name": "Productivity effects across generations of AI coding tools [pdf]",
+      "url": "https://www.nber.org/papers/w35275",
+      "summary": "Article URL: https://www.nber.org/papers/w35275\nComments URL: https://news.ycombinator.com/item?id=48410792\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pramodbiligiri",
+      "published": "Fri, 05 Jun 2026 11:09:08 +0000"
+    },
+    {
+      "name": "Beneath Nvidia AI chips, Chinese PCBs raise security concerns in U.S.",
+      "url": "https://www.cnbc.com/2026/06/03/beneath-nvidia-ai-chips-chinese-pcbs-raise-security-concerns-in-us.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/06/03/beneath-nvidia-ai-chips-chinese-pcbs-raise-security-concerns-in-us.html\nComments URL: https://news.ycombinator.com/item?id=48410791\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "throw0101a",
+      "published": "Fri, 05 Jun 2026 11:08:59 +0000"
+    },
+    {
+      "name": "We spent $50 to measure Pearl's \"AI mining\" – 320K GPUs produce zero AI",
+      "url": "https://arxiv.org/abs/2606.04819",
+      "summary": "Article URL: https://arxiv.org/abs/2606.04819\nComments URL: https://news.ycombinator.com/item?id=48410769\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "abhinaba_ai",
+      "published": "Fri, 05 Jun 2026 11:05:52 +0000"
+    },
+    {
+      "name": "Show HN: Kaya Suites – An AI Native Knowledge Base",
+      "url": "https://github.com/Kaya-suites/Kaya-Suites",
+      "summary": "I'm really interested in this idea of generating a knowledge base that's native for agents as well as humans. I'm pretty much inspired by Den's  [https://www.producthunt.com/products/den] product and ",
+      "source": "hacker_news",
+      "score": null,
+      "author": "kyahwill",
+      "published": "Fri, 05 Jun 2026 11:01:56 +0000"
+    },
+    {
+      "name": "The Meta hack shows there's more to AI security than Mythos",
+      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+      "summary": "Article URL: https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/\nComments URL: https://news.ycombinator.com/item?id=48410736\nPoints: 1\n# Com",
+      "source": "hacker_news",
+      "score": null,
+      "author": "joozio",
+      "published": "Fri, 05 Jun 2026 11:01:21 +0000"
+    },
+    {
+      "name": "I built an AI code reviewer that reads the room before commenting",
+      "url": "https://codemouse.ai",
+      "summary": "Article URL: https://codemouse.ai\nComments URL: https://news.ycombinator.com/item?id=48410581\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pro_methe5",
+      "published": "Fri, 05 Jun 2026 10:42:39 +0000"
+    },
+    {
+      "name": "AI Graduation Speech",
+      "url": "https://www.smbc-comics.com/comic/speech",
+      "summary": "Article URL: https://www.smbc-comics.com/comic/speech\nComments URL: https://news.ycombinator.com/item?id=48410556\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "limbicsystem",
+      "published": "Fri, 05 Jun 2026 10:39:35 +0000"
+    },
+    {
+      "name": "Anthropic calls for global freeze in AI development",
+      "url": "https://www.telegraph.co.uk/business/2026/06/04/worlds-most-valuable-ai-start-up-calls-for-global-freeze-in/",
+      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/06/04/worlds-most-valuable-ai-start-up-calls-for-global-freeze-in/\nComments URL: https://news.ycombinator.com/item?id=48410437\nPoints: 3\n# Commen",
+      "source": "hacker_news",
+      "score": null,
+      "author": "truegoric",
+      "published": "Fri, 05 Jun 2026 10:21:47 +0000"
+    },
+    {
+      "name": "Doctors file complaint against Philip Morris over 'misleading AI tool'",
+      "url": "https://www.dutchnews.nl/2026/06/doctors-slam-misleading-philip-morris-tobacco-campaign/",
+      "summary": "Article URL: https://www.dutchnews.nl/2026/06/doctors-slam-misleading-philip-morris-tobacco-campaign/\nComments URL: https://news.ycombinator.com/item?id=48410380\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "molf",
+      "published": "Fri, 05 Jun 2026 10:10:48 +0000"
+    },
+    {
+      "name": "OpenAI says it will comply with Trump's order requiring AI model reviews",
+      "url": "https://www.cnbc.com/2026/06/05/openai-trump-ai-model-review-order.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/06/05/openai-trump-ai-model-review-order.html\nComments URL: https://news.ycombinator.com/item?id=48410136\nPoints: 3\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "thm",
+      "published": "Fri, 05 Jun 2026 09:33:49 +0000"
+    },
+    {
+      "name": "Preprint warns of catastrophic AI risks if no action is taken within five years",
+      "url": "https://news.uq.edu.au/2026-06-global-experts-assess-risk-ai-catastrophes",
+      "summary": "Article URL: https://news.uq.edu.au/2026-06-global-experts-assess-risk-ai-catastrophes\nComments URL: https://news.ycombinator.com/item?id=48410131\nPoints: 3\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "giuliomagnifico",
+      "published": "Fri, 05 Jun 2026 09:33:00 +0000"
+    },
+    {
+      "name": "N8n-style tool chains for AI agents – custom design, or reinforced by what works",
+      "url": "https://github.com/pssah4/stigmergy",
+      "summary": "Article URL: https://github.com/pssah4/stigmergy\nComments URL: https://news.ycombinator.com/item?id=48410036\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pssah4",
+      "published": "Fri, 05 Jun 2026 09:19:59 +0000"
+    },
+    {
+      "name": "Anthropic Urges Global Pause in AI Development, Flags 'Self-Improvement' Risk",
+      "url": "https://www.wsj.com/tech/ai/anthropic-urges-global-pause-in-ai-development-flags-self-improvement-risk-99cefb73",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/anthropic-urges-global-pause-in-ai-development-flags-self-improvement-risk-99cefb73\nComments URL: https://news.ycombinator.com/item?id=48409735\nPoints: 10\n# Co",
+      "source": "hacker_news",
+      "score": null,
+      "author": "andsoitis",
+      "published": "Fri, 05 Jun 2026 08:41:01 +0000"
+    },
+    {
+      "name": "Chip Capacity Constraints Put a Governor on AI Spending Growth",
+      "url": "https://www.nextplatform.com/ai/2026/06/05/chip-capacity-constraints-put-a-governor-on-ai-spending-growth/5251474",
+      "summary": "Article URL: https://www.nextplatform.com/ai/2026/06/05/chip-capacity-constraints-put-a-governor-on-ai-spending-growth/5251474\nComments URL: https://news.ycombinator.com/item?id=48409650\nPoints: 1\n# C",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rbanffy",
+      "published": "Fri, 05 Jun 2026 08:30:14 +0000"
+    },
+    {
+      "name": "AI Agents Enable Adaptive Computer Worms",
+      "url": "https://arxiv.org/abs/2606.03811",
+      "summary": "Article URL: https://arxiv.org/abs/2606.03811\nComments URL: https://news.ycombinator.com/item?id=48409547\nPoints: 5\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "u1hcw9nx",
+      "published": "Fri, 05 Jun 2026 08:19:08 +0000"
+    },
+    {
+      "name": "Ask HN: AI researchers – what's a recent paper that recently blew your mind?",
+      "url": "https://news.ycombinator.com/item?id=48409450",
+      "summary": "I often on the lookout for new and exiting papers in the ML space.Please share a few that you feel are worth sharingCheers!\n\nComments URL: https://news.ycombinator.com/item?id=48409450\nPoints: 4\n# Com",
+      "source": "hacker_news",
+      "score": null,
+      "author": "bartek_gdn",
+      "published": "Fri, 05 Jun 2026 08:04:13 +0000"
+    },
+    {
+      "name": "Senior U.S. Officials Eye Government Shares in AI Giants",
+      "url": "https://www.notus.org/technology/trump-ai-stake-openai",
+      "summary": "Article URL: https://www.notus.org/technology/trump-ai-stake-openai\nComments URL: https://news.ycombinator.com/item?id=48409432\nPoints: 4\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "littlexsparkee",
+      "published": "Fri, 05 Jun 2026 08:01:39 +0000"
+    },
+    {
+      "name": "Lihn – AI prospecting agent for freelancers, quick setup, <€20/mo",
+      "url": "https://lihn.fr",
+      "summary": "Article URL: https://lihn.fr\nComments URL: https://news.ycombinator.com/item?id=48409407\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "robn_nevira",
+      "published": "Fri, 05 Jun 2026 07:57:27 +0000"
+    },
+    {
+      "name": "Best AI web scraper tools I've tested in 2026 (free and paid)",
+      "url": "https://spidra.io/blog/best-ai-web-scrapers",
+      "summary": "Article URL: https://spidra.io/blog/best-ai-web-scrapers\nComments URL: https://news.ycombinator.com/item?id=48409346\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "joelolawanle",
+      "published": "Fri, 05 Jun 2026 07:46:44 +0000"
+    }
+  ]
+}
