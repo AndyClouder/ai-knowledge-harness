@@ -1,0 +1,54 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-06-06T10:01:27.277484+00:00",
+  "items": [
+    {
+      "name": "duncatzat/vigils",
+      "url": "https://github.com/duncatzat/vigils",
+      "summary": "A local control plane for AI agents — see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.",
+      "stars": 281,
+      "language": "Rust",
+      "topics": [
+        "agent-security",
+        "ai-agents",
+        "audit-log",
+        "desktop",
+        "llm",
+        "local-first",
+        "pii",
+        "rust",
+        "sandbox",
+        "tauri"
+      ]
+    },
+    {
+      "name": "marekkowalczyk/breathe-cli",
+      "url": "https://github.com/marekkowalczyk/breathe-cli",
+      "summary": "Paced resonance breathing in your terminal",
+      "stars": 268,
+      "language": "Python",
+      "topics": [
+        "biofeedback",
+        "breathing",
+        "cli",
+        "health",
+        "heart-failure",
+        "heart-rate-variability",
+        "hrv",
+        "macos",
+        "resonance-breathing",
+        "terminal",
+        "vagal-tone"
+      ]
+    },
+    {
+      "name": "CWS6206/ai-coding-starter-kit",
+      "url": "https://github.com/CWS6206/ai-coding-starter-kit",
+      "summary": "Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert.",
+      "stars": 261,
+      "language": null,
+      "topics": []
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "35cc935d-0753-4664-89de-c9e0138e56cd",
+    "title": "duncatzat/vigils",
+    "source_url": "https://github.com/duncatzat/vigils",
+    "source": "unknown",
+    "collected_at": "2026-06-06T10:01:30.661829+00:00",
+    "analyzed_at": "2026-06-06T10:01:30.661829+00:00",
+    "summary": "A local control plane for AI agents — see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 281,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "b0e0a82c-b914-4613-92e7-cb7f169b7d8a",
+    "title": "marekkowalczyk/breathe-cli",
+    "source_url": "https://github.com/marekkowalczyk/breathe-cli",
+    "source": "unknown",
+    "collected_at": "2026-06-06T10:01:32.054858+00:00",
+    "analyzed_at": "2026-06-06T10:01:32.054858+00:00",
+    "summary": "Paced resonance breathing in your terminal",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 268,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "0210bbf9-21bc-46ae-ac41-780aa9740e17",
+    "title": "CWS6206/ai-coding-starter-kit",
+    "source_url": "https://github.com/CWS6206/ai-coding-starter-kit",
+    "source": "unknown",
+    "collected_at": "2026-06-06T10:01:33.379727+00:00",
+    "analyzed_at": "2026-06-06T10:01:33.379727+00:00",
+    "summary": "Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 261,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  }
+]
