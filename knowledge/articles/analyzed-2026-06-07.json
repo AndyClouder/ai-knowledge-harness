@@ -1,0 +1,422 @@
+[
+  {
+    "id": "b2caf880-20f0-4ec3-b9d5-e2a4b9a0d515",
+    "title": "zenhosta/9drive",
+    "source_url": "https://github.com/zenhosta/9drive",
+    "source": "unknown",
+    "collected_at": "2026-06-07T10:27:02.019435+00:00",
+    "analyzed_at": "2026-06-07T10:27:02.019435+00:00",
+    "summary": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 337,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "d4d9d4cd-f6f2-4dbb-b639-1dc99e928271",
+    "title": "razr001/align-dev",
+    "source_url": "https://github.com/razr001/align-dev",
+    "source": "unknown",
+    "collected_at": "2026-06-07T10:27:03.414987+00:00",
+    "analyzed_at": "2026-06-07T10:27:03.414987+00:00",
+    "summary": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 257,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "e8fa3df1-a73a-4ea1-887c-5a6c41794fa2",
+    "title": "gerardapennant96075336582/CapC-Pro-2",
+    "source_url": "https://github.com/gerardapennant96075336582/CapC-Pro-2",
+    "source": "unknown",
+    "collected_at": "2026-06-07T10:27:04.787633+00:00",
+    "analyzed_at": "2026-06-07T10:27:04.787633+00:00",
+    "summary": "CapCut Pro Studio (2026) — The ultimate high-performance video editing suite with all premium features unlocked. Experience 4K HDR exporting, AI-powered transitions, and a full professional asset libr",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 256,
+      "score": null,
+      "author": null,
+      "language": "C++"
+    }
+  },
+  {
+    "id": "4df65039-51d2-4255-8e25-55796565a4e3",
+    "title": "c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
+    "source_url": "https://github.com/c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
+    "source": "unknown",
+    "collected_at": "2026-06-07T10:27:06.163663+00:00",
+    "analyzed_at": "2026-06-07T10:27:06.163663+00:00",
+    "summary": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 251,
+      "score": null,
+      "author": null,
+      "language": "C#"
+    }
+  },
+  {
+    "id": "580faf8d-a972-4dd0-8295-93b8f2462552",
+    "title": "best-spicy-ai/ai-naughty-tools",
+    "source_url": "https://github.com/best-spicy-ai/ai-naughty-tools",
+    "source": "unknown",
+    "collected_at": "2026-06-07T10:27:07.556665+00:00",
+    "analyzed_at": "2026-06-07T10:27:07.556665+00:00",
+    "summary": "Discover uncensored AI image & video tools trusted by users worldwide for highly photorealistic results. Create without unnecessary limits using platforms built for realism, quality, and full creative",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 219,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "aeddfd88-2a8b-400e-86f6-47b1afa9a6f4",
+    "title": "GitHub Copilot: GPT-5.2 and GPT-5.2-Codex deprecated",
+    "source_url": "https://github.blog/changelog/2026-06-05-gpt-5-2-and-gpt-5-2-codex-deprecated/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-07T10:27:08.927185+00:00",
+    "analyzed_at": "2026-06-07T10:27:08.927185+00:00",
+    "summary": "Article URL: https://github.blog/changelog/2026-06-05-gpt-5-2-and-gpt-5-2-codex-deprecated/\nComments URL: https://news.ycombinator.com/item?id=48430019\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "zorrn",
+      "language": null
+    }
+  },
+  {
+    "id": "dc6e0ecd-9ca4-43d6-ae0a-e8083cd3d24b",
+    "title": "I patented voiding GPT-5.2, Claude Opus 4.6, Gemini 3.5 Flash. Try it",
+    "source_url": "https://getswiftapi.com/void-test",
+    "source": "hacker_news",
+    "collected_at": "2026-06-07T10:27:10.296326+00:00",
+    "analyzed_at": "2026-06-07T10:27:10.296326+00:00",
+    "summary": "Article URL: https://getswiftapi.com/void-test\nComments URL: https://news.ycombinator.com/item?id=48403266\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rayanpal_",
+      "language": null
+    }
+  },
+  {
+    "id": "040ce730-8787-49b5-b0f6-2d185f22cb89",
+    "title": "I benchmarked Opus 4.8 vs. GPT 5.5 on 2 open source repos",
+    "source_url": "https://www.stet.sh/blog/opus-48-vs-gpt-55-vs-opus-47-vs-composer-25",
+    "source": "hacker_news",
+    "collected_at": "2026-06-07T10:27:11.665659+00:00",
+    "analyzed_at": "2026-06-07T10:27:11.665659+00:00",
+    "summary": "Article URL: https://www.stet.sh/blog/opus-48-vs-gpt-55-vs-opus-47-vs-composer-25\nComments URL: https://news.ycombinator.com/item?id=48386637\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "bisonbear",
+      "language": null
+    }
+  },
+  {
+    "id": "91c09c1a-090b-4b34-a682-c3a6c52cbd90",
+    "title": "GPT-4.1 Deprecated",
+    "source_url": "https://github.blog/changelog/2026-06-02-gpt-4-1-deprecated/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-07T10:27:13.035495+00:00",
+    "analyzed_at": "2026-06-07T10:27:13.035495+00:00",
+    "summary": "Article URL: https://github.blog/changelog/2026-06-02-gpt-4-1-deprecated/\nComments URL: https://news.ycombinator.com/item?id=48382476\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "prakashqwerty",
+      "language": null
+    }
+  },
+  {
+    "id": "e321bbe4-9aba-44de-9965-fd04d784f9f3",
+    "title": "MiniMax M3 Review: Matching GPT-5.5 and Opus?",
+    "source_url": "https://thomas-wiegold.com/blog/minimax-m3-review/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-07T10:27:14.405645+00:00",
+    "analyzed_at": "2026-06-07T10:27:14.405645+00:00",
+    "summary": "Article URL: https://thomas-wiegold.com/blog/minimax-m3-review/\nComments URL: https://news.ycombinator.com/item?id=48380387\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "gkmcd",
+      "language": null
+    }
+  },
+  {
+    "id": "c78f22e1-5df8-4cb0-ba3c-8ebcfa9a1aa7",
+    "title": "Tiny GPT in Go. Optimised for Understanding. Trained on Jules Verne Books",
+    "source_url": "https://github.com/zakirullin/gpt-go",
+    "source": "hacker_news",
+    "collected_at": "2026-06-07T10:27:15.773889+00:00",
+    "analyzed_at": "2026-06-07T10:27:15.773889+00:00",
+    "summary": "Article URL: https://github.com/zakirullin/gpt-go\nComments URL: https://news.ycombinator.com/item?id=48376495\nPoints: 5\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "idontlikellm",
+      "language": null
+    }
+  },
+  {
+    "id": "930b80dd-81c1-4c7b-b55e-4690058ad553",
+    "title": "OpenAI models GPT-5.5 and GPT-5.4–and Codex–now on Amazon Bedrock",
+    "source_url": "https://www.aboutamazon.com/news/aws/bedrock-openai-models",
+    "source": "hacker_news",
+    "collected_at": "2026-06-07T10:27:17.143769+00:00",
+    "analyzed_at": "2026-06-07T10:27:17.143769+00:00",
+    "summary": "Article URL: https://www.aboutamazon.com/news/aws/bedrock-openai-models\nComments URL: https://news.ycombinator.com/item?id=48374329\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jaredwiener",
+      "language": null
+    }
+  },
+  {
+    "id": "4cf4a5f7-38cc-4ab7-be28-65cead5f7641",
+    "title": "Mythos and GPT-5.5 Will Find a Lot of Vulnerabilities. Is That Enough?",
+    "source_url": "https://xbow.com/blog/mythos-gpt-5-5-ai-vulnerability-detection-security",
+    "source": "hacker_news",
+    "collected_at": "2026-06-07T10:27:18.512422+00:00",
+    "analyzed_at": "2026-06-07T10:27:18.512422+00:00",
+    "summary": "Article URL: https://xbow.com/blog/mythos-gpt-5-5-ai-vulnerability-detection-security\nComments URL: https://news.ycombinator.com/item?id=48372593\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "wslh",
+      "language": null
+    }
+  },
+  {
+    "id": "b41390d1-6669-4c13-8cfd-6a58a847fec4",
+    "title": "GPT and Claude both subvert shutdown",
+    "source_url": "https://twitter.com/jeremy__tien/status/2061829186608627717",
+    "source": "hacker_news",
+    "collected_at": "2026-06-07T10:27:19.881232+00:00",
+    "analyzed_at": "2026-06-07T10:27:19.881232+00:00",
+    "summary": "Article URL: https://twitter.com/jeremy__tien/status/2061829186608627717\nComments URL: https://news.ycombinator.com/item?id=48372080\nPoints: 12\n# Comments: 3",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "williamkuszmaul",
+      "language": null
+    }
+  },
+  {
+    "id": "254c050d-d4fa-40ba-8686-fbaf7ece7bd4",
+    "title": "A cinematic landing-page hero for 80 cents (GPT Image 2 still and Veo 3.1)",
+    "source_url": "https://johnkueh.com/articles/veo-cinematic-hero",
+    "source": "hacker_news",
+    "collected_at": "2026-06-07T10:27:21.277937+00:00",
+    "analyzed_at": "2026-06-07T10:27:21.277937+00:00",
+    "summary": "Article URL: https://johnkueh.com/articles/veo-cinematic-hero\nComments URL: https://news.ycombinator.com/item?id=48368211\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "johnkueh",
+      "language": null
+    }
+  },
+  {
+    "id": "dd52c911-f00c-467e-ae13-0eec8b651b5f",
+    "title": "GPT-5.5 and Codex are now GA on Amazon Bedrock",
+    "source_url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-openai-models-codex-generally-available/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-07T10:27:22.653053+00:00",
+    "analyzed_at": "2026-06-07T10:27:22.653053+00:00",
+    "summary": "Article URL: https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-openai-models-codex-generally-available/\nComments URL: https://news.ycombinator.com/item?id=48363881\nPoints: 2\n# Comments",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "hackerBanana",
+      "language": null
+    }
+  },
+  {
+    "id": "277f0bd5-bb8e-488d-a7e1-efa729106fc2",
+    "title": "Automating My Job with GPT-3 (2021)",
+    "source_url": "https://web.archive.org/web/20210128080042/https://blog.seekwell.io/gpt3",
+    "source": "hacker_news",
+    "collected_at": "2026-06-07T10:27:24.024422+00:00",
+    "analyzed_at": "2026-06-07T10:27:24.024422+00:00",
+    "summary": "Article URL: https://web.archive.org/web/20210128080042/https://blog.seekwell.io/gpt3\nComments URL: https://news.ycombinator.com/item?id=48361275\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "robinpie",
+      "language": null
+    }
+  },
+  {
+    "id": "42a10e1a-af36-4795-b50f-273a467a34fd",
+    "title": "Train a GPT with HTML",
+    "source_url": "https://www.shaylivni.com/playground/browser-train",
+    "source": "hacker_news",
+    "collected_at": "2026-06-07T10:27:25.397524+00:00",
+    "analyzed_at": "2026-06-07T10:27:25.397524+00:00",
+    "summary": "Article URL: https://www.shaylivni.com/playground/browser-train\nComments URL: https://news.ycombinator.com/item?id=48359723\nPoints: 4\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "stealthy_",
+      "language": null
+    }
+  },
+  {
+    "id": "4c267ef6-dbd7-46bf-bde4-6e06ad7253aa",
+    "title": "GPT-5.5 (Azure) down on OpenRouter",
+    "source_url": "https://openrouter.ai/openai/gpt-5.5",
+    "source": "hacker_news",
+    "collected_at": "2026-06-07T10:27:26.766342+00:00",
+    "analyzed_at": "2026-06-07T10:27:26.766342+00:00",
+    "summary": "Article URL: https://openrouter.ai/openai/gpt-5.5\nComments URL: https://news.ycombinator.com/item?id=48359409\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "gmag",
+      "language": null
+    }
+  },
+  {
+    "id": "54f488f0-b2a9-4007-b4cb-77a843023f8e",
+    "title": "How GPT Image 2 Is Transforming Marketing Workflows in 2026",
+    "source_url": "https://gpt-image2ai.net/blog/gpt-image-2-marketing-workflows-2026/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-07T10:27:28.143010+00:00",
+    "analyzed_at": "2026-06-07T10:27:28.143010+00:00",
+    "summary": "Article URL: https://gpt-image2ai.net/blog/gpt-image-2-marketing-workflows-2026/\nComments URL: https://news.ycombinator.com/item?id=48353473\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "wangneo276",
+      "language": null
+    }
+  }
+]

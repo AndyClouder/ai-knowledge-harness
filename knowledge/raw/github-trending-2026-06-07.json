@@ -1,0 +1,97 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-06-07T10:26:48.173308+00:00",
+  "items": [
+    {
+      "name": "zenhosta/9drive",
+      "url": "https://github.com/zenhosta/9drive",
+      "summary": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files",
+      "stars": 337,
+      "language": "TypeScript",
+      "topics": [
+        "drive",
+        "gateway",
+        "google",
+        "storage"
+      ]
+    },
+    {
+      "name": "razr001/align-dev",
+      "url": "https://github.com/razr001/align-dev",
+      "summary": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
+      "stars": 257,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "claude-code",
+        "codex",
+        "copilot",
+        "cursor",
+        "fronted",
+        "nextjs",
+        "skills"
+      ]
+    },
+    {
+      "name": "gerardapennant96075336582/CapC-Pro-2",
+      "url": "https://github.com/gerardapennant96075336582/CapC-Pro-2",
+      "summary": "CapCut Pro Studio (2026) — The ultimate high-performance video editing suite with all premium features unlocked. Experience 4K HDR exporting, AI-powered transitions, and a full professional asset libr",
+      "stars": 256,
+      "language": "C++",
+      "topics": [
+        "4k-export",
+        "4k-video-editor",
+        "activation-tools",
+        "ai-video-editor",
+        "capcut-2026",
+        "capcut-automation",
+        "capcut-effects",
+        "capcut-plugin",
+        "capcut-scripts",
+        "capcut-workflow",
+        "cinematic-editing",
+        "pro-cap-cut",
+        "reels-editor"
+      ]
+    },
+    {
+      "name": "c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
+      "url": "https://github.com/c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
+      "summary": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation.",
+      "stars": 251,
+      "language": "C#",
+      "topics": [
+        "adult-ai",
+        "nsfw",
+        "nsfw-classifier",
+        "nsfw-data",
+        "nsfw-detection",
+        "nsfw-image",
+        "nsfw-project",
+        "nsfw-prompt",
+        "nsfw-recognition",
+        "nsfw-video-ai-gen",
+        "nudity",
+        "uncensored-ai-image-generator",
+        "uncensored-ai-video-generator",
+        "uncensored-ai-video-generator-2026",
+        "undress-ai-gen",
+        "video-generator",
+        "xvideos-api",
+        "z-image-turbo-uncensored"
+      ]
+    },
+    {
+      "name": "best-spicy-ai/ai-naughty-tools",
+      "url": "https://github.com/best-spicy-ai/ai-naughty-tools",
+      "summary": "Discover uncensored AI image & video tools trusted by users worldwide for highly photorealistic results. Create without unnecessary limits using platforms built for realism, quality, and full creative",
+      "stars": 219,
+      "language": null,
+      "topics": [
+        "uncensored-ai-image-generator",
+        "uncensored-ai-video-generator"
+      ]
+    }
+  ]
+}

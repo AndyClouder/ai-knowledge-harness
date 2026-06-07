@@ -1,0 +1,178 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-06-07T10:26:59.965704+00:00",
+  "items": [
+    {
+      "name": "GitHub Copilot: GPT-5.2 and GPT-5.2-Codex deprecated",
+      "url": "https://github.blog/changelog/2026-06-05-gpt-5-2-and-gpt-5-2-codex-deprecated/",
+      "summary": "Article URL: https://github.blog/changelog/2026-06-05-gpt-5-2-and-gpt-5-2-codex-deprecated/\nComments URL: https://news.ycombinator.com/item?id=48430019\nPoints: 4\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "zorrn",
+      "published": "Sat, 06 Jun 2026 23:12:51 +0000"
+    },
+    {
+      "name": "I patented voiding GPT-5.2, Claude Opus 4.6, Gemini 3.5 Flash. Try it",
+      "url": "https://getswiftapi.com/void-test",
+      "summary": "Article URL: https://getswiftapi.com/void-test\nComments URL: https://news.ycombinator.com/item?id=48403266\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rayanpal_",
+      "published": "Thu, 04 Jun 2026 19:13:12 +0000"
+    },
+    {
+      "name": "I benchmarked Opus 4.8 vs. GPT 5.5 on 2 open source repos",
+      "url": "https://www.stet.sh/blog/opus-48-vs-gpt-55-vs-opus-47-vs-composer-25",
+      "summary": "Article URL: https://www.stet.sh/blog/opus-48-vs-gpt-55-vs-opus-47-vs-composer-25\nComments URL: https://news.ycombinator.com/item?id=48386637\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "bisonbear",
+      "published": "Wed, 03 Jun 2026 17:06:22 +0000"
+    },
+    {
+      "name": "GPT-4.1 Deprecated",
+      "url": "https://github.blog/changelog/2026-06-02-gpt-4-1-deprecated/",
+      "summary": "Article URL: https://github.blog/changelog/2026-06-02-gpt-4-1-deprecated/\nComments URL: https://news.ycombinator.com/item?id=48382476\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "prakashqwerty",
+      "published": "Wed, 03 Jun 2026 11:16:02 +0000"
+    },
+    {
+      "name": "MiniMax M3 Review: Matching GPT-5.5 and Opus?",
+      "url": "https://thomas-wiegold.com/blog/minimax-m3-review/",
+      "summary": "Article URL: https://thomas-wiegold.com/blog/minimax-m3-review/\nComments URL: https://news.ycombinator.com/item?id=48380387\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "gkmcd",
+      "published": "Wed, 03 Jun 2026 05:48:07 +0000"
+    },
+    {
+      "name": "Tiny GPT in Go. Optimised for Understanding. Trained on Jules Verne Books",
+      "url": "https://github.com/zakirullin/gpt-go",
+      "summary": "Article URL: https://github.com/zakirullin/gpt-go\nComments URL: https://news.ycombinator.com/item?id=48376495\nPoints: 5\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "idontlikellm",
+      "published": "Tue, 02 Jun 2026 21:22:25 +0000"
+    },
+    {
+      "name": "OpenAI models GPT-5.5 and GPT-5.4–and Codex–now on Amazon Bedrock",
+      "url": "https://www.aboutamazon.com/news/aws/bedrock-openai-models",
+      "summary": "Article URL: https://www.aboutamazon.com/news/aws/bedrock-openai-models\nComments URL: https://news.ycombinator.com/item?id=48374329\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "jaredwiener",
+      "published": "Tue, 02 Jun 2026 18:36:26 +0000"
+    },
+    {
+      "name": "Mythos and GPT-5.5 Will Find a Lot of Vulnerabilities. Is That Enough?",
+      "url": "https://xbow.com/blog/mythos-gpt-5-5-ai-vulnerability-detection-security",
+      "summary": "Article URL: https://xbow.com/blog/mythos-gpt-5-5-ai-vulnerability-detection-security\nComments URL: https://news.ycombinator.com/item?id=48372593\nPoints: 4\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "wslh",
+      "published": "Tue, 02 Jun 2026 16:37:34 +0000"
+    },
+    {
+      "name": "GPT and Claude both subvert shutdown",
+      "url": "https://twitter.com/jeremy__tien/status/2061829186608627717",
+      "summary": "Article URL: https://twitter.com/jeremy__tien/status/2061829186608627717\nComments URL: https://news.ycombinator.com/item?id=48372080\nPoints: 12\n# Comments: 3",
+      "source": "hacker_news",
+      "score": null,
+      "author": "williamkuszmaul",
+      "published": "Tue, 02 Jun 2026 16:05:49 +0000"
+    },
+    {
+      "name": "A cinematic landing-page hero for 80 cents (GPT Image 2 still and Veo 3.1)",
+      "url": "https://johnkueh.com/articles/veo-cinematic-hero",
+      "summary": "Article URL: https://johnkueh.com/articles/veo-cinematic-hero\nComments URL: https://news.ycombinator.com/item?id=48368211\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "johnkueh",
+      "published": "Tue, 02 Jun 2026 10:12:33 +0000"
+    },
+    {
+      "name": "GPT-5.5 and Codex are now GA on Amazon Bedrock",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-openai-models-codex-generally-available/",
+      "summary": "Article URL: https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-openai-models-codex-generally-available/\nComments URL: https://news.ycombinator.com/item?id=48363881\nPoints: 2\n# Comments",
+      "source": "hacker_news",
+      "score": null,
+      "author": "hackerBanana",
+      "published": "Mon, 01 Jun 2026 23:22:23 +0000"
+    },
+    {
+      "name": "Automating My Job with GPT-3 (2021)",
+      "url": "https://web.archive.org/web/20210128080042/https://blog.seekwell.io/gpt3",
+      "summary": "Article URL: https://web.archive.org/web/20210128080042/https://blog.seekwell.io/gpt3\nComments URL: https://news.ycombinator.com/item?id=48361275\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "robinpie",
+      "published": "Mon, 01 Jun 2026 19:13:03 +0000"
+    },
+    {
+      "name": "Train a GPT with HTML",
+      "url": "https://www.shaylivni.com/playground/browser-train",
+      "summary": "Article URL: https://www.shaylivni.com/playground/browser-train\nComments URL: https://news.ycombinator.com/item?id=48359723\nPoints: 4\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "stealthy_",
+      "published": "Mon, 01 Jun 2026 17:14:02 +0000"
+    },
+    {
+      "name": "GPT-5.5 (Azure) down on OpenRouter",
+      "url": "https://openrouter.ai/openai/gpt-5.5",
+      "summary": "Article URL: https://openrouter.ai/openai/gpt-5.5\nComments URL: https://news.ycombinator.com/item?id=48359409\nPoints: 4\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "gmag",
+      "published": "Mon, 01 Jun 2026 16:54:00 +0000"
+    },
+    {
+      "name": "How GPT Image 2 Is Transforming Marketing Workflows in 2026",
+      "url": "https://gpt-image2ai.net/blog/gpt-image-2-marketing-workflows-2026/",
+      "summary": "Article URL: https://gpt-image2ai.net/blog/gpt-image-2-marketing-workflows-2026/\nComments URL: https://news.ycombinator.com/item?id=48353473\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "wangneo276",
+      "published": "Mon, 01 Jun 2026 07:01:27 +0000"
+    },
+    {
+      "name": "DeepSWE: More and cheaper intelligence from maxed GPT 5.5 than maxed Opus 4.8",
+      "url": "https://twitter.com/rajveerbach/status/2060846974824255936/photo/1",
+      "summary": "Article URL: https://twitter.com/rajveerbach/status/2060846974824255936/photo/1\nComments URL: https://news.ycombinator.com/item?id=48341143\nPoints: 5\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rajveerb",
+      "published": "Sat, 30 May 2026 22:17:53 +0000"
+    },
+    {
+      "name": "GitHub Copilot charges GPT 5.5 with a 57x multiplier per request from June first",
+      "url": "https://docs.github.com/en/copilot/reference/copilot-billing/request-based-billing-legacy/model-multipliers-for-annual-plans",
+      "summary": "Article URL: https://docs.github.com/en/copilot/reference/copilot-billing/request-based-billing-legacy/model-multipliers-for-annual-plans\nComments URL: https://news.ycombinator.com/item?id=48339069\nPo",
+      "source": "hacker_news",
+      "score": null,
+      "author": "theanonymousone",
+      "published": "Sat, 30 May 2026 18:09:01 +0000"
+    },
+    {
+      "name": "DocumentAI Visual Benchmark - GPT 5.5, Gemini 3.5, Qwen...",
+      "url": "https://www.maltebuettner.eu/posts/documentai-bbox-benchmark",
+      "summary": "Article URL: https://www.maltebuettner.eu/posts/documentai-bbox-benchmark\nComments URL: https://news.ycombinator.com/item?id=48335498\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "hegelsmind",
+      "published": "Sat, 30 May 2026 12:32:36 +0000"
+    },
+    {
+      "name": "GPT 5.5 Bro [video]",
+      "url": "https://www.youtube.com/watch?v=v1zSDACAXK4",
+      "summary": "Article URL: https://www.youtube.com/watch?v=v1zSDACAXK4\nComments URL: https://news.ycombinator.com/item?id=48329838\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "kshri24",
+      "published": "Fri, 29 May 2026 21:56:32 +0000"
+    }
+  ]
+}
