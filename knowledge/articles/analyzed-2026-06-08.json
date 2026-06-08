@@ -1,0 +1,422 @@
+[
+  {
+    "id": "f54ca534-fee9-404b-90e0-39d2ec81806a",
+    "title": "tastyeffectco/sandboxd",
+    "source_url": "https://github.com/tastyeffectco/sandboxd",
+    "source": "unknown",
+    "collected_at": "2026-06-08T12:26:44.534020+00:00",
+    "analyzed_at": "2026-06-08T12:26:44.534020+00:00",
+    "summary": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 508,
+      "score": null,
+      "author": null,
+      "language": "Go"
+    }
+  },
+  {
+    "id": "6d7a7511-4d98-452f-8cc3-a27d29445ecd",
+    "title": "JimLiu/baoyu-design",
+    "source_url": "https://github.com/JimLiu/baoyu-design",
+    "source": "unknown",
+    "collected_at": "2026-06-08T12:26:45.890813+00:00",
+    "analyzed_at": "2026-06-08T12:26:45.890813+00:00",
+    "summary": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 451,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "340c9613-b3ee-48d7-829b-9932725431f2",
+    "title": "NoopApp/noop",
+    "source_url": "https://github.com/NoopApp/noop",
+    "source": "unknown",
+    "collected_at": "2026-06-08T12:26:47.246203+00:00",
+    "analyzed_at": "2026-06-08T12:26:47.246203+00:00",
+    "summary": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 429,
+      "score": null,
+      "author": null,
+      "language": "Swift"
+    }
+  },
+  {
+    "id": "347cc057-2fd6-47ca-ae05-545a63a5ac8c",
+    "title": "amElnagdy/guard-skills",
+    "source_url": "https://github.com/amElnagdy/guard-skills",
+    "source": "unknown",
+    "collected_at": "2026-06-08T12:26:48.602565+00:00",
+    "analyzed_at": "2026-06-08T12:26:48.602565+00:00",
+    "summary": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 410,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "74e6b85d-2026-4fbc-8da7-0324d4952ac4",
+    "title": "mysk-research/loupe",
+    "source_url": "https://github.com/mysk-research/loupe",
+    "source": "unknown",
+    "collected_at": "2026-06-08T12:26:49.960296+00:00",
+    "analyzed_at": "2026-06-08T12:26:49.960296+00:00",
+    "summary": "A privacy-focused iOS app that raises awareness about what native apps can see",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 301,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "dd642cae-a30e-4423-a705-907a526e197f",
+    "title": "GordenSun/GordenSuperPPTSkills",
+    "source_url": "https://github.com/GordenSun/GordenSuperPPTSkills",
+    "source": "unknown",
+    "collected_at": "2026-06-08T12:26:51.317096+00:00",
+    "analyzed_at": "2026-06-08T12:26:51.317096+00:00",
+    "summary": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 242,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "dbfd2ea6-c28e-4e40-a6fc-efa0b5615c2d",
+    "title": "zarazhangrui/beautiful-feishu-whiteboard",
+    "source_url": "https://github.com/zarazhangrui/beautiful-feishu-whiteboard",
+    "source": "unknown",
+    "collected_at": "2026-06-08T12:26:52.675371+00:00",
+    "analyzed_at": "2026-06-08T12:26:52.675371+00:00",
+    "summary": "35 curated colour palette styles for building beautiful, editable Feishu / Lark (飞书) whiteboards. An agent skill.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 231,
+      "score": null,
+      "author": null,
+      "language": "Shell"
+    }
+  },
+  {
+    "id": "21d4c960-a85b-4e3d-87bf-88deb345d8dc",
+    "title": "FerroxLabs/wayland",
+    "source_url": "https://github.com/FerroxLabs/wayland",
+    "source": "unknown",
+    "collected_at": "2026-06-08T12:26:54.032535+00:00",
+    "analyzed_at": "2026-06-08T12:26:54.032535+00:00",
+    "summary": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 226,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "31beb551-9423-482a-a45d-ecb7cccdb9cd",
+    "title": "zonghaoyuan/infiplot",
+    "source_url": "https://github.com/zonghaoyuan/infiplot",
+    "source": "unknown",
+    "collected_at": "2026-06-08T12:26:55.388567+00:00",
+    "analyzed_at": "2026-06-08T12:26:55.388567+00:00",
+    "summary": "InfiPlot is the world's first interactive plot game that AI generates all text and images in real-time. InfiPlot是全球首个由 AI 实时生成全部图文内容的交互式剧情游戏",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 223,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "ca491f7f-3543-46ec-a068-9f6b99d65056",
+    "title": "zaydmulani09/mnemo",
+    "source_url": "https://github.com/zaydmulani09/mnemo",
+    "source": "unknown",
+    "collected_at": "2026-06-08T12:26:56.744689+00:00",
+    "analyzed_at": "2026-06-08T12:26:56.744689+00:00",
+    "summary": "Local-first AI memory layer for any LLM. Persistent knowledge graph, entity extraction, semantic retrieval. Works with Ollama, OpenAI, Anthropic, or any OpenAI-compatible backend.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 196,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "af8f6697-2808-40ce-bbd8-d609be5b736f",
+    "title": "Soul-AILab/SoulX-Transcriber",
+    "source_url": "https://github.com/Soul-AILab/SoulX-Transcriber",
+    "source": "unknown",
+    "collected_at": "2026-06-08T12:26:58.101419+00:00",
+    "analyzed_at": "2026-06-08T12:26:58.101419+00:00",
+    "summary": "An end-to-end framework for multi-speaker transcription that jointly models who spoke, when, and what.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 195,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "bc9bde78-bda5-4d1d-9b28-40e60a2783d7",
+    "title": "cellebrite-labs/ghidra-rpc",
+    "source_url": "https://github.com/cellebrite-labs/ghidra-rpc",
+    "source": "unknown",
+    "collected_at": "2026-06-08T12:26:59.481999+00:00",
+    "analyzed_at": "2026-06-08T12:26:59.481999+00:00",
+    "summary": "A Ghidra agentic reverse engineering skill.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 180,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "1ba0b9a0-3117-4c30-ae1d-50486ae32a7a",
+    "title": "AI Doesn't Write Good Software: The Environment Does",
+    "source_url": "https://adrianferrera.dev/en/blog/ai-does-not-write-good-code",
+    "source": "hacker_news",
+    "collected_at": "2026-06-08T12:27:00.839748+00:00",
+    "analyzed_at": "2026-06-08T12:27:00.839748+00:00",
+    "summary": "Article URL: https://adrianferrera.dev/en/blog/ai-does-not-write-good-code\nComments URL: https://news.ycombinator.com/item?id=48444459\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "RyeCombinator",
+      "language": null
+    }
+  },
+  {
+    "id": "b4e0598e-c36f-4234-9a5f-67caae903996",
+    "title": "Build a Basic AI Agent from Scratch: Long Task Planning",
+    "source_url": "https://www.ruxu.dev/articles/ai/build-an-ai-agent-planning/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-08T12:27:02.195564+00:00",
+    "analyzed_at": "2026-06-08T12:27:02.195564+00:00",
+    "summary": "Article URL: https://www.ruxu.dev/articles/ai/build-an-ai-agent-planning/\nComments URL: https://news.ycombinator.com/item?id=48444433\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ruxudev",
+      "language": null
+    }
+  },
+  {
+    "id": "9df636ee-a2c7-4885-adef-9b3a1bfea7f7",
+    "title": "Democrats Unveil Flood of AI Proposals in Potential Challenge to Tech Giants",
+    "source_url": "https://www.wsj.com/tech/ai/democrats-unveil-flood-of-ai-proposals-in-potential-challenge-to-tech-giants-16819bfc",
+    "source": "hacker_news",
+    "collected_at": "2026-06-08T12:27:03.553299+00:00",
+    "analyzed_at": "2026-06-08T12:27:03.553299+00:00",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/democrats-unveil-flood-of-ai-proposals-in-potential-challenge-to-tech-giants-16819bfc\nComments URL: https://news.ycombinator.com/item?id=48444390\nPoints: 2\n# C",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "1vuio0pswjnm7",
+      "language": null
+    }
+  },
+  {
+    "id": "4a9d3ec7-46b2-4ca4-9a63-7630ed945610",
+    "title": "AI Agents Can't Help with Intent Debt",
+    "source_url": "https://addyosmani.com/blog/intent-debt/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-08T12:27:04.909738+00:00",
+    "analyzed_at": "2026-06-08T12:27:04.909738+00:00",
+    "summary": "Article URL: https://addyosmani.com/blog/intent-debt/\nComments URL: https://news.ycombinator.com/item?id=48444373\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "moebrowne",
+      "language": null
+    }
+  },
+  {
+    "id": "7bf0ac3d-e3b0-4a2b-8e1e-f75781ae5092",
+    "title": "Profitable AI UGC Ads for Meta and TikTok",
+    "source_url": "https://anivision.ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-08T12:27:06.266834+00:00",
+    "analyzed_at": "2026-06-08T12:27:06.266834+00:00",
+    "summary": "Article URL: https://anivision.ai/\nComments URL: https://news.ycombinator.com/item?id=48444364\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "sgfgross",
+      "language": null
+    }
+  },
+  {
+    "id": "7101889f-50a0-4320-a558-87a30aed0068",
+    "title": "The Environmental Cost of AI: Carbon, Water, and Land Footprints",
+    "source_url": "https://unu.edu/inweh/collection/environmental-cost-of-AIs-Enrgy-Use-Carbon-water-and-land-footprints",
+    "source": "hacker_news",
+    "collected_at": "2026-06-08T12:27:07.624118+00:00",
+    "analyzed_at": "2026-06-08T12:27:07.624118+00:00",
+    "summary": "Article URL: https://unu.edu/inweh/collection/environmental-cost-of-AIs-Enrgy-Use-Carbon-water-and-land-footprints\nComments URL: https://news.ycombinator.com/item?id=48444301\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "_____k",
+      "language": null
+    }
+  },
+  {
+    "id": "d8cebd3a-d0e7-4eab-a0c8-71ee5276d241",
+    "title": "Show HN: RepoSignal scores GitHub repos for adoption risk. No AI, no servers",
+    "source_url": "https://github.com/udit-rawat/RepoSignal",
+    "source": "hacker_news",
+    "collected_at": "2026-06-08T12:27:08.981195+00:00",
+    "analyzed_at": "2026-06-08T12:27:08.981195+00:00",
+    "summary": "Article URL: https://github.com/udit-rawat/RepoSignal\nComments URL: https://news.ycombinator.com/item?id=48444238\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "udit-r",
+      "language": null
+    }
+  },
+  {
+    "id": "f6171f89-3c0b-4b5e-b445-3383f9c81e4c",
+    "title": "SpaceX ($SPCX): AI, Chips, Sats, Launches and Orbital Compute Under One Roof",
+    "source_url": "https://twitter.com/StockAnalystPro/status/2063675760725160211",
+    "source": "hacker_news",
+    "collected_at": "2026-06-08T12:27:10.339319+00:00",
+    "analyzed_at": "2026-06-08T12:27:10.339319+00:00",
+    "summary": "Article URL: https://twitter.com/StockAnalystPro/status/2063675760725160211\nComments URL: https://news.ycombinator.com/item?id=48444194\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "bilsbie",
+      "language": null
+    }
+  }
+]

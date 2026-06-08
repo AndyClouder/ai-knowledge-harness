@@ -1,0 +1,139 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-06-08T12:26:37.614129+00:00",
+  "items": [
+    {
+      "name": "tastyeffectco/sandboxd",
+      "url": "https://github.com/tastyeffectco/sandboxd",
+      "summary": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+      "stars": 508,
+      "language": "Go",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "dev-environment",
+        "docker",
+        "isolation",
+        "pinokio",
+        "preview",
+        "preview-environment",
+        "sandbox",
+        "self-hosted"
+      ]
+    },
+    {
+      "name": "JimLiu/baoyu-design",
+      "url": "https://github.com/JimLiu/baoyu-design",
+      "summary": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4",
+      "stars": 451,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "claude",
+        "claude-code",
+        "claude-design",
+        "cursor",
+        "design",
+        "prototyping",
+        "ui-design"
+      ]
+    },
+    {
+      "name": "NoopApp/noop",
+      "url": "https://github.com/NoopApp/noop",
+      "summary": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
+      "stars": 429,
+      "language": "Swift",
+      "topics": []
+    },
+    {
+      "name": "amElnagdy/guard-skills",
+      "url": "https://github.com/amElnagdy/guard-skills",
+      "summary": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
+      "stars": 410,
+      "language": null,
+      "topics": [
+        "agent-skills",
+        "ai",
+        "claude",
+        "claude-code",
+        "code-review",
+        "codex",
+        "skills-sh",
+        "woocommerce",
+        "wordpress"
+      ]
+    },
+    {
+      "name": "mysk-research/loupe",
+      "url": "https://github.com/mysk-research/loupe",
+      "summary": "A privacy-focused iOS app that raises awareness about what native apps can see",
+      "stars": 301,
+      "language": null,
+      "topics": []
+    },
+    {
+      "name": "GordenSun/GordenSuperPPTSkills",
+      "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
+      "summary": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+      "stars": 242,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "zarazhangrui/beautiful-feishu-whiteboard",
+      "url": "https://github.com/zarazhangrui/beautiful-feishu-whiteboard",
+      "summary": "35 curated colour palette styles for building beautiful, editable Feishu / Lark (飞书) whiteboards. An agent skill.",
+      "stars": 231,
+      "language": "Shell",
+      "topics": []
+    },
+    {
+      "name": "FerroxLabs/wayland",
+      "url": "https://github.com/FerroxLabs/wayland",
+      "summary": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
+      "stars": 226,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "zonghaoyuan/infiplot",
+      "url": "https://github.com/zonghaoyuan/infiplot",
+      "summary": "InfiPlot is the world's first interactive plot game that AI generates all text and images in real-time. InfiPlot是全球首个由 AI 实时生成全部图文内容的交互式剧情游戏",
+      "stars": 223,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "zaydmulani09/mnemo",
+      "url": "https://github.com/zaydmulani09/mnemo",
+      "summary": "Local-first AI memory layer for any LLM. Persistent knowledge graph, entity extraction, semantic retrieval. Works with Ollama, OpenAI, Anthropic, or any OpenAI-compatible backend.",
+      "stars": 196,
+      "language": "Rust",
+      "topics": []
+    },
+    {
+      "name": "Soul-AILab/SoulX-Transcriber",
+      "url": "https://github.com/Soul-AILab/SoulX-Transcriber",
+      "summary": "An end-to-end framework for multi-speaker transcription that jointly models who spoke, when, and what.",
+      "stars": 195,
+      "language": "Python",
+      "topics": [
+        "asr",
+        "llm",
+        "sd",
+        "sdr",
+        "speech-recognition"
+      ]
+    },
+    {
+      "name": "cellebrite-labs/ghidra-rpc",
+      "url": "https://github.com/cellebrite-labs/ghidra-rpc",
+      "summary": "A Ghidra agentic reverse engineering skill.",
+      "stars": 180,
+      "language": "Python",
+      "topics": []
+    }
+  ]
+}
