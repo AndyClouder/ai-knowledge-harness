@@ -1,0 +1,66 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-06-09T10:58:36.348954+00:00",
+  "items": [
+    {
+      "name": "diffusionstudio/lottie",
+      "url": "https://github.com/diffusionstudio/lottie",
+      "summary": "Open-source skill and harness for generating production ready Lottie animations with codex/claude code",
+      "stars": 887,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "superloglabs/superlog",
+      "url": "https://github.com/superloglabs/superlog",
+      "summary": "Open-source observability tool that uses AI agents to self-heal your software",
+      "stars": 465,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "llm",
+        "memory",
+        "observability",
+        "opentelemetry",
+        "react",
+        "self-hosted",
+        "skills",
+        "typescript"
+      ]
+    },
+    {
+      "name": "xiaohuailabs/xiaohu-video-translate",
+      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
+      "summary": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "stars": 257,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "wizenheimer/canary",
+      "url": "https://github.com/wizenheimer/canary",
+      "summary": "QA harness built for Claude Code | E2E testing with screen recordings, console logs, network HARs, and Playwright traces",
+      "stars": 247,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "beijingcao/binance-deribit-btc",
+      "url": "https://github.com/beijingcao/binance-deribit-btc",
+      "summary": "Binance and Deribit BTC cross-exchange arbitrage bot with Redis state recovery, Telegram alerts, and a Flask monitoring dashboard.",
+      "stars": 199,
+      "language": "Python",
+      "topics": [
+        "arbitrage",
+        "binance",
+        "btc",
+        "deribit",
+        "flask",
+        "redis",
+        "telegram",
+        "trading-bot"
+      ]
+    }
+  ]
+}
