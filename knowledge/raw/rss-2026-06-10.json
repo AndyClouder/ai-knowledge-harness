@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-06-10T11:37:38.984009+00:00",
+  "items": [
+    {
+      "name": "Show HN: Publora – One API/MCP for AI agents to post across 10 social networks",
+      "url": "https://publora.com",
+      "summary": "Article URL: https://publora.com\nComments URL: https://news.ycombinator.com/item?id=48474574\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "sbulaev",
+      "published": "Wed, 10 Jun 2026 11:14:23 +0000"
+    },
+    {
+      "name": "Is symbolic AI more relevant than ever?",
+      "url": "https://www.heise.de/en/blog/Is-symbolic-AI-more-relevant-than-ever-11323023.html",
+      "summary": "Article URL: https://www.heise.de/en/blog/Is-symbolic-AI-more-relevant-than-ever-11323023.html\nComments URL: https://news.ycombinator.com/item?id=48474435\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "goloroden",
+      "published": "Wed, 10 Jun 2026 10:57:44 +0000"
+    },
+    {
+      "name": "Can tech companies learn to love cheaper AI models?",
+      "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+      "summary": "Article URL: https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/\nComments URL: https://news.ycombinator.com/item?id=48474426\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "parveshblogger",
+      "published": "Wed, 10 Jun 2026 10:55:59 +0000"
+    },
+    {
+      "name": "WSP WordPress MCP – Connect AI Coding Agents to WordPress",
+      "url": "https://github.com/bilalnaseer/wsp-wordpress-mcp",
+      "summary": "Article URL: https://github.com/bilalnaseer/wsp-wordpress-mcp\nComments URL: https://news.ycombinator.com/item?id=48474367\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ibrarmaikah",
+      "published": "Wed, 10 Jun 2026 10:48:12 +0000"
+    },
+    {
+      "name": "Inferoa AI harness claimed 90% cache savings. We ran it and measured 97.8%",
+      "url": "https://zozo123.github.io/inferoa-demo/",
+      "summary": "Article URL: https://zozo123.github.io/inferoa-demo/\nComments URL: https://news.ycombinator.com/item?id=48474273\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "zozo123-IB",
+      "published": "Wed, 10 Jun 2026 10:37:44 +0000"
+    },
+    {
+      "name": "Taiwan Mulls Curbs on AI Chip Exports to China to Align with US",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-09/taiwan-mulls-curbs-on-ai-chip-exports-to-china-to-align-with-us",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-06-09/taiwan-mulls-curbs-on-ai-chip-exports-to-china-to-align-with-us\nComments URL: https://news.ycombinator.com/item?id=48474163\nPoints: 3\n# ",
+      "source": "hacker_news",
+      "score": null,
+      "author": "giuliomagnifico",
+      "published": "Wed, 10 Jun 2026 10:24:53 +0000"
+    },
+    {
+      "name": "Show HN: SeaTicket – Resolve GitHub Issues Using AI Agent",
+      "url": "https://news.ycombinator.com/item?id=48473925",
+      "summary": "https://seaticket.ai/github-issues-resolving/\n\nComments URL: https://news.ycombinator.com/item?id=48473925\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Daniel-Pan",
+      "published": "Wed, 10 Jun 2026 09:54:59 +0000"
+    },
+    {
+      "name": "More AI-generated code doesn't make your team faster. It might slow you down.",
+      "url": "https://twitter.com/awscloud/status/2064449711155589396",
+      "summary": "Article URL: https://twitter.com/awscloud/status/2064449711155589396\nComments URL: https://news.ycombinator.com/item?id=48473910\nPoints: 4\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "latexr",
+      "published": "Wed, 10 Jun 2026 09:52:48 +0000"
+    },
+    {
+      "name": "Show HN: Plug and AI – Slack bot for the whole team, not per-seat",
+      "url": "https://plugand.ai/",
+      "summary": "Talk to any AI model inside Slack just by mentioning it like: @ai summarize this channel. The most innovative (among other Slack apps) is the business model: no per-seat (per user) settlements, but a ",
+      "source": "hacker_news",
+      "score": null,
+      "author": "coderai",
+      "published": "Wed, 10 Jun 2026 09:29:29 +0000"
+    },
+    {
+      "name": "Claude Fable 5 silently degrades its own performance on frontier AI work",
+      "url": "https://mkotlikov.substack.com/p/fable-5-considered-harmful",
+      "summary": "Article URL: https://mkotlikov.substack.com/p/fable-5-considered-harmful\nComments URL: https://news.ycombinator.com/item?id=48473737\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mkotlikov",
+      "published": "Wed, 10 Jun 2026 09:29:21 +0000"
+    },
+    {
+      "name": "Broadcom: The private cloud is where enterprise AI workloads are being deployed",
+      "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcoms-private-cloud-outlook-2026-reveals-ai-tipping-point",
+      "summary": "Article URL: https://investors.broadcom.com/news-releases/news-release-details/broadcoms-private-cloud-outlook-2026-reveals-ai-tipping-point\nComments URL: https://news.ycombinator.com/item?id=48473648",
+      "source": "hacker_news",
+      "score": null,
+      "author": "giuliomagnifico",
+      "published": "Wed, 10 Jun 2026 09:18:07 +0000"
+    },
+    {
+      "name": "Junior Devs Who Use AI Are Not Cheating – They're Training Smarter",
+      "url": "https://theaileverageweekly.com/posts/junior-devs-who-use-ai-are-not-cheating-they-re-training-smarter.html",
+      "summary": "Article URL: https://theaileverageweekly.com/posts/junior-devs-who-use-ai-are-not-cheating-they-re-training-smarter.html\nComments URL: https://news.ycombinator.com/item?id=48473508\nPoints: 1\n# Comment",
+      "source": "hacker_news",
+      "score": null,
+      "author": "talvardi7",
+      "published": "Wed, 10 Jun 2026 09:01:23 +0000"
+    },
+    {
+      "name": "Linux developers are using AI vibe coding to keep vintage AMD GPUs alive",
+      "url": "https://www.tomshardware.com/software/linux/linux-developers-are-using-ai-vibe-coding-to-keep-vintage-amd-gpus-alive-r600-driver-cleaned-up-with-github-copilot-gives-hd-2000-to-hd-6000-series-a-new-lease-of-life",
+      "summary": "Article URL: https://www.tomshardware.com/software/linux/linux-developers-are-using-ai-vibe-coding-to-keep-vintage-amd-gpus-alive-r600-driver-cleaned-up-with-github-copilot-gives-hd-2000-to-hd-6000-se",
+      "source": "hacker_news",
+      "score": null,
+      "author": "01-_-",
+      "published": "Wed, 10 Jun 2026 08:17:54 +0000"
+    },
+    {
+      "name": "The Vibes Were Never the Point. On the Push-and-Pull of AI Usage",
+      "url": "https://blog.ewancroft.uk/3mnw2znjfbc22",
+      "summary": "Article URL: https://blog.ewancroft.uk/3mnw2znjfbc22\nComments URL: https://news.ycombinator.com/item?id=48473126\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ZacnyLos",
+      "published": "Wed, 10 Jun 2026 08:16:07 +0000"
+    },
+    {
+      "name": "Purpose-built local AI agents",
+      "url": "https://samihonkonen.com/posts/purpose-built-local-ai-agents/",
+      "summary": "Article URL: https://samihonkonen.com/posts/purpose-built-local-ai-agents/\nComments URL: https://news.ycombinator.com/item?id=48473010\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "shonkone",
+      "published": "Wed, 10 Jun 2026 08:00:58 +0000"
+    },
+    {
+      "name": "Get 800 free credits. Welcome to my AI image and video generation website.",
+      "url": "https://news.ycombinator.com/item?id=48472902",
+      "summary": "The last time I posted here, I asked for help figuring out why the AI-generated website（voloshow). I had spent months building wasn’t getting any customers.I’m really grateful for all the replies I go",
+      "source": "hacker_news",
+      "score": null,
+      "author": "petebay",
+      "published": "Wed, 10 Jun 2026 07:47:20 +0000"
+    },
+    {
+      "name": "Show HN: Eatmydata.ai – Local-First Question-to-SQL-to-Dashboard AI",
+      "url": "https://eatmydata.ai/",
+      "summary": "Yet another \"talk to your data and build a dashboard\" app, where data does not leave your browser.You ask a question, agents produce multiple SQL queries to in-browser sqlite, never seeing results, an",
+      "source": "hacker_news",
+      "score": null,
+      "author": "dennis16384",
+      "published": "Wed, 10 Jun 2026 07:43:21 +0000"
+    },
+    {
+      "name": "Recovoly – AI-powered ink bleed removal for scanned documents",
+      "url": "https://recovoly.com",
+      "summary": "Article URL: https://recovoly.com\nComments URL: https://news.ycombinator.com/item?id=48472790\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "thisarajay",
+      "published": "Wed, 10 Jun 2026 07:33:12 +0000"
+    },
+    {
+      "name": "Claude Fable 5 Ultracode + AI medical diagnosis",
+      "url": "https://github.com/joelparkerhenderson/ai-medical-diagnosis-examples/blob/main/doctor-perspective/claude-fable-5-ultracode/index.md",
+      "summary": "Article URL: https://github.com/joelparkerhenderson/ai-medical-diagnosis-examples/blob/main/doctor-perspective/claude-fable-5-ultracode/index.md\nComments URL: https://news.ycombinator.com/item?id=4847",
+      "source": "hacker_news",
+      "score": null,
+      "author": "jph",
+      "published": "Wed, 10 Jun 2026 07:19:45 +0000"
+    },
+    {
+      "name": "Compute-to-Surplus: Why AI Progress Doesn't Matter Until It Changes Economics",
+      "url": "https://signal-memo.com/memo-the-compute-to-surplus-pipeline-is-a-product-spec-heres-how-to-ship-against-it/",
+      "summary": "Article URL: https://signal-memo.com/memo-the-compute-to-surplus-pipeline-is-a-product-spec-heres-how-to-ship-against-it/\nComments URL: https://news.ycombinator.com/item?id=48472507\nPoints: 1\n# Commen",
+      "source": "hacker_news",
+      "score": null,
+      "author": "alex-ivan",
+      "published": "Wed, 10 Jun 2026 07:01:12 +0000"
+    }
+  ]
+}

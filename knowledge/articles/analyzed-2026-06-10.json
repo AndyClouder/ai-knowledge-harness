@@ -1,0 +1,422 @@
+[
+  {
+    "id": "61862f00-33a5-41fa-9d6f-94351abcb330",
+    "title": "apple/coreai-models",
+    "source_url": "https://github.com/apple/coreai-models",
+    "source": "unknown",
+    "collected_at": "2026-06-10T11:37:40.642600+00:00",
+    "analyzed_at": "2026-06-10T11:37:40.642600+00:00",
+    "summary": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 497,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "0c56081c-3821-42fe-8def-c75ec8846086",
+    "title": "Tencent-Hunyuan/UniRL",
+    "source_url": "https://github.com/Tencent-Hunyuan/UniRL",
+    "source": "unknown",
+    "collected_at": "2026-06-10T11:37:41.897338+00:00",
+    "analyzed_at": "2026-06-10T11:37:41.897338+00:00",
+    "summary": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 391,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "e5875ed6-096f-466b-bdf9-982a8f531a3d",
+    "title": "jmmy9609-design/gpt-pp",
+    "source_url": "https://github.com/jmmy9609-design/gpt-pp",
+    "source": "unknown",
+    "collected_at": "2026-06-10T11:37:43.124150+00:00",
+    "analyzed_at": "2026-06-10T11:37:43.124150+00:00",
+    "summary": "",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 309,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "8ed44d0f-63dd-41b5-9c29-bb2eca8e4d51",
+    "title": "ziqihe10-droid/xuefeng-agent",
+    "source_url": "https://github.com/ziqihe10-droid/xuefeng-agent",
+    "source": "unknown",
+    "collected_at": "2026-06-10T11:37:44.350821+00:00",
+    "analyzed_at": "2026-06-10T11:37:44.350821+00:00",
+    "summary": "AI 高考志愿顾问 — 会追问、会分析、敢说真话",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 247,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "a57db897-66f2-49b5-b4be-f9eedb45fc55",
+    "title": "AI272/speaker",
+    "source_url": "https://github.com/AI272/speaker",
+    "source": "unknown",
+    "collected_at": "2026-06-10T11:37:45.577512+00:00",
+    "analyzed_at": "2026-06-10T11:37:45.577512+00:00",
+    "summary": "Speaker is a Codex skill project for academic presentations: read real.pptx, combine text extraction, PPTX structure parsing, page-by-page rendering, OCR, and visual review to generate page-by-page sp",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 201,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "1e2d2d56-b498-49ed-83af-3e4607d6b3dd",
+    "title": "GalaxyGeneralRobotics/Humanoid-GPT",
+    "source_url": "https://github.com/GalaxyGeneralRobotics/Humanoid-GPT",
+    "source": "unknown",
+    "collected_at": "2026-06-10T11:37:46.807954+00:00",
+    "analyzed_at": "2026-06-10T11:37:46.807954+00:00",
+    "summary": "[CVPR 2026] Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 199,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "b3cdf25b-0d57-4452-b3b6-d19776e83f21",
+    "title": "Show HN: Publora – One API/MCP for AI agents to post across 10 social networks",
+    "source_url": "https://publora.com",
+    "source": "hacker_news",
+    "collected_at": "2026-06-10T11:37:48.038501+00:00",
+    "analyzed_at": "2026-06-10T11:37:48.038501+00:00",
+    "summary": "Article URL: https://publora.com\nComments URL: https://news.ycombinator.com/item?id=48474574\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "sbulaev",
+      "language": null
+    }
+  },
+  {
+    "id": "23b34648-a4dd-47c0-ad9f-82ea13cd15b3",
+    "title": "Is symbolic AI more relevant than ever?",
+    "source_url": "https://www.heise.de/en/blog/Is-symbolic-AI-more-relevant-than-ever-11323023.html",
+    "source": "hacker_news",
+    "collected_at": "2026-06-10T11:37:49.267338+00:00",
+    "analyzed_at": "2026-06-10T11:37:49.267338+00:00",
+    "summary": "Article URL: https://www.heise.de/en/blog/Is-symbolic-AI-more-relevant-than-ever-11323023.html\nComments URL: https://news.ycombinator.com/item?id=48474435\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "goloroden",
+      "language": null
+    }
+  },
+  {
+    "id": "10c5d0b9-dc08-4857-80a9-2ae01be45591",
+    "title": "Can tech companies learn to love cheaper AI models?",
+    "source_url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-10T11:37:50.496165+00:00",
+    "analyzed_at": "2026-06-10T11:37:50.496165+00:00",
+    "summary": "Article URL: https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/\nComments URL: https://news.ycombinator.com/item?id=48474426\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "parveshblogger",
+      "language": null
+    }
+  },
+  {
+    "id": "aad41e51-4dd4-487d-9645-595c0d6cc4ff",
+    "title": "WSP WordPress MCP – Connect AI Coding Agents to WordPress",
+    "source_url": "https://github.com/bilalnaseer/wsp-wordpress-mcp",
+    "source": "hacker_news",
+    "collected_at": "2026-06-10T11:37:51.724745+00:00",
+    "analyzed_at": "2026-06-10T11:37:51.724745+00:00",
+    "summary": "Article URL: https://github.com/bilalnaseer/wsp-wordpress-mcp\nComments URL: https://news.ycombinator.com/item?id=48474367\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ibrarmaikah",
+      "language": null
+    }
+  },
+  {
+    "id": "556e3d43-509c-4196-95c2-c91b5804428b",
+    "title": "Inferoa AI harness claimed 90% cache savings. We ran it and measured 97.8%",
+    "source_url": "https://zozo123.github.io/inferoa-demo/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-10T11:37:52.980822+00:00",
+    "analyzed_at": "2026-06-10T11:37:52.980822+00:00",
+    "summary": "Article URL: https://zozo123.github.io/inferoa-demo/\nComments URL: https://news.ycombinator.com/item?id=48474273\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "zozo123-IB",
+      "language": null
+    }
+  },
+  {
+    "id": "07ea6518-843d-4e75-8d42-62a25d91284b",
+    "title": "Taiwan Mulls Curbs on AI Chip Exports to China to Align with US",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-06-09/taiwan-mulls-curbs-on-ai-chip-exports-to-china-to-align-with-us",
+    "source": "hacker_news",
+    "collected_at": "2026-06-10T11:37:54.235194+00:00",
+    "analyzed_at": "2026-06-10T11:37:54.235194+00:00",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-06-09/taiwan-mulls-curbs-on-ai-chip-exports-to-china-to-align-with-us\nComments URL: https://news.ycombinator.com/item?id=48474163\nPoints: 3\n# ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "giuliomagnifico",
+      "language": null
+    }
+  },
+  {
+    "id": "0d459314-4dfb-46f2-8b5d-dc68da7771fc",
+    "title": "Show HN: SeaTicket – Resolve GitHub Issues Using AI Agent",
+    "source_url": "https://news.ycombinator.com/item?id=48473925",
+    "source": "hacker_news",
+    "collected_at": "2026-06-10T11:37:55.463628+00:00",
+    "analyzed_at": "2026-06-10T11:37:55.463628+00:00",
+    "summary": "https://seaticket.ai/github-issues-resolving/\n\nComments URL: https://news.ycombinator.com/item?id=48473925\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Daniel-Pan",
+      "language": null
+    }
+  },
+  {
+    "id": "841918ad-0868-4097-9059-eccfe71c4f2f",
+    "title": "More AI-generated code doesn't make your team faster. It might slow you down.",
+    "source_url": "https://twitter.com/awscloud/status/2064449711155589396",
+    "source": "hacker_news",
+    "collected_at": "2026-06-10T11:37:56.692328+00:00",
+    "analyzed_at": "2026-06-10T11:37:56.692328+00:00",
+    "summary": "Article URL: https://twitter.com/awscloud/status/2064449711155589396\nComments URL: https://news.ycombinator.com/item?id=48473910\nPoints: 4\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "latexr",
+      "language": null
+    }
+  },
+  {
+    "id": "21809aae-6a80-4b14-8fbc-171b1afc2287",
+    "title": "Show HN: Plug and AI – Slack bot for the whole team, not per-seat",
+    "source_url": "https://plugand.ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-10T11:37:57.920206+00:00",
+    "analyzed_at": "2026-06-10T11:37:57.920206+00:00",
+    "summary": "Talk to any AI model inside Slack just by mentioning it like: @ai summarize this channel. The most innovative (among other Slack apps) is the business model: no per-seat (per user) settlements, but a ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "coderai",
+      "language": null
+    }
+  },
+  {
+    "id": "d201ea0b-c8f6-41d5-9435-e82a8b876164",
+    "title": "Claude Fable 5 silently degrades its own performance on frontier AI work",
+    "source_url": "https://mkotlikov.substack.com/p/fable-5-considered-harmful",
+    "source": "hacker_news",
+    "collected_at": "2026-06-10T11:37:59.145837+00:00",
+    "analyzed_at": "2026-06-10T11:37:59.145837+00:00",
+    "summary": "Article URL: https://mkotlikov.substack.com/p/fable-5-considered-harmful\nComments URL: https://news.ycombinator.com/item?id=48473737\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mkotlikov",
+      "language": null
+    }
+  },
+  {
+    "id": "be217651-c596-466c-874a-1b160b27897e",
+    "title": "Broadcom: The private cloud is where enterprise AI workloads are being deployed",
+    "source_url": "https://investors.broadcom.com/news-releases/news-release-details/broadcoms-private-cloud-outlook-2026-reveals-ai-tipping-point",
+    "source": "hacker_news",
+    "collected_at": "2026-06-10T11:38:00.375684+00:00",
+    "analyzed_at": "2026-06-10T11:38:00.375684+00:00",
+    "summary": "Article URL: https://investors.broadcom.com/news-releases/news-release-details/broadcoms-private-cloud-outlook-2026-reveals-ai-tipping-point\nComments URL: https://news.ycombinator.com/item?id=48473648",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "giuliomagnifico",
+      "language": null
+    }
+  },
+  {
+    "id": "7c7a774b-c6e2-457a-b284-09a4b4b63ed4",
+    "title": "Junior Devs Who Use AI Are Not Cheating – They're Training Smarter",
+    "source_url": "https://theaileverageweekly.com/posts/junior-devs-who-use-ai-are-not-cheating-they-re-training-smarter.html",
+    "source": "hacker_news",
+    "collected_at": "2026-06-10T11:38:01.603770+00:00",
+    "analyzed_at": "2026-06-10T11:38:01.603770+00:00",
+    "summary": "Article URL: https://theaileverageweekly.com/posts/junior-devs-who-use-ai-are-not-cheating-they-re-training-smarter.html\nComments URL: https://news.ycombinator.com/item?id=48473508\nPoints: 1\n# Comment",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "talvardi7",
+      "language": null
+    }
+  },
+  {
+    "id": "b6846b42-0ded-46a6-bce5-43e6321bc08c",
+    "title": "Linux developers are using AI vibe coding to keep vintage AMD GPUs alive",
+    "source_url": "https://www.tomshardware.com/software/linux/linux-developers-are-using-ai-vibe-coding-to-keep-vintage-amd-gpus-alive-r600-driver-cleaned-up-with-github-copilot-gives-hd-2000-to-hd-6000-series-a-new-lease-of-life",
+    "source": "hacker_news",
+    "collected_at": "2026-06-10T11:38:02.832378+00:00",
+    "analyzed_at": "2026-06-10T11:38:02.832378+00:00",
+    "summary": "Article URL: https://www.tomshardware.com/software/linux/linux-developers-are-using-ai-vibe-coding-to-keep-vintage-amd-gpus-alive-r600-driver-cleaned-up-with-github-copilot-gives-hd-2000-to-hd-6000-se",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "01-_-",
+      "language": null
+    }
+  },
+  {
+    "id": "bdf35ac5-2aae-4f41-bcd1-e1309db84d6d",
+    "title": "The Vibes Were Never the Point. On the Push-and-Pull of AI Usage",
+    "source_url": "https://blog.ewancroft.uk/3mnw2znjfbc22",
+    "source": "hacker_news",
+    "collected_at": "2026-06-10T11:38:04.060205+00:00",
+    "analyzed_at": "2026-06-10T11:38:04.060205+00:00",
+    "summary": "Article URL: https://blog.ewancroft.uk/3mnw2znjfbc22\nComments URL: https://news.ycombinator.com/item?id=48473126\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ZacnyLos",
+      "language": null
+    }
+  }
+]

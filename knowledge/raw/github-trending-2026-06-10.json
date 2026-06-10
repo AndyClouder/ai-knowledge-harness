@@ -1,0 +1,64 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-06-10T11:37:11.000285+00:00",
+  "items": [
+    {
+      "name": "apple/coreai-models",
+      "url": "https://github.com/apple/coreai-models",
+      "summary": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
+      "stars": 497,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "Tencent-Hunyuan/UniRL",
+      "url": "https://github.com/Tencent-Hunyuan/UniRL",
+      "summary": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
+      "stars": 391,
+      "language": "Python",
+      "topics": [
+        "reinforcement-learning"
+      ]
+    },
+    {
+      "name": "jmmy9609-design/gpt-pp",
+      "url": "https://github.com/jmmy9609-design/gpt-pp",
+      "summary": "",
+      "stars": 309,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "ziqihe10-droid/xuefeng-agent",
+      "url": "https://github.com/ziqihe10-droid/xuefeng-agent",
+      "summary": "AI 高考志愿顾问 — 会追问、会分析、敢说真话",
+      "stars": 247,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "AI272/speaker",
+      "url": "https://github.com/AI272/speaker",
+      "summary": "Speaker is a Codex skill project for academic presentations: read real.pptx, combine text extraction, PPTX structure parsing, page-by-page rendering, OCR, and visual review to generate page-by-page sp",
+      "stars": 201,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "claude-code",
+        "claude-code-skill",
+        "codex",
+        "codex-skill",
+        "skill"
+      ]
+    },
+    {
+      "name": "GalaxyGeneralRobotics/Humanoid-GPT",
+      "url": "https://github.com/GalaxyGeneralRobotics/Humanoid-GPT",
+      "summary": "[CVPR 2026] Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking",
+      "stars": 199,
+      "language": "Python",
+      "topics": []
+    }
+  ]
+}
