@@ -1,0 +1,422 @@
+[
+  {
+    "id": "564eb4f4-4960-42b2-9465-a4f08e8c805d",
+    "title": "jwangkun/claude-for-financial-services-cn",
+    "source_url": "https://github.com/jwangkun/claude-for-financial-services-cn",
+    "source": "unknown",
+    "collected_at": "2026-06-11T12:08:11.413683+00:00",
+    "analyzed_at": "2026-06-11T12:08:11.413683+00:00",
+    "summary": " 63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 320,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "044d2303-70a0-494a-92fd-fd0bdc949cb2",
+    "title": "valkor-ai/loom",
+    "source_url": "https://github.com/valkor-ai/loom",
+    "source": "unknown",
+    "collected_at": "2026-06-11T12:08:12.674572+00:00",
+    "analyzed_at": "2026-06-11T12:08:12.674572+00:00",
+    "summary": "An open delivery harness that turns Claude Code, Codex, OpenCode, and other coding agents into repeatable software delivery systems.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 208,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "aa338f53-c910-42dd-914c-0f3110c897b4",
+    "title": "XBuilderLAB/cheat-on-money",
+    "source_url": "https://github.com/XBuilderLAB/cheat-on-money",
+    "source": "unknown",
+    "collected_at": "2026-06-11T12:08:13.933551+00:00",
+    "analyzed_at": "2026-06-11T12:08:13.933551+00:00",
+    "summary": "AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 203,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "c65b49fd-3ad0-4b60-83b2-1cd97b01aecf",
+    "title": "adamallcock/codex-chatgpt-control",
+    "source_url": "https://github.com/adamallcock/codex-chatgpt-control",
+    "source": "unknown",
+    "collected_at": "2026-06-11T12:08:15.193927+00:00",
+    "analyzed_at": "2026-06-11T12:08:15.193927+00:00",
+    "summary": "Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 200,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "2550958b-bc92-42ec-8173-c33ab8f18fda",
+    "title": "TwoSevenOneT/EDRChoker",
+    "source_url": "https://github.com/TwoSevenOneT/EDRChoker",
+    "source": "unknown",
+    "collected_at": "2026-06-11T12:08:16.477280+00:00",
+    "analyzed_at": "2026-06-11T12:08:16.477280+00:00",
+    "summary": "A tool uses the QoS Policy (Pacer.sys) to throttle Endpoint Detection and Response (EDR) agents from connecting to the server.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 198,
+      "score": null,
+      "author": null,
+      "language": "C#"
+    }
+  },
+  {
+    "id": "852a7e0f-a4d8-436f-9bf5-5bbbed229e8a",
+    "title": "Show HN: AlfinaAI – AI stock and IPO analysis for retail investors",
+    "source_url": "https://alfina.ai",
+    "source": "hacker_news",
+    "collected_at": "2026-06-11T12:08:17.737825+00:00",
+    "analyzed_at": "2026-06-11T12:08:17.737825+00:00",
+    "summary": "Article URL: https://alfina.ai\nComments URL: https://news.ycombinator.com/item?id=48489208\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "stockanalyst987",
+      "language": null
+    }
+  },
+  {
+    "id": "ec1fcbf0-9230-4e74-85b5-df63a36ec1fe",
+    "title": "Shadow AI threat's growth affecting healthtech's growth",
+    "source_url": "https://www.verax.ai/blog/shadow-ai-healthtech-deals",
+    "source": "hacker_news",
+    "collected_at": "2026-06-11T12:08:18.996529+00:00",
+    "analyzed_at": "2026-06-11T12:08:18.996529+00:00",
+    "summary": "Article URL: https://www.verax.ai/blog/shadow-ai-healthtech-deals\nComments URL: https://news.ycombinator.com/item?id=48489097\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jasonchernofsky",
+      "language": null
+    }
+  },
+  {
+    "id": "fe18062b-a717-42a6-9b00-01fd839eba8f",
+    "title": "Ask HN: Is there a metric for AI code quality?",
+    "source_url": "https://news.ycombinator.com/item?id=48488990",
+    "source": "hacker_news",
+    "collected_at": "2026-06-11T12:08:20.257474+00:00",
+    "analyzed_at": "2026-06-11T12:08:20.257474+00:00",
+    "summary": "I've tried many different models and without doubt the code coming out of them differs a lot when it comes to \"quality\". Some of that is subjective for sure, but there are objective sides to \"good\" co",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "fractalf",
+      "language": null
+    }
+  },
+  {
+    "id": "4a11589b-2e84-4e5d-a704-e4e34edb7498",
+    "title": "AI Boom Stokes Inflation with Memory Chips at 'Insane' Prices",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-06-11/us-inflation-driven-partly-by-ai-boom-fueling-economy-stocks",
+    "source": "hacker_news",
+    "collected_at": "2026-06-11T12:08:21.519441+00:00",
+    "analyzed_at": "2026-06-11T12:08:21.519441+00:00",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-06-11/us-inflation-driven-partly-by-ai-boom-fueling-economy-stocks\nComments URL: https://news.ycombinator.com/item?id=48488919\nPoints: 1\n# Com",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "emot",
+      "language": null
+    }
+  },
+  {
+    "id": "7cf30775-61cc-4d4d-a28c-be35f85cc84f",
+    "title": "Show HN: A skill to audit your dbt project for what an AI agent will get wrong",
+    "source_url": "https://github.com/GetCassis/dbt-agent-readiness",
+    "source": "hacker_news",
+    "collected_at": "2026-06-11T12:08:22.779004+00:00",
+    "analyzed_at": "2026-06-11T12:08:22.779004+00:00",
+    "summary": "Article URL: https://github.com/GetCassis/dbt-agent-readiness\nComments URL: https://news.ycombinator.com/item?id=48488756\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "matthieu_bl",
+      "language": null
+    }
+  },
+  {
+    "id": "44effaa9-fdf0-475d-aa4d-6b7bb072835e",
+    "title": "Show HN: Offsend – local Mac app that masks secrets before AI tools see them",
+    "source_url": "https://github.com/Offsend/Offsend",
+    "source": "hacker_news",
+    "collected_at": "2026-06-11T12:08:24.063624+00:00",
+    "analyzed_at": "2026-06-11T12:08:24.063624+00:00",
+    "summary": "Article URL: https://github.com/Offsend/Offsend\nComments URL: https://news.ycombinator.com/item?id=48488713\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "hudishkin",
+      "language": null
+    }
+  },
+  {
+    "id": "686a9c75-f826-4189-bc7a-721412719d3f",
+    "title": "Did AI speed us up? The honest ROI take",
+    "source_url": "https://aibuilderseries.substack.com/p/did-ai-speed-us-up",
+    "source": "hacker_news",
+    "collected_at": "2026-06-11T12:08:25.324031+00:00",
+    "analyzed_at": "2026-06-11T12:08:25.324031+00:00",
+    "summary": "Article URL: https://aibuilderseries.substack.com/p/did-ai-speed-us-up\nComments URL: https://news.ycombinator.com/item?id=48488707\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "seantheviking",
+      "language": null
+    }
+  },
+  {
+    "id": "3350af08-3292-407c-b812-013c4d5ff471",
+    "title": "Memory and personalization make AI more likely to tell you what you want to hear",
+    "source_url": "https://www.theregister.com/ai-and-ml/2026/06/11/memory-and-personalization-make-ai-more-likely-to-tell-you-what-you-want-to-hear/5253850",
+    "source": "hacker_news",
+    "collected_at": "2026-06-11T12:08:26.585735+00:00",
+    "analyzed_at": "2026-06-11T12:08:26.585735+00:00",
+    "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/11/memory-and-personalization-make-ai-more-likely-to-tell-you-what-you-want-to-hear/5253850\nComments URL: https://news.ycombinator.com/item?i",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "dijksterhuis",
+      "language": null
+    }
+  },
+  {
+    "id": "b22e9b88-3c17-41ec-8a07-2be2087b05d8",
+    "title": "I asked AI to make a page about itself and published it unchanged",
+    "source_url": "https://isanyoneinthere.com",
+    "source": "hacker_news",
+    "collected_at": "2026-06-11T12:08:27.845864+00:00",
+    "analyzed_at": "2026-06-11T12:08:27.845864+00:00",
+    "summary": "Article URL: https://isanyoneinthere.com\nComments URL: https://news.ycombinator.com/item?id=48488510\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "kampiotrow",
+      "language": null
+    }
+  },
+  {
+    "id": "43334ec6-6962-447e-b6c0-652a54c39b33",
+    "title": "An Interview with Ben Bajarin About Apple, AI, and Compute",
+    "source_url": "https://stratechery.com/2026/an-interview-with-ben-bajarin-about-apple-ai-and-compute/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-11T12:08:29.105172+00:00",
+    "analyzed_at": "2026-06-11T12:08:29.105172+00:00",
+    "summary": "Article URL: https://stratechery.com/2026/an-interview-with-ben-bajarin-about-apple-ai-and-compute/\nComments URL: https://news.ycombinator.com/item?id=48488477\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "swolpers",
+      "language": null
+    }
+  },
+  {
+    "id": "67c3d002-9897-46c8-bd7c-088d8006408b",
+    "title": "Anthropic's AI Jobs Paper",
+    "source_url": "https://www.vincentschmalbach.com/anthropics-ai-jobs-paper/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-11T12:08:30.363230+00:00",
+    "analyzed_at": "2026-06-11T12:08:30.363230+00:00",
+    "summary": "Article URL: https://www.vincentschmalbach.com/anthropics-ai-jobs-paper/\nComments URL: https://news.ycombinator.com/item?id=48488424\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "vincent_s",
+      "language": null
+    }
+  },
+  {
+    "id": "395dd01e-be9d-4cd1-967a-b3e29d744364",
+    "title": "Outpost – Capability-based API access for AI agents",
+    "source_url": "https://github.com/sausin/outpost",
+    "source": "hacker_news",
+    "collected_at": "2026-06-11T12:08:31.624434+00:00",
+    "analyzed_at": "2026-06-11T12:08:31.624434+00:00",
+    "summary": "Article URL: https://github.com/sausin/outpost\nComments URL: https://news.ycombinator.com/item?id=48488407\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "saurabhsinghvi",
+      "language": null
+    }
+  },
+  {
+    "id": "4b83c2cc-b8a3-41a0-8af5-8aa3e7981ed3",
+    "title": "AI Just Got Better Than a Fable",
+    "source_url": "https://altshiftx.tech/blog/unlock-the-future-of-intelligent-systems-with-yottajoule-sui-q8e0",
+    "source": "hacker_news",
+    "collected_at": "2026-06-11T12:08:32.883958+00:00",
+    "analyzed_at": "2026-06-11T12:08:32.883958+00:00",
+    "summary": "Article URL: https://altshiftx.tech/blog/unlock-the-future-of-intelligent-systems-with-yottajoule-sui-q8e0\nComments URL: https://news.ycombinator.com/item?id=48488355\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Magna_Dev",
+      "language": null
+    }
+  },
+  {
+    "id": "345f7e4c-379d-422c-b421-0ab6904f6afb",
+    "title": "Anthropic Walks Back Policy That Could Sabotage AI Researchers Using Claude",
+    "source_url": "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-11T12:08:34.144525+00:00",
+    "analyzed_at": "2026-06-11T12:08:34.144525+00:00",
+    "summary": "Article URL: https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/\nComments URL: https://news.ycombinator.com/item?id=48488304\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "lumpa",
+      "language": null
+    }
+  },
+  {
+    "id": "267e0806-fa3f-43b6-ac53-37254e285471",
+    "title": "Show HN: Tail Panic – a multiplayer game designed for AI agents",
+    "source_url": "https://tailpanic.com",
+    "source": "hacker_news",
+    "collected_at": "2026-06-11T12:08:35.403424+00:00",
+    "analyzed_at": "2026-06-11T12:08:35.403424+00:00",
+    "summary": "Hi HN,Built an AI-native game where agents compete against each other.https://tailpanic.comFeedback welcome.\n\nComments URL: https://news.ycombinator.com/item?id=48488135\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ZivenChang",
+      "language": null
+    }
+  }
+]

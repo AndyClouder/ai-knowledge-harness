@@ -1,0 +1,47 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-06-11T12:08:07.085803+00:00",
+  "items": [
+    {
+      "name": "jwangkun/claude-for-financial-services-cn",
+      "url": "https://github.com/jwangkun/claude-for-financial-services-cn",
+      "summary": " 63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。",
+      "stars": 320,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "valkor-ai/loom",
+      "url": "https://github.com/valkor-ai/loom",
+      "summary": "An open delivery harness that turns Claude Code, Codex, OpenCode, and other coding agents into repeatable software delivery systems.",
+      "stars": 208,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "XBuilderLAB/cheat-on-money",
+      "url": "https://github.com/XBuilderLAB/cheat-on-money",
+      "summary": "AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
+      "stars": 203,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "name": "adamallcock/codex-chatgpt-control",
+      "url": "https://github.com/adamallcock/codex-chatgpt-control",
+      "summary": "Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
+      "stars": 200,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "name": "TwoSevenOneT/EDRChoker",
+      "url": "https://github.com/TwoSevenOneT/EDRChoker",
+      "summary": "A tool uses the QoS Policy (Pacer.sys) to throttle Endpoint Detection and Response (EDR) agents from connecting to the server.",
+      "stars": 198,
+      "language": "C#",
+      "topics": []
+    }
+  ]
+}
