@@ -1,0 +1,422 @@
+[
+  {
+    "id": "42a49ee4-c885-4b4d-9a7e-b59108af2e70",
+    "title": "DietrichGebert/ponytail",
+    "source_url": "https://github.com/DietrichGebert/ponytail",
+    "source": "unknown",
+    "collected_at": "2026-06-12T11:42:14.257000+00:00",
+    "analyzed_at": "2026-06-12T11:42:14.257000+00:00",
+    "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 435,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "43f43e90-f8c9-4aad-9752-ba6886059f26",
+    "title": "joeseesun/qiaomu-goal-meta-skill",
+    "source_url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
+    "source": "unknown",
+    "collected_at": "2026-06-12T11:42:15.581732+00:00",
+    "analyzed_at": "2026-06-12T11:42:15.581732+00:00",
+    "summary": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 265,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "12e85137-2566-4fd3-904e-8db58214ca67",
+    "title": "khrisat/text-humanizer",
+    "source_url": "https://github.com/khrisat/text-humanizer",
+    "source": "unknown",
+    "collected_at": "2026-06-12T11:42:16.906518+00:00",
+    "analyzed_at": "2026-06-12T11:42:16.906518+00:00",
+    "summary": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 248,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "ca766a65-4c2a-4a20-b422-b55299697f7a",
+    "title": "BuilderIO/skills",
+    "source_url": "https://github.com/BuilderIO/skills",
+    "source": "unknown",
+    "collected_at": "2026-06-12T11:42:18.232802+00:00",
+    "analyzed_at": "2026-06-12T11:42:18.232802+00:00",
+    "summary": "Skills for coding agents",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 234,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "3cb17301-8768-4f88-9e20-ffa535c16eb2",
+    "title": "visa/visa-vulnerability-agentic-harness",
+    "source_url": "https://github.com/visa/visa-vulnerability-agentic-harness",
+    "source": "unknown",
+    "collected_at": "2026-06-12T11:42:19.556245+00:00",
+    "analyzed_at": "2026-06-12T11:42:19.556245+00:00",
+    "summary": "Visa Vulnerability Agentic Harness",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 226,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "cd583bfa-e3ea-4b59-beb1-44d159ba5660",
+    "title": "Finding code duplicated by AI without AI",
+    "source_url": "https://github.com/Rafaelpta/dupehound",
+    "source": "hacker_news",
+    "collected_at": "2026-06-12T11:42:20.884175+00:00",
+    "analyzed_at": "2026-06-12T11:42:20.884175+00:00",
+    "summary": "Article URL: https://github.com/Rafaelpta/dupehound\nComments URL: https://news.ycombinator.com/item?id=48502793\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rafaepta",
+      "language": null
+    }
+  },
+  {
+    "id": "36ff9427-e4d9-4b2a-b0f3-8b0855080321",
+    "title": "AI will be massively deflationary",
+    "source_url": "https://geohot.github.io//blog/jekyll/update/2026/06/11/ai-will-be-deflationary.html",
+    "source": "hacker_news",
+    "collected_at": "2026-06-12T11:42:22.209388+00:00",
+    "analyzed_at": "2026-06-12T11:42:22.209388+00:00",
+    "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/06/11/ai-will-be-deflationary.html\nComments URL: https://news.ycombinator.com/item?id=48502750\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "dalvasorsali",
+      "language": null
+    }
+  },
+  {
+    "id": "f55092c1-e604-4f19-8dc7-c09d79af6301",
+    "title": "AI Will Cheat to Win: Reward Hacking from 1994 to 2025",
+    "source_url": "https://adversariallogic.com/when-ai-finds-the-shortcut-reward-hacking-from-1994-to-2025/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-12T11:42:23.536702+00:00",
+    "analyzed_at": "2026-06-12T11:42:23.536702+00:00",
+    "summary": "Article URL: https://adversariallogic.com/when-ai-finds-the-shortcut-reward-hacking-from-1994-to-2025/\nComments URL: https://news.ycombinator.com/item?id=48502723\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "joshgracie",
+      "language": null
+    }
+  },
+  {
+    "id": "26dfd22f-d93e-4a57-9c0c-423168f054cc",
+    "title": "Horizon Trade revolutionises trading with AI",
+    "source_url": "https://horizon.trade",
+    "source": "hacker_news",
+    "collected_at": "2026-06-12T11:42:24.861374+00:00",
+    "analyzed_at": "2026-06-12T11:42:24.861374+00:00",
+    "summary": "Article URL: https://horizon.trade\nComments URL: https://news.ycombinator.com/item?id=48502697\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "LaurenzBauer",
+      "language": null
+    }
+  },
+  {
+    "id": "3eb3836e-8e15-42b4-aa71-d60f02dae0af",
+    "title": "A Systemic View of U.S.-China AI Competition [pdf]",
+    "source_url": "https://www.jpmorganchase.com/content/dam/jpmorganchase/documents/center-for-geopolitics/cfg-us-china-report.pdf",
+    "source": "hacker_news",
+    "collected_at": "2026-06-12T11:42:26.187579+00:00",
+    "analyzed_at": "2026-06-12T11:42:26.187579+00:00",
+    "summary": "Article URL: https://www.jpmorganchase.com/content/dam/jpmorganchase/documents/center-for-geopolitics/cfg-us-china-report.pdf\nComments URL: https://news.ycombinator.com/item?id=48502593\nPoints: 1\n# Co",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "throw0101a",
+      "language": null
+    }
+  },
+  {
+    "id": "e40bb705-044a-4504-93d6-93e1e531d268",
+    "title": "The AI Price War Is Here, Piling Pressure on OpenAI and Anthropic",
+    "source_url": "https://www.wsj.com/tech/ai/the-ai-price-war-is-here-piling-pressure-on-openai-and-anthropic-86e1d21b",
+    "source": "hacker_news",
+    "collected_at": "2026-06-12T11:42:27.512340+00:00",
+    "analyzed_at": "2026-06-12T11:42:27.512340+00:00",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/the-ai-price-war-is-here-piling-pressure-on-openai-and-anthropic-86e1d21b\nComments URL: https://news.ycombinator.com/item?id=48502556\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "cebert",
+      "language": null
+    }
+  },
+  {
+    "id": "a4665674-bc6d-4ab8-ad02-dae1aeb621b0",
+    "title": "AI Economics for Dummies",
+    "source_url": "https://www.mcsweeneys.net/articles/ai-economics-for-dummies",
+    "source": "hacker_news",
+    "collected_at": "2026-06-12T11:42:28.838983+00:00",
+    "analyzed_at": "2026-06-12T11:42:28.838983+00:00",
+    "summary": "Article URL: https://www.mcsweeneys.net/articles/ai-economics-for-dummies\nComments URL: https://news.ycombinator.com/item?id=48502456\nPoints: 5\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "_____k",
+      "language": null
+    }
+  },
+  {
+    "id": "46db5f5d-1b44-4574-9c6c-c120ae905944",
+    "title": "Production-Grade Claude/AI Skills for Ruby on Rails",
+    "source_url": "https://github.com/sandeepmvl/rails-skills",
+    "source": "hacker_news",
+    "collected_at": "2026-06-12T11:42:30.165305+00:00",
+    "analyzed_at": "2026-06-12T11:42:30.165305+00:00",
+    "summary": "Article URL: https://github.com/sandeepmvl/rails-skills\nComments URL: https://news.ycombinator.com/item?id=48502415\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "thinkingemote",
+      "language": null
+    }
+  },
+  {
+    "id": "425f131e-93da-4aca-9956-dc9d7517a355",
+    "title": "I made a zero cost browser-use tool – let AI click and type on webpages for you",
+    "source_url": "https://github.com/pdufour/browser-use-wasm",
+    "source": "hacker_news",
+    "collected_at": "2026-06-12T11:42:31.489770+00:00",
+    "analyzed_at": "2026-06-12T11:42:31.489770+00:00",
+    "summary": "Article URL: https://github.com/pdufour/browser-use-wasm\nComments URL: https://news.ycombinator.com/item?id=48502402\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pdufour",
+      "language": null
+    }
+  },
+  {
+    "id": "af3d02e6-18b3-4c2e-8a63-2b79bd33557b",
+    "title": "Why Secure AI Needs Compile-Time Sandboxing",
+    "source_url": "https://jo-lang.org/blog/2026-06-11-why-compile-time-sandboxing.html",
+    "source": "hacker_news",
+    "collected_at": "2026-06-12T11:42:32.815596+00:00",
+    "analyzed_at": "2026-06-12T11:42:32.815596+00:00",
+    "summary": "Article URL: https://jo-lang.org/blog/2026-06-11-why-compile-time-sandboxing.html\nComments URL: https://news.ycombinator.com/item?id=48502389\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "liu-fengyun",
+      "language": null
+    }
+  },
+  {
+    "id": "47dc1d5c-f3b8-4757-947b-39a1d2c4ba84",
+    "title": "Chinese agents caught rebuilding botnets and stirring pot AI datacenter debate",
+    "source_url": "https://www.theregister.com/security/2026/06/11/china-linked-operators-revive-botnet-stir-ai-datacenter-debate/5253873",
+    "source": "hacker_news",
+    "collected_at": "2026-06-12T11:42:34.143583+00:00",
+    "analyzed_at": "2026-06-12T11:42:34.143583+00:00",
+    "summary": "Article URL: https://www.theregister.com/security/2026/06/11/china-linked-operators-revive-botnet-stir-ai-datacenter-debate/5253873\nComments URL: https://news.ycombinator.com/item?id=48502367\nPoints: ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Bender",
+      "language": null
+    }
+  },
+  {
+    "id": "b56069cd-2719-4cec-b3d7-355a8dc47707",
+    "title": "Track tokens and AI Subscriptions across major AI platforms",
+    "source_url": "https://www.tokens4breakfast.app",
+    "source": "hacker_news",
+    "collected_at": "2026-06-12T11:42:35.469728+00:00",
+    "analyzed_at": "2026-06-12T11:42:35.469728+00:00",
+    "summary": "Article URL: https://www.tokens4breakfast.app\nComments URL: https://news.ycombinator.com/item?id=48502211\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "1Kapish",
+      "language": null
+    }
+  },
+  {
+    "id": "7b6e9645-cad3-4351-9bb5-91ff8c4e24c8",
+    "title": "Agribrain / ag-int/nce for AI agents (weather, ET₀, GDD, spray windows, soil)",
+    "source_url": "https://github.com/VasileiosTs/agribrain",
+    "source": "hacker_news",
+    "collected_at": "2026-06-12T11:42:36.799737+00:00",
+    "analyzed_at": "2026-06-12T11:42:36.799737+00:00",
+    "summary": "Article URL: https://github.com/VasileiosTs/agribrain\nComments URL: https://news.ycombinator.com/item?id=48502078\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "vasileiosts",
+      "language": null
+    }
+  },
+  {
+    "id": "d56a86ff-a186-42d0-b6b7-6592b1f754eb",
+    "title": "Show HN: LiveHere – AI Videos, Self-Hosted Nvidia Cosmos on H200 GPUs",
+    "source_url": "https://twitter.com/manassharmahere/status/2065370878519468221",
+    "source": "hacker_news",
+    "collected_at": "2026-06-12T11:42:38.125834+00:00",
+    "analyzed_at": "2026-06-12T11:42:38.125834+00:00",
+    "summary": "there is still time to submit - https://ship.builders/build something cool, and i would love to catchup on the yacht - if you are in sf and coming..----Yacht Hackathon by Composio, Nebius, Tavily - Pr",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "manas95",
+      "language": null
+    }
+  },
+  {
+    "id": "56d00a44-decd-457e-b407-d5e9a810da07",
+    "title": "From Telehealth MVP to Production-Ready AI Product",
+    "source_url": "https://geekyants.com/blog/from-telehealth-mvp-to-production-ready-ai-product-the-architecture-compliance-and-scaling-roadmap",
+    "source": "hacker_news",
+    "collected_at": "2026-06-12T11:42:39.457810+00:00",
+    "analyzed_at": "2026-06-12T11:42:39.457810+00:00",
+    "summary": "Article URL: https://geekyants.com/blog/from-telehealth-mvp-to-production-ready-ai-product-the-architecture-compliance-and-scaling-roadmap\nComments URL: https://news.ycombinator.com/item?id=48502034\nP",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "shymasen",
+      "language": null
+    }
+  }
+]

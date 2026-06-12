@@ -1,0 +1,66 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-06-12T11:41:57.988541+00:00",
+  "items": [
+    {
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 435,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "cursor-rules",
+        "developer-tools",
+        "llm",
+        "prompt-engineering",
+        "yagni"
+      ]
+    },
+    {
+      "name": "joeseesun/qiaomu-goal-meta-skill",
+      "url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
+      "summary": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
+      "stars": 265,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "khrisat/text-humanizer",
+      "url": "https://github.com/khrisat/text-humanizer",
+      "summary": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
+      "stars": 248,
+      "language": "Python",
+      "topics": [
+        "ai-detection",
+        "ai-detection-bypasser",
+        "ai-humanizer",
+        "humanizer",
+        "humanizer-ai",
+        "humanizer-de",
+        "text-humanizer"
+      ]
+    },
+    {
+      "name": "BuilderIO/skills",
+      "url": "https://github.com/BuilderIO/skills",
+      "summary": "Skills for coding agents",
+      "stars": 234,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "name": "visa/visa-vulnerability-agentic-harness",
+      "url": "https://github.com/visa/visa-vulnerability-agentic-harness",
+      "summary": "Visa Vulnerability Agentic Harness",
+      "stars": 226,
+      "language": "Python",
+      "topics": []
+    }
+  ]
+}
