@@ -1,0 +1,78 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-06-13T10:26:32.882909+00:00",
+  "items": [
+    {
+      "name": "SkyBlue997/enableMacosAI",
+      "url": "https://github.com/SkyBlue997/enableMacosAI",
+      "summary": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
+      "stars": 839,
+      "language": "Shell",
+      "topics": [
+        "apple-intelligence"
+      ]
+    },
+    {
+      "name": "plannotator/effective-html",
+      "url": "https://github.com/plannotator/effective-html",
+      "summary": "Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.",
+      "stars": 617,
+      "language": "HTML",
+      "topics": [
+        "agent-skills",
+        "skills"
+      ]
+    },
+    {
+      "name": "levy-street/world-of-claudecraft",
+      "url": "https://github.com/levy-street/world-of-claudecraft",
+      "summary": "",
+      "stars": 504,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "lenucksi/aur-malware-check",
+      "url": "https://github.com/lenucksi/aur-malware-check",
+      "summary": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
+      "stars": 338,
+      "language": "Shell",
+      "topics": []
+    },
+    {
+      "name": "coder/boo",
+      "url": "https://github.com/coder/boo",
+      "summary": "A GNU screen style terminal multiplexer built on libghostty.",
+      "stars": 309,
+      "language": "Zig",
+      "topics": [
+        "ai",
+        "coding",
+        "ghostty",
+        "multiplexer",
+        "screen",
+        "terminal"
+      ]
+    },
+    {
+      "name": "alchaincyf/fanbox",
+      "url": "https://github.com/alchaincyf/fanbox",
+      "summary": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
+      "stars": 286,
+      "language": "JavaScript",
+      "topics": [
+        "agent",
+        "ai",
+        "claude",
+        "codex",
+        "electron",
+        "file-manager",
+        "local-first",
+        "macos",
+        "terminal",
+        "vibe-coding"
+      ]
+    }
+  ]
+}

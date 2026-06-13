@@ -1,0 +1,128 @@
+[
+  {
+    "id": "6e7187db-5ea9-490a-8b75-5bf8c84a6567",
+    "title": "SkyBlue997/enableMacosAI",
+    "source_url": "https://github.com/SkyBlue997/enableMacosAI",
+    "source": "unknown",
+    "collected_at": "2026-06-13T10:26:40.564203+00:00",
+    "analyzed_at": "2026-06-13T10:26:40.564203+00:00",
+    "summary": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 839,
+      "score": null,
+      "author": null,
+      "language": "Shell"
+    }
+  },
+  {
+    "id": "eda5a738-14d2-4c37-b723-18b8e144086d",
+    "title": "plannotator/effective-html",
+    "source_url": "https://github.com/plannotator/effective-html",
+    "source": "unknown",
+    "collected_at": "2026-06-13T10:26:41.794636+00:00",
+    "analyzed_at": "2026-06-13T10:26:41.794636+00:00",
+    "summary": "Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 617,
+      "score": null,
+      "author": null,
+      "language": "HTML"
+    }
+  },
+  {
+    "id": "4667f553-4f4b-45a2-ba75-aab2fb00c3c1",
+    "title": "levy-street/world-of-claudecraft",
+    "source_url": "https://github.com/levy-street/world-of-claudecraft",
+    "source": "unknown",
+    "collected_at": "2026-06-13T10:26:43.028392+00:00",
+    "analyzed_at": "2026-06-13T10:26:43.028392+00:00",
+    "summary": "",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 504,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "6bc9e556-d560-43e7-8688-1988de5049be",
+    "title": "lenucksi/aur-malware-check",
+    "source_url": "https://github.com/lenucksi/aur-malware-check",
+    "source": "unknown",
+    "collected_at": "2026-06-13T10:26:44.233410+00:00",
+    "analyzed_at": "2026-06-13T10:26:44.233410+00:00",
+    "summary": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 338,
+      "score": null,
+      "author": null,
+      "language": "Shell"
+    }
+  },
+  {
+    "id": "d17e0de2-689b-4926-89bf-6f51ed3c096b",
+    "title": "coder/boo",
+    "source_url": "https://github.com/coder/boo",
+    "source": "unknown",
+    "collected_at": "2026-06-13T10:26:45.439037+00:00",
+    "analyzed_at": "2026-06-13T10:26:45.439037+00:00",
+    "summary": "A GNU screen style terminal multiplexer built on libghostty.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 309,
+      "score": null,
+      "author": null,
+      "language": "Zig"
+    }
+  },
+  {
+    "id": "7359471c-039d-4a41-839f-fda395252aec",
+    "title": "alchaincyf/fanbox",
+    "source_url": "https://github.com/alchaincyf/fanbox",
+    "source": "unknown",
+    "collected_at": "2026-06-13T10:26:46.644919+00:00",
+    "analyzed_at": "2026-06-13T10:26:46.644919+00:00",
+    "summary": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 286,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  }
+]
