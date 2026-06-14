@@ -1,0 +1,422 @@
+[
+  {
+    "id": "b2cfe1df-8d57-40e8-9495-cdb6cc7d4d55",
+    "title": "omnigent-ai/omnigent",
+    "source_url": "https://github.com/omnigent-ai/omnigent",
+    "source": "unknown",
+    "collected_at": "2026-06-14T10:47:15.322288+00:00",
+    "analyzed_at": "2026-06-14T10:47:15.322288+00:00",
+    "summary": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 776,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "bf594abb-ebb0-4eb3-aab6-aab3054664e5",
+    "title": "orange2ai/renwei-writing",
+    "source_url": "https://github.com/orange2ai/renwei-writing",
+    "source": "unknown",
+    "collected_at": "2026-06-14T10:47:16.536945+00:00",
+    "analyzed_at": "2026-06-14T10:47:16.536945+00:00",
+    "summary": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 498,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "a1dd5bb6-4729-4661-ae9f-e6930c11d585",
+    "title": "Show HN: Velyr – an AI agent that finds and fixes conversion leaks on your site",
+    "source_url": "https://velyr.io/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-14T10:47:17.773898+00:00",
+    "analyzed_at": "2026-06-14T10:47:17.773898+00:00",
+    "summary": "Article URL: https://velyr.io/\nComments URL: https://news.ycombinator.com/item?id=48525761\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "flo_r",
+      "language": null
+    }
+  },
+  {
+    "id": "400512f5-2ff7-47e7-97e5-2cd8c179573d",
+    "title": "Ask HN: What problem did AI create at your company that didn't exist before?",
+    "source_url": "https://news.ycombinator.com/item?id=48525718",
+    "source": "hacker_news",
+    "collected_at": "2026-06-14T10:47:18.987438+00:00",
+    "analyzed_at": "2026-06-14T10:47:18.987438+00:00",
+    "summary": "I've worked on a few AI-heavy projects recently and it feels like every team develops a new headache that didn't exist before AI.\nWhat was it for your company?What did you end up doing about it?\n\nComm",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Yatsui",
+      "language": null
+    }
+  },
+  {
+    "id": "a31e1e99-8204-4bc5-8433-0c9eca7e1b99",
+    "title": "It Is Beginning: AI Improves Itself (auth: Sabine Hossenfelder) (+abridgement)",
+    "source_url": "https://www.youtube.com/watch?v=QADKN3hantI",
+    "source": "hacker_news",
+    "collected_at": "2026-06-14T10:47:20.200368+00:00",
+    "analyzed_at": "2026-06-14T10:47:20.200368+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=QADKN3hantI\nComments URL: https://news.ycombinator.com/item?id=48525614\nPoints: 1\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mdp2021",
+      "language": null
+    }
+  },
+  {
+    "id": "aec40696-42de-4082-88d2-f89efd42e355",
+    "title": "Repo-Slopscore: Detecting AI Contributions in Git Repositories via Commit",
+    "source_url": "https://slopscan.ava.pet/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-14T10:47:21.413782+00:00",
+    "analyzed_at": "2026-06-14T10:47:21.413782+00:00",
+    "summary": "Article URL: https://slopscan.ava.pet/\nComments URL: https://news.ycombinator.com/item?id=48525586\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "birdculture",
+      "language": null
+    }
+  },
+  {
+    "id": "2a07ab7f-d9ee-4c31-8aed-73c4a66cbd77",
+    "title": "ExpensePal - AI expense tracker & budget planner",
+    "source_url": "https://play.google.com/store/apps/details?id=com.expenseiq.app&hl=en_US",
+    "source": "hacker_news",
+    "collected_at": "2026-06-14T10:47:22.624946+00:00",
+    "analyzed_at": "2026-06-14T10:47:22.624946+00:00",
+    "summary": "Article URL: https://play.google.com/store/apps/details?id=com.expenseiq.app&amp;hl=en_US\nComments URL: https://news.ycombinator.com/item?id=48525481\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "sandeepannandi",
+      "language": null
+    }
+  },
+  {
+    "id": "f4a69efb-2a52-4747-b2d4-f5adb1d753c3",
+    "title": "AI Slop flooding maths YouTube [video]",
+    "source_url": "https://www.youtube.com/watch?v=mRO_QonhC2c",
+    "source": "hacker_news",
+    "collected_at": "2026-06-14T10:47:23.836192+00:00",
+    "analyzed_at": "2026-06-14T10:47:23.836192+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=mRO_QonhC2c\nComments URL: https://news.ycombinator.com/item?id=48525314\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "soupspaces",
+      "language": null
+    }
+  },
+  {
+    "id": "8feb9a20-851a-4013-b6fd-fda66a4e6e22",
+    "title": "General-purpose large language models outperform specialized clinical AI",
+    "source_url": "https://www.nature.com/articles/s41591-026-04431-5?brid=YWdncwFKdLH5ne5BLVS2Tb5UQSQa&utm_id=97757_v0_s00_e0_tv2_a1demone7v434p",
+    "source": "hacker_news",
+    "collected_at": "2026-06-14T10:47:25.048003+00:00",
+    "analyzed_at": "2026-06-14T10:47:25.048003+00:00",
+    "summary": "Article URL: https://www.nature.com/articles/s41591-026-04431-5?brid=YWdncwFKdLH5ne5BLVS2Tb5UQSQa&amp;utm_id=97757_v0_s00_e0_tv2_a1demone7v434p\nComments URL: https://news.ycombinator.com/item?id=48525",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "doener",
+      "language": null
+    }
+  },
+  {
+    "id": "0d831d4b-9e0e-49eb-a870-47aa961eaff3",
+    "title": "AI inequality: from GPU-poor to token-poor",
+    "source_url": "https://adlrocha.substack.com/p/adlrocha-ai-inequality-from-gpu-poor",
+    "source": "hacker_news",
+    "collected_at": "2026-06-14T10:47:26.260874+00:00",
+    "analyzed_at": "2026-06-14T10:47:26.260874+00:00",
+    "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-ai-inequality-from-gpu-poor\nComments URL: https://news.ycombinator.com/item?id=48525226\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "adlrocha",
+      "language": null
+    }
+  },
+  {
+    "id": "b8c07443-236b-46ee-a1bc-e196f526e0e5",
+    "title": "Show HN: Memoriq – Open-source encrypted vault for saving and searching AI chats",
+    "source_url": "https://github.com/memoriqme/memoriq",
+    "source": "hacker_news",
+    "collected_at": "2026-06-14T10:47:27.478379+00:00",
+    "analyzed_at": "2026-06-14T10:47:27.478379+00:00",
+    "summary": "Article URL: https://github.com/memoriqme/memoriq\nComments URL: https://news.ycombinator.com/item?id=48525220\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "giekaton",
+      "language": null
+    }
+  },
+  {
+    "id": "f0f158b6-09c1-46b6-8af5-d3f5f9b517ba",
+    "title": "AI Is Bringing Mashups Back",
+    "source_url": "https://www.wolfe.id.au/2026/06/12/ai-is-bringing-mashups-back",
+    "source": "hacker_news",
+    "collected_at": "2026-06-14T10:47:28.691595+00:00",
+    "analyzed_at": "2026-06-14T10:47:28.691595+00:00",
+    "summary": "Article URL: https://www.wolfe.id.au/2026/06/12/ai-is-bringing-mashups-back\nComments URL: https://news.ycombinator.com/item?id=48525058\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "markwolfe",
+      "language": null
+    }
+  },
+  {
+    "id": "b4e788ea-f9dd-4214-8b01-67da9cf914c4",
+    "title": "AI Memory Is Still Thinking Like Search",
+    "source_url": "https://medium.com/@jeffreyflynt02/ai-memory-is-still-thinking-like-search-e07566311efe",
+    "source": "hacker_news",
+    "collected_at": "2026-06-14T10:47:29.905385+00:00",
+    "analyzed_at": "2026-06-14T10:47:29.905385+00:00",
+    "summary": "Article URL: https://medium.com/@jeffreyflynt02/ai-memory-is-still-thinking-like-search-e07566311efe\nComments URL: https://news.ycombinator.com/item?id=48525034\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jflynt76",
+      "language": null
+    }
+  },
+  {
+    "id": "5ae44b71-d1cb-4ee5-bd50-8272b30066fa",
+    "title": "Anthropic Is Taking AI Welfare Seriously. I'm Not Sure It Knows What It's Measu",
+    "source_url": "https://www.lesswrong.com/posts/gNtHHCh363xSGJyz3/anthropic-is-taking-ai-welfare-seriously-i-m-not-sure-it",
+    "source": "hacker_news",
+    "collected_at": "2026-06-14T10:47:31.119011+00:00",
+    "analyzed_at": "2026-06-14T10:47:31.119011+00:00",
+    "summary": "Article URL: https://www.lesswrong.com/posts/gNtHHCh363xSGJyz3/anthropic-is-taking-ai-welfare-seriously-i-m-not-sure-it\nComments URL: https://news.ycombinator.com/item?id=48524876\nPoints: 2\n# Comments",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "joozio",
+      "language": null
+    }
+  },
+  {
+    "id": "53f6de00-8fb9-4337-b914-eb3fd79a2eac",
+    "title": "I accidentally hit SOTA on agentic memory by using AI companions",
+    "source_url": "https://graph.coder.company/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-14T10:47:32.332910+00:00",
+    "analyzed_at": "2026-06-14T10:47:32.332910+00:00",
+    "summary": "Article URL: https://graph.coder.company/\nComments URL: https://news.ycombinator.com/item?id=48524870\nPoints: 2\n# Comments: 3",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "vignesh_146",
+      "language": null
+    }
+  },
+  {
+    "id": "c01b7617-92f5-44d7-9c5c-c2448e282bab",
+    "title": "HumanizeHub: A confidential marketplace for humanizing AI content",
+    "source_url": "https://humanizehub.me",
+    "source": "hacker_news",
+    "collected_at": "2026-06-14T10:47:33.545627+00:00",
+    "analyzed_at": "2026-06-14T10:47:33.545627+00:00",
+    "summary": "Article URL: https://humanizehub.me\nComments URL: https://news.ycombinator.com/item?id=48524805\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "cocoglare",
+      "language": null
+    }
+  },
+  {
+    "id": "b2ea50d2-292f-4c4c-b32a-a610049096e5",
+    "title": "While Oracle Will Rake in Big Bucks on AI, Profits Are Hard to Predict",
+    "source_url": "https://www.nextplatform.com/cloud/2026/06/12/while-oracle-will-rake-in-big-bucks-on-ai-profits-are-hard-to-predict/5255098",
+    "source": "hacker_news",
+    "collected_at": "2026-06-14T10:47:34.759600+00:00",
+    "analyzed_at": "2026-06-14T10:47:34.759600+00:00",
+    "summary": "Article URL: https://www.nextplatform.com/cloud/2026/06/12/while-oracle-will-rake-in-big-bucks-on-ai-profits-are-hard-to-predict/5255098\nComments URL: https://news.ycombinator.com/item?id=48524793\nPoi",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rbanffy",
+      "language": null
+    }
+  },
+  {
+    "id": "28a64c07-a26f-47a1-87bc-0fea26a7d8d8",
+    "title": "Sygnet – Hash any document with SHA3-512 and declare your AI usage level",
+    "source_url": "https://mysygnet.com",
+    "source": "hacker_news",
+    "collected_at": "2026-06-14T10:47:35.976409+00:00",
+    "analyzed_at": "2026-06-14T10:47:35.976409+00:00",
+    "summary": "Article URL: https://mysygnet.com\nComments URL: https://news.ycombinator.com/item?id=48524774\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Pistachero",
+      "language": null
+    }
+  },
+  {
+    "id": "bae829d9-07d3-4484-a818-f4b1dffc644c",
+    "title": "Zuckerberg says Meta made 'mistakes' in AI workforce shift",
+    "source_url": "https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-14T10:47:37.192489+00:00",
+    "analyzed_at": "2026-06-14T10:47:37.192489+00:00",
+    "summary": "Article URL: https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12/\nComments URL: https://news.ycombinator.com/item?id=48524772\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jgilias",
+      "language": null
+    }
+  },
+  {
+    "id": "9bca5491-986b-44b9-9deb-973738e06796",
+    "title": "AI: Surgeon's Assistant or Commodity on a Meter?",
+    "source_url": "https://replicated.wiki/blog/stream.html",
+    "source": "hacker_news",
+    "collected_at": "2026-06-14T10:47:38.405123+00:00",
+    "analyzed_at": "2026-06-14T10:47:38.405123+00:00",
+    "summary": "Article URL: https://replicated.wiki/blog/stream.html\nComments URL: https://news.ycombinator.com/item?id=48524534\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "gritzko",
+      "language": null
+    }
+  }
+]

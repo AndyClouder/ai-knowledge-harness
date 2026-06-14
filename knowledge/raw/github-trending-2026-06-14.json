@@ -1,0 +1,23 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-06-14T10:47:11.313306+00:00",
+  "items": [
+    {
+      "name": "omnigent-ai/omnigent",
+      "url": "https://github.com/omnigent-ai/omnigent",
+      "summary": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check",
+      "stars": 776,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "orange2ai/renwei-writing",
+      "url": "https://github.com/orange2ai/renwei-writing",
+      "summary": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
+      "stars": 498,
+      "language": null,
+      "topics": []
+    }
+  ]
+}
