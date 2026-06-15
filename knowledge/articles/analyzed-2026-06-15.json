@@ -1,0 +1,107 @@
+[
+  {
+    "id": "f8809de5-3a86-49d6-9b82-7cc57ffc2685",
+    "title": "kadevin/ilab-gpt-conjure",
+    "source_url": "https://github.com/kadevin/ilab-gpt-conjure",
+    "source": "unknown",
+    "collected_at": "2026-06-15T13:52:40.129896+00:00",
+    "analyzed_at": "2026-06-15T13:52:40.129896+00:00",
+    "summary": "面向 GPT-image-2 的 AI 图片生成 WebUI 工作台，支持 Codex Responses 与 OpenAI 兼容 API 接入，内置公用图库、多类型 Chip 快捷引用、提示词模板、多任务并发和本地队列管理。An AI image generation WebUI workbench for GPT-image-2 with Codex Responses and OpenAI-",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 471,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "e83f4b3e-7343-41da-bc05-45c17b515fa5",
+    "title": "EEliberto/IPA-Download",
+    "source_url": "https://github.com/EEliberto/IPA-Download",
+    "source": "unknown",
+    "collected_at": "2026-06-15T13:52:41.338605+00:00",
+    "analyzed_at": "2026-06-15T13:52:41.338605+00:00",
+    "summary": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 467,
+      "score": null,
+      "author": null,
+      "language": "Swift"
+    }
+  },
+  {
+    "id": "5bee3279-170b-4d10-ba42-ef09f38f3878",
+    "title": "DanMcInerney/architect-loop",
+    "source_url": "https://github.com/DanMcInerney/architect-loop",
+    "source": "unknown",
+    "collected_at": "2026-06-15T13:52:42.545883+00:00",
+    "analyzed_at": "2026-06-15T13:52:42.545883+00:00",
+    "summary": "Claude Fable 5 as architect, GPT-5.5 Codex as builder, the repo as memory - a research-backed Claude Code skill for the cross-vendor agent loop",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 431,
+      "score": null,
+      "author": null,
+      "language": "HTML"
+    }
+  },
+  {
+    "id": "f5279165-4935-48cd-8ed6-e31d703c6de8",
+    "title": "nolangz/pixel2motion",
+    "source_url": "https://github.com/nolangz/pixel2motion",
+    "source": "unknown",
+    "collected_at": "2026-06-15T13:52:43.754447+00:00",
+    "analyzed_at": "2026-06-15T13:52:43.754447+00:00",
+    "summary": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 427,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "916d9349-34ce-46cc-a662-9ca30ceb049d",
+    "title": "inbrainfun/inbrain",
+    "source_url": "https://github.com/inbrainfun/inbrain",
+    "source": "unknown",
+    "collected_at": "2026-06-15T13:52:44.963709+00:00",
+    "analyzed_at": "2026-06-15T13:52:44.963709+00:00",
+    "summary": "",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 383,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-06-15T13:52:36.159093+00:00",
+  "items": [
+    {
+      "name": "kadevin/ilab-gpt-conjure",
+      "url": "https://github.com/kadevin/ilab-gpt-conjure",
+      "summary": "面向 GPT-image-2 的 AI 图片生成 WebUI 工作台，支持 Codex Responses 与 OpenAI 兼容 API 接入，内置公用图库、多类型 Chip 快捷引用、提示词模板、多任务并发和本地队列管理。An AI image generation WebUI workbench for GPT-image-2 with Codex Responses and OpenAI-",
+      "stars": 471,
+      "language": "Python",
+      "topics": [
+        "ai-art",
+        "ai-image-generation",
+        "cli",
+        "codex",
+        "fastapi",
+        "generative-ai",
+        "gpt-image-2",
+        "image-editing",
+        "image-generation",
+        "img2img",
+        "macos",
+        "openai",
+        "openai-compatible",
+        "prompt-engineering",
+        "prompt-templates",
+        "python",
+        "reference-images",
+        "responses-api",
+        "webui",
+        "windows"
+      ]
+    },
+    {
+      "name": "EEliberto/IPA-Download",
+      "url": "https://github.com/EEliberto/IPA-Download",
+      "summary": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
+      "stars": 467,
+      "language": "Swift",
+      "topics": []
+    },
+    {
+      "name": "DanMcInerney/architect-loop",
+      "url": "https://github.com/DanMcInerney/architect-loop",
+      "summary": "Claude Fable 5 as architect, GPT-5.5 Codex as builder, the repo as memory - a research-backed Claude Code skill for the cross-vendor agent loop",
+      "stars": 431,
+      "language": "HTML",
+      "topics": []
+    },
+    {
+      "name": "nolangz/pixel2motion",
+      "url": "https://github.com/nolangz/pixel2motion",
+      "summary": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
+      "stars": 427,
+      "language": "Python",
+      "topics": [
+        "ai-design-tools",
+        "animated-logo",
+        "brand-motion",
+        "claude-skill",
+        "codex-skill",
+        "html-animation",
+        "logo-animation",
+        "logo-motion",
+        "logo-reveal",
+        "motion-design",
+        "pixel-to-svg",
+        "raster-to-svg",
+        "svg-animation",
+        "svg-motion",
+        "vector-animation"
+      ]
+    },
+    {
+      "name": "inbrainfun/inbrain",
+      "url": "https://github.com/inbrainfun/inbrain",
+      "summary": "",
+      "stars": 383,
+      "language": "TypeScript",
+      "topics": []
+    }
+  ]
+}
