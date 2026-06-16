@@ -1,0 +1,39 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-06-16T12:51:26.897112+00:00",
+  "items": [
+    {
+      "name": "vorssaint/vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "summary": "",
+      "stars": 461,
+      "language": "Swift",
+      "topics": []
+    },
+    {
+      "name": "alchaincyf/loop-engineering-orange-book",
+      "url": "https://github.com/alchaincyf/loop-engineering-orange-book",
+      "summary": "别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
+      "stars": 421,
+      "language": null,
+      "topics": []
+    },
+    {
+      "name": "mrtooher/fable-mode",
+      "url": "https://github.com/mrtooher/fable-mode",
+      "summary": "A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
+      "stars": 418,
+      "language": null,
+      "topics": []
+    },
+    {
+      "name": "fguzman82/gateGPT",
+      "url": "https://github.com/fguzman82/gateGPT",
+      "summary": "Full Transformer into a custom chip. microGPT in RTL, generating names on a Virtex-5 FPGA at ~56k tokens/second.",
+      "stars": 369,
+      "language": "Verilog",
+      "topics": []
+    }
+  ]
+}

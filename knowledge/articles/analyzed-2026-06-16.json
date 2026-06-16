@@ -1,0 +1,86 @@
+[
+  {
+    "id": "aca2591e-d8f1-4192-a66a-5b9356af0d92",
+    "title": "vorssaint/vorssaint-utils",
+    "source_url": "https://github.com/vorssaint/vorssaint-utils",
+    "source": "unknown",
+    "collected_at": "2026-06-16T12:51:30.100007+00:00",
+    "analyzed_at": "2026-06-16T12:51:30.100007+00:00",
+    "summary": "",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 461,
+      "score": null,
+      "author": null,
+      "language": "Swift"
+    }
+  },
+  {
+    "id": "6ba38f3d-e601-4bb8-a407-50a6c9b1963d",
+    "title": "alchaincyf/loop-engineering-orange-book",
+    "source_url": "https://github.com/alchaincyf/loop-engineering-orange-book",
+    "source": "unknown",
+    "collected_at": "2026-06-16T12:51:31.439424+00:00",
+    "analyzed_at": "2026-06-16T12:51:31.439424+00:00",
+    "summary": "别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 421,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "c21e4268-4be4-4e01-933b-44bf322f488c",
+    "title": "mrtooher/fable-mode",
+    "source_url": "https://github.com/mrtooher/fable-mode",
+    "source": "unknown",
+    "collected_at": "2026-06-16T12:51:32.778791+00:00",
+    "analyzed_at": "2026-06-16T12:51:32.778791+00:00",
+    "summary": "A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 418,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "068778ca-086d-4bdd-af6b-f03a708f64b6",
+    "title": "fguzman82/gateGPT",
+    "source_url": "https://github.com/fguzman82/gateGPT",
+    "source": "unknown",
+    "collected_at": "2026-06-16T12:51:34.118177+00:00",
+    "analyzed_at": "2026-06-16T12:51:34.118177+00:00",
+    "summary": "Full Transformer into a custom chip. microGPT in RTL, generating names on a Virtex-5 FPGA at ~56k tokens/second.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 369,
+      "score": null,
+      "author": null,
+      "language": "Verilog"
+    }
+  }
+]
