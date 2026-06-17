@@ -1,0 +1,44 @@
+[
+  {
+    "id": "21418a9e-3019-44db-a179-00f6017e5093",
+    "title": "Plaer1/junction",
+    "source_url": "https://github.com/Plaer1/junction",
+    "source": "unknown",
+    "collected_at": "2026-06-17T12:14:26.586250+00:00",
+    "analyzed_at": "2026-06-17T12:14:26.586250+00:00",
+    "summary": "VS Code chat sidebar for local AI coding agents",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 496,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "c5da1e30-3cc9-4feb-8a6e-695a4e64f4f9",
+    "title": "fivetaku/fablize",
+    "source_url": "https://github.com/fivetaku/fablize",
+    "source": "unknown",
+    "collected_at": "2026-06-17T12:14:27.875466+00:00",
+    "analyzed_at": "2026-06-17T12:14:27.875466+00:00",
+    "summary": "A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 388,
+      "score": null,
+      "author": null,
+      "language": "Shell"
+    }
+  }
+]

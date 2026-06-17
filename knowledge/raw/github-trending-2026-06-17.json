@@ -1,0 +1,31 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-06-17T12:14:18.290823+00:00",
+  "items": [
+    {
+      "name": "Plaer1/junction",
+      "url": "https://github.com/Plaer1/junction",
+      "summary": "VS Code chat sidebar for local AI coding agents",
+      "stars": 496,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "fivetaku/fablize",
+      "url": "https://github.com/fivetaku/fablize",
+      "summary": "A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.",
+      "stars": 388,
+      "language": "Shell",
+      "topics": [
+        "agentic",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "fable",
+        "harness",
+        "opus"
+      ]
+    }
+  ]
+}
