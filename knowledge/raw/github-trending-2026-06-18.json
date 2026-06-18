@@ -1,0 +1,82 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-06-18T11:49:02.759559+00:00",
+  "items": [
+    {
+      "name": "vercel/eve",
+      "url": "https://github.com/vercel/eve",
+      "summary": "The Framework for Building Agents",
+      "stars": 1101,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "framework",
+        "harness",
+        "javascript",
+        "markdown",
+        "sandbox",
+        "typescript",
+        "vercel",
+        "workflows"
+      ]
+    },
+    {
+      "name": "Waishnav/devspace",
+      "url": "https://github.com/Waishnav/devspace",
+      "summary": "Turn ChatGPT into Codex",
+      "stars": 547,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "TestSprite/testsprite-cli",
+      "url": "https://github.com/TestSprite/testsprite-cli",
+      "summary": "Official TestSprite CLI — AI-powered automated testing from your terminal",
+      "stars": 459,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "cli",
+        "e2e-testing",
+        "playwright",
+        "qa",
+        "test-automation",
+        "testing"
+      ]
+    },
+    {
+      "name": "LearnPrompt/luban-skill",
+      "url": "https://github.com/LearnPrompt/luban-skill",
+      "summary": "鲁班 | Luban — 把'能用的Skill'打磨成'能被装、能传播、能验证、能进化'的公共资产。Agent skill-polishing workshop: 验料·访行·过尺·慢刨·回炉",
+      "stars": 401,
+      "language": "Shell",
+      "topics": []
+    },
+    {
+      "name": "Nanako0129/coralline",
+      "url": "https://github.com/Nanako0129/coralline",
+      "summary": "🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it",
+      "stars": 367,
+      "language": "Shell",
+      "topics": [
+        "bash",
+        "claude",
+        "claude-code",
+        "nerd-fonts",
+        "powerlevel10k",
+        "statusline",
+        "terminal",
+        "vibe-coding"
+      ]
+    },
+    {
+      "name": "duolahypercho/fusion-fable",
+      "url": "https://github.com/duolahypercho/fusion-fable",
+      "summary": "Fuse two frontier models into one Fable-tier answer: Opus 4.8 drafts, a second model (Opus 4.8 or GPT-5.5 via codex) checks, Opus fuses. A Claude Code skill.",
+      "stars": 359,
+      "language": "Shell",
+      "topics": []
+    }
+  ]
+}

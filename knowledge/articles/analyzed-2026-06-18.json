@@ -1,0 +1,422 @@
+[
+  {
+    "id": "f405d53c-ccd0-42c7-a5c6-61e308e45844",
+    "title": "vercel/eve",
+    "source_url": "https://github.com/vercel/eve",
+    "source": "unknown",
+    "collected_at": "2026-06-18T11:49:07.102285+00:00",
+    "analyzed_at": "2026-06-18T11:49:07.102285+00:00",
+    "summary": "The Framework for Building Agents",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1101,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "f208e028-c4ee-493e-bdb1-863fcc879e7d",
+    "title": "Waishnav/devspace",
+    "source_url": "https://github.com/Waishnav/devspace",
+    "source": "unknown",
+    "collected_at": "2026-06-18T11:49:08.336699+00:00",
+    "analyzed_at": "2026-06-18T11:49:08.336699+00:00",
+    "summary": "Turn ChatGPT into Codex",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 547,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "d51291dc-24d3-4a52-b584-a22fde06878b",
+    "title": "TestSprite/testsprite-cli",
+    "source_url": "https://github.com/TestSprite/testsprite-cli",
+    "source": "unknown",
+    "collected_at": "2026-06-18T11:49:09.569470+00:00",
+    "analyzed_at": "2026-06-18T11:49:09.569470+00:00",
+    "summary": "Official TestSprite CLI — AI-powered automated testing from your terminal",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 459,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "ed8eecd9-f39c-4947-89dd-f21fd400985a",
+    "title": "LearnPrompt/luban-skill",
+    "source_url": "https://github.com/LearnPrompt/luban-skill",
+    "source": "unknown",
+    "collected_at": "2026-06-18T11:49:10.803508+00:00",
+    "analyzed_at": "2026-06-18T11:49:10.803508+00:00",
+    "summary": "鲁班 | Luban — 把'能用的Skill'打磨成'能被装、能传播、能验证、能进化'的公共资产。Agent skill-polishing workshop: 验料·访行·过尺·慢刨·回炉",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 401,
+      "score": null,
+      "author": null,
+      "language": "Shell"
+    }
+  },
+  {
+    "id": "9fecb8e1-3148-4ed7-9e41-2ce1ea49b0ab",
+    "title": "Nanako0129/coralline",
+    "source_url": "https://github.com/Nanako0129/coralline",
+    "source": "unknown",
+    "collected_at": "2026-06-18T11:49:12.039242+00:00",
+    "analyzed_at": "2026-06-18T11:49:12.039242+00:00",
+    "summary": "🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 367,
+      "score": null,
+      "author": null,
+      "language": "Shell"
+    }
+  },
+  {
+    "id": "aa64e620-17e2-43b0-9a2f-f7a41c22927b",
+    "title": "duolahypercho/fusion-fable",
+    "source_url": "https://github.com/duolahypercho/fusion-fable",
+    "source": "unknown",
+    "collected_at": "2026-06-18T11:49:13.298071+00:00",
+    "analyzed_at": "2026-06-18T11:49:13.298071+00:00",
+    "summary": "Fuse two frontier models into one Fable-tier answer: Opus 4.8 drafts, a second model (Opus 4.8 or GPT-5.5 via codex) checks, Opus fuses. A Claude Code skill.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 359,
+      "score": null,
+      "author": null,
+      "language": "Shell"
+    }
+  },
+  {
+    "id": "a65ae246-c57d-41f1-9f04-9e4af7fdab83",
+    "title": "Towards Conversational AI for Disease Management",
+    "source_url": "https://www.nature.com/articles/s41586-026-10764-5",
+    "source": "hacker_news",
+    "collected_at": "2026-06-18T11:49:14.532618+00:00",
+    "analyzed_at": "2026-06-18T11:49:14.532618+00:00",
+    "summary": "Article URL: https://www.nature.com/articles/s41586-026-10764-5\nComments URL: https://news.ycombinator.com/item?id=48583801\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "hdvr",
+      "language": null
+    }
+  },
+  {
+    "id": "a016f8ec-f7ec-4f7a-bff6-bcf00c383e69",
+    "title": "SlopTacker: The AI Streaming Drain",
+    "source_url": "https://sloptracker.org",
+    "source": "hacker_news",
+    "collected_at": "2026-06-18T11:49:15.769893+00:00",
+    "analyzed_at": "2026-06-18T11:49:15.769893+00:00",
+    "summary": "Article URL: https://sloptracker.org\nComments URL: https://news.ycombinator.com/item?id=48583721\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rot256",
+      "language": null
+    }
+  },
+  {
+    "id": "38f369ca-1617-4edd-bdb7-8e2da6ec263b",
+    "title": "Ruby 4.0 Is Here. Why Is AI Still Writing Ruby 3.0?",
+    "source_url": "https://rubystacknews.com/2026/06/17/ruby-4-0-is-here-why-is-ai-still-writing-ruby-3-0/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-18T11:49:17.002552+00:00",
+    "analyzed_at": "2026-06-18T11:49:17.002552+00:00",
+    "summary": "Article URL: https://rubystacknews.com/2026/06/17/ruby-4-0-is-here-why-is-ai-still-writing-ruby-3-0/\nComments URL: https://news.ycombinator.com/item?id=48583675\nPoints: 1\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "doppp",
+      "language": null
+    }
+  },
+  {
+    "id": "928438c8-8224-450b-b882-ff76e5fa23c5",
+    "title": "Show HN: Khwand – self-healing CI/CD for AI agents (GitHub App, Python-first)",
+    "source_url": "https://wwww.khwand.com",
+    "source": "hacker_news",
+    "collected_at": "2026-06-18T11:49:18.264243+00:00",
+    "analyzed_at": "2026-06-18T11:49:18.264243+00:00",
+    "summary": "Article URL: https://wwww.khwand.com\nComments URL: https://news.ycombinator.com/item?id=48583535\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "FahadHafeezOff",
+      "language": null
+    }
+  },
+  {
+    "id": "f898e2cc-b605-4222-b29e-daa4eee7042b",
+    "title": "An Interview with Michael Morton About E-Commerce in the Age of AI",
+    "source_url": "https://stratechery.com/2026/an-interview-with-michael-morton-about-e-commerce-in-the-age-of-ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-18T11:49:19.519093+00:00",
+    "analyzed_at": "2026-06-18T11:49:19.519093+00:00",
+    "summary": "Article URL: https://stratechery.com/2026/an-interview-with-michael-morton-about-e-commerce-in-the-age-of-ai/\nComments URL: https://news.ycombinator.com/item?id=48583490\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "swolpers",
+      "language": null
+    }
+  },
+  {
+    "id": "a4eda569-bdc4-45a8-96d2-794e11bfe155",
+    "title": "Unreal Engine 5.8 adds MCP server for AI agents",
+    "source_url": "https://www.unrealengine.com/news/unreal-engine-5-8-is-now-available",
+    "source": "hacker_news",
+    "collected_at": "2026-06-18T11:49:20.776697+00:00",
+    "analyzed_at": "2026-06-18T11:49:20.776697+00:00",
+    "summary": "Article URL: https://www.unrealengine.com/news/unreal-engine-5-8-is-now-available\nComments URL: https://news.ycombinator.com/item?id=48583236\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "bardonadam",
+      "language": null
+    }
+  },
+  {
+    "id": "f1e4177a-097d-45c1-b29b-18d30a049bb9",
+    "title": "The Enterprise AI Harness War",
+    "source_url": "https://sjg.io/writing/gen-5-ai-enterprise-harness-war/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-18T11:49:22.010206+00:00",
+    "analyzed_at": "2026-06-18T11:49:22.010206+00:00",
+    "summary": "Article URL: https://sjg.io/writing/gen-5-ai-enterprise-harness-war/\nComments URL: https://news.ycombinator.com/item?id=48583235\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "simonjgreen",
+      "language": null
+    }
+  },
+  {
+    "id": "d295f817-a460-4d13-9238-a1a215fd9434",
+    "title": "A self-organizing Obsidian Vault powered by autonomous AI agents",
+    "source_url": "https://github.com/ibrahimkobeissy/ai-second-brain-template",
+    "source": "hacker_news",
+    "collected_at": "2026-06-18T11:49:23.244394+00:00",
+    "analyzed_at": "2026-06-18T11:49:23.244394+00:00",
+    "summary": "Article URL: https://github.com/ibrahimkobeissy/ai-second-brain-template\nComments URL: https://news.ycombinator.com/item?id=48583182\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "koubeissy_i",
+      "language": null
+    }
+  },
+  {
+    "id": "833a9dbd-2234-40cf-b30d-8ba621a0a7df",
+    "title": "AI Tokenmaxxing and Hypomania",
+    "source_url": "https://news.ycombinator.com/item?id=48583140",
+    "source": "hacker_news",
+    "collected_at": "2026-06-18T11:49:24.525238+00:00",
+    "analyzed_at": "2026-06-18T11:49:24.525238+00:00",
+    "summary": "Been thinking about the whole ‘tokenmaxxing’ thing going on within companies. Couldn’t shake the feeling that it has all the symptoms of a mass hypomania. Now that ideas are churned, validated, and ev",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "karthikeyankc",
+      "language": null
+    }
+  },
+  {
+    "id": "38eae8c5-d0e9-43b2-afb8-ddd9e3066672",
+    "title": "Agentic AI, Biology, and What Remains Human",
+    "source_url": "https://dvitsios.org/2026/06/17/agentic-ai-biology-and-what-remains-human/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-18T11:49:25.760677+00:00",
+    "analyzed_at": "2026-06-18T11:49:25.760677+00:00",
+    "summary": "Article URL: https://dvitsios.org/2026/06/17/agentic-ai-biology-and-what-remains-human/\nComments URL: https://news.ycombinator.com/item?id=48583111\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "djif",
+      "language": null
+    }
+  },
+  {
+    "id": "8c818d31-330d-4f19-9c51-3c8e6bd798e9",
+    "title": "Botsitting, botshitting, and the hidden human labor of AI at work",
+    "source_url": "https://www.glean.com/work-ai-institute/reports/work-ai-index-report",
+    "source": "hacker_news",
+    "collected_at": "2026-06-18T11:49:26.994530+00:00",
+    "analyzed_at": "2026-06-18T11:49:26.994530+00:00",
+    "summary": "Article URL: https://www.glean.com/work-ai-institute/reports/work-ai-index-report\nComments URL: https://news.ycombinator.com/item?id=48583097\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "trueduke",
+      "language": null
+    }
+  },
+  {
+    "id": "e63a6595-5ca1-439c-8bec-cd31b4ec11b5",
+    "title": "\"I met a founder who writes 10k lines of code a day thanks to AI\"",
+    "source_url": "https://xcancel.com/paulg/status/1953289830982664236",
+    "source": "hacker_news",
+    "collected_at": "2026-06-18T11:49:28.227836+00:00",
+    "analyzed_at": "2026-06-18T11:49:28.227836+00:00",
+    "summary": "Article URL: https://xcancel.com/paulg/status/1953289830982664236\nComments URL: https://news.ycombinator.com/item?id=48583052\nPoints: 3\n# Comments: 3",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "kklisura",
+      "language": null
+    }
+  },
+  {
+    "id": "4b17a529-5df7-4917-b466-7442fbedb305",
+    "title": "AI reshapes global labour market into two distinct paths, rewarding human skills",
+    "source_url": "https://www.pwc.com/gx/en/news-room/press-releases/2026/pwc-2026-ai-jobs-barometer.html",
+    "source": "hacker_news",
+    "collected_at": "2026-06-18T11:49:29.461494+00:00",
+    "analyzed_at": "2026-06-18T11:49:29.461494+00:00",
+    "summary": "Article URL: https://www.pwc.com/gx/en/news-room/press-releases/2026/pwc-2026-ai-jobs-barometer.html\nComments URL: https://news.ycombinator.com/item?id=48583026\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "layer8",
+      "language": null
+    }
+  },
+  {
+    "id": "8f47f633-0654-4f99-91d8-5a6c77caf816",
+    "title": "I built a suite of 8 AI tools with $0/month in API costs using Nvidia Nim",
+    "source_url": "https://jobeasyapply.com/blog/how-i-built-8-ai-tools-for-0-dollars-with-nvidia-nim",
+    "source": "hacker_news",
+    "collected_at": "2026-06-18T11:49:30.693843+00:00",
+    "analyzed_at": "2026-06-18T11:49:30.693843+00:00",
+    "summary": "Article URL: https://jobeasyapply.com/blog/how-i-built-8-ai-tools-for-0-dollars-with-nvidia-nim\nComments URL: https://news.ycombinator.com/item?id=48582980\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Maazkhanxo",
+      "language": null
+    }
+  }
+]

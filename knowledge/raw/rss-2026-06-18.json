@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-06-18T11:49:05.298323+00:00",
+  "items": [
+    {
+      "name": "Towards Conversational AI for Disease Management",
+      "url": "https://www.nature.com/articles/s41586-026-10764-5",
+      "summary": "Article URL: https://www.nature.com/articles/s41586-026-10764-5\nComments URL: https://news.ycombinator.com/item?id=48583801\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "hdvr",
+      "published": "Thu, 18 Jun 2026 11:31:04 +0000"
+    },
+    {
+      "name": "SlopTacker: The AI Streaming Drain",
+      "url": "https://sloptracker.org",
+      "summary": "Article URL: https://sloptracker.org\nComments URL: https://news.ycombinator.com/item?id=48583721\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rot256",
+      "published": "Thu, 18 Jun 2026 11:22:16 +0000"
+    },
+    {
+      "name": "Ruby 4.0 Is Here. Why Is AI Still Writing Ruby 3.0?",
+      "url": "https://rubystacknews.com/2026/06/17/ruby-4-0-is-here-why-is-ai-still-writing-ruby-3-0/",
+      "summary": "Article URL: https://rubystacknews.com/2026/06/17/ruby-4-0-is-here-why-is-ai-still-writing-ruby-3-0/\nComments URL: https://news.ycombinator.com/item?id=48583675\nPoints: 1\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "doppp",
+      "published": "Thu, 18 Jun 2026 11:15:59 +0000"
+    },
+    {
+      "name": "Show HN: Khwand – self-healing CI/CD for AI agents (GitHub App, Python-first)",
+      "url": "https://wwww.khwand.com",
+      "summary": "Article URL: https://wwww.khwand.com\nComments URL: https://news.ycombinator.com/item?id=48583535\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "FahadHafeezOff",
+      "published": "Thu, 18 Jun 2026 10:55:32 +0000"
+    },
+    {
+      "name": "An Interview with Michael Morton About E-Commerce in the Age of AI",
+      "url": "https://stratechery.com/2026/an-interview-with-michael-morton-about-e-commerce-in-the-age-of-ai/",
+      "summary": "Article URL: https://stratechery.com/2026/an-interview-with-michael-morton-about-e-commerce-in-the-age-of-ai/\nComments URL: https://news.ycombinator.com/item?id=48583490\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "swolpers",
+      "published": "Thu, 18 Jun 2026 10:48:52 +0000"
+    },
+    {
+      "name": "Unreal Engine 5.8 adds MCP server for AI agents",
+      "url": "https://www.unrealengine.com/news/unreal-engine-5-8-is-now-available",
+      "summary": "Article URL: https://www.unrealengine.com/news/unreal-engine-5-8-is-now-available\nComments URL: https://news.ycombinator.com/item?id=48583236\nPoints: 4\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "bardonadam",
+      "published": "Thu, 18 Jun 2026 10:12:16 +0000"
+    },
+    {
+      "name": "The Enterprise AI Harness War",
+      "url": "https://sjg.io/writing/gen-5-ai-enterprise-harness-war/",
+      "summary": "Article URL: https://sjg.io/writing/gen-5-ai-enterprise-harness-war/\nComments URL: https://news.ycombinator.com/item?id=48583235\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "simonjgreen",
+      "published": "Thu, 18 Jun 2026 10:12:15 +0000"
+    },
+    {
+      "name": "A self-organizing Obsidian Vault powered by autonomous AI agents",
+      "url": "https://github.com/ibrahimkobeissy/ai-second-brain-template",
+      "summary": "Article URL: https://github.com/ibrahimkobeissy/ai-second-brain-template\nComments URL: https://news.ycombinator.com/item?id=48583182\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "koubeissy_i",
+      "published": "Thu, 18 Jun 2026 10:04:59 +0000"
+    },
+    {
+      "name": "AI Tokenmaxxing and Hypomania",
+      "url": "https://news.ycombinator.com/item?id=48583140",
+      "summary": "Been thinking about the whole ‘tokenmaxxing’ thing going on within companies. Couldn’t shake the feeling that it has all the symptoms of a mass hypomania. Now that ideas are churned, validated, and ev",
+      "source": "hacker_news",
+      "score": null,
+      "author": "karthikeyankc",
+      "published": "Thu, 18 Jun 2026 09:59:48 +0000"
+    },
+    {
+      "name": "Agentic AI, Biology, and What Remains Human",
+      "url": "https://dvitsios.org/2026/06/17/agentic-ai-biology-and-what-remains-human/",
+      "summary": "Article URL: https://dvitsios.org/2026/06/17/agentic-ai-biology-and-what-remains-human/\nComments URL: https://news.ycombinator.com/item?id=48583111\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "djif",
+      "published": "Thu, 18 Jun 2026 09:54:49 +0000"
+    },
+    {
+      "name": "Botsitting, botshitting, and the hidden human labor of AI at work",
+      "url": "https://www.glean.com/work-ai-institute/reports/work-ai-index-report",
+      "summary": "Article URL: https://www.glean.com/work-ai-institute/reports/work-ai-index-report\nComments URL: https://news.ycombinator.com/item?id=48583097\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "trueduke",
+      "published": "Thu, 18 Jun 2026 09:51:01 +0000"
+    },
+    {
+      "name": "\"I met a founder who writes 10k lines of code a day thanks to AI\"",
+      "url": "https://xcancel.com/paulg/status/1953289830982664236",
+      "summary": "Article URL: https://xcancel.com/paulg/status/1953289830982664236\nComments URL: https://news.ycombinator.com/item?id=48583052\nPoints: 3\n# Comments: 3",
+      "source": "hacker_news",
+      "score": null,
+      "author": "kklisura",
+      "published": "Thu, 18 Jun 2026 09:45:34 +0000"
+    },
+    {
+      "name": "AI reshapes global labour market into two distinct paths, rewarding human skills",
+      "url": "https://www.pwc.com/gx/en/news-room/press-releases/2026/pwc-2026-ai-jobs-barometer.html",
+      "summary": "Article URL: https://www.pwc.com/gx/en/news-room/press-releases/2026/pwc-2026-ai-jobs-barometer.html\nComments URL: https://news.ycombinator.com/item?id=48583026\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "layer8",
+      "published": "Thu, 18 Jun 2026 09:39:17 +0000"
+    },
+    {
+      "name": "I built a suite of 8 AI tools with $0/month in API costs using Nvidia Nim",
+      "url": "https://jobeasyapply.com/blog/how-i-built-8-ai-tools-for-0-dollars-with-nvidia-nim",
+      "summary": "Article URL: https://jobeasyapply.com/blog/how-i-built-8-ai-tools-for-0-dollars-with-nvidia-nim\nComments URL: https://news.ycombinator.com/item?id=48582980\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Maazkhanxo",
+      "published": "Thu, 18 Jun 2026 09:35:09 +0000"
+    },
+    {
+      "name": "TongFlow, a free open-source multi-modal AI workflow studio",
+      "url": "https://github.com/user-attachments/assets/407a7e7b-2d44-4c90-8016-33d0a9f5e7d5",
+      "summary": "Article URL: https://github.com/user-attachments/assets/407a7e7b-2d44-4c90-8016-33d0a9f5e7d5\nComments URL: https://news.ycombinator.com/item?id=48582806\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "tong-io",
+      "published": "Thu, 18 Jun 2026 09:09:39 +0000"
+    },
+    {
+      "name": "World leaders want American AI. They just don't want America to turn it off",
+      "url": "https://www.techsentiments.com/article/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-tu-4f8d",
+      "summary": "Article URL: https://www.techsentiments.com/article/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-tu-4f8d\nComments URL: https://news.ycombinator.com/item?id=48582",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rajsuper123",
+      "published": "Thu, 18 Jun 2026 08:58:39 +0000"
+    },
+    {
+      "name": "Midjourney Medical goes from AI image generation to full-body ultrasounds",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan\nComments URL: https://news.ycombinator.com/item?id=48582630\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "JeanKage",
+      "published": "Thu, 18 Jun 2026 08:48:01 +0000"
+    },
+    {
+      "name": "AI Dungeons: How Caching and Optimized Context Works",
+      "url": "https://old.reddit.com/r/AIDungeon/comments/1u6xn1n/how_caching_and_optimized_context_works/",
+      "summary": "Article URL: https://old.reddit.com/r/AIDungeon/comments/1u6xn1n/how_caching_and_optimized_context_works/\nComments URL: https://news.ycombinator.com/item?id=48582551\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "doener",
+      "published": "Thu, 18 Jun 2026 08:38:57 +0000"
+    },
+    {
+      "name": "Show HN: Meeting Notes Sync – import transcripts and AI summaries into Obsidian",
+      "url": "https://community.obsidian.md/plugins/meeting-notes-sync",
+      "summary": "Article URL: https://community.obsidian.md/plugins/meeting-notes-sync\nComments URL: https://news.ycombinator.com/item?id=48582509\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "andreagrandi",
+      "published": "Thu, 18 Jun 2026 08:34:11 +0000"
+    },
+    {
+      "name": "A 7-person team stopped screenshotting their AI-generated HTML",
+      "url": "https://display.dev/customers/indigo-engineering",
+      "summary": "Article URL: https://display.dev/customers/indigo-engineering\nComments URL: https://news.ycombinator.com/item?id=48582440\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ottilves",
+      "published": "Thu, 18 Jun 2026 08:25:44 +0000"
+    }
+  ]
+}
