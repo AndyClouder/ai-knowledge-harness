@@ -1,0 +1,77 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-06-19T12:03:57.522324+00:00",
+  "items": [
+    {
+      "name": "rebel0789/codexpro",
+      "url": "https://github.com/rebel0789/codexpro",
+      "summary": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+      "stars": 419,
+      "language": "TypeScript",
+      "topics": [
+        "apps-sdk",
+        "chatgpt",
+        "cloudflare-tunnel",
+        "codex",
+        "local-development",
+        "mcp",
+        "ngrok"
+      ]
+    },
+    {
+      "name": "dzcmemory-web/bazi-ziwei-skill",
+      "url": "https://github.com/dzcmemory-web/bazi-ziwei-skill",
+      "summary": "AI 八字 + 紫微斗数排盘与综合印证 Skill：算法精准排盘（不靠 LLM 猜），三种分析模式，一键生成水墨风 HTML 命盘海报。兼容 Claude / Codex / Cursor / Workbuddy 等 SKILL.md Agent。",
+      "stars": 413,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "bazi",
+        "bazi-suanming",
+        "chinese-astrology",
+        "claude-skill",
+        "fortune-telling",
+        "metaphysics",
+        "skill-md",
+        "ziwei",
+        "ziwei-doushu"
+      ]
+    },
+    {
+      "name": "eli-labz/Third-Eye",
+      "url": "https://github.com/eli-labz/Third-Eye",
+      "summary": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
+      "stars": 378,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "geospatial",
+        "maven-smart-system",
+        "palantir"
+      ]
+    },
+    {
+      "name": "privatenumber/mac-ocr",
+      "url": "https://github.com/privatenumber/mac-ocr",
+      "summary": "macOS CLI for OCR and searchable PDFs using Apple's Vision framework",
+      "stars": 373,
+      "language": "Swift",
+      "topics": [
+        "apple-vision",
+        "cli",
+        "command-line-tool",
+        "image-to-text",
+        "macos",
+        "nodejs",
+        "ocr",
+        "pdf",
+        "searchable-pdf",
+        "swift",
+        "text-recognition",
+        "vision-framework"
+      ]
+    }
+  ]
+}

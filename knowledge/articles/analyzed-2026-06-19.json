@@ -1,0 +1,86 @@
+[
+  {
+    "id": "dbdd3c1f-16db-4a2d-baf7-f057bfa84449",
+    "title": "rebel0789/codexpro",
+    "source_url": "https://github.com/rebel0789/codexpro",
+    "source": "unknown",
+    "collected_at": "2026-06-19T12:04:03.698363+00:00",
+    "analyzed_at": "2026-06-19T12:04:03.698363+00:00",
+    "summary": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 419,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "8b6c0ee6-504e-4c0c-9f85-7ac444942301",
+    "title": "dzcmemory-web/bazi-ziwei-skill",
+    "source_url": "https://github.com/dzcmemory-web/bazi-ziwei-skill",
+    "source": "unknown",
+    "collected_at": "2026-06-19T12:04:05.031389+00:00",
+    "analyzed_at": "2026-06-19T12:04:05.031389+00:00",
+    "summary": "AI 八字 + 紫微斗数排盘与综合印证 Skill：算法精准排盘（不靠 LLM 猜），三种分析模式，一键生成水墨风 HTML 命盘海报。兼容 Claude / Codex / Cursor / Workbuddy 等 SKILL.md Agent。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 413,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "a48cd2a1-3a9d-44d1-ae0d-bfef6f84367d",
+    "title": "eli-labz/Third-Eye",
+    "source_url": "https://github.com/eli-labz/Third-Eye",
+    "source": "unknown",
+    "collected_at": "2026-06-19T12:04:06.356498+00:00",
+    "analyzed_at": "2026-06-19T12:04:06.356498+00:00",
+    "summary": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 378,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "8dc9c571-ab09-402f-8e9d-a57ed5a4c9e6",
+    "title": "privatenumber/mac-ocr",
+    "source_url": "https://github.com/privatenumber/mac-ocr",
+    "source": "unknown",
+    "collected_at": "2026-06-19T12:04:07.682281+00:00",
+    "analyzed_at": "2026-06-19T12:04:07.682281+00:00",
+    "summary": "macOS CLI for OCR and searchable PDFs using Apple's Vision framework",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 373,
+      "score": null,
+      "author": null,
+      "language": "Swift"
+    }
+  }
+]
