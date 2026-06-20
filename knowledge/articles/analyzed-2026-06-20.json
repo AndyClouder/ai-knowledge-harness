@@ -1,0 +1,170 @@
+[
+  {
+    "id": "977dfd9c-0faa-43ba-b308-f23f7405958c",
+    "title": "dongshuyan/compass-skills",
+    "source_url": "https://github.com/dongshuyan/compass-skills",
+    "source": "unknown",
+    "collected_at": "2026-06-20T10:31:13.896920+00:00",
+    "analyzed_at": "2026-06-20T10:31:13.896920+00:00",
+    "summary": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 389,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "50d054a5-e79c-4658-afab-05c7ca4438fb",
+    "title": "Forsy-AI/agent-apprenticeship",
+    "source_url": "https://github.com/Forsy-AI/agent-apprenticeship",
+    "source": "unknown",
+    "collected_at": "2026-06-20T10:31:15.218682+00:00",
+    "analyzed_at": "2026-06-20T10:31:15.218682+00:00",
+    "summary": "The living ecosystem for AI agents learning from real-world work through iterative loops and training-signal exchange.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 363,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "ebc9c40c-f37a-4740-92a8-2fa0af581a17",
+    "title": "majidmanzarpour/threejs-game-skills",
+    "source_url": "https://github.com/majidmanzarpour/threejs-game-skills",
+    "source": "unknown",
+    "collected_at": "2026-06-20T10:31:16.536783+00:00",
+    "analyzed_at": "2026-06-20T10:31:16.536783+00:00",
+    "summary": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 363,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "4e09903c-2b61-489c-92e8-9eba8cb0dbf2",
+    "title": "MstKail/polymarket-trading-bot-services-polyedge365",
+    "source_url": "https://github.com/MstKail/polymarket-trading-bot-services-polyedge365",
+    "source": "unknown",
+    "collected_at": "2026-06-20T10:31:17.852422+00:00",
+    "analyzed_at": "2026-06-20T10:31:17.852422+00:00",
+    "summary": "polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polyma",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 335,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "3fad2bcf-4a42-49f0-898d-99e3b0b69d0c",
+    "title": "baskduf/FableCodex",
+    "source_url": "https://github.com/baskduf/FableCodex",
+    "source": "unknown",
+    "collected_at": "2026-06-20T10:31:19.167794+00:00",
+    "analyzed_at": "2026-06-20T10:31:19.167794+00:00",
+    "summary": "🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 321,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "002e1312-51dd-4909-9ad8-6b44ffb679a5",
+    "title": "nnecrkvenuOX/formcms",
+    "source_url": "https://github.com/nnecrkvenuOX/formcms",
+    "source": "unknown",
+    "collected_at": "2026-06-20T10:31:20.487205+00:00",
+    "analyzed_at": "2026-06-20T10:31:20.487205+00:00",
+    "summary": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 314,
+      "score": null,
+      "author": null,
+      "language": "C#"
+    }
+  },
+  {
+    "id": "dcfea729-5367-4909-a98e-30a525055467",
+    "title": "gykim80/perfectpixel-studio",
+    "source_url": "https://github.com/gykim80/perfectpixel-studio",
+    "source": "unknown",
+    "collected_at": "2026-06-20T10:31:21.806862+00:00",
+    "analyzed_at": "2026-06-20T10:31:21.806862+00:00",
+    "summary": "AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 281,
+      "score": null,
+      "author": null,
+      "language": "Go"
+    }
+  },
+  {
+    "id": "9c69e9aa-f54d-48d9-86c6-2cad82949e8a",
+    "title": "MstKail/wc2026-crypto-sportsbook",
+    "source_url": "https://github.com/MstKail/wc2026-crypto-sportsbook",
+    "source": "unknown",
+    "collected_at": "2026-06-20T10:31:23.124500+00:00",
+    "analyzed_at": "2026-06-20T10:31:23.124500+00:00",
+    "summary": "2026 FIFA World Cup crypto sportsbook | soccer football betting platform | React TypeScript Vite | MetaMask wallet EIP-191 | live WebSocket odds scores | bet settlement engine | world cup 2026 betting",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 266,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  }
+]
