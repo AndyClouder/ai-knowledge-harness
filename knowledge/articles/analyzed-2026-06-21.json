@@ -1,0 +1,128 @@
+[
+  {
+    "id": "44209f4b-8a9e-49fe-a907-d8739635c0c8",
+    "title": "aidenybai/cnfast",
+    "source_url": "https://github.com/aidenybai/cnfast",
+    "source": "unknown",
+    "collected_at": "2026-06-21T11:13:53.731896+00:00",
+    "analyzed_at": "2026-06-21T11:13:53.731896+00:00",
+    "summary": "Fast drop in replacement for `cn`",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 300,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "29881ce0-1aa9-496b-966f-f51283547eb0",
+    "title": "anthropics/launch-your-agent",
+    "source_url": "https://github.com/anthropics/launch-your-agent",
+    "source": "unknown",
+    "collected_at": "2026-06-21T11:13:54.939415+00:00",
+    "analyzed_at": "2026-06-21T11:13:54.939415+00:00",
+    "summary": "Claude Code skills that take a founder from idea to a live Claude Managed Agent: interview, scope a v0, launch in their own account, grade it, iterate, and schedule it",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 294,
+      "score": null,
+      "author": null,
+      "language": "HTML"
+    }
+  },
+  {
+    "id": "9b540746-113b-4348-8bce-d0ece6e394b9",
+    "title": "fendouai/best-humanizer-handbook",
+    "source_url": "https://github.com/fendouai/best-humanizer-handbook",
+    "source": "unknown",
+    "collected_at": "2026-06-21T11:13:56.173973+00:00",
+    "analyzed_at": "2026-06-21T11:13:56.173973+00:00",
+    "summary": "Best AI Humanizer Handbook A practical guide to making AI-assisted writing clearer, more credible, and more human",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 277,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "219c6525-1207-412d-aca8-e7fe2951ff1e",
+    "title": "leyten/shard",
+    "source_url": "https://github.com/leyten/shard",
+    "source": "unknown",
+    "collected_at": "2026-06-21T11:13:57.380212+00:00",
+    "analyzed_at": "2026-06-21T11:13:57.380212+00:00",
+    "summary": "Pipeline-parallel LLM inference across GPUs on separate machines.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 274,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "0e128ae0-3887-4ecf-b8a9-09adfa2efae7",
+    "title": "Jeidoban/Ironsmith",
+    "source_url": "https://github.com/Jeidoban/Ironsmith",
+    "source": "unknown",
+    "collected_at": "2026-06-21T11:13:58.588481+00:00",
+    "analyzed_at": "2026-06-21T11:13:58.588481+00:00",
+    "summary": "Create personal Mac apps instantly with a prompt. Supports on-device and cloud LLMs",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 245,
+      "score": null,
+      "author": null,
+      "language": "Swift"
+    }
+  },
+  {
+    "id": "b026dee1-7f52-4a91-876c-eb41f21506fd",
+    "title": "FeijiangHan/PaperForge",
+    "source_url": "https://github.com/FeijiangHan/PaperForge",
+    "source": "unknown",
+    "collected_at": "2026-06-21T11:13:59.879976+00:00",
+    "analyzed_at": "2026-06-21T11:13:59.879976+00:00",
+    "summary": "An active paper-reading skill that reconstructs author reasoning, explains methods mechanistically, stress-tests assumptions, and generates follow-up research ideas.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 220,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  }
+]

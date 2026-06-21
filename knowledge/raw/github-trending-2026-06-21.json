@@ -1,0 +1,59 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-06-21T11:13:47.040685+00:00",
+  "items": [
+    {
+      "name": "aidenybai/cnfast",
+      "url": "https://github.com/aidenybai/cnfast",
+      "summary": "Fast drop in replacement for `cn`",
+      "stars": 300,
+      "language": "TypeScript",
+      "topics": [
+        "clsx",
+        "cn",
+        "tailwindcss"
+      ]
+    },
+    {
+      "name": "anthropics/launch-your-agent",
+      "url": "https://github.com/anthropics/launch-your-agent",
+      "summary": "Claude Code skills that take a founder from idea to a live Claude Managed Agent: interview, scope a v0, launch in their own account, grade it, iterate, and schedule it",
+      "stars": 294,
+      "language": "HTML",
+      "topics": []
+    },
+    {
+      "name": "fendouai/best-humanizer-handbook",
+      "url": "https://github.com/fendouai/best-humanizer-handbook",
+      "summary": "Best AI Humanizer Handbook A practical guide to making AI-assisted writing clearer, more credible, and more human",
+      "stars": 277,
+      "language": null,
+      "topics": []
+    },
+    {
+      "name": "leyten/shard",
+      "url": "https://github.com/leyten/shard",
+      "summary": "Pipeline-parallel LLM inference across GPUs on separate machines.",
+      "stars": 274,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "Jeidoban/Ironsmith",
+      "url": "https://github.com/Jeidoban/Ironsmith",
+      "summary": "Create personal Mac apps instantly with a prompt. Supports on-device and cloud LLMs",
+      "stars": 245,
+      "language": "Swift",
+      "topics": []
+    },
+    {
+      "name": "FeijiangHan/PaperForge",
+      "url": "https://github.com/FeijiangHan/PaperForge",
+      "summary": "An active paper-reading skill that reconstructs author reasoning, explains methods mechanistically, stress-tests assumptions, and generates follow-up research ideas.",
+      "stars": 220,
+      "language": null,
+      "topics": []
+    }
+  ]
+}
