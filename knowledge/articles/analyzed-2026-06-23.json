@@ -1,0 +1,128 @@
+[
+  {
+    "id": "4e009f0d-80d3-4512-9784-6c0d6f4b39f4",
+    "title": "sums001/Windows-Copilot-API",
+    "source_url": "https://github.com/sums001/Windows-Copilot-API",
+    "source": "unknown",
+    "collected_at": "2026-06-23T11:13:51.607465+00:00",
+    "analyzed_at": "2026-06-23T11:13:51.607465+00:00",
+    "summary": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 428,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "ea386a00-07a0-4224-a37c-81a64d5b144f",
+    "title": "yo-WASSUP/Good-Badminton",
+    "source_url": "https://github.com/yo-WASSUP/Good-Badminton",
+    "source": "unknown",
+    "collected_at": "2026-06-23T11:13:52.869351+00:00",
+    "analyzed_at": "2026-06-23T11:13:52.869351+00:00",
+    "summary": "🏸  AI Badminton Hawk-Eye System",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 374,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "dbecdb6d-f4fb-41f6-b091-d5171156141e",
+    "title": "HKUDS/AgentSpace",
+    "source_url": "https://github.com/HKUDS/AgentSpace",
+    "source": "unknown",
+    "collected_at": "2026-06-23T11:13:54.130039+00:00",
+    "analyzed_at": "2026-06-23T11:13:54.130039+00:00",
+    "summary": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 286,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "23ea3c5c-0d81-4554-a201-f46a0eb22a57",
+    "title": "hustvl/Moebius",
+    "source_url": "https://github.com/hustvl/Moebius",
+    "source": "unknown",
+    "collected_at": "2026-06-23T11:13:55.399066+00:00",
+    "analyzed_at": "2026-06-23T11:13:55.399066+00:00",
+    "summary": "[ECCV 2026] Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 263,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "cacc0fa9-f64a-43ad-ba3a-c0ec1f685f2e",
+    "title": "shadcn-labs/agentcn",
+    "source_url": "https://github.com/shadcn-labs/agentcn",
+    "source": "unknown",
+    "collected_at": "2026-06-23T11:13:56.684978+00:00",
+    "analyzed_at": "2026-06-23T11:13:56.684978+00:00",
+    "summary": "shadcn/ui, but for building agents. 🤖",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 221,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "51699c3e-dc74-4bd6-a0f9-1566dce635a5",
+    "title": "pulsewarriorrank/Lossless-Scaling-Download-2026",
+    "source_url": "https://github.com/pulsewarriorrank/Lossless-Scaling-Download-2026",
+    "source": "unknown",
+    "collected_at": "2026-06-23T11:13:57.973974+00:00",
+    "analyzed_at": "2026-06-23T11:13:57.973974+00:00",
+    "summary": "⭐️ Lossless Scaling download full version pre-activated keygen patch activator lifetime license upscaling tool frame generation gaming performance enhancer resolution scaling graphics optimization Win",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 197,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  }
+]

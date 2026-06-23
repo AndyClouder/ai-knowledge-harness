@@ -1,0 +1,83 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-06-23T11:13:45.384901+00:00",
+  "items": [
+    {
+      "name": "sums001/Windows-Copilot-API",
+      "url": "https://github.com/sums001/Windows-Copilot-API",
+      "summary": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
+      "stars": 428,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "api",
+        "copilot",
+        "llm",
+        "microsoft-copilot",
+        "openai"
+      ]
+    },
+    {
+      "name": "yo-WASSUP/Good-Badminton",
+      "url": "https://github.com/yo-WASSUP/Good-Badminton",
+      "summary": "🏸  AI Badminton Hawk-Eye System",
+      "stars": 374,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "HKUDS/AgentSpace",
+      "url": "https://github.com/HKUDS/AgentSpace",
+      "summary": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
+      "stars": 286,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "hustvl/Moebius",
+      "url": "https://github.com/hustvl/Moebius",
+      "summary": "[ECCV 2026] Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance",
+      "stars": 263,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "shadcn-labs/agentcn",
+      "url": "https://github.com/shadcn-labs/agentcn",
+      "summary": "shadcn/ui, but for building agents. 🤖",
+      "stars": 221,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "pulsewarriorrank/Lossless-Scaling-Download-2026",
+      "url": "https://github.com/pulsewarriorrank/Lossless-Scaling-Download-2026",
+      "summary": "⭐️ Lossless Scaling download full version pre-activated keygen patch activator lifetime license upscaling tool frame generation gaming performance enhancer resolution scaling graphics optimization Win",
+      "stars": 197,
+      "language": null,
+      "topics": [
+        "crimson-desert-lsfg",
+        "frame-generation",
+        "gaming-performance",
+        "lossless-scaling",
+        "lossless-scaling-2026",
+        "lossless-scaling-download",
+        "lossless-scaling-github",
+        "lossless-scaling-isfg",
+        "lossless-scaling-lsfg",
+        "lossless-scaling-pc",
+        "lossless-scaling-reddit",
+        "lossless-scaling-software",
+        "lossless-scaling-steam",
+        "lossless-scaling-v3",
+        "lsfg",
+        "lsfg-ai-upscaling",
+        "lsfg-vk",
+        "smooth-gaming",
+        "upscale-tool"
+      ]
+    }
+  ]
+}
