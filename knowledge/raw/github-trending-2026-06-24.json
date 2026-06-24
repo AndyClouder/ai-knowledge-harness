@@ -1,0 +1,94 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-06-24T10:46:24.281748+00:00",
+  "items": [
+    {
+      "name": "Valorant-AI/valorant-ai-aimbot-undetected",
+      "url": "https://github.com/Valorant-AI/valorant-ai-aimbot-undetected",
+      "summary": "Master Valorant with an undetectable AI aimbot and hardware-driven ESP overlay. Explore neural-network precision, Vanguard-safe external architecture, and humanized aiming algorithms designed for comp",
+      "stars": 314,
+      "language": "C++",
+      "topics": []
+    },
+    {
+      "name": "ksimback/looper",
+      "url": "https://github.com/ksimback/looper",
+      "summary": "Design visual, review-gated agent loops for Claude Code before you run them.",
+      "stars": 272,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "goehou/tabbit-toy",
+      "url": "https://github.com/goehou/tabbit-toy",
+      "summary": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
+      "stars": 249,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "name": "SarkAzia/baiyueguang-learning-skill",
+      "url": "https://github.com/SarkAzia/baiyueguang-learning-skill",
+      "summary": "用视奸前任白月光的方式学数学以及任何学科",
+      "stars": 233,
+      "language": null,
+      "topics": []
+    },
+    {
+      "name": "zeropl/2FA",
+      "url": "https://github.com/zeropl/2FA",
+      "summary": "Easy2FA turns a 2FA secret into its live 6-digit code, entirely in your browser. There's no server, no sign-up, and no database — each \"account\" is just a bookmarkable URL with the secret in its #frag",
+      "stars": 212,
+      "language": "HTML",
+      "topics": [
+        "2fa"
+      ]
+    },
+    {
+      "name": "yeet-src/httpinspect",
+      "url": "https://github.com/yeet-src/httpinspect",
+      "summary": "top, but for the HTTP endpoints on your host — a live dashboard of the most active plaintext HTTP endpoints, right in the terminal.",
+      "stars": 194,
+      "language": "JavaScript",
+      "topics": [
+        "ebpf",
+        "http",
+        "interactive",
+        "javascript",
+        "observability",
+        "showcase",
+        "tui"
+      ]
+    },
+    {
+      "name": "Verdi38/Silent-Crypto-Miner",
+      "url": "https://github.com/Verdi38/Silent-Crypto-Miner",
+      "summary": "Cryptocurrency mining toolkit with multi-algorithm CPU/GPU support, resource management, thermal throttling, activity-based pausing, scheduled mining, pool failover, hashrate optimization, real-time m",
+      "stars": 183,
+      "language": "Python",
+      "topics": [
+        "ai-mining",
+        "bitcoin-mining-tools",
+        "bitcoinminer",
+        "browser-mining",
+        "cloud-mining",
+        "cpuminer",
+        "cryptojacking",
+        "cryptominer",
+        "gminer",
+        "gpu-mining",
+        "gpumining",
+        "miner",
+        "miner-monitoring",
+        "mining",
+        "mining-pool",
+        "mining-proxy",
+        "mining-rig",
+        "monero-mining",
+        "silentcryptominer",
+        "xmrig-miner"
+      ]
+    }
+  ]
+}

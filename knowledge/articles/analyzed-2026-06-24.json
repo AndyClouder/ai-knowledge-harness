@@ -1,0 +1,422 @@
+[
+  {
+    "id": "bd064104-46e1-4539-af92-27b26cef57df",
+    "title": "Valorant-AI/valorant-ai-aimbot-undetected",
+    "source_url": "https://github.com/Valorant-AI/valorant-ai-aimbot-undetected",
+    "source": "unknown",
+    "collected_at": "2026-06-24T10:46:33.179753+00:00",
+    "analyzed_at": "2026-06-24T10:46:33.179753+00:00",
+    "summary": "Master Valorant with an undetectable AI aimbot and hardware-driven ESP overlay. Explore neural-network precision, Vanguard-safe external architecture, and humanized aiming algorithms designed for comp",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 314,
+      "score": null,
+      "author": null,
+      "language": "C++"
+    }
+  },
+  {
+    "id": "690d7b97-4953-402f-8633-71caa86b5f21",
+    "title": "ksimback/looper",
+    "source_url": "https://github.com/ksimback/looper",
+    "source": "unknown",
+    "collected_at": "2026-06-24T10:46:34.435340+00:00",
+    "analyzed_at": "2026-06-24T10:46:34.435340+00:00",
+    "summary": "Design visual, review-gated agent loops for Claude Code before you run them.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 272,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "f8308e66-b1e8-418d-96c5-ed9a174a6439",
+    "title": "goehou/tabbit-toy",
+    "source_url": "https://github.com/goehou/tabbit-toy",
+    "source": "unknown",
+    "collected_at": "2026-06-24T10:46:35.666588+00:00",
+    "analyzed_at": "2026-06-24T10:46:35.666588+00:00",
+    "summary": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 249,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "c4bb0a76-5c38-4d61-846b-74e63a1da195",
+    "title": "SarkAzia/baiyueguang-learning-skill",
+    "source_url": "https://github.com/SarkAzia/baiyueguang-learning-skill",
+    "source": "unknown",
+    "collected_at": "2026-06-24T10:46:36.900625+00:00",
+    "analyzed_at": "2026-06-24T10:46:36.900625+00:00",
+    "summary": "用视奸前任白月光的方式学数学以及任何学科",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 233,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "6fc760b6-8f00-442a-a30d-fa1b3ff4f454",
+    "title": "zeropl/2FA",
+    "source_url": "https://github.com/zeropl/2FA",
+    "source": "unknown",
+    "collected_at": "2026-06-24T10:46:38.151428+00:00",
+    "analyzed_at": "2026-06-24T10:46:38.151428+00:00",
+    "summary": "Easy2FA turns a 2FA secret into its live 6-digit code, entirely in your browser. There's no server, no sign-up, and no database — each \"account\" is just a bookmarkable URL with the secret in its #frag",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 212,
+      "score": null,
+      "author": null,
+      "language": "HTML"
+    }
+  },
+  {
+    "id": "70e7dd62-30e6-465d-a0e8-dd40445ef157",
+    "title": "yeet-src/httpinspect",
+    "source_url": "https://github.com/yeet-src/httpinspect",
+    "source": "unknown",
+    "collected_at": "2026-06-24T10:46:39.386697+00:00",
+    "analyzed_at": "2026-06-24T10:46:39.386697+00:00",
+    "summary": "top, but for the HTTP endpoints on your host — a live dashboard of the most active plaintext HTTP endpoints, right in the terminal.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 194,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "906def3d-1b81-4237-85b8-05532471a3d6",
+    "title": "Verdi38/Silent-Crypto-Miner",
+    "source_url": "https://github.com/Verdi38/Silent-Crypto-Miner",
+    "source": "unknown",
+    "collected_at": "2026-06-24T10:46:40.657672+00:00",
+    "analyzed_at": "2026-06-24T10:46:40.657672+00:00",
+    "summary": "Cryptocurrency mining toolkit with multi-algorithm CPU/GPU support, resource management, thermal throttling, activity-based pausing, scheduled mining, pool failover, hashrate optimization, real-time m",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 183,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "7e5c9195-878c-49d5-88c0-0dc32a1d2dd5",
+    "title": "Show HN: Execlave – AI Agent Management Platform for Governance and Enforcement",
+    "source_url": "https://www.execlave.com",
+    "source": "hacker_news",
+    "collected_at": "2026-06-24T10:46:41.893266+00:00",
+    "analyzed_at": "2026-06-24T10:46:41.893266+00:00",
+    "summary": "Article URL: https://www.execlave.com\nComments URL: https://news.ycombinator.com/item?id=48657787\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rishitmavani",
+      "language": null
+    }
+  },
+  {
+    "id": "b9343786-e689-4e41-b481-499f3014299c",
+    "title": "Giving AI human-like memory limits (3–7 words) could improve language learning",
+    "source_url": "https://www.mpi.nl/news/new-study-finds-forgetting-may-be-secret-better-ai-language-learning",
+    "source": "hacker_news",
+    "collected_at": "2026-06-24T10:46:43.129059+00:00",
+    "analyzed_at": "2026-06-24T10:46:43.129059+00:00",
+    "summary": "Article URL: https://www.mpi.nl/news/new-study-finds-forgetting-may-be-secret-better-ai-language-learning\nComments URL: https://news.ycombinator.com/item?id=48657607\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "giuliomagnifico",
+      "language": null
+    }
+  },
+  {
+    "id": "712271ed-8d79-4915-8b3a-0ac88e9b3129",
+    "title": "Execlave vs. Credo AI: honest technical comparison",
+    "source_url": "https://www.execlave.com/blog/execlave-vs-credo-ai",
+    "source": "hacker_news",
+    "collected_at": "2026-06-24T10:46:44.362684+00:00",
+    "analyzed_at": "2026-06-24T10:46:44.362684+00:00",
+    "summary": "Article URL: https://www.execlave.com/blog/execlave-vs-credo-ai\nComments URL: https://news.ycombinator.com/item?id=48657603\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "brl1313",
+      "language": null
+    }
+  },
+  {
+    "id": "16fb190a-8340-4a8b-b087-614ab63c4820",
+    "title": "AI is learning to read the room",
+    "source_url": "https://spectrum.ieee.org/emotion-ai-context",
+    "source": "hacker_news",
+    "collected_at": "2026-06-24T10:46:45.596456+00:00",
+    "analyzed_at": "2026-06-24T10:46:45.596456+00:00",
+    "summary": "Article URL: https://spectrum.ieee.org/emotion-ai-context\nComments URL: https://news.ycombinator.com/item?id=48657600\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pseudolus",
+      "language": null
+    }
+  },
+  {
+    "id": "ebd6b83e-aa76-40da-b975-569c2a84f103",
+    "title": "What Is an AI Agent Management Platform (AMP)?",
+    "source_url": "https://www.execlave.com/blog/what-is-an-ai-agent-management-platform",
+    "source": "hacker_news",
+    "collected_at": "2026-06-24T10:46:46.830868+00:00",
+    "analyzed_at": "2026-06-24T10:46:46.830868+00:00",
+    "summary": "Article URL: https://www.execlave.com/blog/what-is-an-ai-agent-management-platform\nComments URL: https://news.ycombinator.com/item?id=48657599\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "brl1313",
+      "language": null
+    }
+  },
+  {
+    "id": "2c9ec011-c7c1-44b1-9ac4-437511348c45",
+    "title": "How to burst the AI bubble: Strike at its roots",
+    "source_url": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-24T10:46:48.064550+00:00",
+    "analyzed_at": "2026-06-24T10:46:48.064550+00:00",
+    "summary": "Article URL: https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/\nComments URL: https://news.ycombinator.com/item?id=48657518\nPoints: 10\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "0nce",
+      "language": null
+    }
+  },
+  {
+    "id": "c465342e-b452-4188-9a70-51d3da3b3b48",
+    "title": "Use of AI to Get News in U.S. Is Rare",
+    "source_url": "https://news.gallup.com/poll/711242/news-rare.aspx",
+    "source": "hacker_news",
+    "collected_at": "2026-06-24T10:46:49.300749+00:00",
+    "analyzed_at": "2026-06-24T10:46:49.300749+00:00",
+    "summary": "Article URL: https://news.gallup.com/poll/711242/news-rare.aspx\nComments URL: https://news.ycombinator.com/item?id=48657473\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "giuliomagnifico",
+      "language": null
+    }
+  },
+  {
+    "id": "70fc33cf-7b68-457a-a1af-b069bfb73085",
+    "title": "Show HN: 2026 ASO Complete Guide (With 2025 OCR/AI Tags Update)",
+    "source_url": "https://launchshots.app/blog/app-store-optimization-complete-guide-2026",
+    "source": "hacker_news",
+    "collected_at": "2026-06-24T10:46:50.534611+00:00",
+    "analyzed_at": "2026-06-24T10:46:50.534611+00:00",
+    "summary": "Article URL: https://launchshots.app/blog/app-store-optimization-complete-guide-2026\nComments URL: https://news.ycombinator.com/item?id=48657435\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "okutan",
+      "language": null
+    }
+  },
+  {
+    "id": "fb25fa67-a7a1-4494-afdd-a0957dbc105c",
+    "title": "Show HN: Agnes AI – Free multimodal API (text, image, video), OpenAI-compatible",
+    "source_url": "https://news.ycombinator.com/item?id=48657403",
+    "source": "hacker_news",
+    "collected_at": "2026-06-24T10:46:51.767999+00:00",
+    "analyzed_at": "2026-06-24T10:46:51.767999+00:00",
+    "summary": "Hi HN,I'm Daniel, part of the team at Agnes AI, a Singapore-based AI lab. We've been building quietly for a while and I wanted to share what we've made with this community and get honest feedback from",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "danissimo8",
+      "language": null
+    }
+  },
+  {
+    "id": "63d687ad-5dec-41f7-b921-e440cbf203de",
+    "title": "Edge AI Power Benchmarking",
+    "source_url": "https://mariobergeron.com/posts/edge-ai-power-p06-memryx-mx3/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-24T10:46:53.003556+00:00",
+    "analyzed_at": "2026-06-24T10:46:53.003556+00:00",
+    "summary": "Article URL: https://mariobergeron.com/posts/edge-ai-power-p06-memryx-mx3/\nComments URL: https://news.ycombinator.com/item?id=48657168\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "muxamilian",
+      "language": null
+    }
+  },
+  {
+    "id": "af3aa275-abee-4819-9fe8-4c5e6adc4c1c",
+    "title": "Show HN: AI Use Disclaimer",
+    "source_url": "https://libls.org/ai-use",
+    "source": "hacker_news",
+    "collected_at": "2026-06-24T10:46:54.272042+00:00",
+    "analyzed_at": "2026-06-24T10:46:54.272042+00:00",
+    "summary": "Hi HN,Here's a little website for a hobby project I have, and maybe the AI use disclaimer on it is useful to others.I believe it's a fundamental duty of open source maintainers to disclose the extent ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "lionkor",
+      "language": null
+    }
+  },
+  {
+    "id": "67c12779-760c-40f2-ae2e-a757d1473dc2",
+    "title": "If AI Helped Me Write This, Is It Still Mine?",
+    "source_url": "https://kunyuan.substack.com/p/09public-essayif-ai-helped-me-write",
+    "source": "hacker_news",
+    "collected_at": "2026-06-24T10:46:55.504391+00:00",
+    "analyzed_at": "2026-06-24T10:46:55.504391+00:00",
+    "summary": "Article URL: https://kunyuan.substack.com/p/09public-essayif-ai-helped-me-write\nComments URL: https://news.ycombinator.com/item?id=48656997\nPoints: 5\n# Comments: 3",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "hufdr",
+      "language": null
+    }
+  },
+  {
+    "id": "b3ac3aec-59ce-4683-bc0a-3a32cca34d34",
+    "title": "Cory Doctorow on the Right – and Wrong – Way to Criticize AI",
+    "source_url": "https://jacobin.com/2026/06/ai-bubble-layoffs-workers-copyright",
+    "source": "hacker_news",
+    "collected_at": "2026-06-24T10:46:56.740012+00:00",
+    "analyzed_at": "2026-06-24T10:46:56.740012+00:00",
+    "summary": "Article URL: https://jacobin.com/2026/06/ai-bubble-layoffs-workers-copyright\nComments URL: https://news.ycombinator.com/item?id=48656885\nPoints: 5\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "thunderbong",
+      "language": null
+    }
+  }
+]
