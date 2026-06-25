@@ -1,0 +1,170 @@
+[
+  {
+    "id": "c6f94a33-6e41-4bff-9923-e4e59ea165e9",
+    "title": "QwenLM/Qwen-AgentWorld",
+    "source_url": "https://github.com/QwenLM/Qwen-AgentWorld",
+    "source": "unknown",
+    "collected_at": "2026-06-25T10:39:24.750119+00:00",
+    "analyzed_at": "2026-06-25T10:39:24.750119+00:00",
+    "summary": "Qwen-AgentWorld: Language World Models for General Agents",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 396,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "0405ec5b-11b3-40e5-ac77-0abbf85d0711",
+    "title": "shy3130/tickflow-stock-panel",
+    "source_url": "https://github.com/shy3130/tickflow-stock-panel",
+    "source": "unknown",
+    "collected_at": "2026-06-25T10:39:26.015605+00:00",
+    "analyzed_at": "2026-06-25T10:39:26.015605+00:00",
+    "summary": "自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据 | 能力驱动适配全档位订阅 | 自由接入第三方扩展数据(Tushare 等)",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 256,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "64a838bd-e7e0-4ef0-91ca-7e1573513149",
+    "title": "nova452/ComfyUI-ConditioningKrea2Rebalance",
+    "source_url": "https://github.com/nova452/ComfyUI-ConditioningKrea2Rebalance",
+    "source": "unknown",
+    "collected_at": "2026-06-25T10:39:27.283662+00:00",
+    "analyzed_at": "2026-06-25T10:39:27.283662+00:00",
+    "summary": "A conditioning optimizer with per layer weighting that offers IP-Adapter-like features for Krea 2 along with bypassing the built in quality diluation from the trained safety filter and also works as a",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 216,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "45661dbb-3688-49b9-9820-58622986b422",
+    "title": "alexbogdanov74/Seed-Generator",
+    "source_url": "https://github.com/alexbogdanov74/Seed-Generator",
+    "source": "unknown",
+    "collected_at": "2026-06-25T10:39:28.552622+00:00",
+    "analyzed_at": "2026-06-25T10:39:28.552622+00:00",
+    "summary": "Professional BIP-39 Seed & HD Wallet Toolkit with 12–24 word mnemonics, checksum validation, BIP-44/49/84 derivation, and multi-chain support (BTC, ETH, SOL, LTC, DOGE, ADA, DOT, AVAX, ATOM, XRP, TRX)",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 209,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "97ae098e-b973-4c04-a991-d5fdb88b42e3",
+    "title": "iart-ai/motion-skills",
+    "source_url": "https://github.com/iart-ai/motion-skills",
+    "source": "unknown",
+    "collected_at": "2026-06-25T10:39:29.825483+00:00",
+    "analyzed_at": "2026-06-25T10:39:29.825483+00:00",
+    "summary": "50 open-source skills that teach your AI coding agent to make motion graphics, animation & video — kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.a",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 199,
+      "score": null,
+      "author": null,
+      "language": "HTML"
+    }
+  },
+  {
+    "id": "e981b187-55ee-4b80-9beb-d068264be357",
+    "title": "trotsky1997/OpenFugu",
+    "source_url": "https://github.com/trotsky1997/OpenFugu",
+    "source": "unknown",
+    "collected_at": "2026-06-25T10:39:31.093560+00:00",
+    "analyzed_at": "2026-06-25T10:39:31.093560+00:00",
+    "summary": "Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 196,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "8322d3d1-b6e4-4855-9d63-a5a96629bf22",
+    "title": "Karovia/fullstack-ai-agent-roadmap",
+    "source_url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
+    "source": "unknown",
+    "collected_at": "2026-06-25T10:39:32.360137+00:00",
+    "analyzed_at": "2026-06-25T10:39:32.360137+00:00",
+    "summary": "🎯 从零基础到 AI Agent 全栈工程师 · 110 个详细教程 · 58 万字 · 400+ GitHub 项目精选 · Obsidian 友好 · 中文",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 189,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "2a460048-c4ce-448d-a78d-7ab0257df60a",
+    "title": "i5ting/learn-ai-practice",
+    "source_url": "https://github.com/i5ting/learn-ai-practice",
+    "source": "unknown",
+    "collected_at": "2026-06-25T10:39:33.625248+00:00",
+    "analyzed_at": "2026-06-25T10:39:33.625248+00:00",
+    "summary": "",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 175,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  }
+]

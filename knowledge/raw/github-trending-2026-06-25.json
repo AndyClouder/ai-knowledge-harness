@@ -1,0 +1,130 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-06-25T10:39:21.237568+00:00",
+  "items": [
+    {
+      "name": "QwenLM/Qwen-AgentWorld",
+      "url": "https://github.com/QwenLM/Qwen-AgentWorld",
+      "summary": "Qwen-AgentWorld: Language World Models for General Agents",
+      "stars": 396,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "shy3130/tickflow-stock-panel",
+      "url": "https://github.com/shy3130/tickflow-stock-panel",
+      "summary": "自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据 | 能力驱动适配全档位订阅 | 自由接入第三方扩展数据(Tushare 等)",
+      "stars": 256,
+      "language": "TypeScript",
+      "topics": [
+        "a-stock",
+        "ai-agent",
+        "aigc",
+        "backtesting",
+        "duckdb",
+        "fastapi",
+        "llm",
+        "polars",
+        "quant",
+        "quantitative-finance",
+        "quantitative-trading",
+        "react",
+        "screener",
+        "self-hosted",
+        "stock-analysis",
+        "tickflow"
+      ]
+    },
+    {
+      "name": "nova452/ComfyUI-ConditioningKrea2Rebalance",
+      "url": "https://github.com/nova452/ComfyUI-ConditioningKrea2Rebalance",
+      "summary": "A conditioning optimizer with per layer weighting that offers IP-Adapter-like features for Krea 2 along with bypassing the built in quality diluation from the trained safety filter and also works as a",
+      "stars": 216,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "alexbogdanov74/Seed-Generator",
+      "url": "https://github.com/alexbogdanov74/Seed-Generator",
+      "summary": "Professional BIP-39 Seed & HD Wallet Toolkit with 12–24 word mnemonics, checksum validation, BIP-44/49/84 derivation, and multi-chain support (BTC, ETH, SOL, LTC, DOGE, ADA, DOT, AVAX, ATOM, XRP, TRX)",
+      "stars": 209,
+      "language": "Python",
+      "topics": [
+        "brute-force-tool",
+        "mnemonic-code-converter",
+        "mnemonic-generator-solana",
+        "mnemonic-phrase",
+        "mnemonic-recovery",
+        "mnemonic-seed",
+        "mnemonics-generator",
+        "phrase-generator",
+        "seed-phase-checker",
+        "seed-phrases-finder",
+        "seed-phrases-generate",
+        "seed-phrases-generator",
+        "seed-recovery-2025",
+        "seed-recovery-tool",
+        "seed-tool-generate",
+        "seedphrase",
+        "seedphrase-checker",
+        "seedphrase-generator",
+        "seedphrase-generatorseed-generator"
+      ]
+    },
+    {
+      "name": "iart-ai/motion-skills",
+      "url": "https://github.com/iart-ai/motion-skills",
+      "summary": "50 open-source skills that teach your AI coding agent to make motion graphics, animation & video — kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.a",
+      "stars": 199,
+      "language": "HTML",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "motion-graphics",
+        "remotion",
+        "skills"
+      ]
+    },
+    {
+      "name": "trotsky1997/OpenFugu",
+      "url": "https://github.com/trotsky1997/OpenFugu",
+      "summary": "Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve.",
+      "stars": 196,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "Karovia/fullstack-ai-agent-roadmap",
+      "url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
+      "summary": "🎯 从零基础到 AI Agent 全栈工程师 · 110 个详细教程 · 58 万字 · 400+ GitHub 项目精选 · Obsidian 友好 · 中文",
+      "stars": 189,
+      "language": null,
+      "topics": [
+        "ai",
+        "ai-agent",
+        "chinese",
+        "claude",
+        "fastapi",
+        "fullstack",
+        "javascript",
+        "langgraph",
+        "learning-roadmap",
+        "llm",
+        "mcp",
+        "obsidian",
+        "python",
+        "react",
+        "tutorial"
+      ]
+    },
+    {
+      "name": "i5ting/learn-ai-practice",
+      "url": "https://github.com/i5ting/learn-ai-practice",
+      "summary": "",
+      "stars": 175,
+      "language": null,
+      "topics": []
+    }
+  ]
+}
