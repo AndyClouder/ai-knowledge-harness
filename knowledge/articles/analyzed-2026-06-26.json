@@ -1,0 +1,422 @@
+[
+  {
+    "id": "3141878a-817b-4f67-afe2-e55274eed6e8",
+    "title": "m1ckc3s/claude-status-bar",
+    "source_url": "https://github.com/m1ckc3s/claude-status-bar",
+    "source": "unknown",
+    "collected_at": "2026-06-26T10:49:02.304646+00:00",
+    "analyzed_at": "2026-06-26T10:49:02.304646+00:00",
+    "summary": "A tiny macOS menu bar status indicator for Claude Code: animated icons, elapsed timer, and open/close lifecycle.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 342,
+      "score": null,
+      "author": null,
+      "language": "Swift"
+    }
+  },
+  {
+    "id": "e33dabf4-0af0-4b44-8594-583bf16c44ca",
+    "title": "amplifthq/opentag",
+    "source_url": "https://github.com/amplifthq/opentag",
+    "source": "unknown",
+    "collected_at": "2026-06-26T10:49:03.552091+00:00",
+    "analyzed_at": "2026-06-26T10:49:03.552091+00:00",
+    "summary": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 252,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "65d6678f-c928-4591-938e-a2adcc61e3eb",
+    "title": "Accio-Lab/Dressage",
+    "source_url": "https://github.com/Accio-Lab/Dressage",
+    "source": "unknown",
+    "collected_at": "2026-06-26T10:49:04.799756+00:00",
+    "analyzed_at": "2026-06-26T10:49:04.799756+00:00",
+    "summary": "Scalable RL framework for Any Agent and Sandbox.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 189,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "a61121c5-fdb7-40e8-9b41-51a8f3c3afff",
+    "title": "QuantML-Research/wq-alpha-research",
+    "source_url": "https://github.com/QuantML-Research/wq-alpha-research",
+    "source": "unknown",
+    "collected_at": "2026-06-26T10:49:06.046870+00:00",
+    "analyzed_at": "2026-06-26T10:49:06.046870+00:00",
+    "summary": "A self-evolving WorldQuant BRAIN alpha research skill.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 189,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "9d3c7efb-8035-44b0-9099-6eff646f7200",
+    "title": "cote-tony/walletgen",
+    "source_url": "https://github.com/cote-tony/walletgen",
+    "source": "unknown",
+    "collected_at": "2026-06-26T10:49:07.295026+00:00",
+    "analyzed_at": "2026-06-26T10:49:07.295026+00:00",
+    "summary": "Seed phrase generator / checker for Bitcoin & Ethereum crypto wallets. Recovery your BTC or ETH wallet via seed phrase / private key bruteforce finding or brain wallet generator.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 187,
+      "score": null,
+      "author": null,
+      "language": "C++"
+    }
+  },
+  {
+    "id": "bec557db-5c35-4759-8b31-4e52eeed37f3",
+    "title": "The UN demands AI accountability while running Google ad-tech on its own website",
+    "source_url": "https://www.thatprivacyguy.com/blog/un-tracking-without-consent/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-26T10:49:08.542599+00:00",
+    "analyzed_at": "2026-06-26T10:49:08.542599+00:00",
+    "summary": "Article URL: https://www.thatprivacyguy.com/blog/un-tracking-without-consent/\nComments URL: https://news.ycombinator.com/item?id=48684997\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ilreb",
+      "language": null
+    }
+  },
+  {
+    "id": "b4ca9165-765b-45c9-b3e2-326e945660e7",
+    "title": "I Am Not an AI – The Tlbic Policy Proposal",
+    "source_url": "https://drive.google.com/file/d/1NJA8clb_wkotSnUkBPGZMw8Dywa5caiF/view?usp=drive_link",
+    "source": "hacker_news",
+    "collected_at": "2026-06-26T10:49:09.791902+00:00",
+    "analyzed_at": "2026-06-26T10:49:09.791902+00:00",
+    "summary": "Article URL: https://drive.google.com/file/d/1NJA8clb_wkotSnUkBPGZMw8Dywa5caiF/view?usp=drive_link\nComments URL: https://news.ycombinator.com/item?id=48684975\nPoints: 2\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "michikawa59",
+      "language": null
+    }
+  },
+  {
+    "id": "d417533d-6981-45b7-85b9-4c71b570f960",
+    "title": "Analysed 3k+ AI thought leaders posts for Q2",
+    "source_url": "https://aiweekly.co/recap/q2-2026",
+    "source": "hacker_news",
+    "collected_at": "2026-06-26T10:49:11.039497+00:00",
+    "analyzed_at": "2026-06-26T10:49:11.039497+00:00",
+    "summary": "Article URL: https://aiweekly.co/recap/q2-2026\nComments URL: https://news.ycombinator.com/item?id=48684878\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "adu_onemore",
+      "language": null
+    }
+  },
+  {
+    "id": "226b50b0-b55b-4e5e-b0e0-9590bcd13fe8",
+    "title": "Why AI in the classroom is a catastrophe – Sophie Winkleman [ARC 2026] [video]",
+    "source_url": "https://www.youtube.com/watch?v=yFp5-i5fzyQ",
+    "source": "hacker_news",
+    "collected_at": "2026-06-26T10:49:12.287263+00:00",
+    "analyzed_at": "2026-06-26T10:49:12.287263+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=yFp5-i5fzyQ\nComments URL: https://news.ycombinator.com/item?id=48684854\nPoints: 3\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "yesbut",
+      "language": null
+    }
+  },
+  {
+    "id": "9fa0323b-8e5e-422b-bdda-65964372284d",
+    "title": "The AI LinkedIn Post Generator That Grows Your Professional Brand",
+    "source_url": "https://elevenwritt.com/blog/ai-linkedin-post-generator",
+    "source": "hacker_news",
+    "collected_at": "2026-06-26T10:49:13.534149+00:00",
+    "analyzed_at": "2026-06-26T10:49:13.534149+00:00",
+    "summary": "Article URL: https://elevenwritt.com/blog/ai-linkedin-post-generator\nComments URL: https://news.ycombinator.com/item?id=48684814\nPoints: 2\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "piusk",
+      "language": null
+    }
+  },
+  {
+    "id": "2028f06e-5eab-4ad8-be92-16015125dbd9",
+    "title": "The AI Productivity Trap Is More Output",
+    "source_url": "https://www.vincentschmalbach.com/the-ai-productivity-trap-is-more-output/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-26T10:49:14.816948+00:00",
+    "analyzed_at": "2026-06-26T10:49:14.816948+00:00",
+    "summary": "Article URL: https://www.vincentschmalbach.com/the-ai-productivity-trap-is-more-output/\nComments URL: https://news.ycombinator.com/item?id=48684639\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "vincent_s",
+      "language": null
+    }
+  },
+  {
+    "id": "941ccd5b-4d82-4671-8703-6d9fc6d4f01a",
+    "title": "AI Search Engine Exa Raises $250M Series C",
+    "source_url": "https://exa.ai/blog/announcing-series-c",
+    "source": "hacker_news",
+    "collected_at": "2026-06-26T10:49:16.100965+00:00",
+    "analyzed_at": "2026-06-26T10:49:16.100965+00:00",
+    "summary": "Article URL: https://exa.ai/blog/announcing-series-c\nComments URL: https://news.ycombinator.com/item?id=48684515\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ankitg12",
+      "language": null
+    }
+  },
+  {
+    "id": "1475e509-62c0-41e8-be15-7591ab9ae45d",
+    "title": "Intelligence per Watt: A Unified Metric for the AI Era",
+    "source_url": "https://www.intelligence-per-watt.ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-26T10:49:17.359554+00:00",
+    "analyzed_at": "2026-06-26T10:49:17.359554+00:00",
+    "summary": "Article URL: https://www.intelligence-per-watt.ai/\nComments URL: https://news.ycombinator.com/item?id=48684366\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ilreb",
+      "language": null
+    }
+  },
+  {
+    "id": "aa17e5fd-55c3-4a32-b240-4a7d154b21bc",
+    "title": "Everyone suddenly sells themselves as \"AI-native\" on LinkedIn",
+    "source_url": "https://write.as/7e9847vzuyxkx",
+    "source": "hacker_news",
+    "collected_at": "2026-06-26T10:49:18.629614+00:00",
+    "analyzed_at": "2026-06-26T10:49:18.629614+00:00",
+    "summary": "Article URL: https://write.as/7e9847vzuyxkx\nComments URL: https://news.ycombinator.com/item?id=48684339\nPoints: 4\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "garn810",
+      "language": null
+    }
+  },
+  {
+    "id": "ecc642f2-e320-42fd-b520-e14d3b2ac280",
+    "title": "California State Government Launches AI Job Loss Tracker as Layoff Fears Grow",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-06-25/california-state-government-launches-ai-job-loss-tracker-as-layoff-fears-grow",
+    "source": "hacker_news",
+    "collected_at": "2026-06-26T10:49:19.886856+00:00",
+    "analyzed_at": "2026-06-26T10:49:19.886856+00:00",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-06-25/california-state-government-launches-ai-job-loss-tracker-as-layoff-fears-grow\nComments URL: https://news.ycombinator.com/item?id=4868425",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "thm",
+      "language": null
+    }
+  },
+  {
+    "id": "46b3500c-48c8-4cd8-99ac-25484846d8c0",
+    "title": "AI 2027 Tracker",
+    "source_url": "https://ai2027-tracker.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-26T10:49:21.131275+00:00",
+    "analyzed_at": "2026-06-26T10:49:21.131275+00:00",
+    "summary": "Article URL: https://ai2027-tracker.com/\nComments URL: https://news.ycombinator.com/item?id=48684103\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "merksittich",
+      "language": null
+    }
+  },
+  {
+    "id": "640b4d06-5d74-4532-9742-72c047ad06fc",
+    "title": "Google Vids: AI-Powered Video Creator and Editor",
+    "source_url": "https://workspace.google.com/products/vids/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-26T10:49:22.378067+00:00",
+    "analyzed_at": "2026-06-26T10:49:22.378067+00:00",
+    "summary": "Article URL: https://workspace.google.com/products/vids/\nComments URL: https://news.ycombinator.com/item?id=48683953\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "tilt",
+      "language": null
+    }
+  },
+  {
+    "id": "f8e51bce-f889-4083-87ee-500a566072c1",
+    "title": "Samsung readies $648B bet, report says, as AI boom reshapes South Korea",
+    "source_url": "https://www.reuters.com/world/asia-pacific/samsung-invest-1000-trillion-won-south-korea-media-report-says-2026-06-25/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-26T10:49:23.625592+00:00",
+    "analyzed_at": "2026-06-26T10:49:23.625592+00:00",
+    "summary": "Article URL: https://www.reuters.com/world/asia-pacific/samsung-invest-1000-trillion-won-south-korea-media-report-says-2026-06-25/\nComments URL: https://news.ycombinator.com/item?id=48683323\nPoints: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "JumpCrisscross",
+      "language": null
+    }
+  },
+  {
+    "id": "9e78b88d-9404-4c44-a8bd-33ebcfd591e3",
+    "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
+    "source_url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-26T10:49:24.896891+00:00",
+    "analyzed_at": "2026-06-26T10:49:24.896891+00:00",
+    "summary": "Article URL: https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/\nComments URL: https://news.ycombinator.com/item?id=48683281\nPoint",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "joozio",
+      "language": null
+    }
+  },
+  {
+    "id": "a5a63270-838f-45ef-a3c7-0c83ffbf214f",
+    "title": "Ask HN: Why does every AI demo sound perfect but real world deployment always",
+    "source_url": "https://news.ycombinator.com/item?id=48683172",
+    "source": "hacker_news",
+    "collected_at": "2026-06-26T10:49:26.143205+00:00",
+    "analyzed_at": "2026-06-26T10:49:26.143205+00:00",
+    "summary": "disappoints?\nWorking on AI voice for small \nbusinesses. The gap between what \nAI can do in a controlled demo vs \nmessy real world phone calls is \neye opening.\n\nComments URL: https://news.ycombinator.c",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "VaderAi",
+      "language": null
+    }
+  }
+]

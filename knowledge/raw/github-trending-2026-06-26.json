@@ -1,0 +1,75 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-06-26T10:48:45.633983+00:00",
+  "items": [
+    {
+      "name": "m1ckc3s/claude-status-bar",
+      "url": "https://github.com/m1ckc3s/claude-status-bar",
+      "summary": "A tiny macOS menu bar status indicator for Claude Code: animated icons, elapsed timer, and open/close lifecycle.",
+      "stars": 342,
+      "language": "Swift",
+      "topics": []
+    },
+    {
+      "name": "amplifthq/opentag",
+      "url": "https://github.com/amplifthq/opentag",
+      "summary": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
+      "stars": 252,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "codex",
+        "github",
+        "slack"
+      ]
+    },
+    {
+      "name": "Accio-Lab/Dressage",
+      "url": "https://github.com/Accio-Lab/Dressage",
+      "summary": "Scalable RL framework for Any Agent and Sandbox.",
+      "stars": 189,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "QuantML-Research/wq-alpha-research",
+      "url": "https://github.com/QuantML-Research/wq-alpha-research",
+      "summary": "A self-evolving WorldQuant BRAIN alpha research skill.",
+      "stars": 189,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "cote-tony/walletgen",
+      "url": "https://github.com/cote-tony/walletgen",
+      "summary": "Seed phrase generator / checker for Bitcoin & Ethereum crypto wallets. Recovery your BTC or ETH wallet via seed phrase / private key bruteforce finding or brain wallet generator.",
+      "stars": 187,
+      "language": "C++",
+      "topics": [
+        "bitcoin-wallet",
+        "bruteforce-wallet",
+        "ethereum-bruteforce",
+        "ethereum-seed-key-finder",
+        "ethereum-tools",
+        "finder-crypto",
+        "lost-bitcoins",
+        "lost-bitcoins-wallet",
+        "lost-wallets",
+        "multithread-bruteforce",
+        "private-key",
+        "private-key-finder",
+        "seed-phrase-searcher",
+        "seed-phrases-finder",
+        "seed-phrases-generator",
+        "seed-recovery-tool",
+        "seedphrase-checker",
+        "seedphrase-generator",
+        "walletgen",
+        "wallets-finder"
+      ]
+    }
+  ]
+}
