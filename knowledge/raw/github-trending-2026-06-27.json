@@ -1,0 +1,153 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-06-27T10:05:21.346802+00:00",
+  "items": [
+    {
+      "name": "winsznx/theeleven",
+      "url": "https://github.com/winsznx/theeleven",
+      "summary": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
+      "stars": 541,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "defi",
+        "eip-3009",
+        "erc-8257",
+        "football",
+        "foundry",
+        "gasless",
+        "mcp",
+        "nextjs",
+        "okx",
+        "prediction-markets",
+        "solidity",
+        "uniswap-hooks",
+        "uniswap-v4",
+        "usdt0",
+        "web3",
+        "x-layer"
+      ]
+    },
+    {
+      "name": "deepseek-ai/DeepSpec",
+      "url": "https://github.com/deepseek-ai/DeepSpec",
+      "summary": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+      "stars": 412,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "nova452/ComfyUI-ConditioningRebalance",
+      "url": "https://github.com/nova452/ComfyUI-ConditioningRebalance",
+      "summary": "Conditioning optimizer nodes offering IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a",
+      "stars": 274,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "Pluviobyte/video-production-skills",
+      "url": "https://github.com/Pluviobyte/video-production-skills",
+      "summary": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
+      "stars": 267,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "xxniiinxx/coinflip-casino",
+      "url": "https://github.com/xxniiinxx/coinflip-casino",
+      "summary": "A full-stack, peer-to-peer coinflip betting game on Solana. Players connect a wallet, create or join on-chain game rooms, and compete head-to-head for 2× the stake. The UI updates in real time over We",
+      "stars": 205,
+      "language": "TypeScript",
+      "topics": [
+        "anchor",
+        "betting",
+        "blockchain-game",
+        "casino",
+        "coinflip",
+        "cryptocurrency",
+        "defi",
+        "fullstack",
+        "gambling",
+        "mongodb",
+        "orao-vrf",
+        "peer-to-peer",
+        "pvp",
+        "react",
+        "rust",
+        "solana",
+        "solana-game",
+        "spl-token",
+        "web3",
+        "websocket"
+      ]
+    },
+    {
+      "name": "MalcolmMcGough/polymarket-trading-bot-scalping",
+      "url": "https://github.com/MalcolmMcGough/polymarket-trading-bot-scalping",
+      "summary": "A high-perforomance automated trading bot for Polymarket's ultra-short crypto prediction markets - 5-minute and 15-minute Up/Down markets on XRP, BNB, ETH, SOL, BTC, and DOGE. Built around a crowd-mom",
+      "stars": 203,
+      "language": "TypeScript",
+      "topics": [
+        "bot",
+        "polymarket",
+        "polymarket-trading-bot",
+        "trading",
+        "trading-bot"
+      ]
+    },
+    {
+      "name": "abundantbeing/hermes-browser-extension",
+      "url": "https://github.com/abundantbeing/hermes-browser-extension",
+      "summary": "Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
+      "stars": 203,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "browser-extension",
+        "chrome-extension",
+        "edge-extension",
+        "hermes-agent",
+        "local-first",
+        "nous-research",
+        "sidepanel"
+      ]
+    },
+    {
+      "name": "zanetanasta/Seed-Generator",
+      "url": "https://github.com/zanetanasta/Seed-Generator",
+      "summary": "Professional BIP-39 Seed & HD Wallet Toolkit with 12–24 word mnemonics, checksum validation, BIP-44/49/84 derivation, and multi-chain support (BTC, ETH, SOL, LTC, DOGE, ADA, DOT, AVAX, ATOM, XRP, TRX)",
+      "stars": 189,
+      "language": "Python",
+      "topics": [
+        "brute-force-tool",
+        "mnemonic-code-converter",
+        "mnemonic-generator-solana",
+        "mnemonic-phrase",
+        "mnemonic-recovery",
+        "mnemonic-seed",
+        "mnemonics-generator",
+        "phrase-generator",
+        "seed-phase-checker",
+        "seed-phrases-finder",
+        "seed-phrases-generate",
+        "seed-phrases-generator",
+        "seed-recovery-2025",
+        "seed-recovery-tool",
+        "seed-tool-generate",
+        "seedphrase",
+        "seedphrase-checker",
+        "seedphrase-generator",
+        "seedphrase-generatorseed-generator"
+      ]
+    },
+    {
+      "name": "tutusagi/ai-fishing-game",
+      "url": "https://github.com/tutusagi/ai-fishing-game",
+      "summary": "🎣 给 AI 玩的确定性文字钓鱼小游戏 · 单文件零依赖 · 让你的 AI 伴侣来钓鱼",
+      "stars": 185,
+      "language": "Python",
+      "topics": []
+    }
+  ]
+}

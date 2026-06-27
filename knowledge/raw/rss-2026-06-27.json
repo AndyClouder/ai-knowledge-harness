@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-06-27T10:05:36.489074+00:00",
+  "items": [
+    {
+      "name": "What GUI or desktop app do you use to keep track of different AI sessions?",
+      "url": "https://news.ycombinator.com/item?id=48696704",
+      "summary": "What GUI apps do you use to manage different AI sessions?Command line (on Claude Code etc) is great but it is so hard to keep track of different sessions.I've tried the official apps (like Codex or Cl",
+      "source": "hacker_news",
+      "score": null,
+      "author": "howToTestFE",
+      "published": "Sat, 27 Jun 2026 09:44:16 +0000"
+    },
+    {
+      "name": "What Everyone Gets Wrong About AI and Learning [video]",
+      "url": "https://www.youtube.com/watch?v=0xS68sl2D70",
+      "summary": "Article URL: https://www.youtube.com/watch?v=0xS68sl2D70\nComments URL: https://news.ycombinator.com/item?id=48696399\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "thunderbong",
+      "published": "Sat, 27 Jun 2026 08:48:41 +0000"
+    },
+    {
+      "name": "Show HN: Brytlog – AI logger",
+      "url": "https://github.com/Guy-Sela/brytlog",
+      "summary": "Article URL: https://github.com/Guy-Sela/brytlog\nComments URL: https://news.ycombinator.com/item?id=48696184\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "guy-sela",
+      "published": "Sat, 27 Jun 2026 08:06:02 +0000"
+    },
+    {
+      "name": "The Calculator Discipline – AI-Assisted Disclosure Hallucinations",
+      "url": "https://zenodo.org/records/20393083",
+      "summary": "Article URL: https://zenodo.org/records/20393083\nComments URL: https://news.ycombinator.com/item?id=48696134\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ethical",
+      "published": "Sat, 27 Jun 2026 07:52:47 +0000"
+    },
+    {
+      "name": "There's Been a Subtle Shift in the AI Zeitgeist",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-06-26/there-s-been-a-subtle-shift-in-the-ai-zeitgeist",
+      "summary": "Article URL: https://www.bloomberg.com/news/newsletters/2026-06-26/there-s-been-a-subtle-shift-in-the-ai-zeitgeist\nComments URL: https://news.ycombinator.com/item?id=48695731\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Alien1Being",
+      "published": "Sat, 27 Jun 2026 06:30:52 +0000"
+    },
+    {
+      "name": "Tug: An IDE for AI Coding",
+      "url": "https://github.com/tugtool/tugtool",
+      "summary": "Article URL: https://github.com/tugtool/tugtool\nComments URL: https://news.ycombinator.com/item?id=48695730\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "azhenley",
+      "published": "Sat, 27 Jun 2026 06:30:47 +0000"
+    },
+    {
+      "name": "Why SpaceX Is the McDonald's of AI",
+      "url": "https://www.computerworld.com/article/4189645/why-spacex-is-the-mcdonalds-of-ai.html",
+      "summary": "Article URL: https://www.computerworld.com/article/4189645/why-spacex-is-the-mcdonalds-of-ai.html\nComments URL: https://news.ycombinator.com/item?id=48695727\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mikelgan",
+      "published": "Sat, 27 Jun 2026 06:30:07 +0000"
+    },
+    {
+      "name": "Democrats and Republicans agree: AI is scary",
+      "url": "https://economist.com/united-states/2026/06/25/democrats-and-republicans-agree-ai-is-scary",
+      "summary": "Article URL: https://economist.com/united-states/2026/06/25/democrats-and-republicans-agree-ai-is-scary\nComments URL: https://news.ycombinator.com/item?id=48695504\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "andsoitis",
+      "published": "Sat, 27 Jun 2026 05:43:21 +0000"
+    },
+    {
+      "name": "Ford execs say they made a mistake when they replaced human engineers with AI",
+      "url": "https://www.neowin.net/news/ford-execs-say-they-made-a-mistake-when-they-replaced-human-engineers-with-ai/",
+      "summary": "Article URL: https://www.neowin.net/news/ford-execs-say-they-made-a-mistake-when-they-replaced-human-engineers-with-ai/\nComments URL: https://news.ycombinator.com/item?id=48695489\nPoints: 2\n# Comments",
+      "source": "hacker_news",
+      "score": null,
+      "author": "gscott",
+      "published": "Sat, 27 Jun 2026 05:38:46 +0000"
+    },
+    {
+      "name": "We measured whether AI obeys architecture rules. Even Opus ignored them 60%",
+      "url": "https://hunch-pi.vercel.app/blog/post?slug=ai-ignores-your-architecture",
+      "summary": "Article URL: https://hunch-pi.vercel.app/blog/post?slug=ai-ignores-your-architecture\nComments URL: https://news.ycombinator.com/item?id=48695487\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "davesheffer",
+      "published": "Sat, 27 Jun 2026 05:38:30 +0000"
+    },
+    {
+      "name": "Show HN: OpenClaw Launch – deploy a managed OpenClaw AI agent in 30s",
+      "url": "https://openclawlaunch.com",
+      "summary": "Article URL: https://openclawlaunch.com\nComments URL: https://news.ycombinator.com/item?id=48695480\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "zackchew",
+      "published": "Sat, 27 Jun 2026 05:37:36 +0000"
+    },
+    {
+      "name": "What Is an AI Intelligence Layer for Business Data?",
+      "url": "https://www.corpusiq.io/blog/what-is-ai-intelligence-layer-business-data",
+      "summary": "Article URL: https://www.corpusiq.io/blog/what-is-ai-intelligence-layer-business-data\nComments URL: https://news.ycombinator.com/item?id=48695444\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "corpusiq_io",
+      "published": "Sat, 27 Jun 2026 05:31:30 +0000"
+    },
+    {
+      "name": "AI glasses help students cheat in exams – test-obsessed Asia is ground zero",
+      "url": "https://www.rnz.co.nz/news/world/628396/ai-glasses-are-helping-students-cheat-in-exams-test-obsessed-asia-is-ground-zero",
+      "summary": "Article URL: https://www.rnz.co.nz/news/world/628396/ai-glasses-are-helping-students-cheat-in-exams-test-obsessed-asia-is-ground-zero\nComments URL: https://news.ycombinator.com/item?id=48695248\nPoints",
+      "source": "hacker_news",
+      "score": null,
+      "author": "billybuckwheat",
+      "published": "Sat, 27 Jun 2026 04:53:07 +0000"
+    },
+    {
+      "name": "Promptetheus – Trace, detect, and auto-repair AI agent failures",
+      "url": "https://github.com/obro79/promptetheus",
+      "summary": "Article URL: https://github.com/obro79/promptetheus\nComments URL: https://news.ycombinator.com/item?id=48695176\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "tar-ive",
+      "published": "Sat, 27 Jun 2026 04:37:00 +0000"
+    },
+    {
+      "name": "Isn't US Government trying to monopolize AI as a super power?",
+      "url": "https://news.ycombinator.com/item?id=48694991",
+      "summary": "The US government recently gave a directive to OpenAI to delay the launch of it Fable 5 rival GPT 5.6 Sol. This comes after they have already put on hold the global public release of Claude Fable 5. I",
+      "source": "hacker_news",
+      "score": null,
+      "author": "StizzurpXDD",
+      "published": "Sat, 27 Jun 2026 03:57:33 +0000"
+    },
+    {
+      "name": "Find the right AI agents to build",
+      "url": "https://www.agentideahub.com",
+      "summary": "Article URL: https://www.agentideahub.com\nComments URL: https://news.ycombinator.com/item?id=48694897\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mattmerrick",
+      "published": "Sat, 27 Jun 2026 03:38:06 +0000"
+    },
+    {
+      "name": "US allows Anthropic to release Mythos AI to 'trusted' US organizations",
+      "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
+      "summary": "Article URL: https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/\nComments URL: https://news.ycombinator.com/item?id=48694885\nPoints: 1\n#",
+      "source": "hacker_news",
+      "score": null,
+      "author": "swolpers",
+      "published": "Sat, 27 Jun 2026 03:35:55 +0000"
+    },
+    {
+      "name": "Love Conquers Fear: Humanity, AI, and the Age of Abundance for All",
+      "url": "https://www.amazon.com/Love-Conquers-Fear-Humanity-Abundance-ebook/dp/B0GX32NPX5",
+      "summary": "Article URL: https://www.amazon.com/Love-Conquers-Fear-Humanity-Abundance-ebook/dp/B0GX32NPX5\nComments URL: https://news.ycombinator.com/item?id=48694760\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ilreb",
+      "published": "Sat, 27 Jun 2026 03:08:42 +0000"
+    },
+    {
+      "name": "Threats to US payment rails helped trigger Bessent's AI worries",
+      "url": "https://www.semafor.com/article/06/26/2026/bessent-engaged-on-ai-following-warnings-about-fed-payment-rails",
+      "summary": "Article URL: https://www.semafor.com/article/06/26/2026/bessent-engaged-on-ai-following-warnings-about-fed-payment-rails\nComments URL: https://news.ycombinator.com/item?id=48694728\nPoints: 2\n# Comment",
+      "source": "hacker_news",
+      "score": null,
+      "author": "tiahura",
+      "published": "Sat, 27 Jun 2026 03:02:28 +0000"
+    },
+    {
+      "name": "AI Erodes a Legacy of Reading",
+      "url": "https://molochinations.substack.com/p/ai-erodes-a-legacy-of-reading",
+      "summary": "Article URL: https://molochinations.substack.com/p/ai-erodes-a-legacy-of-reading\nComments URL: https://news.ycombinator.com/item?id=48694322\nPoints: 11\n# Comments: 4",
+      "source": "hacker_news",
+      "score": null,
+      "author": "domhudson",
+      "published": "Sat, 27 Jun 2026 01:39:43 +0000"
+    }
+  ]
+}

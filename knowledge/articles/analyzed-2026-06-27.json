@@ -1,0 +1,422 @@
+[
+  {
+    "id": "0b4ecb02-1d86-4508-bd89-b714ef027ba4",
+    "title": "winsznx/theeleven",
+    "source_url": "https://github.com/winsznx/theeleven",
+    "source": "unknown",
+    "collected_at": "2026-06-27T10:05:38.824777+00:00",
+    "analyzed_at": "2026-06-27T10:05:38.824777+00:00",
+    "summary": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 541,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "496ba466-75c1-4509-b041-257105934c18",
+    "title": "deepseek-ai/DeepSpec",
+    "source_url": "https://github.com/deepseek-ai/DeepSpec",
+    "source": "unknown",
+    "collected_at": "2026-06-27T10:05:40.148650+00:00",
+    "analyzed_at": "2026-06-27T10:05:40.148650+00:00",
+    "summary": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 412,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "0feb7423-5540-4000-af23-5d350423d736",
+    "title": "nova452/ComfyUI-ConditioningRebalance",
+    "source_url": "https://github.com/nova452/ComfyUI-ConditioningRebalance",
+    "source": "unknown",
+    "collected_at": "2026-06-27T10:05:41.540829+00:00",
+    "analyzed_at": "2026-06-27T10:05:41.540829+00:00",
+    "summary": "Conditioning optimizer nodes offering IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 274,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "73916c6f-e60d-4fea-a15f-67985a1b9147",
+    "title": "Pluviobyte/video-production-skills",
+    "source_url": "https://github.com/Pluviobyte/video-production-skills",
+    "source": "unknown",
+    "collected_at": "2026-06-27T10:05:42.871252+00:00",
+    "analyzed_at": "2026-06-27T10:05:42.871252+00:00",
+    "summary": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 267,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "e27815a9-6b2f-4608-8251-5fc5fa4ca443",
+    "title": "xxniiinxx/coinflip-casino",
+    "source_url": "https://github.com/xxniiinxx/coinflip-casino",
+    "source": "unknown",
+    "collected_at": "2026-06-27T10:05:44.196400+00:00",
+    "analyzed_at": "2026-06-27T10:05:44.196400+00:00",
+    "summary": "A full-stack, peer-to-peer coinflip betting game on Solana. Players connect a wallet, create or join on-chain game rooms, and compete head-to-head for 2× the stake. The UI updates in real time over We",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 205,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "dadffb3a-e560-4a14-ba46-389107d7c19d",
+    "title": "MalcolmMcGough/polymarket-trading-bot-scalping",
+    "source_url": "https://github.com/MalcolmMcGough/polymarket-trading-bot-scalping",
+    "source": "unknown",
+    "collected_at": "2026-06-27T10:05:45.590369+00:00",
+    "analyzed_at": "2026-06-27T10:05:45.590369+00:00",
+    "summary": "A high-perforomance automated trading bot for Polymarket's ultra-short crypto prediction markets - 5-minute and 15-minute Up/Down markets on XRP, BNB, ETH, SOL, BTC, and DOGE. Built around a crowd-mom",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 203,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "ae51a030-89c6-444b-8590-869695b4faf9",
+    "title": "abundantbeing/hermes-browser-extension",
+    "source_url": "https://github.com/abundantbeing/hermes-browser-extension",
+    "source": "unknown",
+    "collected_at": "2026-06-27T10:05:46.915994+00:00",
+    "analyzed_at": "2026-06-27T10:05:46.915994+00:00",
+    "summary": "Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 203,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "543228b6-3d10-41a7-83e2-83712ac4f377",
+    "title": "zanetanasta/Seed-Generator",
+    "source_url": "https://github.com/zanetanasta/Seed-Generator",
+    "source": "unknown",
+    "collected_at": "2026-06-27T10:05:48.266944+00:00",
+    "analyzed_at": "2026-06-27T10:05:48.266944+00:00",
+    "summary": "Professional BIP-39 Seed & HD Wallet Toolkit with 12–24 word mnemonics, checksum validation, BIP-44/49/84 derivation, and multi-chain support (BTC, ETH, SOL, LTC, DOGE, ADA, DOT, AVAX, ATOM, XRP, TRX)",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 189,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "2bd11f1b-ae1a-4b0c-b09a-65a888a38c68",
+    "title": "tutusagi/ai-fishing-game",
+    "source_url": "https://github.com/tutusagi/ai-fishing-game",
+    "source": "unknown",
+    "collected_at": "2026-06-27T10:05:49.622034+00:00",
+    "analyzed_at": "2026-06-27T10:05:49.622034+00:00",
+    "summary": "🎣 给 AI 玩的确定性文字钓鱼小游戏 · 单文件零依赖 · 让你的 AI 伴侣来钓鱼",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 185,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "e0d73be0-ae01-41c9-abc0-2adf59040cea",
+    "title": "What GUI or desktop app do you use to keep track of different AI sessions?",
+    "source_url": "https://news.ycombinator.com/item?id=48696704",
+    "source": "hacker_news",
+    "collected_at": "2026-06-27T10:05:50.946300+00:00",
+    "analyzed_at": "2026-06-27T10:05:50.946300+00:00",
+    "summary": "What GUI apps do you use to manage different AI sessions?Command line (on Claude Code etc) is great but it is so hard to keep track of different sessions.I've tried the official apps (like Codex or Cl",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "howToTestFE",
+      "language": null
+    }
+  },
+  {
+    "id": "bf544c1d-239b-44c7-ba60-b361b0d0f481",
+    "title": "What Everyone Gets Wrong About AI and Learning [video]",
+    "source_url": "https://www.youtube.com/watch?v=0xS68sl2D70",
+    "source": "hacker_news",
+    "collected_at": "2026-06-27T10:05:52.337818+00:00",
+    "analyzed_at": "2026-06-27T10:05:52.337818+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=0xS68sl2D70\nComments URL: https://news.ycombinator.com/item?id=48696399\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "thunderbong",
+      "language": null
+    }
+  },
+  {
+    "id": "304aaeee-2b23-4af3-bc39-2e65f0102b3f",
+    "title": "Show HN: Brytlog – AI logger",
+    "source_url": "https://github.com/Guy-Sela/brytlog",
+    "source": "hacker_news",
+    "collected_at": "2026-06-27T10:05:53.728329+00:00",
+    "analyzed_at": "2026-06-27T10:05:53.728329+00:00",
+    "summary": "Article URL: https://github.com/Guy-Sela/brytlog\nComments URL: https://news.ycombinator.com/item?id=48696184\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "guy-sela",
+      "language": null
+    }
+  },
+  {
+    "id": "5c54f7d2-8882-4dde-852c-217ce783760b",
+    "title": "The Calculator Discipline – AI-Assisted Disclosure Hallucinations",
+    "source_url": "https://zenodo.org/records/20393083",
+    "source": "hacker_news",
+    "collected_at": "2026-06-27T10:05:55.056090+00:00",
+    "analyzed_at": "2026-06-27T10:05:55.056090+00:00",
+    "summary": "Article URL: https://zenodo.org/records/20393083\nComments URL: https://news.ycombinator.com/item?id=48696134\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ethical",
+      "language": null
+    }
+  },
+  {
+    "id": "7c657d00-53cd-40c0-90df-e93a139c3de7",
+    "title": "There's Been a Subtle Shift in the AI Zeitgeist",
+    "source_url": "https://www.bloomberg.com/news/newsletters/2026-06-26/there-s-been-a-subtle-shift-in-the-ai-zeitgeist",
+    "source": "hacker_news",
+    "collected_at": "2026-06-27T10:05:56.380909+00:00",
+    "analyzed_at": "2026-06-27T10:05:56.380909+00:00",
+    "summary": "Article URL: https://www.bloomberg.com/news/newsletters/2026-06-26/there-s-been-a-subtle-shift-in-the-ai-zeitgeist\nComments URL: https://news.ycombinator.com/item?id=48695731\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Alien1Being",
+      "language": null
+    }
+  },
+  {
+    "id": "b5d7477b-e075-40bd-8c07-d4cceed2af56",
+    "title": "Tug: An IDE for AI Coding",
+    "source_url": "https://github.com/tugtool/tugtool",
+    "source": "hacker_news",
+    "collected_at": "2026-06-27T10:05:57.706340+00:00",
+    "analyzed_at": "2026-06-27T10:05:57.706340+00:00",
+    "summary": "Article URL: https://github.com/tugtool/tugtool\nComments URL: https://news.ycombinator.com/item?id=48695730\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "azhenley",
+      "language": null
+    }
+  },
+  {
+    "id": "533308af-1efd-4d18-8984-e7909bd418f9",
+    "title": "Why SpaceX Is the McDonald's of AI",
+    "source_url": "https://www.computerworld.com/article/4189645/why-spacex-is-the-mcdonalds-of-ai.html",
+    "source": "hacker_news",
+    "collected_at": "2026-06-27T10:05:59.030040+00:00",
+    "analyzed_at": "2026-06-27T10:05:59.030040+00:00",
+    "summary": "Article URL: https://www.computerworld.com/article/4189645/why-spacex-is-the-mcdonalds-of-ai.html\nComments URL: https://news.ycombinator.com/item?id=48695727\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mikelgan",
+      "language": null
+    }
+  },
+  {
+    "id": "1813bfeb-3f8e-4326-8fde-2d5a62ed76c2",
+    "title": "Democrats and Republicans agree: AI is scary",
+    "source_url": "https://economist.com/united-states/2026/06/25/democrats-and-republicans-agree-ai-is-scary",
+    "source": "hacker_news",
+    "collected_at": "2026-06-27T10:06:00.356435+00:00",
+    "analyzed_at": "2026-06-27T10:06:00.356435+00:00",
+    "summary": "Article URL: https://economist.com/united-states/2026/06/25/democrats-and-republicans-agree-ai-is-scary\nComments URL: https://news.ycombinator.com/item?id=48695504\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "andsoitis",
+      "language": null
+    }
+  },
+  {
+    "id": "87b25574-8912-4824-97c5-f0f330a69c2f",
+    "title": "Ford execs say they made a mistake when they replaced human engineers with AI",
+    "source_url": "https://www.neowin.net/news/ford-execs-say-they-made-a-mistake-when-they-replaced-human-engineers-with-ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-27T10:06:01.750023+00:00",
+    "analyzed_at": "2026-06-27T10:06:01.750023+00:00",
+    "summary": "Article URL: https://www.neowin.net/news/ford-execs-say-they-made-a-mistake-when-they-replaced-human-engineers-with-ai/\nComments URL: https://news.ycombinator.com/item?id=48695489\nPoints: 2\n# Comments",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "gscott",
+      "language": null
+    }
+  },
+  {
+    "id": "52d2dc1f-ca9e-4927-a32a-4d06699e2b7c",
+    "title": "We measured whether AI obeys architecture rules. Even Opus ignored them 60%",
+    "source_url": "https://hunch-pi.vercel.app/blog/post?slug=ai-ignores-your-architecture",
+    "source": "hacker_news",
+    "collected_at": "2026-06-27T10:06:03.074962+00:00",
+    "analyzed_at": "2026-06-27T10:06:03.074962+00:00",
+    "summary": "Article URL: https://hunch-pi.vercel.app/blog/post?slug=ai-ignores-your-architecture\nComments URL: https://news.ycombinator.com/item?id=48695487\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "davesheffer",
+      "language": null
+    }
+  },
+  {
+    "id": "43ef5d65-443b-429f-a72e-64cad70d4405",
+    "title": "Show HN: OpenClaw Launch – deploy a managed OpenClaw AI agent in 30s",
+    "source_url": "https://openclawlaunch.com",
+    "source": "hacker_news",
+    "collected_at": "2026-06-27T10:06:04.494028+00:00",
+    "analyzed_at": "2026-06-27T10:06:04.494028+00:00",
+    "summary": "Article URL: https://openclawlaunch.com\nComments URL: https://news.ycombinator.com/item?id=48695480\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "zackchew",
+      "language": null
+    }
+  }
+]
