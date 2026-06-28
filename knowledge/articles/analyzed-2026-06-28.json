@@ -1,0 +1,422 @@
+[
+  {
+    "id": "17a60587-663b-474f-9003-03d17aeb60f9",
+    "title": "fancydirty/mediary-scout",
+    "source_url": "https://github.com/fancydirty/mediary-scout",
+    "source": "unknown",
+    "collected_at": "2026-06-28T10:26:13.879874+00:00",
+    "analyzed_at": "2026-06-28T10:26:13.879874+00:00",
+    "summary": "Agent-driven media library for your cloud drives (115 / Quark / 光鸭 GuangYaPan).",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 437,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "e31d4d98-e749-4c36-b526-03df1354ba45",
+    "title": "nova452/ComfyUI-Conditioning-Rebalance",
+    "source_url": "https://github.com/nova452/ComfyUI-Conditioning-Rebalance",
+    "source": "unknown",
+    "collected_at": "2026-06-28T10:26:15.128423+00:00",
+    "analyzed_at": "2026-06-28T10:26:15.128423+00:00",
+    "summary": "Conditioning optimizer nodes offering IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 287,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "492eca67-f755-4f7a-8407-071441e5178c",
+    "title": "xxniiinxx/coinflip-casino-game",
+    "source_url": "https://github.com/xxniiinxx/coinflip-casino-game",
+    "source": "unknown",
+    "collected_at": "2026-06-28T10:26:16.374416+00:00",
+    "analyzed_at": "2026-06-28T10:26:16.374416+00:00",
+    "summary": "A full-stack, peer-to-peer coinflip betting casino game on Solana. Players connect a wallet, create or join on-chain game rooms, and compete head-to-head for 2× the stake. The UI updates in real time ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 271,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "c2d662ff-0743-41bf-b1c7-c6be683dc4df",
+    "title": "eli-labz/Godcoder",
+    "source_url": "https://github.com/eli-labz/Godcoder",
+    "source": "unknown",
+    "collected_at": "2026-06-28T10:26:17.620244+00:00",
+    "analyzed_at": "2026-06-28T10:26:17.620244+00:00",
+    "summary": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 245,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "53652ac5-2893-4011-a139-0a4133d20a71",
+    "title": "uphiago/recon-skills",
+    "source_url": "https://github.com/uphiago/recon-skills",
+    "source": "unknown",
+    "collected_at": "2026-06-28T10:26:18.866180+00:00",
+    "analyzed_at": "2026-06-28T10:26:18.866180+00:00",
+    "summary": "144 offensive security skills for recon and pentest. Field-validated techniques from 600+ targets across 45+ sectors. Updated with web enum, email sec, google dorks, cloud IAM, WordPress full compromi",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 220,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "b55f35c1-0f95-436f-86d3-18ec07dea90d",
+    "title": "NotASithLord/peerd",
+    "source_url": "https://github.com/NotASithLord/peerd",
+    "source": "unknown",
+    "collected_at": "2026-06-28T10:26:20.112349+00:00",
+    "analyzed_at": "2026-06-28T10:26:20.112349+00:00",
+    "summary": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser — drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, clie",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 202,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "372a6536-8cd3-45a0-ba3f-c89c65c59cc4",
+    "title": "Tiny LLM Benchmark: Jetson Orin Nano Super 8GB",
+    "source_url": "https://www.smolhub.com/posts/jetson-nano-super-benchmark-non-reasoning/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-28T10:26:21.365896+00:00",
+    "analyzed_at": "2026-06-28T10:26:21.365896+00:00",
+    "summary": "Article URL: https://www.smolhub.com/posts/jetson-nano-super-benchmark-non-reasoning/\nComments URL: https://news.ycombinator.com/item?id=48705815\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "orbanlevi",
+      "language": null
+    }
+  },
+  {
+    "id": "0925aa1c-24b9-4edb-a528-640760c6ef10",
+    "title": "A Transformer Becomes an LLM",
+    "source_url": "https://bharad.dev/blog/from-transformer-to-llm",
+    "source": "hacker_news",
+    "collected_at": "2026-06-28T10:26:22.613007+00:00",
+    "analyzed_at": "2026-06-28T10:26:22.613007+00:00",
+    "summary": "Article URL: https://bharad.dev/blog/from-transformer-to-llm\nComments URL: https://news.ycombinator.com/item?id=48705350\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "bharadwajp",
+      "language": null
+    }
+  },
+  {
+    "id": "eb0dfdfd-9b09-42e5-84a7-6b1d07fa82b5",
+    "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+    "source_url": "https://github.com/itsthelore/wayfinder-router",
+    "source": "hacker_news",
+    "collected_at": "2026-06-28T10:26:23.858554+00:00",
+    "analyzed_at": "2026-06-28T10:26:23.858554+00:00",
+    "summary": "Article URL: https://github.com/itsthelore/wayfinder-router\nComments URL: https://news.ycombinator.com/item?id=48704373\nPoints: 69\n# Comments: 18",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "handfuloflight",
+      "language": null
+    }
+  },
+  {
+    "id": "889f664d-4289-4fc1-9232-16e7649dd6a3",
+    "title": "Improved LLM as a Judge Techniques",
+    "source_url": "https://arxiv.org/abs/2606.27226",
+    "source": "hacker_news",
+    "collected_at": "2026-06-28T10:26:25.104509+00:00",
+    "analyzed_at": "2026-06-28T10:26:25.104509+00:00",
+    "summary": "Article URL: https://arxiv.org/abs/2606.27226\nComments URL: https://news.ycombinator.com/item?id=48704006\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "haritha1313",
+      "language": null
+    }
+  },
+  {
+    "id": "6e91c733-cb44-4b71-8d25-86c5a48fc206",
+    "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+    "source_url": "https://github.com/kamaludu/bash4llm/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-28T10:26:26.352942+00:00",
+    "analyzed_at": "2026-06-28T10:26:26.352942+00:00",
+    "summary": "Hi HN!I built Bash4LLM+ because I wanted a minimal, transparent, and completely customizable way to interact with LLM APIs directly from my terminal, without having to spin up heavy Python virtual env",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "kamaludu",
+      "language": null
+    }
+  },
+  {
+    "id": "a07b950a-079c-4838-ab03-b6826f7a47ff",
+    "title": "Show HN: KV-psi, using Linux PSI to to trim an LLM KV cache",
+    "source_url": "https://github.com/infiniteregrets/kv-psi",
+    "source": "hacker_news",
+    "collected_at": "2026-06-28T10:26:27.626852+00:00",
+    "analyzed_at": "2026-06-28T10:26:27.626852+00:00",
+    "summary": "I thought it'd be interesting to use  Linux PSI (Pressure Stall Information) for an LLM runtime to trim the KV cache. This is mainly useful imo for edge devices like the Jetson Orin super nano kit whi",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "infiniteregrets",
+      "language": null
+    }
+  },
+  {
+    "id": "c6a9e1af-05d9-47db-be3c-e9c0c9a30c1d",
+    "title": "Open handoff: Thought Tree, a markup/spec idea for modular LLM workflows",
+    "source_url": "https://github.com/RobertBateman/thoughttree-framework",
+    "source": "hacker_news",
+    "collected_at": "2026-06-28T10:26:28.873177+00:00",
+    "analyzed_at": "2026-06-28T10:26:28.873177+00:00",
+    "summary": "Article URL: https://github.com/RobertBateman/thoughttree-framework\nComments URL: https://news.ycombinator.com/item?id=48701254\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "xavier1764",
+      "language": null
+    }
+  },
+  {
+    "id": "732c6ce3-a016-4c7d-9513-8cf786900600",
+    "title": "Show HN: Ocarina – Automate and test MCP servers from YAML, no LLM",
+    "source_url": "https://github.com/msradam/ocarina",
+    "source": "hacker_news",
+    "collected_at": "2026-06-28T10:26:30.121031+00:00",
+    "analyzed_at": "2026-06-28T10:26:30.121031+00:00",
+    "summary": "Hi all. As someone who has spent years working with Ansible and other automation frameworks, the recent MCP boom has me fascinated. People are creating nice, typed, LLM-readable (and thus human-readab",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "msradam",
+      "language": null
+    }
+  },
+  {
+    "id": "c5ca2f75-2d5e-4ec2-964f-5fcd4f7824e6",
+    "title": "Distributed LLM Inference with LLM-d",
+    "source_url": "https://cefboud.com/posts/llm-d/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-28T10:26:31.364956+00:00",
+    "analyzed_at": "2026-06-28T10:26:31.364956+00:00",
+    "summary": "Article URL: https://cefboud.com/posts/llm-d/\nComments URL: https://news.ycombinator.com/item?id=48699083\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "cefboud",
+      "language": null
+    }
+  },
+  {
+    "id": "05514ff6-8be8-4070-a2ab-5258ba595899",
+    "title": "Show HN: Apex-1-flash, 4B LLM finetuned on RTX 5070",
+    "source_url": "https://huggingface.co/OrbitAIEU/Apex-1-flash",
+    "source": "hacker_news",
+    "collected_at": "2026-06-28T10:26:32.609459+00:00",
+    "analyzed_at": "2026-06-28T10:26:32.609459+00:00",
+    "summary": "The goal was to create a highly efficient, small-scale model that can perform reasoning tasks while remaining lightweight enough to run easily on consumer hardware.\n Technical Stack:\n Base: Qwen3:4B\n ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Qmay_Dev",
+      "language": null
+    }
+  },
+  {
+    "id": "815a7cb6-b35d-4e20-b047-cd7f7c9288e9",
+    "title": "Stop wasting your LLM context window on standard JSON and YAML",
+    "source_url": "https://www.npmjs.com/package/mason-parser",
+    "source": "hacker_news",
+    "collected_at": "2026-06-28T10:26:33.857375+00:00",
+    "analyzed_at": "2026-06-28T10:26:33.857375+00:00",
+    "summary": "Article URL: https://www.npmjs.com/package/mason-parser\nComments URL: https://news.ycombinator.com/item?id=48698444\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "DustLee",
+      "language": null
+    }
+  },
+  {
+    "id": "f33e09b8-5ff7-4d69-a36e-bed9607f48bd",
+    "title": "BlueBookOS: An LLM microkernel and language for specifying apps",
+    "source_url": "https://bluebookos.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-28T10:26:35.102374+00:00",
+    "analyzed_at": "2026-06-28T10:26:35.102374+00:00",
+    "summary": "Article URL: https://bluebookos.com/\nComments URL: https://news.ycombinator.com/item?id=48697658\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "logn",
+      "language": null
+    }
+  },
+  {
+    "id": "3f69ad4c-ba18-4372-8924-e21f58326f9e",
+    "title": "Ask HN: How do we measure software in LLM era?",
+    "source_url": "https://news.ycombinator.com/item?id=48696916",
+    "source": "hacker_news",
+    "collected_at": "2026-06-28T10:26:36.359402+00:00",
+    "analyzed_at": "2026-06-28T10:26:36.359402+00:00",
+    "summary": "A bit of a rant.  Sorry!With the probablistic pluggable 'brain' existing in parts of the solution how are you measuring anything is better or worse?I am at a loss to quantify whether anything is impro",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "bonigv",
+      "language": null
+    }
+  },
+  {
+    "id": "2e93443a-6739-4953-b327-9376463a3d62",
+    "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+    "source_url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+    "source": "hacker_news",
+    "collected_at": "2026-06-28T10:26:37.607354+00:00",
+    "analyzed_at": "2026-06-28T10:26:37.607354+00:00",
+    "summary": "Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf\nComments URL: https://news.ycombinator.com/item?id=48696585\nPoints: 762\n# Comments: 323",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "aurenvale",
+      "language": null
+    }
+  }
+]

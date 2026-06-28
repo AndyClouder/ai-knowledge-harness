@@ -1,0 +1,104 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-06-28T10:25:30.812268+00:00",
+  "items": [
+    {
+      "name": "fancydirty/mediary-scout",
+      "url": "https://github.com/fancydirty/mediary-scout",
+      "summary": "Agent-driven media library for your cloud drives (115 / Quark / 光鸭 GuangYaPan).",
+      "stars": 437,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "nova452/ComfyUI-Conditioning-Rebalance",
+      "url": "https://github.com/nova452/ComfyUI-Conditioning-Rebalance",
+      "summary": "Conditioning optimizer nodes offering IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a",
+      "stars": 287,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "xxniiinxx/coinflip-casino-game",
+      "url": "https://github.com/xxniiinxx/coinflip-casino-game",
+      "summary": "A full-stack, peer-to-peer coinflip betting casino game on Solana. Players connect a wallet, create or join on-chain game rooms, and compete head-to-head for 2× the stake. The UI updates in real time ",
+      "stars": 271,
+      "language": "TypeScript",
+      "topics": [
+        "anchor",
+        "betting",
+        "blockchain-game",
+        "casino",
+        "coinflip",
+        "cryptocurrency",
+        "defi",
+        "fullstack",
+        "gambling",
+        "mongodb"
+      ]
+    },
+    {
+      "name": "eli-labz/Godcoder",
+      "url": "https://github.com/eli-labz/Godcoder",
+      "summary": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
+      "stars": 245,
+      "language": "Rust",
+      "topics": [
+        "ai",
+        "coding-agent",
+        "desktop-app",
+        "llm",
+        "local-first",
+        "mcp",
+        "open-source",
+        "openai",
+        "rust",
+        "tauri"
+      ]
+    },
+    {
+      "name": "uphiago/recon-skills",
+      "url": "https://github.com/uphiago/recon-skills",
+      "summary": "144 offensive security skills for recon and pentest. Field-validated techniques from 600+ targets across 45+ sectors. Updated with web enum, email sec, google dorks, cloud IAM, WordPress full compromi",
+      "stars": 220,
+      "language": "Python",
+      "topics": [
+        "bug-bounty",
+        "cloud-security",
+        "cors-exploitation",
+        "firebase-hacking",
+        "hermes-agent",
+        "jwt-attacks",
+        "offensive-security",
+        "penetration-testing",
+        "reconnaissance",
+        "red-team",
+        "security-automation",
+        "ssrf",
+        "subdomain-enumeration",
+        "supabase",
+        "wordpress-security"
+      ]
+    },
+    {
+      "name": "NotASithLord/peerd",
+      "url": "https://github.com/NotASithLord/peerd",
+      "summary": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser — drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, clie",
+      "stars": 202,
+      "language": "JavaScript",
+      "topics": [
+        "agentic",
+        "ai-agent",
+        "browser-extension",
+        "chrome-extension",
+        "firefox-extension",
+        "llm",
+        "manifest-v3",
+        "p2p",
+        "webassembly",
+        "webrtc"
+      ]
+    }
+  ]
+}
