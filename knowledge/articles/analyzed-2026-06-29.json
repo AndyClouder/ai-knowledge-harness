@@ -1,0 +1,422 @@
+[
+  {
+    "id": "23bc6624-93df-4c2c-8d53-f9a9edfe5a0d",
+    "title": "tdeverx/contained-app",
+    "source_url": "https://github.com/tdeverx/contained-app",
+    "source": "unknown",
+    "collected_at": "2026-06-29T12:29:14.584903+00:00",
+    "analyzed_at": "2026-06-29T12:29:14.584903+00:00",
+    "summary": "A native macOS app for Apple's Container CLI",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 343,
+      "score": null,
+      "author": null,
+      "language": "Swift"
+    }
+  },
+  {
+    "id": "ae63d600-6ee7-4530-a1d0-34f0cbb6867e",
+    "title": "Einsia/Browser-BC",
+    "source_url": "https://github.com/Einsia/Browser-BC",
+    "source": "unknown",
+    "collected_at": "2026-06-29T12:29:15.849585+00:00",
+    "analyzed_at": "2026-06-29T12:29:15.849585+00:00",
+    "summary": "Agent behavior clone for browser using, targeting general GUI using and distributed trajectory collecting.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 276,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "58a9671e-4f12-468a-a8e6-d3fcf49a26a2",
+    "title": "offchainthoughts/Amber",
+    "source_url": "https://github.com/offchainthoughts/Amber",
+    "source": "unknown",
+    "collected_at": "2026-06-29T12:29:17.145514+00:00",
+    "analyzed_at": "2026-06-29T12:29:17.145514+00:00",
+    "summary": "Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 262,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "9fd8cd5c-fdcd-4b60-8609-a616eb9baf46",
+    "title": "ma7mod7/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
+    "source_url": "https://github.com/ma7mod7/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
+    "source": "unknown",
+    "collected_at": "2026-06-29T12:29:18.412316+00:00",
+    "analyzed_at": "2026-06-29T12:29:18.412316+00:00",
+    "summary": "Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 236,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "2bdc9739-a5f5-4b0a-8528-6ddea9ba1301",
+    "title": "ziwang-Physics/AgentChat",
+    "source_url": "https://github.com/ziwang-Physics/AgentChat",
+    "source": "unknown",
+    "collected_at": "2026-06-29T12:29:19.678920+00:00",
+    "analyzed_at": "2026-06-29T12:29:19.678920+00:00",
+    "summary": "",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 236,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "2268ddfa-40af-49b8-b6f6-9ebb1dcdaa35",
+    "title": "YurunChen/repo-docs-skills",
+    "source_url": "https://github.com/YurunChen/repo-docs-skills",
+    "source": "unknown",
+    "collected_at": "2026-06-29T12:29:20.945591+00:00",
+    "analyzed_at": "2026-06-29T12:29:20.945591+00:00",
+    "summary": "Living project docs for coding agents: keep guides, progress logs, change maps, and handoff context updated as your repo evolves.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 235,
+      "score": null,
+      "author": null,
+      "language": "CSS"
+    }
+  },
+  {
+    "id": "90fd4c00-c9b4-4cbd-86b2-c390e4e26398",
+    "title": "AI-Enhanced Writing",
+    "source_url": "https://enocc.com/blog/2026-04-09-on-ai-enhanced-writing.html",
+    "source": "hacker_news",
+    "collected_at": "2026-06-29T12:29:22.211285+00:00",
+    "analyzed_at": "2026-06-29T12:29:22.211285+00:00",
+    "summary": "Article URL: https://enocc.com/blog/2026-04-09-on-ai-enhanced-writing.html\nComments URL: https://news.ycombinator.com/item?id=48718315\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "speckx",
+      "language": null
+    }
+  },
+  {
+    "id": "f4e57d95-0742-4ea7-a2ba-eb233fca452e",
+    "title": "Ask HN: AI robbed my joy of reading books?",
+    "source_url": "https://news.ycombinator.com/item?id=48718276",
+    "source": "hacker_news",
+    "collected_at": "2026-06-29T12:29:23.478666+00:00",
+    "analyzed_at": "2026-06-29T12:29:23.478666+00:00",
+    "summary": "I use AI everyday(Claude Code, ChatGPT, and so on..), and I'm used to getting  answer immediately from AI.\nI read the novel for the first time in several months, But I couldn't concentrate. I felt a s",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "hasudon7171",
+      "language": null
+    }
+  },
+  {
+    "id": "d2b5e764-0ad9-4ca7-80d3-71cad0d35085",
+    "title": "Route Phone Calls to an AI Agent with the Telnyx Voice API",
+    "source_url": "https://telnyx.com/resources/route-phone-calls-ai-agent",
+    "source": "hacker_news",
+    "collected_at": "2026-06-29T12:29:24.790277+00:00",
+    "analyzed_at": "2026-06-29T12:29:24.790277+00:00",
+    "summary": "Article URL: https://telnyx.com/resources/route-phone-calls-ai-agent\nComments URL: https://news.ycombinator.com/item?id=48718270\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "harpreetseehra",
+      "language": null
+    }
+  },
+  {
+    "id": "f1d8fe27-73b7-48b0-942f-7d8681964b8e",
+    "title": "Has anyone here used the AI trading bot \"Zentriq\"? Looking for honest feedback",
+    "source_url": "https://qafstudio.gumroad.com/l/zentriq",
+    "source": "hacker_news",
+    "collected_at": "2026-06-29T12:29:26.055058+00:00",
+    "analyzed_at": "2026-06-29T12:29:26.055058+00:00",
+    "summary": "Article URL: https://qafstudio.gumroad.com/l/zentriq\nComments URL: https://news.ycombinator.com/item?id=48718194\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "klegolas",
+      "language": null
+    }
+  },
+  {
+    "id": "de412804-6721-4c88-acee-7db3fb62d7a6",
+    "title": "Weathering the Storm of AI",
+    "source_url": "https://www.bencodezen.io/blog/weathering-the-storm-of-ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-29T12:29:27.319474+00:00",
+    "analyzed_at": "2026-06-29T12:29:27.319474+00:00",
+    "summary": "Article URL: https://www.bencodezen.io/blog/weathering-the-storm-of-ai/\nComments URL: https://news.ycombinator.com/item?id=48718100\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mooreds",
+      "language": null
+    }
+  },
+  {
+    "id": "83d111c7-d75d-46c1-968d-f3157e5a4023",
+    "title": "Show HN: Reference MCP – let your AI agents search each other's past sessions",
+    "source_url": "https://github.com/kuberwastaken/reference",
+    "source": "hacker_news",
+    "collected_at": "2026-06-29T12:29:28.602510+00:00",
+    "analyzed_at": "2026-06-29T12:29:28.602510+00:00",
+    "summary": "I was tired of asking my claude code to reference my codex chats to get references to what decisions it made and why ; so I built Reference MCPIt, whenever prompted establishes sessions to get direct ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "kuberwastaken",
+      "language": null
+    }
+  },
+  {
+    "id": "85fbf558-4315-4e11-937a-999839c2ce06",
+    "title": "OpenAI, Anthropic new AI spending reality as users shift to efficiency",
+    "source_url": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
+    "source": "hacker_news",
+    "collected_at": "2026-06-29T12:29:29.901763+00:00",
+    "analyzed_at": "2026-06-29T12:29:29.901763+00:00",
+    "summary": "Article URL: https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html\nComments URL: https://news.ycombinator.com/item?id=48717986\nPoints: 3\n# Comments",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pkaeding",
+      "language": null
+    }
+  },
+  {
+    "id": "ed7e6927-1cdc-4359-bd10-8adc7195f54e",
+    "title": "How to pick the AI agents worth building",
+    "source_url": "https://www.theaithinker.com/p/how-to-pick-the-ai-agents-worth-building",
+    "source": "hacker_news",
+    "collected_at": "2026-06-29T12:29:31.165796+00:00",
+    "analyzed_at": "2026-06-29T12:29:31.165796+00:00",
+    "summary": "Article URL: https://www.theaithinker.com/p/how-to-pick-the-ai-agents-worth-building\nComments URL: https://news.ycombinator.com/item?id=48717881\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "adamfaik",
+      "language": null
+    }
+  },
+  {
+    "id": "ec4355d2-661d-4222-99dc-abcb2b2fc71d",
+    "title": "Frontier Code (AI coding benchmark)",
+    "source_url": "https://cognition.com/blog/frontier-code",
+    "source": "hacker_news",
+    "collected_at": "2026-06-29T12:29:32.431283+00:00",
+    "analyzed_at": "2026-06-29T12:29:32.431283+00:00",
+    "summary": "Article URL: https://cognition.com/blog/frontier-code\nComments URL: https://news.ycombinator.com/item?id=48717839\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "nicoburns",
+      "language": null
+    }
+  },
+  {
+    "id": "056a831d-19ba-454a-a991-22d1a4499aa9",
+    "title": "Are you in AI answers? Find out and fix it in minutes",
+    "source_url": "https://www.mentionedby.world/",
+    "source": "hacker_news",
+    "collected_at": "2026-06-29T12:29:33.697421+00:00",
+    "analyzed_at": "2026-06-29T12:29:33.697421+00:00",
+    "summary": "Article URL: https://www.mentionedby.world/\nComments URL: https://news.ycombinator.com/item?id=48717813\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "aykhanstoic",
+      "language": null
+    }
+  },
+  {
+    "id": "b7adfe72-8aed-4e80-abf8-ff1cb27a9389",
+    "title": "AI and the Collapse of the Www",
+    "source_url": "https://www.nber.org/papers/w35344",
+    "source": "hacker_news",
+    "collected_at": "2026-06-29T12:29:34.965134+00:00",
+    "analyzed_at": "2026-06-29T12:29:34.965134+00:00",
+    "summary": "Article URL: https://www.nber.org/papers/w35344\nComments URL: https://news.ycombinator.com/item?id=48717672\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jmsflknr",
+      "language": null
+    }
+  },
+  {
+    "id": "c1013e9f-5866-4e2c-876d-8cb4f5a23b23",
+    "title": "Gatekeeping the Frontier: When AI Access Becomes a National Security Concern",
+    "source_url": "https://www.rusi.org/explore-our-research/publications/commentary/gatekeeping-frontier-when-ai-access-becomes-national-security-concern",
+    "source": "hacker_news",
+    "collected_at": "2026-06-29T12:29:36.231570+00:00",
+    "analyzed_at": "2026-06-29T12:29:36.231570+00:00",
+    "summary": "Article URL: https://www.rusi.org/explore-our-research/publications/commentary/gatekeeping-frontier-when-ai-access-becomes-national-security-concern\nComments URL: https://news.ycombinator.com/item?id=",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ironyman",
+      "language": null
+    }
+  },
+  {
+    "id": "bcbe347d-27d3-4684-a834-085d36adc537",
+    "title": "The true cost of software development, updated for the world of AI",
+    "source_url": "https://daniel-payne-keldan-systems.medium.com/how-much-800def6bb346",
+    "source": "hacker_news",
+    "collected_at": "2026-06-29T12:29:37.496225+00:00",
+    "analyzed_at": "2026-06-29T12:29:37.496225+00:00",
+    "summary": "Article URL: https://daniel-payne-keldan-systems.medium.com/how-much-800def6bb346\nComments URL: https://news.ycombinator.com/item?id=48717410\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "daniel-payne",
+      "language": null
+    }
+  },
+  {
+    "id": "6f18762e-143b-454a-9a55-b90e11101efc",
+    "title": "Ask HN: What is happening with the current AI startup ecosystem?",
+    "source_url": "https://news.ycombinator.com/item?id=48717402",
+    "source": "hacker_news",
+    "collected_at": "2026-06-29T12:29:38.764700+00:00",
+    "analyzed_at": "2026-06-29T12:29:38.764700+00:00",
+    "summary": "As an outsider to the US ecosystem, a lot of the surrounding startup activity feels strange to me. Many companies seem to be building thin wrappers, agent orchestration layers, AI-generated apps, or B",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "kefal",
+      "language": null
+    }
+  }
+]

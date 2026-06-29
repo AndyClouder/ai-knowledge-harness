@@ -1,0 +1,75 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-06-29T12:29:00.036399+00:00",
+  "items": [
+    {
+      "name": "tdeverx/contained-app",
+      "url": "https://github.com/tdeverx/contained-app",
+      "summary": "A native macOS app for Apple's Container CLI",
+      "stars": 343,
+      "language": "Swift",
+      "topics": [
+        "apple-container",
+        "apple-silicon",
+        "containers",
+        "devtools",
+        "docker-alternative",
+        "liquid-glass",
+        "macos",
+        "sparkle",
+        "swift",
+        "swiftpm",
+        "swiftui"
+      ]
+    },
+    {
+      "name": "Einsia/Browser-BC",
+      "url": "https://github.com/Einsia/Browser-BC",
+      "summary": "Agent behavior clone for browser using, targeting general GUI using and distributed trajectory collecting.",
+      "stars": 276,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "offchainthoughts/Amber",
+      "url": "https://github.com/offchainthoughts/Amber",
+      "summary": "Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
+      "stars": 262,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "ma7mod7/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
+      "url": "https://github.com/ma7mod7/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
+      "summary": "Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
+      "stars": 236,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "ziwang-Physics/AgentChat",
+      "url": "https://github.com/ziwang-Physics/AgentChat",
+      "summary": "",
+      "stars": 236,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "YurunChen/repo-docs-skills",
+      "url": "https://github.com/YurunChen/repo-docs-skills",
+      "summary": "Living project docs for coding agents: keep guides, progress logs, change maps, and handoff context updated as your repo evolves.",
+      "stars": 235,
+      "language": "CSS",
+      "topics": [
+        "claude-code",
+        "claude-skills",
+        "codex-skills",
+        "coding-agent",
+        "skills",
+        "understanding",
+        "vibe-coding"
+      ]
+    }
+  ]
+}
