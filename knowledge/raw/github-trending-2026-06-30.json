@@ -1,0 +1,57 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-06-30T10:54:40.675490+00:00",
+  "items": [
+    {
+      "name": "blknoiz0632/CandyDrop",
+      "url": "https://github.com/blknoiz0632/CandyDrop",
+      "summary": "Cut the rope. Feed the monster. Earn real Solana. A skill-based play-to-earn puzzle on @Solana — play, stack $CANDY, claim SOL. No wagers. Just skill.",
+      "stars": 359,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "name": "TianhangZhuzth/Fundamental-Ava",
+      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+      "summary": "Build digital human beings — autonomous, collaborative, and socially intelligent agents.",
+      "stars": 303,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agents"
+      ]
+    },
+    {
+      "name": "lycorp-jp/sim-use",
+      "url": "https://github.com/lycorp-jp/sim-use",
+      "summary": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
+      "stars": 291,
+      "language": "Swift",
+      "topics": [
+        "accessibility",
+        "ai-agents",
+        "ai-development",
+        "android-emulator",
+        "ios-simulator",
+        "mobile-automation"
+      ]
+    },
+    {
+      "name": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
+      "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
+      "summary": "Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully undetected and user-friendly.",
+      "stars": 213,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
+      "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
+      "summary": "Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully undetected and user-friendly.",
+      "stars": 212,
+      "language": "Python",
+      "topics": []
+    }
+  ]
+}
