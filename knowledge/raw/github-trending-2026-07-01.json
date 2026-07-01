@@ -1,0 +1,73 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-07-01T11:21:19.412088+00:00",
+  "items": [
+    {
+      "name": "Kulaxyz/self-learning-skills",
+      "url": "https://github.com/Kulaxyz/self-learning-skills",
+      "summary": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
+      "stars": 455,
+      "language": null,
+      "topics": []
+    },
+    {
+      "name": "PMTraderAdam/500-per-day-trading-bot",
+      "url": "https://github.com/PMTraderAdam/500-per-day-trading-bot",
+      "summary": "polymarket trading bot polymarket bot polymarket bot polymarket bot polymarket copy trading bot polymarket copytrading bot polymarket trading bot polymarket trading bot polymarket trading bot polymark",
+      "stars": 346,
+      "language": "TypeScript",
+      "topics": [
+        "bot",
+        "copytrading",
+        "polymarket",
+        "polymarket-arbitrage-bot",
+        "polymarket-bot",
+        "polymarket-copy-trading-bot",
+        "polymarket-copytrading-bot",
+        "polymarket-trading-bot"
+      ]
+    },
+    {
+      "name": "mekos2772/ios-location-spoofer",
+      "url": "https://github.com/mekos2772/ios-location-spoofer",
+      "summary": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
+      "stars": 274,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "name": "revfactory/webtoon-harness",
+      "url": "https://github.com/revfactory/webtoon-harness",
+      "summary": "트렌드 조사부터 세로 스크롤 뷰어 완성까지, 웹툰 한 회차를 27개 AI 에이전트 팀이 만들어내는 Claude Code 하네스",
+      "stars": 233,
+      "language": "HTML",
+      "topics": []
+    },
+    {
+      "name": "ik190/macos-chatgpt-overlay-bar",
+      "url": "https://github.com/ik190/macos-chatgpt-overlay-bar",
+      "summary": "ChatGPT for Mac, living in your menubar.",
+      "stars": 233,
+      "language": null,
+      "topics": [
+        "ai",
+        "chatgpt",
+        "chatgpt-bar-mac",
+        "chatgpt-menubar-mac",
+        "chatgpt-quick-access-mac",
+        "chatgpt-statusbar",
+        "free-gpt-bar",
+        "mac",
+        "macos",
+        "macos-ai",
+        "macos-ai-app",
+        "macos-app",
+        "macos-application",
+        "macos-gpt",
+        "macos-menubar",
+        "menubar-app"
+      ]
+    }
+  ]
+}

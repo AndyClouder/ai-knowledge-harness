@@ -1,0 +1,107 @@
+[
+  {
+    "id": "6e14088f-1f77-4a2e-9efb-118ef2c94e94",
+    "title": "Kulaxyz/self-learning-skills",
+    "source_url": "https://github.com/Kulaxyz/self-learning-skills",
+    "source": "unknown",
+    "collected_at": "2026-07-01T11:21:22.509107+00:00",
+    "analyzed_at": "2026-07-01T11:21:22.509107+00:00",
+    "summary": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 455,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "d615deb2-d5c0-4aab-86e2-b22aa7bb102e",
+    "title": "PMTraderAdam/500-per-day-trading-bot",
+    "source_url": "https://github.com/PMTraderAdam/500-per-day-trading-bot",
+    "source": "unknown",
+    "collected_at": "2026-07-01T11:21:23.863428+00:00",
+    "analyzed_at": "2026-07-01T11:21:23.863428+00:00",
+    "summary": "polymarket trading bot polymarket bot polymarket bot polymarket bot polymarket copy trading bot polymarket copytrading bot polymarket trading bot polymarket trading bot polymarket trading bot polymark",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 346,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "043b2c65-3e21-479f-bef7-d86cac8341fc",
+    "title": "mekos2772/ios-location-spoofer",
+    "source_url": "https://github.com/mekos2772/ios-location-spoofer",
+    "source": "unknown",
+    "collected_at": "2026-07-01T11:21:25.217902+00:00",
+    "analyzed_at": "2026-07-01T11:21:25.217902+00:00",
+    "summary": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 274,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "607010b6-101d-422a-bb7e-20bdb57a76f2",
+    "title": "revfactory/webtoon-harness",
+    "source_url": "https://github.com/revfactory/webtoon-harness",
+    "source": "unknown",
+    "collected_at": "2026-07-01T11:21:26.571048+00:00",
+    "analyzed_at": "2026-07-01T11:21:26.571048+00:00",
+    "summary": "트렌드 조사부터 세로 스크롤 뷰어 완성까지, 웹툰 한 회차를 27개 AI 에이전트 팀이 만들어내는 Claude Code 하네스",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 233,
+      "score": null,
+      "author": null,
+      "language": "HTML"
+    }
+  },
+  {
+    "id": "3e1cc93a-7d92-4797-825a-be92f9cf96f8",
+    "title": "ik190/macos-chatgpt-overlay-bar",
+    "source_url": "https://github.com/ik190/macos-chatgpt-overlay-bar",
+    "source": "unknown",
+    "collected_at": "2026-07-01T11:21:27.925867+00:00",
+    "analyzed_at": "2026-07-01T11:21:27.925867+00:00",
+    "summary": "ChatGPT for Mac, living in your menubar.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 233,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  }
+]
