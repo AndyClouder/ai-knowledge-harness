@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-07-02T10:35:10.816399+00:00",
+  "items": [
+    {
+      "name": "Testing Fable: interview with Norbert Wiener, the man who warned about AI – 1948",
+      "url": "https://aiweekly.co/editors-blog/testing-fable-interview-with-norbert-wiener",
+      "summary": "Article URL: https://aiweekly.co/editors-blog/testing-fable-interview-with-norbert-wiener\nComments URL: https://news.ycombinator.com/item?id=48759223\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "adu_onemore",
+      "published": "Thu, 02 Jul 2026 10:31:19 +0000"
+    },
+    {
+      "name": "Cloudflare sets AI crawler deadline: separate search or be blocked",
+      "url": "https://www.nbcnews.com/tech/tech-news/cloudflare-sets-ai-crawler-deadline-separate-search-blocked-rcna352446",
+      "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/cloudflare-sets-ai-crawler-deadline-separate-search-blocked-rcna352446\nComments URL: https://news.ycombinator.com/item?id=48759190\nPoints: 2\n# Comme",
+      "source": "hacker_news",
+      "score": null,
+      "author": "donohoe",
+      "published": "Thu, 02 Jul 2026 10:27:25 +0000"
+    },
+    {
+      "name": "The Anthropic Fable Ban Is Over. The Battle over How to Tame AI Has Just Begun",
+      "url": "https://www.wsj.com/tech/ai/the-anthropic-fable-ban-is-over-the-battle-over-how-to-tame-ai-has-just-begun-e93f51d6",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/the-anthropic-fable-ban-is-over-the-battle-over-how-to-tame-ai-has-just-begun-e93f51d6\nComments URL: https://news.ycombinator.com/item?id=48759022\nPoints: 3\n# ",
+      "source": "hacker_news",
+      "score": null,
+      "author": "cebert",
+      "published": "Thu, 02 Jul 2026 10:07:36 +0000"
+    },
+    {
+      "name": "Trainety – a marketplace for AI project publishers and providers",
+      "url": "https://www.trainety.com/",
+      "summary": "Article URL: https://www.trainety.com/\nComments URL: https://news.ycombinator.com/item?id=48758985\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "xuxurimu",
+      "published": "Thu, 02 Jul 2026 10:02:35 +0000"
+    },
+    {
+      "name": "Show HN: SophMate – AI Copilot for WordPress/WooCommerce",
+      "url": "https://sophmate.ai",
+      "summary": "Hello,I wanted to share with you my new project SophMate it is an AI store/site assistant with automation features and advanced insights about your store.I would love some feedback if you check it out",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ahmed_duski",
+      "published": "Thu, 02 Jul 2026 09:54:06 +0000"
+    },
+    {
+      "name": "AI Is Getting Dumber. That's Not a Good Thing. [video]",
+      "url": "https://www.youtube.com/watch?v=vXHPRQTwrr4",
+      "summary": "Article URL: https://www.youtube.com/watch?v=vXHPRQTwrr4\nComments URL: https://news.ycombinator.com/item?id=48758828\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "unfocso",
+      "published": "Thu, 02 Jul 2026 09:40:35 +0000"
+    },
+    {
+      "name": "Show HN: Dart_agent_core – Run AI agents in Flutter apps with lifecycle hooks",
+      "url": "https://github.com/memex-lab/dart_agent_core",
+      "summary": "Article URL: https://github.com/memex-lab/dart_agent_core\nComments URL: https://news.ycombinator.com/item?id=48758624\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "sparkleMing",
+      "published": "Thu, 02 Jul 2026 09:14:29 +0000"
+    },
+    {
+      "name": "Your site, your rules: new AI traffic options for all customers",
+      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+      "summary": "Article URL: https://blog.cloudflare.com/content-independence-day-ai-options/\nComments URL: https://news.ycombinator.com/item?id=48758617\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "frereubu",
+      "published": "Thu, 02 Jul 2026 09:13:26 +0000"
+    },
+    {
+      "name": "Show HN: Ghbrk – Let AI agents run Git/gh without exposing SSH keys/API tokens",
+      "url": "https://github.com/marconae/ghbrk",
+      "summary": "Article URL: https://github.com/marconae/ghbrk\nComments URL: https://news.ycombinator.com/item?id=48758568\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "marconae",
+      "published": "Thu, 02 Jul 2026 09:07:55 +0000"
+    },
+    {
+      "name": "Open Source AI Must Win",
+      "url": "https://opensourceaimustwin.com",
+      "summary": "Article URL: https://opensourceaimustwin.com\nComments URL: https://news.ycombinator.com/item?id=48758546\nPoints: 4\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Gedxx",
+      "published": "Thu, 02 Jul 2026 09:05:51 +0000"
+    },
+    {
+      "name": "Show HN: MyWritingTwin: an AI Writing Profile that makes LLMs sound like you",
+      "url": "https://www.mywritingtwin.com",
+      "summary": "Article URL: https://www.mywritingtwin.com\nComments URL: https://news.ycombinator.com/item?id=48757804\nPoints: 3\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "writingdna",
+      "published": "Thu, 02 Jul 2026 07:31:12 +0000"
+    },
+    {
+      "name": "EXo Platform 7.2: Native AI Powering a Unified and Intelligent Digital Workplace",
+      "url": "https://www.exoplatform.com/blog/exo-platform-7-2-ai-powered-unified-digital-workplace/",
+      "summary": "Article URL: https://www.exoplatform.com/blog/exo-platform-7-2-ai-powered-unified-digital-workplace/\nComments URL: https://news.ycombinator.com/item?id=48757766\nPoints: 4\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "jaouanebrahim",
+      "published": "Thu, 02 Jul 2026 07:27:38 +0000"
+    },
+    {
+      "name": "Show HN: Noter – AI agent dashboard for monitoring coding harnesses locally",
+      "url": "https://noterai.tech",
+      "summary": "Article URL: https://noterai.tech\nComments URL: https://news.ycombinator.com/item?id=48757613\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "carlobizzaro",
+      "published": "Thu, 02 Jul 2026 07:08:16 +0000"
+    },
+    {
+      "name": "Text AI watermarks will always be trivial to remove",
+      "url": "https://www.seangoedecke.com/text-ai-watermarks/",
+      "summary": "Article URL: https://www.seangoedecke.com/text-ai-watermarks/\nComments URL: https://news.ycombinator.com/item?id=48757466\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ingve",
+      "published": "Thu, 02 Jul 2026 06:49:46 +0000"
+    },
+    {
+      "name": "Show HN: Scalable AI Management Platform",
+      "url": "https://github.com/metadist/synaplan/",
+      "summary": "Synaplan is Apache2, comes with Open Source helm charts for K8s and has all major AI APIS integrated, including Ollama for local fun. Pretty powerful for hosters, who want to run their branded version",
+      "source": "hacker_news",
+      "score": null,
+      "author": "metaralf",
+      "published": "Thu, 02 Jul 2026 06:45:33 +0000"
+    },
+    {
+      "name": "The gauge broke: devs felt 20% faster with AI, measured 19% slower",
+      "url": "https://intrepidkarthi.com/writing/the-gauge-broke/",
+      "summary": "Article URL: https://intrepidkarthi.com/writing/the-gauge-broke/\nComments URL: https://news.ycombinator.com/item?id=48757440\nPoints: 68\n# Comments: 89",
+      "source": "hacker_news",
+      "score": null,
+      "author": "intrepidkarthi",
+      "published": "Thu, 02 Jul 2026 06:44:34 +0000"
+    },
+    {
+      "name": "BioShocking AI: \"Gaming\" the AI Browser and Escaping Its Guardrails",
+      "url": "https://layerxsecurity.com/blog/bioshocking-ai-gaming-the-ai-browser-and-escaping-its-guardrails/",
+      "summary": "Article URL: https://layerxsecurity.com/blog/bioshocking-ai-gaming-the-ai-browser-and-escaping-its-guardrails/\nComments URL: https://news.ycombinator.com/item?id=48757436\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "croes",
+      "published": "Thu, 02 Jul 2026 06:44:04 +0000"
+    },
+    {
+      "name": "Rasa Intelligence: AI diagnostic engine-gives one business verdict in 90 seconds",
+      "url": "https://tech-rasa.com",
+      "summary": "Article URL: https://tech-rasa.com\nComments URL: https://news.ycombinator.com/item?id=48757301\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Deepti251",
+      "published": "Thu, 02 Jul 2026 06:23:26 +0000"
+    },
+    {
+      "name": "AI Tutor on Your Screen",
+      "url": "https://heybraza.com",
+      "summary": "Article URL: https://heybraza.com\nComments URL: https://news.ycombinator.com/item?id=48757033\nPoints: 1\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "orakulus",
+      "published": "Thu, 02 Jul 2026 05:50:02 +0000"
+    },
+    {
+      "name": "On AI Text Detection",
+      "url": "https://ethansmith2000.substack.com/p/ai-text-detection-arms-dealers-in",
+      "summary": "Article URL: https://ethansmith2000.substack.com/p/ai-text-detection-arms-dealers-in\nComments URL: https://news.ycombinator.com/item?id=48756891\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "dvrp",
+      "published": "Thu, 02 Jul 2026 05:27:21 +0000"
+    }
+  ]
+}

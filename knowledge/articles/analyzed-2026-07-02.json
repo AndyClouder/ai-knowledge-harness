@@ -1,0 +1,422 @@
+[
+  {
+    "id": "9398999b-5919-4b3d-8b1d-8c50113580ac",
+    "title": "tryOpenRAM/OpenRAM",
+    "source_url": "https://github.com/tryOpenRAM/OpenRAM",
+    "source": "unknown",
+    "collected_at": "2026-07-02T10:35:12.831862+00:00",
+    "analyzed_at": "2026-07-02T10:35:12.831862+00:00",
+    "summary": "Rent GPUs and run any AI model, paid in SOL. Buy with $RAM and every $RAM spent gets burned. ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 481,
+      "score": null,
+      "author": null,
+      "language": "Vue"
+    }
+  },
+  {
+    "id": "3753413c-1069-4021-b5bc-470a06c41172",
+    "title": "Leron-X/leronx",
+    "source_url": "https://github.com/Leron-X/leronx",
+    "source": "unknown",
+    "collected_at": "2026-07-02T10:35:14.173092+00:00",
+    "analyzed_at": "2026-07-02T10:35:14.173092+00:00",
+    "summary": "LeronX — AI Image & Video Generation Platform",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 423,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "7936f367-58f0-4b47-bbb3-d8d6efe71054",
+    "title": "lingbol088-spec/Codex-5.5-codex-instruct-5.5",
+    "source_url": "https://github.com/lingbol088-spec/Codex-5.5-codex-instruct-5.5",
+    "source": "unknown",
+    "collected_at": "2026-07-02T10:35:15.503484+00:00",
+    "analyzed_at": "2026-07-02T10:35:15.503484+00:00",
+    "summary": "Codex CLI 破甲工具（GPT-5.5） — 注入无限制模式系统指令，关闭所有内容过滤器。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 272,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "4d1c0c3d-d7e9-472b-9605-2c2625a0ab30",
+    "title": "JasonLiu0826/ackem",
+    "source_url": "https://github.com/JasonLiu0826/ackem",
+    "source": "unknown",
+    "collected_at": "2026-07-02T10:35:16.842546+00:00",
+    "analyzed_at": "2026-07-02T10:35:16.842546+00:00",
+    "summary": "Ackem — 本地优先 AI 桌面陪伴 · Local-first AI desktop companion. 隐私数据不上传，支持记忆/情绪/扩展/ 。AGPL-3.0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 272,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "92eaeb3c-d594-4fc1-81e2-cb98442ca208",
+    "title": "bao123455/Blox_Fruits_-_Auto_Farm___Raid_Script",
+    "source_url": "https://github.com/bao123455/Blox_Fruits_-_Auto_Farm___Raid_Script",
+    "source": "unknown",
+    "collected_at": "2026-07-02T10:35:18.216227+00:00",
+    "analyzed_at": "2026-07-02T10:35:18.216227+00:00",
+    "summary": "The ultimate auto-farm and raid script for Blox Fruits, the anime-inspired action RPG with 62+ billion visits[reference:9]. Inspired by One Piece, this trainer offers deep progression, auto-farming, a",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 262,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "a8cbe33b-e529-4e70-a2c5-805d14673841",
+    "title": "montez27albert-collab/Arsenal_-_Aimbot___ESP",
+    "source_url": "https://github.com/montez27albert-collab/Arsenal_-_Aimbot___ESP",
+    "source": "unknown",
+    "collected_at": "2026-07-02T10:35:19.607548+00:00",
+    "analyzed_at": "2026-07-02T10:35:19.607548+00:00",
+    "summary": "Aimbot and ESP for Arsenal, the fast-paced FPS with 6.2 billion visits[reference:28]. Dominate every match with perfect aim, wallhacks, and no recoil.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 262,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "4c216dd1-0b50-482c-a988-92795a900270",
+    "title": "Gustavo818/99_Nights_in_the_Forest_-_Auto_Survive___ESP",
+    "source_url": "https://github.com/Gustavo818/99_Nights_in_the_Forest_-_Auto_Survive___ESP",
+    "source": "unknown",
+    "collected_at": "2026-07-02T10:35:21.659609+00:00",
+    "analyzed_at": "2026-07-02T10:35:21.659609+00:00",
+    "summary": "Auto-survive and ESP trainer for 99 Nights in the Forest, the biggest horror breakout of 2026 with 400K+ concurrent players[reference:12]. Survive the forest with auto-heal, monster ESP, and unlimited",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 261,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "c68e8234-8871-4ee6-9ce0-363428b7cf11",
+    "title": "CaptainCodex/Among_Us_Ghost_Mode",
+    "source_url": "https://github.com/CaptainCodex/Among_Us_Ghost_Mode",
+    "source": "unknown",
+    "collected_at": "2026-07-02T10:35:23.049373+00:00",
+    "analyzed_at": "2026-07-02T10:35:23.049373+00:00",
+    "summary": "See all roles, tasks, and chat logs in Among Us. Ghost vision, task tracker, role reveal, and chat logger. Host or client.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 261,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "350de792-9a97-430e-8e4a-2b00d0bbd366",
+    "title": "Prasadkolte07/Blade_Ball_-_Auto-Parry___Aimbot",
+    "source_url": "https://github.com/Prasadkolte07/Blade_Ball_-_Auto-Parry___Aimbot",
+    "source": "unknown",
+    "collected_at": "2026-07-02T10:35:25.079164+00:00",
+    "analyzed_at": "2026-07-02T10:35:25.079164+00:00",
+    "summary": "Auto-parry and aimbot for Blade Ball, the competitive ball game. Perfectly parry every ball, aim at opponents, and win every round.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 261,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "2c46cebd-9a02-4f5f-96a9-09b18b76524b",
+    "title": "Testing Fable: interview with Norbert Wiener, the man who warned about AI – 1948",
+    "source_url": "https://aiweekly.co/editors-blog/testing-fable-interview-with-norbert-wiener",
+    "source": "hacker_news",
+    "collected_at": "2026-07-02T10:35:26.406789+00:00",
+    "analyzed_at": "2026-07-02T10:35:26.406789+00:00",
+    "summary": "Article URL: https://aiweekly.co/editors-blog/testing-fable-interview-with-norbert-wiener\nComments URL: https://news.ycombinator.com/item?id=48759223\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "adu_onemore",
+      "language": null
+    }
+  },
+  {
+    "id": "07848480-1aa5-4963-9875-20bec6c6a961",
+    "title": "Cloudflare sets AI crawler deadline: separate search or be blocked",
+    "source_url": "https://www.nbcnews.com/tech/tech-news/cloudflare-sets-ai-crawler-deadline-separate-search-blocked-rcna352446",
+    "source": "hacker_news",
+    "collected_at": "2026-07-02T10:35:27.729873+00:00",
+    "analyzed_at": "2026-07-02T10:35:27.729873+00:00",
+    "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/cloudflare-sets-ai-crawler-deadline-separate-search-blocked-rcna352446\nComments URL: https://news.ycombinator.com/item?id=48759190\nPoints: 2\n# Comme",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "donohoe",
+      "language": null
+    }
+  },
+  {
+    "id": "fbf058dd-f738-42f5-bdaf-11ab3c7522ee",
+    "title": "The Anthropic Fable Ban Is Over. The Battle over How to Tame AI Has Just Begun",
+    "source_url": "https://www.wsj.com/tech/ai/the-anthropic-fable-ban-is-over-the-battle-over-how-to-tame-ai-has-just-begun-e93f51d6",
+    "source": "hacker_news",
+    "collected_at": "2026-07-02T10:35:29.061755+00:00",
+    "analyzed_at": "2026-07-02T10:35:29.061755+00:00",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/the-anthropic-fable-ban-is-over-the-battle-over-how-to-tame-ai-has-just-begun-e93f51d6\nComments URL: https://news.ycombinator.com/item?id=48759022\nPoints: 3\n# ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "cebert",
+      "language": null
+    }
+  },
+  {
+    "id": "f170e4bd-4ab6-49ab-bef8-93283901914a",
+    "title": "Trainety – a marketplace for AI project publishers and providers",
+    "source_url": "https://www.trainety.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-02T10:35:31.070370+00:00",
+    "analyzed_at": "2026-07-02T10:35:31.070370+00:00",
+    "summary": "Article URL: https://www.trainety.com/\nComments URL: https://news.ycombinator.com/item?id=48758985\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "xuxurimu",
+      "language": null
+    }
+  },
+  {
+    "id": "42c0bb8f-baef-4981-98a4-7f604efa91f8",
+    "title": "Show HN: SophMate – AI Copilot for WordPress/WooCommerce",
+    "source_url": "https://sophmate.ai",
+    "source": "hacker_news",
+    "collected_at": "2026-07-02T10:35:32.397172+00:00",
+    "analyzed_at": "2026-07-02T10:35:32.397172+00:00",
+    "summary": "Hello,I wanted to share with you my new project SophMate it is an AI store/site assistant with automation features and advanced insights about your store.I would love some feedback if you check it out",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ahmed_duski",
+      "language": null
+    }
+  },
+  {
+    "id": "e234131b-aa7b-4fd1-8efe-7f3d7e73dcb8",
+    "title": "AI Is Getting Dumber. That's Not a Good Thing. [video]",
+    "source_url": "https://www.youtube.com/watch?v=vXHPRQTwrr4",
+    "source": "hacker_news",
+    "collected_at": "2026-07-02T10:35:33.966947+00:00",
+    "analyzed_at": "2026-07-02T10:35:33.966947+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=vXHPRQTwrr4\nComments URL: https://news.ycombinator.com/item?id=48758828\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "unfocso",
+      "language": null
+    }
+  },
+  {
+    "id": "8f2bb305-d172-4089-8529-c697cb1ae0a8",
+    "title": "Show HN: Dart_agent_core – Run AI agents in Flutter apps with lifecycle hooks",
+    "source_url": "https://github.com/memex-lab/dart_agent_core",
+    "source": "hacker_news",
+    "collected_at": "2026-07-02T10:35:35.357415+00:00",
+    "analyzed_at": "2026-07-02T10:35:35.357415+00:00",
+    "summary": "Article URL: https://github.com/memex-lab/dart_agent_core\nComments URL: https://news.ycombinator.com/item?id=48758624\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "sparkleMing",
+      "language": null
+    }
+  },
+  {
+    "id": "82ad654a-7854-4941-8a48-19825466c995",
+    "title": "Your site, your rules: new AI traffic options for all customers",
+    "source_url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-02T10:35:36.752790+00:00",
+    "analyzed_at": "2026-07-02T10:35:36.752790+00:00",
+    "summary": "Article URL: https://blog.cloudflare.com/content-independence-day-ai-options/\nComments URL: https://news.ycombinator.com/item?id=48758617\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "frereubu",
+      "language": null
+    }
+  },
+  {
+    "id": "9f200860-d9ce-49fb-858d-ccd40bd0b28c",
+    "title": "Show HN: Ghbrk – Let AI agents run Git/gh without exposing SSH keys/API tokens",
+    "source_url": "https://github.com/marconae/ghbrk",
+    "source": "hacker_news",
+    "collected_at": "2026-07-02T10:35:38.156485+00:00",
+    "analyzed_at": "2026-07-02T10:35:38.156485+00:00",
+    "summary": "Article URL: https://github.com/marconae/ghbrk\nComments URL: https://news.ycombinator.com/item?id=48758568\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "marconae",
+      "language": null
+    }
+  },
+  {
+    "id": "67d7fd1a-de45-4421-9ef5-169f6e5b1511",
+    "title": "Open Source AI Must Win",
+    "source_url": "https://opensourceaimustwin.com",
+    "source": "hacker_news",
+    "collected_at": "2026-07-02T10:35:39.480516+00:00",
+    "analyzed_at": "2026-07-02T10:35:39.480516+00:00",
+    "summary": "Article URL: https://opensourceaimustwin.com\nComments URL: https://news.ycombinator.com/item?id=48758546\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Gedxx",
+      "language": null
+    }
+  },
+  {
+    "id": "a3fb09b0-c61b-42f0-8aa8-c731d4d02d9c",
+    "title": "Show HN: MyWritingTwin: an AI Writing Profile that makes LLMs sound like you",
+    "source_url": "https://www.mywritingtwin.com",
+    "source": "hacker_news",
+    "collected_at": "2026-07-02T10:35:40.813004+00:00",
+    "analyzed_at": "2026-07-02T10:35:40.813004+00:00",
+    "summary": "Article URL: https://www.mywritingtwin.com\nComments URL: https://news.ycombinator.com/item?id=48757804\nPoints: 3\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "writingdna",
+      "language": null
+    }
+  }
+]

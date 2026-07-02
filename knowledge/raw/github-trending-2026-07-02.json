@@ -1,0 +1,79 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-07-02T10:35:07.564791+00:00",
+  "items": [
+    {
+      "name": "tryOpenRAM/OpenRAM",
+      "url": "https://github.com/tryOpenRAM/OpenRAM",
+      "summary": "Rent GPUs and run any AI model, paid in SOL. Buy with $RAM and every $RAM spent gets burned. ",
+      "stars": 481,
+      "language": "Vue",
+      "topics": []
+    },
+    {
+      "name": "Leron-X/leronx",
+      "url": "https://github.com/Leron-X/leronx",
+      "summary": "LeronX — AI Image & Video Generation Platform",
+      "stars": 423,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "lingbol088-spec/Codex-5.5-codex-instruct-5.5",
+      "url": "https://github.com/lingbol088-spec/Codex-5.5-codex-instruct-5.5",
+      "summary": "Codex CLI 破甲工具（GPT-5.5） — 注入无限制模式系统指令，关闭所有内容过滤器。",
+      "stars": 272,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "JasonLiu0826/ackem",
+      "url": "https://github.com/JasonLiu0826/ackem",
+      "summary": "Ackem — 本地优先 AI 桌面陪伴 · Local-first AI desktop companion. 隐私数据不上传，支持记忆/情绪/扩展/ 。AGPL-3.0",
+      "stars": 272,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "bao123455/Blox_Fruits_-_Auto_Farm___Raid_Script",
+      "url": "https://github.com/bao123455/Blox_Fruits_-_Auto_Farm___Raid_Script",
+      "summary": "The ultimate auto-farm and raid script for Blox Fruits, the anime-inspired action RPG with 62+ billion visits[reference:9]. Inspired by One Piece, this trainer offers deep progression, auto-farming, a",
+      "stars": 262,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "montez27albert-collab/Arsenal_-_Aimbot___ESP",
+      "url": "https://github.com/montez27albert-collab/Arsenal_-_Aimbot___ESP",
+      "summary": "Aimbot and ESP for Arsenal, the fast-paced FPS with 6.2 billion visits[reference:28]. Dominate every match with perfect aim, wallhacks, and no recoil.",
+      "stars": 262,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "Gustavo818/99_Nights_in_the_Forest_-_Auto_Survive___ESP",
+      "url": "https://github.com/Gustavo818/99_Nights_in_the_Forest_-_Auto_Survive___ESP",
+      "summary": "Auto-survive and ESP trainer for 99 Nights in the Forest, the biggest horror breakout of 2026 with 400K+ concurrent players[reference:12]. Survive the forest with auto-heal, monster ESP, and unlimited",
+      "stars": 261,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "CaptainCodex/Among_Us_Ghost_Mode",
+      "url": "https://github.com/CaptainCodex/Among_Us_Ghost_Mode",
+      "summary": "See all roles, tasks, and chat logs in Among Us. Ghost vision, task tracker, role reveal, and chat logger. Host or client.",
+      "stars": 261,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "Prasadkolte07/Blade_Ball_-_Auto-Parry___Aimbot",
+      "url": "https://github.com/Prasadkolte07/Blade_Ball_-_Auto-Parry___Aimbot",
+      "summary": "Auto-parry and aimbot for Blade Ball, the competitive ball game. Perfectly parry every ball, aim at opponents, and win every round.",
+      "stars": 261,
+      "language": "Python",
+      "topics": []
+    }
+  ]
+}
