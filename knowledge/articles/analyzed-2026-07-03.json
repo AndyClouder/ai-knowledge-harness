@@ -1,0 +1,422 @@
+[
+  {
+    "id": "45350368-f01c-40cf-9f7e-4da1966a261d",
+    "title": "HUANGCHIHHUNGLeo/claude-real-video",
+    "source_url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+    "source": "unknown",
+    "collected_at": "2026-07-03T10:33:03.082304+00:00",
+    "analyzed_at": "2026-07-03T10:33:03.082304+00:00",
+    "summary": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 385,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "ecc0425d-3a35-44f1-8009-339d768e5649",
+    "title": "Poly-Sports/polymarket-sports-arbitrage-bot",
+    "source_url": "https://github.com/Poly-Sports/polymarket-sports-arbitrage-bot",
+    "source": "unknown",
+    "collected_at": "2026-07-03T10:33:04.318915+00:00",
+    "analyzed_at": "2026-07-03T10:33:04.318915+00:00",
+    "summary": "Polymarket trading bot that detects temporary pricing inefficiencies across connected Polymarket sports markets.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 322,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "8aaf9331-da8b-4a8e-815f-247698d7bd8a",
+    "title": "lingbol088-spec/reverse-flow-skill",
+    "source_url": "https://github.com/lingbol088-spec/reverse-flow-skill",
+    "source": "unknown",
+    "collected_at": "2026-07-03T10:33:05.563902+00:00",
+    "analyzed_at": "2026-07-03T10:33:05.563902+00:00",
+    "summary": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 295,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "e5622a72-3241-47f1-9d1e-b164001fc4b2",
+    "title": "uzairansaruzi/hermex",
+    "source_url": "https://github.com/uzairansaruzi/hermex",
+    "source": "unknown",
+    "collected_at": "2026-07-03T10:33:06.799132+00:00",
+    "analyzed_at": "2026-07-03T10:33:06.799132+00:00",
+    "summary": "Native iPhone app for your Hermes agent",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 275,
+      "score": null,
+      "author": null,
+      "language": "Swift"
+    }
+  },
+  {
+    "id": "2e99895e-6ccc-4904-b5cd-2761787f5e35",
+    "title": "XboxNahida/ghostty-blackhole-main",
+    "source_url": "https://github.com/XboxNahida/ghostty-blackhole-main",
+    "source": "unknown",
+    "collected_at": "2026-07-03T10:33:08.035796+00:00",
+    "analyzed_at": "2026-07-03T10:33:08.035796+00:00",
+    "summary": "适用于Windows环境的黑洞屏保",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 264,
+      "score": null,
+      "author": null,
+      "language": "C++"
+    }
+  },
+  {
+    "id": "1617b5b0-bce9-4500-9d72-dfc7a59b89ec",
+    "title": "\"We can't ask AI, it lies\" vs. \"Here is my superpower prompt\"",
+    "source_url": "https://alanbuxton.wordpress.com/2026/07/03/we-cant-ask-ai-it-lies-vs-here-is-my-superpower-prompt/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-03T10:33:09.270383+00:00",
+    "analyzed_at": "2026-07-03T10:33:09.270383+00:00",
+    "summary": "Article URL: https://alanbuxton.wordpress.com/2026/07/03/we-cant-ask-ai-it-lies-vs-here-is-my-superpower-prompt/\nComments URL: https://news.ycombinator.com/item?id=48773322\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "alanb99",
+      "language": null
+    }
+  },
+  {
+    "id": "1f2d100a-4ec7-42aa-b075-e4b3f8713c70",
+    "title": "Beyond AI Prototyping: Why SSO, Audit Logs, and RBAC Matter in Production",
+    "source_url": "https://geekyants.com/blog/beyond-ai-prototyping-sso-audit-logs-rbac",
+    "source": "hacker_news",
+    "collected_at": "2026-07-03T10:33:10.506290+00:00",
+    "analyzed_at": "2026-07-03T10:33:10.506290+00:00",
+    "summary": "Article URL: https://geekyants.com/blog/beyond-ai-prototyping-sso-audit-logs-rbac\nComments URL: https://news.ycombinator.com/item?id=48773252\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "steve_7890",
+      "language": null
+    }
+  },
+  {
+    "id": "297569a0-528a-4db6-8d5b-c7b82d62d2e7",
+    "title": "AI Art as Curation",
+    "source_url": "https://blog.andymasley.com/p/ai-art-as-curation",
+    "source": "hacker_news",
+    "collected_at": "2026-07-03T10:33:11.768818+00:00",
+    "analyzed_at": "2026-07-03T10:33:11.768818+00:00",
+    "summary": "Article URL: https://blog.andymasley.com/p/ai-art-as-curation\nComments URL: https://news.ycombinator.com/item?id=48773133\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jger15",
+      "language": null
+    }
+  },
+  {
+    "id": "8ba672e0-0cea-418b-afad-f79a09b556f2",
+    "title": "A B2B marketing agency grew to $1.5M ARR in 6 months by betting on AI",
+    "source_url": "https://news.ycombinator.com/item?id=48772872",
+    "source": "hacker_news",
+    "collected_at": "2026-07-03T10:33:13.006188+00:00",
+    "analyzed_at": "2026-07-03T10:33:13.006188+00:00",
+    "summary": "I run GrowthSpree, a B2B SaaS marketing agency, selling into the US and Europe. Six months ago we made a bet that the agency model itself was broken for the AI era, so we tore ours down and rebuilt it",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "emmanol",
+      "language": null
+    }
+  },
+  {
+    "id": "ad51597c-e500-4ad3-ab37-2e2da3a70737",
+    "title": "Godot says bye bye AI, bans vibe-coded contributions",
+    "source_url": "https://www.theregister.com/ai-and-ml/2026/07/01/godot-says-bye-bye-ai-bans-vibe-coded-contributions/5265344",
+    "source": "hacker_news",
+    "collected_at": "2026-07-03T10:33:14.240576+00:00",
+    "analyzed_at": "2026-07-03T10:33:14.240576+00:00",
+    "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/07/01/godot-says-bye-bye-ai-bans-vibe-coded-contributions/5265344\nComments URL: https://news.ycombinator.com/item?id=48772645\nPoints: 3\n# Commen",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "taubek",
+      "language": null
+    }
+  },
+  {
+    "id": "fc686b84-7c35-4ae3-9eef-3fb9851bbf9e",
+    "title": "How to Build an AI Chat Endpoint in Node.js with the Telnyx AI Assistants API",
+    "source_url": "https://old.reddit.com/r/Telnyx/comments/1ukn7n3/how_to_build_an_ai_chat_endpoint_in_nodejs_with/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-03T10:33:15.475614+00:00",
+    "analyzed_at": "2026-07-03T10:33:15.475614+00:00",
+    "summary": "Article URL: https://old.reddit.com/r/Telnyx/comments/1ukn7n3/how_to_build_an_ai_chat_endpoint_in_nodejs_with/\nComments URL: https://news.ycombinator.com/item?id=48772630\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "harpreetseehra",
+      "language": null
+    }
+  },
+  {
+    "id": "8e5d23ce-5bb7-4d15-b057-22524d47eeb8",
+    "title": "The AI Superforecasters Are Here",
+    "source_url": "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here",
+    "source": "hacker_news",
+    "collected_at": "2026-07-03T10:33:16.716711+00:00",
+    "analyzed_at": "2026-07-03T10:33:16.716711+00:00",
+    "summary": "Article URL: https://www.astralcodexten.com/p/the-ai-superforecasters-are-here\nComments URL: https://news.ycombinator.com/item?id=48772586\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Michelangelo11",
+      "language": null
+    }
+  },
+  {
+    "id": "ea046491-0376-4b3a-9a81-e3686ba504e1",
+    "title": "Giotto.ai: \"A Swiss lab with European heart\"",
+    "source_url": "https://www.giotto.ai/#about",
+    "source": "hacker_news",
+    "collected_at": "2026-07-03T10:33:17.952045+00:00",
+    "analyzed_at": "2026-07-03T10:33:17.952045+00:00",
+    "summary": "Article URL: https://www.giotto.ai/#about\nComments URL: https://news.ycombinator.com/item?id=48772379\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "theanonymousone",
+      "language": null
+    }
+  },
+  {
+    "id": "3c263ab9-89cc-45fd-8e10-9e517b23c19e",
+    "title": "NVCF: Deploy and Route GPU-Accelerated AI Workloads at Scale",
+    "source_url": "https://github.com/NVIDIA/nvcf",
+    "source": "hacker_news",
+    "collected_at": "2026-07-03T10:33:19.188736+00:00",
+    "analyzed_at": "2026-07-03T10:33:19.188736+00:00",
+    "summary": "Article URL: https://github.com/NVIDIA/nvcf\nComments URL: https://news.ycombinator.com/item?id=48772345\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mastabadtomm",
+      "language": null
+    }
+  },
+  {
+    "id": "6f980a71-ff26-44d6-a829-01a1df15b3bc",
+    "title": "We sell digital assets built on AI-powered business models",
+    "source_url": "https://digitvest.com/en",
+    "source": "hacker_news",
+    "collected_at": "2026-07-03T10:33:20.423312+00:00",
+    "analyzed_at": "2026-07-03T10:33:20.423312+00:00",
+    "summary": "Article URL: https://digitvest.com/en\nComments URL: https://news.ycombinator.com/item?id=48772198\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "kilincarslan",
+      "language": null
+    }
+  },
+  {
+    "id": "eb2834ba-87b8-4450-9a87-6e7222123d66",
+    "title": "Achieving Operational Excellence with AI",
+    "source_url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-03T10:33:21.659572+00:00",
+    "analyzed_at": "2026-07-03T10:33:21.659572+00:00",
+    "summary": "Article URL: https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/\nComments URL: https://news.ycombinator.com/item?id=48771800\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "joozio",
+      "language": null
+    }
+  },
+  {
+    "id": "8c2bea17-5bac-4b5a-ad26-f81daa420530",
+    "title": "The Day I Played Hide-and-Seek with an AI",
+    "source_url": "https://medium.com/@gianlucabailo/the-day-i-played-hide-and-seek-with-an-ai-7a1ee189b5ff",
+    "source": "hacker_news",
+    "collected_at": "2026-07-03T10:33:22.898727+00:00",
+    "analyzed_at": "2026-07-03T10:33:22.898727+00:00",
+    "summary": "Article URL: https://medium.com/@gianlucabailo/the-day-i-played-hide-and-seek-with-an-ai-7a1ee189b5ff\nComments URL: https://news.ycombinator.com/item?id=48771783\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "dexmac221",
+      "language": null
+    }
+  },
+  {
+    "id": "9d6452e4-3853-40ba-8e63-088433feca95",
+    "title": "The Data Recipe for Teaching AI New Skills [video]",
+    "source_url": "https://www.youtube.com/watch?v=I9F_VFfLTmM",
+    "source": "hacker_news",
+    "collected_at": "2026-07-03T10:33:24.133819+00:00",
+    "analyzed_at": "2026-07-03T10:33:24.133819+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=I9F_VFfLTmM\nComments URL: https://news.ycombinator.com/item?id=48771721\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "aborovykh",
+      "language": null
+    }
+  },
+  {
+    "id": "319907b6-b124-44c7-85f2-3711be508dac",
+    "title": "Obsidian AI Setup – A production-ready onboarding skill for AI agents",
+    "source_url": "https://github.com/anliberant/obsidian-ai-setup",
+    "source": "hacker_news",
+    "collected_at": "2026-07-03T10:33:25.369038+00:00",
+    "analyzed_at": "2026-07-03T10:33:25.369038+00:00",
+    "summary": "Article URL: https://github.com/anliberant/obsidian-ai-setup\nComments URL: https://news.ycombinator.com/item?id=48771700\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "javatuts",
+      "language": null
+    }
+  },
+  {
+    "id": "1e582ece-b6b7-4b79-a05b-038da5975f0d",
+    "title": "Google's AI buildout drove 37% increase in electricity use in 2025",
+    "source_url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-03T10:33:26.607093+00:00",
+    "analyzed_at": "2026-07-03T10:33:26.607093+00:00",
+    "summary": "Article URL: https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/\nComments URL: https://news.ycombinator.com/item?id=48771627\nPoints: 7\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mpfect",
+      "language": null
+    }
+  }
+]

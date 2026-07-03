@@ -1,0 +1,62 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-07-03T10:32:50.130342+00:00",
+  "items": [
+    {
+      "name": "HUANGCHIHHUNGLeo/claude-real-video",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "summary": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+      "stars": 385,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "Poly-Sports/polymarket-sports-arbitrage-bot",
+      "url": "https://github.com/Poly-Sports/polymarket-sports-arbitrage-bot",
+      "summary": "Polymarket trading bot that detects temporary pricing inefficiencies across connected Polymarket sports markets.",
+      "stars": 322,
+      "language": "TypeScript",
+      "topics": [
+        "arbitrage",
+        "bot",
+        "polymarket",
+        "sports",
+        "trading"
+      ]
+    },
+    {
+      "name": "lingbol088-spec/reverse-flow-skill",
+      "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
+      "summary": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
+      "stars": 295,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "uzairansaruzi/hermex",
+      "url": "https://github.com/uzairansaruzi/hermex",
+      "summary": "Native iPhone app for your Hermes agent",
+      "stars": 275,
+      "language": "Swift",
+      "topics": [
+        "hermes",
+        "hermes-agent",
+        "hermex",
+        "ios",
+        "llm",
+        "self-hosted",
+        "swift",
+        "swiftui"
+      ]
+    },
+    {
+      "name": "XboxNahida/ghostty-blackhole-main",
+      "url": "https://github.com/XboxNahida/ghostty-blackhole-main",
+      "summary": "适用于Windows环境的黑洞屏保",
+      "stars": 264,
+      "language": "C++",
+      "topics": []
+    }
+  ]
+}
