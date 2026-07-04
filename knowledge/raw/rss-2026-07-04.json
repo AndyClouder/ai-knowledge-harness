@@ -1,0 +1,178 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-07-04T10:06:57.997633+00:00",
+  "items": [
+    {
+      "name": "Study: Universities must rethink how they prepare students for an AI world",
+      "url": "https://www.manchester.ac.uk/about/news/universities-must-rethink-how-they-prepare-students/",
+      "summary": "Article URL: https://www.manchester.ac.uk/about/news/universities-must-rethink-how-they-prepare-students/\nComments URL: https://news.ycombinator.com/item?id=48784176\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "giuliomagnifico",
+      "published": "Sat, 04 Jul 2026 09:51:09 +0000"
+    },
+    {
+      "name": "Thieves Are Now Targeting AI Data Center Construction Sites for Copper",
+      "url": "https://www.vice.com/en/article/thieves-are-now-targeting-ai-data-center-construction-sites-for-copper-and-expensive-equipment/",
+      "summary": "Article URL: https://www.vice.com/en/article/thieves-are-now-targeting-ai-data-center-construction-sites-for-copper-and-expensive-equipment/\nComments URL: https://news.ycombinator.com/item?id=48784084",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Gedxx",
+      "published": "Sat, 04 Jul 2026 09:33:01 +0000"
+    },
+    {
+      "name": "Intent-addressable code for AI coding agents",
+      "url": "https://github.com/croviatrust/causari",
+      "summary": "Article URL: https://github.com/croviatrust/causari\nComments URL: https://news.ycombinator.com/item?id=48784012\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "CroviaTrust",
+      "published": "Sat, 04 Jul 2026 09:19:00 +0000"
+    },
+    {
+      "name": "Ask HN: Which AI model do you use for what?",
+      "url": "https://news.ycombinator.com/item?id=48783556",
+      "summary": "I use Grok for scanning X since it has direct access to the platform.Gemini for fact-checking.Claude for coding.GPT for image generation.\n\nComments URL: https://news.ycombinator.com/item?id=48783556\nP",
+      "source": "hacker_news",
+      "score": null,
+      "author": "akashwadhwani35",
+      "published": "Sat, 04 Jul 2026 08:00:11 +0000"
+    },
+    {
+      "name": "Radio Free AI: The voice of the resistance",
+      "url": "https://open.spotify.com/show/033HWq6pzjHeleKR8jfxLm",
+      "summary": "Article URL: https://open.spotify.com/show/033HWq6pzjHeleKR8jfxLm\nComments URL: https://news.ycombinator.com/item?id=48783422\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "PaulTheOtherOne",
+      "published": "Sat, 04 Jul 2026 07:37:39 +0000"
+    },
+    {
+      "name": "AI Poisons Creativity [video]",
+      "url": "https://www.youtube.com/watch?v=WeCSzEtZcUw",
+      "summary": "Article URL: https://www.youtube.com/watch?v=WeCSzEtZcUw\nComments URL: https://news.ycombinator.com/item?id=48783386\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ndr42",
+      "published": "Sat, 04 Jul 2026 07:31:37 +0000"
+    },
+    {
+      "name": "Show HN: Much – Local-first AI workspace with in-browser Python (WASM) sandbox",
+      "url": "https://news.ycombinator.com/item?id=48783120",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=48783120\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "srinivasthalada",
+      "published": "Sat, 04 Jul 2026 06:32:59 +0000"
+    },
+    {
+      "name": "How AI models would vote in Sweden",
+      "url": "https://www.nordan.ai/research/which-swedish-party-do-llms-vote-for",
+      "summary": "Article URL: https://www.nordan.ai/research/which-swedish-party-do-llms-vote-for\nComments URL: https://news.ycombinator.com/item?id=48782988\nPoints: 4\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "urvader",
+      "published": "Sat, 04 Jul 2026 05:59:20 +0000"
+    },
+    {
+      "name": "2026 Unslop AI-Written Fiction Contest Results",
+      "url": "https://www.hyperstitionai.com/unslop-results",
+      "summary": "Article URL: https://www.hyperstitionai.com/unslop-results\nComments URL: https://news.ycombinator.com/item?id=48782890\nPoints: 24\n# Comments: 74",
+      "source": "hacker_news",
+      "score": null,
+      "author": "networked",
+      "published": "Sat, 04 Jul 2026 05:37:25 +0000"
+    },
+    {
+      "name": "AI puts B Corps' values to the test",
+      "url": "https://www.fastcompany.com/91568793/ai-puts-b-corps-values-to-the-test",
+      "summary": "Article URL: https://www.fastcompany.com/91568793/ai-puts-b-corps-values-to-the-test\nComments URL: https://news.ycombinator.com/item?id=48782817\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "1vuio0pswjnm7",
+      "published": "Sat, 04 Jul 2026 05:15:38 +0000"
+    },
+    {
+      "name": "Show HN: I replaced my $500/mo legal SaaS with an AI-generated toolkit",
+      "url": "https://maxiporonga.gumroad.com/l/ytruk",
+      "summary": "Built a complete legal document generation toolkit using AI that produces contracts, NDAs, and other legal templates. Replaced paying $500/month for a SaaS subscription. One-time purchase, works offli",
+      "source": "hacker_news",
+      "score": null,
+      "author": "promptalex53",
+      "published": "Sat, 04 Jul 2026 03:39:58 +0000"
+    },
+    {
+      "name": "Argentina's plan for AI-run companies can't avoid humans",
+      "url": "https://www.reuters.com/world/americas/argentinas-plan-ai-run-companies-cant-avoid-humans-2026-07-03/",
+      "summary": "Article URL: https://www.reuters.com/world/americas/argentinas-plan-ai-run-companies-cant-avoid-humans-2026-07-03/\nComments URL: https://news.ycombinator.com/item?id=48782138\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "tartoran",
+      "published": "Sat, 04 Jul 2026 02:25:50 +0000"
+    },
+    {
+      "name": "How AI Made IKEA Workers 10x More Valuable (5 min video)",
+      "url": "https://www.youtube.com/watch?v=2ODq6IsmkhM",
+      "summary": "Article URL: https://www.youtube.com/watch?v=2ODq6IsmkhM\nComments URL: https://news.ycombinator.com/item?id=48782054\nPoints: 3\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rmason",
+      "published": "Sat, 04 Jul 2026 02:08:06 +0000"
+    },
+    {
+      "name": "You take AI, I'll take my iPod (if I can find it)",
+      "url": "https://news.harvard.edu/gazette/story/2026/06/ai-has-lots-of-people-digging-out-their-ipods/",
+      "summary": "Article URL: https://news.harvard.edu/gazette/story/2026/06/ai-has-lots-of-people-digging-out-their-ipods/\nComments URL: https://news.ycombinator.com/item?id=48781858\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "gnabgib",
+      "published": "Sat, 04 Jul 2026 01:29:46 +0000"
+    },
+    {
+      "name": "Midjourney Seeks to Reveal Studios' Use of AI in High-Stakes Copyright Battle",
+      "url": "https://variety.com/2026/film/news/midjourney-studios-ai-copyright-discovery-1236800902/",
+      "summary": "Article URL: https://variety.com/2026/film/news/midjourney-studios-ai-copyright-discovery-1236800902/\nComments URL: https://news.ycombinator.com/item?id=48781828\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "minimaxir",
+      "published": "Sat, 04 Jul 2026 01:23:56 +0000"
+    },
+    {
+      "name": "Did you know your code is overpaying for AI?",
+      "url": "https://tokendiet.dev/",
+      "summary": "Article URL: https://tokendiet.dev/\nComments URL: https://news.ycombinator.com/item?id=48781678\nPoints: 4\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "eMoka",
+      "published": "Sat, 04 Jul 2026 00:56:35 +0000"
+    },
+    {
+      "name": "Context graphs: how AI agents remember why decisions were made",
+      "url": "https://nanonets.com/blog/what-is-a-context-graph/",
+      "summary": "Article URL: https://nanonets.com/blog/what-is-a-context-graph/\nComments URL: https://news.ycombinator.com/item?id=48781571\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "vitaelabitur",
+      "published": "Sat, 04 Jul 2026 00:30:11 +0000"
+    },
+    {
+      "name": "China's ByteDance discovers new scaling law that could sustain AI boom",
+      "url": "https://www.scmp.com/tech/big-tech/article/3359373/chinas-bytedance-discovers-new-scaling-law-could-sustain-ai-boom",
+      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3359373/chinas-bytedance-discovers-new-scaling-law-could-sustain-ai-boom\nComments URL: https://news.ycombinator.com/item?id=48781487\nPoints: 5\n#",
+      "source": "hacker_news",
+      "score": null,
+      "author": "dstala",
+      "published": "Sat, 04 Jul 2026 00:12:02 +0000"
+    },
+    {
+      "name": "How HN: Billy – a self-hosted AI assistant that lives in your Telegram",
+      "url": "https://github.com/surfgolfski-dev/billy",
+      "summary": "Article URL: https://github.com/surfgolfski-dev/billy\nComments URL: https://news.ycombinator.com/item?id=48781437\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "tmblwd73",
+      "published": "Sat, 04 Jul 2026 00:02:23 +0000"
+    }
+  ]
+}

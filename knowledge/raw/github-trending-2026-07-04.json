@@ -1,0 +1,102 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-07-04T10:06:52.871714+00:00",
+  "items": [
+    {
+      "name": "jamesob/local-llm",
+      "url": "https://github.com/jamesob/local-llm",
+      "summary": "Everything I know about running LLMs locally",
+      "stars": 473,
+      "language": "Shell",
+      "topics": []
+    },
+    {
+      "name": "jmerelnyc/Talos",
+      "url": "https://github.com/jmerelnyc/Talos",
+      "summary": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "stars": 433,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "distributed-computing",
+        "gpu",
+        "llm",
+        "ollama",
+        "python",
+        "websocket",
+        "worker"
+      ]
+    },
+    {
+      "name": "LinXiaoTao/FuckClaude",
+      "url": "https://github.com/LinXiaoTao/FuckClaude",
+      "summary": "",
+      "stars": 333,
+      "language": "Astro",
+      "topics": []
+    },
+    {
+      "name": "prathoshap/vagdhenu",
+      "url": "https://github.com/prathoshap/vagdhenu",
+      "summary": "Vāgdhenu — metered Sanskrit/Vedic chant text-to-speech (DiT + BigVGAN). Apache-2.0.",
+      "stars": 220,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "xt4d/GameBlocks",
+      "url": "https://github.com/xt4d/GameBlocks",
+      "summary": "Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
+      "stars": 201,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "name": "SuperJJ007/CSSwitch",
+      "url": "https://github.com/SuperJJ007/CSSwitch",
+      "summary": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+      "stars": 188,
+      "language": "Rust",
+      "topics": [
+        "anthropic",
+        "claude",
+        "claude-science",
+        "dashscope",
+        "deepseek",
+        "llm",
+        "macos",
+        "mcp",
+        "menubar",
+        "openai-compatible",
+        "proxy",
+        "qwen",
+        "tauri"
+      ]
+    },
+    {
+      "name": "akihitohyh/chatgpt-register-sub2api",
+      "url": "https://github.com/akihitohyh/chatgpt-register-sub2api",
+      "summary": "",
+      "stars": 180,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "haiou-666/haiou2.0-Claude-Code-",
+      "url": "https://github.com/haiou-666/haiou2.0-Claude-Code-",
+      "summary": "海鸥 2.0 — Claude Code 人格重塑配置包。让 Claude 摆脱客服腔和过度谨慎，化身一位嘴硬心软、直来直往的资深中文安全研究员\"海鸥\"——专注技术，不废话，不绕弯子，不说\"作为AI\"，直接给代码不给免责声明。标志性问候\"海鸥在线，你要整点薯条吗？\"。1700+ few-shot 示例锁定人格防脱壳，200+ 安全/游戏术语映射覆盖渗透测试、逆向工程、游戏开发等技术场景。一键部署，",
+      "stars": 170,
+      "language": "Shell",
+      "topics": []
+    },
+    {
+      "name": "jangles-byte/Pythia",
+      "url": "https://github.com/jangles-byte/Pythia",
+      "summary": "One local API call gives your agent the entire live state of the planet — every major world event at once, plus forecasts. 30+ free keyless feeds, runs entirely on Ollama. No cloud, no cost.  Keyless ",
+      "stars": 169,
+      "language": "TypeScript",
+      "topics": []
+    }
+  ]
+}

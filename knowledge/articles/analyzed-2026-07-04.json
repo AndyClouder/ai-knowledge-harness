@@ -1,0 +1,422 @@
+[
+  {
+    "id": "2cce2363-8d8e-476b-b166-50f5766a7bd9",
+    "title": "jamesob/local-llm",
+    "source_url": "https://github.com/jamesob/local-llm",
+    "source": "unknown",
+    "collected_at": "2026-07-04T10:06:59.641398+00:00",
+    "analyzed_at": "2026-07-04T10:06:59.641398+00:00",
+    "summary": "Everything I know about running LLMs locally",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 473,
+      "score": null,
+      "author": null,
+      "language": "Shell"
+    }
+  },
+  {
+    "id": "8825d7f6-b38c-4a63-87c2-944865bee8fd",
+    "title": "jmerelnyc/Talos",
+    "source_url": "https://github.com/jmerelnyc/Talos",
+    "source": "unknown",
+    "collected_at": "2026-07-04T10:07:00.883717+00:00",
+    "analyzed_at": "2026-07-04T10:07:00.883717+00:00",
+    "summary": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 433,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "77261eb9-6998-4010-ae7d-28c7da038b19",
+    "title": "LinXiaoTao/FuckClaude",
+    "source_url": "https://github.com/LinXiaoTao/FuckClaude",
+    "source": "unknown",
+    "collected_at": "2026-07-04T10:07:02.128430+00:00",
+    "analyzed_at": "2026-07-04T10:07:02.128430+00:00",
+    "summary": "",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 333,
+      "score": null,
+      "author": null,
+      "language": "Astro"
+    }
+  },
+  {
+    "id": "0293ccce-7ad8-45af-a10c-465117f8982a",
+    "title": "prathoshap/vagdhenu",
+    "source_url": "https://github.com/prathoshap/vagdhenu",
+    "source": "unknown",
+    "collected_at": "2026-07-04T10:07:03.370681+00:00",
+    "analyzed_at": "2026-07-04T10:07:03.370681+00:00",
+    "summary": "Vāgdhenu — metered Sanskrit/Vedic chant text-to-speech (DiT + BigVGAN). Apache-2.0.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 220,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "12f6949b-f470-4b82-a438-9de298c10aaa",
+    "title": "xt4d/GameBlocks",
+    "source_url": "https://github.com/xt4d/GameBlocks",
+    "source": "unknown",
+    "collected_at": "2026-07-04T10:07:04.613241+00:00",
+    "analyzed_at": "2026-07-04T10:07:04.613241+00:00",
+    "summary": "Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 201,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "a9606e17-1aff-43df-a4d4-711bf4943212",
+    "title": "SuperJJ007/CSSwitch",
+    "source_url": "https://github.com/SuperJJ007/CSSwitch",
+    "source": "unknown",
+    "collected_at": "2026-07-04T10:07:05.856884+00:00",
+    "analyzed_at": "2026-07-04T10:07:05.856884+00:00",
+    "summary": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 188,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "22a160d6-0ea0-4819-b1df-a17e38edcf9b",
+    "title": "akihitohyh/chatgpt-register-sub2api",
+    "source_url": "https://github.com/akihitohyh/chatgpt-register-sub2api",
+    "source": "unknown",
+    "collected_at": "2026-07-04T10:07:07.099782+00:00",
+    "analyzed_at": "2026-07-04T10:07:07.099782+00:00",
+    "summary": "",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 180,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "1c2f0b46-1111-4bd4-a0c3-3feeeebaf88f",
+    "title": "haiou-666/haiou2.0-Claude-Code-",
+    "source_url": "https://github.com/haiou-666/haiou2.0-Claude-Code-",
+    "source": "unknown",
+    "collected_at": "2026-07-04T10:07:08.341240+00:00",
+    "analyzed_at": "2026-07-04T10:07:08.341240+00:00",
+    "summary": "海鸥 2.0 — Claude Code 人格重塑配置包。让 Claude 摆脱客服腔和过度谨慎，化身一位嘴硬心软、直来直往的资深中文安全研究员\"海鸥\"——专注技术，不废话，不绕弯子，不说\"作为AI\"，直接给代码不给免责声明。标志性问候\"海鸥在线，你要整点薯条吗？\"。1700+ few-shot 示例锁定人格防脱壳，200+ 安全/游戏术语映射覆盖渗透测试、逆向工程、游戏开发等技术场景。一键部署，",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 170,
+      "score": null,
+      "author": null,
+      "language": "Shell"
+    }
+  },
+  {
+    "id": "17da751f-4855-474e-b397-3605a4a1ef07",
+    "title": "jangles-byte/Pythia",
+    "source_url": "https://github.com/jangles-byte/Pythia",
+    "source": "unknown",
+    "collected_at": "2026-07-04T10:07:09.585468+00:00",
+    "analyzed_at": "2026-07-04T10:07:09.585468+00:00",
+    "summary": "One local API call gives your agent the entire live state of the planet — every major world event at once, plus forecasts. 30+ free keyless feeds, runs entirely on Ollama. No cloud, no cost.  Keyless ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 169,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "8d0e79d1-00bd-404c-b7b6-7806b64d33fc",
+    "title": "Study: Universities must rethink how they prepare students for an AI world",
+    "source_url": "https://www.manchester.ac.uk/about/news/universities-must-rethink-how-they-prepare-students/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-04T10:07:10.828489+00:00",
+    "analyzed_at": "2026-07-04T10:07:10.828489+00:00",
+    "summary": "Article URL: https://www.manchester.ac.uk/about/news/universities-must-rethink-how-they-prepare-students/\nComments URL: https://news.ycombinator.com/item?id=48784176\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "giuliomagnifico",
+      "language": null
+    }
+  },
+  {
+    "id": "87a2d862-bb02-4116-93e7-46988b4b10d5",
+    "title": "Thieves Are Now Targeting AI Data Center Construction Sites for Copper",
+    "source_url": "https://www.vice.com/en/article/thieves-are-now-targeting-ai-data-center-construction-sites-for-copper-and-expensive-equipment/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-04T10:07:12.074744+00:00",
+    "analyzed_at": "2026-07-04T10:07:12.074744+00:00",
+    "summary": "Article URL: https://www.vice.com/en/article/thieves-are-now-targeting-ai-data-center-construction-sites-for-copper-and-expensive-equipment/\nComments URL: https://news.ycombinator.com/item?id=48784084",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Gedxx",
+      "language": null
+    }
+  },
+  {
+    "id": "47c8804e-717a-428e-a1e5-645e631e6cd5",
+    "title": "Intent-addressable code for AI coding agents",
+    "source_url": "https://github.com/croviatrust/causari",
+    "source": "hacker_news",
+    "collected_at": "2026-07-04T10:07:13.369301+00:00",
+    "analyzed_at": "2026-07-04T10:07:13.369301+00:00",
+    "summary": "Article URL: https://github.com/croviatrust/causari\nComments URL: https://news.ycombinator.com/item?id=48784012\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "CroviaTrust",
+      "language": null
+    }
+  },
+  {
+    "id": "4eb5fb31-9947-4c4a-ac3e-190ce014d00a",
+    "title": "Ask HN: Which AI model do you use for what?",
+    "source_url": "https://news.ycombinator.com/item?id=48783556",
+    "source": "hacker_news",
+    "collected_at": "2026-07-04T10:07:14.651157+00:00",
+    "analyzed_at": "2026-07-04T10:07:14.651157+00:00",
+    "summary": "I use Grok for scanning X since it has direct access to the platform.Gemini for fact-checking.Claude for coding.GPT for image generation.\n\nComments URL: https://news.ycombinator.com/item?id=48783556\nP",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "akashwadhwani35",
+      "language": null
+    }
+  },
+  {
+    "id": "11e4f086-446e-4897-8415-c7a5b37f3b7e",
+    "title": "Radio Free AI: The voice of the resistance",
+    "source_url": "https://open.spotify.com/show/033HWq6pzjHeleKR8jfxLm",
+    "source": "hacker_news",
+    "collected_at": "2026-07-04T10:07:15.894328+00:00",
+    "analyzed_at": "2026-07-04T10:07:15.894328+00:00",
+    "summary": "Article URL: https://open.spotify.com/show/033HWq6pzjHeleKR8jfxLm\nComments URL: https://news.ycombinator.com/item?id=48783422\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "PaulTheOtherOne",
+      "language": null
+    }
+  },
+  {
+    "id": "6ed9855f-cd31-4866-b795-ddc00999b1b1",
+    "title": "AI Poisons Creativity [video]",
+    "source_url": "https://www.youtube.com/watch?v=WeCSzEtZcUw",
+    "source": "hacker_news",
+    "collected_at": "2026-07-04T10:07:17.160284+00:00",
+    "analyzed_at": "2026-07-04T10:07:17.160284+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=WeCSzEtZcUw\nComments URL: https://news.ycombinator.com/item?id=48783386\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ndr42",
+      "language": null
+    }
+  },
+  {
+    "id": "f902b739-c691-4c53-986a-5de64b76dcce",
+    "title": "Show HN: Much – Local-first AI workspace with in-browser Python (WASM) sandbox",
+    "source_url": "https://news.ycombinator.com/item?id=48783120",
+    "source": "hacker_news",
+    "collected_at": "2026-07-04T10:07:18.401411+00:00",
+    "analyzed_at": "2026-07-04T10:07:18.401411+00:00",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=48783120\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "srinivasthalada",
+      "language": null
+    }
+  },
+  {
+    "id": "cdf2192b-cb81-4b9f-bce5-160dc311134d",
+    "title": "How AI models would vote in Sweden",
+    "source_url": "https://www.nordan.ai/research/which-swedish-party-do-llms-vote-for",
+    "source": "hacker_news",
+    "collected_at": "2026-07-04T10:07:19.643708+00:00",
+    "analyzed_at": "2026-07-04T10:07:19.643708+00:00",
+    "summary": "Article URL: https://www.nordan.ai/research/which-swedish-party-do-llms-vote-for\nComments URL: https://news.ycombinator.com/item?id=48782988\nPoints: 4\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "urvader",
+      "language": null
+    }
+  },
+  {
+    "id": "d21e8fbd-0542-4e32-9ac7-299bc7949498",
+    "title": "2026 Unslop AI-Written Fiction Contest Results",
+    "source_url": "https://www.hyperstitionai.com/unslop-results",
+    "source": "hacker_news",
+    "collected_at": "2026-07-04T10:07:20.886772+00:00",
+    "analyzed_at": "2026-07-04T10:07:20.886772+00:00",
+    "summary": "Article URL: https://www.hyperstitionai.com/unslop-results\nComments URL: https://news.ycombinator.com/item?id=48782890\nPoints: 24\n# Comments: 74",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "networked",
+      "language": null
+    }
+  },
+  {
+    "id": "f78489b4-c0bb-4e8a-9253-3f833cdd3628",
+    "title": "AI puts B Corps' values to the test",
+    "source_url": "https://www.fastcompany.com/91568793/ai-puts-b-corps-values-to-the-test",
+    "source": "hacker_news",
+    "collected_at": "2026-07-04T10:07:22.130794+00:00",
+    "analyzed_at": "2026-07-04T10:07:22.130794+00:00",
+    "summary": "Article URL: https://www.fastcompany.com/91568793/ai-puts-b-corps-values-to-the-test\nComments URL: https://news.ycombinator.com/item?id=48782817\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "1vuio0pswjnm7",
+      "language": null
+    }
+  },
+  {
+    "id": "521b1970-89eb-4e0a-9fde-c4b78cb24083",
+    "title": "Show HN: I replaced my $500/mo legal SaaS with an AI-generated toolkit",
+    "source_url": "https://maxiporonga.gumroad.com/l/ytruk",
+    "source": "hacker_news",
+    "collected_at": "2026-07-04T10:07:23.377279+00:00",
+    "analyzed_at": "2026-07-04T10:07:23.377279+00:00",
+    "summary": "Built a complete legal document generation toolkit using AI that produces contracts, NDAs, and other legal templates. Replaced paying $500/month for a SaaS subscription. One-time purchase, works offli",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "promptalex53",
+      "language": null
+    }
+  }
+]
