@@ -1,0 +1,107 @@
+[
+  {
+    "id": "a4061c15-81ee-4c4e-8544-954c365c3ebb",
+    "title": "elder-plinius/T3MP3ST",
+    "source_url": "https://github.com/elder-plinius/T3MP3ST",
+    "source": "unknown",
+    "collected_at": "2026-07-05T10:09:25.120311+00:00",
+    "analyzed_at": "2026-07-05T10:09:25.120311+00:00",
+    "summary": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 677,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "39821278-764e-45e1-a1ef-dcbc0566a8e7",
+    "title": "Kulaxyz/token-diet",
+    "source_url": "https://github.com/Kulaxyz/token-diet",
+    "source": "unknown",
+    "collected_at": "2026-07-05T10:09:26.419622+00:00",
+    "analyzed_at": "2026-07-05T10:09:26.419622+00:00",
+    "summary": "Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on average, no loss of correctness.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 535,
+      "score": null,
+      "author": null,
+      "language": "Shell"
+    }
+  },
+  {
+    "id": "e8982e93-513c-4c4d-9c06-a23fa460d36b",
+    "title": "CalmNoteDepot/MECCHA-CHAMELEON-VISION",
+    "source_url": "https://github.com/CalmNoteDepot/MECCHA-CHAMELEON-VISION",
+    "source": "unknown",
+    "collected_at": "2026-07-05T10:09:27.720574+00:00",
+    "analyzed_at": "2026-07-05T10:09:27.720574+00:00",
+    "summary": "🎨 Meccha Chameleon Vision — Desktop Tool 2026",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 251,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "f139135b-9741-41f9-9587-6ee1b9fd29d3",
+    "title": "Archive228/loopkit",
+    "source_url": "https://github.com/Archive228/loopkit",
+    "source": "unknown",
+    "collected_at": "2026-07-05T10:09:29.023199+00:00",
+    "analyzed_at": "2026-07-05T10:09:29.023199+00:00",
+    "summary": "33 battle-tested skills + minimal .claude harness for any coding agent (Claude Code, Cursor, Codex, Gemini CLI).",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 199,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "a0a0eab8-abfd-43e6-bc8a-44aa3ecead95",
+    "title": "HKUDS/OpenOPC",
+    "source_url": "https://github.com/HKUDS/OpenOPC",
+    "source": "unknown",
+    "collected_at": "2026-07-05T10:09:30.326052+00:00",
+    "analyzed_at": "2026-07-05T10:09:30.326052+00:00",
+    "summary": "OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 189,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  }
+]

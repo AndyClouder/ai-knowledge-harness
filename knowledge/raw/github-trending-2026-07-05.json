@@ -1,0 +1,59 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-07-05T10:09:19.576483+00:00",
+  "items": [
+    {
+      "name": "elder-plinius/T3MP3ST",
+      "url": "https://github.com/elder-plinius/T3MP3ST",
+      "summary": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+      "stars": 677,
+      "language": "TypeScript",
+      "topics": [
+        "agents",
+        "ai",
+        "multi-agent",
+        "offensive-security",
+        "redteam"
+      ]
+    },
+    {
+      "name": "Kulaxyz/token-diet",
+      "url": "https://github.com/Kulaxyz/token-diet",
+      "summary": "Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on average, no loss of correctness.",
+      "stars": 535,
+      "language": "Shell",
+      "topics": []
+    },
+    {
+      "name": "CalmNoteDepot/MECCHA-CHAMELEON-VISION",
+      "url": "https://github.com/CalmNoteDepot/MECCHA-CHAMELEON-VISION",
+      "summary": "🎨 Meccha Chameleon Vision — Desktop Tool 2026",
+      "stars": 251,
+      "language": null,
+      "topics": [
+        "meccha-chameleon-download",
+        "meccha-chameleon-fps",
+        "meccha-chameleon-target-lock",
+        "meccha-chameleon-wh",
+        "meccha-chemeleon-fps-booster"
+      ]
+    },
+    {
+      "name": "Archive228/loopkit",
+      "url": "https://github.com/Archive228/loopkit",
+      "summary": "33 battle-tested skills + minimal .claude harness for any coding agent (Claude Code, Cursor, Codex, Gemini CLI).",
+      "stars": 199,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "name": "HKUDS/OpenOPC",
+      "url": "https://github.com/HKUDS/OpenOPC",
+      "summary": "OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
+      "stars": 189,
+      "language": "Python",
+      "topics": []
+    }
+  ]
+}
