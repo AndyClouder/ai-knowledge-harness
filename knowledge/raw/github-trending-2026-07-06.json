@@ -1,0 +1,96 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-07-06T12:02:01.998658+00:00",
+  "items": [
+    {
+      "name": "CalmNoteDepot/MECCHA-CHAMELEON-VISION-ULTIMATE",
+      "url": "https://github.com/CalmNoteDepot/MECCHA-CHAMELEON-VISION-ULTIMATE",
+      "summary": "🎯 Meccha Vision Ultimate — Ultimate Enhancement Tool for MECCHA CHAMELEON ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint · Speed Hack · No Recoil",
+      "stars": 533,
+      "language": null,
+      "topics": [
+        "meccha-chameleon-download",
+        "meccha-chameleon-fps",
+        "meccha-chameleon-target-lock",
+        "meccha-chameleon-wh",
+        "meccha-chemeleon-fps-booster"
+      ]
+    },
+    {
+      "name": "synthetic-sciences/openscience",
+      "url": "https://github.com/synthetic-sciences/openscience",
+      "summary": "The open-source AI workbench for scientific research",
+      "stars": 458,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agent",
+        "bun",
+        "cli",
+        "co-scientist",
+        "llm",
+        "ml",
+        "ml-engineering",
+        "open-source",
+        "research",
+        "research-tools",
+        "science",
+        "scientific-computing",
+        "typescript"
+      ]
+    },
+    {
+      "name": "oomol-lab/open-connector",
+      "url": "https://github.com/oomol-lab/open-connector",
+      "summary": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+      "stars": 428,
+      "language": "TypeScript",
+      "topics": [
+        "agent-tools",
+        "ai-agents",
+        "api-gateway",
+        "automation",
+        "cli",
+        "cloudflare-workers",
+        "connectors",
+        "integration-platform",
+        "mcp",
+        "model-context-protocol",
+        "oauth",
+        "oomol",
+        "openapi",
+        "openconnector",
+        "saas-integrations",
+        "sdk",
+        "self-hosted",
+        "typescript"
+      ]
+    },
+    {
+      "name": "funador/claude-code-merge-queue",
+      "url": "https://github.com/funador/claude-code-merge-queue",
+      "summary": "The local merge queue for parallel Claude Code agents. ",
+      "stars": 295,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "Pluviobyte/rnskill",
+      "url": "https://github.com/Pluviobyte/rnskill",
+      "summary": "雪踏乌云的 AI Agent Skills 集合",
+      "stars": 293,
+      "language": null,
+      "topics": []
+    },
+    {
+      "name": "lxh77721/k12-reg",
+      "url": "https://github.com/lxh77721/k12-reg",
+      "summary": "多线程全自动注册free 强上K12空间 gmail版",
+      "stars": 249,
+      "language": "TypeScript",
+      "topics": []
+    }
+  ]
+}

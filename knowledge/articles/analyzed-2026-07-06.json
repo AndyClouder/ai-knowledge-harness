@@ -1,0 +1,422 @@
+[
+  {
+    "id": "137a352a-0ecf-4e6b-a142-69626ab4d459",
+    "title": "CalmNoteDepot/MECCHA-CHAMELEON-VISION-ULTIMATE",
+    "source_url": "https://github.com/CalmNoteDepot/MECCHA-CHAMELEON-VISION-ULTIMATE",
+    "source": "unknown",
+    "collected_at": "2026-07-06T12:03:29.492119+00:00",
+    "analyzed_at": "2026-07-06T12:03:29.492119+00:00",
+    "summary": "🎯 Meccha Vision Ultimate — Ultimate Enhancement Tool for MECCHA CHAMELEON ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint · Speed Hack · No Recoil",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 533,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "513b0130-0bfe-42df-818f-668da08a35dd",
+    "title": "synthetic-sciences/openscience",
+    "source_url": "https://github.com/synthetic-sciences/openscience",
+    "source": "unknown",
+    "collected_at": "2026-07-06T12:03:30.850071+00:00",
+    "analyzed_at": "2026-07-06T12:03:30.850071+00:00",
+    "summary": "The open-source AI workbench for scientific research",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 458,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "0eda93a8-ff57-4a97-b7cd-678883515c44",
+    "title": "oomol-lab/open-connector",
+    "source_url": "https://github.com/oomol-lab/open-connector",
+    "source": "unknown",
+    "collected_at": "2026-07-06T12:03:32.218415+00:00",
+    "analyzed_at": "2026-07-06T12:03:32.218415+00:00",
+    "summary": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 428,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "d7290cd2-8d99-40a2-8246-1e39ba0ac7f4",
+    "title": "funador/claude-code-merge-queue",
+    "source_url": "https://github.com/funador/claude-code-merge-queue",
+    "source": "unknown",
+    "collected_at": "2026-07-06T12:03:33.662272+00:00",
+    "analyzed_at": "2026-07-06T12:03:33.662272+00:00",
+    "summary": "The local merge queue for parallel Claude Code agents. ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 295,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "3ad3069f-8a05-4d4b-8d38-e770b70e85c6",
+    "title": "Pluviobyte/rnskill",
+    "source_url": "https://github.com/Pluviobyte/rnskill",
+    "source": "unknown",
+    "collected_at": "2026-07-06T12:03:35.043388+00:00",
+    "analyzed_at": "2026-07-06T12:03:35.043388+00:00",
+    "summary": "雪踏乌云的 AI Agent Skills 集合",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 293,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "b6c39c7d-3f94-43da-8cab-42950754f7f2",
+    "title": "lxh77721/k12-reg",
+    "source_url": "https://github.com/lxh77721/k12-reg",
+    "source": "unknown",
+    "collected_at": "2026-07-06T12:03:36.400735+00:00",
+    "analyzed_at": "2026-07-06T12:03:36.400735+00:00",
+    "summary": "多线程全自动注册free 强上K12空间 gmail版",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 249,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "1ecb0b38-ae0b-4d59-81e7-02a85b676c73",
+    "title": "Show HN: I trained a language model that thinks the capital of Japan is Paris",
+    "source_url": "https://hamiltonianresearch.xyz/blog/hr-diffuse-1.html",
+    "source": "hacker_news",
+    "collected_at": "2026-07-06T12:03:37.758366+00:00",
+    "analyzed_at": "2026-07-06T12:03:37.758366+00:00",
+    "summary": "Article URL: https://hamiltonianresearch.xyz/blog/hr-diffuse-1.html\nComments URL: https://news.ycombinator.com/item?id=48792118\nPoints: 15\n# Comments: 8",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "farisallafi",
+      "language": null
+    }
+  },
+  {
+    "id": "0321fe47-19e6-4266-a42d-7b14d199e24c",
+    "title": "Amalia – an open-source language model targeting European Portuguese",
+    "source_url": "https://huggingface.co/amalia-llm",
+    "source": "hacker_news",
+    "collected_at": "2026-07-06T12:03:39.116297+00:00",
+    "analyzed_at": "2026-07-06T12:03:39.116297+00:00",
+    "summary": "Article URL: https://huggingface.co/amalia-llm\nComments URL: https://news.ycombinator.com/item?id=48751318\nPoints: 4\n# Comments: 3",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mt_",
+      "language": null
+    }
+  },
+  {
+    "id": "680c0241-71fe-4b87-82af-55c1526b2901",
+    "title": "Show HN: Bash is All You Need for a language model REPL",
+    "source_url": "https://github.com/cloudkj/llayer",
+    "source": "hacker_news",
+    "collected_at": "2026-07-06T12:03:40.483432+00:00",
+    "analyzed_at": "2026-07-06T12:03:40.483432+00:00",
+    "summary": "I’ve recently just started tinkering with using local large language models, focusing on simple, low-dependency CLI setups. I ended up going down a bit of a rabbit hole: I wanted to see if I could bui",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "cloudkj",
+      "language": null
+    }
+  },
+  {
+    "id": "a76da64b-f060-498d-b586-ca81e98f02ef",
+    "title": "Zero Weights Language Model (MSE-GLM)",
+    "source_url": "https://aircityshops.com/index.php?url=city/mse_blog",
+    "source": "hacker_news",
+    "collected_at": "2026-07-06T12:03:41.844897+00:00",
+    "analyzed_at": "2026-07-06T12:03:41.844897+00:00",
+    "summary": "Article URL: https://aircityshops.com/index.php?url=city/mse_blog\nComments URL: https://news.ycombinator.com/item?id=48723680\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "fodokidza",
+      "language": null
+    }
+  },
+  {
+    "id": "3570a748-e2a6-48f5-98c4-ed96cbd93283",
+    "title": "Large Language Models Are Overkill. Enter the Small Language Model",
+    "source_url": "https://www.adexchanger.com/ai/large-language-models-are-overkill-for-some-marketing-tasks-enter-the-small-language-model/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-06T12:03:43.201899+00:00",
+    "analyzed_at": "2026-07-06T12:03:43.201899+00:00",
+    "summary": "Article URL: https://www.adexchanger.com/ai/large-language-models-are-overkill-for-some-marketing-tasks-enter-the-small-language-model/\nComments URL: https://news.ycombinator.com/item?id=48673952\nPoin",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "zerogpu",
+      "language": null
+    }
+  },
+  {
+    "id": "3a76a476-1f71-4f92-8122-639b763a023f",
+    "title": "Italian startup working on a 400B language model (Italian)",
+    "source_url": "https://www.ilsole24ore.com/art/frontier-grand-challenge-domyn-guidera-progetto-dell-ai-sovrana-AIgNTNoD",
+    "source": "hacker_news",
+    "collected_at": "2026-07-06T12:03:44.559363+00:00",
+    "analyzed_at": "2026-07-06T12:03:44.559363+00:00",
+    "summary": "Article URL: https://www.ilsole24ore.com/art/frontier-grand-challenge-domyn-guidera-progetto-dell-ai-sovrana-AIgNTNoD\nComments URL: https://news.ycombinator.com/item?id=48656887\nPoints: 5\n# Comments: ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "theanonymousone",
+      "language": null
+    }
+  },
+  {
+    "id": "41368d44-ffa3-48b6-86d0-18c4a782658e",
+    "title": "The brain was never just a language model",
+    "source_url": "https://www.computerweekly.com/opinion/The-Brain-Was-Never-Just-a-Language-Model",
+    "source": "hacker_news",
+    "collected_at": "2026-07-06T12:03:45.921620+00:00",
+    "analyzed_at": "2026-07-06T12:03:45.921620+00:00",
+    "summary": "Article URL: https://www.computerweekly.com/opinion/The-Brain-Was-Never-Just-a-Language-Model\nComments URL: https://news.ycombinator.com/item?id=48644128\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "beardyw",
+      "language": null
+    }
+  },
+  {
+    "id": "b0f0f4fd-4682-4c5a-a7bf-32e74e979f83",
+    "title": "Trained a small language model for just generating question",
+    "source_url": "https://huggingface.co/aungkomyint/tara1.2-quest",
+    "source": "hacker_news",
+    "collected_at": "2026-07-06T12:03:47.280716+00:00",
+    "analyzed_at": "2026-07-06T12:03:47.280716+00:00",
+    "summary": "Article URL: https://huggingface.co/aungkomyint/tara1.2-quest\nComments URL: https://news.ycombinator.com/item?id=48620243\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "aungkomyint",
+      "language": null
+    }
+  },
+  {
+    "id": "4b6ce4c1-0c2e-4ea3-986c-4bfa854d21de",
+    "title": "GPT‑NL: a sovereign language model for the Netherlands",
+    "source_url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-06T12:03:48.639312+00:00",
+    "analyzed_at": "2026-07-06T12:03:48.639312+00:00",
+    "summary": "Article URL: https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/\nComments URL: https://news.ycombinator.com/item?id=48559188\nPoints: 252\n# Comments: 305",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "root-parent",
+      "language": null
+    }
+  },
+  {
+    "id": "5c458711-bfad-4770-bd86-00ce6a0923fc",
+    "title": "Frontier Language Model Intelligence, over Time",
+    "source_url": "https://artificialanalysis.ai/?model-creators=anthropic%2Cmistral#frontier-language-model-intelligence-over-time",
+    "source": "hacker_news",
+    "collected_at": "2026-07-06T12:03:49.997465+00:00",
+    "analyzed_at": "2026-07-06T12:03:49.997465+00:00",
+    "summary": "Article URL: https://artificialanalysis.ai/?model-creators=anthropic%2Cmistral#frontier-language-model-intelligence-over-time\nComments URL: https://news.ycombinator.com/item?id=48522760\nPoints: 3\n# Co",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "doener",
+      "language": null
+    }
+  },
+  {
+    "id": "17d1f7b6-3bcf-4722-b1a9-24583b5e6b6f",
+    "title": "DiffusionGemma: Discrete diffusion in a large language model",
+    "source_url": "https://idlemachines.co.uk/topics/trending",
+    "source": "hacker_news",
+    "collected_at": "2026-07-06T12:03:51.355866+00:00",
+    "analyzed_at": "2026-07-06T12:03:51.355866+00:00",
+    "summary": "Article URL: https://idlemachines.co.uk/topics/trending\nComments URL: https://news.ycombinator.com/item?id=48497209\nPoints: 3\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "smaddrellmander",
+      "language": null
+    }
+  },
+  {
+    "id": "22301a0c-a7d6-488e-a9bb-56dda90c8333",
+    "title": "Tiny hackable CUDA language model implementation",
+    "source_url": "https://github.com/markusheimerl/gpt",
+    "source": "hacker_news",
+    "collected_at": "2026-07-06T12:03:52.715996+00:00",
+    "analyzed_at": "2026-07-06T12:03:52.715996+00:00",
+    "summary": "Article URL: https://github.com/markusheimerl/gpt\nComments URL: https://news.ycombinator.com/item?id=48415828\nPoints: 81\n# Comments: 13",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "markusheimerl",
+      "language": null
+    }
+  },
+  {
+    "id": "34e92ad1-d588-497a-9a2f-2ffab58c9234",
+    "title": "A (small) language model walks through its training text",
+    "source_url": "https://github.com/chrishwiggins/shannon-language-model",
+    "source": "hacker_news",
+    "collected_at": "2026-07-06T12:03:54.074657+00:00",
+    "analyzed_at": "2026-07-06T12:03:54.074657+00:00",
+    "summary": "Article URL: https://github.com/chrishwiggins/shannon-language-model\nComments URL: https://news.ycombinator.com/item?id=48349950\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "raybb",
+      "language": null
+    }
+  },
+  {
+    "id": "84631ae2-5470-49eb-bf40-cf6f9079385a",
+    "title": "Step 3.7 Flash – 198B-A11B MoE vision-language model",
+    "source_url": "https://huggingface.co/stepfun-ai/Step-3.7-Flash",
+    "source": "hacker_news",
+    "collected_at": "2026-07-06T12:03:55.434088+00:00",
+    "analyzed_at": "2026-07-06T12:03:55.434088+00:00",
+    "summary": "Article URL: https://huggingface.co/stepfun-ai/Step-3.7-Flash\nComments URL: https://news.ycombinator.com/item?id=48340949\nPoints: 5\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "dryarzeg",
+      "language": null
+    }
+  }
+]

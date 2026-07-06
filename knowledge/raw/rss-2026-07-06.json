@@ -1,0 +1,133 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-07-06T12:03:27.340474+00:00",
+  "items": [
+    {
+      "name": "Show HN: I trained a language model that thinks the capital of Japan is Paris",
+      "url": "https://hamiltonianresearch.xyz/blog/hr-diffuse-1.html",
+      "summary": "Article URL: https://hamiltonianresearch.xyz/blog/hr-diffuse-1.html\nComments URL: https://news.ycombinator.com/item?id=48792118\nPoints: 15\n# Comments: 8",
+      "source": "hacker_news",
+      "score": null,
+      "author": "farisallafi",
+      "published": "Sun, 05 Jul 2026 07:47:44 +0000"
+    },
+    {
+      "name": "Amalia – an open-source language model targeting European Portuguese",
+      "url": "https://huggingface.co/amalia-llm",
+      "summary": "Article URL: https://huggingface.co/amalia-llm\nComments URL: https://news.ycombinator.com/item?id=48751318\nPoints: 4\n# Comments: 3",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mt_",
+      "published": "Wed, 01 Jul 2026 18:34:24 +0000"
+    },
+    {
+      "name": "Show HN: Bash is All You Need for a language model REPL",
+      "url": "https://github.com/cloudkj/llayer",
+      "summary": "I’ve recently just started tinkering with using local large language models, focusing on simple, low-dependency CLI setups. I ended up going down a bit of a rabbit hole: I wanted to see if I could bui",
+      "source": "hacker_news",
+      "score": null,
+      "author": "cloudkj",
+      "published": "Tue, 30 Jun 2026 15:00:24 +0000"
+    },
+    {
+      "name": "Zero Weights Language Model (MSE-GLM)",
+      "url": "https://aircityshops.com/index.php?url=city/mse_blog",
+      "summary": "Article URL: https://aircityshops.com/index.php?url=city/mse_blog\nComments URL: https://news.ycombinator.com/item?id=48723680\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "fodokidza",
+      "published": "Mon, 29 Jun 2026 19:06:41 +0000"
+    },
+    {
+      "name": "Large Language Models Are Overkill. Enter the Small Language Model",
+      "url": "https://www.adexchanger.com/ai/large-language-models-are-overkill-for-some-marketing-tasks-enter-the-small-language-model/",
+      "summary": "Article URL: https://www.adexchanger.com/ai/large-language-models-are-overkill-for-some-marketing-tasks-enter-the-small-language-model/\nComments URL: https://news.ycombinator.com/item?id=48673952\nPoin",
+      "source": "hacker_news",
+      "score": null,
+      "author": "zerogpu",
+      "published": "Thu, 25 Jun 2026 14:27:23 +0000"
+    },
+    {
+      "name": "Italian startup working on a 400B language model (Italian)",
+      "url": "https://www.ilsole24ore.com/art/frontier-grand-challenge-domyn-guidera-progetto-dell-ai-sovrana-AIgNTNoD",
+      "summary": "Article URL: https://www.ilsole24ore.com/art/frontier-grand-challenge-domyn-guidera-progetto-dell-ai-sovrana-AIgNTNoD\nComments URL: https://news.ycombinator.com/item?id=48656887\nPoints: 5\n# Comments: ",
+      "source": "hacker_news",
+      "score": null,
+      "author": "theanonymousone",
+      "published": "Wed, 24 Jun 2026 08:32:38 +0000"
+    },
+    {
+      "name": "The brain was never just a language model",
+      "url": "https://www.computerweekly.com/opinion/The-Brain-Was-Never-Just-a-Language-Model",
+      "summary": "Article URL: https://www.computerweekly.com/opinion/The-Brain-Was-Never-Just-a-Language-Model\nComments URL: https://news.ycombinator.com/item?id=48644128\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "beardyw",
+      "published": "Tue, 23 Jun 2026 12:47:04 +0000"
+    },
+    {
+      "name": "Trained a small language model for just generating question",
+      "url": "https://huggingface.co/aungkomyint/tara1.2-quest",
+      "summary": "Article URL: https://huggingface.co/aungkomyint/tara1.2-quest\nComments URL: https://news.ycombinator.com/item?id=48620243\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "aungkomyint",
+      "published": "Sun, 21 Jun 2026 16:27:46 +0000"
+    },
+    {
+      "name": "GPT‑NL: a sovereign language model for the Netherlands",
+      "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+      "summary": "Article URL: https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/\nComments URL: https://news.ycombinator.com/item?id=48559188\nPoints: 252\n# Comments: 305",
+      "source": "hacker_news",
+      "score": null,
+      "author": "root-parent",
+      "published": "Tue, 16 Jun 2026 17:54:02 +0000"
+    },
+    {
+      "name": "Frontier Language Model Intelligence, over Time",
+      "url": "https://artificialanalysis.ai/?model-creators=anthropic%2Cmistral#frontier-language-model-intelligence-over-time",
+      "summary": "Article URL: https://artificialanalysis.ai/?model-creators=anthropic%2Cmistral#frontier-language-model-intelligence-over-time\nComments URL: https://news.ycombinator.com/item?id=48522760\nPoints: 3\n# Co",
+      "source": "hacker_news",
+      "score": null,
+      "author": "doener",
+      "published": "Sun, 14 Jun 2026 00:04:22 +0000"
+    },
+    {
+      "name": "DiffusionGemma: Discrete diffusion in a large language model",
+      "url": "https://idlemachines.co.uk/topics/trending",
+      "summary": "Article URL: https://idlemachines.co.uk/topics/trending\nComments URL: https://news.ycombinator.com/item?id=48497209\nPoints: 3\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "smaddrellmander",
+      "published": "Thu, 11 Jun 2026 22:21:21 +0000"
+    },
+    {
+      "name": "Tiny hackable CUDA language model implementation",
+      "url": "https://github.com/markusheimerl/gpt",
+      "summary": "Article URL: https://github.com/markusheimerl/gpt\nComments URL: https://news.ycombinator.com/item?id=48415828\nPoints: 81\n# Comments: 13",
+      "source": "hacker_news",
+      "score": null,
+      "author": "markusheimerl",
+      "published": "Fri, 05 Jun 2026 17:41:58 +0000"
+    },
+    {
+      "name": "A (small) language model walks through its training text",
+      "url": "https://github.com/chrishwiggins/shannon-language-model",
+      "summary": "Article URL: https://github.com/chrishwiggins/shannon-language-model\nComments URL: https://news.ycombinator.com/item?id=48349950\nPoints: 4\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "raybb",
+      "published": "Sun, 31 May 2026 21:30:58 +0000"
+    },
+    {
+      "name": "Step 3.7 Flash – 198B-A11B MoE vision-language model",
+      "url": "https://huggingface.co/stepfun-ai/Step-3.7-Flash",
+      "summary": "Article URL: https://huggingface.co/stepfun-ai/Step-3.7-Flash\nComments URL: https://news.ycombinator.com/item?id=48340949\nPoints: 5\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "dryarzeg",
+      "published": "Sat, 30 May 2026 21:51:37 +0000"
+    }
+  ]
+}
