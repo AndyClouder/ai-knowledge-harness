@@ -1,0 +1,422 @@
+[
+  {
+    "id": "70954f10-9332-40bd-af8b-7dbb105f69ad",
+    "title": "isjiamu/gzh-design-skill",
+    "source_url": "https://github.com/isjiamu/gzh-design-skill",
+    "source": "unknown",
+    "collected_at": "2026-07-07T10:52:45.920210+00:00",
+    "analyzed_at": "2026-07-07T10:52:45.920210+00:00",
+    "summary": "把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 659,
+      "score": null,
+      "author": null,
+      "language": "HTML"
+    }
+  },
+  {
+    "id": "3b3368e9-d68c-4db5-848b-29fd4c487f73",
+    "title": "nagisanzenin/engram",
+    "source_url": "https://github.com/nagisanzenin/engram",
+    "source": "unknown",
+    "collected_at": "2026-07-07T10:52:47.191697+00:00",
+    "analyzed_at": "2026-07-07T10:52:47.191697+00:00",
+    "summary": "Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 343,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "03f4e5ad-c323-4d97-a3a1-0bd4b796cace",
+    "title": "simonlin1212/Vibe-Research",
+    "source_url": "https://github.com/simonlin1212/Vibe-Research",
+    "source": "unknown",
+    "collected_at": "2026-07-07T10:52:48.459112+00:00",
+    "analyzed_at": "2026-07-07T10:52:48.459112+00:00",
+    "summary": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 337,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "986ab846-402d-4366-a115-fcd3eb4b588d",
+    "title": "pocket-stack/pocketjs",
+    "source_url": "https://github.com/pocket-stack/pocketjs",
+    "source": "unknown",
+    "collected_at": "2026-07-07T10:52:49.726118+00:00",
+    "analyzed_at": "2026-07-07T10:52:49.726118+00:00",
+    "summary": "High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 324,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "8b0fc7fe-1bbf-4aee-afbc-ca91a3340910",
+    "title": "Beijing is looking at curbing overseas access to China's top AI models",
+    "source_url": "https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-07T10:52:50.995888+00:00",
+    "analyzed_at": "2026-07-07T10:52:50.995888+00:00",
+    "summary": "Article URL: https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/\nComments URL: https://news.ycombinator.com/item?id=48816025\nPoints: 3",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "eis",
+      "language": null
+    }
+  },
+  {
+    "id": "37888a35-649d-49e4-9233-f8d2ae89f74c",
+    "title": "Are We AI Yet?",
+    "source_url": "https://data.stackexchange.com/stackoverflow/query/1953321/are-we-ai-yet#graph",
+    "source": "hacker_news",
+    "collected_at": "2026-07-07T10:52:52.262145+00:00",
+    "analyzed_at": "2026-07-07T10:52:52.262145+00:00",
+    "summary": "Article URL: https://data.stackexchange.com/stackoverflow/query/1953321/are-we-ai-yet#graph\nComments URL: https://news.ycombinator.com/item?id=48816015\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pelagicAustral",
+      "language": null
+    }
+  },
+  {
+    "id": "6d9ea863-c83b-4532-88e4-5b3a51aa6f9c",
+    "title": "Money Magician – AI financial co-pilot for founders (not a budgeting app)",
+    "source_url": "https://moneymagician.eu",
+    "source": "hacker_news",
+    "collected_at": "2026-07-07T10:52:53.991786+00:00",
+    "analyzed_at": "2026-07-07T10:52:53.991786+00:00",
+    "summary": "Article URL: https://moneymagician.eu\nComments URL: https://news.ycombinator.com/item?id=48815980\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "carolinev",
+      "language": null
+    }
+  },
+  {
+    "id": "ffab6ea6-45a2-4756-b769-be9039553f0a",
+    "title": "Top banking watchdogs issue stark warning over AI-driven cyber attacks",
+    "source_url": "https://www.ft.com/content/304cdbb9-c161-4e40-af4d-6df1d2ff5363",
+    "source": "hacker_news",
+    "collected_at": "2026-07-07T10:52:55.259505+00:00",
+    "analyzed_at": "2026-07-07T10:52:55.259505+00:00",
+    "summary": "Article URL: https://www.ft.com/content/304cdbb9-c161-4e40-af4d-6df1d2ff5363\nComments URL: https://news.ycombinator.com/item?id=48815867\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "thm",
+      "language": null
+    }
+  },
+  {
+    "id": "af5462c0-6e19-4bd0-af29-479c3347ff95",
+    "title": "ABC Australia will trial using AI for journalism",
+    "source_url": "https://theconversation.com/abc-will-trial-using-ai-for-journalism-what-are-the-risks-and-benefits-286841",
+    "source": "hacker_news",
+    "collected_at": "2026-07-07T10:52:56.550972+00:00",
+    "analyzed_at": "2026-07-07T10:52:56.550972+00:00",
+    "summary": "Article URL: https://theconversation.com/abc-will-trial-using-ai-for-journalism-what-are-the-risks-and-benefits-286841\nComments URL: https://news.ycombinator.com/item?id=48815818\nPoints: 1\n# Comments:",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Alien1Being",
+      "language": null
+    }
+  },
+  {
+    "id": "54f41d87-eeaf-4183-b12f-121553bdb215",
+    "title": "Prevail – open-source AI \"life OS\" (not for your job)",
+    "source_url": "https://prevail.sh/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-07T10:52:57.889486+00:00",
+    "analyzed_at": "2026-07-07T10:52:57.889486+00:00",
+    "summary": "Article URL: https://prevail.sh/\nComments URL: https://news.ycombinator.com/item?id=48815784\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mrlou",
+      "language": null
+    }
+  },
+  {
+    "id": "24b6888e-7747-4f14-a213-7dd527d641a8",
+    "title": "Show HN: Brianni – AI chat on GPT/Claude/Gemini that we can't read (provable)",
+    "source_url": "https://brianni.co/blog/prove-were-not-lying",
+    "source": "hacker_news",
+    "collected_at": "2026-07-07T10:52:59.155186+00:00",
+    "analyzed_at": "2026-07-07T10:52:59.155186+00:00",
+    "summary": "Article URL: https://brianni.co/blog/prove-were-not-lying\nComments URL: https://news.ycombinator.com/item?id=48815739\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "iosazee",
+      "language": null
+    }
+  },
+  {
+    "id": "fcd3bd25-73c9-4929-b31f-8b960f143999",
+    "title": "Samsung profits jump 1,800% as AI chip sales soar",
+    "source_url": "https://www.bbc.com/news/articles/c1kyy8yrpxdo",
+    "source": "hacker_news",
+    "collected_at": "2026-07-07T10:53:00.421964+00:00",
+    "analyzed_at": "2026-07-07T10:53:00.421964+00:00",
+    "summary": "Article URL: https://www.bbc.com/news/articles/c1kyy8yrpxdo\nComments URL: https://news.ycombinator.com/item?id=48815657\nPoints: 5\n# Comments: 3",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "nnurmanov",
+      "language": null
+    }
+  },
+  {
+    "id": "dcf55c22-cb2c-43aa-afc5-c4b3ac134104",
+    "title": "Thoughts on AI",
+    "source_url": "https://rkoziel.com/thoughts/2026-06-29--19-02-29/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-07T10:53:01.688652+00:00",
+    "analyzed_at": "2026-07-07T10:53:01.688652+00:00",
+    "summary": "Article URL: https://rkoziel.com/thoughts/2026-06-29--19-02-29/\nComments URL: https://news.ycombinator.com/item?id=48815621\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "freediver",
+      "language": null
+    }
+  },
+  {
+    "id": "b57ed48f-3376-478d-a9e0-fb19b36972a3",
+    "title": "Show HN: Graphenium – Local Trust Layer for AI Agents (Rust, Datalog, Salsa)",
+    "source_url": "https://github.com/lambda-alpha-labs/Graphenium",
+    "source": "hacker_news",
+    "collected_at": "2026-07-07T10:53:02.956772+00:00",
+    "analyzed_at": "2026-07-07T10:53:02.956772+00:00",
+    "summary": "Article URL: https://github.com/lambda-alpha-labs/Graphenium\nComments URL: https://news.ycombinator.com/item?id=48815458\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Graphenium",
+      "language": null
+    }
+  },
+  {
+    "id": "d81f7c18-ae65-4ae8-9f87-85612f730570",
+    "title": "AI coding assistant is quietly shipping your secrets",
+    "source_url": "https://reykur.io/blog/ai-coding-assistant-shipping-secrets/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-07T10:53:04.225971+00:00",
+    "analyzed_at": "2026-07-07T10:53:04.225971+00:00",
+    "summary": "Article URL: https://reykur.io/blog/ai-coding-assistant-shipping-secrets/\nComments URL: https://news.ycombinator.com/item?id=48815447\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "k1r111",
+      "language": null
+    }
+  },
+  {
+    "id": "2fe4befb-4abe-4902-8c2d-3e430148deb3",
+    "title": "Show HN: I Built PixelGlass – An AI Agent for Building Ghost Themes",
+    "source_url": "https://pixelglass.co/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-07T10:53:05.491453+00:00",
+    "analyzed_at": "2026-07-07T10:53:05.491453+00:00",
+    "summary": "Article URL: https://pixelglass.co/\nComments URL: https://news.ycombinator.com/item?id=48815350\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ronaldl93",
+      "language": null
+    }
+  },
+  {
+    "id": "54ebfe04-dcbf-484f-9078-7c8ee697e3a5",
+    "title": "We're Living Through the AI Utopia and Can't See It",
+    "source_url": "https://twitter.com/christofsalis/status/2073375047939395671",
+    "source": "hacker_news",
+    "collected_at": "2026-07-07T10:53:06.759788+00:00",
+    "analyzed_at": "2026-07-07T10:53:06.759788+00:00",
+    "summary": "Article URL: https://twitter.com/christofsalis/status/2073375047939395671\nComments URL: https://news.ycombinator.com/item?id=48815183\nPoints: 4\n# Comments: 6",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "evizero",
+      "language": null
+    }
+  },
+  {
+    "id": "3bbbeafc-538e-4287-82c5-d72eef9db9c9",
+    "title": "YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood",
+    "source_url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
+    "source": "hacker_news",
+    "collected_at": "2026-07-07T10:53:08.026481+00:00",
+    "analyzed_at": "2026-07-07T10:53:08.026481+00:00",
+    "summary": "Article URL: https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media\nComments URL: https://news.ycombinator.com/item?id=48815117\nPoints: 65\n# Comments: 65",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "theanonymousone",
+      "language": null
+    }
+  },
+  {
+    "id": "1ffb312f-57ba-4b1d-9c84-3a0c758fff9b",
+    "title": "The first AI safety letter was sent in 1949",
+    "source_url": "https://vanuan.github.io/blog/2026-02-28-wiener/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-07T10:53:09.293706+00:00",
+    "analyzed_at": "2026-07-07T10:53:09.293706+00:00",
+    "summary": "Article URL: https://vanuan.github.io/blog/2026-02-28-wiener/\nComments URL: https://news.ycombinator.com/item?id=48815104\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "indynz",
+      "language": null
+    }
+  },
+  {
+    "id": "2d61b11e-5e94-410e-b8f2-cb7bb799195e",
+    "title": "Ryzen AI Developer Platform: AMD's Own Linux Distribution Built Atop Debian",
+    "source_url": "https://www.phoronix.com/review/ryzen-ai-linux-os",
+    "source": "hacker_news",
+    "collected_at": "2026-07-07T10:53:10.561243+00:00",
+    "analyzed_at": "2026-07-07T10:53:10.561243+00:00",
+    "summary": "Article URL: https://www.phoronix.com/review/ryzen-ai-linux-os\nComments URL: https://news.ycombinator.com/item?id=48814980\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rbanffy",
+      "language": null
+    }
+  }
+]

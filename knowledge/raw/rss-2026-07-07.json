@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-07-07T10:52:44.009917+00:00",
+  "items": [
+    {
+      "name": "Beijing is looking at curbing overseas access to China's top AI models",
+      "url": "https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/",
+      "summary": "Article URL: https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/\nComments URL: https://news.ycombinator.com/item?id=48816025\nPoints: 3",
+      "source": "hacker_news",
+      "score": null,
+      "author": "eis",
+      "published": "Tue, 07 Jul 2026 10:51:07 +0000"
+    },
+    {
+      "name": "Are We AI Yet?",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1953321/are-we-ai-yet#graph",
+      "summary": "Article URL: https://data.stackexchange.com/stackoverflow/query/1953321/are-we-ai-yet#graph\nComments URL: https://news.ycombinator.com/item?id=48816015\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pelagicAustral",
+      "published": "Tue, 07 Jul 2026 10:49:28 +0000"
+    },
+    {
+      "name": "Money Magician – AI financial co-pilot for founders (not a budgeting app)",
+      "url": "https://moneymagician.eu",
+      "summary": "Article URL: https://moneymagician.eu\nComments URL: https://news.ycombinator.com/item?id=48815980\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "carolinev",
+      "published": "Tue, 07 Jul 2026 10:42:45 +0000"
+    },
+    {
+      "name": "Top banking watchdogs issue stark warning over AI-driven cyber attacks",
+      "url": "https://www.ft.com/content/304cdbb9-c161-4e40-af4d-6df1d2ff5363",
+      "summary": "Article URL: https://www.ft.com/content/304cdbb9-c161-4e40-af4d-6df1d2ff5363\nComments URL: https://news.ycombinator.com/item?id=48815867\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "thm",
+      "published": "Tue, 07 Jul 2026 10:28:19 +0000"
+    },
+    {
+      "name": "ABC Australia will trial using AI for journalism",
+      "url": "https://theconversation.com/abc-will-trial-using-ai-for-journalism-what-are-the-risks-and-benefits-286841",
+      "summary": "Article URL: https://theconversation.com/abc-will-trial-using-ai-for-journalism-what-are-the-risks-and-benefits-286841\nComments URL: https://news.ycombinator.com/item?id=48815818\nPoints: 1\n# Comments:",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Alien1Being",
+      "published": "Tue, 07 Jul 2026 10:20:41 +0000"
+    },
+    {
+      "name": "Prevail – open-source AI \"life OS\" (not for your job)",
+      "url": "https://prevail.sh/",
+      "summary": "Article URL: https://prevail.sh/\nComments URL: https://news.ycombinator.com/item?id=48815784\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mrlou",
+      "published": "Tue, 07 Jul 2026 10:16:42 +0000"
+    },
+    {
+      "name": "Show HN: Brianni – AI chat on GPT/Claude/Gemini that we can't read (provable)",
+      "url": "https://brianni.co/blog/prove-were-not-lying",
+      "summary": "Article URL: https://brianni.co/blog/prove-were-not-lying\nComments URL: https://news.ycombinator.com/item?id=48815739\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "iosazee",
+      "published": "Tue, 07 Jul 2026 10:10:01 +0000"
+    },
+    {
+      "name": "Samsung profits jump 1,800% as AI chip sales soar",
+      "url": "https://www.bbc.com/news/articles/c1kyy8yrpxdo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c1kyy8yrpxdo\nComments URL: https://news.ycombinator.com/item?id=48815657\nPoints: 5\n# Comments: 3",
+      "source": "hacker_news",
+      "score": null,
+      "author": "nnurmanov",
+      "published": "Tue, 07 Jul 2026 09:57:16 +0000"
+    },
+    {
+      "name": "Thoughts on AI",
+      "url": "https://rkoziel.com/thoughts/2026-06-29--19-02-29/",
+      "summary": "Article URL: https://rkoziel.com/thoughts/2026-06-29--19-02-29/\nComments URL: https://news.ycombinator.com/item?id=48815621\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "freediver",
+      "published": "Tue, 07 Jul 2026 09:52:16 +0000"
+    },
+    {
+      "name": "Show HN: Graphenium – Local Trust Layer for AI Agents (Rust, Datalog, Salsa)",
+      "url": "https://github.com/lambda-alpha-labs/Graphenium",
+      "summary": "Article URL: https://github.com/lambda-alpha-labs/Graphenium\nComments URL: https://news.ycombinator.com/item?id=48815458\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Graphenium",
+      "published": "Tue, 07 Jul 2026 09:29:16 +0000"
+    },
+    {
+      "name": "AI coding assistant is quietly shipping your secrets",
+      "url": "https://reykur.io/blog/ai-coding-assistant-shipping-secrets/",
+      "summary": "Article URL: https://reykur.io/blog/ai-coding-assistant-shipping-secrets/\nComments URL: https://news.ycombinator.com/item?id=48815447\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "k1r111",
+      "published": "Tue, 07 Jul 2026 09:28:08 +0000"
+    },
+    {
+      "name": "Show HN: I Built PixelGlass – An AI Agent for Building Ghost Themes",
+      "url": "https://pixelglass.co/",
+      "summary": "Article URL: https://pixelglass.co/\nComments URL: https://news.ycombinator.com/item?id=48815350\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ronaldl93",
+      "published": "Tue, 07 Jul 2026 09:15:05 +0000"
+    },
+    {
+      "name": "We're Living Through the AI Utopia and Can't See It",
+      "url": "https://twitter.com/christofsalis/status/2073375047939395671",
+      "summary": "Article URL: https://twitter.com/christofsalis/status/2073375047939395671\nComments URL: https://news.ycombinator.com/item?id=48815183\nPoints: 4\n# Comments: 6",
+      "source": "hacker_news",
+      "score": null,
+      "author": "evizero",
+      "published": "Tue, 07 Jul 2026 08:52:04 +0000"
+    },
+    {
+      "name": "YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood",
+      "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
+      "summary": "Article URL: https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media\nComments URL: https://news.ycombinator.com/item?id=48815117\nPoints: 65\n# Comments: 65",
+      "source": "hacker_news",
+      "score": null,
+      "author": "theanonymousone",
+      "published": "Tue, 07 Jul 2026 08:39:51 +0000"
+    },
+    {
+      "name": "The first AI safety letter was sent in 1949",
+      "url": "https://vanuan.github.io/blog/2026-02-28-wiener/",
+      "summary": "Article URL: https://vanuan.github.io/blog/2026-02-28-wiener/\nComments URL: https://news.ycombinator.com/item?id=48815104\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "indynz",
+      "published": "Tue, 07 Jul 2026 08:38:26 +0000"
+    },
+    {
+      "name": "Ryzen AI Developer Platform: AMD's Own Linux Distribution Built Atop Debian",
+      "url": "https://www.phoronix.com/review/ryzen-ai-linux-os",
+      "summary": "Article URL: https://www.phoronix.com/review/ryzen-ai-linux-os\nComments URL: https://news.ycombinator.com/item?id=48814980\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rbanffy",
+      "published": "Tue, 07 Jul 2026 08:17:40 +0000"
+    },
+    {
+      "name": "Zhipu AI, MiniMax shares for Hong Kong investors as lock-ups end",
+      "url": "https://www.scmp.com/business/markets/article/3359697/zhipu-ai-minimax-shares-provide-gut-check-hong-kong-investors-lock-ups-end",
+      "summary": "Article URL: https://www.scmp.com/business/markets/article/3359697/zhipu-ai-minimax-shares-provide-gut-check-hong-kong-investors-lock-ups-end\nComments URL: https://news.ycombinator.com/item?id=4881488",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Alien1Being",
+      "published": "Tue, 07 Jul 2026 07:59:51 +0000"
+    },
+    {
+      "name": "Nvidia GPU Debt Backstop Unleashes the AI Project Trinity: Capital, Offtake [ ]",
+      "url": "https://newsletter.semianalysis.com/p/nvidia-gpu-debt-backstop-unleashes",
+      "summary": "Article URL: https://newsletter.semianalysis.com/p/nvidia-gpu-debt-backstop-unleashes\nComments URL: https://news.ycombinator.com/item?id=48814866\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "swolpers",
+      "published": "Tue, 07 Jul 2026 07:55:22 +0000"
+    },
+    {
+      "name": "Generating 3D assets with AI [video]",
+      "url": "https://www.youtube.com/watch?v=YwoPuZa8N_g",
+      "summary": "Article URL: https://www.youtube.com/watch?v=YwoPuZa8N_g\nComments URL: https://news.ycombinator.com/item?id=48814820\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "K0IN",
+      "published": "Tue, 07 Jul 2026 07:48:04 +0000"
+    },
+    {
+      "name": "Romania's \"Palantir\": the entrepreneur selling \"sovereign AI\" to secret services",
+      "url": "https://eualive.net/romanias-palantir-the-entrepreneur-selling-sovereign-ai-to-the-countrys-intelligence-services/",
+      "summary": "Article URL: https://eualive.net/romanias-palantir-the-entrepreneur-selling-sovereign-ai-to-the-countrys-intelligence-services/\nComments URL: https://news.ycombinator.com/item?id=48814810\nPoints: 1\n# ",
+      "source": "hacker_news",
+      "score": null,
+      "author": "robtherobber",
+      "published": "Tue, 07 Jul 2026 07:47:20 +0000"
+    }
+  ]
+}

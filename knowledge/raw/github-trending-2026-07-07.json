@@ -1,0 +1,90 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-07-07T10:52:41.021585+00:00",
+  "items": [
+    {
+      "name": "isjiamu/gzh-design-skill",
+      "url": "https://github.com/isjiamu/gzh-design-skill",
+      "summary": "把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.",
+      "stars": 659,
+      "language": "HTML",
+      "topics": [
+        "agent-skill",
+        "ai-agent",
+        "claude-code",
+        "codex",
+        "cursor",
+        "gongzhonghao",
+        "html",
+        "markdown",
+        "rich-text",
+        "skill",
+        "typesetting",
+        "wechat",
+        "weixin"
+      ]
+    },
+    {
+      "name": "nagisanzenin/engram",
+      "url": "https://github.com/nagisanzenin/engram",
+      "summary": "Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.",
+      "stars": 343,
+      "language": "Python",
+      "topics": [
+        "claude-code",
+        "claude-code-plugin",
+        "education",
+        "fsrs",
+        "learning",
+        "learning-science",
+        "spaced-repetition"
+      ]
+    },
+    {
+      "name": "simonlin1212/Vibe-Research",
+      "url": "https://github.com/simonlin1212/Vibe-Research",
+      "summary": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
+      "stars": 337,
+      "language": "TypeScript",
+      "topics": [
+        "a-stock",
+        "ai-agent",
+        "dashboard",
+        "fastapi",
+        "fintech",
+        "hk-stocks",
+        "investment-research",
+        "llm",
+        "mcp",
+        "python",
+        "react",
+        "stock-market",
+        "trading",
+        "us-stocks"
+      ]
+    },
+    {
+      "name": "pocket-stack/pocketjs",
+      "url": "https://github.com/pocket-stack/pocketjs",
+      "summary": "High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget.",
+      "stars": 324,
+      "language": "TypeScript",
+      "topics": [
+        "embedded-ui",
+        "flexbox",
+        "frontend",
+        "jsx",
+        "native-ui",
+        "psp",
+        "quickjs",
+        "rust",
+        "solidjs",
+        "tailwindcss",
+        "vue",
+        "vue-vapor",
+        "webassembly"
+      ]
+    }
+  ]
+}
