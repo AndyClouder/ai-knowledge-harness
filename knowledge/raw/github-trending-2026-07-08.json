@@ -1,0 +1,84 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-07-08T10:13:34.781299+00:00",
+  "items": [
+    {
+      "name": "Robbyant/lingbot-vision",
+      "url": "https://github.com/Robbyant/lingbot-vision",
+      "summary": "Self-supervised learning for spatial perception",
+      "stars": 430,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "can1357/pon",
+      "url": "https://github.com/can1357/pon",
+      "summary": "Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.",
+      "stars": 354,
+      "language": "Rust",
+      "topics": [
+        "aot",
+        "compiler",
+        "cranelift",
+        "garbage-collector",
+        "jit",
+        "python",
+        "python3",
+        "runtime",
+        "rust"
+      ]
+    },
+    {
+      "name": "ai4s-research/open-science",
+      "url": "https://github.com/ai4s-research/open-science",
+      "summary": "Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + a",
+      "stars": 346,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "ai-for-science",
+        "ai-scientist",
+        "ai4s",
+        "claude-science",
+        "claude-science-alternative",
+        "desktop-app",
+        "llm",
+        "local-first",
+        "mcp",
+        "open-science",
+        "reproducible-research",
+        "research-tools",
+        "scientific-research",
+        "tauri"
+      ]
+    },
+    {
+      "name": "Tencent-Hunyuan/Hy3",
+      "url": "https://github.com/Tencent-Hunyuan/Hy3",
+      "summary": "Hy3 (295B A21B), a leading reasoning and agent model in its size, with great cost efficiency.",
+      "stars": 330,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "OStudi/short-video-generator-AI",
+      "url": "https://github.com/OStudi/short-video-generator-AI",
+      "summary": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "stars": 322,
+      "language": "Python",
+      "topics": [
+        "ai-video",
+        "clip-generator",
+        "money-printer",
+        "opus",
+        "short-videos",
+        "shorts-generator",
+        "shorts-maker",
+        "tiktok-clip-generator",
+        "video-editing",
+        "viral-clips"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "55636403-a7fc-446f-a5de-35e94c9c107e",
+    "title": "Robbyant/lingbot-vision",
+    "source_url": "https://github.com/Robbyant/lingbot-vision",
+    "source": "unknown",
+    "collected_at": "2026-07-08T10:13:41.527868+00:00",
+    "analyzed_at": "2026-07-08T10:13:41.527868+00:00",
+    "summary": "Self-supervised learning for spatial perception",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 430,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "e343cd3e-1e7e-4a0f-8599-77bda3633539",
+    "title": "can1357/pon",
+    "source_url": "https://github.com/can1357/pon",
+    "source": "unknown",
+    "collected_at": "2026-07-08T10:13:42.849556+00:00",
+    "analyzed_at": "2026-07-08T10:13:42.849556+00:00",
+    "summary": "Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 354,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "b5c5c4c9-92f4-4a7a-9234-1f5bfee3711c",
+    "title": "ai4s-research/open-science",
+    "source_url": "https://github.com/ai4s-research/open-science",
+    "source": "unknown",
+    "collected_at": "2026-07-08T10:13:44.195177+00:00",
+    "analyzed_at": "2026-07-08T10:13:44.195177+00:00",
+    "summary": "Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + a",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 346,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "a96570ac-f661-458f-a16a-49de5f6d5cd9",
+    "title": "Tencent-Hunyuan/Hy3",
+    "source_url": "https://github.com/Tencent-Hunyuan/Hy3",
+    "source": "unknown",
+    "collected_at": "2026-07-08T10:13:45.523599+00:00",
+    "analyzed_at": "2026-07-08T10:13:45.523599+00:00",
+    "summary": "Hy3 (295B A21B), a leading reasoning and agent model in its size, with great cost efficiency.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 330,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "e6bb5b39-0712-448c-a7a1-1d95931766bc",
+    "title": "OStudi/short-video-generator-AI",
+    "source_url": "https://github.com/OStudi/short-video-generator-AI",
+    "source": "unknown",
+    "collected_at": "2026-07-08T10:13:46.849326+00:00",
+    "analyzed_at": "2026-07-08T10:13:46.849326+00:00",
+    "summary": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 322,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  }
+]
