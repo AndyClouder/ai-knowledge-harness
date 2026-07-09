@@ -1,0 +1,61 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-07-09T10:51:35.255654+00:00",
+  "items": [
+    {
+      "name": "rolekkona/Polymarket-Arbitrage-Trading-Bot",
+      "url": "https://github.com/rolekkona/Polymarket-Arbitrage-Trading-Bot",
+      "summary": "polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbi",
+      "stars": 522,
+      "language": "TypeScript",
+      "topics": [
+        "arbitrage",
+        "bot",
+        "polymarket"
+      ]
+    },
+    {
+      "name": "Robbyant/lingbot-video",
+      "url": "https://github.com/Robbyant/lingbot-video",
+      "summary": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "stars": 457,
+      "language": "Python",
+      "topics": [
+        "image-to-video",
+        "lingbot-video",
+        "video-generation",
+        "world-models"
+      ]
+    },
+    {
+      "name": "op7418/guizang-material-illustration",
+      "url": "https://github.com/op7418/guizang-material-illustration",
+      "summary": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
+      "stars": 421,
+      "language": null,
+      "topics": [
+        "agent",
+        "chart-visualization",
+        "chinese",
+        "claude-code",
+        "codex",
+        "data-visualization",
+        "explainer",
+        "illustration",
+        "image-generation",
+        "material-illustration",
+        "skill",
+        "social-media"
+      ]
+    },
+    {
+      "name": "xiaotianfotos/homerail",
+      "url": "https://github.com/xiaotianfotos/homerail",
+      "summary": "Voice-first local agent orchestration runtime for auditable DAG workflows.",
+      "stars": 325,
+      "language": "TypeScript",
+      "topics": []
+    }
+  ]
+}

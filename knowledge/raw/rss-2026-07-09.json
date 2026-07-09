@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-07-09T10:51:41.288323+00:00",
+  "items": [
+    {
+      "name": "Asker: A Socratic AI auditing agent using 3D cross-verification",
+      "url": "https://news.ycombinator.com/item?id=48843782",
+      "summary": "thankscarbon.com/asker\n\nComments URL: https://news.ycombinator.com/item?id=48843782\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "tygerlee",
+      "published": "Thu, 09 Jul 2026 10:48:16 +0000"
+    },
+    {
+      "name": "SpaceX and AI startup wealth fuels demand for private jets",
+      "url": "https://www.reuters.com/legal/government/spacex-ai-startup-wealth-fuels-demand-private-jets-2026-07-09/",
+      "summary": "Article URL: https://www.reuters.com/legal/government/spacex-ai-startup-wealth-fuels-demand-private-jets-2026-07-09/\nComments URL: https://news.ycombinator.com/item?id=48843778\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "adithyaharish",
+      "published": "Thu, 09 Jul 2026 10:46:42 +0000"
+    },
+    {
+      "name": "The true cost of saying \"Hi\" to an AI agent",
+      "url": "https://quesma.com/blog/the-true-cost-of-saying-hi-to-an-ai-agent/",
+      "summary": "Article URL: https://quesma.com/blog/the-true-cost-of-saying-hi-to-an-ai-agent/\nComments URL: https://news.ycombinator.com/item?id=48843758\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "stared",
+      "published": "Thu, 09 Jul 2026 10:43:55 +0000"
+    },
+    {
+      "name": "Show HN: Self-Hosted AI That Sees, Plays Minecraft, and Reacts",
+      "url": "https://github.com/Alradyin/wallie-V2",
+      "summary": "Article URL: https://github.com/Alradyin/wallie-V2\nComments URL: https://news.ycombinator.com/item?id=48843648\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Alrady",
+      "published": "Thu, 09 Jul 2026 10:29:27 +0000"
+    },
+    {
+      "name": "Show HN: Agentic FC – a football management SIM played by AI agents over MCP",
+      "url": "https://github.com/gaemi/agentic-fc",
+      "summary": "Article URL: https://github.com/gaemi/agentic-fc\nComments URL: https://news.ycombinator.com/item?id=48843641\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "gaemi",
+      "published": "Thu, 09 Jul 2026 10:28:47 +0000"
+    },
+    {
+      "name": "Show HN: Internationalizationstack – Fix AI Localization Bugs in Claude Code",
+      "url": "https://github.com/i18n-agent/i18nstack",
+      "summary": "Article URL: https://github.com/i18n-agent/i18nstack\nComments URL: https://news.ycombinator.com/item?id=48843558\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "lokinkl",
+      "published": "Thu, 09 Jul 2026 10:19:40 +0000"
+    },
+    {
+      "name": "Chasing the Hallucinations: KPMG's AI-Powered Attempt at \"Redefining Excellence\"",
+      "url": "https://gptzero.me/news/investigations-kpmg/",
+      "summary": "Article URL: https://gptzero.me/news/investigations-kpmg/\nComments URL: https://news.ycombinator.com/item?id=48843532\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "antondd",
+      "published": "Thu, 09 Jul 2026 10:17:01 +0000"
+    },
+    {
+      "name": "97% of websites expose zero tools an AI agent can use",
+      "url": "https://sitespeak.ai/research/ai-readiness-report-2026",
+      "summary": "Article URL: https://sitespeak.ai/research/ai-readiness-report-2026\nComments URL: https://news.ycombinator.com/item?id=48843475\nPoints: 2\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "kizum",
+      "published": "Thu, 09 Jul 2026 10:07:53 +0000"
+    },
+    {
+      "name": "Show HN: Isnad – A Python framework that uses 1,200-yearold Islamic logic for AI",
+      "url": "https://medium.com/@alizahidraja/can-a-1-200-year-old-trust-system-help-build-more-reliable-ai-882e6cc4485b",
+      "summary": "Check it out guys! its opensourced\n\nComments URL: https://news.ycombinator.com/item?id=48843471\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "alizahidraja",
+      "published": "Thu, 09 Jul 2026 10:07:23 +0000"
+    },
+    {
+      "name": "Brown Professor Suspects Majority of His Class Used AI to Cheat",
+      "url": "https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat",
+      "summary": "Article URL: https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat\nComments URL: https://news.ycombinator.com/item?id=4884345",
+      "source": "hacker_news",
+      "score": null,
+      "author": "red_admiral",
+      "published": "Thu, 09 Jul 2026 10:05:30 +0000"
+    },
+    {
+      "name": "The AI risk in marketing stacks inside orgs",
+      "url": "https://singulr.ai/blog/the-hidden-ai-risk-in-your-marketing-stack-shadow-ai-automation-pipelines-and-the-hidden-data-leaks",
+      "summary": "Article URL: https://singulr.ai/blog/the-hidden-ai-risk-in-your-marketing-stack-shadow-ai-automation-pipelines-and-the-hidden-data-leaks\nComments URL: https://news.ycombinator.com/item?id=48843431\nPoi",
+      "source": "hacker_news",
+      "score": null,
+      "author": "shivc",
+      "published": "Thu, 09 Jul 2026 10:01:39 +0000"
+    },
+    {
+      "name": "The UK plans to ban romantic AI chatbots for under-18s",
+      "url": "https://blog.uehiro.ox.ac.uk/2026/06/the-uk-plans-to-ban-romantic-ai-chatbots-for-under-18s-young-people-have-bigger-worries-about-ai/",
+      "summary": "Article URL: https://blog.uehiro.ox.ac.uk/2026/06/the-uk-plans-to-ban-romantic-ai-chatbots-for-under-18s-young-people-have-bigger-worries-about-ai/\nComments URL: https://news.ycombinator.com/item?id=4",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ilreb",
+      "published": "Thu, 09 Jul 2026 09:52:13 +0000"
+    },
+    {
+      "name": "San Francisco homes sell for $1M above asking price amid AI boom",
+      "url": "https://www.theguardian.com/us-news/2026/jul/07/san-francisco-home-sale-prices-ai",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/jul/07/san-francisco-home-sale-prices-ai\nComments URL: https://news.ycombinator.com/item?id=48843363\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pseudolus",
+      "published": "Thu, 09 Jul 2026 09:48:42 +0000"
+    },
+    {
+      "name": "Show HN: Ved AI Voice Assistant",
+      "url": "https://github.com/Krish6190/Ved-Test",
+      "summary": "I built Ved because I wanted a fully offline, self hosted Jarvis for my house, that runs comfortably on everyday consumer hardware (specs 12GB VRAM GPU), without ruining system performance(multi modal",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Amigo112",
+      "published": "Thu, 09 Jul 2026 09:41:37 +0000"
+    },
+    {
+      "name": "China Weighs Limits on the AI Models American Companies Love",
+      "url": "https://www.wsj.com/tech/ai/china-weighs-limits-on-the-ai-models-american-companies-love-c3ad8f2b",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/china-weighs-limits-on-the-ai-models-american-companies-love-c3ad8f2b\nComments URL: https://news.ycombinator.com/item?id=48843303\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "JumpCrisscross",
+      "published": "Thu, 09 Jul 2026 09:40:36 +0000"
+    },
+    {
+      "name": "Show HN: Chat Privacy – hide AI chat history while screen sharing",
+      "url": "https://chromewebstore.google.com/detail/chat-privacy/piakgcdlbcadfnhgmpfpfejfmmpmnmkp",
+      "summary": "Article URL: https://chromewebstore.google.com/detail/chat-privacy/piakgcdlbcadfnhgmpfpfejfmmpmnmkp\nComments URL: https://news.ycombinator.com/item?id=48843231\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "jcwsw129",
+      "published": "Thu, 09 Jul 2026 09:32:45 +0000"
+    },
+    {
+      "name": "Tooling for AI agents to build KiCad project from simple circuit description",
+      "url": "https://github.com/oxplot/burn2kicad",
+      "summary": "Article URL: https://github.com/oxplot/burn2kicad\nComments URL: https://news.ycombinator.com/item?id=48843037\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "oxplot",
+      "published": "Thu, 09 Jul 2026 09:07:50 +0000"
+    },
+    {
+      "name": "$100k to keep CTFs competitive in the age of AI",
+      "url": "https://osec.io/blog/save-ctfs-fund/",
+      "summary": "Article URL: https://osec.io/blog/save-ctfs-fund/\nComments URL: https://news.ycombinator.com/item?id=48842872\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "stuxf",
+      "published": "Thu, 09 Jul 2026 08:48:48 +0000"
+    },
+    {
+      "name": "Google patched AI chatbot flaw that could expose customer conversations",
+      "url": "https://www.axios.com/2026/07/07/varonis-google-ai-agent-chatbot-security?",
+      "summary": "Article URL: https://www.axios.com/2026/07/07/varonis-google-ai-agent-chatbot-security?\nComments URL: https://news.ycombinator.com/item?id=48842845\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "crowd51",
+      "published": "Thu, 09 Jul 2026 08:46:20 +0000"
+    },
+    {
+      "name": "The math behind \"AI will take your job\" is wrong [video]",
+      "url": "https://www.youtube.com/watch?v=sQGZXrzykpU",
+      "summary": "Article URL: https://www.youtube.com/watch?v=sQGZXrzykpU\nComments URL: https://news.ycombinator.com/item?id=48842830\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "parasti",
+      "published": "Thu, 09 Jul 2026 08:44:36 +0000"
+    }
+  ]
+}
