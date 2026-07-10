@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-07-10T10:50:31.902520+00:00",
+  "items": [
+    {
+      "name": "Impact of AI-Generated Text on the Internet",
+      "url": "https://ai-on-the-internet.github.io/",
+      "summary": "Article URL: https://ai-on-the-internet.github.io/\nComments URL: https://news.ycombinator.com/item?id=48858046\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "abrbhat",
+      "published": "Fri, 10 Jul 2026 10:22:50 +0000"
+    },
+    {
+      "name": "Muscula – Error tracking and monitoring with AI-assisted debugging",
+      "url": "https://www.muscula.com/",
+      "summary": "Article URL: https://www.muscula.com/\nComments URL: https://news.ycombinator.com/item?id=48858044\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "hereanwaris",
+      "published": "Fri, 10 Jul 2026 10:22:49 +0000"
+    },
+    {
+      "name": "CorvinOS – self-hosted OS for AI agents, compliance built into the runtime",
+      "url": "https://corvin-labs.com/",
+      "summary": "Article URL: https://corvin-labs.com/\nComments URL: https://news.ycombinator.com/item?id=48857754\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "shumway",
+      "published": "Fri, 10 Jul 2026 09:33:19 +0000"
+    },
+    {
+      "name": "Show HN: Drag boxes around and watch a layout engine infer the Flexbox (no AI)",
+      "url": "https://wpconverters.com/playground/",
+      "summary": "Article URL: https://wpconverters.com/playground/\nComments URL: https://news.ycombinator.com/item?id=48857637\nPoints: 4\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "drzivil",
+      "published": "Fri, 10 Jul 2026 09:17:34 +0000"
+    },
+    {
+      "name": "Ramblings on technological pursuits of AI systems",
+      "url": "https://blog.knravish.me/thoughts-ai-reality-brain/",
+      "summary": "Article URL: https://blog.knravish.me/thoughts-ai-reality-brain/\nComments URL: https://news.ycombinator.com/item?id=48857325\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "KaushikR2",
+      "published": "Fri, 10 Jul 2026 08:33:26 +0000"
+    },
+    {
+      "name": "Open AI No. 2 Exec at OpenAI Fidji Simo is leaving the company",
+      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+      "summary": "Article URL: https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/\nComments URL: https://news.ycombinator.com/item?id=48857121\nPoints: 3\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "jeffhwang",
+      "published": "Fri, 10 Jul 2026 08:05:43 +0000"
+    },
+    {
+      "name": "Record and Replay, teach AI agents desktop workflows by showing them once",
+      "url": "https://github.com/video-db/open-record-replay",
+      "summary": "Article URL: https://github.com/video-db/open-record-replay\nComments URL: https://news.ycombinator.com/item?id=48857109\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ashu_trv",
+      "published": "Fri, 10 Jul 2026 08:04:05 +0000"
+    },
+    {
+      "name": "The triage is the product: running AI agents against Ethereum's protocol code",
+      "url": "https://blog.ethereum.org/2026/07/09/triage-is-the-product",
+      "summary": "Article URL: https://blog.ethereum.org/2026/07/09/triage-is-the-product\nComments URL: https://news.ycombinator.com/item?id=48857022\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "quantumgarbage",
+      "published": "Fri, 10 Jul 2026 07:52:35 +0000"
+    },
+    {
+      "name": "AI-generated videos to maximally drive a target brain region",
+      "url": "https://nevo-project.epfl.ch/",
+      "summary": "Article URL: https://nevo-project.epfl.ch/\nComments URL: https://news.ycombinator.com/item?id=48856904\nPoints: 67\n# Comments: 62",
+      "source": "hacker_news",
+      "score": null,
+      "author": "smusamashah",
+      "published": "Fri, 10 Jul 2026 07:39:11 +0000"
+    },
+    {
+      "name": "Verity – Chrome extension that auto fact-checks AI responses with cited sources",
+      "url": "https://chromewebstore.google.com/detail/verity-—-ai-truth-reveale/pdobceidjkciljhdglpmkkjdbjnaljoo",
+      "summary": "Article URL: https://chromewebstore.google.com/detail/verity-—-ai-truth-reveale/pdobceidjkciljhdglpmkkjdbjnaljoo\nComments URL: https://news.ycombinator.com/item?id=48856846\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "HalaDefense",
+      "published": "Fri, 10 Jul 2026 07:32:18 +0000"
+    },
+    {
+      "name": "Show HN: AI Humanizer – Rewrite AI text into natural copy",
+      "url": "https://ai-humanizer.space/",
+      "summary": "Article URL: https://ai-humanizer.space/\nComments URL: https://news.ycombinator.com/item?id=48856516\nPoints: 1\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "oliviamy",
+      "published": "Fri, 10 Jul 2026 06:40:24 +0000"
+    },
+    {
+      "name": "Show HN: Makoto the Claude Code plugin that keeps the AI honest",
+      "url": "https://github.com/Clear-Sights/Makoto",
+      "summary": "Article URL: https://github.com/Clear-Sights/Makoto\nComments URL: https://news.ycombinator.com/item?id=48856473\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Present_Flow",
+      "published": "Fri, 10 Jul 2026 06:31:37 +0000"
+    },
+    {
+      "name": "China may restrict foreign access to Chinese open-source AI models",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/china-weighs-silicon-curtain-around-sought-after-ai-models-2026-07-08/",
+      "summary": "Article URL: https://www.reuters.com/technology/artificial-intelligence/china-weighs-silicon-curtain-around-sought-after-ai-models-2026-07-08/\nComments URL: https://news.ycombinator.com/item?id=488564",
+      "source": "hacker_news",
+      "score": null,
+      "author": "crowd51",
+      "published": "Fri, 10 Jul 2026 06:22:06 +0000"
+    },
+    {
+      "name": "Can AI Answer the $3T Question?",
+      "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
+      "summary": "Article URL: https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/\nComments URL: https://news.ycombinator.com/item?id=48856411\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mjs06",
+      "published": "Fri, 10 Jul 2026 06:22:01 +0000"
+    },
+    {
+      "name": "Why Industry 5.0 is more than AI-powered analytics",
+      "url": "https://geekyants.com/blog/industry-40-built-visibility-industry-50-must-automate-decisions-says-geekyants-ceo-at-et-now-business-conclave-2026",
+      "summary": "Article URL: https://geekyants.com/blog/industry-40-built-visibility-industry-50-must-automate-decisions-says-geekyants-ceo-at-et-now-business-conclave-2026\nComments URL: https://news.ycombinator.com/",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Krishnaswaroop",
+      "published": "Fri, 10 Jul 2026 06:05:47 +0000"
+    },
+    {
+      "name": "Turn off this Meta setting before someone generates AI images of you",
+      "url": "https://www.malwarebytes.com/blog/ai/2026/07/turn-off-this-meta-setting-before-someone-generates-ai-images-of-you",
+      "summary": "Article URL: https://www.malwarebytes.com/blog/ai/2026/07/turn-off-this-meta-setting-before-someone-generates-ai-images-of-you\nComments URL: https://news.ycombinator.com/item?id=48856237\nPoints: 7\n# C",
+      "source": "hacker_news",
+      "score": null,
+      "author": "taubek",
+      "published": "Fri, 10 Jul 2026 05:54:13 +0000"
+    },
+    {
+      "name": "AI subscriptions cut quotas and raised prices in early 2026",
+      "url": "https://wellstsai.com/en/post/ai-subscription-shakeout-2026-claude/",
+      "summary": "Article URL: https://wellstsai.com/en/post/ai-subscription-shakeout-2026-claude/\nComments URL: https://news.ycombinator.com/item?id=48856213\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Tint6666",
+      "published": "Fri, 10 Jul 2026 05:51:42 +0000"
+    },
+    {
+      "name": "The great AI data centre cover-up",
+      "url": "https://www.ft.com/content/7800ba0f-1420-49fe-b260-9838632a19a4",
+      "summary": "Article URL: https://www.ft.com/content/7800ba0f-1420-49fe-b260-9838632a19a4\nComments URL: https://news.ycombinator.com/item?id=48856042\nPoints: 3\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "1vuio0pswjnm7",
+      "published": "Fri, 10 Jul 2026 05:27:03 +0000"
+    },
+    {
+      "name": "AI Investors Buying Accounting Companies and Force Them to Use OpenAI [video]",
+      "url": "https://www.youtube.com/watch?v=2dp98vEGWq0",
+      "summary": "Article URL: https://www.youtube.com/watch?v=2dp98vEGWq0\nComments URL: https://news.ycombinator.com/item?id=48856019\nPoints: 3\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "xbmcuser",
+      "published": "Fri, 10 Jul 2026 05:23:53 +0000"
+    },
+    {
+      "name": "Italy privacy watchdog fines Character.ai owner over age-check failures",
+      "url": "https://www.reuters.com/business/italy-privacy-watchdog-fines-characterai-owner-over-age-check-failures-2026-07-09/",
+      "summary": "Article URL: https://www.reuters.com/business/italy-privacy-watchdog-fines-characterai-owner-over-age-check-failures-2026-07-09/\nComments URL: https://news.ycombinator.com/item?id=48856004\nPoints: 2\n#",
+      "source": "hacker_news",
+      "score": null,
+      "author": "1vuio0pswjnm7",
+      "published": "Fri, 10 Jul 2026 05:21:28 +0000"
+    }
+  ]
+}

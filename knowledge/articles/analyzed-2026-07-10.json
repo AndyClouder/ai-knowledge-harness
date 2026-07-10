@@ -1,0 +1,422 @@
+[
+  {
+    "id": "09e83b01-632d-4ff7-94fa-77b10eb43f1d",
+    "title": "SmileLikeYe/agent-chief",
+    "source_url": "https://github.com/SmileLikeYe/agent-chief",
+    "source": "unknown",
+    "collected_at": "2026-07-10T10:50:33.920475+00:00",
+    "analyzed_at": "2026-07-10T10:50:33.920475+00:00",
+    "summary": "Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 380,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "b29e7bd0-5a41-401f-b562-7d5c680c63c5",
+    "title": "nexu-io/motion-anything",
+    "source_url": "https://github.com/nexu-io/motion-anything",
+    "source": "unknown",
+    "collected_at": "2026-07-10T10:50:35.163017+00:00",
+    "analyzed_at": "2026-07-10T10:50:35.163017+00:00",
+    "summary": "✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 354,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "fd2f43e1-e36c-409f-9bc8-a3893246e50f",
+    "title": "jiguang132/storyai-3d-director-desk",
+    "source_url": "https://github.com/jiguang132/storyai-3d-director-desk",
+    "source": "unknown",
+    "collected_at": "2026-07-10T10:50:36.399391+00:00",
+    "analyzed_at": "2026-07-10T10:50:36.399391+00:00",
+    "summary": "A browser-based 3D director desk demo built with React, Vite, and Three.js.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 352,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "750ca711-3daf-4d16-af20-0cc059cf2354",
+    "title": "DannyMac180/fable-advisor",
+    "source_url": "https://github.com/DannyMac180/fable-advisor",
+    "source": "unknown",
+    "collected_at": "2026-07-10T10:50:37.635788+00:00",
+    "analyzed_at": "2026-07-10T10:50:37.635788+00:00",
+    "summary": "Claude Fable as an orchestrator for Opus, GPT and Grok",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 321,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "d1f07577-6430-4f00-9965-4301417c7fc3",
+    "title": "Nanako0129/pilotfish",
+    "source_url": "https://github.com/Nanako0129/pilotfish",
+    "source": "unknown",
+    "collected_at": "2026-07-10T10:50:38.873339+00:00",
+    "analyzed_at": "2026-07-10T10:50:38.873339+00:00",
+    "summary": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 305,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "d63502c1-c41f-4e0a-b143-e7e714a24c76",
+    "title": "eli-labz/Cognitive-Core-Skills",
+    "source_url": "https://github.com/eli-labz/Cognitive-Core-Skills",
+    "source": "unknown",
+    "collected_at": "2026-07-10T10:50:40.107740+00:00",
+    "analyzed_at": "2026-07-10T10:50:40.107740+00:00",
+    "summary": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models — with",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 273,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "1c3b8f02-b9fa-4233-93a9-021446e7461e",
+    "title": "ronak-create/FableCut",
+    "source_url": "https://github.com/ronak-create/FableCut",
+    "source": "unknown",
+    "collected_at": "2026-07-10T10:50:41.340579+00:00",
+    "analyzed_at": "2026-07-10T10:50:41.340579+00:00",
+    "summary": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 271,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "aa5a2a30-4de2-4869-84c9-4203c7b4d628",
+    "title": "Impact of AI-Generated Text on the Internet",
+    "source_url": "https://ai-on-the-internet.github.io/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-10T10:50:42.615191+00:00",
+    "analyzed_at": "2026-07-10T10:50:42.615191+00:00",
+    "summary": "Article URL: https://ai-on-the-internet.github.io/\nComments URL: https://news.ycombinator.com/item?id=48858046\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "abrbhat",
+      "language": null
+    }
+  },
+  {
+    "id": "c9f8f7e3-9caf-4c6e-9031-44e948e1fae0",
+    "title": "Muscula – Error tracking and monitoring with AI-assisted debugging",
+    "source_url": "https://www.muscula.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-10T10:50:43.851505+00:00",
+    "analyzed_at": "2026-07-10T10:50:43.851505+00:00",
+    "summary": "Article URL: https://www.muscula.com/\nComments URL: https://news.ycombinator.com/item?id=48858044\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "hereanwaris",
+      "language": null
+    }
+  },
+  {
+    "id": "fde3f579-7424-47e8-8c23-80a1b4c667af",
+    "title": "CorvinOS – self-hosted OS for AI agents, compliance built into the runtime",
+    "source_url": "https://corvin-labs.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-10T10:50:45.086203+00:00",
+    "analyzed_at": "2026-07-10T10:50:45.086203+00:00",
+    "summary": "Article URL: https://corvin-labs.com/\nComments URL: https://news.ycombinator.com/item?id=48857754\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "shumway",
+      "language": null
+    }
+  },
+  {
+    "id": "675652d2-23e2-4eb4-b1bf-73bcca55daf8",
+    "title": "Show HN: Drag boxes around and watch a layout engine infer the Flexbox (no AI)",
+    "source_url": "https://wpconverters.com/playground/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-10T10:50:46.319275+00:00",
+    "analyzed_at": "2026-07-10T10:50:46.319275+00:00",
+    "summary": "Article URL: https://wpconverters.com/playground/\nComments URL: https://news.ycombinator.com/item?id=48857637\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "drzivil",
+      "language": null
+    }
+  },
+  {
+    "id": "12accb62-742c-4bd1-8b81-61655ddb3c61",
+    "title": "Ramblings on technological pursuits of AI systems",
+    "source_url": "https://blog.knravish.me/thoughts-ai-reality-brain/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-10T10:50:47.554457+00:00",
+    "analyzed_at": "2026-07-10T10:50:47.554457+00:00",
+    "summary": "Article URL: https://blog.knravish.me/thoughts-ai-reality-brain/\nComments URL: https://news.ycombinator.com/item?id=48857325\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "KaushikR2",
+      "language": null
+    }
+  },
+  {
+    "id": "b6cb9e62-90d3-4145-8ffc-306252079b82",
+    "title": "Open AI No. 2 Exec at OpenAI Fidji Simo is leaving the company",
+    "source_url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-10T10:50:48.787973+00:00",
+    "analyzed_at": "2026-07-10T10:50:48.787973+00:00",
+    "summary": "Article URL: https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/\nComments URL: https://news.ycombinator.com/item?id=48857121\nPoints: 3\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jeffhwang",
+      "language": null
+    }
+  },
+  {
+    "id": "e0680529-649d-42eb-9c6d-7c73215285e6",
+    "title": "Record and Replay, teach AI agents desktop workflows by showing them once",
+    "source_url": "https://github.com/video-db/open-record-replay",
+    "source": "hacker_news",
+    "collected_at": "2026-07-10T10:50:50.023207+00:00",
+    "analyzed_at": "2026-07-10T10:50:50.023207+00:00",
+    "summary": "Article URL: https://github.com/video-db/open-record-replay\nComments URL: https://news.ycombinator.com/item?id=48857109\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ashu_trv",
+      "language": null
+    }
+  },
+  {
+    "id": "718bd3f5-f7c4-4d4f-8196-389e85fbafb9",
+    "title": "The triage is the product: running AI agents against Ethereum's protocol code",
+    "source_url": "https://blog.ethereum.org/2026/07/09/triage-is-the-product",
+    "source": "hacker_news",
+    "collected_at": "2026-07-10T10:50:51.258838+00:00",
+    "analyzed_at": "2026-07-10T10:50:51.258838+00:00",
+    "summary": "Article URL: https://blog.ethereum.org/2026/07/09/triage-is-the-product\nComments URL: https://news.ycombinator.com/item?id=48857022\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "quantumgarbage",
+      "language": null
+    }
+  },
+  {
+    "id": "5204b5f0-eb83-405a-bac0-5719345e8247",
+    "title": "AI-generated videos to maximally drive a target brain region",
+    "source_url": "https://nevo-project.epfl.ch/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-10T10:50:52.491936+00:00",
+    "analyzed_at": "2026-07-10T10:50:52.491936+00:00",
+    "summary": "Article URL: https://nevo-project.epfl.ch/\nComments URL: https://news.ycombinator.com/item?id=48856904\nPoints: 67\n# Comments: 62",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "smusamashah",
+      "language": null
+    }
+  },
+  {
+    "id": "1acddb79-ed65-4dac-bfef-0976d981c60d",
+    "title": "Verity – Chrome extension that auto fact-checks AI responses with cited sources",
+    "source_url": "https://chromewebstore.google.com/detail/verity-—-ai-truth-reveale/pdobceidjkciljhdglpmkkjdbjnaljoo",
+    "source": "hacker_news",
+    "collected_at": "2026-07-10T10:50:53.726978+00:00",
+    "analyzed_at": "2026-07-10T10:50:53.726978+00:00",
+    "summary": "Article URL: https://chromewebstore.google.com/detail/verity-—-ai-truth-reveale/pdobceidjkciljhdglpmkkjdbjnaljoo\nComments URL: https://news.ycombinator.com/item?id=48856846\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "HalaDefense",
+      "language": null
+    }
+  },
+  {
+    "id": "e74b4ce1-3bca-47a5-9af6-39ff3aff4132",
+    "title": "Show HN: AI Humanizer – Rewrite AI text into natural copy",
+    "source_url": "https://ai-humanizer.space/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-10T10:50:54.963061+00:00",
+    "analyzed_at": "2026-07-10T10:50:54.963061+00:00",
+    "summary": "Article URL: https://ai-humanizer.space/\nComments URL: https://news.ycombinator.com/item?id=48856516\nPoints: 1\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "oliviamy",
+      "language": null
+    }
+  },
+  {
+    "id": "5f6f086b-95ac-4f14-be6a-ae119a4494e8",
+    "title": "Show HN: Makoto the Claude Code plugin that keeps the AI honest",
+    "source_url": "https://github.com/Clear-Sights/Makoto",
+    "source": "hacker_news",
+    "collected_at": "2026-07-10T10:50:56.198343+00:00",
+    "analyzed_at": "2026-07-10T10:50:56.198343+00:00",
+    "summary": "Article URL: https://github.com/Clear-Sights/Makoto\nComments URL: https://news.ycombinator.com/item?id=48856473\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Present_Flow",
+      "language": null
+    }
+  },
+  {
+    "id": "cab62caf-78d0-4902-aeb2-34a66b3f43fb",
+    "title": "China may restrict foreign access to Chinese open-source AI models",
+    "source_url": "https://www.reuters.com/technology/artificial-intelligence/china-weighs-silicon-curtain-around-sought-after-ai-models-2026-07-08/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-10T10:50:57.432518+00:00",
+    "analyzed_at": "2026-07-10T10:50:57.432518+00:00",
+    "summary": "Article URL: https://www.reuters.com/technology/artificial-intelligence/china-weighs-silicon-curtain-around-sought-after-ai-models-2026-07-08/\nComments URL: https://news.ycombinator.com/item?id=488564",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "crowd51",
+      "language": null
+    }
+  }
+]

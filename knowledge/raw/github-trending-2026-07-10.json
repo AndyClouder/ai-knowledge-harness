@@ -1,0 +1,114 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-07-10T10:50:27.124936+00:00",
+  "items": [
+    {
+      "name": "SmileLikeYe/agent-chief",
+      "url": "https://github.com/SmileLikeYe/agent-chief",
+      "summary": "Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
+      "stars": 380,
+      "language": "Python",
+      "topics": [
+        "harness",
+        "harness-engineering",
+        "llm",
+        "local-first"
+      ]
+    },
+    {
+      "name": "nexu-io/motion-anything",
+      "url": "https://github.com/nexu-io/motion-anything",
+      "summary": "✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
+      "stars": 354,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "animation",
+        "claude",
+        "design-tools",
+        "figma-motion-alternative",
+        "motion-design",
+        "motion-graphics",
+        "webgl"
+      ]
+    },
+    {
+      "name": "jiguang132/storyai-3d-director-desk",
+      "url": "https://github.com/jiguang132/storyai-3d-director-desk",
+      "summary": "A browser-based 3D director desk demo built with React, Vite, and Three.js.",
+      "stars": 352,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "DannyMac180/fable-advisor",
+      "url": "https://github.com/DannyMac180/fable-advisor",
+      "summary": "Claude Fable as an orchestrator for Opus, GPT and Grok",
+      "stars": 321,
+      "language": null,
+      "topics": []
+    },
+    {
+      "name": "Nanako0129/pilotfish",
+      "url": "https://github.com/Nanako0129/pilotfish",
+      "summary": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
+      "stars": 305,
+      "language": null,
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "multi-agent",
+        "orchestration"
+      ]
+    },
+    {
+      "name": "eli-labz/Cognitive-Core-Skills",
+      "url": "https://github.com/eli-labz/Cognitive-Core-Skills",
+      "summary": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models — with",
+      "stars": 273,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "agentic-ai",
+        "ai-agents",
+        "ai-safety",
+        "artificial-intelligence",
+        "benchmarks",
+        "cognitive-architecture",
+        "json-schema",
+        "knowledge-graph",
+        "llm",
+        "machine-learning",
+        "prompt-engineering",
+        "schema",
+        "slm",
+        "taxonomy",
+        "world-models"
+      ]
+    },
+    {
+      "name": "ronak-create/FableCut",
+      "url": "https://github.com/ronak-create/FableCut",
+      "summary": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
+      "stars": 271,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "canvas",
+        "claude",
+        "ffmpeg",
+        "javascript",
+        "llm",
+        "mcp",
+        "nle",
+        "reels",
+        "video-editing",
+        "video-editor",
+        "zero-dependency"
+      ]
+    }
+  ]
+}
