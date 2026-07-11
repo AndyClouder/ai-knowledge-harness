@@ -1,0 +1,422 @@
+[
+  {
+    "id": "c6660889-1423-45e1-8134-4b2ced4de13e",
+    "title": "Doriandarko/texts-to-transformer",
+    "source_url": "https://github.com/Doriandarko/texts-to-transformer",
+    "source": "unknown",
+    "collected_at": "2026-07-11T09:26:12.884786+00:00",
+    "analyzed_at": "2026-07-11T09:26:12.884786+00:00",
+    "summary": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 330,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "13b69381-55e0-4724-bdaf-1da9cf76e95f",
+    "title": "yusukebe/ax",
+    "source_url": "https://github.com/yusukebe/ax",
+    "source": "unknown",
+    "collected_at": "2026-07-11T09:26:14.180446+00:00",
+    "analyzed_at": "2026-07-11T09:26:14.180446+00:00",
+    "summary": "The AI-era curl",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 281,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "60f0d7ad-15d2-4099-8904-8587a38975aa",
+    "title": "wassermanproductions/motion-previs-studio",
+    "source_url": "https://github.com/wassermanproductions/motion-previs-studio",
+    "source": "unknown",
+    "collected_at": "2026-07-11T09:26:15.477383+00:00",
+    "analyzed_at": "2026-07-11T09:26:15.477383+00:00",
+    "summary": "Open-source desktop app for AI-film motion, depth, pose, and camera-move previsualization.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 277,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "494ef078-2b77-45e2-989a-a3cd346e9b69",
+    "title": "PitShipwrightGraph/MecchaPhantom",
+    "source_url": "https://github.com/PitShipwrightGraph/MecchaPhantom",
+    "source": "unknown",
+    "collected_at": "2026-07-11T09:26:16.772285+00:00",
+    "analyzed_at": "2026-07-11T09:26:16.772285+00:00",
+    "summary": "🦎 MecchaPhantom – complete hack tool for MECCHA CHAMELEON. Features ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, speed hack, and more. Dominate the hide-and-seek battlefield!",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 268,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "bef08d81-1856-471b-898f-c5b22100a93e",
+    "title": "kuskhan/jetendard",
+    "source_url": "https://github.com/kuskhan/jetendard",
+    "source": "unknown",
+    "collected_at": "2026-07-11T09:26:18.067361+00:00",
+    "analyzed_at": "2026-07-11T09:26:18.067361+00:00",
+    "summary": "JetBrainsMono Nerd Font Mono rebuilt with Pretendard Korean glyphs for balanced Hangul monospace rendering.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 263,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "e8a22c8f-1c51-442a-b870-4fe6a4bee0a5",
+    "title": "avifenesh/bw24",
+    "source_url": "https://github.com/avifenesh/bw24",
+    "source": "unknown",
+    "collected_at": "2026-07-11T09:26:19.654066+00:00",
+    "analyzed_at": "2026-07-11T09:26:19.654066+00:00",
+    "summary": "From-scratch Rust+CUDA inference engine, bit-exact by construction — NVFP4, MoE, MTP speculative decoding, tuned against measured limits of one RTX 5090 Laptop (sm_120a).",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 259,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "f068c7c6-0e35-405c-bb98-42d1a4df3494",
+    "title": "Microsoft latest report shows 25% emissions raised due to AI data centers",
+    "source_url": "https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump",
+    "source": "hacker_news",
+    "collected_at": "2026-07-11T09:26:20.951326+00:00",
+    "analyzed_at": "2026-07-11T09:26:20.951326+00:00",
+    "summary": "Article URL: https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump\nComments URL: https://news.ycombinator.com/",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pjmlp",
+      "language": null
+    }
+  },
+  {
+    "id": "514999e0-2afe-42ad-93b2-eaa0a8d14c55",
+    "title": "Eliezer Yudkowsky: Will superintelligent AI end the world? [video]",
+    "source_url": "https://www.ted.com/talks/eliezer_yudkowsky_will_superintelligent_ai_end_the_world",
+    "source": "hacker_news",
+    "collected_at": "2026-07-11T09:26:22.270780+00:00",
+    "analyzed_at": "2026-07-11T09:26:22.270780+00:00",
+    "summary": "Article URL: https://www.ted.com/talks/eliezer_yudkowsky_will_superintelligent_ai_end_the_world\nComments URL: https://news.ycombinator.com/item?id=48870062\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "fagnerbrack",
+      "language": null
+    }
+  },
+  {
+    "id": "2d1c38ab-81cf-4ea7-81d3-13ce524366fd",
+    "title": "Companies are scrambling to curtail soaring AI costs",
+    "source_url": "https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs",
+    "source": "hacker_news",
+    "collected_at": "2026-07-11T09:26:23.565885+00:00",
+    "analyzed_at": "2026-07-11T09:26:23.565885+00:00",
+    "summary": "Article URL: https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs\nComments URL: https://news.ycombinator.com/item?id=48870035\nPoints: 22\n# Comments: 7",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "nlpnerd",
+      "language": null
+    }
+  },
+  {
+    "id": "ad2e503a-92b2-4dfc-992b-ad14d45ffe44",
+    "title": "AI is compressing the startup lifecycle, not just development speed",
+    "source_url": "https://www.alexdelivet.com/insights/the-end-of-zombie-startup-land",
+    "source": "hacker_news",
+    "collected_at": "2026-07-11T09:26:24.865853+00:00",
+    "analyzed_at": "2026-07-11T09:26:24.865853+00:00",
+    "summary": "Article URL: https://www.alexdelivet.com/insights/the-end-of-zombie-startup-land\nComments URL: https://news.ycombinator.com/item?id=48870025\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "adelivet",
+      "language": null
+    }
+  },
+  {
+    "id": "07e73a65-2b49-4855-b334-4ce003e34c67",
+    "title": "Study: Cerebellum helps AI ignore the ordinary for more efficient computing",
+    "source_url": "https://www.mccormick.northwestern.edu/news/articles/2026/07/ai-gets-a-cerebellum/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-11T09:26:26.160739+00:00",
+    "analyzed_at": "2026-07-11T09:26:26.160739+00:00",
+    "summary": "Article URL: https://www.mccormick.northwestern.edu/news/articles/2026/07/ai-gets-a-cerebellum/\nComments URL: https://news.ycombinator.com/item?id=48869998\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "giuliomagnifico",
+      "language": null
+    }
+  },
+  {
+    "id": "a744ba6a-4ebd-408f-9a3d-c7bb7743227d",
+    "title": "Competitive Programming in the Era of AI",
+    "source_url": "https://www.vibhaas.net/posts/Competitive-Programming-in-the-era-of-AI/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-11T09:26:27.456044+00:00",
+    "analyzed_at": "2026-07-11T09:26:27.456044+00:00",
+    "summary": "Article URL: https://www.vibhaas.net/posts/Competitive-Programming-in-the-era-of-AI/\nComments URL: https://news.ycombinator.com/item?id=48869623\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "m-novikov",
+      "language": null
+    }
+  },
+  {
+    "id": "b1fc721a-ebc7-48d7-9d43-369233f2bd6d",
+    "title": "8 Stages of AI engineering maturity: a framework for teams",
+    "source_url": "https://upsun.com/blog/8-stages-ai-engineering-maturity/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-11T09:26:28.751652+00:00",
+    "analyzed_at": "2026-07-11T09:26:28.751652+00:00",
+    "summary": "Article URL: https://upsun.com/blog/8-stages-ai-engineering-maturity/\nComments URL: https://news.ycombinator.com/item?id=48869595\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "cribwi",
+      "language": null
+    }
+  },
+  {
+    "id": "652c3d42-7cce-4b02-8e21-9b4f7e47ccf7",
+    "title": "How AI is rewiring childhood",
+    "source_url": "https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood",
+    "source": "hacker_news",
+    "collected_at": "2026-07-11T09:26:30.060710+00:00",
+    "analyzed_at": "2026-07-11T09:26:30.060710+00:00",
+    "summary": "Article URL: https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood\nComments URL: https://news.ycombinator.com/item?id=48869574\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pretext",
+      "language": null
+    }
+  },
+  {
+    "id": "53a4d0ad-4a7a-46da-83d6-fbcb06ac3f82",
+    "title": "Java local AI client and MCP orchestrator without the Python dependency hell",
+    "source_url": "https://ypipe.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-11T09:26:31.377324+00:00",
+    "analyzed_at": "2026-07-11T09:26:31.377324+00:00",
+    "summary": "Article URL: https://ypipe.com/\nComments URL: https://news.ycombinator.com/item?id=48869348\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ruoku",
+      "language": null
+    }
+  },
+  {
+    "id": "948dcd4d-6af4-468b-b7ab-d346f93efd02",
+    "title": "Create high-converting AI UGC ads in minutes",
+    "source_url": "https://aiugcads.net/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-11T09:26:32.673379+00:00",
+    "analyzed_at": "2026-07-11T09:26:32.673379+00:00",
+    "summary": "Article URL: https://aiugcads.net/\nComments URL: https://news.ycombinator.com/item?id=48869187\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mrguo",
+      "language": null
+    }
+  },
+  {
+    "id": "79fef872-2131-4a1d-83ff-c21a998e90d3",
+    "title": "The Conversation We're Not Having About AI in Peer Review",
+    "source_url": "https://cabird.com/ide/posts/ai-in-peer-review",
+    "source": "hacker_news",
+    "collected_at": "2026-07-11T09:26:33.970414+00:00",
+    "analyzed_at": "2026-07-11T09:26:33.970414+00:00",
+    "summary": "Article URL: https://cabird.com/ide/posts/ai-in-peer-review\nComments URL: https://news.ycombinator.com/item?id=48869086\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "azhenley",
+      "language": null
+    }
+  },
+  {
+    "id": "130af04a-e4e7-4fcd-92b3-52bcf487eca9",
+    "title": "AI Limit, Social Divide",
+    "source_url": "https://valand.dev/blog/post/ai-limit-divide",
+    "source": "hacker_news",
+    "collected_at": "2026-07-11T09:26:35.292764+00:00",
+    "analyzed_at": "2026-07-11T09:26:35.292764+00:00",
+    "summary": "Article URL: https://valand.dev/blog/post/ai-limit-divide\nComments URL: https://news.ycombinator.com/item?id=48869008\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "valand",
+      "language": null
+    }
+  },
+  {
+    "id": "22fbe8c5-4763-4b35-bbf5-0116108bbbfb",
+    "title": "Meta removes AI feature on Instagram after global backlash",
+    "source_url": "https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash",
+    "source": "hacker_news",
+    "collected_at": "2026-07-11T09:26:36.602409+00:00",
+    "analyzed_at": "2026-07-11T09:26:36.602409+00:00",
+    "summary": "Article URL: https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash\nComments URL: https://news.ycombinator.com/item?id=4886",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "billybuckwheat",
+      "language": null
+    }
+  },
+  {
+    "id": "7c6f69cf-2c06-44a5-bb97-efd1d8f97ab4",
+    "title": "Managing a small local AI budget (Mac M2 16gb)",
+    "source_url": "https://millfolio.com/blog/local-ai-infra-tags/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-11T09:26:37.917335+00:00",
+    "analyzed_at": "2026-07-11T09:26:37.917335+00:00",
+    "summary": "Article URL: https://millfolio.com/blog/local-ai-infra-tags/\nComments URL: https://news.ycombinator.com/item?id=48868694\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "winding",
+      "language": null
+    }
+  }
+]

@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-07-11T09:26:10.659156+00:00",
+  "items": [
+    {
+      "name": "Microsoft latest report shows 25% emissions raised due to AI data centers",
+      "url": "https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump",
+      "summary": "Article URL: https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump\nComments URL: https://news.ycombinator.com/",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pjmlp",
+      "published": "Sat, 11 Jul 2026 09:10:45 +0000"
+    },
+    {
+      "name": "Eliezer Yudkowsky: Will superintelligent AI end the world? [video]",
+      "url": "https://www.ted.com/talks/eliezer_yudkowsky_will_superintelligent_ai_end_the_world",
+      "summary": "Article URL: https://www.ted.com/talks/eliezer_yudkowsky_will_superintelligent_ai_end_the_world\nComments URL: https://news.ycombinator.com/item?id=48870062\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "fagnerbrack",
+      "published": "Sat, 11 Jul 2026 08:34:36 +0000"
+    },
+    {
+      "name": "Companies are scrambling to curtail soaring AI costs",
+      "url": "https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs",
+      "summary": "Article URL: https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs\nComments URL: https://news.ycombinator.com/item?id=48870035\nPoints: 22\n# Comments: 7",
+      "source": "hacker_news",
+      "score": null,
+      "author": "nlpnerd",
+      "published": "Sat, 11 Jul 2026 08:29:43 +0000"
+    },
+    {
+      "name": "AI is compressing the startup lifecycle, not just development speed",
+      "url": "https://www.alexdelivet.com/insights/the-end-of-zombie-startup-land",
+      "summary": "Article URL: https://www.alexdelivet.com/insights/the-end-of-zombie-startup-land\nComments URL: https://news.ycombinator.com/item?id=48870025\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "adelivet",
+      "published": "Sat, 11 Jul 2026 08:28:50 +0000"
+    },
+    {
+      "name": "Study: Cerebellum helps AI ignore the ordinary for more efficient computing",
+      "url": "https://www.mccormick.northwestern.edu/news/articles/2026/07/ai-gets-a-cerebellum/",
+      "summary": "Article URL: https://www.mccormick.northwestern.edu/news/articles/2026/07/ai-gets-a-cerebellum/\nComments URL: https://news.ycombinator.com/item?id=48869998\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "giuliomagnifico",
+      "published": "Sat, 11 Jul 2026 08:23:36 +0000"
+    },
+    {
+      "name": "Competitive Programming in the Era of AI",
+      "url": "https://www.vibhaas.net/posts/Competitive-Programming-in-the-era-of-AI/",
+      "summary": "Article URL: https://www.vibhaas.net/posts/Competitive-Programming-in-the-era-of-AI/\nComments URL: https://news.ycombinator.com/item?id=48869623\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "m-novikov",
+      "published": "Sat, 11 Jul 2026 07:24:44 +0000"
+    },
+    {
+      "name": "8 Stages of AI engineering maturity: a framework for teams",
+      "url": "https://upsun.com/blog/8-stages-ai-engineering-maturity/",
+      "summary": "Article URL: https://upsun.com/blog/8-stages-ai-engineering-maturity/\nComments URL: https://news.ycombinator.com/item?id=48869595\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "cribwi",
+      "published": "Sat, 11 Jul 2026 07:19:22 +0000"
+    },
+    {
+      "name": "How AI is rewiring childhood",
+      "url": "https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood",
+      "summary": "Article URL: https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood\nComments URL: https://news.ycombinator.com/item?id=48869574\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pretext",
+      "published": "Sat, 11 Jul 2026 07:14:51 +0000"
+    },
+    {
+      "name": "Java local AI client and MCP orchestrator without the Python dependency hell",
+      "url": "https://ypipe.com/",
+      "summary": "Article URL: https://ypipe.com/\nComments URL: https://news.ycombinator.com/item?id=48869348\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ruoku",
+      "published": "Sat, 11 Jul 2026 06:30:03 +0000"
+    },
+    {
+      "name": "Create high-converting AI UGC ads in minutes",
+      "url": "https://aiugcads.net/",
+      "summary": "Article URL: https://aiugcads.net/\nComments URL: https://news.ycombinator.com/item?id=48869187\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mrguo",
+      "published": "Sat, 11 Jul 2026 05:58:14 +0000"
+    },
+    {
+      "name": "The Conversation We're Not Having About AI in Peer Review",
+      "url": "https://cabird.com/ide/posts/ai-in-peer-review",
+      "summary": "Article URL: https://cabird.com/ide/posts/ai-in-peer-review\nComments URL: https://news.ycombinator.com/item?id=48869086\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "azhenley",
+      "published": "Sat, 11 Jul 2026 05:36:37 +0000"
+    },
+    {
+      "name": "AI Limit, Social Divide",
+      "url": "https://valand.dev/blog/post/ai-limit-divide",
+      "summary": "Article URL: https://valand.dev/blog/post/ai-limit-divide\nComments URL: https://news.ycombinator.com/item?id=48869008\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "valand",
+      "published": "Sat, 11 Jul 2026 05:22:06 +0000"
+    },
+    {
+      "name": "Meta removes AI feature on Instagram after global backlash",
+      "url": "https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash",
+      "summary": "Article URL: https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash\nComments URL: https://news.ycombinator.com/item?id=4886",
+      "source": "hacker_news",
+      "score": null,
+      "author": "billybuckwheat",
+      "published": "Sat, 11 Jul 2026 04:19:14 +0000"
+    },
+    {
+      "name": "Managing a small local AI budget (Mac M2 16gb)",
+      "url": "https://millfolio.com/blog/local-ai-infra-tags/",
+      "summary": "Article URL: https://millfolio.com/blog/local-ai-infra-tags/\nComments URL: https://news.ycombinator.com/item?id=48868694\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "winding",
+      "published": "Sat, 11 Jul 2026 04:17:19 +0000"
+    },
+    {
+      "name": "SpaceX's near-term AI payoff seen tethered to Earth, not outer space",
+      "url": "https://www.reuters.com/science/spacexs-near-term-ai-payoff-seen-tethered-earth-not-outer-space-2026-07-10/",
+      "summary": "Article URL: https://www.reuters.com/science/spacexs-near-term-ai-payoff-seen-tethered-earth-not-outer-space-2026-07-10/\nComments URL: https://news.ycombinator.com/item?id=48868581\nPoints: 1\n# Comment",
+      "source": "hacker_news",
+      "score": null,
+      "author": "adithyaharish",
+      "published": "Sat, 11 Jul 2026 03:56:36 +0000"
+    },
+    {
+      "name": "Big Tech Doubles Debt Load to $350B in AI Spending Spree",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-10/big-tech-doubles-debt-load-to-350-billion-in-ai-spending-spree",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-10/big-tech-doubles-debt-load-to-350-billion-in-ai-spending-spree\nComments URL: https://news.ycombinator.com/item?id=48868449\nPoints: 12\n# ",
+      "source": "hacker_news",
+      "score": null,
+      "author": "1vuio0pswjnm7",
+      "published": "Sat, 11 Jul 2026 03:30:12 +0000"
+    },
+    {
+      "name": "Show HN: NoiseRemover.ai – Remove background noise from audio",
+      "url": "https://noiseremover.ai/",
+      "summary": "Article URL: https://noiseremover.ai/\nComments URL: https://news.ycombinator.com/item?id=48868137\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "nadermx",
+      "published": "Sat, 11 Jul 2026 02:40:29 +0000"
+    },
+    {
+      "name": "Haves, have-nots and know-nots: Inside AI's new class divide",
+      "url": "https://www.axios.com/2026/07/10/ai-class-divide-fable-sol-mythos",
+      "summary": "Article URL: https://www.axios.com/2026/07/10/ai-class-divide-fable-sol-mythos\nComments URL: https://news.ycombinator.com/item?id=48868109\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "0in",
+      "published": "Sat, 11 Jul 2026 02:37:07 +0000"
+    },
+    {
+      "name": "AI makes Pompeii victim's final moments look real",
+      "url": "https://www.popsci.com/science/ai-pompeii-victim-with-mortar-recreation/",
+      "summary": "Article URL: https://www.popsci.com/science/ai-pompeii-victim-with-mortar-recreation/\nComments URL: https://news.ycombinator.com/item?id=48868096\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "gmays",
+      "published": "Sat, 11 Jul 2026 02:35:08 +0000"
+    },
+    {
+      "name": "Apple sues OpenAI, alleging the AI company stole trade secrets",
+      "url": "https://www.washingtonpost.com/technology/2026/07/10/apple-sues-openai-alleging-ai-company-stole-trade-secrets/",
+      "summary": "Article URL: https://www.washingtonpost.com/technology/2026/07/10/apple-sues-openai-alleging-ai-company-stole-trade-secrets/\nComments URL: https://news.ycombinator.com/item?id=48868094\nPoints: 2\n# Com",
+      "source": "hacker_news",
+      "score": null,
+      "author": "1vuio0pswjnm7",
+      "published": "Sat, 11 Jul 2026 02:34:45 +0000"
+    }
+  ]
+}

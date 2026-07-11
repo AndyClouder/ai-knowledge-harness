@@ -1,0 +1,87 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-07-11T09:25:41.715643+00:00",
+  "items": [
+    {
+      "name": "Doriandarko/texts-to-transformer",
+      "url": "https://github.com/Doriandarko/texts-to-transformer",
+      "summary": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
+      "stars": 330,
+      "language": "Python",
+      "topics": [
+        "apple-silicon",
+        "imessage",
+        "local-first",
+        "machine-learning",
+        "mlx",
+        "transformer"
+      ]
+    },
+    {
+      "name": "yusukebe/ax",
+      "url": "https://github.com/yusukebe/ax",
+      "summary": "The AI-era curl",
+      "stars": 281,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "wassermanproductions/motion-previs-studio",
+      "url": "https://github.com/wassermanproductions/motion-previs-studio",
+      "summary": "Open-source desktop app for AI-film motion, depth, pose, and camera-move previsualization.",
+      "stars": 277,
+      "language": "TypeScript",
+      "topics": [
+        "aiprevis",
+        "aivideocreation",
+        "previsualization"
+      ]
+    },
+    {
+      "name": "PitShipwrightGraph/MecchaPhantom",
+      "url": "https://github.com/PitShipwrightGraph/MecchaPhantom",
+      "summary": "🦎 MecchaPhantom – complete hack tool for MECCHA CHAMELEON. Features ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, speed hack, and more. Dominate the hide-and-seek battlefield!",
+      "stars": 268,
+      "language": "Python",
+      "topics": [
+        "mecca-chameleon",
+        "mecca-chameleon-aimbot",
+        "mecca-chameleon-cheat",
+        "mecca-chameleon-cheats",
+        "mecca-chameleon-esp",
+        "mecca-chameleon-hack",
+        "mecca-chameleon-hacks",
+        "mecca-chameleon-mod",
+        "meccha-chameleon-tools"
+      ]
+    },
+    {
+      "name": "kuskhan/jetendard",
+      "url": "https://github.com/kuskhan/jetendard",
+      "summary": "JetBrainsMono Nerd Font Mono rebuilt with Pretendard Korean glyphs for balanced Hangul monospace rendering.",
+      "stars": 263,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "avifenesh/bw24",
+      "url": "https://github.com/avifenesh/bw24",
+      "summary": "From-scratch Rust+CUDA inference engine, bit-exact by construction — NVFP4, MoE, MTP speculative decoding, tuned against measured limits of one RTX 5090 Laptop (sm_120a).",
+      "stars": 259,
+      "language": "Rust",
+      "topics": [
+        "blackwell",
+        "cuda",
+        "gguf",
+        "gpu-kernels",
+        "llama-cpp",
+        "llm-inference",
+        "moe",
+        "nvfp4",
+        "rust",
+        "speculative-decoding"
+      ]
+    }
+  ]
+}
