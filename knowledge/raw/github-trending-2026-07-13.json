@@ -1,0 +1,80 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-07-13T10:57:37.109284+00:00",
+  "items": [
+    {
+      "name": "mereyabdenbekuly-ctrl/clodex-ide",
+      "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+      "summary": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+      "stars": 693,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "agentic-ide",
+        "ai-agents",
+        "developer-tools",
+        "electron",
+        "ide",
+        "local-first",
+        "typescript",
+        "zero-trust"
+      ]
+    },
+    {
+      "name": "William-Lu-stack/LuxyAI",
+      "url": "https://github.com/William-Lu-stack/LuxyAI",
+      "summary": "AgenticOps for Kubernetes and cloud infrastructure.",
+      "stars": 446,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "MDX-Tom/gpt-5.6-instruct",
+      "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
+      "summary": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
+      "stars": 442,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "cosmtrek/mindwalk",
+      "url": "https://github.com/cosmtrek/mindwalk",
+      "summary": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
+      "stars": 389,
+      "language": "Go",
+      "topics": []
+    },
+    {
+      "name": "AlephAITech/WorkBuddyGuide",
+      "url": "https://github.com/AlephAITech/WorkBuddyGuide",
+      "summary": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
+      "stars": 344,
+      "language": "Python",
+      "topics": [
+        "codex",
+        "guide",
+        "llm",
+        "workbuddy"
+      ]
+    },
+    {
+      "name": "Sahir619/fable-method",
+      "url": "https://github.com/Sahir619/fable-method",
+      "summary": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
+      "stars": 307,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-md",
+        "coding-agent",
+        "evaluation",
+        "fable",
+        "llm"
+      ]
+    }
+  ]
+}

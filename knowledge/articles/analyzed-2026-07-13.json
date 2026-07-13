@@ -1,0 +1,422 @@
+[
+  {
+    "id": "ca2b8a95-1bf9-4967-a068-93aeca3e7da7",
+    "title": "mereyabdenbekuly-ctrl/clodex-ide",
+    "source_url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+    "source": "unknown",
+    "collected_at": "2026-07-13T10:57:53.261297+00:00",
+    "analyzed_at": "2026-07-13T10:57:53.261297+00:00",
+    "summary": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 693,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "dc400d17-d3a2-46ee-a629-9f3030f2f53e",
+    "title": "William-Lu-stack/LuxyAI",
+    "source_url": "https://github.com/William-Lu-stack/LuxyAI",
+    "source": "unknown",
+    "collected_at": "2026-07-13T10:57:54.471244+00:00",
+    "analyzed_at": "2026-07-13T10:57:54.471244+00:00",
+    "summary": "AgenticOps for Kubernetes and cloud infrastructure.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 446,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "0fa70c6c-375b-43d3-bdc5-a9ba24d06a16",
+    "title": "MDX-Tom/gpt-5.6-instruct",
+    "source_url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
+    "source": "unknown",
+    "collected_at": "2026-07-13T10:57:55.677966+00:00",
+    "analyzed_at": "2026-07-13T10:57:55.677966+00:00",
+    "summary": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 442,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "209545cb-b314-405c-8e6f-5ffed6d0aaa9",
+    "title": "cosmtrek/mindwalk",
+    "source_url": "https://github.com/cosmtrek/mindwalk",
+    "source": "unknown",
+    "collected_at": "2026-07-13T10:57:56.886500+00:00",
+    "analyzed_at": "2026-07-13T10:57:56.886500+00:00",
+    "summary": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 389,
+      "score": null,
+      "author": null,
+      "language": "Go"
+    }
+  },
+  {
+    "id": "557295c8-cd10-4437-bdf8-83d247185ba4",
+    "title": "AlephAITech/WorkBuddyGuide",
+    "source_url": "https://github.com/AlephAITech/WorkBuddyGuide",
+    "source": "unknown",
+    "collected_at": "2026-07-13T10:57:58.092606+00:00",
+    "analyzed_at": "2026-07-13T10:57:58.092606+00:00",
+    "summary": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 344,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "9dce6340-1675-4749-8885-1b3e1fb6344f",
+    "title": "Sahir619/fable-method",
+    "source_url": "https://github.com/Sahir619/fable-method",
+    "source": "unknown",
+    "collected_at": "2026-07-13T10:57:59.299338+00:00",
+    "analyzed_at": "2026-07-13T10:57:59.299338+00:00",
+    "summary": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 307,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "e773e21c-71a4-4d8e-80f4-ec9633495dfc",
+    "title": "Your Data built the AI boom – but Big Tech is pocketing 100% of the equity",
+    "source_url": "https://www.marketwatch.com/story/your-share-of-the-ai-wealth-is-a-right-not-a-handout-here-is-how-we-claw-back-our-money-7454b0e0",
+    "source": "hacker_news",
+    "collected_at": "2026-07-13T10:58:00.532157+00:00",
+    "analyzed_at": "2026-07-13T10:58:00.532157+00:00",
+    "summary": "Article URL: https://www.marketwatch.com/story/your-share-of-the-ai-wealth-is-a-right-not-a-handout-here-is-how-we-claw-back-our-money-7454b0e0\nComments URL: https://news.ycombinator.com/item?id=48890",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "robtherobber",
+      "language": null
+    }
+  },
+  {
+    "id": "98e8b803-504c-4aeb-9054-6a7427674b20",
+    "title": "Checkpoints for AI sessions – carry context across AI tools, self-hosted",
+    "source_url": "https://github.com/OurThinkTank/founders-os",
+    "source": "hacker_news",
+    "collected_at": "2026-07-13T10:58:01.760140+00:00",
+    "analyzed_at": "2026-07-13T10:58:01.760140+00:00",
+    "summary": "Article URL: https://github.com/OurThinkTank/founders-os\nComments URL: https://news.ycombinator.com/item?id=48890522\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ourthinktank",
+      "language": null
+    }
+  },
+  {
+    "id": "1154c9ee-1968-419e-bd74-56d0cdc70e2b",
+    "title": "Show HN: Call to Control AI Agents via the Web",
+    "source_url": "https://diffforge.ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-13T10:58:02.968427+00:00",
+    "analyzed_at": "2026-07-13T10:58:02.968427+00:00",
+    "summary": "Opensource Project I'm working on\nI wanted more control of my coding agents (Codex, Claude Code, Open Code) especially if I am outside, so I made it accessible via an ADE Client (Agentic Development E",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Rizzist",
+      "language": null
+    }
+  },
+  {
+    "id": "08f3dc6e-b418-41e2-b7b5-9f2be3602052",
+    "title": "Indian companies look to Chinese LLMs as AI costs bite",
+    "source_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/indian-companies-look-to-chinese-llms-as-ai-costs-bite",
+    "source": "hacker_news",
+    "collected_at": "2026-07-13T10:58:04.174958+00:00",
+    "analyzed_at": "2026-07-13T10:58:04.174958+00:00",
+    "summary": "Article URL: https://asia.nikkei.com/business/technology/artificial-intelligence/indian-companies-look-to-chinese-llms-as-ai-costs-bite\nComments URL: https://news.ycombinator.com/item?id=48890208\nPoin",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Alien1Being",
+      "language": null
+    }
+  },
+  {
+    "id": "3612a929-0064-4123-8735-e2e85929439f",
+    "title": "Chinese AI models are gaining ground with U.S. companies",
+    "source_url": "https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html",
+    "source": "hacker_news",
+    "collected_at": "2026-07-13T10:58:05.395235+00:00",
+    "analyzed_at": "2026-07-13T10:58:05.395235+00:00",
+    "summary": "Article URL: https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html\nComments URL: https://news.ycombinator.com/item?id=48890204\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Alien1Being",
+      "language": null
+    }
+  },
+  {
+    "id": "3178682c-8819-40c5-988a-53c85112b51b",
+    "title": "Do you write with AI? Do you think people notice?",
+    "source_url": "https://news.ycombinator.com/item?id=48890159",
+    "source": "hacker_news",
+    "collected_at": "2026-07-13T10:58:06.601487+00:00",
+    "analyzed_at": "2026-07-13T10:58:06.601487+00:00",
+    "summary": "I use AI myself so I definitely know how it tends to write. When I encounter that kind of writing somewhere, I initially give it the benefit of the doubt and continue a bit. But when the signs get too",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Gravityloss",
+      "language": null
+    }
+  },
+  {
+    "id": "c4d86a62-6320-4a0d-9b02-458029051333",
+    "title": "AI Connector by Plumrocket",
+    "source_url": "https://commercemarketplace.adobe.com/plumrocket-ai-connector.html",
+    "source": "hacker_news",
+    "collected_at": "2026-07-13T10:58:07.808383+00:00",
+    "analyzed_at": "2026-07-13T10:58:07.808383+00:00",
+    "summary": "Article URL: https://commercemarketplace.adobe.com/plumrocket-ai-connector.html\nComments URL: https://news.ycombinator.com/item?id=48889994\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pearsonand",
+      "language": null
+    }
+  },
+  {
+    "id": "196d5a23-344e-42e9-927f-a2310d7d711e",
+    "title": "AI creating a Jevon's Paradox for lawsuits, deals and litigation [video]",
+    "source_url": "https://www.youtube.com/watch?v=_uWnr42zGnE",
+    "source": "hacker_news",
+    "collected_at": "2026-07-13T10:58:09.015502+00:00",
+    "analyzed_at": "2026-07-13T10:58:09.015502+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=_uWnr42zGnE\nComments URL: https://news.ycombinator.com/item?id=48889897\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "OgsyedIE",
+      "language": null
+    }
+  },
+  {
+    "id": "fc91d324-35f3-4479-81f1-05f3be10a261",
+    "title": "DolphinDB v3.00.6 and v2.00.19: Introducing DolphinX for Enterprise AI Agents",
+    "source_url": "https://medium.com/@DolphinDB_Inc/dolphindb-v3-00-6-ecde33229456",
+    "source": "hacker_news",
+    "collected_at": "2026-07-13T10:58:10.220444+00:00",
+    "analyzed_at": "2026-07-13T10:58:10.220444+00:00",
+    "summary": "Article URL: https://medium.com/@DolphinDB_Inc/dolphindb-v3-00-6-ecde33229456\nComments URL: https://news.ycombinator.com/item?id=48889819\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "yiweileng",
+      "language": null
+    }
+  },
+  {
+    "id": "877ec9b7-c640-4763-969c-973ae94de18e",
+    "title": "TSMC posts record revenue in second quarter on AI demand",
+    "source_url": "https://www.reuters.com/technology/artificial-intelligence/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-13T10:58:11.426411+00:00",
+    "analyzed_at": "2026-07-13T10:58:11.426411+00:00",
+    "summary": "Article URL: https://www.reuters.com/technology/artificial-intelligence/\nComments URL: https://news.ycombinator.com/item?id=48889232\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "adithyaharish",
+      "language": null
+    }
+  },
+  {
+    "id": "af29ee77-11b3-4c91-985d-b1aa4913444e",
+    "title": "AI Email Template Design Company",
+    "source_url": "https://madooai.com",
+    "source": "hacker_news",
+    "collected_at": "2026-07-13T10:58:12.658859+00:00",
+    "analyzed_at": "2026-07-13T10:58:12.658859+00:00",
+    "summary": "Article URL: https://madooai.com\nComments URL: https://news.ycombinator.com/item?id=48889224\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "andreponce",
+      "language": null
+    }
+  },
+  {
+    "id": "6290b73f-744a-438f-b86e-cca032a3f934",
+    "title": "From the To-Do List to the AI Agent",
+    "source_url": "https://www.youtube.com/watch?v=OuEKdD_1F8s",
+    "source": "hacker_news",
+    "collected_at": "2026-07-13T10:58:13.864454+00:00",
+    "analyzed_at": "2026-07-13T10:58:13.864454+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=OuEKdD_1F8s\nComments URL: https://news.ycombinator.com/item?id=48889199\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rasengan0",
+      "language": null
+    }
+  },
+  {
+    "id": "f222e558-14f5-43ad-82dd-014f96056dc0",
+    "title": "AI Is a Product of Humanity. Humanity Should Own AI",
+    "source_url": "https://jacobin.com/2026/07/ai-big-tech-global-ownership-control",
+    "source": "hacker_news",
+    "collected_at": "2026-07-13T10:58:15.069526+00:00",
+    "analyzed_at": "2026-07-13T10:58:15.069526+00:00",
+    "summary": "Article URL: https://jacobin.com/2026/07/ai-big-tech-global-ownership-control\nComments URL: https://news.ycombinator.com/item?id=48889175\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "one33seven",
+      "language": null
+    }
+  },
+  {
+    "id": "5ad983cd-dbff-4505-ba1a-5c0dfd10ca34",
+    "title": "Dunning-Kruger After AI: The Gap That No Longer Closes",
+    "source_url": "https://blog.zoller.lu/2026/07/dunning-kruger-after-ai-gap-that-no.html",
+    "source": "hacker_news",
+    "collected_at": "2026-07-13T10:58:16.273495+00:00",
+    "analyzed_at": "2026-07-13T10:58:16.273495+00:00",
+    "summary": "Article URL: https://blog.zoller.lu/2026/07/dunning-kruger-after-ai-gap-that-no.html\nComments URL: https://news.ycombinator.com/item?id=48888772\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "thierryzoller",
+      "language": null
+    }
+  }
+]
