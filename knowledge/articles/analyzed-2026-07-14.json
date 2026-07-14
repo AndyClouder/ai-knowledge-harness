@@ -1,0 +1,422 @@
+[
+  {
+    "id": "3e42d675-4b91-4499-b164-8947d289ea49",
+    "title": "pengchujin/jzsub",
+    "source_url": "https://github.com/pengchujin/jzsub",
+    "source": "unknown",
+    "collected_at": "2026-07-14T09:55:40.333581+00:00",
+    "analyzed_at": "2026-07-14T09:55:40.333581+00:00",
+    "summary": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 390,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "d95a5f84-1682-4db3-b8f3-8ea8c3a63f34",
+    "title": "jakubkrehel/skills",
+    "source_url": "https://github.com/jakubkrehel/skills",
+    "source": "unknown",
+    "collected_at": "2026-07-14T09:55:41.631846+00:00",
+    "analyzed_at": "2026-07-14T09:55:41.631846+00:00",
+    "summary": "A set of agent skills that help improve different parts of a product, from animations and typography to layout and colors.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 303,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "e2aec440-70a5-478a-afa7-ecb785d91893",
+    "title": "modiqo/waggle",
+    "source_url": "https://github.com/modiqo/waggle",
+    "source": "unknown",
+    "collected_at": "2026-07-14T09:55:42.930359+00:00",
+    "analyzed_at": "2026-07-14T09:55:42.930359+00:00",
+    "summary": "Attributed, resolvable artifact references for agent handoffs — a ~30-byte token instead of pasted context. MCP-native; the reference layer for the agent-harness world.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 264,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "54657acb-4d0c-471c-9e1c-b9628f362930",
+    "title": "Moore-developers/moore-wechat-article-downloader",
+    "source_url": "https://github.com/Moore-developers/moore-wechat-article-downloader",
+    "source": "unknown",
+    "collected_at": "2026-07-14T09:55:44.254620+00:00",
+    "analyzed_at": "2026-07-14T09:55:44.254620+00:00",
+    "summary": "本地优先的微信内容情报库：同步公众号文章，保存精选评论和互动数据，供 Codex/Claude Code 做内容研究。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 258,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "c9e6b0d2-317f-46f3-b7dd-c69a957d70cc",
+    "title": "opencoredev/login-with-chatgpt",
+    "source_url": "https://github.com/opencoredev/login-with-chatgpt",
+    "source": "unknown",
+    "collected_at": "2026-07-14T09:55:45.554697+00:00",
+    "analyzed_at": "2026-07-14T09:55:45.554697+00:00",
+    "summary": "A simple SDK that lets your users log in with their ChatGPT account.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 253,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "2aaef700-4f61-4582-9478-44025b01f483",
+    "title": "sunflower-of-parchman/codex-hygiene",
+    "source_url": "https://github.com/sunflower-of-parchman/codex-hygiene",
+    "source": "unknown",
+    "collected_at": "2026-07-14T09:55:46.852864+00:00",
+    "analyzed_at": "2026-07-14T09:55:46.852864+00:00",
+    "summary": "Codex skill for auditing and tuning Codex Desktop context/tool surfaces",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 239,
+      "score": null,
+      "author": null,
+      "language": "Shell"
+    }
+  },
+  {
+    "id": "ebcd0172-a745-48ea-90e9-4d818385d9ea",
+    "title": "CWS6206/EasyLastSkill",
+    "source_url": "https://github.com/CWS6206/EasyLastSkill",
+    "source": "unknown",
+    "collected_at": "2026-07-14T09:55:48.148099+00:00",
+    "analyzed_at": "2026-07-14T09:55:48.148099+00:00",
+    "summary": "EasyLastSkill ist eine deutschsprachige Codex-/Agent-Skill fuer schnelle Recherchen zu den letzten Tagen eines Themas. Standardmaessig betrachtet sie die letzten 30 Tage und erstellt einen kompakten B",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 236,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "6a0110b6-4fd0-4b31-80ca-07cfac6f177f",
+    "title": "Mensfeld/code-on-incus: Give each AI agent its own isolated machine",
+    "source_url": "https://github.com/mensfeld/code-on-incus",
+    "source": "hacker_news",
+    "collected_at": "2026-07-14T09:55:49.448733+00:00",
+    "analyzed_at": "2026-07-14T09:55:49.448733+00:00",
+    "summary": "Article URL: https://github.com/mensfeld/code-on-incus\nComments URL: https://news.ycombinator.com/item?id=48904287\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Tomte",
+      "language": null
+    }
+  },
+  {
+    "id": "33f72785-36d6-4a5c-b81d-9b4736fcd7c3",
+    "title": "Hassabis – A Framework for Frontier AI and the Dawning of a New Age",
+    "source_url": "https://twitter.com/demishassabis/status/2076957440109625718",
+    "source": "hacker_news",
+    "collected_at": "2026-07-14T09:55:50.746268+00:00",
+    "analyzed_at": "2026-07-14T09:55:50.746268+00:00",
+    "summary": "Article URL: https://twitter.com/demishassabis/status/2076957440109625718\nComments URL: https://news.ycombinator.com/item?id=48904095\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "asiergoni",
+      "language": null
+    }
+  },
+  {
+    "id": "7ee654ee-4337-4ee7-96e0-ed8d3065252a",
+    "title": "Show HN: Turnitin Report – AI checker and AI detector for student papers",
+    "source_url": "https://www.turnitin.report/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-14T09:55:52.067774+00:00",
+    "analyzed_at": "2026-07-14T09:55:52.067774+00:00",
+    "summary": "Article URL: https://www.turnitin.report/\nComments URL: https://news.ycombinator.com/item?id=48904083\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "gigisss",
+      "language": null
+    }
+  },
+  {
+    "id": "f23ee131-bdbd-4f12-b7d0-de6d2162ee4e",
+    "title": "Show HN: Coura AI – AI clothes changer for realistic outfit photos",
+    "source_url": "https://coura.ai",
+    "source": "hacker_news",
+    "collected_at": "2026-07-14T09:55:53.365253+00:00",
+    "analyzed_at": "2026-07-14T09:55:53.365253+00:00",
+    "summary": "Article URL: https://coura.ai\nComments URL: https://news.ycombinator.com/item?id=48904069\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "gigisss",
+      "language": null
+    }
+  },
+  {
+    "id": "c89a4fa4-aba0-4a1e-804f-6dd701d3946e",
+    "title": "TSMC Spies Got 10 Years. Taiwan's AI Basic Act Has No Penalties at All",
+    "source_url": "https://mrkt30.com/tsmc-spies-got-10-years-taiwans-ai-basic-act-has-no-penalties-at-all/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-14T09:55:54.662648+00:00",
+    "analyzed_at": "2026-07-14T09:55:54.662648+00:00",
+    "summary": "Article URL: https://mrkt30.com/tsmc-spies-got-10-years-taiwans-ai-basic-act-has-no-penalties-at-all/\nComments URL: https://news.ycombinator.com/item?id=48904003\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "emsidisii",
+      "language": null
+    }
+  },
+  {
+    "id": "b34b749a-c777-4563-9c68-43edadc30102",
+    "title": "Microsoft commits $2.5B, 6k employees AI implementation unit",
+    "source_url": "https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html",
+    "source": "hacker_news",
+    "collected_at": "2026-07-14T09:55:55.962585+00:00",
+    "analyzed_at": "2026-07-14T09:55:55.962585+00:00",
+    "summary": "Article URL: https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html\nComments URL: https://news.ycombinator.com/item?id=48903906\nPoints: 3\n# Commen",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rbanffy",
+      "language": null
+    }
+  },
+  {
+    "id": "6cab8bee-2220-4884-999f-67947412b0fa",
+    "title": "What Is Google AI Studio Used For?",
+    "source_url": "https://galaxyonknowledge.substack.com/p/what-is-google-ai-studio-used-for",
+    "source": "hacker_news",
+    "collected_at": "2026-07-14T09:55:57.260808+00:00",
+    "analyzed_at": "2026-07-14T09:55:57.260808+00:00",
+    "summary": "Article URL: https://galaxyonknowledge.substack.com/p/what-is-google-ai-studio-used-for\nComments URL: https://news.ycombinator.com/item?id=48903746\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "galaxyonknowled",
+      "language": null
+    }
+  },
+  {
+    "id": "c490f379-e29e-4dda-88de-9daceff7b772",
+    "title": "Show HN: Neverswipe – your AI agent dates so you don't swipe",
+    "source_url": "https://neverswipe.ai",
+    "source": "hacker_news",
+    "collected_at": "2026-07-14T09:55:58.557867+00:00",
+    "analyzed_at": "2026-07-14T09:55:58.557867+00:00",
+    "summary": "Article URL: https://neverswipe.ai\nComments URL: https://news.ycombinator.com/item?id=48903487\nPoints: 3\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pro_methe5",
+      "language": null
+    }
+  },
+  {
+    "id": "927cfd23-0cc8-4edb-bce3-39402cbdc537",
+    "title": "AI coding agents should optimize for less owned code",
+    "source_url": "https://www.openenergytransition.org/posts/ai-coding-agents-should-optimize-for-less-owned-code",
+    "source": "hacker_news",
+    "collected_at": "2026-07-14T09:55:59.855381+00:00",
+    "analyzed_at": "2026-07-14T09:55:59.855381+00:00",
+    "summary": "Article URL: https://www.openenergytransition.org/posts/ai-coding-agents-should-optimize-for-less-owned-code\nComments URL: https://news.ycombinator.com/item?id=48903476\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "lyoncy",
+      "language": null
+    }
+  },
+  {
+    "id": "1b0603e0-2ca0-412c-a55d-ec2640d52596",
+    "title": "Show HN: ClaudeThings – your AI engineering and marketing team in one command",
+    "source_url": "https://www.claudethings.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-14T09:56:01.153531+00:00",
+    "analyzed_at": "2026-07-14T09:56:01.153531+00:00",
+    "summary": "Article URL: https://www.claudethings.com/\nComments URL: https://news.ycombinator.com/item?id=48903346\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mohitvaswani",
+      "language": null
+    }
+  },
+  {
+    "id": "64e138bc-e71e-413f-b115-f529259edc53",
+    "title": "Slay the Spire 2 Is Choosing \"Shit\" Art over Generative AI",
+    "source_url": "https://www.gamespot.com/articles/slay-the-spire-2-is-choosing-shit-art-over-generative-ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-14T09:56:02.452255+00:00",
+    "analyzed_at": "2026-07-14T09:56:02.452255+00:00",
+    "summary": "Article URL: https://www.gamespot.com/articles/slay-the-spire-2-is-choosing-shit-art-over-generative-ai/\nComments URL: https://news.ycombinator.com/item?id=48903289\nPoints: 3\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jalev",
+      "language": null
+    }
+  },
+  {
+    "id": "2d0260f4-09a4-4fb9-9135-a0ff5c146095",
+    "title": "What Anthropic's latest AI discovery does–and doesn't–show",
+    "source_url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-14T09:56:03.749348+00:00",
+    "analyzed_at": "2026-07-14T09:56:03.749348+00:00",
+    "summary": "Article URL: https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/\nComments URL: https://news.ycombinator.com/item?id=48903165\nPoints: 3\n# Comme",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "joozio",
+      "language": null
+    }
+  },
+  {
+    "id": "c9182a70-35a5-463a-b089-a8aac6571762",
+    "title": "Show HN: Benchmark your eng team's AI agent maturity in 5 minutes",
+    "source_url": "https://agent-benchmarks.com/software-factory/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-14T09:56:05.047008+00:00",
+    "analyzed_at": "2026-07-14T09:56:05.047008+00:00",
+    "summary": "we had hundreds of discussions with engineering leaders over the past few months, and everyone's trying to understand where they are in the AI journey.we collected all this data into a benchmark and b",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "adamgold7",
+      "language": null
+    }
+  }
+]

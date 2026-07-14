@@ -1,0 +1,91 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-07-14T09:55:25.652613+00:00",
+  "items": [
+    {
+      "name": "pengchujin/jzsub",
+      "url": "https://github.com/pengchujin/jzsub",
+      "summary": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
+      "stars": 390,
+      "language": "Python",
+      "topics": [
+        "bilingual",
+        "codex",
+        "subtitles",
+        "video",
+        "yt-dlp"
+      ]
+    },
+    {
+      "name": "jakubkrehel/skills",
+      "url": "https://github.com/jakubkrehel/skills",
+      "summary": "A set of agent skills that help improve different parts of a product, from animations and typography to layout and colors.",
+      "stars": 303,
+      "language": null,
+      "topics": []
+    },
+    {
+      "name": "modiqo/waggle",
+      "url": "https://github.com/modiqo/waggle",
+      "summary": "Attributed, resolvable artifact references for agent handoffs — a ~30-byte token instead of pasted context. MCP-native; the reference layer for the agent-harness world.",
+      "stars": 264,
+      "language": "Rust",
+      "topics": [
+        "ai-agents",
+        "harness-engineering",
+        "llm-tools",
+        "loop-engineering"
+      ]
+    },
+    {
+      "name": "Moore-developers/moore-wechat-article-downloader",
+      "url": "https://github.com/Moore-developers/moore-wechat-article-downloader",
+      "summary": "本地优先的微信内容情报库：同步公众号文章，保存精选评论和互动数据，供 Codex/Claude Code 做内容研究。",
+      "stars": 258,
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "claude-code",
+        "codex-skill",
+        "content-analysis",
+        "knowledge-base",
+        "local-first",
+        "markdown",
+        "wechat",
+        "wechat-articles",
+        "wechat-mp"
+      ]
+    },
+    {
+      "name": "opencoredev/login-with-chatgpt",
+      "url": "https://github.com/opencoredev/login-with-chatgpt",
+      "summary": "A simple SDK that lets your users log in with their ChatGPT account.",
+      "stars": 253,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "sunflower-of-parchman/codex-hygiene",
+      "url": "https://github.com/sunflower-of-parchman/codex-hygiene",
+      "summary": "Codex skill for auditing and tuning Codex Desktop context/tool surfaces",
+      "stars": 239,
+      "language": "Shell",
+      "topics": [
+        "codex",
+        "codex-skill",
+        "developer-tools",
+        "mcp",
+        "token-usage"
+      ]
+    },
+    {
+      "name": "CWS6206/EasyLastSkill",
+      "url": "https://github.com/CWS6206/EasyLastSkill",
+      "summary": "EasyLastSkill ist eine deutschsprachige Codex-/Agent-Skill fuer schnelle Recherchen zu den letzten Tagen eines Themas. Standardmaessig betrachtet sie die letzten 30 Tage und erstellt einen kompakten B",
+      "stars": 236,
+      "language": "Python",
+      "topics": []
+    }
+  ]
+}
