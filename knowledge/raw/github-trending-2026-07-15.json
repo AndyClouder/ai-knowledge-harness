@@ -1,0 +1,84 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-07-15T09:59:23.010612+00:00",
+  "items": [
+    {
+      "name": "William-Lu-stack/Flawless",
+      "url": "https://github.com/William-Lu-stack/Flawless",
+      "summary": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
+      "stars": 619,
+      "language": "Python",
+      "topics": [
+        "agenticops",
+        "ai",
+        "aiops",
+        "aisre",
+        "cloud",
+        "cloud-native",
+        "devops",
+        "kubernetes",
+        "llm",
+        "mcp",
+        "observability",
+        "sre"
+      ]
+    },
+    {
+      "name": "oil-oil/beautify-github-readme",
+      "url": "https://github.com/oil-oil/beautify-github-readme",
+      "summary": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
+      "stars": 363,
+      "language": "Python",
+      "topics": [
+        "agent-skill",
+        "codex-skill",
+        "github-readme",
+        "readme-design",
+        "svg"
+      ]
+    },
+    {
+      "name": "QuantumByteOSS/quantumbyte",
+      "url": "https://github.com/QuantumByteOSS/quantumbyte",
+      "summary": "Open-source app builder engine — intent to working app",
+      "stars": 306,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "app-builder",
+        "code-generation",
+        "llm",
+        "nextjs",
+        "open-source",
+        "python"
+      ]
+    },
+    {
+      "name": "Intuition-Lab/personal-model",
+      "url": "https://github.com/Intuition-Lab/personal-model",
+      "summary": "Build your HUMAN.md.",
+      "stars": 289,
+      "language": "Python",
+      "topics": [
+        "agent-memory",
+        "local-first",
+        "macos",
+        "mcp",
+        "personal-ai",
+        "personal-model",
+        "privacy",
+        "python"
+      ]
+    },
+    {
+      "name": "opencoredev/domain-sdk",
+      "url": "https://github.com/opencoredev/domain-sdk",
+      "summary": "Add, verify, monitor, and remove customer domains with one TypeScript API.",
+      "stars": 282,
+      "language": "TypeScript",
+      "topics": []
+    }
+  ]
+}

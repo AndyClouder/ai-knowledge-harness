@@ -1,0 +1,422 @@
+[
+  {
+    "id": "e8c4f860-7f55-45a9-a9b0-00d62b805b48",
+    "title": "William-Lu-stack/Flawless",
+    "source_url": "https://github.com/William-Lu-stack/Flawless",
+    "source": "unknown",
+    "collected_at": "2026-07-15T09:59:30.063966+00:00",
+    "analyzed_at": "2026-07-15T09:59:30.063966+00:00",
+    "summary": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 619,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "8e691d69-ccbb-47c1-9fcb-54d8dd8a26eb",
+    "title": "oil-oil/beautify-github-readme",
+    "source_url": "https://github.com/oil-oil/beautify-github-readme",
+    "source": "unknown",
+    "collected_at": "2026-07-15T09:59:31.362016+00:00",
+    "analyzed_at": "2026-07-15T09:59:31.362016+00:00",
+    "summary": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 363,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "1e7a2364-8c46-439f-8b79-f6dbbb24146a",
+    "title": "QuantumByteOSS/quantumbyte",
+    "source_url": "https://github.com/QuantumByteOSS/quantumbyte",
+    "source": "unknown",
+    "collected_at": "2026-07-15T09:59:32.695835+00:00",
+    "analyzed_at": "2026-07-15T09:59:32.695835+00:00",
+    "summary": "Open-source app builder engine — intent to working app",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 306,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "0dc26671-2e05-4575-968d-c08255e3aaff",
+    "title": "Intuition-Lab/personal-model",
+    "source_url": "https://github.com/Intuition-Lab/personal-model",
+    "source": "unknown",
+    "collected_at": "2026-07-15T09:59:33.993100+00:00",
+    "analyzed_at": "2026-07-15T09:59:33.993100+00:00",
+    "summary": "Build your HUMAN.md.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 289,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "2e66a66a-c847-478f-ae58-0aa0c1a44c0b",
+    "title": "opencoredev/domain-sdk",
+    "source_url": "https://github.com/opencoredev/domain-sdk",
+    "source": "unknown",
+    "collected_at": "2026-07-15T09:59:35.290734+00:00",
+    "analyzed_at": "2026-07-15T09:59:35.290734+00:00",
+    "summary": "Add, verify, monitor, and remove customer domains with one TypeScript API.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 282,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "a76d5a17-fc6d-48ae-b7f9-f1fb0398c3a7",
+    "title": "NeurIPS Mech Interp Workshop is getting more AI slop",
+    "source_url": "https://twitter.com/NeelNanda5/status/2077117795066871908",
+    "source": "hacker_news",
+    "collected_at": "2026-07-15T09:59:36.590165+00:00",
+    "analyzed_at": "2026-07-15T09:59:36.590165+00:00",
+    "summary": "Article URL: https://twitter.com/NeelNanda5/status/2077117795066871908\nComments URL: https://news.ycombinator.com/item?id=48918463\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "martianvoid",
+      "language": null
+    }
+  },
+  {
+    "id": "47dbebb3-8503-411d-8376-04780692dddc",
+    "title": "AI in Australia's Interests",
+    "source_url": "https://www.pm.gov.au/media/ai-australias-interests-0",
+    "source": "hacker_news",
+    "collected_at": "2026-07-15T09:59:37.888972+00:00",
+    "analyzed_at": "2026-07-15T09:59:37.888972+00:00",
+    "summary": "Article URL: https://www.pm.gov.au/media/ai-australias-interests-0\nComments URL: https://news.ycombinator.com/item?id=48918409\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "softveda",
+      "language": null
+    }
+  },
+  {
+    "id": "802e1ebf-bdc7-43a3-a13f-57c9e16d4323",
+    "title": "Show HN: AITerm – a macOS terminal with an AI command loop and a safety gate",
+    "source_url": "https://ai-term.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-15T09:59:39.187905+00:00",
+    "analyzed_at": "2026-07-15T09:59:39.187905+00:00",
+    "summary": "Article URL: https://ai-term.com/\nComments URL: https://news.ycombinator.com/item?id=48918251\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "dmitrik",
+      "language": null
+    }
+  },
+  {
+    "id": "4010d73b-6f37-4212-9171-84d7f1df2f98",
+    "title": "Nobel economists, tech leaders warn how AI could threaten jobs",
+    "source_url": "https://www.washingtonpost.com/technology/2026/07/13/nobel-economists-tech-leaders-warn-how-ai-could-threaten-jobs/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-15T09:59:40.483304+00:00",
+    "analyzed_at": "2026-07-15T09:59:40.483304+00:00",
+    "summary": "Article URL: https://www.washingtonpost.com/technology/2026/07/13/nobel-economists-tech-leaders-warn-how-ai-could-threaten-jobs/\nComments URL: https://news.ycombinator.com/item?id=48918197\nPoints: 2\n#",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ironyman",
+      "language": null
+    }
+  },
+  {
+    "id": "3dc8fdec-aabe-478a-8fa4-ac18c48dbb09",
+    "title": "Which Doc Format Is Best for AI Specifications?",
+    "source_url": "http://blog.vanillajava.blog/2026/07/which-doc-format-is-best-for-ai.html",
+    "source": "hacker_news",
+    "collected_at": "2026-07-15T09:59:41.784467+00:00",
+    "analyzed_at": "2026-07-15T09:59:41.784467+00:00",
+    "summary": "Article URL: http://blog.vanillajava.blog/2026/07/which-doc-format-is-best-for-ai.html\nComments URL: https://news.ycombinator.com/item?id=48918007\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "peter_lawrey",
+      "language": null
+    }
+  },
+  {
+    "id": "10d2c22e-b7de-4d97-8715-eb28862a5006",
+    "title": "Ask HN: What Are You Building with AI?",
+    "source_url": "https://news.ycombinator.com/item?id=48917667",
+    "source": "hacker_news",
+    "collected_at": "2026-07-15T09:59:43.107045+00:00",
+    "analyzed_at": "2026-07-15T09:59:43.107045+00:00",
+    "summary": "Are you building with AI for yourself, your employer, customers, or as a startup?What LLMs, coding agents, or development tools are you using?  Are you primarily prompt coding, vibe coding, or using a",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "fraXis",
+      "language": null
+    }
+  },
+  {
+    "id": "29e8b3e9-9e4d-4485-a8b9-d9d43f2745c9",
+    "title": "What Do ASML's Q2 2026 Results Tell Us About the AI Boom?",
+    "source_url": "https://mrkt30.com/what-do-asmls-q2-2026-results-tell-us-about-the-ai-boom/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-15T09:59:44.405424+00:00",
+    "analyzed_at": "2026-07-15T09:59:44.405424+00:00",
+    "summary": "Article URL: https://mrkt30.com/what-do-asmls-q2-2026-results-tell-us-about-the-ai-boom/\nComments URL: https://news.ycombinator.com/item?id=48917631\nPoints: 2\n# Comments: 3",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "technewssss",
+      "language": null
+    }
+  },
+  {
+    "id": "8a24de2f-75a7-46d9-8aad-f210f5a4b6d9",
+    "title": "What makes an AI coding tool worth paying for?",
+    "source_url": "https://vibecodingagency.com/gpu-cloud/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-15T09:59:45.724869+00:00",
+    "analyzed_at": "2026-07-15T09:59:45.724869+00:00",
+    "summary": "Article URL: https://vibecodingagency.com/gpu-cloud/\nComments URL: https://news.ycombinator.com/item?id=48917577\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "vibeagency",
+      "language": null
+    }
+  },
+  {
+    "id": "153a2af5-f388-4ee5-b590-04fb2f56be07",
+    "title": "Show HN: PixFinder – Free offline AI+OCR Image Search",
+    "source_url": "https://pixfinder.app/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-15T09:59:47.022021+00:00",
+    "analyzed_at": "2026-07-15T09:59:47.022021+00:00",
+    "summary": "Hi, HN!I’ve made a free Windows tool that lets you search your local images by what's in them, not the filename. It combines AI (SigLip2) search with OCR.It was made from specific need – quick search ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "alexkh",
+      "language": null
+    }
+  },
+  {
+    "id": "d287ecb1-5a9a-4afb-aa46-f05996024116",
+    "title": "AI eating software: IBM crash",
+    "source_url": "https://www.bargo.ai/research/ibm-ai-capex-cannibalization",
+    "source": "hacker_news",
+    "collected_at": "2026-07-15T09:59:48.317658+00:00",
+    "analyzed_at": "2026-07-15T09:59:48.317658+00:00",
+    "summary": "Article URL: https://www.bargo.ai/research/ibm-ai-capex-cannibalization\nComments URL: https://news.ycombinator.com/item?id=48917453\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Kavon2992",
+      "language": null
+    }
+  },
+  {
+    "id": "ada0aab9-d9f7-42a2-a441-3a2f8406a3b3",
+    "title": "Decibri – unified audio layer for AI agents and Voice AI applications",
+    "source_url": "https://decibri.com",
+    "source": "hacker_news",
+    "collected_at": "2026-07-15T09:59:49.615072+00:00",
+    "analyzed_at": "2026-07-15T09:59:49.615072+00:00",
+    "summary": "Article URL: https://decibri.com\nComments URL: https://news.ycombinator.com/item?id=48917379\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "vyrotek",
+      "language": null
+    }
+  },
+  {
+    "id": "1d34b260-809d-498b-9425-90e00acb3b38",
+    "title": "At last, a good reason to buy an AI PC: Reining in runaway token bills",
+    "source_url": "https://www.theregister.com/personal-tech/2026/07/15/at-last-a-good-reason-to-buy-an-ai-pc-reining-in-runaway-token-bills/5271589",
+    "source": "hacker_news",
+    "collected_at": "2026-07-15T09:59:50.910630+00:00",
+    "analyzed_at": "2026-07-15T09:59:50.910630+00:00",
+    "summary": "Article URL: https://www.theregister.com/personal-tech/2026/07/15/at-last-a-good-reason-to-buy-an-ai-pc-reining-in-runaway-token-bills/5271589\nComments URL: https://news.ycombinator.com/item?id=489173",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "raybb",
+      "language": null
+    }
+  },
+  {
+    "id": "52bdf437-81ad-44b3-b151-0a0cbde69b92",
+    "title": "Show HN: A free tool that turns any AI topic into an interactive, cited lesson",
+    "source_url": "https://prathibhax.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-15T09:59:52.207640+00:00",
+    "analyzed_at": "2026-07-15T09:59:52.207640+00:00",
+    "summary": "Article URL: https://prathibhax.com/\nComments URL: https://news.ycombinator.com/item?id=48917300\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "anandp1989",
+      "language": null
+    }
+  },
+  {
+    "id": "e2cbe40a-796b-499c-99f5-d754b4d67092",
+    "title": "Australia to establish government AI office, curb data centres' water use",
+    "source_url": "https://www.reuters.com/world/asia-pacific/australia-establish-government-ai-office-coordinate-regulation-2026-07-14/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-15T09:59:53.504409+00:00",
+    "analyzed_at": "2026-07-15T09:59:53.504409+00:00",
+    "summary": "Article URL: https://www.reuters.com/world/asia-pacific/australia-establish-government-ai-office-coordinate-regulation-2026-07-14/\nComments URL: https://news.ycombinator.com/item?id=48917281\nPoints: 3",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "1vuio0pswjnm7",
+      "language": null
+    }
+  },
+  {
+    "id": "397233b2-04f5-49c7-897d-a4669d2faaa5",
+    "title": "Australia proposes AI rules for data centres and rejects copyright carve-out",
+    "source_url": "https://www.abc.net.au/news/2026-07-15/labor-to-set-standards-for-ai-data-centres-and-copyright/106918380",
+    "source": "hacker_news",
+    "collected_at": "2026-07-15T09:59:54.801814+00:00",
+    "analyzed_at": "2026-07-15T09:59:54.801814+00:00",
+    "summary": "Article URL: https://www.abc.net.au/news/2026-07-15/labor-to-set-standards-for-ai-data-centres-and-copyright/106918380\nComments URL: https://news.ycombinator.com/item?id=48917200\nPoints: 1\n# Comments:",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "tylrbrkr",
+      "language": null
+    }
+  }
+]
