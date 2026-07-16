@@ -1,0 +1,115 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-07-16T10:05:51.969907+00:00",
+  "items": [
+    {
+      "name": "xai-org/grok-build",
+      "url": "https://github.com/xai-org/grok-build",
+      "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "stars": 8465,
+      "language": "Rust",
+      "topics": []
+    },
+    {
+      "name": "vshulcz/deja-vu",
+      "url": "https://github.com/vshulcz/deja-vu",
+      "summary": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex and opencode already write. One zero-dep binary.",
+      "stars": 246,
+      "language": "Go",
+      "topics": [
+        "agent-memory",
+        "ai-memory",
+        "claude",
+        "claude-code",
+        "cli",
+        "codex",
+        "coding-agents",
+        "developer-tools",
+        "golang",
+        "mcp",
+        "mcp-server",
+        "opencode",
+        "session-search"
+      ]
+    },
+    {
+      "name": "dongguatanglinux/grok-build-auth",
+      "url": "https://github.com/dongguatanglinux/grok-build-auth",
+      "summary": "Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)",
+      "stars": 246,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "xiaolongbao0709/ai-virtual-phone",
+      "url": "https://github.com/xiaolongbao0709/ai-virtual-phone",
+      "summary": "",
+      "stars": 219,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "nihe0909/xiaohongshu-ai-workbench",
+      "url": "https://github.com/nihe0909/xiaohongshu-ai-workbench",
+      "summary": "《小红书运营手册 · AI工作台》: free Codex Skills for Xiaohongshu operations",
+      "stars": 194,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "barretlee/agent-pulse",
+      "url": "https://github.com/barretlee/agent-pulse",
+      "summary": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs.",
+      "stars": 193,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-industry",
+        "ai-intelligence",
+        "ai-news",
+        "artificial-intelligence",
+        "evidence",
+        "fastify",
+        "github-actions",
+        "github-pages",
+        "industry-analysis",
+        "knowledge-graph",
+        "llm",
+        "open-source-intelligence",
+        "sqlite",
+        "timeline",
+        "typescript",
+        "weekly-report"
+      ]
+    },
+    {
+      "name": "chordswallowthrust/undress-design",
+      "url": "https://github.com/chordswallowthrust/undress-design",
+      "summary": "AI-powered fashion visualization and virtual try-on toolkit for consent-based garment editing, outfit prototyping, and creative design workflows. https://undress.design/edit?utm_source=gist.github.com",
+      "stars": 191,
+      "language": null,
+      "topics": [
+        "ai-undress-porn",
+        "ai-undresser-free",
+        "best-free-uncensored-nsfw-ai-image-generators-2026",
+        "best-uncensored-ai-image-generators-2026",
+        "free-ai-undress",
+        "sex",
+        "uncensored-ai-chatbot",
+        "uncensored-ai-image-editor",
+        "undres",
+        "undresser-ai"
+      ]
+    },
+    {
+      "name": "ShenSeanChen/waku-agent",
+      "url": "https://github.com/ShenSeanChen/waku-agent",
+      "summary": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon — harness + loop + memory + eval",
+      "stars": 188,
+      "language": "Python",
+      "topics": []
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "44beeef9-ea90-41c1-88f0-3c593fa5b08a",
+    "title": "xai-org/grok-build",
+    "source_url": "https://github.com/xai-org/grok-build",
+    "source": "unknown",
+    "collected_at": "2026-07-16T10:06:02.967551+00:00",
+    "analyzed_at": "2026-07-16T10:06:02.967551+00:00",
+    "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 8465,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "4997a02a-a509-412c-851c-c1117f3d3310",
+    "title": "vshulcz/deja-vu",
+    "source_url": "https://github.com/vshulcz/deja-vu",
+    "source": "unknown",
+    "collected_at": "2026-07-16T10:06:04.286544+00:00",
+    "analyzed_at": "2026-07-16T10:06:04.286544+00:00",
+    "summary": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex and opencode already write. One zero-dep binary.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 246,
+      "score": null,
+      "author": null,
+      "language": "Go"
+    }
+  },
+  {
+    "id": "8ade7f7a-08d2-4c08-8201-930ba531a0b0",
+    "title": "dongguatanglinux/grok-build-auth",
+    "source_url": "https://github.com/dongguatanglinux/grok-build-auth",
+    "source": "unknown",
+    "collected_at": "2026-07-16T10:06:05.606873+00:00",
+    "analyzed_at": "2026-07-16T10:06:05.606873+00:00",
+    "summary": "Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 246,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "11b85259-c284-423f-bb96-82145f918cea",
+    "title": "xiaolongbao0709/ai-virtual-phone",
+    "source_url": "https://github.com/xiaolongbao0709/ai-virtual-phone",
+    "source": "unknown",
+    "collected_at": "2026-07-16T10:06:06.926641+00:00",
+    "analyzed_at": "2026-07-16T10:06:06.926641+00:00",
+    "summary": "",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 219,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "8c8dca20-926f-4121-b548-c4e054fabb6f",
+    "title": "nihe0909/xiaohongshu-ai-workbench",
+    "source_url": "https://github.com/nihe0909/xiaohongshu-ai-workbench",
+    "source": "unknown",
+    "collected_at": "2026-07-16T10:06:08.256147+00:00",
+    "analyzed_at": "2026-07-16T10:06:08.256147+00:00",
+    "summary": "《小红书运营手册 · AI工作台》: free Codex Skills for Xiaohongshu operations",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 194,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "c08163a2-7769-4551-8603-cdd527c02076",
+    "title": "barretlee/agent-pulse",
+    "source_url": "https://github.com/barretlee/agent-pulse",
+    "source": "unknown",
+    "collected_at": "2026-07-16T10:06:09.572156+00:00",
+    "analyzed_at": "2026-07-16T10:06:09.572156+00:00",
+    "summary": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 193,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "bd976566-8cc2-4146-97f7-8de309ba11c5",
+    "title": "chordswallowthrust/undress-design",
+    "source_url": "https://github.com/chordswallowthrust/undress-design",
+    "source": "unknown",
+    "collected_at": "2026-07-16T10:06:10.894147+00:00",
+    "analyzed_at": "2026-07-16T10:06:10.894147+00:00",
+    "summary": "AI-powered fashion visualization and virtual try-on toolkit for consent-based garment editing, outfit prototyping, and creative design workflows. https://undress.design/edit?utm_source=gist.github.com",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 191,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "fb8923dc-1ee2-4405-aca5-8e5357811ffa",
+    "title": "ShenSeanChen/waku-agent",
+    "source_url": "https://github.com/ShenSeanChen/waku-agent",
+    "source": "unknown",
+    "collected_at": "2026-07-16T10:06:12.211777+00:00",
+    "analyzed_at": "2026-07-16T10:06:12.211777+00:00",
+    "summary": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon — harness + loop + memory + eval",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 188,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  }
+]
