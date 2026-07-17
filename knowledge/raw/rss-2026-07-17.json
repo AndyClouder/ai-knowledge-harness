@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-07-17T09:54:33.548695+00:00",
+  "items": [
+    {
+      "name": "Nvidia Showcases Japanese AI Development Built on Nemotron Models",
+      "url": "https://www.hpcwire.com/off-the-wire/nvidia-showcases-japanese-ai-development-built-on-nemotron-models/",
+      "summary": "Article URL: https://www.hpcwire.com/off-the-wire/nvidia-showcases-japanese-ai-development-built-on-nemotron-models/\nComments URL: https://news.ycombinator.com/item?id=48945281\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rbanffy",
+      "published": "Fri, 17 Jul 2026 09:47:40 +0000"
+    },
+    {
+      "name": "An Assessment of How AI Models Protect Free Expression",
+      "url": "https://www.oversightboard.com/news/are-llms-stifling-political-speech-an-assessment-of-how-ai-models-protect-free-expression/",
+      "summary": "Article URL: https://www.oversightboard.com/news/are-llms-stifling-political-speech-an-assessment-of-how-ai-models-protect-free-expression/\nComments URL: https://news.ycombinator.com/item?id=48945190\n",
+      "source": "hacker_news",
+      "score": null,
+      "author": "huhkerrf",
+      "published": "Fri, 17 Jul 2026 09:35:19 +0000"
+    },
+    {
+      "name": "SREs to AI Agents: Prove Yourself Before You Touch Production",
+      "url": "https://www.nextplatform.com/control/2026/07/15/sres-to-ai-agents-prove-yourself-before-you-touch-production/5271533",
+      "summary": "Article URL: https://www.nextplatform.com/control/2026/07/15/sres-to-ai-agents-prove-yourself-before-you-touch-production/5271533\nComments URL: https://news.ycombinator.com/item?id=48945150\nPoints: 2\n",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rbanffy",
+      "published": "Fri, 17 Jul 2026 09:31:24 +0000"
+    },
+    {
+      "name": "Xi Jinping sets out China's goal to be global AI leader",
+      "url": "https://www.ft.com/content/ddb316b4-c6ae-4b9b-9d4a-63d63201d4fc",
+      "summary": "Article URL: https://www.ft.com/content/ddb316b4-c6ae-4b9b-9d4a-63d63201d4fc\nComments URL: https://news.ycombinator.com/item?id=48945081\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "codesections",
+      "published": "Fri, 17 Jul 2026 09:20:49 +0000"
+    },
+    {
+      "name": "Chinese Models Power 60% of US Corporate AI Use",
+      "url": "https://www.briefs.co/news/chinese-models-power-60-of-us-corporate-ai-use/",
+      "summary": "Article URL: https://www.briefs.co/news/chinese-models-power-60-of-us-corporate-ai-use/\nComments URL: https://news.ycombinator.com/item?id=48945060\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mgh2",
+      "published": "Fri, 17 Jul 2026 09:17:36 +0000"
+    },
+    {
+      "name": "Why AI-Assisted Development Is More Exhausting Than It Should Be",
+      "url": "https://tonyalicea.dev/blog/single-mode-burnout/",
+      "summary": "Article URL: https://tonyalicea.dev/blog/single-mode-burnout/\nComments URL: https://news.ycombinator.com/item?id=48944961\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "layer8",
+      "published": "Fri, 17 Jul 2026 09:05:33 +0000"
+    },
+    {
+      "name": "Five studies changing how I think about AI in software engineering",
+      "url": "https://newsletter.getdx.com/p/five-studies-that-are-changing-how",
+      "summary": "Article URL: https://newsletter.getdx.com/p/five-studies-that-are-changing-how\nComments URL: https://news.ycombinator.com/item?id=48944770\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "perpetua",
+      "published": "Fri, 17 Jul 2026 08:38:18 +0000"
+    },
+    {
+      "name": "Coding in space, AI-XR, and new interaction paradigms for devs",
+      "url": "https://blog.jetbrains.com/research/2026/07/ai-and-xr-future/",
+      "summary": "Article URL: https://blog.jetbrains.com/research/2026/07/ai-and-xr-future/\nComments URL: https://news.ycombinator.com/item?id=48944637\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "katie_fraser",
+      "published": "Fri, 17 Jul 2026 08:18:16 +0000"
+    },
+    {
+      "name": "A structurally chunked, pre-embedded SQLite corpus of the EU AI Act",
+      "url": "https://huggingface.co/datasets/faitholopade/aiact-openrag",
+      "summary": "Article URL: https://huggingface.co/datasets/faitholopade/aiact-openrag\nComments URL: https://news.ycombinator.com/item?id=48944567\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "olopadef",
+      "published": "Fri, 17 Jul 2026 08:09:39 +0000"
+    },
+    {
+      "name": "Isvisible.ai, check if AI crawlers can access your site",
+      "url": "https://isvisible.ai",
+      "summary": "Article URL: https://isvisible.ai\nComments URL: https://news.ycombinator.com/item?id=48944283\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "alpkorpe",
+      "published": "Fri, 17 Jul 2026 07:21:17 +0000"
+    },
+    {
+      "name": "A few thoughts on building a terminal ePub reader with AI",
+      "url": "https://github.com/newptcai/repy",
+      "summary": "Article URL: https://github.com/newptcai/repy\nComments URL: https://news.ycombinator.com/item?id=48944259\nPoints: 3\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "dawdler-purge",
+      "published": "Fri, 17 Jul 2026 07:17:09 +0000"
+    },
+    {
+      "name": "Netflix says around 300 titles used generative AI",
+      "url": "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings",
+      "summary": "Article URL: https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings\nComments URL: https://news.ycombinator.com/item?id=48944252\nPoints: 4\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "JamesAdir",
+      "published": "Fri, 17 Jul 2026 07:15:51 +0000"
+    },
+    {
+      "name": "Chinese Nvidia alternatives project massive sales as AI chip demand surges",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3360908/chinese-nvidia-alternatives-project-massive-sales-ai-chip-demand-surges",
+      "summary": "Article URL: https://www.scmp.com/tech/tech-trends/article/3360908/chinese-nvidia-alternatives-project-massive-sales-ai-chip-demand-surges\nComments URL: https://news.ycombinator.com/item?id=48944178\nP",
+      "source": "hacker_news",
+      "score": null,
+      "author": "departed",
+      "published": "Fri, 17 Jul 2026 07:02:54 +0000"
+    },
+    {
+      "name": "Z.ai Set to Be First China AI Firm with $1B Annual Sales",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-17/z-ai-set-to-be-first-china-ai-firm-with-1-billion-annual-sales",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-17/z-ai-set-to-be-first-china-ai-firm-with-1-billion-annual-sales\nComments URL: https://news.ycombinator.com/item?id=48943902\nPoints: 6\n# C",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mfiguiere",
+      "published": "Fri, 17 Jul 2026 06:20:33 +0000"
+    },
+    {
+      "name": "AI helped me write every game I ever wanted to make",
+      "url": "https://boompop.games/",
+      "summary": "Article URL: https://boompop.games/\nComments URL: https://news.ycombinator.com/item?id=48943891\nPoints: 3\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "jquave",
+      "published": "Fri, 17 Jul 2026 06:18:52 +0000"
+    },
+    {
+      "name": "Nvidia has a new AI-RAN plan – a 6G radio unit chip",
+      "url": "https://www.lightreading.com/6g/nvidia-has-a-radical-new-ai-ran-plan-a-6g-radio-unit-chip",
+      "summary": "Article URL: https://www.lightreading.com/6g/nvidia-has-a-radical-new-ai-ran-plan-a-6g-radio-unit-chip\nComments URL: https://news.ycombinator.com/item?id=48943789\nPoints: 3\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "porridgeraisin",
+      "published": "Fri, 17 Jul 2026 05:58:35 +0000"
+    },
+    {
+      "name": "Ask HN: I feel like I've lost my identity due to AI",
+      "url": "https://news.ycombinator.com/item?id=48943622",
+      "summary": "I am a self taught software developer. I was previously an electrical engineer.For the past 10 years I’ve spent almost all my spare time reading and learning and lifting weights - software, electrical",
+      "source": "hacker_news",
+      "score": null,
+      "author": "im-not-enjoying",
+      "published": "Fri, 17 Jul 2026 05:28:54 +0000"
+    },
+    {
+      "name": "Ask HN: Workflow Automation vs AI Agents?",
+      "url": "https://news.ycombinator.com/item?id=48943616",
+      "summary": "A while ago, workflow automation tools (Zapier, Make, n8n) were booming. Now AI agents start eating into that space, OpenAI's Workspace Agents, Lindy, Claude's agentic features, etc.i understand both ",
+      "source": "hacker_news",
+      "score": null,
+      "author": "dicksent",
+      "published": "Fri, 17 Jul 2026 05:28:15 +0000"
+    },
+    {
+      "name": "Lightport – a maintained fork of Portkey AI gateway",
+      "url": "https://github.com/glama-ai/lightport",
+      "summary": "Article URL: https://github.com/glama-ai/lightport\nComments URL: https://news.ycombinator.com/item?id=48943532\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "punkpeye",
+      "published": "Fri, 17 Jul 2026 05:09:56 +0000"
+    },
+    {
+      "name": "Xi pitches China as leader of new global AI order, challenging US dominance",
+      "url": "https://www.reuters.com/world/asia-pacific/chinas-xi-promotes-chinas-commitment-ai-access-speech-shanghai-conference-2026-07-17/",
+      "summary": "Article URL: https://www.reuters.com/world/asia-pacific/chinas-xi-promotes-chinas-commitment-ai-access-speech-shanghai-conference-2026-07-17/\nComments URL: https://news.ycombinator.com/item?id=4894351",
+      "source": "hacker_news",
+      "score": null,
+      "author": "chvid",
+      "published": "Fri, 17 Jul 2026 05:07:29 +0000"
+    }
+  ]
+}

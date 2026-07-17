@@ -1,0 +1,422 @@
+[
+  {
+    "id": "aac8bc28-3758-4df0-9cb5-2f936192bf8f",
+    "title": "tandpfun/wardrobe",
+    "source_url": "https://github.com/tandpfun/wardrobe",
+    "source": "unknown",
+    "collected_at": "2026-07-17T09:54:36.034023+00:00",
+    "analyzed_at": "2026-07-17T09:54:36.034023+00:00",
+    "summary": "Your clothes, extracted and organized with gpt-image.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 751,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "8e8f0c1b-d7f2-4d8b-96e6-56db5d4785aa",
+    "title": "PengZhang64/circuit-framework",
+    "source_url": "https://github.com/PengZhang64/circuit-framework",
+    "source": "unknown",
+    "collected_at": "2026-07-17T09:54:37.399087+00:00",
+    "analyzed_at": "2026-07-17T09:54:37.399087+00:00",
+    "summary": "Circuit Framework — multi-agent LLM trading research system",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 421,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "c3811672-bd06-47eb-a7ee-7938b6831a99",
+    "title": "Blueturboguy07/cue",
+    "source_url": "https://github.com/Blueturboguy07/cue",
+    "source": "unknown",
+    "collected_at": "2026-07-17T09:54:38.753329+00:00",
+    "analyzed_at": "2026-07-17T09:54:38.753329+00:00",
+    "summary": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 393,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "b16f8a49-0c20-4195-9e1d-81b7feb8d14d",
+    "title": "robinhood-ape/robinhood-sniper-bot",
+    "source_url": "https://github.com/robinhood-ape/robinhood-sniper-bot",
+    "source": "unknown",
+    "collected_at": "2026-07-17T09:54:40.075739+00:00",
+    "analyzed_at": "2026-07-17T09:54:40.075739+00:00",
+    "summary": "NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 254,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "d3ad7901-39fc-48aa-8e79-ac7a651b11a7",
+    "title": "robinhood-ape/robinhood-noxa-bundler",
+    "source_url": "https://github.com/robinhood-ape/robinhood-noxa-bundler",
+    "source": "unknown",
+    "collected_at": "2026-07-17T09:54:41.397574+00:00",
+    "analyzed_at": "2026-07-17T09:54:41.397574+00:00",
+    "summary": "NOXA Fun multi-wallet launch bundler for Robinhood Chain - launch via NOXA factory then buy from many wallets on Uniswap V3 before public snipers",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 253,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "89c9c8ad-c914-4da3-80a7-530bb3a348fb",
+    "title": "Nvidia Showcases Japanese AI Development Built on Nemotron Models",
+    "source_url": "https://www.hpcwire.com/off-the-wire/nvidia-showcases-japanese-ai-development-built-on-nemotron-models/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-17T09:54:42.721700+00:00",
+    "analyzed_at": "2026-07-17T09:54:42.721700+00:00",
+    "summary": "Article URL: https://www.hpcwire.com/off-the-wire/nvidia-showcases-japanese-ai-development-built-on-nemotron-models/\nComments URL: https://news.ycombinator.com/item?id=48945281\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rbanffy",
+      "language": null
+    }
+  },
+  {
+    "id": "57adb8c7-b727-4554-8fa3-47cd96962d49",
+    "title": "An Assessment of How AI Models Protect Free Expression",
+    "source_url": "https://www.oversightboard.com/news/are-llms-stifling-political-speech-an-assessment-of-how-ai-models-protect-free-expression/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-17T09:54:44.044235+00:00",
+    "analyzed_at": "2026-07-17T09:54:44.044235+00:00",
+    "summary": "Article URL: https://www.oversightboard.com/news/are-llms-stifling-political-speech-an-assessment-of-how-ai-models-protect-free-expression/\nComments URL: https://news.ycombinator.com/item?id=48945190\n",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "huhkerrf",
+      "language": null
+    }
+  },
+  {
+    "id": "d1844f07-0910-4792-8860-f4dc5f549c9e",
+    "title": "SREs to AI Agents: Prove Yourself Before You Touch Production",
+    "source_url": "https://www.nextplatform.com/control/2026/07/15/sres-to-ai-agents-prove-yourself-before-you-touch-production/5271533",
+    "source": "hacker_news",
+    "collected_at": "2026-07-17T09:54:45.366726+00:00",
+    "analyzed_at": "2026-07-17T09:54:45.366726+00:00",
+    "summary": "Article URL: https://www.nextplatform.com/control/2026/07/15/sres-to-ai-agents-prove-yourself-before-you-touch-production/5271533\nComments URL: https://news.ycombinator.com/item?id=48945150\nPoints: 2\n",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rbanffy",
+      "language": null
+    }
+  },
+  {
+    "id": "9665184c-c644-48b5-b966-de4b80c1bcf2",
+    "title": "Xi Jinping sets out China's goal to be global AI leader",
+    "source_url": "https://www.ft.com/content/ddb316b4-c6ae-4b9b-9d4a-63d63201d4fc",
+    "source": "hacker_news",
+    "collected_at": "2026-07-17T09:54:46.689684+00:00",
+    "analyzed_at": "2026-07-17T09:54:46.689684+00:00",
+    "summary": "Article URL: https://www.ft.com/content/ddb316b4-c6ae-4b9b-9d4a-63d63201d4fc\nComments URL: https://news.ycombinator.com/item?id=48945081\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "codesections",
+      "language": null
+    }
+  },
+  {
+    "id": "af253a78-c837-4734-8c8b-f5e236dc4ea3",
+    "title": "Chinese Models Power 60% of US Corporate AI Use",
+    "source_url": "https://www.briefs.co/news/chinese-models-power-60-of-us-corporate-ai-use/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-17T09:54:48.011461+00:00",
+    "analyzed_at": "2026-07-17T09:54:48.011461+00:00",
+    "summary": "Article URL: https://www.briefs.co/news/chinese-models-power-60-of-us-corporate-ai-use/\nComments URL: https://news.ycombinator.com/item?id=48945060\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mgh2",
+      "language": null
+    }
+  },
+  {
+    "id": "eecffc85-82ad-4a36-a092-f43cd368b6bf",
+    "title": "Why AI-Assisted Development Is More Exhausting Than It Should Be",
+    "source_url": "https://tonyalicea.dev/blog/single-mode-burnout/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-17T09:54:49.350915+00:00",
+    "analyzed_at": "2026-07-17T09:54:49.350915+00:00",
+    "summary": "Article URL: https://tonyalicea.dev/blog/single-mode-burnout/\nComments URL: https://news.ycombinator.com/item?id=48944961\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "layer8",
+      "language": null
+    }
+  },
+  {
+    "id": "7912722b-5ec7-495e-9d21-2cbef9cfbd32",
+    "title": "Five studies changing how I think about AI in software engineering",
+    "source_url": "https://newsletter.getdx.com/p/five-studies-that-are-changing-how",
+    "source": "hacker_news",
+    "collected_at": "2026-07-17T09:54:50.674434+00:00",
+    "analyzed_at": "2026-07-17T09:54:50.674434+00:00",
+    "summary": "Article URL: https://newsletter.getdx.com/p/five-studies-that-are-changing-how\nComments URL: https://news.ycombinator.com/item?id=48944770\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "perpetua",
+      "language": null
+    }
+  },
+  {
+    "id": "5550faaa-3e39-4af7-84ab-e29bf64a6f68",
+    "title": "Coding in space, AI-XR, and new interaction paradigms for devs",
+    "source_url": "https://blog.jetbrains.com/research/2026/07/ai-and-xr-future/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-17T09:54:51.997534+00:00",
+    "analyzed_at": "2026-07-17T09:54:51.997534+00:00",
+    "summary": "Article URL: https://blog.jetbrains.com/research/2026/07/ai-and-xr-future/\nComments URL: https://news.ycombinator.com/item?id=48944637\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "katie_fraser",
+      "language": null
+    }
+  },
+  {
+    "id": "2278014f-ed71-487a-aec9-eb6b2a4e1980",
+    "title": "A structurally chunked, pre-embedded SQLite corpus of the EU AI Act",
+    "source_url": "https://huggingface.co/datasets/faitholopade/aiact-openrag",
+    "source": "hacker_news",
+    "collected_at": "2026-07-17T09:54:53.320681+00:00",
+    "analyzed_at": "2026-07-17T09:54:53.320681+00:00",
+    "summary": "Article URL: https://huggingface.co/datasets/faitholopade/aiact-openrag\nComments URL: https://news.ycombinator.com/item?id=48944567\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "olopadef",
+      "language": null
+    }
+  },
+  {
+    "id": "6cc7b12b-3759-4e4b-9731-85d61adc90c8",
+    "title": "Isvisible.ai, check if AI crawlers can access your site",
+    "source_url": "https://isvisible.ai",
+    "source": "hacker_news",
+    "collected_at": "2026-07-17T09:54:54.641676+00:00",
+    "analyzed_at": "2026-07-17T09:54:54.641676+00:00",
+    "summary": "Article URL: https://isvisible.ai\nComments URL: https://news.ycombinator.com/item?id=48944283\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "alpkorpe",
+      "language": null
+    }
+  },
+  {
+    "id": "4ab90639-7f4f-44fa-b198-0c66e00c06dd",
+    "title": "A few thoughts on building a terminal ePub reader with AI",
+    "source_url": "https://github.com/newptcai/repy",
+    "source": "hacker_news",
+    "collected_at": "2026-07-17T09:54:55.964818+00:00",
+    "analyzed_at": "2026-07-17T09:54:55.964818+00:00",
+    "summary": "Article URL: https://github.com/newptcai/repy\nComments URL: https://news.ycombinator.com/item?id=48944259\nPoints: 3\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "dawdler-purge",
+      "language": null
+    }
+  },
+  {
+    "id": "74a0ea40-0393-4983-8d87-41439045c6a2",
+    "title": "Netflix says around 300 titles used generative AI",
+    "source_url": "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings",
+    "source": "hacker_news",
+    "collected_at": "2026-07-17T09:54:57.287031+00:00",
+    "analyzed_at": "2026-07-17T09:54:57.287031+00:00",
+    "summary": "Article URL: https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings\nComments URL: https://news.ycombinator.com/item?id=48944252\nPoints: 4\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "JamesAdir",
+      "language": null
+    }
+  },
+  {
+    "id": "368e789d-c49d-48ba-af92-c8c7dc65fca1",
+    "title": "Chinese Nvidia alternatives project massive sales as AI chip demand surges",
+    "source_url": "https://www.scmp.com/tech/tech-trends/article/3360908/chinese-nvidia-alternatives-project-massive-sales-ai-chip-demand-surges",
+    "source": "hacker_news",
+    "collected_at": "2026-07-17T09:54:58.637606+00:00",
+    "analyzed_at": "2026-07-17T09:54:58.637606+00:00",
+    "summary": "Article URL: https://www.scmp.com/tech/tech-trends/article/3360908/chinese-nvidia-alternatives-project-massive-sales-ai-chip-demand-surges\nComments URL: https://news.ycombinator.com/item?id=48944178\nP",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "departed",
+      "language": null
+    }
+  },
+  {
+    "id": "949f6db6-1d9e-4324-855d-a941ce732825",
+    "title": "Z.ai Set to Be First China AI Firm with $1B Annual Sales",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-07-17/z-ai-set-to-be-first-china-ai-firm-with-1-billion-annual-sales",
+    "source": "hacker_news",
+    "collected_at": "2026-07-17T09:54:59.959080+00:00",
+    "analyzed_at": "2026-07-17T09:54:59.959080+00:00",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-17/z-ai-set-to-be-first-china-ai-firm-with-1-billion-annual-sales\nComments URL: https://news.ycombinator.com/item?id=48943902\nPoints: 6\n# C",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mfiguiere",
+      "language": null
+    }
+  },
+  {
+    "id": "aa6ccee7-6553-4bd2-a17c-32e47888e462",
+    "title": "AI helped me write every game I ever wanted to make",
+    "source_url": "https://boompop.games/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-17T09:55:01.282133+00:00",
+    "analyzed_at": "2026-07-17T09:55:01.282133+00:00",
+    "summary": "Article URL: https://boompop.games/\nComments URL: https://news.ycombinator.com/item?id=48943891\nPoints: 3\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jquave",
+      "language": null
+    }
+  }
+]

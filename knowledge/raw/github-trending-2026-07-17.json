@@ -1,0 +1,65 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-07-17T09:54:22.472206+00:00",
+  "items": [
+    {
+      "name": "tandpfun/wardrobe",
+      "url": "https://github.com/tandpfun/wardrobe",
+      "summary": "Your clothes, extracted and organized with gpt-image.",
+      "stars": 751,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "name": "PengZhang64/circuit-framework",
+      "url": "https://github.com/PengZhang64/circuit-framework",
+      "summary": "Circuit Framework — multi-agent LLM trading research system",
+      "stars": 421,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "Blueturboguy07/cue",
+      "url": "https://github.com/Blueturboguy07/cue",
+      "summary": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+      "stars": 393,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "name": "robinhood-ape/robinhood-sniper-bot",
+      "url": "https://github.com/robinhood-ape/robinhood-sniper-bot",
+      "summary": "NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss",
+      "stars": 254,
+      "language": "TypeScript",
+      "topics": [
+        "bot",
+        "noxa",
+        "noxa-fun",
+        "robinhood-chain",
+        "sniper-bot",
+        "trading-bot",
+        "typescript",
+        "uniswap-v3"
+      ]
+    },
+    {
+      "name": "robinhood-ape/robinhood-noxa-bundler",
+      "url": "https://github.com/robinhood-ape/robinhood-noxa-bundler",
+      "summary": "NOXA Fun multi-wallet launch bundler for Robinhood Chain - launch via NOXA factory then buy from many wallets on Uniswap V3 before public snipers",
+      "stars": 253,
+      "language": "TypeScript",
+      "topics": [
+        "bot",
+        "bundler",
+        "noxa",
+        "noxa-fun",
+        "robinhood-chain",
+        "token-launch",
+        "typescript",
+        "uniswap-v3"
+      ]
+    }
+  ]
+}
