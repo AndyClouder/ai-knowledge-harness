@@ -1,0 +1,128 @@
+[
+  {
+    "id": "38a3dad6-7d2a-4e0f-a177-26de6413628c",
+    "title": "nethical6/conversation-steganography",
+    "source_url": "https://github.com/nethical6/conversation-steganography",
+    "source": "unknown",
+    "collected_at": "2026-07-18T09:21:51.606601+00:00",
+    "analyzed_at": "2026-07-18T09:21:51.606601+00:00",
+    "summary": "Use LLMs to hide secret messages inside normal looking conversations",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 439,
+      "score": null,
+      "author": null,
+      "language": "Go"
+    }
+  },
+  {
+    "id": "b3d82c52-eae0-4791-a3c7-d5759629e4f1",
+    "title": "stackblitz/bolt-slides",
+    "source_url": "https://github.com/stackblitz/bolt-slides",
+    "source": "unknown",
+    "collected_at": "2026-07-18T09:21:52.896078+00:00",
+    "analyzed_at": "2026-07-18T09:21:52.896078+00:00",
+    "summary": "Use any agent to create stunning, interactive presentations",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 335,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "df03f4cf-68db-4b8a-a2a7-fa11560a5b24",
+    "title": "pyang5166/gbro-collage-broll",
+    "source_url": "https://github.com/pyang5166/gbro-collage-broll",
+    "source": "unknown",
+    "collected_at": "2026-07-18T09:21:54.185243+00:00",
+    "analyzed_at": "2026-07-18T09:21:54.185243+00:00",
+    "summary": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 312,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "4a260978-9ee2-44bf-8760-a75aab873e43",
+    "title": "HeiGeAi/heige-codex-skin-studio",
+    "source_url": "https://github.com/HeiGeAi/heige-codex-skin-studio",
+    "source": "unknown",
+    "collected_at": "2026-07-18T09:21:55.516188+00:00",
+    "analyzed_at": "2026-07-18T09:21:55.516188+00:00",
+    "summary": "给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Windows)",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 235,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "f78e6a29-dced-4ba9-8cec-183e4a3a3a88",
+    "title": "yuwen-cool/yuwen-publish-precheck",
+    "source_url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
+    "source": "unknown",
+    "collected_at": "2026-07-18T09:21:56.809636+00:00",
+    "analyzed_at": "2026-07-18T09:21:56.809636+00:00",
+    "summary": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 234,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "606eae6c-34ed-47b7-834c-e745dd6adbd8",
+    "title": "PromptPartner/agentsmith",
+    "source_url": "https://github.com/PromptPartner/agentsmith",
+    "source": "unknown",
+    "collected_at": "2026-07-18T09:21:58.101563+00:00",
+    "analyzed_at": "2026-07-18T09:21:58.101563+00:00",
+    "summary": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 231,
+      "score": null,
+      "author": null,
+      "language": "Shell"
+    }
+  }
+]

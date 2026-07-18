@@ -1,0 +1,105 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-07-18T09:21:44.754516+00:00",
+  "items": [
+    {
+      "name": "nethical6/conversation-steganography",
+      "url": "https://github.com/nethical6/conversation-steganography",
+      "summary": "Use LLMs to hide secret messages inside normal looking conversations",
+      "stars": 439,
+      "language": "Go",
+      "topics": [
+        "llm-tools",
+        "steganography"
+      ]
+    },
+    {
+      "name": "stackblitz/bolt-slides",
+      "url": "https://github.com/stackblitz/bolt-slides",
+      "summary": "Use any agent to create stunning, interactive presentations",
+      "stars": 335,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "pyang5166/gbro-collage-broll",
+      "url": "https://github.com/pyang5166/gbro-collage-broll",
+      "summary": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
+      "stars": 312,
+      "language": "Python",
+      "topics": [
+        "agent-skill",
+        "broll",
+        "gemini",
+        "paper-collage",
+        "video-generation"
+      ]
+    },
+    {
+      "name": "HeiGeAi/heige-codex-skin-studio",
+      "url": "https://github.com/HeiGeAi/heige-codex-skin-studio",
+      "summary": "给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Windows)",
+      "stars": 235,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skill",
+        "anime",
+        "chatgpt",
+        "codex",
+        "codex-desktop",
+        "customization",
+        "devtools-protocol",
+        "electron",
+        "hatsune-miku",
+        "macos",
+        "skin",
+        "theme",
+        "theme-switcher"
+      ]
+    },
+    {
+      "name": "yuwen-cool/yuwen-publish-precheck",
+      "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
+      "summary": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
+      "stars": 234,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "chinese",
+        "claude",
+        "content-compliance",
+        "cursor",
+        "douyin",
+        "wechat-channels",
+        "xiaohongshu"
+      ]
+    },
+    {
+      "name": "PromptPartner/agentsmith",
+      "url": "https://github.com/PromptPartner/agentsmith",
+      "summary": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
+      "stars": 231,
+      "language": "Shell",
+      "topics": [
+        "agentic-ai",
+        "agentic-coding",
+        "ai-agents",
+        "ai-tools",
+        "automation",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding-agent",
+        "developer-tools",
+        "gemini",
+        "llm",
+        "llm-agents",
+        "open-source",
+        "prompt-engineering",
+        "vibe-coding"
+      ]
+    }
+  ]
+}
