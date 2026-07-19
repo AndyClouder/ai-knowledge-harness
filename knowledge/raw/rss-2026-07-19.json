@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-07-19T09:49:30.154541+00:00",
+  "items": [
+    {
+      "name": "Using AI makes people less likely to admit they don't know something",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/19/using-ai-makes-people-less-likely-to-admit-they-dont-know-something/5274567",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/07/19/using-ai-makes-people-less-likely-to-admit-they-dont-know-something/5274567\nComments URL: https://news.ycombinator.com/item?id=48966435\nPo",
+      "source": "hacker_news",
+      "score": null,
+      "author": "defrost",
+      "published": "Sun, 19 Jul 2026 09:38:40 +0000"
+    },
+    {
+      "name": "Show HN: AI mock interview tool that scores your answers – free, no signup",
+      "url": "https://interviewpracticeai.com",
+      "summary": "Article URL: https://interviewpracticeai.com\nComments URL: https://news.ycombinator.com/item?id=48966198\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "BenGallagh",
+      "published": "Sun, 19 Jul 2026 08:58:14 +0000"
+    },
+    {
+      "name": "Show HN: Shikigami, run AI coding agents in parallel, each in a Git worktree",
+      "url": "https://shikigami.dev/",
+      "summary": "Hello all,I'm a software developer. Over the last few months more and more of my work has turned into using coding agents instead of typing the whole code myself. Usually a few claude sessions at once",
+      "source": "hacker_news",
+      "score": null,
+      "author": "igor_nast",
+      "published": "Sun, 19 Jul 2026 08:48:47 +0000"
+    },
+    {
+      "name": "Protester calls out Amazon CTO for allowing Israel to use their AI towards Gaza",
+      "url": "https://www.reddit.com/r/chaoticgood/s/4Pla2e38AV",
+      "summary": "Article URL: https://www.reddit.com/r/chaoticgood/s/4Pla2e38AV\nComments URL: https://news.ycombinator.com/item?id=48966039\nPoints: 6\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "trymas",
+      "published": "Sun, 19 Jul 2026 08:29:38 +0000"
+    },
+    {
+      "name": "Where I erred in my original post about Kimi and my views on open-weight AI",
+      "url": "https://twitter.com/deanwball/status/2078619513575137330",
+      "summary": "Article URL: https://twitter.com/deanwball/status/2078619513575137330\nComments URL: https://news.ycombinator.com/item?id=48966034\nPoints: 3\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "tosh",
+      "published": "Sun, 19 Jul 2026 08:29:16 +0000"
+    },
+    {
+      "name": "When China's open-source AI is a trap",
+      "url": "https://www.economist.com/international/2026/07/14/when-chinas-open-source-ai-is-a-trap",
+      "summary": "Article URL: https://www.economist.com/international/2026/07/14/when-chinas-open-source-ai-is-a-trap\nComments URL: https://news.ycombinator.com/item?id=48966026\nPoints: 5\n# Comments: 3",
+      "source": "hacker_news",
+      "score": null,
+      "author": "chvid",
+      "published": "Sun, 19 Jul 2026 08:27:03 +0000"
+    },
+    {
+      "name": "Perforce charges $500 for training training videos.. and it's AI narrated",
+      "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
+      "summary": "Article URL: https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic\nComments URL: https://news.ycombinator.com/item?id=48965886\nPoints: 12\n# Comments: 27",
+      "source": "hacker_news",
+      "score": null,
+      "author": "TZubiri",
+      "published": "Sun, 19 Jul 2026 08:00:24 +0000"
+    },
+    {
+      "name": "Reviewing AI Code Is Not a Viable Argument",
+      "url": "https://www.softwaremaxims.com/blog/reviewing-ai-code",
+      "summary": "Article URL: https://www.softwaremaxims.com/blog/reviewing-ai-code\nComments URL: https://news.ycombinator.com/item?id=48965817\nPoints: 5\n# Comments: 5",
+      "source": "hacker_news",
+      "score": null,
+      "author": "birdculture",
+      "published": "Sun, 19 Jul 2026 07:46:42 +0000"
+    },
+    {
+      "name": "Will AI Fix Prior Authorization – Or Make It Worse?",
+      "url": "https://undark.org/2026/07/15/medicare-prior-authorization-ai/",
+      "summary": "Article URL: https://undark.org/2026/07/15/medicare-prior-authorization-ai/\nComments URL: https://news.ycombinator.com/item?id=48965803\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "thm",
+      "published": "Sun, 19 Jul 2026 07:44:29 +0000"
+    },
+    {
+      "name": "Prodigy – AI Workforce for professional teams",
+      "url": "https://news.ycombinator.com/item?id=48965750",
+      "summary": "Hello folks! I am Samay, founder of Prodigy. We're building an AI infrastructure that provides on-demand subagents who work like autonomous teammates alongside your team.How are we any different?\n1. O",
+      "source": "hacker_news",
+      "score": null,
+      "author": "samayashar",
+      "published": "Sun, 19 Jul 2026 07:34:01 +0000"
+    },
+    {
+      "name": "AI Agents for the Working Mathematician",
+      "url": "https://chaoxu.prof/posts/2026-07-18-ai-agents-for-the-working-mathematician.html",
+      "summary": "Article URL: https://chaoxu.prof/posts/2026-07-18-ai-agents-for-the-working-mathematician.html\nComments URL: https://news.ycombinator.com/item?id=48965610\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "chaoxu",
+      "published": "Sun, 19 Jul 2026 06:59:24 +0000"
+    },
+    {
+      "name": "Ask HN: How do you as a normal swe use AI?",
+      "url": "https://news.ycombinator.com/item?id=48965516",
+      "summary": "So am looking for more normal people, experienced people using AI, but I feel like whenever I hit youtube or other platforms the AI culture is way deep in the trenches and don't feel like this is how ",
+      "source": "hacker_news",
+      "score": null,
+      "author": "atworkc",
+      "published": "Sun, 19 Jul 2026 06:35:29 +0000"
+    },
+    {
+      "name": "Study: AI Is Not Displacing Young Job Seekers (In Norway) – Yet",
+      "url": "https://norwegianscitechnews.com/2026/07/ai-is-not-displacing-young-job-seekers-yet/",
+      "summary": "Article URL: https://norwegianscitechnews.com/2026/07/ai-is-not-displacing-young-job-seekers-yet/\nComments URL: https://news.ycombinator.com/item?id=48965293\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "giuliomagnifico",
+      "published": "Sun, 19 Jul 2026 05:40:59 +0000"
+    },
+    {
+      "name": "AI for Systems is \"AGI-Complete\"",
+      "url": "https://dl.acm.org/doi/10.1145/3830422.3830425",
+      "summary": "Article URL: https://dl.acm.org/doi/10.1145/3830422.3830425\nComments URL: https://news.ycombinator.com/item?id=48965245\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "matt_d",
+      "published": "Sun, 19 Jul 2026 05:30:22 +0000"
+    },
+    {
+      "name": "Show HN: Zlvox – 25 Free Developer Tools (AI, JSON, PDF) with Zero Tracking",
+      "url": "https://zlvox.com/",
+      "summary": "Article URL: https://zlvox.com/\nComments URL: https://news.ycombinator.com/item?id=48965137\nPoints: 3\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "team_zlvox",
+      "published": "Sun, 19 Jul 2026 05:02:30 +0000"
+    },
+    {
+      "name": "Netflix Pays $587M for Ben Affleck's AI Startup InterPositive",
+      "url": "https://variety.com/2026/film/news/netflix-paid-587-million-ben-affleck-ai-interpositive-1236815111/",
+      "summary": "Article URL: https://variety.com/2026/film/news/netflix-paid-587-million-ben-affleck-ai-interpositive-1236815111/\nComments URL: https://news.ycombinator.com/item?id=48964935\nPoints: 3\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "OccamsMirror",
+      "published": "Sun, 19 Jul 2026 04:20:50 +0000"
+    },
+    {
+      "name": "Show HN - Online developer profiles with embedded AI hypeman",
+      "url": "https://engineerprofiles.com",
+      "summary": "Article URL: https://engineerprofiles.com\nComments URL: https://news.ycombinator.com/item?id=48964896\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "skellertor",
+      "published": "Sun, 19 Jul 2026 04:10:23 +0000"
+    },
+    {
+      "name": "Show HN: Wave – Talk to AI. Meet the human on the other side",
+      "url": "https://www.getonwave.com/",
+      "summary": "Article URL: https://www.getonwave.com/\nComments URL: https://news.ycombinator.com/item?id=48964876\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "nabil_idrissi",
+      "published": "Sun, 19 Jul 2026 04:05:20 +0000"
+    },
+    {
+      "name": "Disney Has Started Feeding Your Kids AI Slop",
+      "url": "https://kotaku.com/disney-has-started-feeding-your-kids-ai-slop-2000717222",
+      "summary": "Article URL: https://kotaku.com/disney-has-started-feeding-your-kids-ai-slop-2000717222\nComments URL: https://news.ycombinator.com/item?id=48964602\nPoints: 7\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "wslh",
+      "published": "Sun, 19 Jul 2026 03:02:52 +0000"
+    },
+    {
+      "name": "Lawyers risk being sued for failing to use AI",
+      "url": "https://www.legalcheek.com/2026/07/lawyers-risk-being-sued-for-failing-to-use-ai/",
+      "summary": "Article URL: https://www.legalcheek.com/2026/07/lawyers-risk-being-sued-for-failing-to-use-ai/\nComments URL: https://news.ycombinator.com/item?id=48964599\nPoints: 6\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Tomte",
+      "published": "Sun, 19 Jul 2026 03:01:55 +0000"
+    }
+  ]
+}

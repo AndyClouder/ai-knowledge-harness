@@ -1,0 +1,422 @@
+[
+  {
+    "id": "41c595be-c6f4-47c0-8405-a1f38acc598c",
+    "title": "MIgHTy-alIeN/Trading-Bot",
+    "source_url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
+    "source": "unknown",
+    "collected_at": "2026-07-19T09:49:32.930075+00:00",
+    "analyzed_at": "2026-07-19T09:49:32.930075+00:00",
+    "summary": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 349,
+      "score": null,
+      "author": null,
+      "language": "Solidity"
+    }
+  },
+  {
+    "id": "6a80f5d2-0067-4e12-bf6b-8d6921d6653d",
+    "title": "lopopolo/harness-engineering",
+    "source_url": "https://github.com/lopopolo/harness-engineering",
+    "source": "unknown",
+    "collected_at": "2026-07-19T09:49:34.269527+00:00",
+    "analyzed_at": "2026-07-19T09:49:34.269527+00:00",
+    "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 347,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "54328431-1acc-4d78-b752-898f4d1610d3",
+    "title": "v-modal/vmodal_sdk_flutter",
+    "source_url": "https://github.com/v-modal/vmodal_sdk_flutter",
+    "source": "unknown",
+    "collected_at": "2026-07-19T09:49:35.617334+00:00",
+    "analyzed_at": "2026-07-19T09:49:35.617334+00:00",
+    "summary": "V- Modal AI: Search anything anywhere SDK Flutter",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 331,
+      "score": null,
+      "author": null,
+      "language": "Dart"
+    }
+  },
+  {
+    "id": "f6a9d69a-d237-4849-8117-dbd90df40cef",
+    "title": "Icex0/wp2shell-poc",
+    "source_url": "https://github.com/Icex0/wp2shell-poc",
+    "source": "unknown",
+    "collected_at": "2026-07-19T09:49:36.936724+00:00",
+    "analyzed_at": "2026-07-19T09:49:36.936724+00:00",
+    "summary": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 278,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "70807164-9e74-4afe-a992-a60d174ab986",
+    "title": "thesysdev/appless",
+    "source_url": "https://github.com/thesysdev/appless",
+    "source": "unknown",
+    "collected_at": "2026-07-19T09:49:38.321176+00:00",
+    "analyzed_at": "2026-07-19T09:49:38.321176+00:00",
+    "summary": "What if your phone had no apps",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 253,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "b5c63aaa-61e1-4a70-80f2-a3dfe93a6348",
+    "title": "Using AI makes people less likely to admit they don't know something",
+    "source_url": "https://www.theregister.com/ai-and-ml/2026/07/19/using-ai-makes-people-less-likely-to-admit-they-dont-know-something/5274567",
+    "source": "hacker_news",
+    "collected_at": "2026-07-19T09:49:39.690465+00:00",
+    "analyzed_at": "2026-07-19T09:49:39.690465+00:00",
+    "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/07/19/using-ai-makes-people-less-likely-to-admit-they-dont-know-something/5274567\nComments URL: https://news.ycombinator.com/item?id=48966435\nPo",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "defrost",
+      "language": null
+    }
+  },
+  {
+    "id": "d2f232bd-2564-4c14-a1cf-b46b9b3a4722",
+    "title": "Show HN: AI mock interview tool that scores your answers – free, no signup",
+    "source_url": "https://interviewpracticeai.com",
+    "source": "hacker_news",
+    "collected_at": "2026-07-19T09:49:41.007571+00:00",
+    "analyzed_at": "2026-07-19T09:49:41.007571+00:00",
+    "summary": "Article URL: https://interviewpracticeai.com\nComments URL: https://news.ycombinator.com/item?id=48966198\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "BenGallagh",
+      "language": null
+    }
+  },
+  {
+    "id": "6dcc76fd-508d-4ebe-9cf2-395b99d4e277",
+    "title": "Show HN: Shikigami, run AI coding agents in parallel, each in a Git worktree",
+    "source_url": "https://shikigami.dev/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-19T09:49:42.328290+00:00",
+    "analyzed_at": "2026-07-19T09:49:42.328290+00:00",
+    "summary": "Hello all,I'm a software developer. Over the last few months more and more of my work has turned into using coding agents instead of typing the whole code myself. Usually a few claude sessions at once",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "igor_nast",
+      "language": null
+    }
+  },
+  {
+    "id": "d8b8db29-cd1d-4560-a5f1-6aea880f3cab",
+    "title": "Protester calls out Amazon CTO for allowing Israel to use their AI towards Gaza",
+    "source_url": "https://www.reddit.com/r/chaoticgood/s/4Pla2e38AV",
+    "source": "hacker_news",
+    "collected_at": "2026-07-19T09:49:43.712599+00:00",
+    "analyzed_at": "2026-07-19T09:49:43.712599+00:00",
+    "summary": "Article URL: https://www.reddit.com/r/chaoticgood/s/4Pla2e38AV\nComments URL: https://news.ycombinator.com/item?id=48966039\nPoints: 6\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "trymas",
+      "language": null
+    }
+  },
+  {
+    "id": "a6e5ee8e-6132-4b77-8d0b-6a8ee16ffd31",
+    "title": "Where I erred in my original post about Kimi and my views on open-weight AI",
+    "source_url": "https://twitter.com/deanwball/status/2078619513575137330",
+    "source": "hacker_news",
+    "collected_at": "2026-07-19T09:49:45.030289+00:00",
+    "analyzed_at": "2026-07-19T09:49:45.030289+00:00",
+    "summary": "Article URL: https://twitter.com/deanwball/status/2078619513575137330\nComments URL: https://news.ycombinator.com/item?id=48966034\nPoints: 3\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "tosh",
+      "language": null
+    }
+  },
+  {
+    "id": "0252df66-0798-46f1-bd2e-592ec47d3233",
+    "title": "When China's open-source AI is a trap",
+    "source_url": "https://www.economist.com/international/2026/07/14/when-chinas-open-source-ai-is-a-trap",
+    "source": "hacker_news",
+    "collected_at": "2026-07-19T09:49:46.347012+00:00",
+    "analyzed_at": "2026-07-19T09:49:46.347012+00:00",
+    "summary": "Article URL: https://www.economist.com/international/2026/07/14/when-chinas-open-source-ai-is-a-trap\nComments URL: https://news.ycombinator.com/item?id=48966026\nPoints: 5\n# Comments: 3",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "chvid",
+      "language": null
+    }
+  },
+  {
+    "id": "09999ce8-3663-432e-bf18-76187910eb73",
+    "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
+    "source_url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
+    "source": "hacker_news",
+    "collected_at": "2026-07-19T09:49:47.667264+00:00",
+    "analyzed_at": "2026-07-19T09:49:47.667264+00:00",
+    "summary": "Article URL: https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic\nComments URL: https://news.ycombinator.com/item?id=48965886\nPoints: 12\n# Comments: 27",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "TZubiri",
+      "language": null
+    }
+  },
+  {
+    "id": "ad22d51c-46c5-4dbd-a0f7-490ce953c8e1",
+    "title": "Reviewing AI Code Is Not a Viable Argument",
+    "source_url": "https://www.softwaremaxims.com/blog/reviewing-ai-code",
+    "source": "hacker_news",
+    "collected_at": "2026-07-19T09:49:48.986677+00:00",
+    "analyzed_at": "2026-07-19T09:49:48.986677+00:00",
+    "summary": "Article URL: https://www.softwaremaxims.com/blog/reviewing-ai-code\nComments URL: https://news.ycombinator.com/item?id=48965817\nPoints: 5\n# Comments: 5",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "birdculture",
+      "language": null
+    }
+  },
+  {
+    "id": "67a46e51-0c99-4a7c-a9cb-367208b84099",
+    "title": "Will AI Fix Prior Authorization – Or Make It Worse?",
+    "source_url": "https://undark.org/2026/07/15/medicare-prior-authorization-ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-19T09:49:50.308048+00:00",
+    "analyzed_at": "2026-07-19T09:49:50.308048+00:00",
+    "summary": "Article URL: https://undark.org/2026/07/15/medicare-prior-authorization-ai/\nComments URL: https://news.ycombinator.com/item?id=48965803\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "thm",
+      "language": null
+    }
+  },
+  {
+    "id": "3879410d-4be6-4f6f-a946-e90195ca3091",
+    "title": "Prodigy – AI Workforce for professional teams",
+    "source_url": "https://news.ycombinator.com/item?id=48965750",
+    "source": "hacker_news",
+    "collected_at": "2026-07-19T09:49:51.671869+00:00",
+    "analyzed_at": "2026-07-19T09:49:51.671869+00:00",
+    "summary": "Hello folks! I am Samay, founder of Prodigy. We're building an AI infrastructure that provides on-demand subagents who work like autonomous teammates alongside your team.How are we any different?\n1. O",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "samayashar",
+      "language": null
+    }
+  },
+  {
+    "id": "5469c00b-a67c-465d-bfce-b5d0f156ac9d",
+    "title": "AI Agents for the Working Mathematician",
+    "source_url": "https://chaoxu.prof/posts/2026-07-18-ai-agents-for-the-working-mathematician.html",
+    "source": "hacker_news",
+    "collected_at": "2026-07-19T09:49:53.057392+00:00",
+    "analyzed_at": "2026-07-19T09:49:53.057392+00:00",
+    "summary": "Article URL: https://chaoxu.prof/posts/2026-07-18-ai-agents-for-the-working-mathematician.html\nComments URL: https://news.ycombinator.com/item?id=48965610\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "chaoxu",
+      "language": null
+    }
+  },
+  {
+    "id": "045e3721-c83c-451a-bf1b-aceb0a210c26",
+    "title": "Ask HN: How do you as a normal swe use AI?",
+    "source_url": "https://news.ycombinator.com/item?id=48965516",
+    "source": "hacker_news",
+    "collected_at": "2026-07-19T09:49:54.374777+00:00",
+    "analyzed_at": "2026-07-19T09:49:54.374777+00:00",
+    "summary": "So am looking for more normal people, experienced people using AI, but I feel like whenever I hit youtube or other platforms the AI culture is way deep in the trenches and don't feel like this is how ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "atworkc",
+      "language": null
+    }
+  },
+  {
+    "id": "193da5bc-2e96-4915-8944-072af4b3400b",
+    "title": "Study: AI Is Not Displacing Young Job Seekers (In Norway) – Yet",
+    "source_url": "https://norwegianscitechnews.com/2026/07/ai-is-not-displacing-young-job-seekers-yet/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-19T09:49:55.761600+00:00",
+    "analyzed_at": "2026-07-19T09:49:55.761600+00:00",
+    "summary": "Article URL: https://norwegianscitechnews.com/2026/07/ai-is-not-displacing-young-job-seekers-yet/\nComments URL: https://news.ycombinator.com/item?id=48965293\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "giuliomagnifico",
+      "language": null
+    }
+  },
+  {
+    "id": "7d896271-8506-4482-8f29-f22a9ed2c731",
+    "title": "AI for Systems is \"AGI-Complete\"",
+    "source_url": "https://dl.acm.org/doi/10.1145/3830422.3830425",
+    "source": "hacker_news",
+    "collected_at": "2026-07-19T09:49:57.081996+00:00",
+    "analyzed_at": "2026-07-19T09:49:57.081996+00:00",
+    "summary": "Article URL: https://dl.acm.org/doi/10.1145/3830422.3830425\nComments URL: https://news.ycombinator.com/item?id=48965245\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "matt_d",
+      "language": null
+    }
+  },
+  {
+    "id": "c5a0655e-3949-4025-9c49-0f4f54cc64b3",
+    "title": "Show HN: Zlvox – 25 Free Developer Tools (AI, JSON, PDF) with Zero Tracking",
+    "source_url": "https://zlvox.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-19T09:49:58.401304+00:00",
+    "analyzed_at": "2026-07-19T09:49:58.401304+00:00",
+    "summary": "Article URL: https://zlvox.com/\nComments URL: https://news.ycombinator.com/item?id=48965137\nPoints: 3\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "team_zlvox",
+      "language": null
+    }
+  }
+]

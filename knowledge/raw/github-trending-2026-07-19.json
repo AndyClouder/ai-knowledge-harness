@@ -1,0 +1,65 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-07-19T09:49:14.527472+00:00",
+  "items": [
+    {
+      "name": "MIgHTy-alIeN/Trading-Bot",
+      "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
+      "summary": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+      "stars": 349,
+      "language": "Solidity",
+      "topics": [
+        "ai",
+        "aitradingbot",
+        "bot",
+        "btc",
+        "claude",
+        "eth",
+        "etherlab",
+        "mev",
+        "mevbots"
+      ]
+    },
+    {
+      "name": "lopopolo/harness-engineering",
+      "url": "https://github.com/lopopolo/harness-engineering",
+      "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+      "stars": 347,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "v-modal/vmodal_sdk_flutter",
+      "url": "https://github.com/v-modal/vmodal_sdk_flutter",
+      "summary": "V- Modal AI: Search anything anywhere SDK Flutter",
+      "stars": 331,
+      "language": "Dart",
+      "topics": []
+    },
+    {
+      "name": "Icex0/wp2shell-poc",
+      "url": "https://github.com/Icex0/wp2shell-poc",
+      "summary": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
+      "stars": 278,
+      "language": "Python",
+      "topics": [
+        "cve-2026-63030",
+        "wp2shell",
+        "wp2shell-poc"
+      ]
+    },
+    {
+      "name": "thesysdev/appless",
+      "url": "https://github.com/thesysdev/appless",
+      "summary": "What if your phone had no apps",
+      "stars": 253,
+      "language": "TypeScript",
+      "topics": [
+        "generative-ui",
+        "llm",
+        "react-native"
+      ]
+    }
+  ]
+}
