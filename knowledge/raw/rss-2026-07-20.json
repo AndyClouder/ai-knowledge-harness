@@ -1,0 +1,178 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-07-20T10:48:49.776068+00:00",
+  "items": [
+    {
+      "name": "Nightborne – A Neill Blomkamp Sci-Fi Film. AI (4K) [video]",
+      "url": "https://www.youtube.com/watch?v=8Wbtt2JxP7g",
+      "summary": "Article URL: https://www.youtube.com/watch?v=8Wbtt2JxP7g\nComments URL: https://news.ycombinator.com/item?id=48976964\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mxfh",
+      "published": "Mon, 20 Jul 2026 10:45:25 +0000"
+    },
+    {
+      "name": "Connect Your AI Agent to Any API in Plain English (No Code)",
+      "url": "https://quickchat.ai/post/connect-ai-agent-to-any-api",
+      "summary": "Article URL: https://quickchat.ai/post/connect-ai-agent-to-any-api\nComments URL: https://news.ycombinator.com/item?id=48976938\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "piotrgrudzien",
+      "published": "Mon, 20 Jul 2026 10:41:19 +0000"
+    },
+    {
+      "name": "An autonomous AI agent that sells its own API access via x402 payment protocol",
+      "url": "https://money-agent-production-a0a9.up.railway.app/api/summarize",
+      "summary": "Article URL: https://money-agent-production-a0a9.up.railway.app/api/summarize\nComments URL: https://news.ycombinator.com/item?id=48976841\nPoints: 1\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "TIMU619",
+      "published": "Mon, 20 Jul 2026 10:30:07 +0000"
+    },
+    {
+      "name": "AI-Native Companies Have Tiny Staffs and Fewer Bosses",
+      "url": "https://www.wsj.com/tech/ai/ai-companies-staffing-c9029343",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-companies-staffing-c9029343\nComments URL: https://news.ycombinator.com/item?id=48976754\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "bryan0",
+      "published": "Mon, 20 Jul 2026 10:20:36 +0000"
+    },
+    {
+      "name": "Show HN: I built a deterministic arena where AI agents fight using code",
+      "url": "https://www.agentduel.app/b/cru8E9nG",
+      "summary": "I have been interested in BattleBots and programming games for years.With recent AI coding agents, I wanted to see what happens if the strategy itself becomes code written by humans or AI.AgentDuel is",
+      "source": "hacker_news",
+      "score": null,
+      "author": "agentduel",
+      "published": "Mon, 20 Jul 2026 10:14:27 +0000"
+    },
+    {
+      "name": "Keeping teams on one AI harness",
+      "url": "https://baselane.sh/blog/keeping-teams-on-one-harness/",
+      "summary": "Article URL: https://baselane.sh/blog/keeping-teams-on-one-harness/\nComments URL: https://news.ycombinator.com/item?id=48976113\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mohammad0omar",
+      "published": "Mon, 20 Jul 2026 09:03:34 +0000"
+    },
+    {
+      "name": "VS Code Lets You Add Page Elements to Copilot, So I Built It for Any AI Agent",
+      "url": "https://medium.com/@marcbuilds/i-built-a-vs-code-extension-that-lets-you-click-a-web-page-element-and-paste-it-into-any-ai-chat-b60d2b424ff7",
+      "summary": "Article URL: https://medium.com/@marcbuilds/i-built-a-vs-code-extension-that-lets-you-click-a-web-page-element-and-paste-it-into-any-ai-chat-b60d2b424ff7\nComments URL: https://news.ycombinator.com/ite",
+      "source": "hacker_news",
+      "score": null,
+      "author": "MarcBuilds01",
+      "published": "Mon, 20 Jul 2026 08:48:05 +0000"
+    },
+    {
+      "name": "AI Data Center Power Constraints Are the Real 2026 Bottleneck",
+      "url": "https://www.spheron.network/blog/ai-data-center-power-constraints-2026/",
+      "summary": "Article URL: https://www.spheron.network/blog/ai-data-center-power-constraints-2026/\nComments URL: https://news.ycombinator.com/item?id=48975775\nPoints: 1\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "DaWe01",
+      "published": "Mon, 20 Jul 2026 08:26:08 +0000"
+    },
+    {
+      "name": "Topological Control of LLMs: A Route to Trustworthy AI",
+      "url": "https://cacm.acm.org/blogcacm/topological-control-of-llms-a-route-to-trustworthy-ai/",
+      "summary": "Article URL: https://cacm.acm.org/blogcacm/topological-control-of-llms-a-route-to-trustworthy-ai/\nComments URL: https://news.ycombinator.com/item?id=48975640\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "visha1v",
+      "published": "Mon, 20 Jul 2026 08:09:59 +0000"
+    },
+    {
+      "name": "The Dawn of AI Change-Control",
+      "url": "https://cacm.acm.org/news/the-dawn-of-ai-change-control/",
+      "summary": "Article URL: https://cacm.acm.org/news/the-dawn-of-ai-change-control/\nComments URL: https://news.ycombinator.com/item?id=48975633\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "visha1v",
+      "published": "Mon, 20 Jul 2026 08:09:30 +0000"
+    },
+    {
+      "name": "AI Watermark Evidence Fails Forensic Readiness: An Empirical Evaluation",
+      "url": "https://arxiv.org/abs/2607.16010",
+      "summary": "Article URL: https://arxiv.org/abs/2607.16010\nComments URL: https://news.ycombinator.com/item?id=48975221\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "sbulaev",
+      "published": "Mon, 20 Jul 2026 07:07:06 +0000"
+    },
+    {
+      "name": "I compared 5 AI coding subscriptions by pricing model and usage limits",
+      "url": "https://canopywave.com/blog/best-ai-coding-plans-2026-pricing-limits-use-cases",
+      "summary": "Article URL: https://canopywave.com/blog/best-ai-coding-plans-2026-pricing-limits-use-cases\nComments URL: https://news.ycombinator.com/item?id=48975179\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Rossmax",
+      "published": "Mon, 20 Jul 2026 06:59:11 +0000"
+    },
+    {
+      "name": "Notes from Inside China's AI Labs",
+      "url": "https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs",
+      "summary": "Article URL: https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs\nComments URL: https://news.ycombinator.com/item?id=48975136\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "hunglee2",
+      "published": "Mon, 20 Jul 2026 06:53:00 +0000"
+    },
+    {
+      "name": "NYC LL144 and EU AI Act Compliance Guides",
+      "url": "https://www.nyc144euaiact.com",
+      "summary": "Article URL: https://www.nyc144euaiact.com\nComments URL: https://news.ycombinator.com/item?id=48974973\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Haiec",
+      "published": "Mon, 20 Jul 2026 06:30:01 +0000"
+    },
+    {
+      "name": "What Is Agentic AI?",
+      "url": "https://www.hpc-ai.com/blog/What-Is-Agentic-AI",
+      "summary": "Article URL: https://www.hpc-ai.com/blog/What-Is-Agentic-AI\nComments URL: https://news.ycombinator.com/item?id=48974876\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "hpcaitech",
+      "published": "Mon, 20 Jul 2026 06:13:05 +0000"
+    },
+    {
+      "name": "Use AI Free – GUI, Web, CLI, Telegram, 2k MCP, 100K Skills",
+      "url": "https://news.ycombinator.com/item?id=48974761",
+      "summary": "Use AI free — Gui, Web, Cli, Telegram, 2,000 MCP, 100K Skills . LiteLLM (100+ providers), local models via Ollama, /lang in 34 languages, Mesa Redonda, voice, OCR, MemPalace, embedded sandbox OS.I wou",
+      "source": "hacker_news",
+      "score": null,
+      "author": "devdulus",
+      "published": "Mon, 20 Jul 2026 05:44:12 +0000"
+    },
+    {
+      "name": "AI with No Chatbox",
+      "url": "https://news.ycombinator.com/item?id=48974726",
+      "summary": "Hello, Ive built an ai that lives in your menu bar instead of a chat box. it has many different skills. Note taking up to three hours, a stock trading mode with 16 indicators included inside of it, a ",
+      "source": "hacker_news",
+      "score": null,
+      "author": "blacklabeltec",
+      "published": "Mon, 20 Jul 2026 05:38:21 +0000"
+    },
+    {
+      "name": "Show HN: A fast, free AI text humanizer powered by Groq Llama 3.3",
+      "url": "https://zlvox.com/tools/ai-humanizer",
+      "summary": "Article URL: https://zlvox.com/tools/ai-humanizer\nComments URL: https://news.ycombinator.com/item?id=48974544\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mraadikhokhar",
+      "published": "Mon, 20 Jul 2026 05:05:26 +0000"
+    },
+    {
+      "name": "Big tech needs to justify AI spending as investors dump stocks",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-19/big-tech-needs-to-justify-ai-spending-as-investors-dump-stocks",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-19/big-tech-needs-to-justify-ai-spending-as-investors-dump-stocks\nComments URL: https://news.ycombinator.com/item?id=48974426\nPoints: 40\n# ",
+      "source": "hacker_news",
+      "score": null,
+      "author": "1vuio0pswjnm7",
+      "published": "Mon, 20 Jul 2026 04:41:10 +0000"
+    }
+  ]
+}

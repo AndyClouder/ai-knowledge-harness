@@ -1,0 +1,43 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-07-20T10:48:37.378032+00:00",
+  "items": [
+    {
+      "name": "hoainho/img2threejs",
+      "url": "https://github.com/hoainho/img2threejs",
+      "summary": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+      "stars": 696,
+      "language": "Python",
+      "topics": [
+        "3d",
+        "ai-agents",
+        "claude-code",
+        "computer-graphics",
+        "generative",
+        "image-to-3d",
+        "procedural-generation",
+        "threejs",
+        "typescript",
+        "webgl"
+      ]
+    },
+    {
+      "name": "erickong/penecho",
+      "url": "https://github.com/erickong/penecho",
+      "summary": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
+      "stars": 366,
+      "language": "JavaScript",
+      "topics": [
+        "ai",
+        "canvas",
+        "claude",
+        "codex",
+        "education",
+        "handwriting",
+        "nodejs",
+        "visual-thinking"
+      ]
+    }
+  ]
+}

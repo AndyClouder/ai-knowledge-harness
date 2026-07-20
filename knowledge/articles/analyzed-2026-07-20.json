@@ -1,0 +1,422 @@
+[
+  {
+    "id": "33a76ce3-eb22-4500-9d79-2fdec2b915f8",
+    "title": "hoainho/img2threejs",
+    "source_url": "https://github.com/hoainho/img2threejs",
+    "source": "unknown",
+    "collected_at": "2026-07-20T10:48:51.949785+00:00",
+    "analyzed_at": "2026-07-20T10:48:51.949785+00:00",
+    "summary": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 696,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "5647af58-2f1d-429e-9352-323cea4421ed",
+    "title": "erickong/penecho",
+    "source_url": "https://github.com/erickong/penecho",
+    "source": "unknown",
+    "collected_at": "2026-07-20T10:48:53.278843+00:00",
+    "analyzed_at": "2026-07-20T10:48:53.278843+00:00",
+    "summary": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 366,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "9b0a5fa3-1781-4bf1-a5d6-7298ba736b4d",
+    "title": "Nightborne – A Neill Blomkamp Sci-Fi Film. AI (4K) [video]",
+    "source_url": "https://www.youtube.com/watch?v=8Wbtt2JxP7g",
+    "source": "hacker_news",
+    "collected_at": "2026-07-20T10:48:54.604611+00:00",
+    "analyzed_at": "2026-07-20T10:48:54.604611+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=8Wbtt2JxP7g\nComments URL: https://news.ycombinator.com/item?id=48976964\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mxfh",
+      "language": null
+    }
+  },
+  {
+    "id": "daf1571c-ba3d-459c-ac31-2fc008d77433",
+    "title": "Connect Your AI Agent to Any API in Plain English (No Code)",
+    "source_url": "https://quickchat.ai/post/connect-ai-agent-to-any-api",
+    "source": "hacker_news",
+    "collected_at": "2026-07-20T10:48:55.931164+00:00",
+    "analyzed_at": "2026-07-20T10:48:55.931164+00:00",
+    "summary": "Article URL: https://quickchat.ai/post/connect-ai-agent-to-any-api\nComments URL: https://news.ycombinator.com/item?id=48976938\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "piotrgrudzien",
+      "language": null
+    }
+  },
+  {
+    "id": "28c2baa0-137a-4091-90a5-4c9719aaad4c",
+    "title": "An autonomous AI agent that sells its own API access via x402 payment protocol",
+    "source_url": "https://money-agent-production-a0a9.up.railway.app/api/summarize",
+    "source": "hacker_news",
+    "collected_at": "2026-07-20T10:48:57.282620+00:00",
+    "analyzed_at": "2026-07-20T10:48:57.282620+00:00",
+    "summary": "Article URL: https://money-agent-production-a0a9.up.railway.app/api/summarize\nComments URL: https://news.ycombinator.com/item?id=48976841\nPoints: 1\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "TIMU619",
+      "language": null
+    }
+  },
+  {
+    "id": "0c92cae7-1531-4064-8d88-3db0614cff07",
+    "title": "AI-Native Companies Have Tiny Staffs and Fewer Bosses",
+    "source_url": "https://www.wsj.com/tech/ai/ai-companies-staffing-c9029343",
+    "source": "hacker_news",
+    "collected_at": "2026-07-20T10:48:58.611953+00:00",
+    "analyzed_at": "2026-07-20T10:48:58.611953+00:00",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/ai-companies-staffing-c9029343\nComments URL: https://news.ycombinator.com/item?id=48976754\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "bryan0",
+      "language": null
+    }
+  },
+  {
+    "id": "480818fe-e582-4169-8e94-517388487c1c",
+    "title": "Show HN: I built a deterministic arena where AI agents fight using code",
+    "source_url": "https://www.agentduel.app/b/cru8E9nG",
+    "source": "hacker_news",
+    "collected_at": "2026-07-20T10:48:59.939890+00:00",
+    "analyzed_at": "2026-07-20T10:48:59.939890+00:00",
+    "summary": "I have been interested in BattleBots and programming games for years.With recent AI coding agents, I wanted to see what happens if the strategy itself becomes code written by humans or AI.AgentDuel is",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "agentduel",
+      "language": null
+    }
+  },
+  {
+    "id": "6f41414e-4839-4680-982e-03c556ebf541",
+    "title": "Keeping teams on one AI harness",
+    "source_url": "https://baselane.sh/blog/keeping-teams-on-one-harness/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-20T10:49:01.266735+00:00",
+    "analyzed_at": "2026-07-20T10:49:01.266735+00:00",
+    "summary": "Article URL: https://baselane.sh/blog/keeping-teams-on-one-harness/\nComments URL: https://news.ycombinator.com/item?id=48976113\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mohammad0omar",
+      "language": null
+    }
+  },
+  {
+    "id": "6e4d550a-40dd-46ba-8f2a-c0d3689b4b13",
+    "title": "VS Code Lets You Add Page Elements to Copilot, So I Built It for Any AI Agent",
+    "source_url": "https://medium.com/@marcbuilds/i-built-a-vs-code-extension-that-lets-you-click-a-web-page-element-and-paste-it-into-any-ai-chat-b60d2b424ff7",
+    "source": "hacker_news",
+    "collected_at": "2026-07-20T10:49:02.595987+00:00",
+    "analyzed_at": "2026-07-20T10:49:02.595987+00:00",
+    "summary": "Article URL: https://medium.com/@marcbuilds/i-built-a-vs-code-extension-that-lets-you-click-a-web-page-element-and-paste-it-into-any-ai-chat-b60d2b424ff7\nComments URL: https://news.ycombinator.com/ite",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "MarcBuilds01",
+      "language": null
+    }
+  },
+  {
+    "id": "e9670eb5-05fa-4b11-8ebd-3b566dc3e3d1",
+    "title": "AI Data Center Power Constraints Are the Real 2026 Bottleneck",
+    "source_url": "https://www.spheron.network/blog/ai-data-center-power-constraints-2026/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-20T10:49:03.963643+00:00",
+    "analyzed_at": "2026-07-20T10:49:03.963643+00:00",
+    "summary": "Article URL: https://www.spheron.network/blog/ai-data-center-power-constraints-2026/\nComments URL: https://news.ycombinator.com/item?id=48975775\nPoints: 1\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "DaWe01",
+      "language": null
+    }
+  },
+  {
+    "id": "308e5a53-6f42-43ad-8147-02535663e832",
+    "title": "Topological Control of LLMs: A Route to Trustworthy AI",
+    "source_url": "https://cacm.acm.org/blogcacm/topological-control-of-llms-a-route-to-trustworthy-ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-20T10:49:05.289574+00:00",
+    "analyzed_at": "2026-07-20T10:49:05.289574+00:00",
+    "summary": "Article URL: https://cacm.acm.org/blogcacm/topological-control-of-llms-a-route-to-trustworthy-ai/\nComments URL: https://news.ycombinator.com/item?id=48975640\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "visha1v",
+      "language": null
+    }
+  },
+  {
+    "id": "3ecc61cd-6c95-460f-ae0f-2716d7985144",
+    "title": "The Dawn of AI Change-Control",
+    "source_url": "https://cacm.acm.org/news/the-dawn-of-ai-change-control/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-20T10:49:06.617411+00:00",
+    "analyzed_at": "2026-07-20T10:49:06.617411+00:00",
+    "summary": "Article URL: https://cacm.acm.org/news/the-dawn-of-ai-change-control/\nComments URL: https://news.ycombinator.com/item?id=48975633\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "visha1v",
+      "language": null
+    }
+  },
+  {
+    "id": "bc7bc24c-0b14-4a25-85b5-12bbe9bea79e",
+    "title": "AI Watermark Evidence Fails Forensic Readiness: An Empirical Evaluation",
+    "source_url": "https://arxiv.org/abs/2607.16010",
+    "source": "hacker_news",
+    "collected_at": "2026-07-20T10:49:07.948514+00:00",
+    "analyzed_at": "2026-07-20T10:49:07.948514+00:00",
+    "summary": "Article URL: https://arxiv.org/abs/2607.16010\nComments URL: https://news.ycombinator.com/item?id=48975221\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "sbulaev",
+      "language": null
+    }
+  },
+  {
+    "id": "1a824ef0-e8cb-4fbd-b838-74be8e97aff0",
+    "title": "I compared 5 AI coding subscriptions by pricing model and usage limits",
+    "source_url": "https://canopywave.com/blog/best-ai-coding-plans-2026-pricing-limits-use-cases",
+    "source": "hacker_news",
+    "collected_at": "2026-07-20T10:49:09.275294+00:00",
+    "analyzed_at": "2026-07-20T10:49:09.275294+00:00",
+    "summary": "Article URL: https://canopywave.com/blog/best-ai-coding-plans-2026-pricing-limits-use-cases\nComments URL: https://news.ycombinator.com/item?id=48975179\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Rossmax",
+      "language": null
+    }
+  },
+  {
+    "id": "fa16dd70-0491-4845-9b61-eb6c6df8fb6c",
+    "title": "Notes from Inside China's AI Labs",
+    "source_url": "https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs",
+    "source": "hacker_news",
+    "collected_at": "2026-07-20T10:49:10.603074+00:00",
+    "analyzed_at": "2026-07-20T10:49:10.603074+00:00",
+    "summary": "Article URL: https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs\nComments URL: https://news.ycombinator.com/item?id=48975136\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "hunglee2",
+      "language": null
+    }
+  },
+  {
+    "id": "de5deca8-da64-42c6-9257-e8c3bf4d9af4",
+    "title": "NYC LL144 and EU AI Act Compliance Guides",
+    "source_url": "https://www.nyc144euaiact.com",
+    "source": "hacker_news",
+    "collected_at": "2026-07-20T10:49:11.931926+00:00",
+    "analyzed_at": "2026-07-20T10:49:11.931926+00:00",
+    "summary": "Article URL: https://www.nyc144euaiact.com\nComments URL: https://news.ycombinator.com/item?id=48974973\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Haiec",
+      "language": null
+    }
+  },
+  {
+    "id": "c24b1717-310b-4b52-be20-d5b9b02d060f",
+    "title": "What Is Agentic AI?",
+    "source_url": "https://www.hpc-ai.com/blog/What-Is-Agentic-AI",
+    "source": "hacker_news",
+    "collected_at": "2026-07-20T10:49:13.257727+00:00",
+    "analyzed_at": "2026-07-20T10:49:13.257727+00:00",
+    "summary": "Article URL: https://www.hpc-ai.com/blog/What-Is-Agentic-AI\nComments URL: https://news.ycombinator.com/item?id=48974876\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "hpcaitech",
+      "language": null
+    }
+  },
+  {
+    "id": "1653add6-5012-495b-9167-2a31ec43fff3",
+    "title": "Use AI Free – GUI, Web, CLI, Telegram, 2k MCP, 100K Skills",
+    "source_url": "https://news.ycombinator.com/item?id=48974761",
+    "source": "hacker_news",
+    "collected_at": "2026-07-20T10:49:14.583734+00:00",
+    "analyzed_at": "2026-07-20T10:49:14.583734+00:00",
+    "summary": "Use AI free — Gui, Web, Cli, Telegram, 2,000 MCP, 100K Skills . LiteLLM (100+ providers), local models via Ollama, /lang in 34 languages, Mesa Redonda, voice, OCR, MemPalace, embedded sandbox OS.I wou",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "devdulus",
+      "language": null
+    }
+  },
+  {
+    "id": "8c8efc6d-0d40-4019-88e5-3ec9e9c68afd",
+    "title": "AI with No Chatbox",
+    "source_url": "https://news.ycombinator.com/item?id=48974726",
+    "source": "hacker_news",
+    "collected_at": "2026-07-20T10:49:15.915043+00:00",
+    "analyzed_at": "2026-07-20T10:49:15.915043+00:00",
+    "summary": "Hello, Ive built an ai that lives in your menu bar instead of a chat box. it has many different skills. Note taking up to three hours, a stock trading mode with 16 indicators included inside of it, a ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "blacklabeltec",
+      "language": null
+    }
+  },
+  {
+    "id": "c814242b-1d10-42fb-82b2-9467c46cdeb7",
+    "title": "Show HN: A fast, free AI text humanizer powered by Groq Llama 3.3",
+    "source_url": "https://zlvox.com/tools/ai-humanizer",
+    "source": "hacker_news",
+    "collected_at": "2026-07-20T10:49:17.242624+00:00",
+    "analyzed_at": "2026-07-20T10:49:17.242624+00:00",
+    "summary": "Article URL: https://zlvox.com/tools/ai-humanizer\nComments URL: https://news.ycombinator.com/item?id=48974544\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mraadikhokhar",
+      "language": null
+    }
+  }
+]
