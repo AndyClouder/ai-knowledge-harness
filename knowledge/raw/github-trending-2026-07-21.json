@@ -1,0 +1,77 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-07-21T10:22:52.089185+00:00",
+  "items": [
+    {
+      "name": "EthanXiang777/circuit-framework",
+      "url": "https://github.com/EthanXiang777/circuit-framework",
+      "summary": "Circuit Framework — multi-agent LLM trading research system",
+      "stars": 487,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "penecho/penecho",
+      "url": "https://github.com/penecho/penecho",
+      "summary": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
+      "stars": 418,
+      "language": "JavaScript",
+      "topics": [
+        "ai",
+        "canvas",
+        "claude",
+        "codex",
+        "education",
+        "handwriting",
+        "nodejs",
+        "visual-thinking"
+      ]
+    },
+    {
+      "name": "Blaizzy/nativ",
+      "url": "https://github.com/Blaizzy/nativ",
+      "summary": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
+      "stars": 400,
+      "language": "Swift",
+      "topics": []
+    },
+    {
+      "name": "smixs/pohuy",
+      "url": "https://github.com/smixs/pohuy",
+      "summary": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+",
+      "stars": 376,
+      "language": null,
+      "topics": []
+    },
+    {
+      "name": "arcships/light-ocr",
+      "url": "https://github.com/arcships/light-ocr",
+      "summary": "Fast, offline OCR for Node.js & C++. PP-OCRv6 with Core ML / WebGPU hardware acceleration — recognize text in images with confidence scores & coordinates. npm: @arcships/light-ocr",
+      "stars": 339,
+      "language": "C++",
+      "topics": [
+        "apple-silicon",
+        "computer-vision",
+        "coreml",
+        "cpp17",
+        "d3d12",
+        "image-processing",
+        "machine-learning",
+        "napi",
+        "native-addon",
+        "nodejs",
+        "nvidia",
+        "ocr",
+        "ocr-recognition",
+        "offline-ocr",
+        "paddleocr",
+        "ppocr",
+        "text-recognition",
+        "typescript",
+        "vulkan",
+        "webgpu"
+      ]
+    }
+  ]
+}
