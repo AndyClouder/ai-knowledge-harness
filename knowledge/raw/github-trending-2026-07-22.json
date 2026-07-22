@@ -1,0 +1,109 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-07-22T10:22:39.485556+00:00",
+  "items": [
+    {
+      "name": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
+      "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
+      "summary": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+      "stars": 739,
+      "language": "Solidity",
+      "topics": [
+        "ai",
+        "aitradingbot",
+        "bot",
+        "btc",
+        "claude",
+        "eth",
+        "etherlab",
+        "mev",
+        "mevbots"
+      ]
+    },
+    {
+      "name": "Vincentwei1021/video-shotcraft",
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "summary": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+      "stars": 477,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "ai-video",
+        "claude-code",
+        "claude-code-skills",
+        "claude-skills",
+        "codex",
+        "motion-design",
+        "motion-graphics",
+        "product-video",
+        "promo-video",
+        "remotion",
+        "video-generation",
+        "video-production"
+      ]
+    },
+    {
+      "name": "powerycy/goutoujunshi",
+      "url": "https://github.com/powerycy/goutoujunshi",
+      "summary": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+      "stars": 425,
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "chinese",
+        "codex",
+        "codex-skill",
+        "lgbtq",
+        "psychology",
+        "relationship-advice"
+      ]
+    },
+    {
+      "name": "KinetiNode/claude-fable-5-system-prompt-clean",
+      "url": "https://github.com/KinetiNode/claude-fable-5-system-prompt-clean",
+      "summary": "the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM",
+      "stars": 363,
+      "language": null,
+      "topics": []
+    },
+    {
+      "name": "0xsline/OpenChatCut",
+      "url": "https://github.com/0xsline/OpenChatCut",
+      "summary": "Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
+      "stars": 360,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "agentic-ai",
+        "ai-agent",
+        "ai-video-editor",
+        "claude-code",
+        "codex",
+        "electron",
+        "ffmpeg",
+        "generative-ai",
+        "glsl",
+        "local-first",
+        "mcp",
+        "model-context-protocol",
+        "react",
+        "remotion",
+        "timeline-editor",
+        "typescript",
+        "video-editing",
+        "video-editor",
+        "webgl"
+      ]
+    },
+    {
+      "name": "Jakubantalik/thinking-orbs",
+      "url": "https://github.com/Jakubantalik/thinking-orbs",
+      "summary": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "stars": 342,
+      "language": "TypeScript",
+      "topics": []
+    }
+  ]
+}
