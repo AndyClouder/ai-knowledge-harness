@@ -1,0 +1,74 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-07-23T10:19:38.442746+00:00",
+  "items": [
+    {
+      "name": "pireel/pireel",
+      "url": "https://github.com/pireel/pireel",
+      "summary": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
+      "stars": 589,
+      "language": "TypeScript",
+      "topics": [
+        "ai-video",
+        "capcut",
+        "captions",
+        "talking-head",
+        "video-editor"
+      ]
+    },
+    {
+      "name": "gnipbao/story-to-handdrawn-video",
+      "url": "https://github.com/gnipbao/story-to-handdrawn-video",
+      "summary": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
+      "stars": 482,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "name": "yc-duan/fastctx",
+      "url": "https://github.com/yc-duan/fastctx",
+      "summary": "Fast, context-efficient repository tools for AI agents (MCP)",
+      "stars": 375,
+      "language": "Rust",
+      "topics": []
+    },
+    {
+      "name": "Kritt-ai/open-kritt",
+      "url": "https://github.com/Kritt-ai/open-kritt",
+      "summary": "Orchestrate AI agents to find real vulnerabilities in code.",
+      "stars": 344,
+      "language": "JavaScript",
+      "topics": [
+        "agent",
+        "agents",
+        "ai",
+        "bug-bounty",
+        "bugbounty",
+        "bugbounty-tools",
+        "security",
+        "security-research"
+      ]
+    },
+    {
+      "name": "SeanJ1ang/design-judge-skills",
+      "url": "https://github.com/SeanJ1ang/design-judge-skills",
+      "summary": "Evidence-driven Agent Skills for design award research, evaluation, award matching, entry writing, and submission readiness.",
+      "stars": 270,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "codex",
+        "design-awards",
+        "design-evaluation",
+        "design-research",
+        "hermes-agent",
+        "industrial-design",
+        "openclaw",
+        "opencode",
+        "python"
+      ]
+    }
+  ]
+}

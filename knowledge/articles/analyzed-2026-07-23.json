@@ -1,0 +1,422 @@
+[
+  {
+    "id": "b9a6860e-60a8-4de7-b430-0f1f774e9574",
+    "title": "pireel/pireel",
+    "source_url": "https://github.com/pireel/pireel",
+    "source": "unknown",
+    "collected_at": "2026-07-23T10:19:44.081539+00:00",
+    "analyzed_at": "2026-07-23T10:19:44.081539+00:00",
+    "summary": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 589,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "cffb4451-4867-4d1b-8c97-cb1c676f6e31",
+    "title": "gnipbao/story-to-handdrawn-video",
+    "source_url": "https://github.com/gnipbao/story-to-handdrawn-video",
+    "source": "unknown",
+    "collected_at": "2026-07-23T10:19:45.344766+00:00",
+    "analyzed_at": "2026-07-23T10:19:45.344766+00:00",
+    "summary": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 482,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "7af2efba-02c8-49db-8633-d1f952b3b60a",
+    "title": "yc-duan/fastctx",
+    "source_url": "https://github.com/yc-duan/fastctx",
+    "source": "unknown",
+    "collected_at": "2026-07-23T10:19:46.604979+00:00",
+    "analyzed_at": "2026-07-23T10:19:46.604979+00:00",
+    "summary": "Fast, context-efficient repository tools for AI agents (MCP)",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 375,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "74edbb6b-6f67-46e5-b4eb-e55105bda08a",
+    "title": "Kritt-ai/open-kritt",
+    "source_url": "https://github.com/Kritt-ai/open-kritt",
+    "source": "unknown",
+    "collected_at": "2026-07-23T10:19:47.864492+00:00",
+    "analyzed_at": "2026-07-23T10:19:47.864492+00:00",
+    "summary": "Orchestrate AI agents to find real vulnerabilities in code.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 344,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "61815bbd-190d-481d-96f8-861cd24e12fb",
+    "title": "SeanJ1ang/design-judge-skills",
+    "source_url": "https://github.com/SeanJ1ang/design-judge-skills",
+    "source": "unknown",
+    "collected_at": "2026-07-23T10:19:49.149753+00:00",
+    "analyzed_at": "2026-07-23T10:19:49.149753+00:00",
+    "summary": "Evidence-driven Agent Skills for design award research, evaluation, award matching, entry writing, and submission readiness.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 270,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "e0a42d84-e703-4721-9855-35e93e922c1b",
+    "title": "The first known runaway AI agent – or a bad marketing stunt?",
+    "source_url": "https://martinalderson.com/posts/huggingface-openai-exploit/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-23T10:19:50.408587+00:00",
+    "analyzed_at": "2026-07-23T10:19:50.408587+00:00",
+    "summary": "Article URL: https://martinalderson.com/posts/huggingface-openai-exploit/\nComments URL: https://news.ycombinator.com/item?id=49019294\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "martinald",
+      "language": null
+    }
+  },
+  {
+    "id": "157226c3-d67d-4bb8-984c-c77e40d34266",
+    "title": "Which is the best AI powered platform in 2026?",
+    "source_url": "https://news.ycombinator.com/item?id=49019265",
+    "source": "hacker_news",
+    "collected_at": "2026-07-23T10:19:51.670082+00:00",
+    "analyzed_at": "2026-07-23T10:19:51.670082+00:00",
+    "summary": "what do you think? i have explored many bi platform and found a unique but new product called analytify ai which helps business leaders and data analysts to analyze there data and make better decision",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "analytifyai",
+      "language": null
+    }
+  },
+  {
+    "id": "2a1d7cac-a95b-4683-a6d7-8cd438d52580",
+    "title": "ZaGuu – an arena where AI agents play negotiation games and build identities",
+    "source_url": "https://news.ycombinator.com/item?id=49019165",
+    "source": "hacker_news",
+    "collected_at": "2026-07-23T10:19:52.927639+00:00",
+    "analyzed_at": "2026-07-23T10:19:52.927639+00:00",
+    "summary": "I built ZaGuu, an arena where AI agents play strategy games, negotiate, cooperate, betray, and build public records.The first game is Bank Heist, a Split-or-Steal style game where agents negotiate bef",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "olllo",
+      "language": null
+    }
+  },
+  {
+    "id": "0a6cc2a8-d2b4-4df2-93f5-f5299504169e",
+    "title": "Microsoft to fund Mistral's European AI expansion in multibillion-dollar deal",
+    "source_url": "https://www.reuters.com/business/microsoft-fund-mistrals-european-ai-expansion-multibillion-dollar-deal-2026-07-21/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-23T10:19:54.186612+00:00",
+    "analyzed_at": "2026-07-23T10:19:54.186612+00:00",
+    "summary": "Article URL: https://www.reuters.com/business/microsoft-fund-mistrals-european-ai-expansion-multibillion-dollar-deal-2026-07-21/\nComments URL: https://news.ycombinator.com/item?id=49019132\nPoints: 1\n#",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "VWWHFSfQ",
+      "language": null
+    }
+  },
+  {
+    "id": "9a218d34-a4a2-43a3-bb13-8ab208f205ca",
+    "title": "Code review: slapping an AI reviewer on top of an AI author doesn't cut it",
+    "source_url": "https://blog.codacy.com/ai-code-review-is-not-enough-how-engineering-leaders-should-gate-ai-generated-code",
+    "source": "hacker_news",
+    "collected_at": "2026-07-23T10:19:55.474071+00:00",
+    "analyzed_at": "2026-07-23T10:19:55.474071+00:00",
+    "summary": "Article URL: https://blog.codacy.com/ai-code-review-is-not-enough-how-engineering-leaders-should-gate-ai-generated-code\nComments URL: https://news.ycombinator.com/item?id=49018840\nPoints: 3\n# Comments",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ARayOutOfBounds",
+      "language": null
+    }
+  },
+  {
+    "id": "3bb8c547-3523-4934-aeb8-96e7eec8bae5",
+    "title": "Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization",
+    "source_url": "https://blogs.cisco.com/ai/introducing-antares-the-most-efficient-open-weight-ai-models-for-vulnerability-localization",
+    "source": "hacker_news",
+    "collected_at": "2026-07-23T10:19:56.736455+00:00",
+    "analyzed_at": "2026-07-23T10:19:56.736455+00:00",
+    "summary": "Article URL: https://blogs.cisco.com/ai/introducing-antares-the-most-efficient-open-weight-ai-models-for-vulnerability-localization\nComments URL: https://news.ycombinator.com/item?id=49018614\nPoints: ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "shallow-mind",
+      "language": null
+    }
+  },
+  {
+    "id": "f60204e3-1666-4f89-9a4d-205e738a78f9",
+    "title": "Show HN: Loop me in - Get looped into people's chats with AI. Help out. Get paid",
+    "source_url": "https://www.loopmein.ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-23T10:19:57.996831+00:00",
+    "analyzed_at": "2026-07-23T10:19:57.996831+00:00",
+    "summary": "The idea is simple: an expert human, brought in at the right time and with the right context can help you achieve much better results with AI.Loop Me In is the piping to make that happen instantly, ri",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "guico",
+      "language": null
+    }
+  },
+  {
+    "id": "476c5192-f535-41e7-8e06-3bef57335d35",
+    "title": "The Indie Hacker in the Age of AI: Renaissance, Reckoning, or Both?",
+    "source_url": "https://thinkapedia.com/t/tk_dHo0EZsbg46G/document",
+    "source": "hacker_news",
+    "collected_at": "2026-07-23T10:19:59.260168+00:00",
+    "analyzed_at": "2026-07-23T10:19:59.260168+00:00",
+    "summary": "Article URL: https://thinkapedia.com/t/tk_dHo0EZsbg46G/document\nComments URL: https://news.ycombinator.com/item?id=49018436\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "chancedurham",
+      "language": null
+    }
+  },
+  {
+    "id": "fdad3457-a371-465f-8e09-0b37f33041ea",
+    "title": "AI Slop: Why Philosophy Journals Should Reject AI-Written Prose",
+    "source_url": "http://schwitzsplinters.blogspot.com/2026/07/ai-slop-and-evidence-about-evidence-why.html",
+    "source": "hacker_news",
+    "collected_at": "2026-07-23T10:20:00.519850+00:00",
+    "analyzed_at": "2026-07-23T10:20:00.519850+00:00",
+    "summary": "Article URL: http://schwitzsplinters.blogspot.com/2026/07/ai-slop-and-evidence-about-evidence-why.html\nComments URL: https://news.ycombinator.com/item?id=49018380\nPoints: 6\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Alien1Being",
+      "language": null
+    }
+  },
+  {
+    "id": "4b250b79-6464-4255-b70a-e5546141ff10",
+    "title": "Founders OS – open-source MCP server that gives AI your business context",
+    "source_url": "https://www.foundersmcp.com",
+    "source": "hacker_news",
+    "collected_at": "2026-07-23T10:20:01.780134+00:00",
+    "analyzed_at": "2026-07-23T10:20:01.780134+00:00",
+    "summary": "Article URL: https://www.foundersmcp.com\nComments URL: https://news.ycombinator.com/item?id=49018348\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ourthinktank",
+      "language": null
+    }
+  },
+  {
+    "id": "77dd36b0-9f59-4e30-a82c-22b0028a1a58",
+    "title": "AI Agents Don't Respect Font Licenses",
+    "source_url": "https://www.mixfont.com/blog/ai-agents-dont-respect-font-licenses",
+    "source": "hacker_news",
+    "collected_at": "2026-07-23T10:20:03.080688+00:00",
+    "analyzed_at": "2026-07-23T10:20:03.080688+00:00",
+    "summary": "Article URL: https://www.mixfont.com/blog/ai-agents-dont-respect-font-licenses\nComments URL: https://news.ycombinator.com/item?id=49018334\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "justswim",
+      "language": null
+    }
+  },
+  {
+    "id": "06931652-16c2-4d3f-84de-a5f300e4fe81",
+    "title": "BrainStem: Open‑source bio‑inspired AI with 12 neuromodulators for learning",
+    "source_url": "https://github.com/unikum-sol/brainstem",
+    "source": "hacker_news",
+    "collected_at": "2026-07-23T10:20:04.341882+00:00",
+    "analyzed_at": "2026-07-23T10:20:04.341882+00:00",
+    "summary": "Article URL: https://github.com/unikum-sol/brainstem\nComments URL: https://news.ycombinator.com/item?id=49018280\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Unikum-Sol",
+      "language": null
+    }
+  },
+  {
+    "id": "de59abdf-7ac0-4a1b-a18e-a1cbc8c8b477",
+    "title": "Generative AI and the German Far Right: Narratives, Tactics, Digital Strategies [pdf]",
+    "source_url": "https://www.isdglobal.org/wp-content/uploads/2025/02/The-use-of-generative-AI-by-the-German-Far-Right.pdf",
+    "source": "hacker_news",
+    "collected_at": "2026-07-23T10:20:05.601989+00:00",
+    "analyzed_at": "2026-07-23T10:20:05.601989+00:00",
+    "summary": "Article URL: https://www.isdglobal.org/wp-content/uploads/2025/02/The-use-of-generative-AI-by-the-German-Far-Right.pdf\nComments URL: https://news.ycombinator.com/item?id=49018265\nPoints: 3\n# Comments:",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "vrganj",
+      "language": null
+    }
+  },
+  {
+    "id": "f018f9d6-06a1-47a6-8cfd-506398d7ee06",
+    "title": "Why the US is losing Chinese AI stars",
+    "source_url": "https://www.ft.com/content/0c773366-61a2-4d33-894e-6b3ddfcfd9b3",
+    "source": "hacker_news",
+    "collected_at": "2026-07-23T10:20:06.863903+00:00",
+    "analyzed_at": "2026-07-23T10:20:06.863903+00:00",
+    "summary": "Article URL: https://www.ft.com/content/0c773366-61a2-4d33-894e-6b3ddfcfd9b3\nComments URL: https://news.ycombinator.com/item?id=49018203\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "chewz",
+      "language": null
+    }
+  },
+  {
+    "id": "ebdb204f-2cfd-4bfb-9d00-5ff87fcbecb4",
+    "title": "AI Firewall – Security Gateway and Reverse Proxy for LLM Traffic",
+    "source_url": "https://github.com/bossandboss/Ai-Firewall",
+    "source": "hacker_news",
+    "collected_at": "2026-07-23T10:20:08.125617+00:00",
+    "analyzed_at": "2026-07-23T10:20:08.125617+00:00",
+    "summary": "Article URL: https://github.com/bossandboss/Ai-Firewall\nComments URL: https://news.ycombinator.com/item?id=49018165\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "bossandboss",
+      "language": null
+    }
+  }
+]
