@@ -1,0 +1,422 @@
+[
+  {
+    "id": "d18559f7-4f9c-4d0f-b426-46dcf231776a",
+    "title": "KlaatAI/klaatcode",
+    "source_url": "https://github.com/KlaatAI/klaatcode",
+    "source": "unknown",
+    "collected_at": "2026-07-24T10:13:58.008139+00:00",
+    "analyzed_at": "2026-07-24T10:13:58.008139+00:00",
+    "summary": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & m",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 281,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "8ce945bc-865a-4bd1-a256-c92aafa3d4f8",
+    "title": "realfishsam/agent-notch",
+    "source_url": "https://github.com/realfishsam/agent-notch",
+    "source": "unknown",
+    "collected_at": "2026-07-24T10:13:59.313233+00:00",
+    "analyzed_at": "2026-07-24T10:13:59.313233+00:00",
+    "summary": "The open-source alternative to vibe-island",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 263,
+      "score": null,
+      "author": null,
+      "language": "Swift"
+    }
+  },
+  {
+    "id": "68030034-a098-49a9-aece-2e1422b5d1a4",
+    "title": "joeseesun/qiaomu-cut-skill",
+    "source_url": "https://github.com/joeseesun/qiaomu-cut-skill",
+    "source": "unknown",
+    "collected_at": "2026-07-24T10:14:00.616334+00:00",
+    "analyzed_at": "2026-07-24T10:14:00.616334+00:00",
+    "summary": "乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 263,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "eae550ce-e968-4f45-a500-79c1240f20cd",
+    "title": "RinDig/icm-architect",
+    "source_url": "https://github.com/RinDig/icm-architect",
+    "source": "unknown",
+    "collected_at": "2026-07-24T10:14:01.918127+00:00",
+    "analyzed_at": "2026-07-24T10:14:01.918127+00:00",
+    "summary": "Claude skill: design any process, idea, or problem into an ICM workspace (folder structure as agent architecture), or restructure an existing folder into one",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 248,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "99485bc5-7be3-40ea-b268-a9babee9b1c5",
+    "title": "OpenBMB/MiniCPM-Robot",
+    "source_url": "https://github.com/OpenBMB/MiniCPM-Robot",
+    "source": "unknown",
+    "collected_at": "2026-07-24T10:14:03.224245+00:00",
+    "analyzed_at": "2026-07-24T10:14:03.224245+00:00",
+    "summary": "A Smarter and Faster On-Device AI Brain for Robots",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 238,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "1da39364-4778-41f8-82cf-2544dd14450d",
+    "title": "Round-Trip Correctness: A New Metric for Generative AI-Based Process Modeling",
+    "source_url": "https://community.sap.com/t5/technology-blog-posts-by-sap/round-trip-correctness-a-new-metric-for-generative-ai-based-process/ba-p/14091979",
+    "source": "hacker_news",
+    "collected_at": "2026-07-24T10:14:04.534106+00:00",
+    "analyzed_at": "2026-07-24T10:14:04.534106+00:00",
+    "summary": "Article URL: https://community.sap.com/t5/technology-blog-posts-by-sap/round-trip-correctness-a-new-metric-for-generative-ai-based-process/ba-p/14091979\nComments URL: https://news.ycombinator.com/item",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rramadass",
+      "language": null
+    }
+  },
+  {
+    "id": "cfacd382-a03f-4cab-9e25-c05faaf89c77",
+    "title": "Show HN: Transept: AI translation workspace that puts humans first",
+    "source_url": "https://transept.ai",
+    "source": "hacker_news",
+    "collected_at": "2026-07-24T10:14:05.838211+00:00",
+    "analyzed_at": "2026-07-24T10:14:05.838211+00:00",
+    "summary": "Article URL: https://transept.ai\nComments URL: https://news.ycombinator.com/item?id=49033237\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "sithamet",
+      "language": null
+    }
+  },
+  {
+    "id": "3841ba19-c105-4517-8420-439528bc8527",
+    "title": "I'm So Tired of \"Is This AI?\"",
+    "source_url": "https://www.trend-mill.com/p/im-so-tired-of-is-this-ai",
+    "source": "hacker_news",
+    "collected_at": "2026-07-24T10:14:07.142110+00:00",
+    "analyzed_at": "2026-07-24T10:14:07.142110+00:00",
+    "summary": "Article URL: https://www.trend-mill.com/p/im-so-tired-of-is-this-ai\nComments URL: https://news.ycombinator.com/item?id=49033194\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "moomoy",
+      "language": null
+    }
+  },
+  {
+    "id": "09274d49-c0c3-444a-b218-5d837bb3bec4",
+    "title": "Grok muscles into Excel with an AI add-in of its own",
+    "source_url": "https://www.theregister.com/ai-and-ml/2026/07/22/grok-muscles-into-excel-with-an-ai-add-in-of-its-own/5276138",
+    "source": "hacker_news",
+    "collected_at": "2026-07-24T10:14:08.449431+00:00",
+    "analyzed_at": "2026-07-24T10:14:08.449431+00:00",
+    "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/07/22/grok-muscles-into-excel-with-an-ai-add-in-of-its-own/5276138\nComments URL: https://news.ycombinator.com/item?id=49033015\nPoints: 2\n# Comme",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "beardyw",
+      "language": null
+    }
+  },
+  {
+    "id": "963ec44e-a066-4c2d-95be-fc2ccc2e059d",
+    "title": "Kitboga manipulates AI scam call into hallucination",
+    "source_url": "https://www.youtube.com/watch?v=lk3jCuITwcE",
+    "source": "hacker_news",
+    "collected_at": "2026-07-24T10:14:09.753519+00:00",
+    "analyzed_at": "2026-07-24T10:14:09.753519+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=lk3jCuITwcE\nComments URL: https://news.ycombinator.com/item?id=49032875\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "platevoltage",
+      "language": null
+    }
+  },
+  {
+    "id": "6ab83eb4-5e76-4a6f-9dea-b4197b9d3640",
+    "title": "AI-first development: Stories as a source of truth - by toby [video]",
+    "source_url": "https://www.youtube.com/watch?v=1YoP7u_rqgQ",
+    "source": "hacker_news",
+    "collected_at": "2026-07-24T10:14:11.084053+00:00",
+    "analyzed_at": "2026-07-24T10:14:11.084053+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=1YoP7u_rqgQ\nComments URL: https://news.ycombinator.com/item?id=49032792\nPoints: 3\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "puuush",
+      "language": null
+    }
+  },
+  {
+    "id": "a6a228a3-debc-4214-8a41-1aa971184a83",
+    "title": "Hive_review: Multi-agent AI code-review loop",
+    "source_url": "https://github.com/metacircu1ar/hive_review",
+    "source": "hacker_news",
+    "collected_at": "2026-07-24T10:14:12.416711+00:00",
+    "analyzed_at": "2026-07-24T10:14:12.416711+00:00",
+    "summary": "Article URL: https://github.com/metacircu1ar/hive_review\nComments URL: https://news.ycombinator.com/item?id=49032722\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "metacircu1ar",
+      "language": null
+    }
+  },
+  {
+    "id": "4fbb6bf5-0ad7-4c36-b2f3-fdf8d6cf1676",
+    "title": "AI, Rockets, and the Return of Hard Contracts (Part I)",
+    "source_url": "https://noumena.com/essays/the-engine-shop-part-1/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-24T10:14:13.852374+00:00",
+    "analyzed_at": "2026-07-24T10:14:13.852374+00:00",
+    "summary": "Article URL: https://noumena.com/essays/the-engine-shop-part-1/\nComments URL: https://news.ycombinator.com/item?id=49032658\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "handfuloflight",
+      "language": null
+    }
+  },
+  {
+    "id": "2d15263c-6dee-4a0b-a59d-b9ba3f3cf0aa",
+    "title": "Naming a pattern in AI-generated code: Modular Mirage",
+    "source_url": "https://news.ycombinator.com/item?id=49032468",
+    "source": "hacker_news",
+    "collected_at": "2026-07-24T10:14:15.156108+00:00",
+    "analyzed_at": "2026-07-24T10:14:15.156108+00:00",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=49032468\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ErsanG",
+      "language": null
+    }
+  },
+  {
+    "id": "64ca00e0-97a0-45f4-92d7-6a72dd00b87e",
+    "title": "Oracle severed 21,000 employees during an AI spending spree",
+    "source_url": "https://finance.yahoo.com/technology/ai/articles/oracle-severed-21-000-employees-114500493.html",
+    "source": "hacker_news",
+    "collected_at": "2026-07-24T10:14:16.485252+00:00",
+    "analyzed_at": "2026-07-24T10:14:16.485252+00:00",
+    "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/oracle-severed-21-000-employees-114500493.html\nComments URL: https://news.ycombinator.com/item?id=49032388\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "taubek",
+      "language": null
+    }
+  },
+  {
+    "id": "d7a8c743-32e7-4c8a-a448-02740765586f",
+    "title": "HN: FlowShelf –free,native macOS shelf/clipboard/screenshot app,on-device AI",
+    "source_url": "https://flowshelf.app/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-24T10:14:17.789414+00:00",
+    "analyzed_at": "2026-07-24T10:14:17.789414+00:00",
+    "summary": "Article URL: https://flowshelf.app/\nComments URL: https://news.ycombinator.com/item?id=49032306\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "abukadery",
+      "language": null
+    }
+  },
+  {
+    "id": "377f811e-ed0b-4b82-8c25-ea78cc9849ae",
+    "title": "AI Overviews could push Reddit to end its $60M-a-year deal with Google",
+    "source_url": "https://www.neowin.net/news/ai-overviews-could-push-reddit-to-end-its-60-million-a-year-deal-with-google/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-24T10:14:19.092802+00:00",
+    "analyzed_at": "2026-07-24T10:14:19.092802+00:00",
+    "summary": "Article URL: https://www.neowin.net/news/ai-overviews-could-push-reddit-to-end-its-60-million-a-year-deal-with-google/\nComments URL: https://news.ycombinator.com/item?id=49032246\nPoints: 6\n# Comments:",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "01-_-",
+      "language": null
+    }
+  },
+  {
+    "id": "2d7ce3f5-bb9d-4953-a1d4-50b75157d742",
+    "title": "Show HN: Jharu – Open-Source AI and Dev Junk Cleaner for Mac and PC",
+    "source_url": "https://github.com/riponcm/Jharu",
+    "source": "hacker_news",
+    "collected_at": "2026-07-24T10:14:20.395044+00:00",
+    "analyzed_at": "2026-07-24T10:14:20.395044+00:00",
+    "summary": "Article URL: https://github.com/riponcm/Jharu\nComments URL: https://news.ycombinator.com/item?id=49032227\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "riponcm",
+      "language": null
+    }
+  },
+  {
+    "id": "7cd88d4a-6049-44a1-b964-8b2b8eaf93da",
+    "title": "On AI",
+    "source_url": "https://jcs.org/2026/07/23/ai",
+    "source": "hacker_news",
+    "collected_at": "2026-07-24T10:14:21.699140+00:00",
+    "analyzed_at": "2026-07-24T10:14:21.699140+00:00",
+    "summary": "Article URL: https://jcs.org/2026/07/23/ai\nComments URL: https://news.ycombinator.com/item?id=49032212\nPoints: 4\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ingve",
+      "language": null
+    }
+  },
+  {
+    "id": "e08c888c-e76f-4b54-bfff-3e99c37a2ca6",
+    "title": "Show HN: Continuum – switch AI coding agents without re-explaining your project",
+    "source_url": "https://github.com/AnasNafees1802/continuum",
+    "source": "hacker_news",
+    "collected_at": "2026-07-24T10:14:23.003300+00:00",
+    "analyzed_at": "2026-07-24T10:14:23.003300+00:00",
+    "summary": "Article URL: https://github.com/AnasNafees1802/continuum\nComments URL: https://news.ycombinator.com/item?id=49032115\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "AnasNafees101",
+      "language": null
+    }
+  }
+]

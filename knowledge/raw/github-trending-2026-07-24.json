@@ -1,0 +1,75 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-07-24T10:13:25.904508+00:00",
+  "items": [
+    {
+      "name": "KlaatAI/klaatcode",
+      "url": "https://github.com/KlaatAI/klaatcode",
+      "summary": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & m",
+      "stars": 281,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "ai",
+        "ai-agents",
+        "ai-coding",
+        "ai-model",
+        "ai-tools",
+        "artificial-intelligence",
+        "calude-code",
+        "claude",
+        "cli",
+        "code-generation",
+        "coding-agent",
+        "deepseek",
+        "klaatai",
+        "llm",
+        "open-source",
+        "openai",
+        "openclaw",
+        "pair-programming",
+        "terminal"
+      ]
+    },
+    {
+      "name": "realfishsam/agent-notch",
+      "url": "https://github.com/realfishsam/agent-notch",
+      "summary": "The open-source alternative to vibe-island",
+      "stars": 263,
+      "language": "Swift",
+      "topics": []
+    },
+    {
+      "name": "joeseesun/qiaomu-cut-skill",
+      "url": "https://github.com/joeseesun/qiaomu-cut-skill",
+      "summary": "乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering",
+      "stars": 263,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skill",
+        "ai-video",
+        "ffmpeg",
+        "nodejs",
+        "subtitles",
+        "video-editing"
+      ]
+    },
+    {
+      "name": "RinDig/icm-architect",
+      "url": "https://github.com/RinDig/icm-architect",
+      "summary": "Claude skill: design any process, idea, or problem into an ICM workspace (folder structure as agent architecture), or restructure an existing folder into one",
+      "stars": 248,
+      "language": null,
+      "topics": []
+    },
+    {
+      "name": "OpenBMB/MiniCPM-Robot",
+      "url": "https://github.com/OpenBMB/MiniCPM-Robot",
+      "summary": "A Smarter and Faster On-Device AI Brain for Robots",
+      "stars": 238,
+      "language": "Python",
+      "topics": []
+    }
+  ]
+}
