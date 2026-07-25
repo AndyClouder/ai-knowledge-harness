@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-07-25T09:43:18.187336+00:00",
+  "items": [
+    {
+      "name": "Show HN: AgentState – Open-source resilience and caching proxy for AI agents",
+      "url": "https://github.com/aleenz1102/AgentState",
+      "summary": "Article URL: https://github.com/aleenz1102/AgentState\nComments URL: https://news.ycombinator.com/item?id=49046038\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "aijazahm19",
+      "published": "Sat, 25 Jul 2026 09:30:09 +0000"
+    },
+    {
+      "name": "Show HN: AI codebase analyser and auto-fixer",
+      "url": "https://www.getdebug.dev/blog/python-ai-app-prefilters",
+      "summary": "The difference is the mindset shift of \"human-in-the-loop\" approach to debugging. I believe security is so critical that AI should never execute every action end to end.\n\nComments URL: https://news.yc",
+      "source": "hacker_news",
+      "score": null,
+      "author": "nutifafa",
+      "published": "Sat, 25 Jul 2026 09:23:31 +0000"
+    },
+    {
+      "name": "Ask HN: Is neuromorphic computing going to replace traditional AI?",
+      "url": "https://news.ycombinator.com/item?id=49045970",
+      "summary": "I’ve recently learned about neuromorphic computing while thinking about the core inefficiencies of current deep learning.Today AI relies heavily on super-dense layers, continuous computation of all la",
+      "source": "hacker_news",
+      "score": null,
+      "author": "lennart-rth",
+      "published": "Sat, 25 Jul 2026 09:20:28 +0000"
+    },
+    {
+      "name": "Case Study: AI Trainer Platform and Job Board [Months 1-6]",
+      "url": "https://www.indiehackers.com/post/case-study-ai-trainer-platform-and-job-board-months-1-6-fcb5f25d54",
+      "summary": "Article URL: https://www.indiehackers.com/post/case-study-ai-trainer-platform-and-job-board-months-1-6-fcb5f25d54\nComments URL: https://news.ycombinator.com/item?id=49045840\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "interceptor666",
+      "published": "Sat, 25 Jul 2026 08:58:21 +0000"
+    },
+    {
+      "name": "Show HN: AI Toolbox supports Claude Opus 5",
+      "url": "https://www.ai-toolbox.co",
+      "summary": "Article URL: https://www.ai-toolbox.co\nComments URL: https://news.ycombinator.com/item?id=49045835\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "superduper5551",
+      "published": "Sat, 25 Jul 2026 08:57:24 +0000"
+    },
+    {
+      "name": "Why a philosopher turned down Anthropic (AI industry asking the wrong questions)",
+      "url": "https://www.ft.com/content/bdb3b820-905b-431e-82c0-386535755af1",
+      "summary": "Article URL: https://www.ft.com/content/bdb3b820-905b-431e-82c0-386535755af1\nComments URL: https://news.ycombinator.com/item?id=49045676\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "bishopsmother",
+      "published": "Sat, 25 Jul 2026 08:27:56 +0000"
+    },
+    {
+      "name": "Show HN: TS Compiler Knowledge Graph reducing AI tokens about 90%",
+      "url": "https://github.com/samchon/ttsc/tree/master/packages/graph",
+      "summary": "Article URL: https://github.com/samchon/ttsc/tree/master/packages/graph\nComments URL: https://news.ycombinator.com/item?id=49045581\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "autobe",
+      "published": "Sat, 25 Jul 2026 08:13:38 +0000"
+    },
+    {
+      "name": "Secretary Wright Announces First AI \"Genesis Mission\" Projects",
+      "url": "https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate",
+      "summary": "Article URL: https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate\nComments URL: https://news.ycombinator.com/item?id=49045445\nPoin",
+      "source": "hacker_news",
+      "score": null,
+      "author": "donutloop",
+      "published": "Sat, 25 Jul 2026 07:50:15 +0000"
+    },
+    {
+      "name": "At the altar of AI capex, Google is sacrificing the golden goose",
+      "url": "https://twitter.com/i/status/2080229375773941871",
+      "summary": "Article URL: https://twitter.com/i/status/2080229375773941871\nComments URL: https://news.ycombinator.com/item?id=49045443\nPoints: 4\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Michelangelo11",
+      "published": "Sat, 25 Jul 2026 07:49:58 +0000"
+    },
+    {
+      "name": "The Library and the Librarian: Why AI Needs Two Different Brains",
+      "url": "https://www.innerkore.com/blog/library-and-librarian/",
+      "summary": "Article URL: https://www.innerkore.com/blog/library-and-librarian/\nComments URL: https://news.ycombinator.com/item?id=49045382\nPoints: 3\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "gagan2020",
+      "published": "Sat, 25 Jul 2026 07:40:13 +0000"
+    },
+    {
+      "name": "Ask HN: How would you harden AI changes to a 1M-line legacy SaaS before review?",
+      "url": "https://news.ycombinator.com/item?id=49045271",
+      "summary": "I’m not a software engineer, but I’ve been running an experiment to see whether agentic development could produce a useful prototype on top of an existing SaaS codebase.The codebase is 1M+ lines, 15 y",
+      "source": "hacker_news",
+      "score": null,
+      "author": "thegreatkahuna",
+      "published": "Sat, 25 Jul 2026 07:19:48 +0000"
+    },
+    {
+      "name": "Substack adds AI text detection to all notes and posts",
+      "url": "https://post.substack.com/p/against-claudefishing",
+      "summary": "Article URL: https://post.substack.com/p/against-claudefishing\nComments URL: https://news.ycombinator.com/item?id=49045198\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "meander_water",
+      "published": "Sat, 25 Jul 2026 07:04:43 +0000"
+    },
+    {
+      "name": "Herv AI – Spatial Intelligence",
+      "url": "https://hervai.com",
+      "summary": "Article URL: https://hervai.com\nComments URL: https://news.ycombinator.com/item?id=49044905\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "kayumbaherve",
+      "published": "Sat, 25 Jul 2026 06:00:08 +0000"
+    },
+    {
+      "name": "Show HN: AI Anime Finder – Natural language semantic search for AniList",
+      "url": "https://zlvox.com/tools/anime-finder",
+      "summary": "Article URL: https://zlvox.com/tools/anime-finder\nComments URL: https://news.ycombinator.com/item?id=49044883\nPoints: 3\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mrdisloyal",
+      "published": "Sat, 25 Jul 2026 05:52:29 +0000"
+    },
+    {
+      "name": "The Architecture of Deep Thought: Fight AI Speed with Cognitive Friction",
+      "url": "https://varnam.substack.com/p/the-architecture-of-deep-thought",
+      "summary": "Article URL: https://varnam.substack.com/p/the-architecture-of-deep-thought\nComments URL: https://news.ycombinator.com/item?id=49044674\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "arthurfleck",
+      "published": "Sat, 25 Jul 2026 05:02:54 +0000"
+    },
+    {
+      "name": "AWS announces AWS-bench, an open-source benchmark for AI agents on AWS",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-bench/",
+      "summary": "Article URL: https://aws.amazon.com/about-aws/whats-new/2026/07/aws-bench/\nComments URL: https://news.ycombinator.com/item?id=49044597\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "gslin",
+      "published": "Sat, 25 Jul 2026 04:42:35 +0000"
+    },
+    {
+      "name": "Coordination layer for AI coding agents, built on Git",
+      "url": "https://github.com/zyads/loom-vcs",
+      "summary": "Article URL: https://github.com/zyads/loom-vcs\nComments URL: https://news.ycombinator.com/item?id=49044517\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "aether-zyads",
+      "published": "Sat, 25 Jul 2026 04:25:57 +0000"
+    },
+    {
+      "name": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+      "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
+      "summary": "Article URL: https://www.wsj.com/business/china-us-ai-model-costs-53a12e96\nComments URL: https://news.ycombinator.com/item?id=49044400\nPoints: 6\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Alien1Being",
+      "published": "Sat, 25 Jul 2026 04:00:54 +0000"
+    },
+    {
+      "name": "Gatekeepers, Luddites, Haters and AI-Generated Maps",
+      "url": "https://www.maproomblog.com/2026/07/gatekeepers-luddites-haters-and-ai-generated-maps/",
+      "summary": "Article URL: https://www.maproomblog.com/2026/07/gatekeepers-luddites-haters-and-ai-generated-maps/\nComments URL: https://news.ycombinator.com/item?id=49044345\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ethagnawl",
+      "published": "Sat, 25 Jul 2026 03:50:51 +0000"
+    },
+    {
+      "name": "AI Agent Blameless Postmortem Template",
+      "url": "https://cordum.io/blog/ai-agent-blameless-postmortem-template",
+      "summary": "Article URL: https://cordum.io/blog/ai-agent-blameless-postmortem-template\nComments URL: https://news.ycombinator.com/item?id=49044341\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ankitg12",
+      "published": "Sat, 25 Jul 2026 03:50:03 +0000"
+    }
+  ]
+}

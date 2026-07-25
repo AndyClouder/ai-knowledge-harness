@@ -1,0 +1,422 @@
+[
+  {
+    "id": "a646a5bf-7eeb-4bda-aaa0-a70c8126f907",
+    "title": "slvDev/esp32-ai",
+    "source_url": "https://github.com/slvDev/esp32-ai",
+    "source": "unknown",
+    "collected_at": "2026-07-25T09:43:20.420307+00:00",
+    "analyzed_at": "2026-07-25T09:43:20.420307+00:00",
+    "summary": "",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 564,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "613f86e1-8f4c-49b7-b9a1-19fe366a8f99",
+    "title": "mikehasa/agentacct",
+    "source_url": "https://github.com/mikehasa/agentacct",
+    "source": "unknown",
+    "collected_at": "2026-07-25T09:43:21.680085+00:00",
+    "analyzed_at": "2026-07-25T09:43:21.680085+00:00",
+    "summary": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 248,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "5096f928-a2d8-4d10-b4c6-4f577e73c0c6",
+    "title": "TryCaspian/caspian-sdk",
+    "source_url": "https://github.com/TryCaspian/caspian-sdk",
+    "source": "unknown",
+    "collected_at": "2026-07-25T09:43:22.937550+00:00",
+    "analyzed_at": "2026-07-25T09:43:22.937550+00:00",
+    "summary": "One identity for your AI agent across Slack, Discord, Telegram, WhatsApp, Instagram, email, SMS, X — a single on_message handler. Open-source channel adapters + bot SDK (Python & TypeScript) + CLI.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 224,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "a19dd2b2-7d7a-4642-9158-e3c24c1e57fd",
+    "title": "paxlabs-inc/machine-genome",
+    "source_url": "https://github.com/paxlabs-inc/machine-genome",
+    "source": "unknown",
+    "collected_at": "2026-07-25T09:43:24.196853+00:00",
+    "analyzed_at": "2026-07-25T09:43:24.196853+00:00",
+    "summary": "Machine Genome is an open identity and provenance protocol for models, agents, harnesses, datasets, and the artifacts that connect them.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 213,
+      "score": null,
+      "author": null,
+      "language": "Go"
+    }
+  },
+  {
+    "id": "d42d9239-e3b7-4d7b-a255-a41976bf5112",
+    "title": "duolahypercho/codex-router",
+    "source_url": "https://github.com/duolahypercho/codex-router",
+    "source": "unknown",
+    "collected_at": "2026-07-25T09:43:25.455877+00:00",
+    "analyzed_at": "2026-07-25T09:43:25.455877+00:00",
+    "summary": "External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 206,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "0a1c5c1f-a7be-44e6-9398-7bed8532034f",
+    "title": "livetennisapi/livetennisapi-mcp",
+    "source_url": "https://github.com/livetennisapi/livetennisapi-mcp",
+    "source": "unknown",
+    "collected_at": "2026-07-25T09:43:26.716098+00:00",
+    "analyzed_at": "2026-07-25T09:43:26.716098+00:00",
+    "summary": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 205,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "1a3e0b3e-8712-4109-af69-be054e7562aa",
+    "title": "Show HN: AgentState – Open-source resilience and caching proxy for AI agents",
+    "source_url": "https://github.com/aleenz1102/AgentState",
+    "source": "hacker_news",
+    "collected_at": "2026-07-25T09:43:27.975839+00:00",
+    "analyzed_at": "2026-07-25T09:43:27.975839+00:00",
+    "summary": "Article URL: https://github.com/aleenz1102/AgentState\nComments URL: https://news.ycombinator.com/item?id=49046038\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "aijazahm19",
+      "language": null
+    }
+  },
+  {
+    "id": "ab9a6102-37e2-4242-961d-324ca1d2149f",
+    "title": "Show HN: AI codebase analyser and auto-fixer",
+    "source_url": "https://www.getdebug.dev/blog/python-ai-app-prefilters",
+    "source": "hacker_news",
+    "collected_at": "2026-07-25T09:43:29.235919+00:00",
+    "analyzed_at": "2026-07-25T09:43:29.235919+00:00",
+    "summary": "The difference is the mindset shift of \"human-in-the-loop\" approach to debugging. I believe security is so critical that AI should never execute every action end to end.\n\nComments URL: https://news.yc",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "nutifafa",
+      "language": null
+    }
+  },
+  {
+    "id": "ae89b90d-bdc6-413e-9768-c59ed383377c",
+    "title": "Ask HN: Is neuromorphic computing going to replace traditional AI?",
+    "source_url": "https://news.ycombinator.com/item?id=49045970",
+    "source": "hacker_news",
+    "collected_at": "2026-07-25T09:43:30.493807+00:00",
+    "analyzed_at": "2026-07-25T09:43:30.493807+00:00",
+    "summary": "I’ve recently learned about neuromorphic computing while thinking about the core inefficiencies of current deep learning.Today AI relies heavily on super-dense layers, continuous computation of all la",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "lennart-rth",
+      "language": null
+    }
+  },
+  {
+    "id": "f9886b58-a3d2-47c1-b31c-449ce6b65bfe",
+    "title": "Case Study: AI Trainer Platform and Job Board [Months 1-6]",
+    "source_url": "https://www.indiehackers.com/post/case-study-ai-trainer-platform-and-job-board-months-1-6-fcb5f25d54",
+    "source": "hacker_news",
+    "collected_at": "2026-07-25T09:43:31.752555+00:00",
+    "analyzed_at": "2026-07-25T09:43:31.752555+00:00",
+    "summary": "Article URL: https://www.indiehackers.com/post/case-study-ai-trainer-platform-and-job-board-months-1-6-fcb5f25d54\nComments URL: https://news.ycombinator.com/item?id=49045840\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "interceptor666",
+      "language": null
+    }
+  },
+  {
+    "id": "38080825-1953-4fa8-a39b-d9e780678c6c",
+    "title": "Show HN: AI Toolbox supports Claude Opus 5",
+    "source_url": "https://www.ai-toolbox.co",
+    "source": "hacker_news",
+    "collected_at": "2026-07-25T09:43:33.012560+00:00",
+    "analyzed_at": "2026-07-25T09:43:33.012560+00:00",
+    "summary": "Article URL: https://www.ai-toolbox.co\nComments URL: https://news.ycombinator.com/item?id=49045835\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "superduper5551",
+      "language": null
+    }
+  },
+  {
+    "id": "2c646ae6-ab19-46bc-8cd4-aec258b7b7e8",
+    "title": "Why a philosopher turned down Anthropic (AI industry asking the wrong questions)",
+    "source_url": "https://www.ft.com/content/bdb3b820-905b-431e-82c0-386535755af1",
+    "source": "hacker_news",
+    "collected_at": "2026-07-25T09:43:34.272370+00:00",
+    "analyzed_at": "2026-07-25T09:43:34.272370+00:00",
+    "summary": "Article URL: https://www.ft.com/content/bdb3b820-905b-431e-82c0-386535755af1\nComments URL: https://news.ycombinator.com/item?id=49045676\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "bishopsmother",
+      "language": null
+    }
+  },
+  {
+    "id": "3f04e980-3b7a-47b6-8dc8-4c00ae2e5f78",
+    "title": "Show HN: TS Compiler Knowledge Graph reducing AI tokens about 90%",
+    "source_url": "https://github.com/samchon/ttsc/tree/master/packages/graph",
+    "source": "hacker_news",
+    "collected_at": "2026-07-25T09:43:35.531642+00:00",
+    "analyzed_at": "2026-07-25T09:43:35.531642+00:00",
+    "summary": "Article URL: https://github.com/samchon/ttsc/tree/master/packages/graph\nComments URL: https://news.ycombinator.com/item?id=49045581\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "autobe",
+      "language": null
+    }
+  },
+  {
+    "id": "fc339ea2-4800-468a-8f4c-5b5b402a0b04",
+    "title": "Secretary Wright Announces First AI \"Genesis Mission\" Projects",
+    "source_url": "https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate",
+    "source": "hacker_news",
+    "collected_at": "2026-07-25T09:43:36.792224+00:00",
+    "analyzed_at": "2026-07-25T09:43:36.792224+00:00",
+    "summary": "Article URL: https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate\nComments URL: https://news.ycombinator.com/item?id=49045445\nPoin",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "donutloop",
+      "language": null
+    }
+  },
+  {
+    "id": "f4a02883-ec84-421d-aee1-7e95b28ea180",
+    "title": "At the altar of AI capex, Google is sacrificing the golden goose",
+    "source_url": "https://twitter.com/i/status/2080229375773941871",
+    "source": "hacker_news",
+    "collected_at": "2026-07-25T09:43:38.051428+00:00",
+    "analyzed_at": "2026-07-25T09:43:38.051428+00:00",
+    "summary": "Article URL: https://twitter.com/i/status/2080229375773941871\nComments URL: https://news.ycombinator.com/item?id=49045443\nPoints: 4\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Michelangelo11",
+      "language": null
+    }
+  },
+  {
+    "id": "10070efb-2967-4bad-bf04-49f4692d3462",
+    "title": "The Library and the Librarian: Why AI Needs Two Different Brains",
+    "source_url": "https://www.innerkore.com/blog/library-and-librarian/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-25T09:43:39.311710+00:00",
+    "analyzed_at": "2026-07-25T09:43:39.311710+00:00",
+    "summary": "Article URL: https://www.innerkore.com/blog/library-and-librarian/\nComments URL: https://news.ycombinator.com/item?id=49045382\nPoints: 3\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "gagan2020",
+      "language": null
+    }
+  },
+  {
+    "id": "d00fd47d-f5c1-4323-93fb-d3eaf186360d",
+    "title": "Ask HN: How would you harden AI changes to a 1M-line legacy SaaS before review?",
+    "source_url": "https://news.ycombinator.com/item?id=49045271",
+    "source": "hacker_news",
+    "collected_at": "2026-07-25T09:43:40.571177+00:00",
+    "analyzed_at": "2026-07-25T09:43:40.571177+00:00",
+    "summary": "I’m not a software engineer, but I’ve been running an experiment to see whether agentic development could produce a useful prototype on top of an existing SaaS codebase.The codebase is 1M+ lines, 15 y",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "thegreatkahuna",
+      "language": null
+    }
+  },
+  {
+    "id": "dbd85ba1-646c-4512-9247-cbbe1f7924d1",
+    "title": "Substack adds AI text detection to all notes and posts",
+    "source_url": "https://post.substack.com/p/against-claudefishing",
+    "source": "hacker_news",
+    "collected_at": "2026-07-25T09:43:41.832507+00:00",
+    "analyzed_at": "2026-07-25T09:43:41.832507+00:00",
+    "summary": "Article URL: https://post.substack.com/p/against-claudefishing\nComments URL: https://news.ycombinator.com/item?id=49045198\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "meander_water",
+      "language": null
+    }
+  },
+  {
+    "id": "64d699ff-2c78-4fd7-8979-503bab6c6f3d",
+    "title": "Herv AI – Spatial Intelligence",
+    "source_url": "https://hervai.com",
+    "source": "hacker_news",
+    "collected_at": "2026-07-25T09:43:43.092354+00:00",
+    "analyzed_at": "2026-07-25T09:43:43.092354+00:00",
+    "summary": "Article URL: https://hervai.com\nComments URL: https://news.ycombinator.com/item?id=49044905\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "kayumbaherve",
+      "language": null
+    }
+  },
+  {
+    "id": "bc1d8e5b-2252-4342-b537-10cfa43e1bfb",
+    "title": "Show HN: AI Anime Finder – Natural language semantic search for AniList",
+    "source_url": "https://zlvox.com/tools/anime-finder",
+    "source": "hacker_news",
+    "collected_at": "2026-07-25T09:43:44.350961+00:00",
+    "analyzed_at": "2026-07-25T09:43:44.350961+00:00",
+    "summary": "Article URL: https://zlvox.com/tools/anime-finder\nComments URL: https://news.ycombinator.com/item?id=49044883\nPoints: 3\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mrdisloyal",
+      "language": null
+    }
+  }
+]

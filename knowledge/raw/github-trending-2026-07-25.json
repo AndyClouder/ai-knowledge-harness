@@ -1,0 +1,95 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-07-25T09:43:13.757402+00:00",
+  "items": [
+    {
+      "name": "slvDev/esp32-ai",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "summary": "",
+      "stars": 564,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "mikehasa/agentacct",
+      "url": "https://github.com/mikehasa/agentacct",
+      "summary": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
+      "stars": 248,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "TryCaspian/caspian-sdk",
+      "url": "https://github.com/TryCaspian/caspian-sdk",
+      "summary": "One identity for your AI agent across Slack, Discord, Telegram, WhatsApp, Instagram, email, SMS, X — a single on_message handler. Open-source channel adapters + bot SDK (Python & TypeScript) + CLI.",
+      "stars": 224,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai-agent",
+        "ai-agents",
+        "communication",
+        "crewai",
+        "discord",
+        "email",
+        "imessage",
+        "langchain",
+        "llm",
+        "mcp",
+        "messaging",
+        "python",
+        "sdk",
+        "slack",
+        "sms",
+        "telegram",
+        "typescript",
+        "whatsapp",
+        "whatsapp-api"
+      ]
+    },
+    {
+      "name": "paxlabs-inc/machine-genome",
+      "url": "https://github.com/paxlabs-inc/machine-genome",
+      "summary": "Machine Genome is an open identity and provenance protocol for models, agents, harnesses, datasets, and the artifacts that connect them.",
+      "stars": 213,
+      "language": "Go",
+      "topics": []
+    },
+    {
+      "name": "duolahypercho/codex-router",
+      "url": "https://github.com/duolahypercho/codex-router",
+      "summary": "External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback.",
+      "stars": 206,
+      "language": "JavaScript",
+      "topics": [
+        "codex",
+        "deepseek",
+        "kimi",
+        "litellm",
+        "model-router"
+      ]
+    },
+    {
+      "name": "livetennisapi/livetennisapi-mcp",
+      "url": "https://github.com/livetennisapi/livetennisapi-mcp",
+      "summary": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
+      "stars": 205,
+      "language": "JavaScript",
+      "topics": [
+        "ai",
+        "claude",
+        "live-scores",
+        "llm",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "sports-api",
+        "sports-data",
+        "tennis",
+        "tennis-api",
+        "typescript"
+      ]
+    }
+  ]
+}
