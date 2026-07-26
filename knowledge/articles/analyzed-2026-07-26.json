@@ -1,0 +1,422 @@
+[
+  {
+    "id": "2e954f19-76f9-41ca-a163-b22c489e0954",
+    "title": "mikiarlo3/ai-copywriter",
+    "source_url": "https://github.com/mikiarlo3/ai-copywriter",
+    "source": "unknown",
+    "collected_at": "2026-07-26T09:57:00.765577+00:00",
+    "analyzed_at": "2026-07-26T09:57:00.765577+00:00",
+    "summary": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 722,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "84dbfe9c-4d1a-47b3-8d05-e325730bbd9f",
+    "title": "mshumer/Claude-of-Duty",
+    "source_url": "https://github.com/mshumer/Claude-of-Duty",
+    "source": "unknown",
+    "collected_at": "2026-07-26T09:57:02.086121+00:00",
+    "analyzed_at": "2026-07-26T09:57:02.086121+00:00",
+    "summary": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 334,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "7946a205-6342-4299-b4a5-c4969e09c976",
+    "title": "hahhforest/pi-textbook",
+    "source_url": "https://github.com/hahhforest/pi-textbook",
+    "source": "unknown",
+    "collected_at": "2026-07-26T09:57:03.405881+00:00",
+    "analyzed_at": "2026-07-26T09:57:03.405881+00:00",
+    "summary": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 270,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "2bd41da3-881e-49cc-89c3-fd32de269c47",
+    "title": "danilo-znamerovszkij/draw-your-font",
+    "source_url": "https://github.com/danilo-znamerovszkij/draw-your-font",
+    "source": "unknown",
+    "collected_at": "2026-07-26T09:57:04.725340+00:00",
+    "analyzed_at": "2026-07-26T09:57:04.725340+00:00",
+    "summary": "Turn a photo of your handwriting into a real font (TTF/WOFF/WOFF2) - free, open source, no uploads. Node CLI + Claude Code skill.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 263,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "6f984a53-662e-48b7-9001-5ed0f542e106",
+    "title": "NVIDIA-NeMo/labs-OO-Agents",
+    "source_url": "https://github.com/NVIDIA-NeMo/labs-OO-Agents",
+    "source": "unknown",
+    "collected_at": "2026-07-26T09:57:06.045206+00:00",
+    "analyzed_at": "2026-07-26T09:57:06.045206+00:00",
+    "summary": "labs-OO-agents",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 244,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "8a3d66b8-3d41-43b1-bb1a-8131fb2e7ba1",
+    "title": "anton-hq96g4/Meccha-Medusa",
+    "source_url": "https://github.com/anton-hq96g4/Meccha-Medusa",
+    "source": "unknown",
+    "collected_at": "2026-07-26T09:57:07.366659+00:00",
+    "analyzed_at": "2026-07-26T09:57:07.366659+00:00",
+    "summary": "Meccha Chameleon: ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 233,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "a801b1c6-fe17-477e-ab2a-00e4ac091789",
+    "title": "Role1776/netmon",
+    "source_url": "https://github.com/Role1776/netmon",
+    "source": "unknown",
+    "collected_at": "2026-07-26T09:57:08.687744+00:00",
+    "analyzed_at": "2026-07-26T09:57:08.687744+00:00",
+    "summary": "Self-hosted network monitor - hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram or Discord.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 216,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "01fccbfb-5cf4-438d-b1bd-98f233727960",
+    "title": "When the AI bubble bursts, silver is Eric Sprott's play",
+    "source_url": "https://stockhead.com.au/resources/when-the-ai-bubble-bursts-silver-is-eric-sprotts-play/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-26T09:57:10.007987+00:00",
+    "analyzed_at": "2026-07-26T09:57:10.007987+00:00",
+    "summary": "Article URL: https://stockhead.com.au/resources/when-the-ai-bubble-bursts-silver-is-eric-sprotts-play/\nComments URL: https://news.ycombinator.com/item?id=49056398\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "parallel_shell",
+      "language": null
+    }
+  },
+  {
+    "id": "a6cf2eeb-58f1-4c2e-84a3-88051a479aec",
+    "title": "House AI 'kill switch' bill unveiled as OpenAI hack raises alarms",
+    "source_url": "https://www.politico.com/news/2026/07/23/house-ai-kill-switch-bill-unveiled-as-openai-hack-raises-alarms-01008898",
+    "source": "hacker_news",
+    "collected_at": "2026-07-26T09:57:11.327479+00:00",
+    "analyzed_at": "2026-07-26T09:57:11.327479+00:00",
+    "summary": "Article URL: https://www.politico.com/news/2026/07/23/house-ai-kill-switch-bill-unveiled-as-openai-hack-raises-alarms-01008898\nComments URL: https://news.ycombinator.com/item?id=49055877\nPoints: 1\n# C",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "reasonableklout",
+      "language": null
+    }
+  },
+  {
+    "id": "33e591d8-165d-4d25-a07e-fd0c312c5d23",
+    "title": "Anthropic secures its AI-native software development lifecycle",
+    "source_url": "https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle",
+    "source": "hacker_news",
+    "collected_at": "2026-07-26T09:57:12.649050+00:00",
+    "analyzed_at": "2026-07-26T09:57:12.649050+00:00",
+    "summary": "Article URL: https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle\nComments URL: https://news.ycombinator.com/item?id=49055849\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "_tk_",
+      "language": null
+    }
+  },
+  {
+    "id": "2bc7390e-030b-4818-9a38-ba494c44459a",
+    "title": "A protocol for AI agent workspace state and effect management",
+    "source_url": "https://github.com/eouzoe/reel",
+    "source": "hacker_news",
+    "collected_at": "2026-07-26T09:57:13.967992+00:00",
+    "analyzed_at": "2026-07-26T09:57:13.967992+00:00",
+    "summary": "Article URL: https://github.com/eouzoe/reel\nComments URL: https://news.ycombinator.com/item?id=49055791\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "eouzoe",
+      "language": null
+    }
+  },
+  {
+    "id": "6152b189-8165-411b-a60f-9002a5cbffd0",
+    "title": "Show HN: I built an AI that roasts GitHub profiles",
+    "source_url": "https://gitroast-kappa.vercel.app/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-26T09:57:15.289119+00:00",
+    "analyzed_at": "2026-07-26T09:57:15.289119+00:00",
+    "summary": "I built GitHub Roast as a fun weekend project.I originally shared it on X just for fun, but it ended up getting around 1,200 visitors a day, so I kept improving it.I'd love to hear what the HN communi",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "hito20",
+      "language": null
+    }
+  },
+  {
+    "id": "63befbe2-dad4-4088-8917-58f2f57e28df",
+    "title": "Hans Moravec was right about AI",
+    "source_url": "https://nymag.com/intelligencer/article/hans-moravec-interview.html",
+    "source": "hacker_news",
+    "collected_at": "2026-07-26T09:57:16.610617+00:00",
+    "analyzed_at": "2026-07-26T09:57:16.610617+00:00",
+    "summary": "Article URL: https://nymag.com/intelligencer/article/hans-moravec-interview.html\nComments URL: https://news.ycombinator.com/item?id=49055308\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "anath2",
+      "language": null
+    }
+  },
+  {
+    "id": "4357b6c6-8567-4637-a9ec-0d51d93c39a8",
+    "title": "Microsoft launches new in-house AI models. Cuts costs up to 89% versus OpenAI",
+    "source_url": "https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai",
+    "source": "hacker_news",
+    "collected_at": "2026-07-26T09:57:17.958111+00:00",
+    "analyzed_at": "2026-07-26T09:57:17.958111+00:00",
+    "summary": "Article URL: https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai\nComments URL: https://news.ycombinator.com/item?id=49055188\nPoint",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "thunderbong",
+      "language": null
+    }
+  },
+  {
+    "id": "159f3312-d6da-434e-bfe4-95ca3a8c41f8",
+    "title": "Show HN: Hydra, a local-first trust control plane that routes AI by confidence",
+    "source_url": "https://hydra.uvansa.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-26T09:57:19.302268+00:00",
+    "analyzed_at": "2026-07-26T09:57:19.302268+00:00",
+    "summary": "Article URL: https://hydra.uvansa.com/\nComments URL: https://news.ycombinator.com/item?id=49055074\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jhaankit373",
+      "language": null
+    }
+  },
+  {
+    "id": "39198727-6f90-4f32-9747-5ff985d8ca5e",
+    "title": "MIT to become hotbed of AI video surveillance",
+    "source_url": "https://www.schneier.com/blog/archives/2026/07/mit-to-become-hotbed-of-ai-video-surveillance.html",
+    "source": "hacker_news",
+    "collected_at": "2026-07-26T09:57:20.621690+00:00",
+    "analyzed_at": "2026-07-26T09:57:20.621690+00:00",
+    "summary": "Article URL: https://www.schneier.com/blog/archives/2026/07/mit-to-become-hotbed-of-ai-video-surveillance.html\nComments URL: https://news.ycombinator.com/item?id=49054638\nPoints: 17\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "SanjayMehta",
+      "language": null
+    }
+  },
+  {
+    "id": "8eabccbe-9399-40b5-8727-aa0456ad795f",
+    "title": "Show HN: Rules that stop AI coding agents from breaking working code",
+    "source_url": "https://github.com/avenna01-ceo/claude-code-survival-kr",
+    "source": "hacker_news",
+    "collected_at": "2026-07-26T09:57:21.940435+00:00",
+    "analyzed_at": "2026-07-26T09:57:21.940435+00:00",
+    "summary": "Article URL: https://github.com/avenna01-ceo/claude-code-survival-kr\nComments URL: https://news.ycombinator.com/item?id=49054070\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "gaiinmaster",
+      "language": null
+    }
+  },
+  {
+    "id": "646fcc5d-0fc6-41af-a747-91d8e71b334f",
+    "title": "NYU Stern pricing expert: The hidden 'AI tax' hitting your next phone",
+    "source_url": "https://fortune.com/2026/07/24/apple-ai-memory-chip-price-increases/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-26T09:57:23.259470+00:00",
+    "analyzed_at": "2026-07-26T09:57:23.259470+00:00",
+    "summary": "Article URL: https://fortune.com/2026/07/24/apple-ai-memory-chip-price-increases/\nComments URL: https://news.ycombinator.com/item?id=49053809\nPoints: 4\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "1vuio0pswjnm7",
+      "language": null
+    }
+  },
+  {
+    "id": "ce5fd318-c96b-4682-b216-fa9efd350496",
+    "title": "The hidden cost of AI: Why your town is negotiating with Amazon and Microsoft",
+    "source_url": "https://fortune.com/2026/07/23/hobart-amazon-data-center-community-benefits/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-26T09:57:24.578325+00:00",
+    "analyzed_at": "2026-07-26T09:57:24.578325+00:00",
+    "summary": "Article URL: https://fortune.com/2026/07/23/hobart-amazon-data-center-community-benefits/\nComments URL: https://news.ycombinator.com/item?id=49053787\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "1vuio0pswjnm7",
+      "language": null
+    }
+  },
+  {
+    "id": "3ae5e09e-7ce8-4634-a57f-3c9c09265660",
+    "title": "AI Can Now Design Drugs in Seconds; We Still Can't Tell You If They Work",
+    "source_url": "https://philippdubach.com/posts/ai-can-now-design-drugs-in-seconds-we-still-cant-tell-you-if-they-work./",
+    "source": "hacker_news",
+    "collected_at": "2026-07-26T09:57:25.899455+00:00",
+    "analyzed_at": "2026-07-26T09:57:25.899455+00:00",
+    "summary": "Article URL: https://philippdubach.com/posts/ai-can-now-design-drugs-in-seconds-we-still-cant-tell-you-if-they-work./\nComments URL: https://news.ycombinator.com/item?id=49053679\nPoints: 2\n# Comments: ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "TEHERET",
+      "language": null
+    }
+  }
+]

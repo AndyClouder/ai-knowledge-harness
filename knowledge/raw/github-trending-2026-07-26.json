@@ -1,0 +1,99 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-07-26T09:56:16.940412+00:00",
+  "items": [
+    {
+      "name": "mikiarlo3/ai-copywriter",
+      "url": "https://github.com/mikiarlo3/ai-copywriter",
+      "summary": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+      "stars": 722,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "mshumer/Claude-of-Duty",
+      "url": "https://github.com/mshumer/Claude-of-Duty",
+      "summary": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+      "stars": 334,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "name": "hahhforest/pi-textbook",
+      "url": "https://github.com/hahhforest/pi-textbook",
+      "summary": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+      "stars": 270,
+      "language": "TypeScript",
+      "topics": [
+        "agent-engineering",
+        "ai-agent",
+        "chinese",
+        "llm",
+        "textbook",
+        "typescript"
+      ]
+    },
+    {
+      "name": "danilo-znamerovszkij/draw-your-font",
+      "url": "https://github.com/danilo-znamerovszkij/draw-your-font",
+      "summary": "Turn a photo of your handwriting into a real font (TTF/WOFF/WOFF2) - free, open source, no uploads. Node CLI + Claude Code skill.",
+      "stars": 263,
+      "language": "JavaScript",
+      "topics": [
+        "claude-code",
+        "claude-skill",
+        "font",
+        "handwriting",
+        "handwriting-font",
+        "potrace",
+        "ttf",
+        "woff2"
+      ]
+    },
+    {
+      "name": "NVIDIA-NeMo/labs-OO-Agents",
+      "url": "https://github.com/NVIDIA-NeMo/labs-OO-Agents",
+      "summary": "labs-OO-agents",
+      "stars": 244,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "anton-hq96g4/Meccha-Medusa",
+      "url": "https://github.com/anton-hq96g4/Meccha-Medusa",
+      "summary": "Meccha Chameleon: ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint",
+      "stars": 233,
+      "language": null,
+      "topics": [
+        "mecca-chameleon-aimbot",
+        "mecca-chameleon-cheat",
+        "mecca-chameleon-cheats",
+        "mecca-chameleon-esp",
+        "mecca-chameleon-hack",
+        "mecca-chameleon-hacks",
+        "mecca-chameleon-medusa",
+        "mecca-chameleon-mod",
+        "meccha-chameleon-tools"
+      ]
+    },
+    {
+      "name": "Role1776/netmon",
+      "url": "https://github.com/Role1776/netmon",
+      "summary": "Self-hosted network monitor - hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram or Discord.",
+      "stars": 216,
+      "language": "Python",
+      "topics": [
+        "discord",
+        "discord-bot",
+        "network-monitoring",
+        "nmap",
+        "python",
+        "self-hosted",
+        "speedtest",
+        "telegrambot",
+        "uv"
+      ]
+    }
+  ]
+}
