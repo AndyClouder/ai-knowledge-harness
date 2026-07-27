@@ -1,0 +1,67 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-07-27T11:17:05.545513+00:00",
+  "items": [
+    {
+      "name": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "summary": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "stars": 761,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "ai-agent",
+        "ai-assistant",
+        "android",
+        "claude-code",
+        "codex",
+        "electron",
+        "ios",
+        "llm",
+        "macos",
+        "react-native",
+        "typescript",
+        "windows"
+      ]
+    },
+    {
+      "name": "VictorTaelin/OptMem",
+      "url": "https://github.com/VictorTaelin/OptMem",
+      "summary": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "stars": 493,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "AdelanSoulX/PM-Sniper",
+      "url": "https://github.com/AdelanSoulX/PM-Sniper",
+      "summary": "polymarket trading bot polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket tradin",
+      "stars": 413,
+      "language": "Python",
+      "topics": [
+        "polymarket-arbitrage-bot",
+        "polymarket-arbitrage-tarding-bot",
+        "polymarket-bot",
+        "polymarket-market-maker-bot",
+        "polymarket-trading-bot"
+      ]
+    },
+    {
+      "name": "Eversmile12/leaked-llm-prompts",
+      "url": "https://github.com/Eversmile12/leaked-llm-prompts",
+      "summary": "collections-of-leaked-prompts",
+      "stars": 274,
+      "language": null,
+      "topics": []
+    },
+    {
+      "name": "XYZ-AI-Lab/axrl",
+      "url": "https://github.com/XYZ-AI-Lab/axrl",
+      "summary": "AxisRL is an agentic RL post-training framework built on SGLang rollout, Megatron training, and real-world agent workflows.",
+      "stars": 253,
+      "language": "Python",
+      "topics": []
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-07-27T11:17:20.800935+00:00",
+  "items": [
+    {
+      "name": "Ask HN: Where do those LLM-generated outreach emails come from?",
+      "url": "https://news.ycombinator.com/item?id=49066659",
+      "summary": "I have started getting daily LLM-written outreach emails. They all follow the same exact pattern, but come from different people pitching different vibe-coded things. The authors are real people with ",
+      "source": "hacker_news",
+      "score": null,
+      "author": "nicbou",
+      "published": "Mon, 27 Jul 2026 08:29:50 +0000"
+    },
+    {
+      "name": "General Resolution: LLM Usage in Debian",
+      "url": "https://www.debian.org/vote/2026/vote_002#texta",
+      "summary": "Article URL: https://www.debian.org/vote/2026/vote_002#texta\nComments URL: https://news.ycombinator.com/item?id=49066159\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "olalonde",
+      "published": "Mon, 27 Jul 2026 07:26:13 +0000"
+    },
+    {
+      "name": "Ask HN: Are we having a substantial increase of \"Show HN\" since LLM aided coding",
+      "url": "https://news.ycombinator.com/item?id=49065810",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=49065810\nPoints: 7\n# Comments: 4",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mdp2021",
+      "published": "Mon, 27 Jul 2026 06:27:38 +0000"
+    },
+    {
+      "name": "The Model Writes, the Judge Measures: Anatomy of an LLM Judge",
+      "url": "https://xinfer.ai/home/md/the-model-writes-the-judge-measures",
+      "summary": "Article URL: https://xinfer.ai/home/md/the-model-writes-the-judge-measures\nComments URL: https://news.ycombinator.com/item?id=49064396\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "samwen2026",
+      "published": "Mon, 27 Jul 2026 02:00:27 +0000"
+    },
+    {
+      "name": "Shepherd Model Gateway – Model-routing gateway for LLM deployments",
+      "url": "https://github.com/lightseekorg/smg",
+      "summary": "Article URL: https://github.com/lightseekorg/smg\nComments URL: https://news.ycombinator.com/item?id=49063132\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rekl",
+      "published": "Sun, 26 Jul 2026 22:36:58 +0000"
+    },
+    {
+      "name": "Show HN: LX Coreutils – pipeable tools enhanced by small local / cheap LLM calls",
+      "url": "https://github.com/BrunkenClaas/lx",
+      "summary": "Written in rust.\n\nComments URL: https://news.ycombinator.com/item?id=49062416\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "BrunkenClaas",
+      "published": "Sun, 26 Jul 2026 21:09:29 +0000"
+    },
+    {
+      "name": "LLM Cliche Highlighter",
+      "url": "https://tools.simonwillison.net/llm-cliche-highlighter",
+      "summary": "Article URL: https://tools.simonwillison.net/llm-cliche-highlighter\nComments URL: https://news.ycombinator.com/item?id=49061434\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "saikatsg",
+      "published": "Sun, 26 Jul 2026 19:19:29 +0000"
+    },
+    {
+      "name": "Show HN: An interactive way to exploit an LLM without going to jail",
+      "url": "https://github.com/joshfischer1108/jailbreak-lab",
+      "summary": "Article URL: https://github.com/joshfischer1108/jailbreak-lab\nComments URL: https://news.ycombinator.com/item?id=49060776\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "joshfischer1108",
+      "published": "Sun, 26 Jul 2026 18:16:42 +0000"
+    },
+    {
+      "name": "Show HN: LLM-spend – Audit your OpenAI/Anthropic API spend locally",
+      "url": "https://github.com/kliukovkin/llm-spend",
+      "summary": "I build spend-pacing systems for ad auctions for a living, and my side-project agent workloads still kept surprising me with API bills I couldn't explain. When I asked around how people attribute LLM ",
+      "source": "hacker_news",
+      "score": null,
+      "author": "kliukovkin",
+      "published": "Sun, 26 Jul 2026 16:20:48 +0000"
+    },
+    {
+      "name": "Show HN: OpenSmith – Trace LLM pipelines locally with trace, no cloud",
+      "url": "https://github.com/shivnathtathe/opensmith",
+      "summary": "Article URL: https://github.com/shivnathtathe/opensmith\nComments URL: https://news.ycombinator.com/item?id=49058643\nPoints: 1\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "shivnathtathe",
+      "published": "Sun, 26 Jul 2026 14:36:47 +0000"
+    },
+    {
+      "name": "I built a canvas where LLM chats become an editable map",
+      "url": "https://github.com/chenxiachan/thoughtdag",
+      "summary": "Article URL: https://github.com/chenxiachan/thoughtdag\nComments URL: https://news.ycombinator.com/item?id=49057101\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "chatchan",
+      "published": "Sun, 26 Jul 2026 11:42:22 +0000"
+    },
+    {
+      "name": "The Two Sources of Noise Every LLM Evaluation System Must Handle",
+      "url": "https://wilburhimself.github.io/blog/64-the-two-sources-of-noise-every-llm-evaluation-system-must-handle/",
+      "summary": "Article URL: https://wilburhimself.github.io/blog/64-the-two-sources-of-noise-every-llm-evaluation-system-must-handle/\nComments URL: https://news.ycombinator.com/item?id=49055170\nPoints: 2\n# Comments:",
+      "source": "hacker_news",
+      "score": null,
+      "author": "wilburhimself",
+      "published": "Sun, 26 Jul 2026 05:57:24 +0000"
+    },
+    {
+      "name": "Introduction to LLM Inference",
+      "url": "https://kraghavan.ca/llm-infrastructure/inference/2026/04/14/re-introduction-to-inference.html",
+      "summary": "Article URL: https://kraghavan.ca/llm-infrastructure/inference/2026/04/14/re-introduction-to-inference.html\nComments URL: https://news.ycombinator.com/item?id=49054962\nPoints: 3\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "kraghavan",
+      "published": "Sun, 26 Jul 2026 05:18:42 +0000"
+    },
+    {
+      "name": "LLM-as-a-Judge Field Guide",
+      "url": "https://kraghavan.ca/llm-infrastructure/evaluation/2026/07/25/llm-as-a-judge-field-guide.html",
+      "summary": "Article URL: https://kraghavan.ca/llm-infrastructure/evaluation/2026/07/25/llm-as-a-judge-field-guide.html\nComments URL: https://news.ycombinator.com/item?id=49054953\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "kraghavan",
+      "published": "Sun, 26 Jul 2026 05:17:30 +0000"
+    },
+    {
+      "name": "Agentic test processes, LLM benchmarks, and other notes on agentic coding",
+      "url": "https://danluu.com/ai-coding/",
+      "summary": "Article URL: https://danluu.com/ai-coding/\nComments URL: https://news.ycombinator.com/item?id=49054268\nPoints: 17\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "bathtub365",
+      "published": "Sun, 26 Jul 2026 03:02:17 +0000"
+    },
+    {
+      "name": "Becoming a Research Engineer at a Big LLM Lab",
+      "url": "https://www.maxmynter.com/pages/blog/jobhunt",
+      "summary": "Article URL: https://www.maxmynter.com/pages/blog/jobhunt\nComments URL: https://news.ycombinator.com/item?id=49051707\nPoints: 50\n# Comments: 18",
+      "source": "hacker_news",
+      "score": null,
+      "author": "felixdoerp",
+      "published": "Sat, 25 Jul 2026 21:19:42 +0000"
+    },
+    {
+      "name": "Toolgz – cut LLM tool-definition tokens ~80% without hurting accuracy",
+      "url": "https://github.com/dperussina/toolgz",
+      "summary": "Article URL: https://github.com/dperussina/toolgz\nComments URL: https://news.ycombinator.com/item?id=49051573\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "dperussina",
+      "published": "Sat, 25 Jul 2026 21:05:43 +0000"
+    },
+    {
+      "name": "LLM Usage in Debian: Three Proposals",
+      "url": "https://www.debian.org/vote/2026/vote_002",
+      "summary": "Article URL: https://www.debian.org/vote/2026/vote_002\nComments URL: https://news.ycombinator.com/item?id=49050859\nPoints: 209\n# Comments: 208",
+      "source": "hacker_news",
+      "score": null,
+      "author": "zdw",
+      "published": "Sat, 25 Jul 2026 19:44:39 +0000"
+    },
+    {
+      "name": "True open-source LLM Apertus 1.5 released",
+      "url": "https://www.apertus-ai.org/articles/2026-07-apertus-1-5/",
+      "summary": "Article URL: https://www.apertus-ai.org/articles/2026-07-apertus-1-5/\nComments URL: https://news.ycombinator.com/item?id=49050483\nPoints: 3\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "skadge",
+      "published": "Sat, 25 Jul 2026 18:56:17 +0000"
+    }
+  ]
+}

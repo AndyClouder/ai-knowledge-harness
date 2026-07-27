@@ -1,0 +1,422 @@
+[
+  {
+    "id": "562e3428-f880-4375-9501-ba873593f2be",
+    "title": "makecindy/cindy",
+    "source_url": "https://github.com/makecindy/cindy",
+    "source": "unknown",
+    "collected_at": "2026-07-27T11:17:22.715170+00:00",
+    "analyzed_at": "2026-07-27T11:17:22.715170+00:00",
+    "summary": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 761,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "50426f6d-b1ab-4fbe-93d7-79569e3c4f38",
+    "title": "VictorTaelin/OptMem",
+    "source_url": "https://github.com/VictorTaelin/OptMem",
+    "source": "unknown",
+    "collected_at": "2026-07-27T11:17:23.975073+00:00",
+    "analyzed_at": "2026-07-27T11:17:23.975073+00:00",
+    "summary": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 493,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "d90a634b-7906-43b8-902a-4b8b4658e0f4",
+    "title": "AdelanSoulX/PM-Sniper",
+    "source_url": "https://github.com/AdelanSoulX/PM-Sniper",
+    "source": "unknown",
+    "collected_at": "2026-07-27T11:17:25.235281+00:00",
+    "analyzed_at": "2026-07-27T11:17:25.235281+00:00",
+    "summary": "polymarket trading bot polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket tradin",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 413,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "80aac63d-1a66-4a1a-9281-1fa2d61c04ac",
+    "title": "Eversmile12/leaked-llm-prompts",
+    "source_url": "https://github.com/Eversmile12/leaked-llm-prompts",
+    "source": "unknown",
+    "collected_at": "2026-07-27T11:17:26.495577+00:00",
+    "analyzed_at": "2026-07-27T11:17:26.495577+00:00",
+    "summary": "collections-of-leaked-prompts",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 274,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "821b04f7-57fe-4ec0-9a52-dab646df38d8",
+    "title": "XYZ-AI-Lab/axrl",
+    "source_url": "https://github.com/XYZ-AI-Lab/axrl",
+    "source": "unknown",
+    "collected_at": "2026-07-27T11:17:27.756046+00:00",
+    "analyzed_at": "2026-07-27T11:17:27.756046+00:00",
+    "summary": "AxisRL is an agentic RL post-training framework built on SGLang rollout, Megatron training, and real-world agent workflows.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 253,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "ac11642f-7806-42ab-80d2-f82e3f25c9ad",
+    "title": "Ask HN: Where do those LLM-generated outreach emails come from?",
+    "source_url": "https://news.ycombinator.com/item?id=49066659",
+    "source": "hacker_news",
+    "collected_at": "2026-07-27T11:17:29.015217+00:00",
+    "analyzed_at": "2026-07-27T11:17:29.015217+00:00",
+    "summary": "I have started getting daily LLM-written outreach emails. They all follow the same exact pattern, but come from different people pitching different vibe-coded things. The authors are real people with ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "nicbou",
+      "language": null
+    }
+  },
+  {
+    "id": "fe408fae-a336-40d3-bda5-eb37bc983d3b",
+    "title": "General Resolution: LLM Usage in Debian",
+    "source_url": "https://www.debian.org/vote/2026/vote_002#texta",
+    "source": "hacker_news",
+    "collected_at": "2026-07-27T11:17:30.278392+00:00",
+    "analyzed_at": "2026-07-27T11:17:30.278392+00:00",
+    "summary": "Article URL: https://www.debian.org/vote/2026/vote_002#texta\nComments URL: https://news.ycombinator.com/item?id=49066159\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "olalonde",
+      "language": null
+    }
+  },
+  {
+    "id": "50ef0f5a-4fbe-41e6-aa12-40c796e1ee9b",
+    "title": "Ask HN: Are we having a substantial increase of \"Show HN\" since LLM aided coding",
+    "source_url": "https://news.ycombinator.com/item?id=49065810",
+    "source": "hacker_news",
+    "collected_at": "2026-07-27T11:17:31.539277+00:00",
+    "analyzed_at": "2026-07-27T11:17:31.539277+00:00",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=49065810\nPoints: 7\n# Comments: 4",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mdp2021",
+      "language": null
+    }
+  },
+  {
+    "id": "27c4dd26-e04c-4bf5-94ce-24aae48e135a",
+    "title": "The Model Writes, the Judge Measures: Anatomy of an LLM Judge",
+    "source_url": "https://xinfer.ai/home/md/the-model-writes-the-judge-measures",
+    "source": "hacker_news",
+    "collected_at": "2026-07-27T11:17:32.799761+00:00",
+    "analyzed_at": "2026-07-27T11:17:32.799761+00:00",
+    "summary": "Article URL: https://xinfer.ai/home/md/the-model-writes-the-judge-measures\nComments URL: https://news.ycombinator.com/item?id=49064396\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "samwen2026",
+      "language": null
+    }
+  },
+  {
+    "id": "2b713be5-5923-45c4-8ebe-cdaaed246016",
+    "title": "Shepherd Model Gateway – Model-routing gateway for LLM deployments",
+    "source_url": "https://github.com/lightseekorg/smg",
+    "source": "hacker_news",
+    "collected_at": "2026-07-27T11:17:34.062641+00:00",
+    "analyzed_at": "2026-07-27T11:17:34.062641+00:00",
+    "summary": "Article URL: https://github.com/lightseekorg/smg\nComments URL: https://news.ycombinator.com/item?id=49063132\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rekl",
+      "language": null
+    }
+  },
+  {
+    "id": "5c034056-2fb1-4e64-b5cb-a69d79ea48b3",
+    "title": "Show HN: LX Coreutils – pipeable tools enhanced by small local / cheap LLM calls",
+    "source_url": "https://github.com/BrunkenClaas/lx",
+    "source": "hacker_news",
+    "collected_at": "2026-07-27T11:17:35.322628+00:00",
+    "analyzed_at": "2026-07-27T11:17:35.322628+00:00",
+    "summary": "Written in rust.\n\nComments URL: https://news.ycombinator.com/item?id=49062416\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "BrunkenClaas",
+      "language": null
+    }
+  },
+  {
+    "id": "c5422a5f-45b8-4f9c-9d2e-8f23e9635a4e",
+    "title": "LLM Cliche Highlighter",
+    "source_url": "https://tools.simonwillison.net/llm-cliche-highlighter",
+    "source": "hacker_news",
+    "collected_at": "2026-07-27T11:17:36.584789+00:00",
+    "analyzed_at": "2026-07-27T11:17:36.584789+00:00",
+    "summary": "Article URL: https://tools.simonwillison.net/llm-cliche-highlighter\nComments URL: https://news.ycombinator.com/item?id=49061434\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "saikatsg",
+      "language": null
+    }
+  },
+  {
+    "id": "9d5b3ee7-bede-4a0a-8a51-7f03bc6c4de0",
+    "title": "Show HN: An interactive way to exploit an LLM without going to jail",
+    "source_url": "https://github.com/joshfischer1108/jailbreak-lab",
+    "source": "hacker_news",
+    "collected_at": "2026-07-27T11:17:37.845582+00:00",
+    "analyzed_at": "2026-07-27T11:17:37.845582+00:00",
+    "summary": "Article URL: https://github.com/joshfischer1108/jailbreak-lab\nComments URL: https://news.ycombinator.com/item?id=49060776\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "joshfischer1108",
+      "language": null
+    }
+  },
+  {
+    "id": "713b3102-6aad-4795-823c-8bcacf2fde10",
+    "title": "Show HN: LLM-spend – Audit your OpenAI/Anthropic API spend locally",
+    "source_url": "https://github.com/kliukovkin/llm-spend",
+    "source": "hacker_news",
+    "collected_at": "2026-07-27T11:17:39.105610+00:00",
+    "analyzed_at": "2026-07-27T11:17:39.105610+00:00",
+    "summary": "I build spend-pacing systems for ad auctions for a living, and my side-project agent workloads still kept surprising me with API bills I couldn't explain. When I asked around how people attribute LLM ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "kliukovkin",
+      "language": null
+    }
+  },
+  {
+    "id": "04295070-640b-445b-8c43-8c700511e20a",
+    "title": "Show HN: OpenSmith – Trace LLM pipelines locally with trace, no cloud",
+    "source_url": "https://github.com/shivnathtathe/opensmith",
+    "source": "hacker_news",
+    "collected_at": "2026-07-27T11:17:40.366176+00:00",
+    "analyzed_at": "2026-07-27T11:17:40.366176+00:00",
+    "summary": "Article URL: https://github.com/shivnathtathe/opensmith\nComments URL: https://news.ycombinator.com/item?id=49058643\nPoints: 1\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "shivnathtathe",
+      "language": null
+    }
+  },
+  {
+    "id": "a9f05f6d-054a-4b04-863b-e2284ddbed8b",
+    "title": "I built a canvas where LLM chats become an editable map",
+    "source_url": "https://github.com/chenxiachan/thoughtdag",
+    "source": "hacker_news",
+    "collected_at": "2026-07-27T11:17:41.625978+00:00",
+    "analyzed_at": "2026-07-27T11:17:41.625978+00:00",
+    "summary": "Article URL: https://github.com/chenxiachan/thoughtdag\nComments URL: https://news.ycombinator.com/item?id=49057101\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "chatchan",
+      "language": null
+    }
+  },
+  {
+    "id": "dd3bde1c-21c1-471d-a283-2c54edfb7c00",
+    "title": "The Two Sources of Noise Every LLM Evaluation System Must Handle",
+    "source_url": "https://wilburhimself.github.io/blog/64-the-two-sources-of-noise-every-llm-evaluation-system-must-handle/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-27T11:17:42.885378+00:00",
+    "analyzed_at": "2026-07-27T11:17:42.885378+00:00",
+    "summary": "Article URL: https://wilburhimself.github.io/blog/64-the-two-sources-of-noise-every-llm-evaluation-system-must-handle/\nComments URL: https://news.ycombinator.com/item?id=49055170\nPoints: 2\n# Comments:",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "wilburhimself",
+      "language": null
+    }
+  },
+  {
+    "id": "a60c18c7-203b-4aed-8169-ec6cb8453d0d",
+    "title": "Introduction to LLM Inference",
+    "source_url": "https://kraghavan.ca/llm-infrastructure/inference/2026/04/14/re-introduction-to-inference.html",
+    "source": "hacker_news",
+    "collected_at": "2026-07-27T11:17:44.146427+00:00",
+    "analyzed_at": "2026-07-27T11:17:44.146427+00:00",
+    "summary": "Article URL: https://kraghavan.ca/llm-infrastructure/inference/2026/04/14/re-introduction-to-inference.html\nComments URL: https://news.ycombinator.com/item?id=49054962\nPoints: 3\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "kraghavan",
+      "language": null
+    }
+  },
+  {
+    "id": "d367c679-9bab-45c5-bdde-8940898050db",
+    "title": "LLM-as-a-Judge Field Guide",
+    "source_url": "https://kraghavan.ca/llm-infrastructure/evaluation/2026/07/25/llm-as-a-judge-field-guide.html",
+    "source": "hacker_news",
+    "collected_at": "2026-07-27T11:17:45.408317+00:00",
+    "analyzed_at": "2026-07-27T11:17:45.408317+00:00",
+    "summary": "Article URL: https://kraghavan.ca/llm-infrastructure/evaluation/2026/07/25/llm-as-a-judge-field-guide.html\nComments URL: https://news.ycombinator.com/item?id=49054953\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "kraghavan",
+      "language": null
+    }
+  },
+  {
+    "id": "38a96fe7-fc22-426f-b117-1b4cac4514a3",
+    "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding",
+    "source_url": "https://danluu.com/ai-coding/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-27T11:17:46.669490+00:00",
+    "analyzed_at": "2026-07-27T11:17:46.669490+00:00",
+    "summary": "Article URL: https://danluu.com/ai-coding/\nComments URL: https://news.ycombinator.com/item?id=49054268\nPoints: 17\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "bathtub365",
+      "language": null
+    }
+  }
+]
