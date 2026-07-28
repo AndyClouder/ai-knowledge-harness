@@ -1,0 +1,115 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-07-28T10:31:12.616815+00:00",
+  "items": [
+    {
+      "name": "kvcache-ai/AgentENV",
+      "url": "https://github.com/kvcache-ai/AgentENV",
+      "summary": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
+      "stars": 1218,
+      "language": "Rust",
+      "topics": []
+    },
+    {
+      "name": "0xwilliamortiz/openclaude-improved",
+      "url": "https://github.com/0xwilliamortiz/openclaude-improved",
+      "summary": "runs anywhere. uses anything",
+      "stars": 577,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "ai",
+        "ai-agent",
+        "ai-coding",
+        "ai-coding-agent",
+        "ai-coding-agents",
+        "ai-coding-assistant",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "cli",
+        "coding-agent",
+        "gemini",
+        "gemini-ai",
+        "gemini-cli",
+        "llm",
+        "mcp",
+        "model-context-protocol",
+        "openrouter"
+      ]
+    },
+    {
+      "name": "XYZ-AI-Lab/AxisAgentic",
+      "url": "https://github.com/XYZ-AI-Lab/AxisAgentic",
+      "summary": "AxisAgentic: An Extensible Runtime and Trajectory-Collection Framework for Long-Horizon Agents.",
+      "stars": 308,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "0xwilliamortiz/andrej-karpathy-skills",
+      "url": "https://github.com/0xwilliamortiz/andrej-karpathy-skills",
+      "summary": "Behavioral guardrails for Claude Code, distilled from Andrej Karpathy's field notes on where LLMs go wrong when they write software.",
+      "stars": 307,
+      "language": null,
+      "topics": [
+        "andrej-karpathy",
+        "claude",
+        "claude-api",
+        "claude-code-plugin",
+        "claude-code-skill",
+        "claude-desktop",
+        "claudeskills",
+        "skills"
+      ]
+    },
+    {
+      "name": "deerwork-ai/deer-workflow",
+      "url": "https://github.com/deerwork-ai/deer-workflow",
+      "summary": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+      "stars": 304,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "ai-coding",
+        "bun",
+        "dynamic-workflow",
+        "dynamic-workflows",
+        "graph-engineering",
+        "llm",
+        "workflow"
+      ]
+    },
+    {
+      "name": "yanhua1010/self-media-content-workflow",
+      "url": "https://github.com/yanhua1010/self-media-content-workflow",
+      "summary": "通用、模块化的自媒体内容生产与经营 Skills / A modular, tool-agnostic self-media content skill suite",
+      "stars": 291,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "claude-skills",
+        "content-creation",
+        "copywriting",
+        "self-media",
+        "social-media",
+        "wechat",
+        "xiaohongshu"
+      ]
+    },
+    {
+      "name": "ddcat-ai/open-ai-canvas",
+      "url": "https://github.com/ddcat-ai/open-ai-canvas",
+      "summary": "面向 AI 影视创作的开源无限画布工作台，集成多模态生成、分镜编排、素材管理与 Agent 工作流。",
+      "stars": 274,
+      "language": "TypeScript",
+      "topics": []
+    }
+  ]
+}

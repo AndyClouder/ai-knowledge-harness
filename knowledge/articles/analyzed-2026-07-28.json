@@ -1,0 +1,149 @@
+[
+  {
+    "id": "0624c45e-22b5-4456-b55e-9b8c3a64c795",
+    "title": "kvcache-ai/AgentENV",
+    "source_url": "https://github.com/kvcache-ai/AgentENV",
+    "source": "unknown",
+    "collected_at": "2026-07-28T10:31:16.595701+00:00",
+    "analyzed_at": "2026-07-28T10:31:16.595701+00:00",
+    "summary": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1218,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "b932a5d9-d0f0-45b6-8ddb-604e3f722b79",
+    "title": "0xwilliamortiz/openclaude-improved",
+    "source_url": "https://github.com/0xwilliamortiz/openclaude-improved",
+    "source": "unknown",
+    "collected_at": "2026-07-28T10:31:17.897591+00:00",
+    "analyzed_at": "2026-07-28T10:31:17.897591+00:00",
+    "summary": "runs anywhere. uses anything",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 577,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "db7aa655-a55d-481d-b460-01186d1c070c",
+    "title": "XYZ-AI-Lab/AxisAgentic",
+    "source_url": "https://github.com/XYZ-AI-Lab/AxisAgentic",
+    "source": "unknown",
+    "collected_at": "2026-07-28T10:31:19.173472+00:00",
+    "analyzed_at": "2026-07-28T10:31:19.173472+00:00",
+    "summary": "AxisAgentic: An Extensible Runtime and Trajectory-Collection Framework for Long-Horizon Agents.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 308,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "2e6f8257-1efe-48d2-9ca4-baf5dd3077e5",
+    "title": "0xwilliamortiz/andrej-karpathy-skills",
+    "source_url": "https://github.com/0xwilliamortiz/andrej-karpathy-skills",
+    "source": "unknown",
+    "collected_at": "2026-07-28T10:31:20.450956+00:00",
+    "analyzed_at": "2026-07-28T10:31:20.450956+00:00",
+    "summary": "Behavioral guardrails for Claude Code, distilled from Andrej Karpathy's field notes on where LLMs go wrong when they write software.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 307,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "e43a162a-fcde-4b28-8b84-6ecab75e5cf9",
+    "title": "deerwork-ai/deer-workflow",
+    "source_url": "https://github.com/deerwork-ai/deer-workflow",
+    "source": "unknown",
+    "collected_at": "2026-07-28T10:31:21.728258+00:00",
+    "analyzed_at": "2026-07-28T10:31:21.728258+00:00",
+    "summary": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 304,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "d23cf134-6c29-4bbb-b260-ff0624a1f925",
+    "title": "yanhua1010/self-media-content-workflow",
+    "source_url": "https://github.com/yanhua1010/self-media-content-workflow",
+    "source": "unknown",
+    "collected_at": "2026-07-28T10:31:23.003207+00:00",
+    "analyzed_at": "2026-07-28T10:31:23.003207+00:00",
+    "summary": "通用、模块化的自媒体内容生产与经营 Skills / A modular, tool-agnostic self-media content skill suite",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 291,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "ece92180-6535-41c8-a178-bedac0c0376d",
+    "title": "ddcat-ai/open-ai-canvas",
+    "source_url": "https://github.com/ddcat-ai/open-ai-canvas",
+    "source": "unknown",
+    "collected_at": "2026-07-28T10:31:24.279573+00:00",
+    "analyzed_at": "2026-07-28T10:31:24.279573+00:00",
+    "summary": "面向 AI 影视创作的开源无限画布工作台，集成多模态生成、分镜编排、素材管理与 Agent 工作流。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 274,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  }
+]
