@@ -1,0 +1,82 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-07-29T10:35:52.607972+00:00",
+  "items": [
+    {
+      "name": "fuadmefleh/Shared-Claude-Chats",
+      "url": "https://github.com/fuadmefleh/Shared-Claude-Chats",
+      "summary": "An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
+      "stars": 893,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "0xwilliamortiz/ponytail-improved",
+      "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+      "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 476,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-code-skill",
+        "claude-skills",
+        "cursor-rules",
+        "ponytail",
+        "prompt-engineering",
+        "prompt-optimization",
+        "yagni"
+      ]
+    },
+    {
+      "name": "daimon3332/OutlookRegister",
+      "url": "https://github.com/daimon3332/OutlookRegister",
+      "summary": "Outlook/Hotmail account batch registration tool.                          Outlook / Hotmail 账号批量注册工具，支持自动获取 OAuth2 refresh_token",
+      "stars": 441,
+      "language": "Python",
+      "topics": [
+        "hotmail",
+        "mail",
+        "microservice",
+        "microsoft",
+        "outlook",
+        "register"
+      ]
+    },
+    {
+      "name": "achimala/TheLongSilence",
+      "url": "https://github.com/achimala/TheLongSilence",
+      "summary": "A space exploration game built by Claude Opus 5",
+      "stars": 263,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "name": "FrigadeHQ/yap",
+      "url": "https://github.com/FrigadeHQ/yap",
+      "summary": "Free, open source voice dictation for macOS. On-device transcription with Apple's Speech framework. No cloud, no API keys, no account.",
+      "stars": 258,
+      "language": "Swift",
+      "topics": [
+        "accessibility",
+        "apple-speech",
+        "dictation",
+        "macos",
+        "macos-app",
+        "menubar",
+        "offline",
+        "on-device",
+        "privacy",
+        "speech-recognition",
+        "speech-to-text",
+        "swift",
+        "swiftui",
+        "transcription",
+        "voice-to-text",
+        "whisper-alternative"
+      ]
+    }
+  ]
+}
