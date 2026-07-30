@@ -1,0 +1,422 @@
+[
+  {
+    "id": "742fc1f9-b361-4452-ba2e-d8b81b1eb7c9",
+    "title": "gavamedia/deltafin",
+    "source_url": "https://github.com/gavamedia/deltafin",
+    "source": "unknown",
+    "collected_at": "2026-07-30T10:22:43.503707+00:00",
+    "analyzed_at": "2026-07-30T10:22:43.503707+00:00",
+    "summary": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 391,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "1620da8e-919c-4e36-b293-0cad9034ceb7",
+    "title": "lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
+    "source_url": "https://github.com/lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
+    "source": "unknown",
+    "collected_at": "2026-07-30T10:22:44.709511+00:00",
+    "analyzed_at": "2026-07-30T10:22:44.709511+00:00",
+    "summary": "NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 286,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "2d0eab9e-decb-42d1-9478-69cdff457adb",
+    "title": "qaml-ai/camelAI",
+    "source_url": "https://github.com/qaml-ai/camelAI",
+    "source": "unknown",
+    "collected_at": "2026-07-30T10:22:45.915597+00:00",
+    "analyzed_at": "2026-07-30T10:22:45.915597+00:00",
+    "summary": "camelAI — an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 283,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "94feb03d-fc15-4bee-ae8f-48335dc27a29",
+    "title": "PipeNetwork/kimi-k3-mlx",
+    "source_url": "https://github.com/PipeNetwork/kimi-k3-mlx",
+    "source": "unknown",
+    "collected_at": "2026-07-30T10:22:47.119349+00:00",
+    "analyzed_at": "2026-07-30T10:22:47.119349+00:00",
+    "summary": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 282,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "36d229a2-9030-481a-b0cc-8432175b4153",
+    "title": "iximiuz/shellgym",
+    "source_url": "https://github.com/iximiuz/shellgym",
+    "source": "unknown",
+    "collected_at": "2026-07-30T10:22:48.322624+00:00",
+    "analyzed_at": "2026-07-30T10:22:48.322624+00:00",
+    "summary": "Shell Gym - an Interactive Linux Command-Line Trainer",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 260,
+      "score": null,
+      "author": null,
+      "language": "Go"
+    }
+  },
+  {
+    "id": "6ba89979-b733-49cb-ade2-f291f57152cf",
+    "title": "AI Automation Without the Hype",
+    "source_url": "https://news.ycombinator.com/item?id=49107982",
+    "source": "hacker_news",
+    "collected_at": "2026-07-30T10:22:49.527400+00:00",
+    "analyzed_at": "2026-07-30T10:22:49.527400+00:00",
+    "summary": "Practical AI agents for real business problems. 100+ pages of code you can deploy today. No fluff, just working solutions.https://lawalfataikola.gumroad.com/l/dtbkre\n https://selar.com/1fhr394891[Link",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "lawalkola",
+      "language": null
+    }
+  },
+  {
+    "id": "4f7c43d3-a1b2-4eb4-b4b9-d9980b7b05f3",
+    "title": "AI Automation Without the Hype",
+    "source_url": "https://news.ycombinator.com/item?id=49107959",
+    "source": "hacker_news",
+    "collected_at": "2026-07-30T10:22:50.760056+00:00",
+    "analyzed_at": "2026-07-30T10:22:50.760056+00:00",
+    "summary": "Practical AI agents for real business problems. 100+ pages of code you can deploy today. No fluff, just working solutions.https://lawalfataikola.gumroad.com/l/dtbkre\n https://selar.com/1fhr394891[Link",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "lawalkola",
+      "language": null
+    }
+  },
+  {
+    "id": "dd970554-af50-4dc7-a83f-45e24fed68e2",
+    "title": "EU opens call for seven 'gigafactories' to train next-generation AI",
+    "source_url": "https://www.euronews.com/my-europe/2026/07/30/eu-opens-call-for-seven-gigafactories-to-train-next-generation-ai-technologies",
+    "source": "hacker_news",
+    "collected_at": "2026-07-30T10:22:52.001532+00:00",
+    "analyzed_at": "2026-07-30T10:22:52.001532+00:00",
+    "summary": "Article URL: https://www.euronews.com/my-europe/2026/07/30/eu-opens-call-for-seven-gigafactories-to-train-next-generation-ai-technologies\nComments URL: https://news.ycombinator.com/item?id=49107928\nPo",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "geox",
+      "language": null
+    }
+  },
+  {
+    "id": "bd082521-0f79-4924-be7d-88ab2d6faecb",
+    "title": "OpeClaud AI – Catch runtime bugs in AI-generated code before production",
+    "source_url": "https://opeclaud.com",
+    "source": "hacker_news",
+    "collected_at": "2026-07-30T10:22:53.206989+00:00",
+    "analyzed_at": "2026-07-30T10:22:53.206989+00:00",
+    "summary": "Article URL: https://opeclaud.com\nComments URL: https://news.ycombinator.com/item?id=49107920\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rumeshdyr",
+      "language": null
+    }
+  },
+  {
+    "id": "c404ea6d-286e-4b20-8713-26b3940f8be4",
+    "title": "I built a free AI curriculum from philosophy to LLMs",
+    "source_url": "https://howmachinesthink.substack.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-30T10:22:54.411489+00:00",
+    "analyzed_at": "2026-07-30T10:22:54.411489+00:00",
+    "summary": "Article URL: https://howmachinesthink.substack.com/\nComments URL: https://news.ycombinator.com/item?id=49107897\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "abhaysinghr516",
+      "language": null
+    }
+  },
+  {
+    "id": "a956f22c-425e-4eca-a105-c8611a53b865",
+    "title": "Open-weights AI models have become good enough",
+    "source_url": "https://blog.senko.net/open-weights-ai-models-have-become-good-enough",
+    "source": "hacker_news",
+    "collected_at": "2026-07-30T10:22:55.641259+00:00",
+    "analyzed_at": "2026-07-30T10:22:55.641259+00:00",
+    "summary": "Article URL: https://blog.senko.net/open-weights-ai-models-have-become-good-enough\nComments URL: https://news.ycombinator.com/item?id=49107878\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "chistev",
+      "language": null
+    }
+  },
+  {
+    "id": "40b923ed-d528-4384-8580-448ae4709979",
+    "title": "Show HN: Two AI eyes argue about morality, using the sociology of justification",
+    "source_url": "https://orb-eye-ten.vercel.app/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-30T10:22:56.846764+00:00",
+    "analyzed_at": "2026-07-30T10:22:56.846764+00:00",
+    "summary": "Article URL: https://orb-eye-ten.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=49107858\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "zamtam",
+      "language": null
+    }
+  },
+  {
+    "id": "4380ecda-9cba-4611-8bd3-4333835e3f28",
+    "title": "Ventora Expands Its AI Business Builder to Help Solo Founders",
+    "source_url": "https://news.ycombinator.com/item?id=49107855",
+    "source": "hacker_news",
+    "collected_at": "2026-07-30T10:22:58.051773+00:00",
+    "analyzed_at": "2026-07-30T10:22:58.051773+00:00",
+    "summary": "Building software is becoming easy.\nBuilding a business is not.AI coding tools have dramatically lowered the barrier to creating SaaS products, AI applications, online services, marketplaces, and e-co",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "darius88",
+      "language": null
+    }
+  },
+  {
+    "id": "94bb36f0-ca91-49cf-ae02-3a55fa53827a",
+    "title": "Nvidia Accelerates Chip Engineering with AI Agents",
+    "source_url": "https://www.nextplatform.com/hpc/2026/07/27/nvidia-accelerates-chip-engineering-with-ai-agents/5279125",
+    "source": "hacker_news",
+    "collected_at": "2026-07-30T10:22:59.259118+00:00",
+    "analyzed_at": "2026-07-30T10:22:59.259118+00:00",
+    "summary": "Article URL: https://www.nextplatform.com/hpc/2026/07/27/nvidia-accelerates-chip-engineering-with-ai-agents/5279125\nComments URL: https://news.ycombinator.com/item?id=49107822\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rbanffy",
+      "language": null
+    }
+  },
+  {
+    "id": "aee90200-aba2-4379-bd35-53ef1ebaf1e7",
+    "title": "Every Amazon SaaS claims to use AI",
+    "source_url": "https://clarisix.com/blog/on-the-ai-claim",
+    "source": "hacker_news",
+    "collected_at": "2026-07-30T10:23:00.464668+00:00",
+    "analyzed_at": "2026-07-30T10:23:00.464668+00:00",
+    "summary": "Article URL: https://clarisix.com/blog/on-the-ai-claim\nComments URL: https://news.ycombinator.com/item?id=49107723\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "claudiuclement",
+      "language": null
+    }
+  },
+  {
+    "id": "3d25921d-1393-4b57-bebf-3ea00226aedf",
+    "title": "Airlines Race to Adopt AI 'Surveillance Pricing' That Could Kill Off Cheap Seats",
+    "source_url": "https://simpleflying.com/airlines-ai-surveillance-pricing-cheap-seats/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-30T10:23:01.669950+00:00",
+    "analyzed_at": "2026-07-30T10:23:01.669950+00:00",
+    "summary": "Article URL: https://simpleflying.com/airlines-ai-surveillance-pricing-cheap-seats/\nComments URL: https://news.ycombinator.com/item?id=49107696\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "thm",
+      "language": null
+    }
+  },
+  {
+    "id": "5c98e6b0-c7b9-42e0-8931-4ce1ab536291",
+    "title": "Google's SynthID watermark is hard to break, but doesn't solve AI disinformation",
+    "source_url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
+    "source": "hacker_news",
+    "collected_at": "2026-07-30T10:23:02.875011+00:00",
+    "analyzed_at": "2026-07-30T10:23:02.875011+00:00",
+    "summary": "Article URL: https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/\nComments URL: https://news.ycombinator.com/item?id=49107692\nPoints: 1\n# ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "thm",
+      "language": null
+    }
+  },
+  {
+    "id": "9f9637e2-b534-411f-9ef2-b90cd33c58d2",
+    "title": "We asked an AI about the future",
+    "source_url": "https://www.swissinfo.ch/eng/demographics/we-asked-an-ai-about-the-future-its-answer-might-genuinely-scare-you/91805820",
+    "source": "hacker_news",
+    "collected_at": "2026-07-30T10:23:04.108517+00:00",
+    "analyzed_at": "2026-07-30T10:23:04.108517+00:00",
+    "summary": "Article URL: https://www.swissinfo.ch/eng/demographics/we-asked-an-ai-about-the-future-its-answer-might-genuinely-scare-you/91805820\nComments URL: https://news.ycombinator.com/item?id=49107615\nPoints:",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jakzurr",
+      "language": null
+    }
+  },
+  {
+    "id": "91c30ca6-6aec-48e7-9091-559e416c46bc",
+    "title": "Ask HN: How are you handling production risks from AI generated code?",
+    "source_url": "https://news.ycombinator.com/item?id=49107587",
+    "source": "hacker_news",
+    "collected_at": "2026-07-30T10:23:05.340484+00:00",
+    "analyzed_at": "2026-07-30T10:23:05.340484+00:00",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=49107587\nPoints: 3\n# Comments: 3",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "varda_62892",
+      "language": null
+    }
+  },
+  {
+    "id": "075aade8-92bd-4c3f-8101-03f1fd2e654e",
+    "title": "AI contract review inside Word – first law firm signing this week",
+    "source_url": "https://clausio.pl",
+    "source": "hacker_news",
+    "collected_at": "2026-07-30T10:23:06.545991+00:00",
+    "analyzed_at": "2026-07-30T10:23:06.545991+00:00",
+    "summary": "Article URL: https://clausio.pl\nComments URL: https://news.ycombinator.com/item?id=49107572\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "DavidKon",
+      "language": null
+    }
+  }
+]

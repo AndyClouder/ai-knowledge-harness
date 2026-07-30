@@ -1,0 +1,57 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-07-30T10:22:13.218652+00:00",
+  "items": [
+    {
+      "name": "gavamedia/deltafin",
+      "url": "https://github.com/gavamedia/deltafin",
+      "summary": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+      "stars": 391,
+      "language": "Python",
+      "topics": [
+        "kimi",
+        "kimi-k3",
+        "local-ai",
+        "local-llm"
+      ]
+    },
+    {
+      "name": "lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
+      "url": "https://github.com/lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
+      "summary": "NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
+      "stars": 286,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "qaml-ai/camelAI",
+      "url": "https://github.com/qaml-ai/camelAI",
+      "summary": "camelAI — an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
+      "stars": 283,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "PipeNetwork/kimi-k3-mlx",
+      "url": "https://github.com/PipeNetwork/kimi-k3-mlx",
+      "summary": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
+      "stars": 282,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "iximiuz/shellgym",
+      "url": "https://github.com/iximiuz/shellgym",
+      "summary": "Shell Gym - an Interactive Linux Command-Line Trainer",
+      "stars": 260,
+      "language": "Go",
+      "topics": [
+        "learning-by-doing",
+        "linux",
+        "shell",
+        "trainer"
+      ]
+    }
+  ]
+}
