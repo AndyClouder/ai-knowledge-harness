@@ -1,0 +1,149 @@
+[
+  {
+    "id": "f9b13498-3dc6-4fd1-bfe3-f2f79e0e03bf",
+    "title": "QwenAudio/qwen-audio-agent",
+    "source_url": "https://github.com/QwenAudio/qwen-audio-agent",
+    "source": "unknown",
+    "collected_at": "2026-07-31T10:35:52.578779+00:00",
+    "analyzed_at": "2026-07-31T10:35:52.578779+00:00",
+    "summary": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 544,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "ffb5ca0f-4f6e-49a3-a1c9-717247d5c11e",
+    "title": "perplexityai/numbat",
+    "source_url": "https://github.com/perplexityai/numbat",
+    "source": "unknown",
+    "collected_at": "2026-07-31T10:35:53.940248+00:00",
+    "analyzed_at": "2026-07-31T10:35:53.940248+00:00",
+    "summary": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 457,
+      "score": null,
+      "author": null,
+      "language": "Go"
+    }
+  },
+  {
+    "id": "dfbd2f3d-46e2-4ed6-9ce8-e9d4f58f8963",
+    "title": "Noniv/snowflow_demo",
+    "source_url": "https://github.com/Noniv/snowflow_demo",
+    "source": "unknown",
+    "collected_at": "2026-07-31T10:35:55.301416+00:00",
+    "analyzed_at": "2026-07-31T10:35:55.301416+00:00",
+    "summary": "A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 377,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "07c4a623-6c28-4059-80dc-122e841edfa1",
+    "title": "LYiHub/pub-local-jarvis",
+    "source_url": "https://github.com/LYiHub/pub-local-jarvis",
+    "source": "unknown",
+    "collected_at": "2026-07-31T10:35:56.661418+00:00",
+    "analyzed_at": "2026-07-31T10:35:56.661418+00:00",
+    "summary": "Windows 本地多模态 AI 桌面桌宠，支持屏幕与音频感知。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 298,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "7c5d9236-8010-4610-9388-5cb38d1432ef",
+    "title": "elayadesign/ai-design-skills",
+    "source_url": "https://github.com/elayadesign/ai-design-skills",
+    "source": "unknown",
+    "collected_at": "2026-07-31T10:35:58.021158+00:00",
+    "analyzed_at": "2026-07-31T10:35:58.021158+00:00",
+    "summary": "",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 240,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "aa9f8990-28df-4149-83c7-f69eae355231",
+    "title": "icebird1998/scientific-illustrator",
+    "source_url": "https://github.com/icebird1998/scientific-illustrator",
+    "source": "unknown",
+    "collected_at": "2026-07-31T10:35:59.380752+00:00",
+    "analyzed_at": "2026-07-31T10:35:59.380752+00:00",
+    "summary": "Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 226,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "cd854226-8147-4e49-a394-53490c56607c",
+    "title": "0xwilliamortiz/FlashKDA",
+    "source_url": "https://github.com/0xwilliamortiz/FlashKDA",
+    "source": "unknown",
+    "collected_at": "2026-07-31T10:36:00.740678+00:00",
+    "analyzed_at": "2026-07-31T10:36:00.740678+00:00",
+    "summary": "FlashKDA: memory-efficient KDA kernels for training and decode",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 193,
+      "score": null,
+      "author": null,
+      "language": "Cuda"
+    }
+  }
+]

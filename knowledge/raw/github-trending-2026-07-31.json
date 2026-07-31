@@ -1,0 +1,93 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-07-31T10:35:45.777691+00:00",
+  "items": [
+    {
+      "name": "QwenAudio/qwen-audio-agent",
+      "url": "https://github.com/QwenAudio/qwen-audio-agent",
+      "summary": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+      "stars": 544,
+      "language": "JavaScript",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "voice-agent",
+        "voice-ai",
+        "voice-chat"
+      ]
+    },
+    {
+      "name": "perplexityai/numbat",
+      "url": "https://github.com/perplexityai/numbat",
+      "summary": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
+      "stars": 457,
+      "language": "Go",
+      "topics": [
+        "agent-security",
+        "ai-agent-security",
+        "ai-agents"
+      ]
+    },
+    {
+      "name": "Noniv/snowflow_demo",
+      "url": "https://github.com/Noniv/snowflow_demo",
+      "summary": "A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells",
+      "stars": 377,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "name": "LYiHub/pub-local-jarvis",
+      "url": "https://github.com/LYiHub/pub-local-jarvis",
+      "summary": "Windows 本地多模态 AI 桌面桌宠，支持屏幕与音频感知。",
+      "stars": 298,
+      "language": "Python",
+      "topics": [
+        "ai-assistants",
+        "cuda",
+        "desktop-assistant",
+        "local-ai",
+        "minicpm"
+      ]
+    },
+    {
+      "name": "elayadesign/ai-design-skills",
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "summary": "",
+      "stars": 240,
+      "language": null,
+      "topics": []
+    },
+    {
+      "name": "icebird1998/scientific-illustrator",
+      "url": "https://github.com/icebird1998/scientific-illustrator",
+      "summary": "Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates.",
+      "stars": 226,
+      "language": "JavaScript",
+      "topics": [
+        "codex",
+        "drawio",
+        "editable-figures",
+        "mcp",
+        "powerpoint",
+        "scientific-illustration"
+      ]
+    },
+    {
+      "name": "0xwilliamortiz/FlashKDA",
+      "url": "https://github.com/0xwilliamortiz/FlashKDA",
+      "summary": "FlashKDA: memory-efficient KDA kernels for training and decode",
+      "stars": 193,
+      "language": "Cuda",
+      "topics": [
+        "cuda",
+        "kimi",
+        "kimi-k2",
+        "kimi-k3",
+        "moonshot",
+        "moonshot-ai"
+      ]
+    }
+  ]
+}
