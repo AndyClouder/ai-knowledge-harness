@@ -1,0 +1,104 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-08-01T09:55:22.316745+00:00",
+  "items": [
+    {
+      "name": "yc-software/qm",
+      "url": "https://github.com/yc-software/qm",
+      "summary": "Multiplayer agent harness for work",
+      "stars": 3306,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "WilonityDev/WilonityLoader",
+      "url": "https://github.com/WilonityDev/WilonityLoader",
+      "summary": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID clea",
+      "stars": 532,
+      "language": null,
+      "topics": [
+        "arc-raiders",
+        "counter-strike-2",
+        "game",
+        "hack",
+        "meccha-chameleon-tools",
+        "minecraft"
+      ]
+    },
+    {
+      "name": "sqliteai/waste",
+      "url": "https://github.com/sqliteai/waste",
+      "summary": "Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.",
+      "stars": 437,
+      "language": "C",
+      "topics": []
+    },
+    {
+      "name": "0xwilliamortiz/ratchet",
+      "url": "https://github.com/0xwilliamortiz/ratchet",
+      "summary": "Your agent reads the rules. This checks whether it followed them.",
+      "stars": 402,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skills",
+        "code-quality",
+        "developer-tools",
+        "hooks",
+        "llm",
+        "ratchet",
+        "rate-limiting",
+        "static-analysis",
+        "yagni"
+      ]
+    },
+    {
+      "name": "Kenton-GMI/sakura-crossing",
+      "url": "https://github.com/Kenton-GMI/sakura-crossing",
+      "summary": "An explorable Japanese suburban railway-crossing neighbourhood on a small planet, rendered 3D-to-2D as a cel-shaded anime background. Three.js, no image assets.",
+      "stars": 242,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "name": "AmazingAng/old-coder",
+      "url": "https://github.com/AmazingAng/old-coder",
+      "summary": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
+      "stars": 210,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "skills",
+        "tdd"
+      ]
+    },
+    {
+      "name": "starling-build/starling",
+      "url": "https://github.com/starling-build/starling",
+      "summary": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
+      "stars": 198,
+      "language": "Swift",
+      "topics": [
+        "ai",
+        "compositor",
+        "desktop",
+        "desktop-environment",
+        "drm",
+        "flutter",
+        "gpu",
+        "kms",
+        "linux",
+        "swift",
+        "ubuntu",
+        "wayland",
+        "wayland-compositor",
+        "window-manager",
+        "x11"
+      ]
+    }
+  ]
+}

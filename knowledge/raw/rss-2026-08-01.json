@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-08-01T09:55:57.669763+00:00",
+  "items": [
+    {
+      "name": "Show HN: Horus-runtime – Train your own tiny LLM from scratch",
+      "url": "https://github.com/temple-compute/pantheon/tree/main/workflows/ai/w02-tiny-llm",
+      "summary": "Article URL: https://github.com/temple-compute/pantheon/tree/main/workflows/ai/w02-tiny-llm\nComments URL: https://news.ycombinator.com/item?id=49132705\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "chdominguez",
+      "published": "Sat, 01 Aug 2026 09:27:21 +0000"
+    },
+    {
+      "name": "Show HN: Sanitizer – Strip sensitive data from documents locally before an LLM",
+      "url": "https://provexar.ai/sanitizer",
+      "summary": "Article URL: https://provexar.ai/sanitizer\nComments URL: https://news.ycombinator.com/item?id=49130329\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "MVKozyrev",
+      "published": "Sat, 01 Aug 2026 01:42:54 +0000"
+    },
+    {
+      "name": "LLM speculative decoding explained simply",
+      "url": "https://jwlabs.vercel.app/post/speculative-decoding-first-principles",
+      "summary": "Article URL: https://jwlabs.vercel.app/post/speculative-decoding-first-principles\nComments URL: https://news.ycombinator.com/item?id=49130093\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "shreybirmiwal",
+      "published": "Sat, 01 Aug 2026 00:48:35 +0000"
+    },
+    {
+      "name": "Show HN: GAI – A Go runtime for typed, tool-using LLM agents",
+      "url": "https://github.com/lace-ai/gai",
+      "summary": "Article URL: https://github.com/lace-ai/gai\nComments URL: https://news.ycombinator.com/item?id=49129430\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "samuel_kx0",
+      "published": "Fri, 31 Jul 2026 22:53:26 +0000"
+    },
+    {
+      "name": "Predictive Speculative KV Replication for Bursty LLM Inference",
+      "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
+      "summary": "https://github.com/jwlaboratory/bite-the-bullet\n\nComments URL: https://news.ycombinator.com/item?id=49127874\nPoints: 37\n# Comments: 4",
+      "source": "hacker_news",
+      "score": null,
+      "author": "shreybirmiwal",
+      "published": "Fri, 31 Jul 2026 19:55:41 +0000"
+    },
+    {
+      "name": "Bursty arrivals speed up LLM inference",
+      "url": "https://systems.seas.harvard.edu/blog/burstiness-is-all-you-need/",
+      "summary": "Article URL: https://systems.seas.harvard.edu/blog/burstiness-is-all-you-need/\nComments URL: https://news.ycombinator.com/item?id=49126971\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ak33ra",
+      "published": "Fri, 31 Jul 2026 18:35:24 +0000"
+    },
+    {
+      "name": "What LLM Inference Costs",
+      "url": "https://twitter.com/Akashi203/status/2083213197171884505",
+      "summary": "Article URL: https://twitter.com/Akashi203/status/2083213197171884505\nComments URL: https://news.ycombinator.com/item?id=49126687\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "OsamaJaber",
+      "published": "Fri, 31 Jul 2026 18:11:45 +0000"
+    },
+    {
+      "name": "Everyone is building LLM routers, we deprecated ours",
+      "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+      "summary": "Article URL: https://manifest.build/blog/why-we-deprecated-our-llm-router/\nComments URL: https://news.ycombinator.com/item?id=49126630\nPoints: 120\n# Comments: 72",
+      "source": "hacker_news",
+      "score": null,
+      "author": "brunaxLorax",
+      "published": "Fri, 31 Jul 2026 18:06:39 +0000"
+    },
+    {
+      "name": "Contextor-spare LLM tokens required for full structural analysis of Python repo",
+      "url": "https://github.com/WojciechJarka/Contextor/releases/tag/v.1.0.4",
+      "summary": "Article URL: https://github.com/WojciechJarka/Contextor/releases/tag/v.1.0.4\nComments URL: https://news.ycombinator.com/item?id=49126266\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "koniowizamelduj",
+      "published": "Fri, 31 Jul 2026 17:38:30 +0000"
+    },
+    {
+      "name": "New Yorker Riza Berkan: LLM versus Ontology for Efficient ML [video]",
+      "url": "https://www.youtube.com/watch?v=Fkm75pvHN-4",
+      "summary": "Article URL: https://www.youtube.com/watch?v=Fkm75pvHN-4\nComments URL: https://news.ycombinator.com/item?id=49125999\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "northlondoner",
+      "published": "Fri, 31 Jul 2026 17:17:17 +0000"
+    },
+    {
+      "name": "Nothing Is Easy When You're an LLM: The Flat Latency Problem",
+      "url": "https://aidoses.substack.com/p/nothing-is-easy-when-youre-an-llm",
+      "summary": "Article URL: https://aidoses.substack.com/p/nothing-is-easy-when-youre-an-llm\nComments URL: https://news.ycombinator.com/item?id=49125443\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ryanrad",
+      "published": "Fri, 31 Jul 2026 16:39:19 +0000"
+    },
+    {
+      "name": "GenRec: Towards LLM-Native Recommendation at Netflix",
+      "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
+      "summary": "Article URL: https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3\nComments URL: https://news.ycombinator.com/item?id=49124983\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Jimmc414",
+      "published": "Fri, 31 Jul 2026 16:11:24 +0000"
+    },
+    {
+      "name": "Show HN: Prompt-scrub – local-first PII redaction for LLM prompts and responses",
+      "url": "https://nanocollective.org/blog/prompt-scrub-v100-a-local-first-scrubber-for-prompts-and-their-responses-76",
+      "summary": "Article URL: https://nanocollective.org/blog/prompt-scrub-v100-a-local-first-scrubber-for-prompts-and-their-responses-76\nComments URL: https://news.ycombinator.com/item?id=49124405\nPoints: 4\n# Comment",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mrspence",
+      "published": "Fri, 31 Jul 2026 15:32:39 +0000"
+    },
+    {
+      "name": "Stealthy Concurrent Audio Prompt Injections Against Multimodal LLM Agents",
+      "url": "https://arxiv.org/abs/2607.28165",
+      "summary": "Article URL: https://arxiv.org/abs/2607.28165\nComments URL: https://news.ycombinator.com/item?id=49123267\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "zhinit",
+      "published": "Fri, 31 Jul 2026 14:02:19 +0000"
+    },
+    {
+      "name": "LLM-mock – open-source REST API to test LLM integrations for real",
+      "url": "https://github.com/axium-lab/llm-mock",
+      "summary": "Article URL: https://github.com/axium-lab/llm-mock\nComments URL: https://news.ycombinator.com/item?id=49123078\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "luisperis1011",
+      "published": "Fri, 31 Jul 2026 13:45:47 +0000"
+    },
+    {
+      "name": "Keep It Real: A Schema-Level Deferral Channel for Concise LLM Dialogue [pdf]",
+      "url": "https://raw.githubusercontent.com/noamt/kir/cfdc97de467de8d84d60f073773c0dcfd9975849/paper/arxiv/main.pdf",
+      "summary": "Article URL: https://raw.githubusercontent.com/noamt/kir/cfdc97de467de8d84d60f073773c0dcfd9975849/paper/arxiv/main.pdf\nComments URL: https://news.ycombinator.com/item?id=49122528\nPoints: 1\n# Comments:",
+      "source": "hacker_news",
+      "score": null,
+      "author": "beerdappel",
+      "published": "Fri, 31 Jul 2026 12:56:10 +0000"
+    },
+    {
+      "name": "In-House LLM Serving at Netflix",
+      "url": "https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c",
+      "summary": "Article URL: https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c\nComments URL: https://news.ycombinator.com/item?id=49121887\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "theanonymousone",
+      "published": "Fri, 31 Jul 2026 11:39:46 +0000"
+    },
+    {
+      "name": "Ask HN: What are you using for LLM inference in production?",
+      "url": "https://news.ycombinator.com/item?id=49121047",
+      "summary": "I started with OpenAI back in the GPT-3 days, then bounced between the major labs (with a brief interlude with Workers AI).I eventually settled on Gemini 2.5 Flash Lite as my workhorse, using it again",
+      "source": "hacker_news",
+      "score": null,
+      "author": "chrislim",
+      "published": "Fri, 31 Jul 2026 09:46:24 +0000"
+    },
+    {
+      "name": "AdaMAST: Adaptive Failure Taxonomies for Improving LLM Agents",
+      "url": "https://multi-agent-systems-failure-taxonomy.github.io/AdaMAST/blogs/adamast_paper/",
+      "summary": "Article URL: https://multi-agent-systems-failure-taxonomy.github.io/AdaMAST/blogs/adamast_paper/\nComments URL: https://news.ycombinator.com/item?id=49119652\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "matt_d",
+      "published": "Fri, 31 Jul 2026 06:22:31 +0000"
+    },
+    {
+      "name": "LLM-style scaling laws hold for sensor data",
+      "url": "https://www.empirical.health/blog/llm-scaling-laws-hold-for-sensor-data/",
+      "summary": "Article URL: https://www.empirical.health/blog/llm-scaling-laws-hold-for-sensor-data/\nComments URL: https://news.ycombinator.com/item?id=49116007\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "brandonb",
+      "published": "Thu, 30 Jul 2026 21:24:47 +0000"
+    }
+  ]
+}
