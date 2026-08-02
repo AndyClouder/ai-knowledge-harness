@@ -1,0 +1,422 @@
+[
+  {
+    "id": "3e5d4c83-eddf-4dc1-8ccd-6f944f626445",
+    "title": "s1dashu/animated-voiceover",
+    "source_url": "https://github.com/s1dashu/animated-voiceover",
+    "source": "unknown",
+    "collected_at": "2026-08-02T09:53:39.312274+00:00",
+    "analyzed_at": "2026-08-02T09:53:39.312274+00:00",
+    "summary": "Create animated voiceover videos with reusable scripting, visual direction, voice consistency, and CLI-based generation workflows.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 337,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "df306b03-0183-4a07-b8d9-2ca5928deab3",
+    "title": "H-EmbodVis/TurboVLA",
+    "source_url": "https://github.com/H-EmbodVis/TurboVLA",
+    "source": "unknown",
+    "collected_at": "2026-08-02T09:53:40.571337+00:00",
+    "analyzed_at": "2026-08-02T09:53:40.571337+00:00",
+    "summary": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 217,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "991e37bd-43c1-46ab-9a29-8907e91e2b69",
+    "title": "AuvroIslam/Nongor",
+    "source_url": "https://github.com/AuvroIslam/Nongor",
+    "source": "unknown",
+    "collected_at": "2026-08-02T09:53:41.833969+00:00",
+    "analyzed_at": "2026-08-02T09:53:41.833969+00:00",
+    "summary": "Offline crisis companion for Bangladesh floods. Signed phone-to-phone SOS, flood-avoiding shelter routing, first aid and emergency translation for six languages Google Translate doesn't carry — no int",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 192,
+      "score": null,
+      "author": null,
+      "language": "Kotlin"
+    }
+  },
+  {
+    "id": "c458e006-1e05-4814-8a9a-b3464411ff19",
+    "title": "A daily estimation game where the crowd's answer fights an AI",
+    "source_url": "https://news.ycombinator.com/item?id=49142461",
+    "source": "hacker_news",
+    "collected_at": "2026-08-02T09:53:43.120492+00:00",
+    "analyzed_at": "2026-08-02T09:53:43.120492+00:00",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=49142461\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "holdthelineworl",
+      "language": null
+    }
+  },
+  {
+    "id": "9d7c8826-7bb6-4929-b5e5-4b92b01771eb",
+    "title": "EU Icons for labelling AI-generated content – Shaping Europe's digital future",
+    "source_url": "https://digital-strategy.ec.europa.eu/en/policies/eu-icons-labelling-ai-generated-content",
+    "source": "hacker_news",
+    "collected_at": "2026-08-02T09:53:44.381649+00:00",
+    "analyzed_at": "2026-08-02T09:53:44.381649+00:00",
+    "summary": "Article URL: https://digital-strategy.ec.europa.eu/en/policies/eu-icons-labelling-ai-generated-content\nComments URL: https://news.ycombinator.com/item?id=49142385\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "robert-boehnke",
+      "language": null
+    }
+  },
+  {
+    "id": "11f21914-1d87-4130-b0e2-d0c0b30385ee",
+    "title": "POV: An AI replaced your job this morning [video]",
+    "source_url": "https://www.youtube.com/watch?v=k35i0o-b8sI",
+    "source": "hacker_news",
+    "collected_at": "2026-08-02T09:53:45.641297+00:00",
+    "analyzed_at": "2026-08-02T09:53:45.641297+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=k35i0o-b8sI\nComments URL: https://news.ycombinator.com/item?id=49142319\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Animats",
+      "language": null
+    }
+  },
+  {
+    "id": "cbb7e7c8-f82c-4c79-8aae-51e2fa576881",
+    "title": "Adima AI: The Future of AI Enhancement",
+    "source_url": "https://www.aiimageupscale.com/ai-image-upscaler-pc",
+    "source": "hacker_news",
+    "collected_at": "2026-08-02T09:53:46.900008+00:00",
+    "analyzed_at": "2026-08-02T09:53:46.900008+00:00",
+    "summary": "Article URL: https://www.aiimageupscale.com/ai-image-upscaler-pc\nComments URL: https://news.ycombinator.com/item?id=49142294\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "JuekMorningstar",
+      "language": null
+    }
+  },
+  {
+    "id": "cc7eb693-8584-438c-a697-dbe4dcdc09ab",
+    "title": "Multiplayer AI Infrastructure",
+    "source_url": "https://github.com/Abloatai/docs",
+    "source": "hacker_news",
+    "collected_at": "2026-08-02T09:53:48.158869+00:00",
+    "analyzed_at": "2026-08-02T09:53:48.158869+00:00",
+    "summary": "Article URL: https://github.com/Abloatai/docs\nComments URL: https://news.ycombinator.com/item?id=49142184\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "luckymonkybaby",
+      "language": null
+    }
+  },
+  {
+    "id": "01ee04bd-1113-42b2-9946-2296fbe13991",
+    "title": "Apple struggles to keep pace with AI 'bug' hunters",
+    "source_url": "https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2",
+    "source": "hacker_news",
+    "collected_at": "2026-08-02T09:53:49.417593+00:00",
+    "analyzed_at": "2026-08-02T09:53:49.417593+00:00",
+    "summary": "Article URL: https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2\nComments URL: https://news.ycombinator.com/item?id=49142179\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "sbulaev",
+      "language": null
+    }
+  },
+  {
+    "id": "6e7baa84-b48f-4605-b619-4a54367d5578",
+    "title": "Show HN: TamedTable, AI ETL in Natural Language",
+    "source_url": "https://www.tamedtable.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-02T09:53:50.675450+00:00",
+    "analyzed_at": "2026-08-02T09:53:50.675450+00:00",
+    "summary": "Hi HN, TamedTable is an LLM harness for data ETL.And yes, it was developed using AI, meaning you can take the entire specification and recreate it to your desires:https://github.com/ZSvedic/TamedTable",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ZeljkoS",
+      "language": null
+    }
+  },
+  {
+    "id": "e46fd5c2-2a19-4bf5-bd90-4390490ea40f",
+    "title": "DeepSeek's Theory of the AI Gap",
+    "source_url": "https://hellochinatech.com/p/deepseek-liang-wenfeng-transcript",
+    "source": "hacker_news",
+    "collected_at": "2026-08-02T09:53:51.934459+00:00",
+    "analyzed_at": "2026-08-02T09:53:51.934459+00:00",
+    "summary": "Article URL: https://hellochinatech.com/p/deepseek-liang-wenfeng-transcript\nComments URL: https://news.ycombinator.com/item?id=49141929\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "sbmthakur",
+      "language": null
+    }
+  },
+  {
+    "id": "54b33d87-818b-4acd-96ad-6e843ce07fb5",
+    "title": "AI labels to be compulsory on authentic-looking content under EU rules",
+    "source_url": "https://www.theguardian.com/technology/2026/jul/31/ai-labels-to-be-compulsory-on-authentic-looking-content-under-eu-rules",
+    "source": "hacker_news",
+    "collected_at": "2026-08-02T09:53:53.197645+00:00",
+    "analyzed_at": "2026-08-02T09:53:53.197645+00:00",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/jul/31/ai-labels-to-be-compulsory-on-authentic-looking-content-under-eu-rules\nComments URL: https://news.ycombinator.com/item?id=49141912\nPoint",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "tosh",
+      "language": null
+    }
+  },
+  {
+    "id": "b3d32150-2433-4a61-b1e3-1fdb601efb74",
+    "title": "MUD as AI Evaluation and LLM-judge distortion in ways aggregate κ misses",
+    "source_url": "https://www.lesswrong.com/posts/GPbWyHgx9hCLMdAjc/mud-as-ai-evaluation-and-llm-judge-distortion-in-ways",
+    "source": "hacker_news",
+    "collected_at": "2026-08-02T09:53:54.456641+00:00",
+    "analyzed_at": "2026-08-02T09:53:54.456641+00:00",
+    "summary": "Article URL: https://www.lesswrong.com/posts/GPbWyHgx9hCLMdAjc/mud-as-ai-evaluation-and-llm-judge-distortion-in-ways\nComments URL: https://news.ycombinator.com/item?id=49141862\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "joozio",
+      "language": null
+    }
+  },
+  {
+    "id": "688b2674-a7a6-4c11-947c-791bcc5edcec",
+    "title": "Agent-Browser – Browser Automation for AI",
+    "source_url": "https://agent-browser.dev/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-02T09:53:55.716293+00:00",
+    "analyzed_at": "2026-08-02T09:53:55.716293+00:00",
+    "summary": "Article URL: https://agent-browser.dev/\nComments URL: https://news.ycombinator.com/item?id=49141627\nPoints: 3\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Garbage",
+      "language": null
+    }
+  },
+  {
+    "id": "a6d5bf04-1266-460f-b625-78f75734e4fe",
+    "title": "AI Ate Your RAM (Why Memory Prices Exploded)",
+    "source_url": "https://www.youtube.com/watch?v=r7b2uwy8_CM",
+    "source": "hacker_news",
+    "collected_at": "2026-08-02T09:53:56.987166+00:00",
+    "analyzed_at": "2026-08-02T09:53:56.987166+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=r7b2uwy8_CM\nComments URL: https://news.ycombinator.com/item?id=49141426\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "cable2600",
+      "language": null
+    }
+  },
+  {
+    "id": "7496dc63-c920-404e-948e-ff5393d6a332",
+    "title": "Futurism says Meta has \"almost nothing\" to show for AI. The numbers say",
+    "source_url": "https://runtimewire.com/article/futurism-says-meta-has-almost-nothing-to-show-for-ai-the-numbers-say-otherwise",
+    "source": "hacker_news",
+    "collected_at": "2026-08-02T09:53:58.246612+00:00",
+    "analyzed_at": "2026-08-02T09:53:58.246612+00:00",
+    "summary": "Article URL: https://runtimewire.com/article/futurism-says-meta-has-almost-nothing-to-show-for-ai-the-numbers-say-otherwise\nComments URL: https://news.ycombinator.com/item?id=49140938\nPoints: 3\n# Comm",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ryanmerket",
+      "language": null
+    }
+  },
+  {
+    "id": "bbc9eb58-2718-4628-b589-fdc1246949bd",
+    "title": "AI Models as Commodities",
+    "source_url": "https://www.axios.com/2026/08/01/deepseek-model-cheap-ai-price-war",
+    "source": "hacker_news",
+    "collected_at": "2026-08-02T09:53:59.506216+00:00",
+    "analyzed_at": "2026-08-02T09:53:59.506216+00:00",
+    "summary": "Article URL: https://www.axios.com/2026/08/01/deepseek-model-cheap-ai-price-war\nComments URL: https://news.ycombinator.com/item?id=49140923\nPoints: 3\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "kooi",
+      "language": null
+    }
+  },
+  {
+    "id": "bdd43036-4312-4ef0-a713-3cec96b94a70",
+    "title": "AI Marketing",
+    "source_url": "https://www.lerobit.com",
+    "source": "hacker_news",
+    "collected_at": "2026-08-02T09:54:00.792519+00:00",
+    "analyzed_at": "2026-08-02T09:54:00.792519+00:00",
+    "summary": "Article URL: https://www.lerobit.com\nComments URL: https://news.ycombinator.com/item?id=49140750\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "akliluart",
+      "language": null
+    }
+  },
+  {
+    "id": "e76ef584-3ad4-456f-936c-8bb3e1a16fbc",
+    "title": "Show HN: FirstEmployee.ai – Start a Business",
+    "source_url": "https://firstemployee.ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-02T09:54:02.051450+00:00",
+    "analyzed_at": "2026-08-02T09:54:02.051450+00:00",
+    "summary": "Article URL: https://firstemployee.ai/\nComments URL: https://news.ycombinator.com/item?id=49140638\nPoints: 2\n# Comments: 4",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "nadermx",
+      "language": null
+    }
+  },
+  {
+    "id": "0a440083-7da4-4053-9745-7ca5925c5698",
+    "title": "The world first agentic AI radio",
+    "source_url": "https://www.twitch.tv/newsmyimaginationai",
+    "source": "hacker_news",
+    "collected_at": "2026-08-02T09:54:03.310324+00:00",
+    "analyzed_at": "2026-08-02T09:54:03.310324+00:00",
+    "summary": "Article URL: https://www.twitch.tv/newsmyimaginationai\nComments URL: https://news.ycombinator.com/item?id=49140554\nPoints: 4\n# Comments: 3",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "myimaginationai",
+      "language": null
+    }
+  }
+]

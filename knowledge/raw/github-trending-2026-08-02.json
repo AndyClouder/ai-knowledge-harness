@@ -1,0 +1,54 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-08-02T09:53:14.120523+00:00",
+  "items": [
+    {
+      "name": "s1dashu/animated-voiceover",
+      "url": "https://github.com/s1dashu/animated-voiceover",
+      "summary": "Create animated voiceover videos with reusable scripting, visual direction, voice consistency, and CLI-based generation workflows.",
+      "stars": 337,
+      "language": null,
+      "topics": [
+        "ai-video",
+        "animated-video",
+        "codex-skill",
+        "voiceover"
+      ]
+    },
+    {
+      "name": "H-EmbodVis/TurboVLA",
+      "url": "https://github.com/H-EmbodVis/TurboVLA",
+      "summary": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM",
+      "stars": 217,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "AuvroIslam/Nongor",
+      "url": "https://github.com/AuvroIslam/Nongor",
+      "summary": "Offline crisis companion for Bangladesh floods. Signed phone-to-phone SOS, flood-avoiding shelter routing, first aid and emergency translation for six languages Google Translate doesn't carry — no int",
+      "stars": 192,
+      "language": "Kotlin",
+      "topics": [
+        "accessibility",
+        "android",
+        "bluetooth",
+        "disaster-response",
+        "emergency-response",
+        "flood",
+        "gemma",
+        "gemma-4-e2b",
+        "jetpack-compose",
+        "kotiln",
+        "low-resource-languages",
+        "mesh-networks",
+        "offline-ai",
+        "offline-app",
+        "offline-capable",
+        "offline-first",
+        "p2p"
+      ]
+    }
+  ]
+}
