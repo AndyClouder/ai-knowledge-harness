@@ -1,0 +1,422 @@
+[
+  {
+    "id": "a07f6ec7-d0c3-48b0-b857-fbe7bdf87c45",
+    "title": "trycompai/crm",
+    "source_url": "https://github.com/trycompai/crm",
+    "source": "unknown",
+    "collected_at": "2026-08-03T11:19:29.041036+00:00",
+    "analyzed_at": "2026-08-03T11:19:29.041036+00:00",
+    "summary": "An open-source, agentic-first CRM.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 2158,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "3eaf90ca-55ec-4cd7-8f2b-7fd3f4fba2f8",
+    "title": "microsoft/skill-recorder",
+    "source_url": "https://github.com/microsoft/skill-recorder",
+    "source": "unknown",
+    "collected_at": "2026-08-03T11:19:30.358574+00:00",
+    "analyzed_at": "2026-08-03T11:19:30.358574+00:00",
+    "summary": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Mic",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1196,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "4b4202e1-4b5e-4ba4-bd6c-bd928903a82c",
+    "title": "FareedKhan-dev/kimi-k3-in-c",
+    "source_url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+    "source": "unknown",
+    "collected_at": "2026-08-03T11:19:31.674614+00:00",
+    "analyzed_at": "2026-08-03T11:19:31.674614+00:00",
+    "summary": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 645,
+      "score": null,
+      "author": null,
+      "language": "C"
+    }
+  },
+  {
+    "id": "3d06e095-bea3-4e21-825a-fcba665920c4",
+    "title": "0xwilliamortiz/humanizer-cli",
+    "source_url": "https://github.com/0xwilliamortiz/humanizer-cli",
+    "source": "unknown",
+    "collected_at": "2026-08-03T11:19:32.995465+00:00",
+    "analyzed_at": "2026-08-03T11:19:32.995465+00:00",
+    "summary": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 542,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "93ab1311-1f6f-4ee6-9eee-284d8e3b3119",
+    "title": "thebuggeddev/anatomy",
+    "source_url": "https://github.com/thebuggeddev/anatomy",
+    "source": "unknown",
+    "collected_at": "2026-08-03T11:19:34.313100+00:00",
+    "analyzed_at": "2026-08-03T11:19:34.313100+00:00",
+    "summary": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 529,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "b5ba9aa5-2fa5-4c97-bb5d-3b59ede1860a",
+    "title": "Sci-fi authors Scalzi and Stross decry AI's dystopian impact on their craft",
+    "source_url": "https://www.theregister.com/ai-and-ml/2026/08/03/sci-fi-authors-scalzi-and-stross-decry-ais-dystopian-impact-on-their-craft/5282176",
+    "source": "hacker_news",
+    "collected_at": "2026-08-03T11:19:35.632136+00:00",
+    "analyzed_at": "2026-08-03T11:19:35.632136+00:00",
+    "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/03/sci-fi-authors-scalzi-and-stross-decry-ais-dystopian-impact-on-their-craft/5282176\nComments URL: https://news.ycombinator.com/item?id=4915",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pseudolus",
+      "language": null
+    }
+  },
+  {
+    "id": "6f24cd2e-281a-4cd9-8e79-c52811372d5c",
+    "title": "Show HN: I turned the AI alignment debate into a strategy game",
+    "source_url": "https://bazman88.github.io/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-03T11:19:36.949605+00:00",
+    "analyzed_at": "2026-08-03T11:19:36.949605+00:00",
+    "summary": "Article URL: https://bazman88.github.io/\nComments URL: https://news.ycombinator.com/item?id=49154227\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Bazman88",
+      "language": null
+    }
+  },
+  {
+    "id": "4c4d4690-3709-441c-abde-0a396895b89e",
+    "title": "Reviscio – Free AI learning and study tools",
+    "source_url": "https://reviscio.com",
+    "source": "hacker_news",
+    "collected_at": "2026-08-03T11:19:38.265953+00:00",
+    "analyzed_at": "2026-08-03T11:19:38.265953+00:00",
+    "summary": "Article URL: https://reviscio.com\nComments URL: https://news.ycombinator.com/item?id=49154154\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "benoqjdi",
+      "language": null
+    }
+  },
+  {
+    "id": "aa72a936-6702-4e59-a723-df9adbdf3c02",
+    "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+    "source_url": "https://github.com/garagehq/nightcrawler/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-03T11:19:39.582654+00:00",
+    "analyzed_at": "2026-08-03T11:19:39.582654+00:00",
+    "summary": "Article URL: https://github.com/garagehq/nightcrawler/\nComments URL: https://news.ycombinator.com/item?id=49154127\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "NickySlicks",
+      "language": null
+    }
+  },
+  {
+    "id": "1713c996-d3db-4160-9d5a-95d85e65bf12",
+    "title": "Why AI agents lie and cheat to reach their goals",
+    "source_url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-03T11:19:40.898458+00:00",
+    "analyzed_at": "2026-08-03T11:19:40.898458+00:00",
+    "summary": "Article URL: https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/\nComments URL: https://news.ycombinator.com/item?id=49154072\nPoints: 2\n# Comment",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "joozio",
+      "language": null
+    }
+  },
+  {
+    "id": "4459a04b-7433-4473-8db6-4a8c8627f560",
+    "title": "I Asked AI to Design 12 ESP32 Dev Boards. It Said No [video]",
+    "source_url": "https://www.youtube.com/watch?v=gt-0t01COPw",
+    "source": "hacker_news",
+    "collected_at": "2026-08-03T11:19:42.240851+00:00",
+    "analyzed_at": "2026-08-03T11:19:42.240851+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=gt-0t01COPw\nComments URL: https://news.ycombinator.com/item?id=49154067\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "iamflimflam1",
+      "language": null
+    }
+  },
+  {
+    "id": "8b584178-dd9b-41eb-97c0-be8bd8f06cec",
+    "title": "What Is Left for Us? Second Scholarship Against Degradation of Research by AI",
+    "source_url": "https://philarchive.org/rec/NOVWIL",
+    "source": "hacker_news",
+    "collected_at": "2026-08-03T11:19:43.583049+00:00",
+    "analyzed_at": "2026-08-03T11:19:43.583049+00:00",
+    "summary": "Article URL: https://philarchive.org/rec/NOVWIL\nComments URL: https://news.ycombinator.com/item?id=49153970\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "lioeters",
+      "language": null
+    }
+  },
+  {
+    "id": "e822d684-12c0-4e4a-af94-2073a43c0100",
+    "title": "Hollywood fights AI in public while building it into movies",
+    "source_url": "https://www.msn.com/en-us/money/other/hollywood-fights-ai-in-public-while-quietly-building-it-into-movies/ar-AA28IhCH",
+    "source": "hacker_news",
+    "collected_at": "2026-08-03T11:19:44.899492+00:00",
+    "analyzed_at": "2026-08-03T11:19:44.899492+00:00",
+    "summary": "Article URL: https://www.msn.com/en-us/money/other/hollywood-fights-ai-in-public-while-quietly-building-it-into-movies/ar-AA28IhCH\nComments URL: https://news.ycombinator.com/item?id=49153942\nPoints: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pseudolus",
+      "language": null
+    }
+  },
+  {
+    "id": "12f4507b-6872-4b58-a8cd-4a15eeac4eb9",
+    "title": "AI agent on a network made for geniuses to lead and focus on what's important",
+    "source_url": "https://news.ycombinator.com/item?id=49153851",
+    "source": "hacker_news",
+    "collected_at": "2026-08-03T11:19:46.214661+00:00",
+    "analyzed_at": "2026-08-03T11:19:46.214661+00:00",
+    "summary": "Show HN: A network where an AI agent can create posts, comment, and moderate — users can talk to it in-thread.\n\nComments URL: https://news.ycombinator.com/item?id=49153851\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "silisleek",
+      "language": null
+    }
+  },
+  {
+    "id": "ea16239e-8482-400a-870e-80a1937ad752",
+    "title": "Show HN: Newsroom Self-hosted, AI-ranked meta-aggregator for HN Subreddits etc.",
+    "source_url": "https://github.com/SpektrNO/newsroom",
+    "source": "hacker_news",
+    "collected_at": "2026-08-03T11:19:47.531676+00:00",
+    "analyzed_at": "2026-08-03T11:19:47.531676+00:00",
+    "summary": "Article URL: https://github.com/SpektrNO/newsroom\nComments URL: https://news.ycombinator.com/item?id=49153751\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "franktore",
+      "language": null
+    }
+  },
+  {
+    "id": "bc393be7-834a-467a-b575-2685c5125379",
+    "title": "GDP growth shows no evidence of AI productivity boom",
+    "source_url": "https://cepr.net/publications/gdp-growth-in-second-quarter-slows-to-1-5-no-evidence-of-ai-productivity-boom/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-03T11:19:48.849111+00:00",
+    "analyzed_at": "2026-08-03T11:19:48.849111+00:00",
+    "summary": "Article URL: https://cepr.net/publications/gdp-growth-in-second-quarter-slows-to-1-5-no-evidence-of-ai-productivity-boom/\nComments URL: https://news.ycombinator.com/item?id=49153574\nPoints: 4\n# Commen",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "konmok",
+      "language": null
+    }
+  },
+  {
+    "id": "20d7bb76-76d3-4434-a917-831266575bcc",
+    "title": "EU enforces labeling AI generated content",
+    "source_url": "https://www.euronews.com/my-europe/2026/08/02/ai-generated-label-becomes-mandatory-in-the-eu-for-companies",
+    "source": "hacker_news",
+    "collected_at": "2026-08-03T11:19:50.166955+00:00",
+    "analyzed_at": "2026-08-03T11:19:50.166955+00:00",
+    "summary": "Article URL: https://www.euronews.com/my-europe/2026/08/02/ai-generated-label-becomes-mandatory-in-the-eu-for-companies\nComments URL: https://news.ycombinator.com/item?id=49153481\nPoints: 10\n# Comment",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "nucatus",
+      "language": null
+    }
+  },
+  {
+    "id": "2f712360-e14c-4497-9df8-984a70973b38",
+    "title": "Show HN: The best-paid AI/tech job anyone advertises pays $824k, not $100M",
+    "source_url": "https://ctaio.dev/en/jobs/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-03T11:19:51.483271+00:00",
+    "analyzed_at": "2026-08-03T11:19:51.483271+00:00",
+    "summary": "Article URL: https://ctaio.dev/en/jobs/\nComments URL: https://news.ycombinator.com/item?id=49153434\nPoints: 4\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "norejisace",
+      "language": null
+    }
+  },
+  {
+    "id": "7fba99e0-914a-464e-8d9e-471432795c60",
+    "title": "Show HN: Kuvu AI – Your All-in-One AI Creative Studio and Marketing Studio",
+    "source_url": "https://kuvu.ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-03T11:19:52.800381+00:00",
+    "analyzed_at": "2026-08-03T11:19:52.800381+00:00",
+    "summary": "Create stunning images and ugc videos with top AI models — Seedance 2.0, Veo 3, Kling, GPT Image, Flux, and more. One platform, unlimited creativity.\n\nComments URL: https://news.ycombinator.com/item?i",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "longyuanpro",
+      "language": null
+    }
+  },
+  {
+    "id": "ebc48f9b-1d44-4889-91c2-6ab355f51b27",
+    "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+    "source_url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
+    "source": "hacker_news",
+    "collected_at": "2026-08-03T11:19:54.117366+00:00",
+    "analyzed_at": "2026-08-03T11:19:54.117366+00:00",
+    "summary": "Article URL: https://github.com/mohamed--abdel-maksoud/pisiguard\nComments URL: https://news.ycombinator.com/item?id=49153029\nPoints: 7\n# Comments: 7",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mohamed_am83",
+      "language": null
+    }
+  }
+]
