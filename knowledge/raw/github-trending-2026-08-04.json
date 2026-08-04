@@ -1,0 +1,50 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-08-04T10:34:56.371626+00:00",
+  "items": [
+    {
+      "name": "genspark-ai/genoffice",
+      "url": "https://github.com/genspark-ai/genoffice",
+      "summary": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
+      "stars": 991,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "docx",
+        "electron",
+        "office-suite",
+        "pdf",
+        "pptx",
+        "xlsx"
+      ]
+    },
+    {
+      "name": "aigclink/geolook",
+      "url": "https://github.com/aigclink/geolook",
+      "summary": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
+      "stars": 301,
+      "language": "Python",
+      "topics": [
+        "aeo",
+        "ai-search",
+        "ai-visibility",
+        "answer-engine-optimization",
+        "generative-engine-optimization",
+        "geo",
+        "llm",
+        "self-hosted",
+        "seo",
+        "seo-tools"
+      ]
+    },
+    {
+      "name": "aws/context-ontology-accelerator",
+      "url": "https://github.com/aws/context-ontology-accelerator",
+      "summary": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
+      "stars": 290,
+      "language": "Python",
+      "topics": []
+    }
+  ]
+}
