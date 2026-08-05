@@ -1,0 +1,170 @@
+[
+  {
+    "id": "a442f765-73f5-45ea-b37c-72f15323d783",
+    "title": "KKKKhazix/human-writing",
+    "source_url": "https://github.com/KKKKhazix/human-writing",
+    "source": "unknown",
+    "collected_at": "2026-08-05T10:31:36.579319+00:00",
+    "analyzed_at": "2026-08-05T10:31:36.579319+00:00",
+    "summary": "活人感写作 1.0.0｜通用中文创作与改稿 Skill",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 715,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "f044e462-398c-4ca2-baf2-e960a6b3902c",
+    "title": "Accio-Lab/RealReplicaBench",
+    "source_url": "https://github.com/Accio-Lab/RealReplicaBench",
+    "source": "unknown",
+    "collected_at": "2026-08-05T10:31:37.827184+00:00",
+    "analyzed_at": "2026-08-05T10:31:37.827184+00:00",
+    "summary": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 691,
+      "score": null,
+      "author": null,
+      "language": "HTML"
+    }
+  },
+  {
+    "id": "8abdb98b-1aea-4870-9d8e-8ddf25dd84f1",
+    "title": "sophiamyang/finger-frame-effect-ai",
+    "source_url": "https://github.com/sophiamyang/finger-frame-effect-ai",
+    "source": "unknown",
+    "collected_at": "2026-08-05T10:31:39.072557+00:00",
+    "analyzed_at": "2026-08-05T10:31:39.072557+00:00",
+    "summary": "",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 505,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "1b0af552-e7a2-4c90-bf15-a4087e3df516",
+    "title": "magicrew/doc7",
+    "source_url": "https://github.com/magicrew/doc7",
+    "source": "unknown",
+    "collected_at": "2026-08-05T10:31:40.317130+00:00",
+    "analyzed_at": "2026-08-05T10:31:40.317130+00:00",
+    "summary": "Turn documents into AI-ready Markdown with visual understanding",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 443,
+      "score": null,
+      "author": null,
+      "language": "Go"
+    }
+  },
+  {
+    "id": "5628291f-f6b6-4d58-b81d-646454784b7f",
+    "title": "disler/super-simple-software-factory",
+    "source_url": "https://github.com/disler/super-simple-software-factory",
+    "source": "unknown",
+    "collected_at": "2026-08-05T10:31:41.561633+00:00",
+    "analyzed_at": "2026-08-05T10:31:41.561633+00:00",
+    "summary": "Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 385,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "04a0e450-a2ca-4a94-a9ea-7b8b35d91f0c",
+    "title": "nfzerox/VirtualMacOniPad",
+    "source_url": "https://github.com/nfzerox/VirtualMacOniPad",
+    "source": "unknown",
+    "collected_at": "2026-08-05T10:31:42.808746+00:00",
+    "analyzed_at": "2026-08-05T10:31:42.808746+00:00",
+    "summary": "People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode and Terminal to ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 342,
+      "score": null,
+      "author": null,
+      "language": "Objective-C"
+    }
+  },
+  {
+    "id": "9a7cecb7-8a1b-4f82-9f37-6deeba1a2d1f",
+    "title": "cursor/mixture-of-kittens",
+    "source_url": "https://github.com/cursor/mixture-of-kittens",
+    "source": "unknown",
+    "collected_at": "2026-08-05T10:31:44.056411+00:00",
+    "analyzed_at": "2026-08-05T10:31:44.056411+00:00",
+    "summary": "Mixture-of-experts (MoE) training megakernel for NVL72s",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 319,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "462bf1b0-bdc1-4121-b6e1-23ba5ba80608",
+    "title": "patchy631/time-to-first-token",
+    "source_url": "https://github.com/patchy631/time-to-first-token",
+    "source": "unknown",
+    "collected_at": "2026-08-05T10:31:45.301332+00:00",
+    "analyzed_at": "2026-08-05T10:31:45.301332+00:00",
+    "summary": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 311,
+      "score": null,
+      "author": null,
+      "language": "HTML"
+    }
+  }
+]

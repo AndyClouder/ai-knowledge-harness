@@ -1,0 +1,93 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-08-05T10:31:22.540385+00:00",
+  "items": [
+    {
+      "name": "KKKKhazix/human-writing",
+      "url": "https://github.com/KKKKhazix/human-writing",
+      "summary": "活人感写作 1.0.0｜通用中文创作与改稿 Skill",
+      "stars": 715,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "chinese-writing",
+        "creative-writing",
+        "writing-skill"
+      ]
+    },
+    {
+      "name": "Accio-Lab/RealReplicaBench",
+      "url": "https://github.com/Accio-Lab/RealReplicaBench",
+      "summary": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services",
+      "stars": 691,
+      "language": "HTML",
+      "topics": []
+    },
+    {
+      "name": "sophiamyang/finger-frame-effect-ai",
+      "url": "https://github.com/sophiamyang/finger-frame-effect-ai",
+      "summary": "",
+      "stars": 505,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "name": "magicrew/doc7",
+      "url": "https://github.com/magicrew/doc7",
+      "summary": "Turn documents into AI-ready Markdown with visual understanding",
+      "stars": 443,
+      "language": "Go",
+      "topics": [
+        "document-ai",
+        "docx-to-markdown",
+        "local-ai",
+        "markdown",
+        "multimodal",
+        "open-source",
+        "pdf-to-markdown",
+        "vision-language-model"
+      ]
+    },
+    {
+      "name": "disler/super-simple-software-factory",
+      "url": "https://github.com/disler/super-simple-software-factory",
+      "summary": "Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
+      "stars": 385,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "nfzerox/VirtualMacOniPad",
+      "url": "https://github.com/nfzerox/VirtualMacOniPad",
+      "summary": "People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode and Terminal to ",
+      "stars": 342,
+      "language": "Objective-C",
+      "topics": []
+    },
+    {
+      "name": "cursor/mixture-of-kittens",
+      "url": "https://github.com/cursor/mixture-of-kittens",
+      "summary": "Mixture-of-experts (MoE) training megakernel for NVL72s",
+      "stars": 319,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "patchy631/time-to-first-token",
+      "url": "https://github.com/patchy631/time-to-first-token",
+      "summary": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.",
+      "stars": 311,
+      "language": "HTML",
+      "topics": [
+        "learning-resources",
+        "llm",
+        "llm-inference",
+        "mlops",
+        "roadmap",
+        "sglang",
+        "vllm"
+      ]
+    }
+  ]
+}
