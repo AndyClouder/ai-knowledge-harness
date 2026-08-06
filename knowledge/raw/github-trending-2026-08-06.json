@@ -1,0 +1,93 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-08-06T10:35:34.827430+00:00",
+  "items": [
+    {
+      "name": "Accio-org/RealReplicaBench",
+      "url": "https://github.com/Accio-org/RealReplicaBench",
+      "summary": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services",
+      "stars": 1034,
+      "language": "HTML",
+      "topics": []
+    },
+    {
+      "name": "Binaryify/open-kimi-ppt-skill",
+      "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
+      "summary": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+      "stars": 1021,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "ben-z/findphone",
+      "url": "https://github.com/ben-z/findphone",
+      "summary": "Locate a nearby Bluetooth device by signal strength, from the macOS command line — for when Find My isn't available",
+      "stars": 699,
+      "language": "Swift",
+      "topics": []
+    },
+    {
+      "name": "onetoken-oss/K3Flight",
+      "url": "https://github.com/onetoken-oss/K3Flight",
+      "summary": "Run Kimi K3 locally on CPU with ~55GB measured runtime RAM. A single-file Linux inference server powered by cPilot Runtime.",
+      "stars": 418,
+      "language": "HTML",
+      "topics": [
+        "cpu-inference",
+        "edge-ai",
+        "inference-engine",
+        "kimi-k3",
+        "local-llm",
+        "low-memory",
+        "moe"
+      ]
+    },
+    {
+      "name": "fuxicodex/Fuxi",
+      "url": "https://github.com/fuxicodex/Fuxi",
+      "summary": "FuXi is a fast, self-contained AI developer terminal",
+      "stars": 387,
+      "language": null,
+      "topics": []
+    },
+    {
+      "name": "criptogus/HermesOffice",
+      "url": "https://github.com/criptogus/HermesOffice",
+      "summary": "HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
+      "stars": 370,
+      "language": "TypeScript",
+      "topics": [
+        "ai-native",
+        "docx",
+        "electron",
+        "fork",
+        "genoffice",
+        "hermes",
+        "macos",
+        "office-suite",
+        "open-source",
+        "pptx"
+      ]
+    },
+    {
+      "name": "0xwilliamortiz/claude-red",
+      "url": "https://github.com/0xwilliamortiz/claude-red",
+      "summary": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a spec",
+      "stars": 335,
+      "language": "Python",
+      "topics": [
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skills",
+        "codex",
+        "codex-skill",
+        "redteam",
+        "redteaming",
+        "skill",
+        "skills"
+      ]
+    }
+  ]
+}

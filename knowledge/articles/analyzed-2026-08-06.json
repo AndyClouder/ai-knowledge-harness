@@ -1,0 +1,149 @@
+[
+  {
+    "id": "ba23339a-b5ef-4afb-904a-4d71a23e3f1a",
+    "title": "Accio-org/RealReplicaBench",
+    "source_url": "https://github.com/Accio-org/RealReplicaBench",
+    "source": "unknown",
+    "collected_at": "2026-08-06T10:35:46.198718+00:00",
+    "analyzed_at": "2026-08-06T10:35:46.198718+00:00",
+    "summary": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1034,
+      "score": null,
+      "author": null,
+      "language": "HTML"
+    }
+  },
+  {
+    "id": "4fbd35a7-8b75-42df-b916-039c508f5968",
+    "title": "Binaryify/open-kimi-ppt-skill",
+    "source_url": "https://github.com/Binaryify/open-kimi-ppt-skill",
+    "source": "unknown",
+    "collected_at": "2026-08-06T10:35:47.487131+00:00",
+    "analyzed_at": "2026-08-06T10:35:47.487131+00:00",
+    "summary": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1021,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "3b7bd424-0445-49c9-ab3c-85e08d55ca3c",
+    "title": "ben-z/findphone",
+    "source_url": "https://github.com/ben-z/findphone",
+    "source": "unknown",
+    "collected_at": "2026-08-06T10:35:48.775652+00:00",
+    "analyzed_at": "2026-08-06T10:35:48.775652+00:00",
+    "summary": "Locate a nearby Bluetooth device by signal strength, from the macOS command line — for when Find My isn't available",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 699,
+      "score": null,
+      "author": null,
+      "language": "Swift"
+    }
+  },
+  {
+    "id": "11301ef8-980f-4fd1-a2ea-54f6a44af86c",
+    "title": "onetoken-oss/K3Flight",
+    "source_url": "https://github.com/onetoken-oss/K3Flight",
+    "source": "unknown",
+    "collected_at": "2026-08-06T10:35:50.033732+00:00",
+    "analyzed_at": "2026-08-06T10:35:50.033732+00:00",
+    "summary": "Run Kimi K3 locally on CPU with ~55GB measured runtime RAM. A single-file Linux inference server powered by cPilot Runtime.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 418,
+      "score": null,
+      "author": null,
+      "language": "HTML"
+    }
+  },
+  {
+    "id": "f1bb49b0-e303-4c5f-bb9d-6df5a76356c3",
+    "title": "fuxicodex/Fuxi",
+    "source_url": "https://github.com/fuxicodex/Fuxi",
+    "source": "unknown",
+    "collected_at": "2026-08-06T10:35:51.291855+00:00",
+    "analyzed_at": "2026-08-06T10:35:51.291855+00:00",
+    "summary": "FuXi is a fast, self-contained AI developer terminal",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 387,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "040c8afb-8fc0-4cb5-bfea-6f7be78f6dcd",
+    "title": "criptogus/HermesOffice",
+    "source_url": "https://github.com/criptogus/HermesOffice",
+    "source": "unknown",
+    "collected_at": "2026-08-06T10:35:52.552001+00:00",
+    "analyzed_at": "2026-08-06T10:35:52.552001+00:00",
+    "summary": "HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 370,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "b42e8a0d-7871-49ba-87f0-ea0b7b4ea936",
+    "title": "0xwilliamortiz/claude-red",
+    "source_url": "https://github.com/0xwilliamortiz/claude-red",
+    "source": "unknown",
+    "collected_at": "2026-08-06T10:35:53.836188+00:00",
+    "analyzed_at": "2026-08-06T10:35:53.836188+00:00",
+    "summary": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a spec",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 335,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  }
+]
