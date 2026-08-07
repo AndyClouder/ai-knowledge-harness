@@ -1,0 +1,40 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-08-07T08:55:45.161246+00:00",
+  "items": [
+    {
+      "name": "yuhuangerdi/InduSecAgent",
+      "url": "https://github.com/yuhuangerdi/InduSecAgent",
+      "summary": "",
+      "stars": 388,
+      "language": "Vue",
+      "topics": []
+    },
+    {
+      "name": "AMAP-ML/LongHorizon-Harness",
+      "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+      "summary": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-",
+      "stars": 364,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "claude",
+        "claude-code",
+        "claude-plugin",
+        "cli",
+        "codex",
+        "codex-desktop",
+        "codex-plugin",
+        "cua",
+        "gui",
+        "harness",
+        "long-horizon",
+        "long-horizon-agents",
+        "longhorizon-harness",
+        "loop",
+        "loop-engineering"
+      ]
+    }
+  ]
+}

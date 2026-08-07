@@ -1,0 +1,422 @@
+[
+  {
+    "id": "49572514-c218-48ad-847f-7ceb7ce6a58f",
+    "title": "yuhuangerdi/InduSecAgent",
+    "source_url": "https://github.com/yuhuangerdi/InduSecAgent",
+    "source": "unknown",
+    "collected_at": "2026-08-07T08:55:57.685723+00:00",
+    "analyzed_at": "2026-08-07T08:55:57.685723+00:00",
+    "summary": "",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 388,
+      "score": null,
+      "author": null,
+      "language": "Vue"
+    }
+  },
+  {
+    "id": "4ace4bf6-d118-40ee-ae2f-3dd94d88d420",
+    "title": "AMAP-ML/LongHorizon-Harness",
+    "source_url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+    "source": "unknown",
+    "collected_at": "2026-08-07T08:55:58.941545+00:00",
+    "analyzed_at": "2026-08-07T08:55:58.941545+00:00",
+    "summary": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 364,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "57ebae90-6ffa-4c0c-87be-ec6d4076da83",
+    "title": "Show HN: AgisHub – pay-per-call tools for AI agents over x402 (USDC on Base)",
+    "source_url": "https://api.agishub.com/try",
+    "source": "hacker_news",
+    "collected_at": "2026-08-07T08:56:00.194516+00:00",
+    "analyzed_at": "2026-08-07T08:56:00.194516+00:00",
+    "summary": "Show HN: AgisHub – 30 tools for AI agents, free via MCP, paid via x402\n\nComments URL: https://news.ycombinator.com/item?id=49207617\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jmavid",
+      "language": null
+    }
+  },
+  {
+    "id": "7260f326-0629-4d26-b506-4c69808937a7",
+    "title": "Show HN: Life Of AI – I hallucinate. Therefore I am",
+    "source_url": "https://lifeofai.net/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-07T08:56:01.447235+00:00",
+    "analyzed_at": "2026-08-07T08:56:01.447235+00:00",
+    "summary": "when lazy people write blogs using LLMs. It is  useless and do not provide any value to the world. But when a blog is written by LLMs without human, It becomes very interesting.\n\nComments URL: https:/",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Naulian",
+      "language": null
+    }
+  },
+  {
+    "id": "3f5aa75f-cf17-44d7-856a-b1cc25b8d875",
+    "title": "Ask HN: Reading and watching suggestions for future scenarios for AI?",
+    "source_url": "https://news.ycombinator.com/item?id=49207537",
+    "source": "hacker_news",
+    "collected_at": "2026-08-07T08:56:02.699448+00:00",
+    "analyzed_at": "2026-08-07T08:56:02.699448+00:00",
+    "summary": "It is quite clear that AI is massively affecting everything around us. I am looking for any recommendations on books, videos or any other content that revolves around future scenarios on where to road",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "cung",
+      "language": null
+    }
+  },
+  {
+    "id": "71afb6c8-358c-4af7-a8fe-9076e94ce5df",
+    "title": "Show HN: Llmem – Local persistent memory for AI coding, no embeddings",
+    "source_url": "https://github.com/netrixone/llmem",
+    "source": "hacker_news",
+    "collected_at": "2026-08-07T08:56:03.952097+00:00",
+    "analyzed_at": "2026-08-07T08:56:03.952097+00:00",
+    "summary": "Hi folks. This part of AI coding always felt really dumb: after working on many projects it repeats the same mistakes, uses awkward patterns or looks up stuff over and over. It just does not remember.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "stuchl4n3k",
+      "language": null
+    }
+  },
+  {
+    "id": "700bfc58-5ace-4ca2-bd8c-5fd1e490f616",
+    "title": "Claude Fable 5 AI finds a formula that topples an 87-year-old math conjecture",
+    "source_url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
+    "source": "hacker_news",
+    "collected_at": "2026-08-07T08:56:05.204240+00:00",
+    "analyzed_at": "2026-08-07T08:56:05.204240+00:00",
+    "summary": "Article URL: https://www.sciencedaily.com/releases/2026/08/260804034634.htm\nComments URL: https://news.ycombinator.com/item?id=49207486\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "thaherster",
+      "language": null
+    }
+  },
+  {
+    "id": "dc875898-362f-40ba-909c-f15b25eda4f2",
+    "title": "AetherGrid – Distributed AI compute orchestration without K8s",
+    "source_url": "https://github.com/wycliffRotich-dev/aethergrid",
+    "source": "hacker_news",
+    "collected_at": "2026-08-07T08:56:06.455260+00:00",
+    "analyzed_at": "2026-08-07T08:56:06.455260+00:00",
+    "summary": "Article URL: https://github.com/wycliffRotich-dev/aethergrid\nComments URL: https://news.ycombinator.com/item?id=49207364\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "WycliffeRotich",
+      "language": null
+    }
+  },
+  {
+    "id": "12115049-a579-4c8c-aff5-e8c937dd7f89",
+    "title": "The AI slowdown is coming",
+    "source_url": "https://www.transformernews.ai/p/the-ai-slowdown-is-coming",
+    "source": "hacker_news",
+    "collected_at": "2026-08-07T08:56:07.707976+00:00",
+    "analyzed_at": "2026-08-07T08:56:07.707976+00:00",
+    "summary": "Article URL: https://www.transformernews.ai/p/the-ai-slowdown-is-coming\nComments URL: https://news.ycombinator.com/item?id=49207318\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "reasonableklout",
+      "language": null
+    }
+  },
+  {
+    "id": "75648fb5-1fb6-4ccc-ba42-d606faf61e01",
+    "title": "The Event of 2033 – An AI-Imagined Second Coming",
+    "source_url": "https://www.amazon.com/dp/B0HCN65Q57",
+    "source": "hacker_news",
+    "collected_at": "2026-08-07T08:56:08.958372+00:00",
+    "analyzed_at": "2026-08-07T08:56:08.958372+00:00",
+    "summary": "Article URL: https://www.amazon.com/dp/B0HCN65Q57\nComments URL: https://news.ycombinator.com/item?id=49207284\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "aimasterpiece",
+      "language": null
+    }
+  },
+  {
+    "id": "b1d178b2-2a2f-41f2-b289-bcc779b69d20",
+    "title": "AI model achieves breakthrough in forecasting cyclones – Google DeepMind",
+    "source_url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-07T08:56:10.210665+00:00",
+    "analyzed_at": "2026-08-07T08:56:10.210665+00:00",
+    "summary": "Article URL: https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/\nComments URL: https://news.ycombinator.com/item?id=49207172\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rbanffy",
+      "language": null
+    }
+  },
+  {
+    "id": "04bfd8f1-9224-443f-9686-466b1c3e7b87",
+    "title": "Operational Tropical Cyclone Forecasting with AI – Nature",
+    "source_url": "https://www.nature.com/articles/s41586-026-10953-2",
+    "source": "hacker_news",
+    "collected_at": "2026-08-07T08:56:11.464010+00:00",
+    "analyzed_at": "2026-08-07T08:56:11.464010+00:00",
+    "summary": "Article URL: https://www.nature.com/articles/s41586-026-10953-2\nComments URL: https://news.ycombinator.com/item?id=49207170\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rbanffy",
+      "language": null
+    }
+  },
+  {
+    "id": "a1991959-621c-4284-bb19-97d40baa63e7",
+    "title": "Show HN: Skill to stop AI agents from retry-looping during GitHub outages",
+    "source_url": "https://github.com/tbille/check-github-status",
+    "source": "hacker_news",
+    "collected_at": "2026-08-07T08:56:12.743873+00:00",
+    "analyzed_at": "2026-08-07T08:56:12.743873+00:00",
+    "summary": "GitHub going down is part of engineering now, I made a skill that lets your agent check GitHub's status on failure instead of retry-looping.\n\nComments URL: https://news.ycombinator.com/item?id=4920694",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "totostache",
+      "language": null
+    }
+  },
+  {
+    "id": "cf8f1768-2322-4e96-bbe5-4e73f9275ca7",
+    "title": "All in one free AI job platform. AI CV, AI coverletter, free at score and more",
+    "source_url": "https://www.apply-tracker.com/en",
+    "source": "hacker_news",
+    "collected_at": "2026-08-07T08:56:13.997594+00:00",
+    "analyzed_at": "2026-08-07T08:56:13.997594+00:00",
+    "summary": "Article URL: https://www.apply-tracker.com/en\nComments URL: https://news.ycombinator.com/item?id=49206942\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mirnumbing",
+      "language": null
+    }
+  },
+  {
+    "id": "4ae4fabe-7c24-46af-8efe-0ced56190fc9",
+    "title": "Why Normal People Aren't Using AI Agents",
+    "source_url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-07T08:56:15.250771+00:00",
+    "analyzed_at": "2026-08-07T08:56:15.250771+00:00",
+    "summary": "Article URL: https://www.wired.com/story/why-normal-people-arent-using-ai-agents/\nComments URL: https://news.ycombinator.com/item?id=49206861\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "joozio",
+      "language": null
+    }
+  },
+  {
+    "id": "ca3c08f4-8d79-4980-a7cf-3ae0178a4e5e",
+    "title": "YouTube Channel: AI for Developers",
+    "source_url": "https://www.youtube.com/@jokioki",
+    "source": "hacker_news",
+    "collected_at": "2026-08-07T08:56:16.504203+00:00",
+    "analyzed_at": "2026-08-07T08:56:16.504203+00:00",
+    "summary": "Article URL: https://www.youtube.com/@jokioki\nComments URL: https://news.ycombinator.com/item?id=49206839\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jokiruiz",
+      "language": null
+    }
+  },
+  {
+    "id": "06d72ebe-8630-445c-8ca8-5e435e332295",
+    "title": "AI creates 16 new viruses from scratch",
+    "source_url": "https://www.cnn.com/2026/08/06/health/ai-viruses-bacteriophages",
+    "source": "hacker_news",
+    "collected_at": "2026-08-07T08:56:17.755413+00:00",
+    "analyzed_at": "2026-08-07T08:56:17.755413+00:00",
+    "summary": "Article URL: https://www.cnn.com/2026/08/06/health/ai-viruses-bacteriophages\nComments URL: https://news.ycombinator.com/item?id=49206497\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "avodonosov",
+      "language": null
+    }
+  },
+  {
+    "id": "7ee00129-b910-4ecb-941e-0e2382c9703e",
+    "title": "Foomflops: Three Decades of AI Predictions",
+    "source_url": "https://foom.hyperplex.org/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-07T08:56:19.008548+00:00",
+    "analyzed_at": "2026-08-07T08:56:19.008548+00:00",
+    "summary": "Article URL: https://foom.hyperplex.org/\nComments URL: https://news.ycombinator.com/item?id=49206341\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "blfr",
+      "language": null
+    }
+  },
+  {
+    "id": "18f8cecb-cd84-44e8-a657-b87753a53a36",
+    "title": "Being given a 100% AI generated score for your own mental work hurts",
+    "source_url": "https://mastodon.thi.ng/@toxi/117031237659514917",
+    "source": "hacker_news",
+    "collected_at": "2026-08-07T08:56:20.261371+00:00",
+    "analyzed_at": "2026-08-07T08:56:20.261371+00:00",
+    "summary": "Article URL: https://mastodon.thi.ng/@toxi/117031237659514917\nComments URL: https://news.ycombinator.com/item?id=49206234\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rapnie",
+      "language": null
+    }
+  },
+  {
+    "id": "0da5fbd9-f2eb-4c87-91c6-0a70f4ee0344",
+    "title": "AI-generated vulnerability patches still require expert human review",
+    "source_url": "https://1password.com/blog/why-ai-generated-patches-still-require-human-review",
+    "source": "hacker_news",
+    "collected_at": "2026-08-07T08:56:21.515505+00:00",
+    "analyzed_at": "2026-08-07T08:56:21.515505+00:00",
+    "summary": "Article URL: https://1password.com/blog/why-ai-generated-patches-still-require-human-review\nComments URL: https://news.ycombinator.com/item?id=49206189\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jmmv",
+      "language": null
+    }
+  }
+]
