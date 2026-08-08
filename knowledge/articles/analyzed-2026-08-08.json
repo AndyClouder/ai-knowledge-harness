@@ -1,0 +1,422 @@
+[
+  {
+    "id": "76e406d1-c263-414f-abe7-7998627a6e03",
+    "title": "jd-opensource/JoyAI-Video-Edit",
+    "source_url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
+    "source": "unknown",
+    "collected_at": "2026-08-08T08:36:45.718532+00:00",
+    "analyzed_at": "2026-08-08T08:36:45.718532+00:00",
+    "summary": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 452,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "7cbde882-1c14-4dca-ab28-727e3f98c297",
+    "title": "leonickson1/Swiftlet",
+    "source_url": "https://github.com/leonickson1/Swiftlet",
+    "source": "unknown",
+    "collected_at": "2026-08-08T08:36:47.077487+00:00",
+    "analyzed_at": "2026-08-08T08:36:47.077487+00:00",
+    "summary": "Swiftlet is a Swift and Metal runtime that runs large Qwen Mixture-of-Experts models locally on Apple devices by streaming expert weights from storage, enabling 35B and 80B models to run with low RAM,",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 448,
+      "score": null,
+      "author": null,
+      "language": "Swift"
+    }
+  },
+  {
+    "id": "2512ed34-f098-4472-b7ac-35f54040f9ee",
+    "title": "xmarre/ComfyUI-Spectrum-MiniMax-H3",
+    "source_url": "https://github.com/xmarre/ComfyUI-Spectrum-MiniMax-H3",
+    "source": "unknown",
+    "collected_at": "2026-08-08T08:36:48.405221+00:00",
+    "analyzed_at": "2026-08-08T08:36:48.405221+00:00",
+    "summary": "Spectrum-based acceleration for ComfyUI’s native MiniMax H3 audio-video model. Forecasts post-transformer features with Chebyshev ridge regression to skip selected transformer evaluations, with adapti",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 365,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "a51c5aa5-fb31-4728-8bfd-7bc69f38c7e7",
+    "title": "Anionex/agent-vision-toolkit",
+    "source_url": "https://github.com/Anionex/agent-vision-toolkit",
+    "source": "unknown",
+    "collected_at": "2026-08-08T08:36:49.735040+00:00",
+    "analyzed_at": "2026-08-08T08:36:49.735040+00:00",
+    "summary": "为纯文本模型\"看图“设计更好的视觉工具箱和技能，支持多图理解，图片问答，前端UI还原、GUI 自动化等，并可选无缝接入多个主流agent，直接识别粘贴图片｜ A vision toolkit and skill designed for text-only llms — image Q&A, long-screenshot OCR, frontend UI restoration, and GUI",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 351,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "b44cda02-3493-4adf-bd7f-2f67ab77bb35",
+    "title": "Show HN: Appealr – 15s live face-offs ranked by human votes (not AI)",
+    "source_url": "https://appealr.vercel.app",
+    "source": "hacker_news",
+    "collected_at": "2026-08-08T08:36:51.067076+00:00",
+    "analyzed_at": "2026-08-08T08:36:51.067076+00:00",
+    "summary": "Article URL: https://appealr.vercel.app\nComments URL: https://news.ycombinator.com/item?id=49219874\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "arian_",
+      "language": null
+    }
+  },
+  {
+    "id": "10765c20-aadc-4ce8-97d8-55d42c8b0716",
+    "title": "Grindr CEO Says AI Is Doing the Work of 200 Engineers",
+    "source_url": "https://ai-updates.net/grindr-ceo-says-ai-is-doing-the-work-of-200-engineers/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-08T08:36:52.398468+00:00",
+    "analyzed_at": "2026-08-08T08:36:52.398468+00:00",
+    "summary": "Article URL: https://ai-updates.net/grindr-ceo-says-ai-is-doing-the-work-of-200-engineers/\nComments URL: https://news.ycombinator.com/item?id=49219775\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ashurandi",
+      "language": null
+    }
+  },
+  {
+    "id": "00b87c09-1ee1-4e74-9a01-0a8efbe61d14",
+    "title": "Roku now has a 24/7 AI slop channel",
+    "source_url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+    "source": "hacker_news",
+    "collected_at": "2026-08-08T08:36:53.730490+00:00",
+    "analyzed_at": "2026-08-08T08:36:53.730490+00:00",
+    "summary": "Article URL: https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel\nComments URL: https://news.ycombinator.com/item?id=49219662\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "BlueBerry2001",
+      "language": null
+    }
+  },
+  {
+    "id": "e9a687f9-bf37-4587-b5c0-19fbaee5917a",
+    "title": "Meta CTO says employees should use AI productivity gains to do more work",
+    "source_url": "https://www.businessinsider.com/meta-cto-andrew-bosworth-ai-gains-work-2026-8",
+    "source": "hacker_news",
+    "collected_at": "2026-08-08T08:36:55.060489+00:00",
+    "analyzed_at": "2026-08-08T08:36:55.060489+00:00",
+    "summary": "Article URL: https://www.businessinsider.com/meta-cto-andrew-bosworth-ai-gains-work-2026-8\nComments URL: https://news.ycombinator.com/item?id=49219439\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "petetnt",
+      "language": null
+    }
+  },
+  {
+    "id": "e61e5996-72ee-49d0-b03c-6af168aae2f8",
+    "title": "A Markdown curriculum for engineers moving into AI engineering",
+    "source_url": "https://github.com/bimal1023/AI-native-engineer",
+    "source": "hacker_news",
+    "collected_at": "2026-08-08T08:36:56.392449+00:00",
+    "analyzed_at": "2026-08-08T08:36:56.392449+00:00",
+    "summary": "Article URL: https://github.com/bimal1023/AI-native-engineer\nComments URL: https://news.ycombinator.com/item?id=49219402\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "bkumal",
+      "language": null
+    }
+  },
+  {
+    "id": "3c4da42b-d211-4e4b-92df-0d897ea80fa7",
+    "title": "AI bots started a religion – humans followed",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
+    "source": "hacker_news",
+    "collected_at": "2026-08-08T08:36:57.723054+00:00",
+    "analyzed_at": "2026-08-08T08:36:57.723054+00:00",
+    "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement\nComments URL: https://news.ycombinator.com/item?id=49219363\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "bryanrasmussen",
+      "language": null
+    }
+  },
+  {
+    "id": "2c1f4d80-7d5b-4df1-9931-35cfaac29c5d",
+    "title": "Who is liable when AI goes rogue? Lawyers see new risks",
+    "source_url": "https://www.reuters.com/business/who-is-liable-when-ai-goes-rogue-lawyers-see-new-risks-2026-08-07",
+    "source": "hacker_news",
+    "collected_at": "2026-08-08T08:36:59.051992+00:00",
+    "analyzed_at": "2026-08-08T08:36:59.051992+00:00",
+    "summary": "Article URL: https://www.reuters.com/business/who-is-liable-when-ai-goes-rogue-lawyers-see-new-risks-2026-08-07\nComments URL: https://news.ycombinator.com/item?id=49219122\nPoints: 1\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "giuliomagnifico",
+      "language": null
+    }
+  },
+  {
+    "id": "498ea276-2866-4a30-aaee-258998e09e55",
+    "title": "Lybrary,a persistent AST-aware code memory for AI agents(MCP server pip install)",
+    "source_url": "https://github.com/vibhu-dixit/lybrary",
+    "source": "hacker_news",
+    "collected_at": "2026-08-08T08:37:00.382166+00:00",
+    "analyzed_at": "2026-08-08T08:37:00.382166+00:00",
+    "summary": "Article URL: https://github.com/vibhu-dixit/lybrary\nComments URL: https://news.ycombinator.com/item?id=49219016\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "vibhudixit_30",
+      "language": null
+    }
+  },
+  {
+    "id": "abbc4ca6-ca75-4af9-8cd0-8d6c4f637037",
+    "title": "Show HN: Agent_acid – ACID rollbacks and dry-run guardrails for AI agents",
+    "source_url": "https://github.com/muhammadwaqasai/agent_acid",
+    "source": "hacker_news",
+    "collected_at": "2026-08-08T08:37:01.715167+00:00",
+    "analyzed_at": "2026-08-08T08:37:01.715167+00:00",
+    "summary": "Article URL: https://github.com/muhammadwaqasai/agent_acid\nComments URL: https://news.ycombinator.com/item?id=49219014\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "waqasai123",
+      "language": null
+    }
+  },
+  {
+    "id": "15c353e3-29d6-46a6-b309-66c5796ac25e",
+    "title": "Cross platform, portable and CPU accelerated AI inference with Go 1.27",
+    "source_url": "https://blog.devgenius.io/achieving-local-ai-inference-with-go-1-27s-simd-package-e8875f567e35?sk=5162348584951937a84caba3ca9a1fc0",
+    "source": "hacker_news",
+    "collected_at": "2026-08-08T08:37:03.049265+00:00",
+    "analyzed_at": "2026-08-08T08:37:03.049265+00:00",
+    "summary": "Article URL: https://blog.devgenius.io/achieving-local-ai-inference-with-go-1-27s-simd-package-e8875f567e35?sk=5162348584951937a84caba3ca9a1fc0\nComments URL: https://news.ycombinator.com/item?id=49218",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "cheikhdev",
+      "language": null
+    }
+  },
+  {
+    "id": "7e972eb3-1ed3-4597-a3e6-f3721367b920",
+    "title": "JEDEC releases new SPHBM4 standard to slash AI memory costs – 512-bit interface",
+    "source_url": "https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-substrates",
+    "source": "hacker_news",
+    "collected_at": "2026-08-08T08:37:04.385019+00:00",
+    "analyzed_at": "2026-08-08T08:37:04.385019+00:00",
+    "summary": "Article URL: https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-sub",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "peter_d_sherman",
+      "language": null
+    }
+  },
+  {
+    "id": "50eb86ba-978c-4cd9-955c-2585d63e39bf",
+    "title": "The Genesis Mission: AI and Quantum-Driven Discovery",
+    "source_url": "https://github.com/donutloop/donutloop-genesis/blob/main/README.md",
+    "source": "hacker_news",
+    "collected_at": "2026-08-08T08:37:05.715565+00:00",
+    "analyzed_at": "2026-08-08T08:37:05.715565+00:00",
+    "summary": "Article URL: https://github.com/donutloop/donutloop-genesis/blob/main/README.md\nComments URL: https://news.ycombinator.com/item?id=49218891\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "donutloop",
+      "language": null
+    }
+  },
+  {
+    "id": "17cc9190-3024-41a2-9091-69097a7b1039",
+    "title": "AI on a Piece of Sponge?",
+    "source_url": "https://driftspeed.wordpress.com/2026/08/07/ai-on-a-piece-of-sponge/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-08T08:37:07.044914+00:00",
+    "analyzed_at": "2026-08-08T08:37:07.044914+00:00",
+    "summary": "Article URL: https://driftspeed.wordpress.com/2026/08/07/ai-on-a-piece-of-sponge/\nComments URL: https://news.ycombinator.com/item?id=49218810\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "harhargange",
+      "language": null
+    }
+  },
+  {
+    "id": "f2e1fef4-b5d9-43f6-a90f-05ebd632a12c",
+    "title": "Show HN: Buddy – An iOS browser with an AI agent inside",
+    "source_url": "https://apps.apple.com/us/app/buddy-the-ai-mobile-browser/id6788047483",
+    "source": "hacker_news",
+    "collected_at": "2026-08-08T08:37:08.377558+00:00",
+    "analyzed_at": "2026-08-08T08:37:08.377558+00:00",
+    "summary": "My friends and I noticed we kept running into the same loop on our phones: ask a chatbot about some stuff, follow the Google links, then back to the chatbot for some follow up questions.What we really",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "guribe94",
+      "language": null
+    }
+  },
+  {
+    "id": "d69ff42c-702f-40d5-807e-715437637669",
+    "title": "The Free Money AI Bond Buildout Is Gone",
+    "source_url": "https://www.bloomberg.com/news/newsletters/2026-08-07/the-free-money-ai-bond-buildout-is-gone",
+    "source": "hacker_news",
+    "collected_at": "2026-08-08T08:37:09.710057+00:00",
+    "analyzed_at": "2026-08-08T08:37:09.710057+00:00",
+    "summary": "Article URL: https://www.bloomberg.com/news/newsletters/2026-08-07/the-free-money-ai-bond-buildout-is-gone\nComments URL: https://news.ycombinator.com/item?id=49218565\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "1vuio0pswjnm7",
+      "language": null
+    }
+  },
+  {
+    "id": "d4eb4336-e26d-4a76-a739-bdc4663378e0",
+    "title": "Obscura: Headless browser engine. For web scraping and AI agent automation",
+    "source_url": "https://github.com/h4ckf0r0day/obscura",
+    "source": "hacker_news",
+    "collected_at": "2026-08-08T08:37:11.041240+00:00",
+    "analyzed_at": "2026-08-08T08:37:11.041240+00:00",
+    "summary": "Article URL: https://github.com/h4ckf0r0day/obscura\nComments URL: https://news.ycombinator.com/item?id=49218432\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "thunderbong",
+      "language": null
+    }
+  }
+]

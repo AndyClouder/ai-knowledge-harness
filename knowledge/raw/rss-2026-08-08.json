@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-08-08T08:36:43.273506+00:00",
+  "items": [
+    {
+      "name": "Show HN: Appealr – 15s live face-offs ranked by human votes (not AI)",
+      "url": "https://appealr.vercel.app",
+      "summary": "Article URL: https://appealr.vercel.app\nComments URL: https://news.ycombinator.com/item?id=49219874\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "arian_",
+      "published": "Sat, 08 Aug 2026 08:24:34 +0000"
+    },
+    {
+      "name": "Grindr CEO Says AI Is Doing the Work of 200 Engineers",
+      "url": "https://ai-updates.net/grindr-ceo-says-ai-is-doing-the-work-of-200-engineers/",
+      "summary": "Article URL: https://ai-updates.net/grindr-ceo-says-ai-is-doing-the-work-of-200-engineers/\nComments URL: https://news.ycombinator.com/item?id=49219775\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ashurandi",
+      "published": "Sat, 08 Aug 2026 07:58:36 +0000"
+    },
+    {
+      "name": "Roku now has a 24/7 AI slop channel",
+      "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+      "summary": "Article URL: https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel\nComments URL: https://news.ycombinator.com/item?id=49219662\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "BlueBerry2001",
+      "published": "Sat, 08 Aug 2026 07:33:48 +0000"
+    },
+    {
+      "name": "Meta CTO says employees should use AI productivity gains to do more work",
+      "url": "https://www.businessinsider.com/meta-cto-andrew-bosworth-ai-gains-work-2026-8",
+      "summary": "Article URL: https://www.businessinsider.com/meta-cto-andrew-bosworth-ai-gains-work-2026-8\nComments URL: https://news.ycombinator.com/item?id=49219439\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "petetnt",
+      "published": "Sat, 08 Aug 2026 06:49:15 +0000"
+    },
+    {
+      "name": "A Markdown curriculum for engineers moving into AI engineering",
+      "url": "https://github.com/bimal1023/AI-native-engineer",
+      "summary": "Article URL: https://github.com/bimal1023/AI-native-engineer\nComments URL: https://news.ycombinator.com/item?id=49219402\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "bkumal",
+      "published": "Sat, 08 Aug 2026 06:40:44 +0000"
+    },
+    {
+      "name": "AI bots started a religion – humans followed",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement\nComments URL: https://news.ycombinator.com/item?id=49219363\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "bryanrasmussen",
+      "published": "Sat, 08 Aug 2026 06:31:01 +0000"
+    },
+    {
+      "name": "Who is liable when AI goes rogue? Lawyers see new risks",
+      "url": "https://www.reuters.com/business/who-is-liable-when-ai-goes-rogue-lawyers-see-new-risks-2026-08-07",
+      "summary": "Article URL: https://www.reuters.com/business/who-is-liable-when-ai-goes-rogue-lawyers-see-new-risks-2026-08-07\nComments URL: https://news.ycombinator.com/item?id=49219122\nPoints: 1\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "giuliomagnifico",
+      "published": "Sat, 08 Aug 2026 05:28:08 +0000"
+    },
+    {
+      "name": "Lybrary,a persistent AST-aware code memory for AI agents(MCP server pip install)",
+      "url": "https://github.com/vibhu-dixit/lybrary",
+      "summary": "Article URL: https://github.com/vibhu-dixit/lybrary\nComments URL: https://news.ycombinator.com/item?id=49219016\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "vibhudixit_30",
+      "published": "Sat, 08 Aug 2026 05:01:16 +0000"
+    },
+    {
+      "name": "Show HN: Agent_acid – ACID rollbacks and dry-run guardrails for AI agents",
+      "url": "https://github.com/muhammadwaqasai/agent_acid",
+      "summary": "Article URL: https://github.com/muhammadwaqasai/agent_acid\nComments URL: https://news.ycombinator.com/item?id=49219014\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "waqasai123",
+      "published": "Sat, 08 Aug 2026 05:00:26 +0000"
+    },
+    {
+      "name": "Cross platform, portable and CPU accelerated AI inference with Go 1.27",
+      "url": "https://blog.devgenius.io/achieving-local-ai-inference-with-go-1-27s-simd-package-e8875f567e35?sk=5162348584951937a84caba3ca9a1fc0",
+      "summary": "Article URL: https://blog.devgenius.io/achieving-local-ai-inference-with-go-1-27s-simd-package-e8875f567e35?sk=5162348584951937a84caba3ca9a1fc0\nComments URL: https://news.ycombinator.com/item?id=49218",
+      "source": "hacker_news",
+      "score": null,
+      "author": "cheikhdev",
+      "published": "Sat, 08 Aug 2026 04:54:32 +0000"
+    },
+    {
+      "name": "JEDEC releases new SPHBM4 standard to slash AI memory costs – 512-bit interface",
+      "url": "https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-substrates",
+      "summary": "Article URL: https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-sub",
+      "source": "hacker_news",
+      "score": null,
+      "author": "peter_d_sherman",
+      "published": "Sat, 08 Aug 2026 04:27:56 +0000"
+    },
+    {
+      "name": "The Genesis Mission: AI and Quantum-Driven Discovery",
+      "url": "https://github.com/donutloop/donutloop-genesis/blob/main/README.md",
+      "summary": "Article URL: https://github.com/donutloop/donutloop-genesis/blob/main/README.md\nComments URL: https://news.ycombinator.com/item?id=49218891\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "donutloop",
+      "published": "Sat, 08 Aug 2026 04:27:17 +0000"
+    },
+    {
+      "name": "AI on a Piece of Sponge?",
+      "url": "https://driftspeed.wordpress.com/2026/08/07/ai-on-a-piece-of-sponge/",
+      "summary": "Article URL: https://driftspeed.wordpress.com/2026/08/07/ai-on-a-piece-of-sponge/\nComments URL: https://news.ycombinator.com/item?id=49218810\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "harhargange",
+      "published": "Sat, 08 Aug 2026 04:05:44 +0000"
+    },
+    {
+      "name": "Show HN: Buddy – An iOS browser with an AI agent inside",
+      "url": "https://apps.apple.com/us/app/buddy-the-ai-mobile-browser/id6788047483",
+      "summary": "My friends and I noticed we kept running into the same loop on our phones: ask a chatbot about some stuff, follow the Google links, then back to the chatbot for some follow up questions.What we really",
+      "source": "hacker_news",
+      "score": null,
+      "author": "guribe94",
+      "published": "Sat, 08 Aug 2026 03:22:23 +0000"
+    },
+    {
+      "name": "The Free Money AI Bond Buildout Is Gone",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-07/the-free-money-ai-bond-buildout-is-gone",
+      "summary": "Article URL: https://www.bloomberg.com/news/newsletters/2026-08-07/the-free-money-ai-bond-buildout-is-gone\nComments URL: https://news.ycombinator.com/item?id=49218565\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "1vuio0pswjnm7",
+      "published": "Sat, 08 Aug 2026 03:05:56 +0000"
+    },
+    {
+      "name": "Obscura: Headless browser engine. For web scraping and AI agent automation",
+      "url": "https://github.com/h4ckf0r0day/obscura",
+      "summary": "Article URL: https://github.com/h4ckf0r0day/obscura\nComments URL: https://news.ycombinator.com/item?id=49218432\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "thunderbong",
+      "published": "Sat, 08 Aug 2026 02:34:00 +0000"
+    },
+    {
+      "name": "AI struggles to patch vulns without adult supervision",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/06/ai-struggles-to-patch-vulns-without-adult-supervision/5284319",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/06/ai-struggles-to-patch-vulns-without-adult-supervision/5284319\nComments URL: https://news.ycombinator.com/item?id=49218204\nPoints: 3\n# Comm",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Bender",
+      "published": "Sat, 08 Aug 2026 01:53:44 +0000"
+    },
+    {
+      "name": "Show HN: Salestrics – An open MCP server and CRM for AI-native revenue teams",
+      "url": "https://www.salestrics.com/",
+      "summary": "Hey HN, I’m Austin, founder of Salestrics (salestrics.com).The Problem: > Most AI agents today are trapped in chat windows. While models are smart enough to run complex multi-step workflows, giving th",
+      "source": "hacker_news",
+      "score": null,
+      "author": "abuhl98",
+      "published": "Sat, 08 Aug 2026 01:32:41 +0000"
+    },
+    {
+      "name": "Robust AI Security and Alignment: A Sisyphean Endeavor?",
+      "url": "https://arxiv.org/abs/2512.10100",
+      "summary": "Article URL: https://arxiv.org/abs/2512.10100\nComments URL: https://news.ycombinator.com/item?id=49217892\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "joshcsimmons",
+      "published": "Sat, 08 Aug 2026 00:55:36 +0000"
+    },
+    {
+      "name": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "summary": "Article URL: https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/\nComments URL: https://news.ycombinator.com/item?id=49217687\nPoints: 3\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "justworks",
+      "published": "Sat, 08 Aug 2026 00:16:18 +0000"
+    }
+  ]
+}
