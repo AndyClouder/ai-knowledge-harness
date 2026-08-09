@@ -1,0 +1,53 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-08-09T08:38:32.581001+00:00",
+  "items": [
+    {
+      "name": "ShawnPana/phone-harness",
+      "url": "https://github.com/ShawnPana/phone-harness",
+      "summary": "let your agent control your phone",
+      "stars": 404,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "eternityspring/shuohao-skills",
+      "url": "https://github.com/eternityspring/shuohao-skills",
+      "summary": "给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a no",
+      "stars": 360,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "name": "sowarma/wp2shell-PoC",
+      "url": "https://github.com/sowarma/wp2shell-PoC",
+      "summary": "CVE-2026-63030 & CVE-2026-60137 RCE chain proof-of-concept",
+      "stars": 351,
+      "language": "Python",
+      "topics": [
+        "cve",
+        "cve-2026-60137",
+        "cve-2026-63030",
+        "data-analysis",
+        "wp2shell",
+        "wp2shell-poc"
+      ]
+    },
+    {
+      "name": "MengTo/kage",
+      "url": "https://github.com/MengTo/kage",
+      "summary": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
+      "stars": 350,
+      "language": "HTML",
+      "topics": [
+        "creative-coding",
+        "generative-art",
+        "interactive-storytelling",
+        "japanese-design",
+        "threejs",
+        "webgl"
+      ]
+    }
+  ]
+}

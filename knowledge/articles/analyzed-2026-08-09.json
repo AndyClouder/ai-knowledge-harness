@@ -1,0 +1,86 @@
+[
+  {
+    "id": "239fca02-2aba-4f9c-a8dd-eea6ae4c4139",
+    "title": "ShawnPana/phone-harness",
+    "source_url": "https://github.com/ShawnPana/phone-harness",
+    "source": "unknown",
+    "collected_at": "2026-08-09T08:38:38.473443+00:00",
+    "analyzed_at": "2026-08-09T08:38:38.473443+00:00",
+    "summary": "let your agent control your phone",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 404,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "e0dd0837-cca6-4fe6-927d-8594f8cd7262",
+    "title": "eternityspring/shuohao-skills",
+    "source_url": "https://github.com/eternityspring/shuohao-skills",
+    "source": "unknown",
+    "collected_at": "2026-08-09T08:38:39.734404+00:00",
+    "analyzed_at": "2026-08-09T08:38:39.734404+00:00",
+    "summary": "给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a no",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 360,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "f2a31e8e-cbb9-4dab-bfd0-228feff39e7c",
+    "title": "sowarma/wp2shell-PoC",
+    "source_url": "https://github.com/sowarma/wp2shell-PoC",
+    "source": "unknown",
+    "collected_at": "2026-08-09T08:38:41.030669+00:00",
+    "analyzed_at": "2026-08-09T08:38:41.030669+00:00",
+    "summary": "CVE-2026-63030 & CVE-2026-60137 RCE chain proof-of-concept",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 351,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "2d30e2b3-8bae-4bc6-b7f5-a1f780c9c3a4",
+    "title": "MengTo/kage",
+    "source_url": "https://github.com/MengTo/kage",
+    "source": "unknown",
+    "collected_at": "2026-08-09T08:38:42.291066+00:00",
+    "analyzed_at": "2026-08-09T08:38:42.291066+00:00",
+    "summary": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 350,
+      "score": null,
+      "author": null,
+      "language": "HTML"
+    }
+  }
+]
