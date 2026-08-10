@@ -1,0 +1,107 @@
+[
+  {
+    "id": "63708597-ff12-451c-a06f-c96d7bf01101",
+    "title": "sv-number/mcp-server",
+    "source_url": "https://github.com/sv-number/mcp-server",
+    "source": "unknown",
+    "collected_at": "2026-08-10T09:16:17.017705+00:00",
+    "analyzed_at": "2026-08-10T09:16:17.017705+00:00",
+    "summary": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 421,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "45eeb5e3-f179-46bb-8257-2336d37f3f2d",
+    "title": "Sateezg/codex-bridge",
+    "source_url": "https://github.com/Sateezg/codex-bridge",
+    "source": "unknown",
+    "collected_at": "2026-08-10T09:16:18.224529+00:00",
+    "analyzed_at": "2026-08-10T09:16:18.224529+00:00",
+    "summary": "Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the Codex CLI login you already have. No OpenAI API key.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 352,
+      "score": null,
+      "author": null,
+      "language": "Shell"
+    }
+  },
+  {
+    "id": "d71e86e1-3e07-4ce5-a9c5-f80304e38656",
+    "title": "joeseesun/qiaomu-seo",
+    "source_url": "https://github.com/joeseesun/qiaomu-seo",
+    "source": "unknown",
+    "collected_at": "2026-08-10T09:16:19.431269+00:00",
+    "analyzed_at": "2026-08-10T09:16:19.431269+00:00",
+    "summary": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 330,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "9d0b0d49-ab39-478a-8e6c-6e6ec2b59899",
+    "title": "mewamew/my_ai_town",
+    "source_url": "https://github.com/mewamew/my_ai_town",
+    "source": "unknown",
+    "collected_at": "2026-08-10T09:16:20.670114+00:00",
+    "analyzed_at": "2026-08-10T09:16:20.670114+00:00",
+    "summary": "我的AI小镇",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 321,
+      "score": null,
+      "author": null,
+      "language": "GDScript"
+    }
+  },
+  {
+    "id": "ca9f35a9-441c-4136-bfbf-d164d6e43f38",
+    "title": "oil-oil/codex-deepseek-subagent",
+    "source_url": "https://github.com/oil-oil/codex-deepseek-subagent",
+    "source": "unknown",
+    "collected_at": "2026-08-10T09:16:21.877022+00:00",
+    "analyzed_at": "2026-08-10T09:16:21.877022+00:00",
+    "summary": "Configure DeepSeek as a native Codex subagent with automated setup and verified routing.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 294,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-08-10T09:16:06.860416+00:00",
+  "items": [
+    {
+      "name": "sv-number/mcp-server",
+      "url": "https://github.com/sv-number/mcp-server",
+      "summary": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
+      "stars": 421,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "mcp",
+        "model-context-protocol",
+        "otp",
+        "phone-verification",
+        "sms",
+        "typescript"
+      ]
+    },
+    {
+      "name": "Sateezg/codex-bridge",
+      "url": "https://github.com/Sateezg/codex-bridge",
+      "summary": "Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the Codex CLI login you already have. No OpenAI API key.",
+      "stars": 352,
+      "language": "Shell",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "claude-code-plugin",
+        "codex",
+        "gpt-5",
+        "gpt-image-2",
+        "image-generation",
+        "openai"
+      ]
+    },
+    {
+      "name": "joeseesun/qiaomu-seo",
+      "url": "https://github.com/joeseesun/qiaomu-seo",
+      "summary": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
+      "stars": 330,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "mewamew/my_ai_town",
+      "url": "https://github.com/mewamew/my_ai_town",
+      "summary": "我的AI小镇",
+      "stars": 321,
+      "language": "GDScript",
+      "topics": []
+    },
+    {
+      "name": "oil-oil/codex-deepseek-subagent",
+      "url": "https://github.com/oil-oil/codex-deepseek-subagent",
+      "summary": "Configure DeepSeek as a native Codex subagent with automated setup and verified routing.",
+      "stars": 294,
+      "language": "Python",
+      "topics": []
+    }
+  ]
+}
