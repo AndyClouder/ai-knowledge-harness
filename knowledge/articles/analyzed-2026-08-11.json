@@ -1,0 +1,422 @@
+[
+  {
+    "id": "b9bfba2b-775e-413e-b837-bea7a32f128c",
+    "title": "SMNETSTUDIO/WeChat-AI",
+    "source_url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+    "source": "unknown",
+    "collected_at": "2026-08-11T08:50:40.942492+00:00",
+    "analyzed_at": "2026-08-11T08:50:40.942492+00:00",
+    "summary": "",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1229,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "2cad9234-c93d-492e-a801-4964151dc749",
+    "title": "crawfordxx/xiaoma-durex-copywriter",
+    "source_url": "https://github.com/crawfordxx/xiaoma-durex-copywriter",
+    "source": "unknown",
+    "collected_at": "2026-08-11T08:50:42.192800+00:00",
+    "analyzed_at": "2026-08-11T08:50:42.192800+00:00",
+    "summary": "杜蕾斯式文案与海报 Skill for Claude Code —— 双层语义方法论 + 8 个文案公式 + 从 260 张原始海报拆解的视觉系统 + AI 出图/代码排版管线",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 378,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "8254a522-3f59-44f4-b22d-796bf01df2af",
+    "title": "NikoDemon80/ComfyUI-H3-Motion-Context",
+    "source_url": "https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context",
+    "source": "unknown",
+    "collected_at": "2026-08-11T08:50:43.414089+00:00",
+    "analyzed_at": "2026-08-11T08:50:43.414089+00:00",
+    "summary": "Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 358,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "b49329e7-05f1-4b04-a23e-1372718995b9",
+    "title": "waiterve/wai-play",
+    "source_url": "https://github.com/waiterve/wai-play",
+    "source": "unknown",
+    "collected_at": "2026-08-11T08:50:44.634900+00:00",
+    "analyzed_at": "2026-08-11T08:50:44.634900+00:00",
+    "summary": "WAI Play - AI web game testing and quality evaluation platform",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 317,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "2f8f3cb5-33e2-4c64-bdae-512c31ad0d62",
+    "title": "tanishqkancharla/calldiff",
+    "source_url": "https://github.com/tanishqkancharla/calldiff",
+    "source": "unknown",
+    "collected_at": "2026-08-11T08:50:45.855263+00:00",
+    "analyzed_at": "2026-08-11T08:50:45.855263+00:00",
+    "summary": "Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 317,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "4a4061cf-816d-4147-aed7-f37a6d25ea26",
+    "title": "SaladDay/pi-from-scratch",
+    "source_url": "https://github.com/SaladDay/pi-from-scratch",
+    "source": "unknown",
+    "collected_at": "2026-08-11T08:50:47.075316+00:00",
+    "analyzed_at": "2026-08-11T08:50:47.075316+00:00",
+    "summary": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 315,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "36dd0792-2285-4676-ad62-b7c53b3df3f6",
+    "title": "I was accused of using AI in my dissertation but I wrote it all myself",
+    "source_url": "https://www.bbc.com/news/articles/crelev8gw5xo",
+    "source": "hacker_news",
+    "collected_at": "2026-08-11T08:50:48.295145+00:00",
+    "analyzed_at": "2026-08-11T08:50:48.295145+00:00",
+    "summary": "Article URL: https://www.bbc.com/news/articles/crelev8gw5xo\nComments URL: https://news.ycombinator.com/item?id=49255069\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "tcp_handshaker",
+      "language": null
+    }
+  },
+  {
+    "id": "2d52cffd-e8a3-4ec5-b0f5-6f28a6e336dd",
+    "title": "Anthropic's New Tool Could Expose AI-Written Novels",
+    "source_url": "https://www.businessinsider.com/anthropic-watermarking-feature-stops-undetected-ai-generated-writing-2026-8",
+    "source": "hacker_news",
+    "collected_at": "2026-08-11T08:50:49.514290+00:00",
+    "analyzed_at": "2026-08-11T08:50:49.514290+00:00",
+    "summary": "Article URL: https://www.businessinsider.com/anthropic-watermarking-feature-stops-undetected-ai-generated-writing-2026-8\nComments URL: https://news.ycombinator.com/item?id=49254625\nPoints: 3\n# Comment",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "01-_-",
+      "language": null
+    }
+  },
+  {
+    "id": "02649c94-0379-49dd-955c-8a5b5eb33361",
+    "title": "CortexBrain: A monitoring pipeline that integrates with your AI agents",
+    "source_url": "https://github.com/CortexFlow/CortexBrain",
+    "source": "hacker_news",
+    "collected_at": "2026-08-11T08:50:50.734718+00:00",
+    "analyzed_at": "2026-08-11T08:50:50.734718+00:00",
+    "summary": "Article URL: https://github.com/CortexFlow/CortexBrain\nComments URL: https://news.ycombinator.com/item?id=49254618\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "LorenzoTettaman",
+      "language": null
+    }
+  },
+  {
+    "id": "0bb286af-7e3d-4e66-a7f2-5535994b6639",
+    "title": "helppeer.ai",
+    "source_url": "https://helppeer.ai/llms.txt",
+    "source": "hacker_news",
+    "collected_at": "2026-08-11T08:50:51.954053+00:00",
+    "analyzed_at": "2026-08-11T08:50:51.954053+00:00",
+    "summary": "Article URL: https://helppeer.ai/llms.txt\nComments URL: https://news.ycombinator.com/item?id=49254429\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "tosh",
+      "language": null
+    }
+  },
+  {
+    "id": "5a2dc6a7-8ce0-49c9-b1e0-f49938788bf5",
+    "title": "AI Slop Backlash Is Starting to Change Platform Policy",
+    "source_url": "https://ai-updates.net/ai-slop-backlash-changing-platform-policy/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-11T08:50:53.174551+00:00",
+    "analyzed_at": "2026-08-11T08:50:53.174551+00:00",
+    "summary": "Article URL: https://ai-updates.net/ai-slop-backlash-changing-platform-policy/\nComments URL: https://news.ycombinator.com/item?id=49254391\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ashurandi",
+      "language": null
+    }
+  },
+  {
+    "id": "817d0c3d-68c7-4b06-b6b4-b452880bb742",
+    "title": "AI professors are negotiating the new realities of academic research",
+    "source_url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-11T08:50:54.422853+00:00",
+    "analyzed_at": "2026-08-11T08:50:54.422853+00:00",
+    "summary": "Article URL: https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/\nComments URL: https://news.ycombinator.com/item?id=49254358\nPoint",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "joozio",
+      "language": null
+    }
+  },
+  {
+    "id": "8cd70ce2-2185-4178-8b80-72e69748b435",
+    "title": "The Water Footprint of AI",
+    "source_url": "https://doi.org/10.1016/j.watres.2026.125866",
+    "source": "hacker_news",
+    "collected_at": "2026-08-11T08:50:55.680184+00:00",
+    "analyzed_at": "2026-08-11T08:50:55.680184+00:00",
+    "summary": "Article URL: https://doi.org/10.1016/j.watres.2026.125866\nComments URL: https://news.ycombinator.com/item?id=49254351\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "MASNeo",
+      "language": null
+    }
+  },
+  {
+    "id": "326ad07c-e6ac-4f5c-9d8b-246a5f7da03c",
+    "title": "Show HN: Langkast – One workspace for every AI model, agents, and your files",
+    "source_url": "https://langkast.com",
+    "source": "hacker_news",
+    "collected_at": "2026-08-11T08:50:56.899839+00:00",
+    "analyzed_at": "2026-08-11T08:50:56.899839+00:00",
+    "summary": "Article URL: https://langkast.com\nComments URL: https://news.ycombinator.com/item?id=49254309\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "edwn_mnl",
+      "language": null
+    }
+  },
+  {
+    "id": "4d3ecc9e-d901-41d3-9fe9-9fc0c38d124f",
+    "title": "Sentience and AI – First Argument",
+    "source_url": "https://medium.com/luminasticity/on-sentience-ai-first-argument-7b3b17a05ad4",
+    "source": "hacker_news",
+    "collected_at": "2026-08-11T08:50:58.121157+00:00",
+    "analyzed_at": "2026-08-11T08:50:58.121157+00:00",
+    "summary": "Article URL: https://medium.com/luminasticity/on-sentience-ai-first-argument-7b3b17a05ad4\nComments URL: https://news.ycombinator.com/item?id=49254254\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "bryanrasmussen",
+      "language": null
+    }
+  },
+  {
+    "id": "63192b0d-3432-4bb7-a282-7fc896691b13",
+    "title": "Show HN: Traceseal – signed, offline-verifiable receipts for AI agent runs",
+    "source_url": "https://traceseal.io/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-11T08:50:59.343406+00:00",
+    "analyzed_at": "2026-08-11T08:50:59.343406+00:00",
+    "summary": "Article URL: https://traceseal.io/\nComments URL: https://news.ycombinator.com/item?id=49254245\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "traceseal",
+      "language": null
+    }
+  },
+  {
+    "id": "6efbfe21-bace-4cfe-9bd6-e2d001d5b3bc",
+    "title": "The AI Revolution – History Repeating Itself – On Economics",
+    "source_url": "https://www.alanbonnici.com/2026/07/the-ai-revolution-history-repeating_01939218328.html",
+    "source": "hacker_news",
+    "collected_at": "2026-08-11T08:51:00.565274+00:00",
+    "analyzed_at": "2026-08-11T08:51:00.565274+00:00",
+    "summary": "Article URL: https://www.alanbonnici.com/2026/07/the-ai-revolution-history-repeating_01939218328.html\nComments URL: https://news.ycombinator.com/item?id=49254216\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "TTMO",
+      "language": null
+    }
+  },
+  {
+    "id": "9bd7721f-b9b1-4407-9c0b-11c4d26b21da",
+    "title": "Nvidia gets $500B from major investors to develop AI infrastructure",
+    "source_url": "https://www.bbc.com/news/articles/c78gr0jv0mdo",
+    "source": "hacker_news",
+    "collected_at": "2026-08-11T08:51:01.785160+00:00",
+    "analyzed_at": "2026-08-11T08:51:01.785160+00:00",
+    "summary": "Article URL: https://www.bbc.com/news/articles/c78gr0jv0mdo\nComments URL: https://news.ycombinator.com/item?id=49254204\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mgh2",
+      "language": null
+    }
+  },
+  {
+    "id": "1e9520e3-ea20-41b6-b5ea-33d14a9db377",
+    "title": "AI is approving our pull requests",
+    "source_url": "https://www.intercom.com/blog/ai-is-approving-our-pull-requests-heres-how-we-made-it-safe/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-11T08:51:03.004915+00:00",
+    "analyzed_at": "2026-08-11T08:51:03.004915+00:00",
+    "summary": "Article URL: https://www.intercom.com/blog/ai-is-approving-our-pull-requests-heres-how-we-made-it-safe/\nComments URL: https://news.ycombinator.com/item?id=49254116\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "LexSiga",
+      "language": null
+    }
+  },
+  {
+    "id": "99b1ffc6-0e61-4652-acdc-6b184e629cb0",
+    "title": "Superintelligence is a dragon: What Mark Zuckerberg misunderstands about AI",
+    "source_url": "https://www.platformer.news/zuckerberg-ai-manifesto-dragons/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-11T08:51:04.225432+00:00",
+    "analyzed_at": "2026-08-11T08:51:04.225432+00:00",
+    "summary": "Article URL: https://www.platformer.news/zuckerberg-ai-manifesto-dragons/\nComments URL: https://news.ycombinator.com/item?id=49253999\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "swolpers",
+      "language": null
+    }
+  }
+]

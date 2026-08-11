@@ -1,0 +1,84 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-08-11T08:50:35.767795+00:00",
+  "items": [
+    {
+      "name": "SMNETSTUDIO/WeChat-AI",
+      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+      "summary": "",
+      "stars": 1229,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "crawfordxx/xiaoma-durex-copywriter",
+      "url": "https://github.com/crawfordxx/xiaoma-durex-copywriter",
+      "summary": "杜蕾斯式文案与海报 Skill for Claude Code —— 双层语义方法论 + 8 个文案公式 + 从 260 张原始海报拆解的视觉系统 + AI 出图/代码排版管线",
+      "stars": 378,
+      "language": "Python",
+      "topics": [
+        "advertising",
+        "chinese-copywriting",
+        "claude-code",
+        "claude-skill",
+        "copywriting",
+        "poster-design"
+      ]
+    },
+    {
+      "name": "NikoDemon80/ComfyUI-H3-Motion-Context",
+      "url": "https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context",
+      "summary": "Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
+      "stars": 358,
+      "language": "Python",
+      "topics": [
+        "comfyui",
+        "comfyui-nodes",
+        "minimax",
+        "video-generation"
+      ]
+    },
+    {
+      "name": "waiterve/wai-play",
+      "url": "https://github.com/waiterve/wai-play",
+      "summary": "WAI Play - AI web game testing and quality evaluation platform",
+      "stars": 317,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "game",
+        "game-testing",
+        "python"
+      ]
+    },
+    {
+      "name": "tanishqkancharla/calldiff",
+      "url": "https://github.com/tanishqkancharla/calldiff",
+      "summary": "Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review.",
+      "stars": 317,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "SaladDay/pi-from-scratch",
+      "url": "https://github.com/SaladDay/pi-from-scratch",
+      "summary": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+      "stars": 315,
+      "language": "TypeScript",
+      "topics": [
+        "agent-loop",
+        "ai-agent",
+        "coding-agent",
+        "llm",
+        "llm-agent",
+        "pi",
+        "pi-agent",
+        "tool-calling",
+        "typescript",
+        "typescript-tutorial"
+      ]
+    }
+  ]
+}
