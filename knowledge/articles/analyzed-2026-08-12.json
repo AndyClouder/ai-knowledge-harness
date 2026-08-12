@@ -1,0 +1,422 @@
+[
+  {
+    "id": "d946e12c-8470-44df-97ba-c01f414f8ee3",
+    "title": "Flaminis/Dalaran",
+    "source_url": "https://github.com/Flaminis/Dalaran",
+    "source": "unknown",
+    "collected_at": "2026-08-12T09:08:34.412471+00:00",
+    "analyzed_at": "2026-08-12T09:08:34.412471+00:00",
+    "summary": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 802,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "a224d09c-fc5e-4eb7-addf-a756e0c517e3",
+    "title": "shadcn-ui/chatbot-template",
+    "source_url": "https://github.com/shadcn-ui/chatbot-template",
+    "source": "unknown",
+    "collected_at": "2026-08-12T09:08:35.700431+00:00",
+    "analyzed_at": "2026-08-12T09:08:35.700431+00:00",
+    "summary": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 498,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "fab2df36-738f-43a7-8426-2fe13134b3b9",
+    "title": "UditAkhourii/neuroarxiv",
+    "source_url": "https://github.com/UditAkhourii/neuroarxiv",
+    "source": "unknown",
+    "collected_at": "2026-08-12T09:08:36.962233+00:00",
+    "analyzed_at": "2026-08-12T09:08:36.962233+00:00",
+    "summary": "A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 311,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "102b0a39-d2ef-4673-bc69-f2101d820c22",
+    "title": "ayi-ai/nie-grassroots-logic",
+    "source_url": "https://github.com/ayi-ai/nie-grassroots-logic",
+    "source": "unknown",
+    "collected_at": "2026-08-12T09:08:38.221178+00:00",
+    "analyzed_at": "2026-08-12T09:08:38.221178+00:00",
+    "summary": "聂·基层运行逻辑 · Agent Skill：基于聂辉华《基层中国的运行逻辑》的方法论工具箱（不含原书全文）",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 297,
+      "score": null,
+      "author": null,
+      "language": "HTML"
+    }
+  },
+  {
+    "id": "9e727d5f-3d05-46c8-a501-0d4158c6a507",
+    "title": "robonuggets/gauntlet-loop",
+    "source_url": "https://github.com/robonuggets/gauntlet-loop",
+    "source": "unknown",
+    "collected_at": "2026-08-12T09:08:39.481290+00:00",
+    "analyzed_at": "2026-08-12T09:08:39.481290+00:00",
+    "summary": "Turn any goal into a short prompt that makes your agent set a real quality bar, run builder and critic pairs, compare blind, and loop until it wins.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 287,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "552bb591-31ca-4e4c-88de-66411cba9b1d",
+    "title": "liujunxibaba/douyin-tiktok-story-skill-agent",
+    "source_url": "https://github.com/liujunxibaba/douyin-tiktok-story-skill-agent",
+    "source": "unknown",
+    "collected_at": "2026-08-12T09:08:40.743106+00:00",
+    "analyzed_at": "2026-08-12T09:08:40.743106+00:00",
+    "summary": "Local-first AI Skill and Agent for creating original Douyin and TikTok story scripts with a searchable SQLite reference database.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 282,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "f0a1b921-6578-4103-a1c4-10af4491545c",
+    "title": "0xnyn/airship",
+    "source_url": "https://github.com/0xnyn/airship",
+    "source": "unknown",
+    "collected_at": "2026-08-12T09:08:42.005096+00:00",
+    "analyzed_at": "2026-08-12T09:08:42.005096+00:00",
+    "summary": "Figma like visual editor built for Claude Code, Codex and OpenCode",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 266,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "c100feaf-31cc-4b66-bcfa-9a2b2786dcb9",
+    "title": "Show HN: SoundGate – Real-time note detection and AI tutor for guitar",
+    "source_url": "https://soundgate.ai/product/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-12T09:08:43.264986+00:00",
+    "analyzed_at": "2026-08-12T09:08:43.264986+00:00",
+    "summary": "Article URL: https://soundgate.ai/product/\nComments URL: https://news.ycombinator.com/item?id=49269584\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "aren-barseghyan",
+      "language": null
+    }
+  },
+  {
+    "id": "78600dd3-a19e-42f1-a9e3-6a7ab23a03a9",
+    "title": "When the AI Bubble Bursts, Who Will Be Left Holding the Bag?",
+    "source_url": "https://cepr.net/publications/when-the-ai-bubble-bursts-who-will-be-left-holding-the-bag/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-12T09:08:44.524722+00:00",
+    "analyzed_at": "2026-08-12T09:08:44.524722+00:00",
+    "summary": "Article URL: https://cepr.net/publications/when-the-ai-bubble-bursts-who-will-be-left-holding-the-bag/\nComments URL: https://news.ycombinator.com/item?id=49269535\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "DeepLogin",
+      "language": null
+    }
+  },
+  {
+    "id": "adf777db-82dd-4ad0-b0fd-2d1b9df69360",
+    "title": "A New Label for AI-Generated Artist Identities on Spotify",
+    "source_url": "https://newsroom.spotify.com/2026-08-11/ai-persona-badges-transparency/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-12T09:08:45.785095+00:00",
+    "analyzed_at": "2026-08-12T09:08:45.785095+00:00",
+    "summary": "Article URL: https://newsroom.spotify.com/2026-08-11/ai-persona-badges-transparency/\nComments URL: https://news.ycombinator.com/item?id=49269463\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "clmul",
+      "language": null
+    }
+  },
+  {
+    "id": "318e2f96-a054-4642-9ee7-cf71c11871d6",
+    "title": "Do We Need a New Programming Language for the AI Era?",
+    "source_url": "https://mfallah.com/blog/do-we-need-a-new-programming-language-for-the-ai-era/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-12T09:08:47.045535+00:00",
+    "analyzed_at": "2026-08-12T09:08:47.045535+00:00",
+    "summary": "Article URL: https://mfallah.com/blog/do-we-need-a-new-programming-language-for-the-ai-era/\nComments URL: https://news.ycombinator.com/item?id=49269405\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "dalmif",
+      "language": null
+    }
+  },
+  {
+    "id": "7b2cfa02-d879-4454-a5c8-877005bdfa6e",
+    "title": "Creating a niche AI Benchmark with token anxiety",
+    "source_url": "https://thijsbrits.nl/blog/20260804/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-12T09:08:48.306207+00:00",
+    "analyzed_at": "2026-08-12T09:08:48.306207+00:00",
+    "summary": "Article URL: https://thijsbrits.nl/blog/20260804/\nComments URL: https://news.ycombinator.com/item?id=49269347\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "searchingforit",
+      "language": null
+    }
+  },
+  {
+    "id": "ae20b0bf-0b2b-40f2-8532-b336eeeabbfd",
+    "title": "New AI chip mimics the human brain's capacity for split-second motor control",
+    "source_url": "https://www.livescience.com/technology/electronics/new-ai-chip-mimics-the-human-brains-capacity-for-split-second-motor-control-it-solved-problems-using-10-000-times-fewer-calculations",
+    "source": "hacker_news",
+    "collected_at": "2026-08-12T09:08:49.594849+00:00",
+    "analyzed_at": "2026-08-12T09:08:49.594849+00:00",
+    "summary": "Article URL: https://www.livescience.com/technology/electronics/new-ai-chip-mimics-the-human-brains-capacity-for-split-second-motor-control-it-solved-problems-using-10-000-times-fewer-calculations\nCom",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "01-_-",
+      "language": null
+    }
+  },
+  {
+    "id": "34b8da4f-703c-40c3-adbc-9d73b72e5f08",
+    "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+    "source_url": "https://discoveredmaterials.com/research/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-12T09:08:50.855429+00:00",
+    "analyzed_at": "2026-08-12T09:08:50.855429+00:00",
+    "summary": "Hey HN, we're Advaith and Akash from Discovered Materials ( https://discoveredmaterials.com/ ).  We build AI agents that discover new materials for the semiconductor industry.GPUs today have a heat pr",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "advaith08",
+      "language": null
+    }
+  },
+  {
+    "id": "bf4b4d46-de50-4e02-a337-b65cfe6edc3b",
+    "title": "Turkey's AI dilemma, the impact on entry level jobs for game development",
+    "source_url": "https://www.windowscentral.com/gaming/ai-game-development-turkey-junior-roles-xbox-layoffs",
+    "source": "hacker_news",
+    "collected_at": "2026-08-12T09:08:52.117509+00:00",
+    "analyzed_at": "2026-08-12T09:08:52.117509+00:00",
+    "summary": "Article URL: https://www.windowscentral.com/gaming/ai-game-development-turkey-junior-roles-xbox-layoffs\nComments URL: https://news.ycombinator.com/item?id=49269005\nPoints: 3\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pjmlp",
+      "language": null
+    }
+  },
+  {
+    "id": "01435fc0-02e5-4f0a-bd52-292a95babcbf",
+    "title": "Mistral to host Z.ai's GLM-5.2",
+    "source_url": "https://mistral.ai/news/regional-inference-open-models-new-compute/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-12T09:08:53.443789+00:00",
+    "analyzed_at": "2026-08-12T09:08:53.443789+00:00",
+    "summary": "Article URL: https://mistral.ai/news/regional-inference-open-models-new-compute/\nComments URL: https://news.ycombinator.com/item?id=49268944\nPoints: 4\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "true_JhumanJ",
+      "language": null
+    }
+  },
+  {
+    "id": "b81ade8f-3d9a-4d0b-b7c6-61db3211b548",
+    "title": "Building an AI music tool taught me the model wasn't the hard part",
+    "source_url": "https://www.musegen.ai",
+    "source": "hacker_news",
+    "collected_at": "2026-08-12T09:08:54.703669+00:00",
+    "analyzed_at": "2026-08-12T09:08:54.703669+00:00",
+    "summary": "Article URL: https://www.musegen.ai\nComments URL: https://news.ycombinator.com/item?id=49268893\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Xuuu",
+      "language": null
+    }
+  },
+  {
+    "id": "1ce13e3c-8b9a-407d-910b-ea7451387001",
+    "title": "A Politician Built an AI Version of His Rival. It Didn't Go as Planned",
+    "source_url": "https://ai-updates.net/a-politician-built-an-ai-version-of-his-rival-it-didnt-go-as-planned/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-12T09:08:55.966359+00:00",
+    "analyzed_at": "2026-08-12T09:08:55.966359+00:00",
+    "summary": "Article URL: https://ai-updates.net/a-politician-built-an-ai-version-of-his-rival-it-didnt-go-as-planned/\nComments URL: https://news.ycombinator.com/item?id=49268813\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ashurandi",
+      "language": null
+    }
+  },
+  {
+    "id": "f11b8a39-d3ab-422d-b245-431cbb3bea0a",
+    "title": "Thesis for AI Recursion",
+    "source_url": "https://news.ycombinator.com/item?id=49268808",
+    "source": "hacker_news",
+    "collected_at": "2026-08-12T09:08:57.257634+00:00",
+    "analyzed_at": "2026-08-12T09:08:57.257634+00:00",
+    "summary": "I have created a thesis on AI recursion using AI, and need critiques.\n\nComments URL: https://news.ycombinator.com/item?id=49268808\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "abaraxadac",
+      "language": null
+    }
+  },
+  {
+    "id": "46853f67-a206-4612-a7c1-9c354e48773d",
+    "title": "AI and quantum computers will be frenemies",
+    "source_url": "https://www.economist.com/science-and-technology/2026/07/29/ai-and-quantum-computers-will-be-frenemies",
+    "source": "hacker_news",
+    "collected_at": "2026-08-12T09:08:58.546419+00:00",
+    "analyzed_at": "2026-08-12T09:08:58.546419+00:00",
+    "summary": "Article URL: https://www.economist.com/science-and-technology/2026/07/29/ai-and-quantum-computers-will-be-frenemies\nComments URL: https://news.ycombinator.com/item?id=49268761\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rbanffy",
+      "language": null
+    }
+  }
+]

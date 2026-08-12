@@ -1,0 +1,89 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-08-12T09:08:09.291526+00:00",
+  "items": [
+    {
+      "name": "Flaminis/Dalaran",
+      "url": "https://github.com/Flaminis/Dalaran",
+      "summary": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
+      "stars": 802,
+      "language": "Rust",
+      "topics": [
+        "apache2",
+        "computer-vision",
+        "lidar",
+        "pointcloud",
+        "python",
+        "robotics",
+        "ros2",
+        "rust",
+        "time-series",
+        "visualization"
+      ]
+    },
+    {
+      "name": "shadcn-ui/chatbot-template",
+      "url": "https://github.com/shadcn-ui/chatbot-template",
+      "summary": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
+      "stars": 498,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "UditAkhourii/neuroarxiv",
+      "url": "https://github.com/UditAkhourii/neuroarxiv",
+      "summary": "A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
+      "stars": 311,
+      "language": "TypeScript",
+      "topics": [
+        "arxiv",
+        "arxiv-api",
+        "llm",
+        "planning",
+        "reasoning",
+        "reasoning-language-models",
+        "reasoning-models",
+        "workflow"
+      ]
+    },
+    {
+      "name": "ayi-ai/nie-grassroots-logic",
+      "url": "https://github.com/ayi-ai/nie-grassroots-logic",
+      "summary": "聂·基层运行逻辑 · Agent Skill：基于聂辉华《基层中国的运行逻辑》的方法论工具箱（不含原书全文）",
+      "stars": 297,
+      "language": "HTML",
+      "topics": [
+        "agent-skills",
+        "china",
+        "cursor-skills",
+        "governance",
+        "methodology"
+      ]
+    },
+    {
+      "name": "robonuggets/gauntlet-loop",
+      "url": "https://github.com/robonuggets/gauntlet-loop",
+      "summary": "Turn any goal into a short prompt that makes your agent set a real quality bar, run builder and critic pairs, compare blind, and loop until it wins.",
+      "stars": 287,
+      "language": null,
+      "topics": []
+    },
+    {
+      "name": "liujunxibaba/douyin-tiktok-story-skill-agent",
+      "url": "https://github.com/liujunxibaba/douyin-tiktok-story-skill-agent",
+      "summary": "Local-first AI Skill and Agent for creating original Douyin and TikTok story scripts with a searchable SQLite reference database.",
+      "stars": 282,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "0xnyn/airship",
+      "url": "https://github.com/0xnyn/airship",
+      "summary": "Figma like visual editor built for Claude Code, Codex and OpenCode",
+      "stars": 266,
+      "language": "TypeScript",
+      "topics": []
+    }
+  ]
+}
