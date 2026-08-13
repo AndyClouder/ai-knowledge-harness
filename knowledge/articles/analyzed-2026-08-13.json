@@ -1,0 +1,422 @@
+[
+  {
+    "id": "b6e76a38-3a6c-4643-b6cc-e758086b2298",
+    "title": "guillaumemeyer/watermarks-remover",
+    "source_url": "https://github.com/guillaumemeyer/watermarks-remover",
+    "source": "unknown",
+    "collected_at": "2026-08-13T09:08:40.430617+00:00",
+    "analyzed_at": "2026-08-13T09:08:40.430617+00:00",
+    "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 3452,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "b1ea41ef-c713-4cc9-b7cb-2b10b7680d1e",
+    "title": "dmmulroy/anti-slop",
+    "source_url": "https://github.com/dmmulroy/anti-slop",
+    "source": "unknown",
+    "collected_at": "2026-08-13T09:08:41.766817+00:00",
+    "analyzed_at": "2026-08-13T09:08:41.766817+00:00",
+    "summary": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 478,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "d0bb2487-60d3-4d46-9665-addc93b00b36",
+    "title": "keslr/keslr_connect",
+    "source_url": "https://github.com/keslr/keslr_connect",
+    "source": "unknown",
+    "collected_at": "2026-08-13T09:08:43.087319+00:00",
+    "analyzed_at": "2026-08-13T09:08:43.087319+00:00",
+    "summary": "Connect your service to Keslr: sign in with Keslr and read the verification claim that proves a user is a real, vouched-for human — plus run services reachable only by Keslr members.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 427,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "32585d02-d9d7-44f0-aa46-4f7eb1858d95",
+    "title": "i3T4AN/KADATH",
+    "source_url": "https://github.com/i3T4AN/KADATH",
+    "source": "unknown",
+    "collected_at": "2026-08-13T09:08:44.408784+00:00",
+    "analyzed_at": "2026-08-13T09:08:44.408784+00:00",
+    "summary": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 304,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "fc55b9c0-2a31-4816-bc13-f67bd57ccdb2",
+    "title": "MengMengCode/VoCat",
+    "source_url": "https://github.com/MengMengCode/VoCat",
+    "source": "unknown",
+    "collected_at": "2026-08-13T09:08:45.728794+00:00",
+    "analyzed_at": "2026-08-13T09:08:45.728794+00:00",
+    "summary": "Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling,",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 285,
+      "score": null,
+      "author": null,
+      "language": "Go"
+    }
+  },
+  {
+    "id": "f09337a7-946b-485f-8ceb-b78a5915735e",
+    "title": "antinomie-lab/pi-book",
+    "source_url": "https://github.com/antinomie-lab/pi-book",
+    "source": "unknown",
+    "collected_at": "2026-08-13T09:08:47.049749+00:00",
+    "analyzed_at": "2026-08-13T09:08:47.049749+00:00",
+    "summary": "Source-backed architecture notes on building an agent",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 282,
+      "score": null,
+      "author": null,
+      "language": "Vue"
+    }
+  },
+  {
+    "id": "fd50d475-af46-4b7d-a056-d611adfcf87c",
+    "title": "I built an AI video upscaler that runs the heavy GPU work in the cloud",
+    "source_url": "https://videoupscaler.com",
+    "source": "hacker_news",
+    "collected_at": "2026-08-13T09:08:48.371816+00:00",
+    "analyzed_at": "2026-08-13T09:08:48.371816+00:00",
+    "summary": "Article URL: https://videoupscaler.com\nComments URL: https://news.ycombinator.com/item?id=49283137\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "vertex_steven",
+      "language": null
+    }
+  },
+  {
+    "id": "412228f3-3c7d-43ab-8906-8776a75e287e",
+    "title": "Twitch Now Trains Amazon's Generative AI Models on Your Channel by Default",
+    "source_url": "https://www.ign.com/articles/twitch-now-trains-amazons-generative-ai-models-on-your-channel-by-default",
+    "source": "hacker_news",
+    "collected_at": "2026-08-13T09:08:49.695341+00:00",
+    "analyzed_at": "2026-08-13T09:08:49.695341+00:00",
+    "summary": "Article URL: https://www.ign.com/articles/twitch-now-trains-amazons-generative-ai-models-on-your-channel-by-default\nComments URL: https://news.ycombinator.com/item?id=49283127\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "HelloUsername",
+      "language": null
+    }
+  },
+  {
+    "id": "328c101a-c699-4263-be65-2c3f1ee2e644",
+    "title": "Show HN: Relational-to-KV – AI maps relational models to ToplingDB/RocksDB",
+    "source_url": "https://github.com/rockeet/relational-to-kv",
+    "source": "hacker_news",
+    "collected_at": "2026-08-13T09:08:51.015929+00:00",
+    "analyzed_at": "2026-08-13T09:08:51.015929+00:00",
+    "summary": "Article URL: https://github.com/rockeet/relational-to-kv\nComments URL: https://news.ycombinator.com/item?id=49282960\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rockeetterark",
+      "language": null
+    }
+  },
+  {
+    "id": "dfd0775b-f971-4ee3-b241-e4da02ceb9b1",
+    "title": "Twitch CPO squirms, admits everyone hates its new AI training 'feature'",
+    "source_url": "https://www.windowscentral.com/artificial-intelligence/if-it-was-opt-in-nobody-would-opt-in-cringe-twitch-cpo-admits-everyone-hates-its-ai-training-feature-doesnt-care",
+    "source": "hacker_news",
+    "collected_at": "2026-08-13T09:08:52.338046+00:00",
+    "analyzed_at": "2026-08-13T09:08:52.338046+00:00",
+    "summary": "Article URL: https://www.windowscentral.com/artificial-intelligence/if-it-was-opt-in-nobody-would-opt-in-cringe-twitch-cpo-admits-everyone-hates-its-ai-training-feature-doesnt-care\nComments URL: https",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pjmlp",
+      "language": null
+    }
+  },
+  {
+    "id": "9d226532-1733-4d4a-bf61-35fa0311a70b",
+    "title": "Recast uses hyper-resolution AI weather model",
+    "source_url": "https://www.recastsystems.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-13T09:08:53.660154+00:00",
+    "analyzed_at": "2026-08-13T09:08:53.660154+00:00",
+    "summary": "Article URL: https://www.recastsystems.com/\nComments URL: https://news.ycombinator.com/item?id=49282801\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "sixtyj",
+      "language": null
+    }
+  },
+  {
+    "id": "d46eaa78-2fe2-450d-b12a-2d3e9edcc146",
+    "title": "Putting Sign Language AI into Users Hands",
+    "source_url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-13T09:08:54.982748+00:00",
+    "analyzed_at": "2026-08-13T09:08:54.982748+00:00",
+    "summary": "Article URL: https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/\nComments URL: https://news.ycombinator.com/item?id=49282676\nPoints: 4\n# Comments: 3",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "elil17",
+      "language": null
+    }
+  },
+  {
+    "id": "8ac54a09-6372-4b63-b063-d27b944eb496",
+    "title": "Comma.ai Launches a PCIe Gen4 X4 to USB4 Dock with Open-Source Firmware",
+    "source_url": "https://comma.ai/shop/chestnut",
+    "source": "hacker_news",
+    "collected_at": "2026-08-13T09:08:56.305541+00:00",
+    "analyzed_at": "2026-08-13T09:08:56.305541+00:00",
+    "summary": "Article URL: https://comma.ai/shop/chestnut\nComments URL: https://news.ycombinator.com/item?id=49282649\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "WithinReason",
+      "language": null
+    }
+  },
+  {
+    "id": "c62eb8f8-7ce2-4b66-9fe3-968efbbe30c6",
+    "title": "Scaling AI agents with trustworthy data",
+    "source_url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-13T09:08:57.625712+00:00",
+    "analyzed_at": "2026-08-13T09:08:57.625712+00:00",
+    "summary": "Article URL: https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/\nComments URL: https://news.ycombinator.com/item?id=49282596\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "joozio",
+      "language": null
+    }
+  },
+  {
+    "id": "be0e9495-45b6-44ff-bd81-54cb57cdc0bc",
+    "title": "Why Japanese firms are being so slow to use AI",
+    "source_url": "https://www.bbc.co.uk/news/articles/cwymw4434v7o",
+    "source": "hacker_news",
+    "collected_at": "2026-08-13T09:08:58.947633+00:00",
+    "analyzed_at": "2026-08-13T09:08:58.947633+00:00",
+    "summary": "Article URL: https://www.bbc.co.uk/news/articles/cwymw4434v7o\nComments URL: https://news.ycombinator.com/item?id=49282544\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "CaRDiaK",
+      "language": null
+    }
+  },
+  {
+    "id": "9396b0df-3077-49ea-927b-0e4062a38b13",
+    "title": "Web Scraper was translated into 50 languages with AI",
+    "source_url": "https://webscraper.io/blog/how-web-scraper-was-translated-into-50-languages-with-ai",
+    "source": "hacker_news",
+    "collected_at": "2026-08-13T09:09:00.269136+00:00",
+    "analyzed_at": "2026-08-13T09:09:00.269136+00:00",
+    "summary": "Article URL: https://webscraper.io/blog/how-web-scraper-was-translated-into-50-languages-with-ai\nComments URL: https://news.ycombinator.com/item?id=49282505\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "martinsbalodis",
+      "language": null
+    }
+  },
+  {
+    "id": "33b09ff4-27e2-461b-9e9c-28d80ddb9ca8",
+    "title": "Samsung used AI to cut a chip-verification loop 15–30×",
+    "source_url": "https://www.echohive.ai/ai-engineering-acceleration",
+    "source": "hacker_news",
+    "collected_at": "2026-08-13T09:09:01.590390+00:00",
+    "analyzed_at": "2026-08-13T09:09:01.590390+00:00",
+    "summary": "Article URL: https://www.echohive.ai/ai-engineering-acceleration\nComments URL: https://news.ycombinator.com/item?id=49282459\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "echohive42",
+      "language": null
+    }
+  },
+  {
+    "id": "715a2d0a-4cb8-41c0-b194-59e6952e4891",
+    "title": "SPAR – Fall 2026 AI Safety Research Projects",
+    "source_url": "https://sparai.org/projects/f26/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-13T09:09:02.914654+00:00",
+    "analyzed_at": "2026-08-13T09:09:02.914654+00:00",
+    "summary": "Article URL: https://sparai.org/projects/f26/\nComments URL: https://news.ycombinator.com/item?id=49282431\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "agucova",
+      "language": null
+    }
+  },
+  {
+    "id": "11554f0d-3157-4098-ab7d-0ee6cf005fbd",
+    "title": "AI translates 5k-year-old cuneiform tablets instantly – Big Think",
+    "source_url": "https://bigthink.com/the-future/ai-translates-cuneiform/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-13T09:09:04.267333+00:00",
+    "analyzed_at": "2026-08-13T09:09:04.267333+00:00",
+    "summary": "Article URL: https://bigthink.com/the-future/ai-translates-cuneiform/\nComments URL: https://news.ycombinator.com/item?id=49282415\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "janandonly",
+      "language": null
+    }
+  },
+  {
+    "id": "b6c33efb-6bdc-4976-a1db-ac929f97ef20",
+    "title": "My AI agents shipped 128 releases of a product no one ever used",
+    "source_url": "https://bramo.ai/blog/01-post-mortem",
+    "source": "hacker_news",
+    "collected_at": "2026-08-13T09:09:05.588570+00:00",
+    "analyzed_at": "2026-08-13T09:09:05.588570+00:00",
+    "summary": "Article URL: https://bramo.ai/blog/01-post-mortem\nComments URL: https://news.ycombinator.com/item?id=49282395\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "guschiriboga",
+      "language": null
+    }
+  }
+]

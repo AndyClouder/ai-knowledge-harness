@@ -1,0 +1,97 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-08-13T09:08:34.850140+00:00",
+  "items": [
+    {
+      "name": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "stars": 3452,
+      "language": "Python",
+      "topics": [
+        "agent-skill",
+        "ai",
+        "c2pa",
+        "claude",
+        "provenance",
+        "synthid",
+        "watermark"
+      ]
+    },
+    {
+      "name": "dmmulroy/anti-slop",
+      "url": "https://github.com/dmmulroy/anti-slop",
+      "summary": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "stars": 478,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "linting",
+        "oxlint",
+        "typescript"
+      ]
+    },
+    {
+      "name": "keslr/keslr_connect",
+      "url": "https://github.com/keslr/keslr_connect",
+      "summary": "Connect your service to Keslr: sign in with Keslr and read the verification claim that proves a user is a real, vouched-for human — plus run services reachable only by Keslr members.",
+      "stars": 427,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "i3T4AN/KADATH",
+      "url": "https://github.com/i3T4AN/KADATH",
+      "summary": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
+      "stars": 304,
+      "language": "Python",
+      "topics": [
+        "agent-evaluation-tools",
+        "agent-framework",
+        "agent-swarms",
+        "agentic-ai",
+        "agents",
+        "ai",
+        "ai-agents",
+        "autonomous-agents",
+        "evolutionary-algorithms",
+        "generative-ai",
+        "genetic-algorithm",
+        "llm",
+        "llm-agents",
+        "llm-evaluation",
+        "multi-agent",
+        "multi-agent-systems",
+        "self-evolving-agents"
+      ]
+    },
+    {
+      "name": "MengMengCode/VoCat",
+      "url": "https://github.com/MengMengCode/VoCat",
+      "summary": "Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling,",
+      "stars": 285,
+      "language": "Go",
+      "topics": []
+    },
+    {
+      "name": "antinomie-lab/pi-book",
+      "url": "https://github.com/antinomie-lab/pi-book",
+      "summary": "Source-backed architecture notes on building an agent",
+      "stars": 282,
+      "language": "Vue",
+      "topics": [
+        "agent-loop",
+        "ai-agent",
+        "book",
+        "chinese",
+        "code-reading",
+        "llm",
+        "pi-agent",
+        "pi-agent-core",
+        "software-architecture",
+        "typescript"
+      ]
+    }
+  ]
+}

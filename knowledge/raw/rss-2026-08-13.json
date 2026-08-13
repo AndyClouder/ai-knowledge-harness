@@ -1,0 +1,178 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-08-13T09:08:37.994145+00:00",
+  "items": [
+    {
+      "name": "I built an AI video upscaler that runs the heavy GPU work in the cloud",
+      "url": "https://videoupscaler.com",
+      "summary": "Article URL: https://videoupscaler.com\nComments URL: https://news.ycombinator.com/item?id=49283137\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "vertex_steven",
+      "published": "Thu, 13 Aug 2026 08:29:35 +0000"
+    },
+    {
+      "name": "Twitch Now Trains Amazon's Generative AI Models on Your Channel by Default",
+      "url": "https://www.ign.com/articles/twitch-now-trains-amazons-generative-ai-models-on-your-channel-by-default",
+      "summary": "Article URL: https://www.ign.com/articles/twitch-now-trains-amazons-generative-ai-models-on-your-channel-by-default\nComments URL: https://news.ycombinator.com/item?id=49283127\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "HelloUsername",
+      "published": "Thu, 13 Aug 2026 08:26:44 +0000"
+    },
+    {
+      "name": "Show HN: Relational-to-KV – AI maps relational models to ToplingDB/RocksDB",
+      "url": "https://github.com/rockeet/relational-to-kv",
+      "summary": "Article URL: https://github.com/rockeet/relational-to-kv\nComments URL: https://news.ycombinator.com/item?id=49282960\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rockeetterark",
+      "published": "Thu, 13 Aug 2026 07:58:16 +0000"
+    },
+    {
+      "name": "Twitch CPO squirms, admits everyone hates its new AI training 'feature'",
+      "url": "https://www.windowscentral.com/artificial-intelligence/if-it-was-opt-in-nobody-would-opt-in-cringe-twitch-cpo-admits-everyone-hates-its-ai-training-feature-doesnt-care",
+      "summary": "Article URL: https://www.windowscentral.com/artificial-intelligence/if-it-was-opt-in-nobody-would-opt-in-cringe-twitch-cpo-admits-everyone-hates-its-ai-training-feature-doesnt-care\nComments URL: https",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pjmlp",
+      "published": "Thu, 13 Aug 2026 07:35:17 +0000"
+    },
+    {
+      "name": "Recast uses hyper-resolution AI weather model",
+      "url": "https://www.recastsystems.com/",
+      "summary": "Article URL: https://www.recastsystems.com/\nComments URL: https://news.ycombinator.com/item?id=49282801\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "sixtyj",
+      "published": "Thu, 13 Aug 2026 07:34:53 +0000"
+    },
+    {
+      "name": "Putting Sign Language AI into Users Hands",
+      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "summary": "Article URL: https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/\nComments URL: https://news.ycombinator.com/item?id=49282676\nPoints: 4\n# Comments: 3",
+      "source": "hacker_news",
+      "score": null,
+      "author": "elil17",
+      "published": "Thu, 13 Aug 2026 07:15:38 +0000"
+    },
+    {
+      "name": "Comma.ai Launches a PCIe Gen4 X4 to USB4 Dock with Open-Source Firmware",
+      "url": "https://comma.ai/shop/chestnut",
+      "summary": "Article URL: https://comma.ai/shop/chestnut\nComments URL: https://news.ycombinator.com/item?id=49282649\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "WithinReason",
+      "published": "Thu, 13 Aug 2026 07:10:08 +0000"
+    },
+    {
+      "name": "Scaling AI agents with trustworthy data",
+      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "summary": "Article URL: https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/\nComments URL: https://news.ycombinator.com/item?id=49282596\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "joozio",
+      "published": "Thu, 13 Aug 2026 07:02:17 +0000"
+    },
+    {
+      "name": "Why Japanese firms are being so slow to use AI",
+      "url": "https://www.bbc.co.uk/news/articles/cwymw4434v7o",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cwymw4434v7o\nComments URL: https://news.ycombinator.com/item?id=49282544\nPoints: 4\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "CaRDiaK",
+      "published": "Thu, 13 Aug 2026 06:53:53 +0000"
+    },
+    {
+      "name": "Web Scraper was translated into 50 languages with AI",
+      "url": "https://webscraper.io/blog/how-web-scraper-was-translated-into-50-languages-with-ai",
+      "summary": "Article URL: https://webscraper.io/blog/how-web-scraper-was-translated-into-50-languages-with-ai\nComments URL: https://news.ycombinator.com/item?id=49282505\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "martinsbalodis",
+      "published": "Thu, 13 Aug 2026 06:45:53 +0000"
+    },
+    {
+      "name": "Samsung used AI to cut a chip-verification loop 15–30×",
+      "url": "https://www.echohive.ai/ai-engineering-acceleration",
+      "summary": "Article URL: https://www.echohive.ai/ai-engineering-acceleration\nComments URL: https://news.ycombinator.com/item?id=49282459\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "echohive42",
+      "published": "Thu, 13 Aug 2026 06:37:50 +0000"
+    },
+    {
+      "name": "SPAR – Fall 2026 AI Safety Research Projects",
+      "url": "https://sparai.org/projects/f26/",
+      "summary": "Article URL: https://sparai.org/projects/f26/\nComments URL: https://news.ycombinator.com/item?id=49282431\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "agucova",
+      "published": "Thu, 13 Aug 2026 06:32:49 +0000"
+    },
+    {
+      "name": "AI translates 5k-year-old cuneiform tablets instantly – Big Think",
+      "url": "https://bigthink.com/the-future/ai-translates-cuneiform/",
+      "summary": "Article URL: https://bigthink.com/the-future/ai-translates-cuneiform/\nComments URL: https://news.ycombinator.com/item?id=49282415\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "janandonly",
+      "published": "Thu, 13 Aug 2026 06:29:24 +0000"
+    },
+    {
+      "name": "My AI agents shipped 128 releases of a product no one ever used",
+      "url": "https://bramo.ai/blog/01-post-mortem",
+      "summary": "Article URL: https://bramo.ai/blog/01-post-mortem\nComments URL: https://news.ycombinator.com/item?id=49282395\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "guschiriboga",
+      "published": "Thu, 13 Aug 2026 06:26:55 +0000"
+    },
+    {
+      "name": "Over 70% of Americans oppose AI data centers; US protests intensify",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/over-70-percent-of-americans-oppose-ai-data-centers-us-protests-intensify-as-more-arrests-are-being-made-almost-40-arrested-this-year-in-backlash-to-ai-factory-buildout",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/data-centers/over-70-percent-of-americans-oppose-ai-data-centers-us-protests-intensify-as-more-arrests-are-being-made-almost-40-arrested-this-ye",
+      "source": "hacker_news",
+      "score": null,
+      "author": "vrganj",
+      "published": "Thu, 13 Aug 2026 06:12:07 +0000"
+    },
+    {
+      "name": "Chinese censorship is leaking into answers from American AI",
+      "url": "https://www.wsj.com/tech/ai/chinese-censorship-is-leaking-into-answers-from-american-ai-62abeca5",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/chinese-censorship-is-leaking-into-answers-from-american-ai-62abeca5\nComments URL: https://news.ycombinator.com/item?id=49282247\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "dash2",
+      "published": "Thu, 13 Aug 2026 06:02:42 +0000"
+    },
+    {
+      "name": "AIPass – AI agents with persistent identity, memory, and email",
+      "url": "https://github.com/AIOSAI/AIPass",
+      "summary": "Article URL: https://github.com/AIOSAI/AIPass\nComments URL: https://news.ycombinator.com/item?id=49282152\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "AIOSAI",
+      "published": "Thu, 13 Aug 2026 05:46:04 +0000"
+    },
+    {
+      "name": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "summary": "Article URL: https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/\nComments URL: https://news.ycombinator.com/item?id=49282136\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "doppp",
+      "published": "Thu, 13 Aug 2026 05:43:23 +0000"
+    },
+    {
+      "name": "Apple in Talks to Pay Publishers for News Content to Power Siri AI",
+      "url": "https://www.macrumors.com/2026/08/12/apple-siri-ai-publisher-talks/",
+      "summary": "Article URL: https://www.macrumors.com/2026/08/12/apple-siri-ai-publisher-talks/\nComments URL: https://news.ycombinator.com/item?id=49282069\nPoints: 3\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mgh2",
+      "published": "Thu, 13 Aug 2026 05:27:51 +0000"
+    }
+  ]
+}
