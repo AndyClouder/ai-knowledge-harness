@@ -1,0 +1,156 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-08-15T08:23:19.041941+00:00",
+  "items": [
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "summary": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 103958,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "dsh",
+        "dsh-plugin"
+      ]
+    },
+    {
+      "name": "xiaobright/dsh-anchored-standard",
+      "url": "https://github.com/xiaobright/dsh-anchored-standard",
+      "summary": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "stars": 1284,
+      "language": "JavaScript",
+      "topics": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh-plugin",
+        "llm-agent"
+      ]
+    },
+    {
+      "name": "vercel-labs/eve-software-factory-template",
+      "url": "https://github.com/vercel-labs/eve-software-factory-template",
+      "summary": "Meet Foreman, an eve Software Factory.",
+      "stars": 648,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "ai",
+        "eve",
+        "vercel"
+      ]
+    },
+    {
+      "name": "elie222/rakazo",
+      "url": "https://github.com/elie222/rakazo",
+      "summary": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+      "stars": 448,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "chatgpt",
+        "docker",
+        "electron",
+        "expo",
+        "grok",
+        "llm",
+        "self-hosted",
+        "typescript"
+      ]
+    },
+    {
+      "name": "DrHazemAli/enterprise-system-design",
+      "url": "https://github.com/DrHazemAli/enterprise-system-design",
+      "summary": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, dis",
+      "stars": 445,
+      "language": null,
+      "topics": [
+        "ai",
+        "ai-governance",
+        "ai-security",
+        "ai-systems",
+        "cloud-architecture",
+        "cloud-infrastructure",
+        "cybersecurity",
+        "distributed-computing",
+        "distributed-systems",
+        "engineering",
+        "enterprise-architecture",
+        "enterprise-systems",
+        "hpc",
+        "mission-critical",
+        "realibility",
+        "sovereign-systems",
+        "system-design",
+        "well-architected",
+        "well-architected-framework",
+        "zero-trust"
+      ]
+    },
+    {
+      "name": "NousResearch/Hermes-Bot-Mode",
+      "url": "https://github.com/NousResearch/Hermes-Bot-Mode",
+      "summary": "Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
+      "stars": 436,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "name": "xinxinshuhao-create/grok-register",
+      "url": "https://github.com/xinxinshuhao-create/grok-register",
+      "summary": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
+      "stars": 413,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "decionis/agent-safe-pipeline",
+      "url": "https://github.com/decionis/agent-safe-pipeline",
+      "summary": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, ",
+      "stars": 400,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "ai-agent-permissions",
+        "ai-agents",
+        "ai-governance",
+        "ai-safety",
+        "authorization",
+        "decionis",
+        "human-in-the-loop",
+        "mcp",
+        "policy-as-code",
+        "reference-architecture",
+        "typescript"
+      ]
+    },
+    {
+      "name": "Anionex/dsh-vision-toolkit",
+      "url": "https://github.com/Anionex/dsh-vision-toolkit",
+      "summary": "让纯文本模型更好地做视觉任务的DeepSeek Harness插件：带意图的图片问答、长截图 OCR、UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts",
+      "stars": 383,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "agent-vision-toolkit",
+        "computer-vision",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "gui-automation",
+        "ocr",
+        "plugin",
+        "python",
+        "screenshot-testing",
+        "text-only-llm",
+        "typescript",
+        "ui-restoration",
+        "vision-language-model",
+        "vision-tools"
+      ]
+    }
+  ]
+}

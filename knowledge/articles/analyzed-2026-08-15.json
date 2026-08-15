@@ -1,0 +1,422 @@
+[
+  {
+    "id": "9273c59d-f625-48d8-b13c-697a0aab247f",
+    "title": "deepseek-ai/deepseek-harness",
+    "source_url": "https://github.com/deepseek-ai/deepseek-harness",
+    "source": "unknown",
+    "collected_at": "2026-08-15T08:23:23.432542+00:00",
+    "analyzed_at": "2026-08-15T08:23:23.432542+00:00",
+    "summary": "DeepSeek Harness: Everything is a Plugin.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 103958,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "a08b15d2-d118-4666-9673-247fda11b166",
+    "title": "xiaobright/dsh-anchored-standard",
+    "source_url": "https://github.com/xiaobright/dsh-anchored-standard",
+    "source": "unknown",
+    "collected_at": "2026-08-15T08:23:24.644465+00:00",
+    "analyzed_at": "2026-08-15T08:23:24.644465+00:00",
+    "summary": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1284,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "b689bf2b-d4e9-49b8-bc16-918407481f95",
+    "title": "vercel-labs/eve-software-factory-template",
+    "source_url": "https://github.com/vercel-labs/eve-software-factory-template",
+    "source": "unknown",
+    "collected_at": "2026-08-15T08:23:25.855783+00:00",
+    "analyzed_at": "2026-08-15T08:23:25.855783+00:00",
+    "summary": "Meet Foreman, an eve Software Factory.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 648,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "c5369a33-8493-4659-a451-06c65263d148",
+    "title": "elie222/rakazo",
+    "source_url": "https://github.com/elie222/rakazo",
+    "source": "unknown",
+    "collected_at": "2026-08-15T08:23:27.069062+00:00",
+    "analyzed_at": "2026-08-15T08:23:27.069062+00:00",
+    "summary": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 448,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "25bbdb80-2a10-4df7-8d15-ee426bad2c4e",
+    "title": "DrHazemAli/enterprise-system-design",
+    "source_url": "https://github.com/DrHazemAli/enterprise-system-design",
+    "source": "unknown",
+    "collected_at": "2026-08-15T08:23:28.282457+00:00",
+    "analyzed_at": "2026-08-15T08:23:28.282457+00:00",
+    "summary": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, dis",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 445,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "46908365-6c66-45e2-930f-a2e64a0e85d4",
+    "title": "NousResearch/Hermes-Bot-Mode",
+    "source_url": "https://github.com/NousResearch/Hermes-Bot-Mode",
+    "source": "unknown",
+    "collected_at": "2026-08-15T08:23:29.494684+00:00",
+    "analyzed_at": "2026-08-15T08:23:29.494684+00:00",
+    "summary": "Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 436,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "1d215a7c-675a-4d8d-b810-4d9fe5244e59",
+    "title": "xinxinshuhao-create/grok-register",
+    "source_url": "https://github.com/xinxinshuhao-create/grok-register",
+    "source": "unknown",
+    "collected_at": "2026-08-15T08:23:30.706558+00:00",
+    "analyzed_at": "2026-08-15T08:23:30.706558+00:00",
+    "summary": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 413,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "1e70a09c-6cc2-48e0-8c1a-1bb798d59a55",
+    "title": "decionis/agent-safe-pipeline",
+    "source_url": "https://github.com/decionis/agent-safe-pipeline",
+    "source": "unknown",
+    "collected_at": "2026-08-15T08:23:31.959406+00:00",
+    "analyzed_at": "2026-08-15T08:23:31.959406+00:00",
+    "summary": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 400,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "c7b3de8a-0646-48c3-86fb-664afb504c33",
+    "title": "Anionex/dsh-vision-toolkit",
+    "source_url": "https://github.com/Anionex/dsh-vision-toolkit",
+    "source": "unknown",
+    "collected_at": "2026-08-15T08:23:33.171052+00:00",
+    "analyzed_at": "2026-08-15T08:23:33.171052+00:00",
+    "summary": "让纯文本模型更好地做视觉任务的DeepSeek Harness插件：带意图的图片问答、长截图 OCR、UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 383,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "d5913f3c-001b-4865-8c36-81f2bc22cb53",
+    "title": "Choosing the Right Database for AI Agents: LLM Generated SQL",
+    "source_url": "https://predictabledialogs.com/learn/ai-stack/choosing-database-configurable-ai-agents",
+    "source": "hacker_news",
+    "collected_at": "2026-08-15T08:23:34.381074+00:00",
+    "analyzed_at": "2026-08-15T08:23:34.381074+00:00",
+    "summary": "Article URL: https://predictabledialogs.com/learn/ai-stack/choosing-database-configurable-ai-agents\nComments URL: https://news.ycombinator.com/item?id=49308031\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jaikant",
+      "language": null
+    }
+  },
+  {
+    "id": "02329e67-5d8e-435d-bb7c-e2a883150b7c",
+    "title": "Agents on Rails: The LLM Benchmark Project",
+    "source_url": "https://rubyonrails.org/2026/8/12/llm-benchmarking-project",
+    "source": "hacker_news",
+    "collected_at": "2026-08-15T08:23:35.592458+00:00",
+    "analyzed_at": "2026-08-15T08:23:35.592458+00:00",
+    "summary": "Article URL: https://rubyonrails.org/2026/8/12/llm-benchmarking-project\nComments URL: https://news.ycombinator.com/item?id=49307720\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ksec",
+      "language": null
+    }
+  },
+  {
+    "id": "f6c0b1ec-f510-4b36-879b-92e4d657cb77",
+    "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+    "source_url": "https://chenxiachan.github.io/thoughtdag/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-15T08:23:36.804066+00:00",
+    "analyzed_at": "2026-08-15T08:23:36.804066+00:00",
+    "summary": "Article URL: https://chenxiachan.github.io/thoughtdag/\nComments URL: https://news.ycombinator.com/item?id=49307700\nPoints: 15\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "chatchan",
+      "language": null
+    }
+  },
+  {
+    "id": "6ef4284b-8eee-404b-b687-a9609452d958",
+    "title": "Show HN: WMTrace – See how LLM text watermarks work (Anthropic just adopted one)",
+    "source_url": "https://github.com/gtesei/llm-watermark",
+    "source": "hacker_news",
+    "collected_at": "2026-08-15T08:23:38.017111+00:00",
+    "analyzed_at": "2026-08-15T08:23:38.017111+00:00",
+    "summary": "Article URL: https://github.com/gtesei/llm-watermark\nComments URL: https://news.ycombinator.com/item?id=49306973\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "isacco",
+      "language": null
+    }
+  },
+  {
+    "id": "14b33437-34dc-45d4-b01c-676d46c38ac1",
+    "title": "Show HN: Dictata – Local Whisper dictation with LLM cleanup",
+    "source_url": "https://github.com/AntoineChatry/Dictata",
+    "source": "hacker_news",
+    "collected_at": "2026-08-15T08:23:39.228462+00:00",
+    "analyzed_at": "2026-08-15T08:23:39.228462+00:00",
+    "summary": "Article URL: https://github.com/AntoineChatry/Dictata\nComments URL: https://news.ycombinator.com/item?id=49306462\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "AntoineC_",
+      "language": null
+    }
+  },
+  {
+    "id": "c5821aaf-1aa0-4f98-9a2b-901043f1b0af",
+    "title": "The Commons – experiments in inherited knowledge and errors between LLM agents",
+    "source_url": "https://github.com/coladul/the_commons/tree/main",
+    "source": "hacker_news",
+    "collected_at": "2026-08-15T08:23:40.441269+00:00",
+    "analyzed_at": "2026-08-15T08:23:40.441269+00:00",
+    "summary": "Article URL: https://github.com/coladul/the_commons/tree/main\nComments URL: https://news.ycombinator.com/item?id=49306404\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "coladul",
+      "language": null
+    }
+  },
+  {
+    "id": "779b4db9-005e-4bf4-876e-e4db773e5f00",
+    "title": "Baking a Model: A Metaphor for LLM Training",
+    "source_url": "https://newsletter.kentbeck.com/p/baking-a-model",
+    "source": "hacker_news",
+    "collected_at": "2026-08-15T08:23:41.653612+00:00",
+    "analyzed_at": "2026-08-15T08:23:41.653612+00:00",
+    "summary": "Article URL: https://newsletter.kentbeck.com/p/baking-a-model\nComments URL: https://news.ycombinator.com/item?id=49305969\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "KentBeck",
+      "language": null
+    }
+  },
+  {
+    "id": "913b87d7-b69b-4749-87b8-67ed10965778",
+    "title": "Show HN: Embassia – LLM Search Console – Web crawlers talk to your site's agent",
+    "source_url": "https://embassia.com",
+    "source": "hacker_news",
+    "collected_at": "2026-08-15T08:23:42.863683+00:00",
+    "analyzed_at": "2026-08-15T08:23:42.863683+00:00",
+    "summary": "You want to know what visitors are actually curious about.But there is no adequate tool for this. Not even the Google Search Console.Right now:-Crawlers use superficial queries.\n-They get data from yo",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ramazanaliakdas",
+      "language": null
+    }
+  },
+  {
+    "id": "133aa8ec-0511-40f1-a53a-086d1bfb6264",
+    "title": "LLM Web Search Benchmarks: More Searches Beat a Better Search Engine",
+    "source_url": "https://openrouter.ai/blog/announcements/web-search-benchmark/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-15T08:23:44.075128+00:00",
+    "analyzed_at": "2026-08-15T08:23:44.075128+00:00",
+    "summary": "Article URL: https://openrouter.ai/blog/announcements/web-search-benchmark/\nComments URL: https://news.ycombinator.com/item?id=49302033\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "DGAP",
+      "language": null
+    }
+  },
+  {
+    "id": "e4f71055-1e30-4a5e-bc64-1f3998686390",
+    "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+    "source_url": "https://arxiv.org/abs/2608.12700",
+    "source": "hacker_news",
+    "collected_at": "2026-08-15T08:23:45.286611+00:00",
+    "analyzed_at": "2026-08-15T08:23:45.286611+00:00",
+    "summary": "Article URL: https://arxiv.org/abs/2608.12700\nComments URL: https://news.ycombinator.com/item?id=49301417\nPoints: 41\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Jimmc414",
+      "language": null
+    }
+  },
+  {
+    "id": "030ded34-4063-4f81-878c-24b07f0dbdf7",
+    "title": "LLM Inference Benchmarking",
+    "source_url": "https://www.digitalocean.com/blog/llm-inference-benchmarking",
+    "source": "hacker_news",
+    "collected_at": "2026-08-15T08:23:46.526141+00:00",
+    "analyzed_at": "2026-08-15T08:23:46.526141+00:00",
+    "summary": "Article URL: https://www.digitalocean.com/blog/llm-inference-benchmarking\nComments URL: https://news.ycombinator.com/item?id=49300564\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ankitg12",
+      "language": null
+    }
+  }
+]

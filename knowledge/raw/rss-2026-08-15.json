@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-08-15T08:23:21.892800+00:00",
+  "items": [
+    {
+      "name": "Choosing the Right Database for AI Agents: LLM Generated SQL",
+      "url": "https://predictabledialogs.com/learn/ai-stack/choosing-database-configurable-ai-agents",
+      "summary": "Article URL: https://predictabledialogs.com/learn/ai-stack/choosing-database-configurable-ai-agents\nComments URL: https://news.ycombinator.com/item?id=49308031\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "jaikant",
+      "published": "Sat, 15 Aug 2026 05:53:34 +0000"
+    },
+    {
+      "name": "Agents on Rails: The LLM Benchmark Project",
+      "url": "https://rubyonrails.org/2026/8/12/llm-benchmarking-project",
+      "summary": "Article URL: https://rubyonrails.org/2026/8/12/llm-benchmarking-project\nComments URL: https://news.ycombinator.com/item?id=49307720\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ksec",
+      "published": "Sat, 15 Aug 2026 04:47:24 +0000"
+    },
+    {
+      "name": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+      "url": "https://chenxiachan.github.io/thoughtdag/",
+      "summary": "Article URL: https://chenxiachan.github.io/thoughtdag/\nComments URL: https://news.ycombinator.com/item?id=49307700\nPoints: 15\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "chatchan",
+      "published": "Sat, 15 Aug 2026 04:42:07 +0000"
+    },
+    {
+      "name": "Show HN: WMTrace – See how LLM text watermarks work (Anthropic just adopted one)",
+      "url": "https://github.com/gtesei/llm-watermark",
+      "summary": "Article URL: https://github.com/gtesei/llm-watermark\nComments URL: https://news.ycombinator.com/item?id=49306973\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "isacco",
+      "published": "Sat, 15 Aug 2026 02:15:26 +0000"
+    },
+    {
+      "name": "Show HN: Dictata – Local Whisper dictation with LLM cleanup",
+      "url": "https://github.com/AntoineChatry/Dictata",
+      "summary": "Article URL: https://github.com/AntoineChatry/Dictata\nComments URL: https://news.ycombinator.com/item?id=49306462\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "AntoineC_",
+      "published": "Sat, 15 Aug 2026 00:58:34 +0000"
+    },
+    {
+      "name": "The Commons – experiments in inherited knowledge and errors between LLM agents",
+      "url": "https://github.com/coladul/the_commons/tree/main",
+      "summary": "Article URL: https://github.com/coladul/the_commons/tree/main\nComments URL: https://news.ycombinator.com/item?id=49306404\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "coladul",
+      "published": "Sat, 15 Aug 2026 00:48:47 +0000"
+    },
+    {
+      "name": "Baking a Model: A Metaphor for LLM Training",
+      "url": "https://newsletter.kentbeck.com/p/baking-a-model",
+      "summary": "Article URL: https://newsletter.kentbeck.com/p/baking-a-model\nComments URL: https://news.ycombinator.com/item?id=49305969\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "KentBeck",
+      "published": "Fri, 14 Aug 2026 23:46:45 +0000"
+    },
+    {
+      "name": "Show HN: Embassia – LLM Search Console – Web crawlers talk to your site's agent",
+      "url": "https://embassia.com",
+      "summary": "You want to know what visitors are actually curious about.But there is no adequate tool for this. Not even the Google Search Console.Right now:-Crawlers use superficial queries.\n-They get data from yo",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ramazanaliakdas",
+      "published": "Fri, 14 Aug 2026 21:48:09 +0000"
+    },
+    {
+      "name": "LLM Web Search Benchmarks: More Searches Beat a Better Search Engine",
+      "url": "https://openrouter.ai/blog/announcements/web-search-benchmark/",
+      "summary": "Article URL: https://openrouter.ai/blog/announcements/web-search-benchmark/\nComments URL: https://news.ycombinator.com/item?id=49302033\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "DGAP",
+      "published": "Fri, 14 Aug 2026 17:39:15 +0000"
+    },
+    {
+      "name": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+      "url": "https://arxiv.org/abs/2608.12700",
+      "summary": "Article URL: https://arxiv.org/abs/2608.12700\nComments URL: https://news.ycombinator.com/item?id=49301417\nPoints: 41\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Jimmc414",
+      "published": "Fri, 14 Aug 2026 16:57:14 +0000"
+    },
+    {
+      "name": "LLM Inference Benchmarking",
+      "url": "https://www.digitalocean.com/blog/llm-inference-benchmarking",
+      "summary": "Article URL: https://www.digitalocean.com/blog/llm-inference-benchmarking\nComments URL: https://news.ycombinator.com/item?id=49300564\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ankitg12",
+      "published": "Fri, 14 Aug 2026 15:58:51 +0000"
+    },
+    {
+      "name": "Prefill vs. Decode in LLM Inference",
+      "url": "https://www.parasail.io/blog/prefill-vs-decode-llm-inference",
+      "summary": "Article URL: https://www.parasail.io/blog/prefill-vs-decode-llm-inference\nComments URL: https://news.ycombinator.com/item?id=49299992\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "eatonphil",
+      "published": "Fri, 14 Aug 2026 15:22:28 +0000"
+    },
+    {
+      "name": "Show HN: Shoehorn, a library to quantize an LLM to fit your Mac's VRAM",
+      "url": "https://github.com/notactuallytreyanastasio/shoehorn",
+      "summary": "I made this after seeing someone posit the idea online yesterday over lunch then spent some time refining it. So far it's pretty impressive IMO! Right now I am running Qwen3-30B-A3B on my 24gb unified",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rhgraysonii",
+      "published": "Fri, 14 Aug 2026 14:43:59 +0000"
+    },
+    {
+      "name": "LLM Batch APIs: The Half-Price Lane Nobody Budgets",
+      "url": "https://www.digitalapplied.com/blog/llm-batch-api-pricing-landscape-2026",
+      "summary": "Article URL: https://www.digitalapplied.com/blog/llm-batch-api-pricing-landscape-2026\nComments URL: https://news.ycombinator.com/item?id=49299210\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "peter_d_sherman",
+      "published": "Fri, 14 Aug 2026 14:30:10 +0000"
+    },
+    {
+      "name": "Show HN: RAGless – similar to RAG, but $0 LLM API costs at runtime",
+      "url": "https://github.com/EmilResearch/RAGless",
+      "summary": "Article URL: https://github.com/EmilResearch/RAGless\nComments URL: https://news.ycombinator.com/item?id=49296595\nPoints: 6\n# Comments: 8",
+      "source": "hacker_news",
+      "score": null,
+      "author": "emilianoc",
+      "published": "Fri, 14 Aug 2026 09:51:11 +0000"
+    },
+    {
+      "name": "OpenRouter: Unified LLM API with Routing and Fallbacks",
+      "url": "https://trpevski.com/blog/openrouter-unified-llm-api-with-routing-and-fallbacks/",
+      "summary": "Article URL: https://trpevski.com/blog/openrouter-unified-llm-api-with-routing-and-fallbacks/\nComments URL: https://news.ycombinator.com/item?id=49296142\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "dzugumot",
+      "published": "Fri, 14 Aug 2026 08:46:01 +0000"
+    },
+    {
+      "name": "A simple fix for LLM tail latency",
+      "url": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/",
+      "summary": "Article URL: https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/\nComments URL: https://news.ycombinator.com/item?id=49295179\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "oskrim",
+      "published": "Fri, 14 Aug 2026 05:58:16 +0000"
+    },
+    {
+      "name": "Geo tool with no LLM run",
+      "url": "https://see-geo.com",
+      "summary": "Article URL: https://see-geo.com\nComments URL: https://news.ycombinator.com/item?id=49294353\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "tnaaron",
+      "published": "Fri, 14 Aug 2026 03:04:56 +0000"
+    },
+    {
+      "name": "Ask HN: How do you develop more deterministic LLM pipelines?",
+      "url": "https://news.ycombinator.com/item?id=49293943",
+      "summary": "It feels like with LLMs I develop a prompt and then get some kind of output that's not very well structured and requires some kind of human oversight to verify that the result I've gotten back is of q",
+      "source": "hacker_news",
+      "score": null,
+      "author": "sky2224",
+      "published": "Fri, 14 Aug 2026 01:56:38 +0000"
+    },
+    {
+      "name": "How Can LLM RL Work Despite Information-Theoretic Inefficiency",
+      "url": "https://www.beren.io/2026-07-26-How-Can-LLM-RL-Work-Despite-Information-Theoretic-Inefficiency/",
+      "summary": "Article URL: https://www.beren.io/2026-07-26-How-Can-LLM-RL-Work-Despite-Information-Theoretic-Inefficiency/\nComments URL: https://news.ycombinator.com/item?id=49293276\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "jxmorris12",
+      "published": "Fri, 14 Aug 2026 00:06:40 +0000"
+    }
+  ]
+}
