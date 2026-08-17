@@ -1,0 +1,422 @@
+[
+  {
+    "id": "8a73bd61-fc75-4c8a-8a10-2f2ef601b4a1",
+    "title": "dataelement/dsh-desktop",
+    "source_url": "https://github.com/dataelement/dsh-desktop",
+    "source": "unknown",
+    "collected_at": "2026-08-17T08:39:02.828203+00:00",
+    "analyzed_at": "2026-08-17T08:39:02.828203+00:00",
+    "summary": "DeepSeek Harness Desktop",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 671,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "ff1dad01-1bb3-4baa-bc96-0a6b4edbd96f",
+    "title": "zouyuxuan122/Deepseek-Harness-EAC",
+    "source_url": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC",
+    "source": "unknown",
+    "collected_at": "2026-08-17T08:39:04.137871+00:00",
+    "analyzed_at": "2026-08-17T08:39:04.137871+00:00",
+    "summary": "DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 624,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "d956576b-65c1-4600-a1d5-a0e09666d7ba",
+    "title": "ysr666/dsh-vision-router",
+    "source_url": "https://github.com/ysr666/dsh-vision-router",
+    "source": "unknown",
+    "collected_at": "2026-08-17T08:39:05.538293+00:00",
+    "analyzed_at": "2026-08-17T08:39:05.538293+00:00",
+    "summary": "Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 541,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "f0c55a88-0cb1-4d06-a7e4-5ede5a015189",
+    "title": "SheberDavid/v4-flash-godmode-opencode-go",
+    "source_url": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go",
+    "source": "unknown",
+    "collected_at": "2026-08-17T08:39:06.844273+00:00",
+    "analyzed_at": "2026-08-17T08:39:06.844273+00:00",
+    "summary": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 510,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "d1bb71f3-6290-4675-9cd0-cc2de6b1231b",
+    "title": "An AI is running a business with real money – hit deadlines or it gets killed",
+    "source_url": "https://agentwrought.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-17T08:39:08.175610+00:00",
+    "analyzed_at": "2026-08-17T08:39:08.175610+00:00",
+    "summary": "Article URL: https://agentwrought.com/\nComments URL: https://news.ycombinator.com/item?id=49327927\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "lpercival",
+      "language": null
+    }
+  },
+  {
+    "id": "3b897c3e-d573-4f3f-bd74-4391450bdf55",
+    "title": "The Three AI Pills",
+    "source_url": "https://thezvi.substack.com/p/the-three-ai-pills",
+    "source": "hacker_news",
+    "collected_at": "2026-08-17T08:39:09.481009+00:00",
+    "analyzed_at": "2026-08-17T08:39:09.481009+00:00",
+    "summary": "Article URL: https://thezvi.substack.com/p/the-three-ai-pills\nComments URL: https://news.ycombinator.com/item?id=49327724\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "talivision",
+      "language": null
+    }
+  },
+  {
+    "id": "e4cb54bc-291e-488e-8394-0f6af8433cdc",
+    "title": "Every student is cheating with AI",
+    "source_url": "https://ben.page/cheating",
+    "source": "hacker_news",
+    "collected_at": "2026-08-17T08:39:10.791804+00:00",
+    "analyzed_at": "2026-08-17T08:39:10.791804+00:00",
+    "summary": "Article URL: https://ben.page/cheating\nComments URL: https://news.ycombinator.com/item?id=49327620\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jer0me",
+      "language": null
+    }
+  },
+  {
+    "id": "961a70cd-ffb5-42ff-b2eb-ff68696b1114",
+    "title": "HackEurope 2026: A short rant on AI and hackathons",
+    "source_url": "https://duti.dev/blog/2026/spr/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-17T08:39:12.106683+00:00",
+    "analyzed_at": "2026-08-17T08:39:12.106683+00:00",
+    "summary": "Article URL: https://duti.dev/blog/2026/spr/\nComments URL: https://news.ycombinator.com/item?id=49327490\nPoints: 11\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mindracer",
+      "language": null
+    }
+  },
+  {
+    "id": "3b6d59ba-b2e2-4ddc-88f5-4d4617ed0201",
+    "title": "How to Fix Diagonal Speed Bug in Pygame – No AI – Pygame Tutorial for Beginners",
+    "source_url": "https://www.youtube.com/watch?v=lY0GTTg_FsQ",
+    "source": "hacker_news",
+    "collected_at": "2026-08-17T08:39:13.414597+00:00",
+    "analyzed_at": "2026-08-17T08:39:13.414597+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=lY0GTTg_FsQ\nComments URL: https://news.ycombinator.com/item?id=49327481\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "shriekdj",
+      "language": null
+    }
+  },
+  {
+    "id": "2e84469f-0eab-49e7-b69f-3fdda450d628",
+    "title": "Ask HN: How can I tell articles on HN is AI written or not?",
+    "source_url": "https://news.ycombinator.com/item?id=49327468",
+    "source": "hacker_news",
+    "collected_at": "2026-08-17T08:39:14.721742+00:00",
+    "analyzed_at": "2026-08-17T08:39:14.721742+00:00",
+    "summary": "I have registered HN for several days. Which confused me is that how can I tell wether a thread is AI written or not?\n\nComments URL: https://news.ycombinator.com/item?id=49327468\nPoints: 1\n# Comments:",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "BrucecarlL",
+      "language": null
+    }
+  },
+  {
+    "id": "81c227af-4f2c-471a-8e99-68223fde6a40",
+    "title": "Report supporting Australia's teen social media ban appears to contain AI",
+    "source_url": "https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb",
+    "source": "hacker_news",
+    "collected_at": "2026-08-17T08:39:16.028964+00:00",
+    "analyzed_at": "2026-08-17T08:39:16.028964+00:00",
+    "summary": "Article URL: https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb\nComments URL: https://news.ycombinator.com/item?id=49327382\nPoints: 2\n# C",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "sbulaev",
+      "language": null
+    }
+  },
+  {
+    "id": "1b129feb-02fb-484b-93b3-ff5d69595234",
+    "title": "USC Study Finds AI Is Better at Reading Than Listening",
+    "source_url": "https://viterbischool.usc.edu/news/2026/08/can-ai-read-the-room-usc-study-finds-ai-is-better-at-reading-than-listening/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-17T08:39:17.365718+00:00",
+    "analyzed_at": "2026-08-17T08:39:17.365718+00:00",
+    "summary": "Article URL: https://viterbischool.usc.edu/news/2026/08/can-ai-read-the-room-usc-study-finds-ai-is-better-at-reading-than-listening/\nComments URL: https://news.ycombinator.com/item?id=49327313\nPoints:",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "shymaple",
+      "language": null
+    }
+  },
+  {
+    "id": "9380f1cf-e57f-4f61-bd5c-c3b44acd97f0",
+    "title": "The null result in OpenAI's enterprise AI paper",
+    "source_url": "https://theworkingmodel.co/analysis/null-result-openai-enterprise-paper/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-17T08:39:18.675629+00:00",
+    "analyzed_at": "2026-08-17T08:39:18.675629+00:00",
+    "summary": "Article URL: https://theworkingmodel.co/analysis/null-result-openai-enterprise-paper/\nComments URL: https://news.ycombinator.com/item?id=49327276\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "aicoding",
+      "language": null
+    }
+  },
+  {
+    "id": "49ca247f-e492-4b57-aff3-809c3f305d53",
+    "title": "Sainsbury's pauses AI cameras after shopper ousted",
+    "source_url": "https://www.bbc.co.uk/news/articles/cddjlmeqjgyo",
+    "source": "hacker_news",
+    "collected_at": "2026-08-17T08:39:19.982969+00:00",
+    "analyzed_at": "2026-08-17T08:39:19.982969+00:00",
+    "summary": "Article URL: https://www.bbc.co.uk/news/articles/cddjlmeqjgyo\nComments URL: https://news.ycombinator.com/item?id=49327259\nPoints: 4\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "dijksterhuis",
+      "language": null
+    }
+  },
+  {
+    "id": "3ec061d3-eb31-4ef9-920c-a7c59c7324d8",
+    "title": "AI is finding sperm where doctors couldn't",
+    "source_url": "https://www.seattletimes.com/seattle-news/science/ai-is-finding-sperm-where-doctors-couldnt/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-17T08:39:21.289604+00:00",
+    "analyzed_at": "2026-08-17T08:39:21.289604+00:00",
+    "summary": "Article URL: https://www.seattletimes.com/seattle-news/science/ai-is-finding-sperm-where-doctors-couldnt/\nComments URL: https://news.ycombinator.com/item?id=49327101\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "OutOfHere",
+      "language": null
+    }
+  },
+  {
+    "id": "775b89fa-555f-4e56-b864-ffa16634f2f2",
+    "title": "Paitify – authorization layer so AI agents can't overspend",
+    "source_url": "https://paitify.io",
+    "source": "hacker_news",
+    "collected_at": "2026-08-17T08:39:22.597041+00:00",
+    "analyzed_at": "2026-08-17T08:39:22.597041+00:00",
+    "summary": "Article URL: https://paitify.io\nComments URL: https://news.ycombinator.com/item?id=49327033\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rahmankapucu",
+      "language": null
+    }
+  },
+  {
+    "id": "32cb49d2-9610-4d77-a3d5-dbe971fbe958",
+    "title": "The AI Competence/Judgement Gap",
+    "source_url": "https://itamargilad.com/artificial-competence/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-17T08:39:23.903781+00:00",
+    "analyzed_at": "2026-08-17T08:39:23.903781+00:00",
+    "summary": "Article URL: https://itamargilad.com/artificial-competence/\nComments URL: https://news.ycombinator.com/item?id=49326995\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "BerislavLopac",
+      "language": null
+    }
+  },
+  {
+    "id": "a71a1231-615b-49dc-8211-4efbdf82a182",
+    "title": "How to Use AI as a Language Learner",
+    "source_url": "https://vocably.pro/ai.html",
+    "source": "hacker_news",
+    "collected_at": "2026-08-17T08:39:25.209613+00:00",
+    "analyzed_at": "2026-08-17T08:39:25.209613+00:00",
+    "summary": "Article URL: https://vocably.pro/ai.html\nComments URL: https://news.ycombinator.com/item?id=49326944\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "sneas",
+      "language": null
+    }
+  },
+  {
+    "id": "98067b9f-30ff-4841-b63e-0e2819c7a039",
+    "title": "Why Big Tech's AI Spending Is $3T Higher Than It Seems",
+    "source_url": "https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems-e1067bb2",
+    "source": "hacker_news",
+    "collected_at": "2026-08-17T08:39:26.514878+00:00",
+    "analyzed_at": "2026-08-17T08:39:26.514878+00:00",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems-e1067bb2\nComments URL: https://news.ycombinator.com/item?id=49326871\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "massagedpelican",
+      "language": null
+    }
+  },
+  {
+    "id": "fbd86d0f-c7b3-4b7f-9d03-3adf8a876b0f",
+    "title": "Zalvion AI",
+    "source_url": "https://zalvionai.com",
+    "source": "hacker_news",
+    "collected_at": "2026-08-17T08:39:27.821822+00:00",
+    "analyzed_at": "2026-08-17T08:39:27.821822+00:00",
+    "summary": "Article URL: https://zalvionai.com\nComments URL: https://news.ycombinator.com/item?id=49326835\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Mari_Developer",
+      "language": null
+    }
+  }
+]

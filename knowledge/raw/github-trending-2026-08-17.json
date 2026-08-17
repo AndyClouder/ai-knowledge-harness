@@ -1,0 +1,62 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-08-17T08:38:42.616564+00:00",
+  "items": [
+    {
+      "name": "dataelement/dsh-desktop",
+      "url": "https://github.com/dataelement/dsh-desktop",
+      "summary": "DeepSeek Harness Desktop",
+      "stars": 671,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "deepseek",
+        "desktop",
+        "dsh-plugins"
+      ]
+    },
+    {
+      "name": "zouyuxuan122/Deepseek-Harness-EAC",
+      "url": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC",
+      "summary": "DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
+      "stars": 624,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "deepseek",
+        "desktop-app",
+        "dsh",
+        "electron",
+        "windows"
+      ]
+    },
+    {
+      "name": "ysr666/dsh-vision-router",
+      "url": "https://github.com/ysr666/dsh-vision-router",
+      "summary": "Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command ",
+      "stars": 541,
+      "language": "JavaScript",
+      "topics": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "multimodal",
+        "vision"
+      ]
+    },
+    {
+      "name": "SheberDavid/v4-flash-godmode-opencode-go",
+      "url": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go",
+      "summary": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
+      "stars": 510,
+      "language": "JavaScript",
+      "topics": [
+        "agent",
+        "deepseek",
+        "dsh",
+        "flash"
+      ]
+    }
+  ]
+}
