@@ -1,0 +1,422 @@
+[
+  {
+    "id": "e212ebd3-f315-40a2-b629-3dbd161a7603",
+    "title": "yetone/cumora",
+    "source_url": "https://github.com/yetone/cumora",
+    "source": "unknown",
+    "collected_at": "2026-08-18T08:32:38.272349+00:00",
+    "analyzed_at": "2026-08-18T08:32:38.272349+00:00",
+    "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1970,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "a2a0c669-4310-4e0b-8e75-4fa7aadff79d",
+    "title": "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+    "source_url": "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+    "source": "unknown",
+    "collected_at": "2026-08-18T08:32:39.634820+00:00",
+    "analyzed_at": "2026-08-18T08:32:39.634820+00:00",
+    "summary": "DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4 (Flash/Pro).",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 770,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "5664f64a-2a09-4c2e-b17f-bdd75af0a4b3",
+    "title": "NanmiCoder/dsh-agent-teams",
+    "source_url": "https://github.com/NanmiCoder/dsh-agent-teams",
+    "source": "unknown",
+    "collected_at": "2026-08-18T08:32:40.998991+00:00",
+    "analyzed_at": "2026-08-18T08:32:40.998991+00:00",
+    "summary": "AgentTeams plugin for DeepSeek Harness",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 526,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "088ea5d5-b114-45d7-83f6-b463b1dbee52",
+    "title": "Study: AI reveals hidden patterns inside breast cancer",
+    "source_url": "https://www.southampton.ac.uk/news/2026/08/ai-reveals-hidden-patterns-inside-breast-cancer.page",
+    "source": "hacker_news",
+    "collected_at": "2026-08-18T08:32:42.379343+00:00",
+    "analyzed_at": "2026-08-18T08:32:42.379343+00:00",
+    "summary": "Article URL: https://www.southampton.ac.uk/news/2026/08/ai-reveals-hidden-patterns-inside-breast-cancer.page\nComments URL: https://news.ycombinator.com/item?id=49342967\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "giuliomagnifico",
+      "language": null
+    }
+  },
+  {
+    "id": "895ff1f8-5d1e-4b4b-af80-0be8cee09eda",
+    "title": "The End-State Fallacy: Where Is AI Security Headed?",
+    "source_url": "https://endstatefallacy.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-18T08:32:43.742710+00:00",
+    "analyzed_at": "2026-08-18T08:32:43.742710+00:00",
+    "summary": "Article URL: https://endstatefallacy.com/\nComments URL: https://news.ycombinator.com/item?id=49342791\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mp3il",
+      "language": null
+    }
+  },
+  {
+    "id": "62553c3c-589e-419d-a96d-f43d578240dd",
+    "title": "Creator of TypeScript: 10x Faster TypeScript, Why AI Won't Replace SWEs [video]",
+    "source_url": "https://www.youtube.com/watch?v=cywK3XYYJ2o",
+    "source": "hacker_news",
+    "collected_at": "2026-08-18T08:32:45.106808+00:00",
+    "analyzed_at": "2026-08-18T08:32:45.106808+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=cywK3XYYJ2o\nComments URL: https://news.ycombinator.com/item?id=49342748\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "tosh",
+      "language": null
+    }
+  },
+  {
+    "id": "71893753-c77f-4eb0-aaa5-2156d859d1d3",
+    "title": "AI is like farming. (and the purpose behind what I'm building)",
+    "source_url": "https://news.ycombinator.com/item?id=49342690",
+    "source": "hacker_news",
+    "collected_at": "2026-08-18T08:32:46.757644+00:00",
+    "analyzed_at": "2026-08-18T08:32:46.757644+00:00",
+    "summary": "I was watching a documentary on bronze ages last night. A line stuck with me. After the invention of bronze tools farming got more efficient and people had more time on their hands. They used it to BU",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Ozzie-D",
+      "language": null
+    }
+  },
+  {
+    "id": "974e9853-daee-49d0-95e1-d8783f5a4f93",
+    "title": "Show HN: I built an M2M payment loop where AI Agents pay for data via x402",
+    "source_url": "https://github.com/tianzizhiming-svg/agentbridge",
+    "source": "hacker_news",
+    "collected_at": "2026-08-18T08:32:48.121369+00:00",
+    "analyzed_at": "2026-08-18T08:32:48.121369+00:00",
+    "summary": "Article URL: https://github.com/tianzizhiming-svg/agentbridge\nComments URL: https://news.ycombinator.com/item?id=49342345\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "manniusl",
+      "language": null
+    }
+  },
+  {
+    "id": "49517ade-90ef-4af2-9186-b32abbda6a26",
+    "title": "Show HN: AiJarvi – 80 free AI tools for creators in one workspace",
+    "source_url": "https://aijarvi.com",
+    "source": "hacker_news",
+    "collected_at": "2026-08-18T08:32:49.484406+00:00",
+    "analyzed_at": "2026-08-18T08:32:49.484406+00:00",
+    "summary": "Article URL: https://aijarvi.com\nComments URL: https://news.ycombinator.com/item?id=49342307\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "aijarviofficial",
+      "language": null
+    }
+  },
+  {
+    "id": "944d5c08-118b-4482-8fa7-b69c858e1c14",
+    "title": "Private Scribe – 100% offline Whisper AI voice dictation for Windows",
+    "source_url": "https://omnitender.gumroad.com/l/private-scribe",
+    "source": "hacker_news",
+    "collected_at": "2026-08-18T08:32:50.847262+00:00",
+    "analyzed_at": "2026-08-18T08:32:50.847262+00:00",
+    "summary": "Article URL: https://omnitender.gumroad.com/l/private-scribe\nComments URL: https://news.ycombinator.com/item?id=49341940\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "subtiliorars",
+      "language": null
+    }
+  },
+  {
+    "id": "2c2d9e11-d1b7-4e17-be23-4f733b1db23a",
+    "title": "Goody-2, the most responsible AI model (2024)",
+    "source_url": "https://www.goody2.ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-18T08:32:52.211796+00:00",
+    "analyzed_at": "2026-08-18T08:32:52.211796+00:00",
+    "summary": "Article URL: https://www.goody2.ai/\nComments URL: https://news.ycombinator.com/item?id=49341448\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "science4sail",
+      "language": null
+    }
+  },
+  {
+    "id": "e5877873-0873-4121-a73d-78c6e63ada2f",
+    "title": "Vetted AI code is hard to justify",
+    "source_url": "https://amoffat.github.io/blog/vetting-burnout.html",
+    "source": "hacker_news",
+    "collected_at": "2026-08-18T08:32:53.575595+00:00",
+    "analyzed_at": "2026-08-18T08:32:53.575595+00:00",
+    "summary": "Article URL: https://amoffat.github.io/blog/vetting-burnout.html\nComments URL: https://news.ycombinator.com/item?id=49341368\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Curiositry",
+      "language": null
+    }
+  },
+  {
+    "id": "668131ea-24fd-45fb-9e62-a9544a233c8a",
+    "title": "What If I Told You Humans Are Moving Faster Than AI?",
+    "source_url": "https://medium.com/freedomofthought/what-if-i-told-you-humans-are-moving-faster-than-ai-833441f3fb21",
+    "source": "hacker_news",
+    "collected_at": "2026-08-18T08:32:54.939178+00:00",
+    "analyzed_at": "2026-08-18T08:32:54.939178+00:00",
+    "summary": "Article URL: https://medium.com/freedomofthought/what-if-i-told-you-humans-are-moving-faster-than-ai-833441f3fb21\nComments URL: https://news.ycombinator.com/item?id=49341102\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "raynchad",
+      "language": null
+    }
+  },
+  {
+    "id": "fdd2121c-6b87-429d-9487-190cfbdf08d1",
+    "title": "Why It Hasn't Happened Yet: Capable AI and Malicious Intent",
+    "source_url": "https://substack.norabble.com/p/why-it-hasnt-happened-yet",
+    "source": "hacker_news",
+    "collected_at": "2026-08-18T08:32:56.332331+00:00",
+    "analyzed_at": "2026-08-18T08:32:56.332331+00:00",
+    "summary": "Article URL: https://substack.norabble.com/p/why-it-hasnt-happened-yet\nComments URL: https://news.ycombinator.com/item?id=49341070\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "nedruod",
+      "language": null
+    }
+  },
+  {
+    "id": "7f7112b2-b5de-408d-b890-f0c21e7bafca",
+    "title": "San Diego 150 Years Ago: Rare AI Reconstruction Visuals [video]",
+    "source_url": "https://www.youtube.com/watch?v=qWaR_nc5sKM",
+    "source": "hacker_news",
+    "collected_at": "2026-08-18T08:32:57.696694+00:00",
+    "analyzed_at": "2026-08-18T08:32:57.696694+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=qWaR_nc5sKM\nComments URL: https://news.ycombinator.com/item?id=49340969\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "latchkey",
+      "language": null
+    }
+  },
+  {
+    "id": "14fd5922-586b-4d5d-80f2-26cb3012d94d",
+    "title": "A candy brand discovered TikTok made an AI clone of its founder to run ads [video]",
+    "source_url": "https://www.youtube.com/watch?v=itovmsMwus0",
+    "source": "hacker_news",
+    "collected_at": "2026-08-18T08:32:59.060849+00:00",
+    "analyzed_at": "2026-08-18T08:32:59.060849+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=itovmsMwus0\nComments URL: https://news.ycombinator.com/item?id=49340602\nPoints: 5\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "navs",
+      "language": null
+    }
+  },
+  {
+    "id": "c3d2a54f-ea0d-45dc-80f0-5a692e5fc743",
+    "title": "Three different papers pushed to ArXiv proving same 1986 conjecture; all use AI",
+    "source_url": "https://twitter.com/Quasilocal/status/2089408301427568691",
+    "source": "hacker_news",
+    "collected_at": "2026-08-18T08:33:00.426625+00:00",
+    "analyzed_at": "2026-08-18T08:33:00.426625+00:00",
+    "summary": "Article URL: https://twitter.com/Quasilocal/status/2089408301427568691\nComments URL: https://news.ycombinator.com/item?id=49340201\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pfdietz",
+      "language": null
+    }
+  },
+  {
+    "id": "cba6faeb-61b0-4fdf-a0d0-9378bdcc167f",
+    "title": "Going AI-native to enhance how humans/agents access ScalarDB and ScalarDL docs",
+    "source_url": "https://medium.com/scalar-engineering/going-ai-native-to-enhance-how-humans-and-agents-access-scalardb-and-scalardl-docs-fb7dbb0d304b",
+    "source": "hacker_news",
+    "collected_at": "2026-08-18T08:33:01.792155+00:00",
+    "analyzed_at": "2026-08-18T08:33:01.792155+00:00",
+    "summary": "Article URL: https://medium.com/scalar-engineering/going-ai-native-to-enhance-how-humans-and-agents-access-scalardb-and-scalardl-docs-fb7dbb0d304b\nComments URL: https://news.ycombinator.com/item?id=49",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "josh-scalar",
+      "language": null
+    }
+  },
+  {
+    "id": "3cf27c87-1956-4989-8888-342a4a8d56fa",
+    "title": "Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text",
+    "source_url": "https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking",
+    "source": "hacker_news",
+    "collected_at": "2026-08-18T08:33:03.154763+00:00",
+    "analyzed_at": "2026-08-18T08:33:03.154763+00:00",
+    "summary": "Article URL: https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking\nComments URL: https://news.ycombinator.com/item?id=49339918\nPoints: 10\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "tambourine_man",
+      "language": null
+    }
+  },
+  {
+    "id": "3e40ee06-46f4-4821-8356-70308c338f8d",
+    "title": "Anthropic's Claude Will Add Watermarks to AI-Generated Text and Files",
+    "source_url": "https://www.cnet.com/tech/services-and-software/anthropics-claude-will-add-watermarks-to-ai-generated-text-and-files/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-18T08:33:04.612904+00:00",
+    "analyzed_at": "2026-08-18T08:33:04.612904+00:00",
+    "summary": "Article URL: https://www.cnet.com/tech/services-and-software/anthropics-claude-will-add-watermarks-to-ai-generated-text-and-files/\nComments URL: https://news.ycombinator.com/item?id=49339832\nPoints: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "wglb",
+      "language": null
+    }
+  }
+]
