@@ -1,0 +1,422 @@
+[
+  {
+    "id": "781accfd-7497-407d-ba83-c885ecdba3d5",
+    "title": "s1dashu/ip-as-logo-skill",
+    "source_url": "https://github.com/s1dashu/ip-as-logo-skill",
+    "source": "unknown",
+    "collected_at": "2026-08-19T08:33:35.617793+00:00",
+    "analyzed_at": "2026-08-19T08:33:35.617793+00:00",
+    "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1429,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "3a01c924-3dfe-4971-8e4c-7b7c2df488c5",
+    "title": "cinderline/northcinder",
+    "source_url": "https://github.com/cinderline/northcinder",
+    "source": "unknown",
+    "collected_at": "2026-08-19T08:33:36.879066+00:00",
+    "analyzed_at": "2026-08-19T08:33:36.879066+00:00",
+    "summary": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1160,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "511eb53b-9978-4099-bfce-4b4717cdc22f",
+    "title": "Thoughts about Scaling Law (from Z.ai Cofounder)",
+    "source_url": "https://xcancel.com/jietang/status/2089941544581403107#m",
+    "source": "hacker_news",
+    "collected_at": "2026-08-19T08:33:38.153969+00:00",
+    "analyzed_at": "2026-08-19T08:33:38.153969+00:00",
+    "summary": "Article URL: https://xcancel.com/jietang/status/2089941544581403107#m\nComments URL: https://news.ycombinator.com/item?id=49358643\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "theanonymousone",
+      "language": null
+    }
+  },
+  {
+    "id": "74fe1bea-6b65-4080-bc9b-3cadea01d823",
+    "title": "Show HN: AI PR reviewer built to stay quiet – 89% of merged PRs got no comments",
+    "source_url": "https://github.com/Kyeom1997/pr-sage",
+    "source": "hacker_news",
+    "collected_at": "2026-08-19T08:33:39.413633+00:00",
+    "analyzed_at": "2026-08-19T08:33:39.413633+00:00",
+    "summary": "Article URL: https://github.com/Kyeom1997/pr-sage\nComments URL: https://news.ycombinator.com/item?id=49358609\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "gudrua1543",
+      "language": null
+    }
+  },
+  {
+    "id": "400fd20b-0d65-4e9b-a764-1e2a3ca2d55e",
+    "title": "Show HN: Veyra - Self evolving AI agent",
+    "source_url": "https://github.com/iondodon/veyra",
+    "source": "hacker_news",
+    "collected_at": "2026-08-19T08:33:40.673717+00:00",
+    "analyzed_at": "2026-08-19T08:33:40.673717+00:00",
+    "summary": "Article URL: https://github.com/iondodon/veyra\nComments URL: https://news.ycombinator.com/item?id=49358474\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "iondodon",
+      "language": null
+    }
+  },
+  {
+    "id": "be138b96-c6a6-4a23-9d8b-060ff57ad894",
+    "title": "Yoshua Bengio, the godfather of AI, explains the risks of AI [video]",
+    "source_url": "https://www.youtube.com/watch?v=fvvvtbBvh6Q",
+    "source": "hacker_news",
+    "collected_at": "2026-08-19T08:33:41.933908+00:00",
+    "analyzed_at": "2026-08-19T08:33:41.933908+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=fvvvtbBvh6Q\nComments URL: https://news.ycombinator.com/item?id=49358437\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "micku7zu",
+      "language": null
+    }
+  },
+  {
+    "id": "41a352d3-9aef-4ee9-80a6-a6290bba6df5",
+    "title": "AI Marketing Stash: a directory for discovering AI marketing tools",
+    "source_url": "https://www.aimarketingstash.com",
+    "source": "hacker_news",
+    "collected_at": "2026-08-19T08:33:43.194786+00:00",
+    "analyzed_at": "2026-08-19T08:33:43.194786+00:00",
+    "summary": "Article URL: https://www.aimarketingstash.com\nComments URL: https://news.ycombinator.com/item?id=49358251\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Tlesenechal",
+      "language": null
+    }
+  },
+  {
+    "id": "cd8dab3d-0661-41b8-a089-4c89e3ff5e34",
+    "title": "Show HN: Superprez.io – Sharing and Collaboration for AI-Generated Decks",
+    "source_url": "https://www.superprez.io",
+    "source": "hacker_news",
+    "collected_at": "2026-08-19T08:33:44.489808+00:00",
+    "analyzed_at": "2026-08-19T08:33:44.489808+00:00",
+    "summary": "Hi HN,\nI've been working on Superprez.io because of something that started bothering me more and more with AI-generated presentations.Any AI like Claude, Cursor and ChatGPT can now generate surprising",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "elsaelsa",
+      "language": null
+    }
+  },
+  {
+    "id": "2b140119-1ab2-44b7-913d-1f2b7f91386e",
+    "title": "Show HN: Open-source extension to transfer AI chats without losing context",
+    "source_url": "https://github.com/VC067/MoveChat",
+    "source": "hacker_news",
+    "collected_at": "2026-08-19T08:33:45.749205+00:00",
+    "analyzed_at": "2026-08-19T08:33:45.749205+00:00",
+    "summary": "Article URL: https://github.com/VC067/MoveChat\nComments URL: https://news.ycombinator.com/item?id=49358171\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "VC067",
+      "language": null
+    }
+  },
+  {
+    "id": "3314f302-cb6d-4f09-9770-087b52b63e49",
+    "title": "AI-generated candidate proof of a causal guarantee for RACE attention [pdf]",
+    "source_url": "https://drive.google.com/file/d/11Jh_ITQWQbM40REfNayPbS98lyk0EUTG/view?usp=drive_link",
+    "source": "hacker_news",
+    "collected_at": "2026-08-19T08:33:47.009811+00:00",
+    "analyzed_at": "2026-08-19T08:33:47.009811+00:00",
+    "summary": "Article URL: https://drive.google.com/file/d/11Jh_ITQWQbM40REfNayPbS98lyk0EUTG/view?usp=drive_link\nComments URL: https://news.ycombinator.com/item?id=49358146\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Rufty",
+      "language": null
+    }
+  },
+  {
+    "id": "8cd7689f-64c1-45b8-8ae5-ac5da698c15d",
+    "title": "Trump crypto firm backs venture offering AI from restricted Chinese companies",
+    "source_url": "https://www.reuters.com/world/china/trump-crypto-firm-backs-venture-offering-ai-restricted-chinese-companies-2026-08-17/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-19T08:33:48.297293+00:00",
+    "analyzed_at": "2026-08-19T08:33:48.297293+00:00",
+    "summary": "Article URL: https://www.reuters.com/world/china/trump-crypto-firm-backs-venture-offering-ai-restricted-chinese-companies-2026-08-17/\nComments URL: https://news.ycombinator.com/item?id=49358077\nPoints",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "petethomas",
+      "language": null
+    }
+  },
+  {
+    "id": "ccab67f5-869e-4272-938c-694fdddf9b90",
+    "title": "AI is accelerating elder fraud. Their kids are reckoning with the fallout",
+    "source_url": "https://www.usatoday.com/story/life/health-wellness/2026/08/18/elder-fraud-ai-sandwich-generation-caregivers/90852035007/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-19T08:33:49.559915+00:00",
+    "analyzed_at": "2026-08-19T08:33:49.559915+00:00",
+    "summary": "Article URL: https://www.usatoday.com/story/life/health-wellness/2026/08/18/elder-fraud-ai-sandwich-generation-caregivers/90852035007/\nComments URL: https://news.ycombinator.com/item?id=49357950\nPoint",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "bluutang",
+      "language": null
+    }
+  },
+  {
+    "id": "d1680386-5ccb-48eb-8496-d0754cfb41e1",
+    "title": "Young adults in the US are increasingly wary of AI, concerned it will take jobs",
+    "source_url": "https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-19T08:33:50.844969+00:00",
+    "analyzed_at": "2026-08-19T08:33:50.844969+00:00",
+    "summary": "Article URL: https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/\nComments URL: https://news.ycombinator.com/item?id=49357",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "thm",
+      "language": null
+    }
+  },
+  {
+    "id": "ea84b3c9-e994-4c7b-815f-2eba8f0f4300",
+    "title": "AI's recursive self-improvement might not come so quickly after all",
+    "source_url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-19T08:33:52.147246+00:00",
+    "analyzed_at": "2026-08-19T08:33:52.147246+00:00",
+    "summary": "Article URL: https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/\nComments URL: https://news.ycombinator.com/item?id=49357929\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "joozio",
+      "language": null
+    }
+  },
+  {
+    "id": "36866af9-37fd-45c2-bbc1-8471d269a126",
+    "title": "Building Shared Memory for AI Agents in Notion",
+    "source_url": "https://www.notion.com/blog/building-shared-memory-for-ai-agents-in-notion",
+    "source": "hacker_news",
+    "collected_at": "2026-08-19T08:33:53.406808+00:00",
+    "analyzed_at": "2026-08-19T08:33:53.406808+00:00",
+    "summary": "Article URL: https://www.notion.com/blog/building-shared-memory-for-ai-agents-in-notion\nComments URL: https://news.ycombinator.com/item?id=49357879\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "asherwood",
+      "language": null
+    }
+  },
+  {
+    "id": "745fbf57-93f9-4d76-99db-6c5438760733",
+    "title": "Excited and exhausted: life as a tech writer in the AI age",
+    "source_url": "https://elizabethtai.com/2026/08/19/life-as-a-techwriter-in-the-ai-age/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-19T08:33:54.666972+00:00",
+    "analyzed_at": "2026-08-19T08:33:54.666972+00:00",
+    "summary": "Article URL: https://elizabethtai.com/2026/08/19/life-as-a-techwriter-in-the-ai-age/\nComments URL: https://news.ycombinator.com/item?id=49357621\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "theletterf",
+      "language": null
+    }
+  },
+  {
+    "id": "1a64050f-8add-4d1a-b43d-3a568e1a3f19",
+    "title": "200B Tokens Later: A Month of Letting AI Agents Decompile MW2",
+    "source_url": "https://momo5502.com/posts/2026-08-17-mw2-decompilation/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-19T08:33:55.926661+00:00",
+    "analyzed_at": "2026-08-19T08:33:55.926661+00:00",
+    "summary": "Article URL: https://momo5502.com/posts/2026-08-17-mw2-decompilation/\nComments URL: https://news.ycombinator.com/item?id=49357584\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "tyrells",
+      "language": null
+    }
+  },
+  {
+    "id": "6247eb0e-bc1b-4744-8c02-d91da3618497",
+    "title": "Does AI stop children from learning?",
+    "source_url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+    "source": "hacker_news",
+    "collected_at": "2026-08-19T08:33:57.188483+00:00",
+    "analyzed_at": "2026-08-19T08:33:57.188483+00:00",
+    "summary": "Article URL: https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning\nComments URL: https://news.ycombinator.com/item?id=49357530\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "dash2",
+      "language": null
+    }
+  },
+  {
+    "id": "07792c01-4c81-4d4f-9801-849445d6c9f7",
+    "title": "Designing AI with character: what we learned building Berd",
+    "source_url": "https://block.xyz/inside/designing-ai-with-character-what-we-learned-building-berd",
+    "source": "hacker_news",
+    "collected_at": "2026-08-19T08:33:58.449915+00:00",
+    "analyzed_at": "2026-08-19T08:33:58.449915+00:00",
+    "summary": "Article URL: https://block.xyz/inside/designing-ai-with-character-what-we-learned-building-berd\nComments URL: https://news.ycombinator.com/item?id=49357223\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "thm",
+      "language": null
+    }
+  },
+  {
+    "id": "280b62c7-257a-4026-9924-6059f2c76c34",
+    "title": "Get feedback on your AI slop. no accounts",
+    "source_url": "https://slopornot.simplicated.dev",
+    "source": "hacker_news",
+    "collected_at": "2026-08-19T08:33:59.774514+00:00",
+    "analyzed_at": "2026-08-19T08:33:59.774514+00:00",
+    "summary": "Article URL: https://slopornot.simplicated.dev\nComments URL: https://news.ycombinator.com/item?id=49357213\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "karenimnotkaren",
+      "language": null
+    }
+  }
+]
