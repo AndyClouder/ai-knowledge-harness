@@ -1,0 +1,178 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-08-20T08:34:19.245047+00:00",
+  "items": [
+    {
+      "name": "Don't Paste the AI, please",
+      "url": "https://dontpastetheai.com/",
+      "summary": "Article URL: https://dontpastetheai.com/\nComments URL: https://news.ycombinator.com/item?id=49371857\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pjerem",
+      "published": "Thu, 20 Aug 2026 08:20:44 +0000"
+    },
+    {
+      "name": "AI Influence Level (Ail) v1.0",
+      "url": "https://danielmiessler.com/blog/ai-influence-level-ail",
+      "summary": "Article URL: https://danielmiessler.com/blog/ai-influence-level-ail\nComments URL: https://news.ycombinator.com/item?id=49371827\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "doener",
+      "published": "Thu, 20 Aug 2026 08:16:00 +0000"
+    },
+    {
+      "name": "A perfect example of concept entanglement in generative AI",
+      "url": "https://martinanderson.ai/blog/entanglement-in-ai-generation-veronica-carlson-hair.html",
+      "summary": "Article URL: https://martinanderson.ai/blog/entanglement-in-ai-generation-veronica-carlson-hair.html\nComments URL: https://news.ycombinator.com/item?id=49371811\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "50kIters",
+      "published": "Thu, 20 Aug 2026 08:14:10 +0000"
+    },
+    {
+      "name": "Florida police officer accused of using Flock AI cameras",
+      "url": "https://www.dexerto.com/entertainment/florida-police-officer-accused-of-using-ai-flock-cameras-to-track-ex-wife-717-times-3400226/",
+      "summary": "Article URL: https://www.dexerto.com/entertainment/florida-police-officer-accused-of-using-ai-flock-cameras-to-track-ex-wife-717-times-3400226/\nComments URL: https://news.ycombinator.com/item?id=49371",
+      "source": "hacker_news",
+      "score": null,
+      "author": "01-_-",
+      "published": "Thu, 20 Aug 2026 07:39:22 +0000"
+    },
+    {
+      "name": "It used to be our imperfect bodies that made us insecure. With AI, its our minds",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/20/bodies-ai-minds-history-technology-humans",
+      "summary": "Article URL: https://www.theguardian.com/commentisfree/2026/aug/20/bodies-ai-minds-history-technology-humans\nComments URL: https://news.ycombinator.com/item?id=49371527\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "novaRom",
+      "published": "Thu, 20 Aug 2026 07:30:25 +0000"
+    },
+    {
+      "name": "Show HN: Do-over, undo for AI agent shell commands",
+      "url": "https://github.com/CaydenChik/doover",
+      "summary": "Hello HN,I built this after a coding agent deleted my files while tidying a project. Do-over plugs into Claude Code's hooks and snapshots what a command is about to touch right before it runs.I know w",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Cayden27",
+      "published": "Thu, 20 Aug 2026 06:42:36 +0000"
+    },
+    {
+      "name": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+      "url": "https://www.wired.com/story/flock-safety-os-investigate/",
+      "summary": "Article URL: https://www.wired.com/story/flock-safety-os-investigate/\nComments URL: https://news.ycombinator.com/item?id=49371195\nPoints: 11\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "divbzero",
+      "published": "Thu, 20 Aug 2026 06:40:14 +0000"
+    },
+    {
+      "name": "AI is changing how we code. Is this positive?",
+      "url": "https://news.ycombinator.com/item?id=49371169",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=49371169\nPoints: 3\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "simondukr",
+      "published": "Thu, 20 Aug 2026 06:37:14 +0000"
+    },
+    {
+      "name": "Ask HN: When will the AI bubble burst and eradicate all life in the planet?",
+      "url": "https://news.ycombinator.com/item?id=49371163",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=49371163\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "roschdal",
+      "published": "Thu, 20 Aug 2026 06:36:56 +0000"
+    },
+    {
+      "name": "AI Is Changing How We Hac",
+      "url": "https://news.ycombinator.com/item?id=49371156",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=49371156\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "simondukr",
+      "published": "Thu, 20 Aug 2026 06:36:18 +0000"
+    },
+    {
+      "name": "Crypto's (and AI's) midterm PAC machine",
+      "url": "https://www.politico.com/newsletters/politico-influence/2026/08/19/a-rare-setback-for-cryptos-midterm-machine-01042044",
+      "summary": "Article URL: https://www.politico.com/newsletters/politico-influence/2026/08/19/a-rare-setback-for-cryptos-midterm-machine-01042044\nComments URL: https://news.ycombinator.com/item?id=49370228\nPoints: ",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mmooss",
+      "published": "Thu, 20 Aug 2026 03:58:56 +0000"
+    },
+    {
+      "name": "Do We Still Need Database Management Tools When AI Can Write SQL?",
+      "url": "http://johnli.work/posts/do-we-still-need-database-management-tools-when-ai-can-write-sql/",
+      "summary": "Article URL: http://johnli.work/posts/do-we-still-need-database-management-tools-when-ai-can-write-sql/\nComments URL: https://news.ycombinator.com/item?id=49370037\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "cloudcanalx",
+      "published": "Thu, 20 Aug 2026 03:24:31 +0000"
+    },
+    {
+      "name": "Show HN: AI agents can now safely write to your CRMs",
+      "url": "https://www.archron.app/",
+      "summary": "Hi HN!Just wanted to share that I've built Archron - Execution governance for AI in business. It allows agents to safely write to CRMs(starting from Salesforce and hubspot) while maintaining immutable",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rjimena",
+      "published": "Thu, 20 Aug 2026 03:17:08 +0000"
+    },
+    {
+      "name": "Does anyone find AI code review useful?",
+      "url": "https://news.ycombinator.com/item?id=49369710",
+      "summary": "I’m genuinely trying to understand the point of AI code review.Once an LLM generated change gets into a few hundreds or thousands of lines, a human reviewer can barely read the whole thing in any mean",
+      "source": "hacker_news",
+      "score": null,
+      "author": "swimmingpolar",
+      "published": "Thu, 20 Aug 2026 02:24:07 +0000"
+    },
+    {
+      "name": "Show HN: AI Resume Screening – Looking for feedback from recruiters",
+      "url": "https://aiomniu.top/services/resume-screening",
+      "summary": "In addition to the resume creation tool we mentioned in our previous post, we've also developed an AI-powered resume screening tool to complement our overall ecosystem. This tool aims to help recruitm",
+      "source": "hacker_news",
+      "score": null,
+      "author": "aiomniu",
+      "published": "Thu, 20 Aug 2026 02:17:09 +0000"
+    },
+    {
+      "name": "Credentialism is coming for AI agents",
+      "url": "https://betocmn.com/blog/credentialism-is-coming-for-ai-agents/",
+      "summary": "Article URL: https://betocmn.com/blog/credentialism-is-coming-for-ai-agents/\nComments URL: https://news.ycombinator.com/item?id=49369402\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "thedreammachine",
+      "published": "Thu, 20 Aug 2026 01:27:46 +0000"
+    },
+    {
+      "name": "How to use AI for your next job interview",
+      "url": "https://www.lennysnewsletter.com/p/how-to-use-ai-in-your-next-job-interview",
+      "summary": "Article URL: https://www.lennysnewsletter.com/p/how-to-use-ai-in-your-next-job-interview\nComments URL: https://news.ycombinator.com/item?id=49369333\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "luispa",
+      "published": "Thu, 20 Aug 2026 01:18:17 +0000"
+    },
+    {
+      "name": "Agentic AI has made CPUs the new performance bottleneck",
+      "url": "https://spectrum.ieee.org/ai-cpu-comeback",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-cpu-comeback\nComments URL: https://news.ycombinator.com/item?id=49369311\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pseudolus",
+      "published": "Thu, 20 Aug 2026 01:14:05 +0000"
+    },
+    {
+      "name": "Round Hill Music Sues Suno and Anthropic for $1B over AI Training Data",
+      "url": "https://www.gadgetreview.com/round-hill-music-sues-suno-and-anthropic-for-1-billion-over-ai-training-data",
+      "summary": "Article URL: https://www.gadgetreview.com/round-hill-music-sues-suno-and-anthropic-for-1-billion-over-ai-training-data\nComments URL: https://news.ycombinator.com/item?id=49369063\nPoints: 2\n# Comments:",
+      "source": "hacker_news",
+      "score": null,
+      "author": "NordStreamYacht",
+      "published": "Thu, 20 Aug 2026 00:40:14 +0000"
+    }
+  ]
+}
