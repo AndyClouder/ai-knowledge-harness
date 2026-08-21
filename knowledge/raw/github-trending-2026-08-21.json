@@ -1,0 +1,149 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-08-21T08:36:21.008359+00:00",
+  "items": [
+    {
+      "name": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "summary": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "stars": 1848,
+      "language": "TypeScript",
+      "topics": [
+        "ag-ui",
+        "agent-governance",
+        "ai-agents",
+        "browser-automation",
+        "copilotkit",
+        "generative-ui",
+        "mcp"
+      ]
+    },
+    {
+      "name": "Leutenegger/coldcard-airgap",
+      "url": "https://github.com/Leutenegger/coldcard-airgap",
+      "summary": "Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion",
+      "stars": 608,
+      "language": "Python",
+      "topics": [
+        "airgap",
+        "airgap-devkit",
+        "airgap-download",
+        "airgap-setup",
+        "airgap-tutorial",
+        "bitcoin",
+        "bitcoin-wallet",
+        "coldcard",
+        "coldcard-mk2",
+        "coldcard-mk4",
+        "cryptography",
+        "cryptography-algorithms",
+        "cryptography-tools",
+        "ledger",
+        "ledger-cli",
+        "ledger-wallet",
+        "metamask",
+        "metamask-desktop"
+      ]
+    },
+    {
+      "name": "browser-use/macos-harness",
+      "url": "https://github.com/browser-use/macos-harness",
+      "summary": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "stars": 593,
+      "language": "Python",
+      "topics": [
+        "accessibility",
+        "agent",
+        "automation",
+        "cdp",
+        "computer-use",
+        "macos",
+        "python"
+      ]
+    },
+    {
+      "name": "jeremy-prt/bloub",
+      "url": "https://github.com/jeremy-prt/bloub",
+      "summary": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
+      "stars": 588,
+      "language": "TypeScript",
+      "topics": [
+        "animation",
+        "avatar",
+        "morphing",
+        "svg",
+        "svg-animation",
+        "typescript",
+        "vue"
+      ]
+    },
+    {
+      "name": "missuo/herdrm",
+      "url": "https://github.com/missuo/herdrm",
+      "summary": "Native macOS console for herdr — all your coding agents and their live terminals, across devices",
+      "stars": 579,
+      "language": "Swift",
+      "topics": []
+    },
+    {
+      "name": "Nervercc/gpt_nerver",
+      "url": "https://github.com/Nervercc/gpt_nerver",
+      "summary": "ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
+      "stars": 577,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "bawadou/ai-data-extractor",
+      "url": "https://github.com/bawadou/ai-data-extractor",
+      "summary": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "stars": 532,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-data-extractor",
+        "claude",
+        "cursor",
+        "cursor-ai",
+        "data-extraction",
+        "gemini"
+      ]
+    },
+    {
+      "name": "jaredrhod/barehands",
+      "url": "https://github.com/jaredrhod/barehands",
+      "summary": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
+      "stars": 498,
+      "language": "HTML",
+      "topics": [
+        "ai-assisstant",
+        "augmented-reality",
+        "claude-code",
+        "gesture-control",
+        "hand-tracking",
+        "mediapipe",
+        "threejs"
+      ]
+    },
+    {
+      "name": "flaqai/backlink_skills",
+      "url": "https://github.com/flaqai/backlink_skills",
+      "summary": "Awesome skills for submitting url to free websites. Get more backlinks for your website to get more traffic.",
+      "stars": 490,
+      "language": "Python",
+      "topics": [
+        "backlinks",
+        "codex",
+        "codex-skill",
+        "free-backlinks",
+        "freebacklinks",
+        "seo",
+        "seo-optimization",
+        "seo-skills",
+        "seo-skills-for-ai-agents",
+        "seo-tools"
+      ]
+    }
+  ]
+}

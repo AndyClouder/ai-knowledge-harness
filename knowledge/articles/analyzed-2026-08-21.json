@@ -1,0 +1,422 @@
+[
+  {
+    "id": "b54ba8d3-cccb-4eb3-8175-4b9e1cc2bb62",
+    "title": "CopilotKit/OpenBot",
+    "source_url": "https://github.com/CopilotKit/OpenBot",
+    "source": "unknown",
+    "collected_at": "2026-08-21T08:36:31.998428+00:00",
+    "analyzed_at": "2026-08-21T08:36:31.998428+00:00",
+    "summary": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1848,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "68c73a79-f654-439b-9672-b003f3fa8009",
+    "title": "Leutenegger/coldcard-airgap",
+    "source_url": "https://github.com/Leutenegger/coldcard-airgap",
+    "source": "unknown",
+    "collected_at": "2026-08-21T08:36:33.260481+00:00",
+    "analyzed_at": "2026-08-21T08:36:33.260481+00:00",
+    "summary": "Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 608,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "50a2494f-d428-4878-a149-11f386ef0eee",
+    "title": "browser-use/macos-harness",
+    "source_url": "https://github.com/browser-use/macos-harness",
+    "source": "unknown",
+    "collected_at": "2026-08-21T08:36:34.526983+00:00",
+    "analyzed_at": "2026-08-21T08:36:34.526983+00:00",
+    "summary": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 593,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "f9f775db-397a-4bdb-a683-fd51ca87e9fb",
+    "title": "jeremy-prt/bloub",
+    "source_url": "https://github.com/jeremy-prt/bloub",
+    "source": "unknown",
+    "collected_at": "2026-08-21T08:36:35.787487+00:00",
+    "analyzed_at": "2026-08-21T08:36:35.787487+00:00",
+    "summary": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 588,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "4cb62abd-df88-4d77-9332-fc1072dfb00e",
+    "title": "missuo/herdrm",
+    "source_url": "https://github.com/missuo/herdrm",
+    "source": "unknown",
+    "collected_at": "2026-08-21T08:36:37.049692+00:00",
+    "analyzed_at": "2026-08-21T08:36:37.049692+00:00",
+    "summary": "Native macOS console for herdr — all your coding agents and their live terminals, across devices",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 579,
+      "score": null,
+      "author": null,
+      "language": "Swift"
+    }
+  },
+  {
+    "id": "4e21489d-008f-479e-a388-aa6f395ed086",
+    "title": "Nervercc/gpt_nerver",
+    "source_url": "https://github.com/Nervercc/gpt_nerver",
+    "source": "unknown",
+    "collected_at": "2026-08-21T08:36:38.312505+00:00",
+    "analyzed_at": "2026-08-21T08:36:38.312505+00:00",
+    "summary": "ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 577,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "1c2e43ea-6a25-48ed-9118-83bef110b271",
+    "title": "bawadou/ai-data-extractor",
+    "source_url": "https://github.com/bawadou/ai-data-extractor",
+    "source": "unknown",
+    "collected_at": "2026-08-21T08:36:39.574663+00:00",
+    "analyzed_at": "2026-08-21T08:36:39.574663+00:00",
+    "summary": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 532,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "d9ac3abc-6572-488a-8fd5-29b8f3820d60",
+    "title": "jaredrhod/barehands",
+    "source_url": "https://github.com/jaredrhod/barehands",
+    "source": "unknown",
+    "collected_at": "2026-08-21T08:36:40.866981+00:00",
+    "analyzed_at": "2026-08-21T08:36:40.866981+00:00",
+    "summary": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 498,
+      "score": null,
+      "author": null,
+      "language": "HTML"
+    }
+  },
+  {
+    "id": "b049d0c5-7b9e-4cab-9ca4-45df68ce1ffd",
+    "title": "flaqai/backlink_skills",
+    "source_url": "https://github.com/flaqai/backlink_skills",
+    "source": "unknown",
+    "collected_at": "2026-08-21T08:36:42.128041+00:00",
+    "analyzed_at": "2026-08-21T08:36:42.128041+00:00",
+    "summary": "Awesome skills for submitting url to free websites. Get more backlinks for your website to get more traffic.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 490,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "7ac7d4bc-22c5-4420-8bf3-9769076997d8",
+    "title": "Bounded Agents: Delegation Security for Multi-Agent AI Systems",
+    "source_url": "https://arxiv.org/abs/2608.15888",
+    "source": "hacker_news",
+    "collected_at": "2026-08-21T08:36:43.389450+00:00",
+    "analyzed_at": "2026-08-21T08:36:43.389450+00:00",
+    "summary": "Article URL: https://arxiv.org/abs/2608.15888\nComments URL: https://news.ycombinator.com/item?id=49385366\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "xmuruaga",
+      "language": null
+    }
+  },
+  {
+    "id": "19f81b86-c79c-450d-97ec-aa278393fe01",
+    "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+    "source_url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-21T08:36:44.686944+00:00",
+    "analyzed_at": "2026-08-21T08:36:44.686944+00:00",
+    "summary": "Article URL: https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/\nComments URL: https://news.ycombinator.com/item?id=49385336\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jnord",
+      "language": null
+    }
+  },
+  {
+    "id": "4ed91e76-af75-4034-8a98-a0f98ab97755",
+    "title": "Engaging with AI for serious maths research – Norman Wildberger",
+    "source_url": "https://www.youtube.com/watch?v=Q7d2KMdVp9E",
+    "source": "hacker_news",
+    "collected_at": "2026-08-21T08:36:45.950688+00:00",
+    "analyzed_at": "2026-08-21T08:36:45.950688+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=Q7d2KMdVp9E\nComments URL: https://news.ycombinator.com/item?id=49385279\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "nyc111",
+      "language": null
+    }
+  },
+  {
+    "id": "9a3b895e-50c3-4b7b-a62e-31e1eb00b8e9",
+    "title": "Only one type of lawyer will survive the AI wipeout",
+    "source_url": "https://www.afr.com/work-and-careers/workplace/judges-may-be-the-only-survivors-of-law-s-ai-carnage-futurist-20260819-p60pla",
+    "source": "hacker_news",
+    "collected_at": "2026-08-21T08:36:47.257615+00:00",
+    "analyzed_at": "2026-08-21T08:36:47.257615+00:00",
+    "summary": "Article URL: https://www.afr.com/work-and-careers/workplace/judges-may-be-the-only-survivors-of-law-s-ai-carnage-futurist-20260819-p60pla\nComments URL: https://news.ycombinator.com/item?id=49385121\nPo",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "asdefghyk",
+      "language": null
+    }
+  },
+  {
+    "id": "d33ce3b0-324c-4f59-9232-0ef207724f4c",
+    "title": "Writing with AI Is Stupid",
+    "source_url": "https://lambdaland.org/posts/2026-08-07-ai-writing-stupid/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-21T08:36:48.517926+00:00",
+    "analyzed_at": "2026-08-21T08:36:48.517926+00:00",
+    "summary": "Article URL: https://lambdaland.org/posts/2026-08-07-ai-writing-stupid/\nComments URL: https://news.ycombinator.com/item?id=49385089\nPoints: 4\n# Comments: 3",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "frizlab",
+      "language": null
+    }
+  },
+  {
+    "id": "a7b809c2-f600-423c-92b6-b60af5f2e6cb",
+    "title": "Domain-Driven Design matters more when AI writes your code",
+    "source_url": "https://threedots.tech/post/ddd-and-ai-coding/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-21T08:36:49.776947+00:00",
+    "analyzed_at": "2026-08-21T08:36:49.776947+00:00",
+    "summary": "Article URL: https://threedots.tech/post/ddd-and-ai-coding/\nComments URL: https://news.ycombinator.com/item?id=49384807\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "BerislavLopac",
+      "language": null
+    }
+  },
+  {
+    "id": "40fb4eda-d654-4aba-985a-c876e0e5be51",
+    "title": "Updating a side project with AI in 275 commits",
+    "source_url": "https://benhoyt.com/writings/updating-gifty-with-ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-21T08:36:51.070202+00:00",
+    "analyzed_at": "2026-08-21T08:36:51.070202+00:00",
+    "summary": "Article URL: https://benhoyt.com/writings/updating-gifty-with-ai/\nComments URL: https://news.ycombinator.com/item?id=49384790\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ingve",
+      "language": null
+    }
+  },
+  {
+    "id": "6616c601-2d79-45c8-b8fa-63a51d828b75",
+    "title": "Show HN: Plainspeak, make AI agents write like a human",
+    "source_url": "https://sufiyan.cc/plainspeak",
+    "source": "hacker_news",
+    "collected_at": "2026-08-21T08:36:52.332669+00:00",
+    "analyzed_at": "2026-08-21T08:36:52.332669+00:00",
+    "summary": "Article URL: https://sufiyan.cc/plainspeak\nComments URL: https://news.ycombinator.com/item?id=49384788\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "codersufiyan",
+      "language": null
+    }
+  },
+  {
+    "id": "24f4095e-96ec-486d-ac9c-4ef2f3f07e04",
+    "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
+    "source_url": "https://Argentic.network",
+    "source": "hacker_news",
+    "collected_at": "2026-08-21T08:36:53.593221+00:00",
+    "analyzed_at": "2026-08-21T08:36:53.593221+00:00",
+    "summary": "Article URL: https://Argentic.network\nComments URL: https://news.ycombinator.com/item?id=49384477\nPoints: 7\n# Comments: 4",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Ag0146",
+      "language": null
+    }
+  },
+  {
+    "id": "1e176c93-602c-4e5d-8b69-bc8bc3278c14",
+    "title": "AI CMS with WebMCP tools for agents in admin panel",
+    "source_url": "https://aliothpress.com/cms-for-ai-agents-webmcp-built-in",
+    "source": "hacker_news",
+    "collected_at": "2026-08-21T08:36:54.854823+00:00",
+    "analyzed_at": "2026-08-21T08:36:54.854823+00:00",
+    "summary": "Article URL: https://aliothpress.com/cms-for-ai-agents-webmcp-built-in\nComments URL: https://news.ycombinator.com/item?id=49384446\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "nikariguel",
+      "language": null
+    }
+  },
+  {
+    "id": "9deb09a6-c0ee-494a-b7e5-a277a3d4a0c9",
+    "title": "Schooling Has a Meaning Crisis. Paradoxically, AI Can Help",
+    "source_url": "https://blog.comini.in/p/schooling-has-a-meaning-crisis-paradoxically",
+    "source": "hacker_news",
+    "collected_at": "2026-08-21T08:36:56.116136+00:00",
+    "analyzed_at": "2026-08-21T08:36:56.116136+00:00",
+    "summary": "Article URL: https://blog.comini.in/p/schooling-has-a-meaning-crisis-paradoxically\nComments URL: https://news.ycombinator.com/item?id=49384344\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "vismit2000",
+      "language": null
+    }
+  }
+]
