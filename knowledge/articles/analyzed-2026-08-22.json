@@ -1,0 +1,65 @@
+[
+  {
+    "id": "46171c0b-dfd5-45fa-af66-2001477be219",
+    "title": "Spielewoy/autoprompt-skill",
+    "source_url": "https://github.com/Spielewoy/autoprompt-skill",
+    "source": "unknown",
+    "collected_at": "2026-08-22T08:24:49.827578+00:00",
+    "analyzed_at": "2026-08-22T08:24:49.827578+00:00",
+    "summary": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 623,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "87f2a913-22c1-437c-bc5a-7a45eac86fd0",
+    "title": "Leutenegger/claudish-to-english",
+    "source_url": "https://github.com/Leutenegger/claudish-to-english",
+    "source": "unknown",
+    "collected_at": "2026-08-22T08:24:51.064712+00:00",
+    "analyzed_at": "2026-08-22T08:24:51.064712+00:00",
+    "summary": "Claude Code plugin that rewrites each assistant message into plain language on screen only. Local ollama by default; also codex CLI, Anthropic, or any OpenAI-compatible API. Fail-open. Optional Markdo",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 579,
+      "score": null,
+      "author": null,
+      "language": "Shell"
+    }
+  },
+  {
+    "id": "dabdf22e-1149-43da-850b-7e6ae06d1793",
+    "title": "fufankeji/deepseek-harness-studio",
+    "source_url": "https://github.com/fufankeji/deepseek-harness-studio",
+    "source": "unknown",
+    "collected_at": "2026-08-22T08:24:52.300547+00:00",
+    "analyzed_at": "2026-08-22T08:24:52.300547+00:00",
+    "summary": "DeepSeek Harness 零代码桌面端｜一键启动，支持 Windows 与 macOS；内置插件发现、热点插件推送、一键安装与管理、AI 智能推荐和视觉增强。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 448,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  }
+]
