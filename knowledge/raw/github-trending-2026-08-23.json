@@ -1,0 +1,66 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-08-23T08:25:02.549506+00:00",
+  "items": [
+    {
+      "name": "iAmCorey/Wake",
+      "url": "https://github.com/iAmCorey/Wake",
+      "summary": "Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.",
+      "stars": 504,
+      "language": "Rust",
+      "topics": []
+    },
+    {
+      "name": "cclank/lanshu-create-ai-presenter-video",
+      "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
+      "summary": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+      "stars": 377,
+      "language": "Python",
+      "topics": [
+        "ai-video",
+        "codex",
+        "codex-skill",
+        "digital-human",
+        "video-generation"
+      ]
+    },
+    {
+      "name": "Yuzzyuk/marketing-os",
+      "url": "https://github.com/Yuzzyuk/marketing-os",
+      "summary": "An entire marketing department as one Claude skill. 14 modules: audits scored 0-100, an 18-tactic hook engine, copy graded before you see it, ad diagnosis, GEO, email, launches, pricing. Works in Clau",
+      "stars": 284,
+      "language": null,
+      "topics": [
+        "agent-skills",
+        "ai-marketing",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "copywriting",
+        "cro",
+        "cursor",
+        "geo",
+        "marketing",
+        "marketing-skills",
+        "seo"
+      ]
+    },
+    {
+      "name": "LBH-123-AI/Comfyui_Minimax_h3_latent_Upscaler",
+      "url": "https://github.com/LBH-123-AI/Comfyui_Minimax_h3_latent_Upscaler",
+      "summary": "Neural latent upscaler for Minimax H3 (24ch). Bypasses costly 5B-param VAE decode/encode. Upscale low-res latents directly, then refine. Accelerates high-res video gen, outperforms naive interp.",
+      "stars": 281,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "jaredrhod/fullstack-agent",
+      "url": "https://github.com/jaredrhod/fullstack-agent",
+      "summary": "Give your AI a full stack: memory, voice, face, and hands. This is the \"I want an AI agent\" shortcut. It sets up the entire jaredrhod stack for you with an installation wizard. Select which pieces you",
+      "stars": 270,
+      "language": "Shell",
+      "topics": []
+    }
+  ]
+}

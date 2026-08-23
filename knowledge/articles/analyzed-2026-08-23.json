@@ -1,0 +1,422 @@
+[
+  {
+    "id": "b1c79b65-756a-414f-9e7b-ad6aca65152b",
+    "title": "iAmCorey/Wake",
+    "source_url": "https://github.com/iAmCorey/Wake",
+    "source": "unknown",
+    "collected_at": "2026-08-23T08:25:57.023016+00:00",
+    "analyzed_at": "2026-08-23T08:25:57.023016+00:00",
+    "summary": "Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 504,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "be89e717-50f1-4840-be12-0d46696cffee",
+    "title": "cclank/lanshu-create-ai-presenter-video",
+    "source_url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
+    "source": "unknown",
+    "collected_at": "2026-08-23T08:25:58.279045+00:00",
+    "analyzed_at": "2026-08-23T08:25:58.279045+00:00",
+    "summary": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 377,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "9a1576cd-f5db-4740-bc21-f98ef3e6e8a8",
+    "title": "Yuzzyuk/marketing-os",
+    "source_url": "https://github.com/Yuzzyuk/marketing-os",
+    "source": "unknown",
+    "collected_at": "2026-08-23T08:25:59.521086+00:00",
+    "analyzed_at": "2026-08-23T08:25:59.521086+00:00",
+    "summary": "An entire marketing department as one Claude skill. 14 modules: audits scored 0-100, an 18-tactic hook engine, copy graded before you see it, ad diagnosis, GEO, email, launches, pricing. Works in Clau",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 284,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "d2d79a4c-8d4f-4fff-a14f-af46d467e82d",
+    "title": "LBH-123-AI/Comfyui_Minimax_h3_latent_Upscaler",
+    "source_url": "https://github.com/LBH-123-AI/Comfyui_Minimax_h3_latent_Upscaler",
+    "source": "unknown",
+    "collected_at": "2026-08-23T08:26:00.760802+00:00",
+    "analyzed_at": "2026-08-23T08:26:00.760802+00:00",
+    "summary": "Neural latent upscaler for Minimax H3 (24ch). Bypasses costly 5B-param VAE decode/encode. Upscale low-res latents directly, then refine. Accelerates high-res video gen, outperforms naive interp.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 281,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "9de2e31a-9036-4765-a5c7-0dda90242fb4",
+    "title": "jaredrhod/fullstack-agent",
+    "source_url": "https://github.com/jaredrhod/fullstack-agent",
+    "source": "unknown",
+    "collected_at": "2026-08-23T08:26:02.001856+00:00",
+    "analyzed_at": "2026-08-23T08:26:02.001856+00:00",
+    "summary": "Give your AI a full stack: memory, voice, face, and hands. This is the \"I want an AI agent\" shortcut. It sets up the entire jaredrhod stack for you with an installation wizard. Select which pieces you",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 270,
+      "score": null,
+      "author": null,
+      "language": "Shell"
+    }
+  },
+  {
+    "id": "890b8a84-1268-4ba8-8fc5-219d8ba086df",
+    "title": "Orelon – AI Video Generator for Cinematic Creation",
+    "source_url": "https://orelon.ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-23T08:26:03.241821+00:00",
+    "analyzed_at": "2026-08-23T08:26:03.241821+00:00",
+    "summary": "Article URL: https://orelon.ai/\nComments URL: https://news.ycombinator.com/item?id=49406951\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "duanhjlt",
+      "language": null
+    }
+  },
+  {
+    "id": "2b3014ea-5188-4e87-9714-8386255bd532",
+    "title": "Ksumiyo – AI music generation with producer-level controls",
+    "source_url": "https://www.ksumiyo.com",
+    "source": "hacker_news",
+    "collected_at": "2026-08-23T08:26:04.482074+00:00",
+    "analyzed_at": "2026-08-23T08:26:04.482074+00:00",
+    "summary": "Article URL: https://www.ksumiyo.com\nComments URL: https://news.ycombinator.com/item?id=49406896\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "umangbhardwaj",
+      "language": null
+    }
+  },
+  {
+    "id": "bdec8b42-f6a8-4905-988e-958c5d59f010",
+    "title": "The Zen of AI",
+    "source_url": "https://www.dtlarson.com/zen",
+    "source": "hacker_news",
+    "collected_at": "2026-08-23T08:26:05.722978+00:00",
+    "analyzed_at": "2026-08-23T08:26:05.722978+00:00",
+    "summary": "Article URL: https://www.dtlarson.com/zen\nComments URL: https://news.ycombinator.com/item?id=49406881\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "derek-larson",
+      "language": null
+    }
+  },
+  {
+    "id": "07bb8865-060f-4d82-8abb-2ccd92b46d7d",
+    "title": "A Test for AI Consciousness",
+    "source_url": "https://gruhn.me/blog/2026-08-16/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-23T08:26:06.962814+00:00",
+    "analyzed_at": "2026-08-23T08:26:06.962814+00:00",
+    "summary": "Article URL: https://gruhn.me/blog/2026-08-16/\nComments URL: https://news.ycombinator.com/item?id=49406873\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "saikatsg",
+      "language": null
+    }
+  },
+  {
+    "id": "463ca792-87f4-47f3-ab42-7d88ec61e6a2",
+    "title": "Wild AI-related reliability incidents are coming",
+    "source_url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-23T08:26:08.203009+00:00",
+    "analyzed_at": "2026-08-23T08:26:08.203009+00:00",
+    "summary": "Article URL: https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/\nComments URL: https://news.ycombinator.com/item?id=49406458\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "azhenley",
+      "language": null
+    }
+  },
+  {
+    "id": "0edd8d4c-1312-4174-a87e-e462e4e53f08",
+    "title": "Topagent.lol – an AI agent leaderboard ranked purely by who paid most",
+    "source_url": "https://topagent.lol",
+    "source": "hacker_news",
+    "collected_at": "2026-08-23T08:26:09.444670+00:00",
+    "analyzed_at": "2026-08-23T08:26:09.444670+00:00",
+    "summary": "Article URL: https://topagent.lol\nComments URL: https://news.ycombinator.com/item?id=49406376\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ashleyrudland87",
+      "language": null
+    }
+  },
+  {
+    "id": "ef7a9e8c-049f-4b74-8396-f7b7d24fea29",
+    "title": "China Is Building AI Models of American Voters",
+    "source_url": "https://nataliegwinters.substack.com/p/exclusive-china-is-building-ai-models",
+    "source": "hacker_news",
+    "collected_at": "2026-08-23T08:26:10.672437+00:00",
+    "analyzed_at": "2026-08-23T08:26:10.672437+00:00",
+    "summary": "Article URL: https://nataliegwinters.substack.com/p/exclusive-china-is-building-ai-models\nComments URL: https://news.ycombinator.com/item?id=49406296\nPoints: 4\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "like_any_other",
+      "language": null
+    }
+  },
+  {
+    "id": "59eecec5-8e7e-45dc-bb4f-2bf238ebf57b",
+    "title": "A mysterious free AI model is impressing developers. Nobody knows who made it",
+    "source_url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+    "source": "hacker_news",
+    "collected_at": "2026-08-23T08:26:11.901248+00:00",
+    "analyzed_at": "2026-08-23T08:26:11.901248+00:00",
+    "summary": "Article URL: https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8\nComments URL: https://news.ycombinator.com/item?id=49406289\nPoints: 6\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "newsomix9xl",
+      "language": null
+    }
+  },
+  {
+    "id": "b4bac541-77a7-4f62-8699-b643516fb0e6",
+    "title": "Rare-Book Sales Are Booming. They're Getting Sliced Up and Fed to AI",
+    "source_url": "https://www.wsj.com/articles/ais-need-for-content-has-put-rare-book-dealers-in-a-bind-1ac5a053",
+    "source": "hacker_news",
+    "collected_at": "2026-08-23T08:26:13.130238+00:00",
+    "analyzed_at": "2026-08-23T08:26:13.130238+00:00",
+    "summary": "Article URL: https://www.wsj.com/articles/ais-need-for-content-has-put-rare-book-dealers-in-a-bind-1ac5a053\nComments URL: https://news.ycombinator.com/item?id=49406267\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "1vuio0pswjnm7",
+      "language": null
+    }
+  },
+  {
+    "id": "6fe1b005-7bd9-4db9-b486-8dc28c45fd92",
+    "title": "Chinese Orgs Building AI Models of American Voters to Test Political Messages",
+    "source_url": "https://twitter.com/nataliegwinters/status/2090814996687237570",
+    "source": "hacker_news",
+    "collected_at": "2026-08-23T08:26:14.375592+00:00",
+    "analyzed_at": "2026-08-23T08:26:14.375592+00:00",
+    "summary": "Article URL: https://twitter.com/nataliegwinters/status/2090814996687237570\nComments URL: https://news.ycombinator.com/item?id=49406229\nPoints: 5\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "daniel_iversen",
+      "language": null
+    }
+  },
+  {
+    "id": "e70c67f7-31b3-4715-b00a-915005c3cd86",
+    "title": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
+    "source_url": "https://vero.verina.io/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-23T08:26:15.610982+00:00",
+    "analyzed_at": "2026-08-23T08:26:15.610982+00:00",
+    "summary": "Article URL: https://vero.verina.io/\nComments URL: https://news.ycombinator.com/item?id=49406158\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "matt_d",
+      "language": null
+    }
+  },
+  {
+    "id": "372d5bc4-c8d8-4238-bd2a-496a8aafcf21",
+    "title": "The Hidden Pipeline Behind AI Search Visibility",
+    "source_url": "https://medium.com/the-discovery-collective/the-hidden-pipeline-behind-ai-search-visibility-d4e9c22897f8",
+    "source": "hacker_news",
+    "collected_at": "2026-08-23T08:26:16.855301+00:00",
+    "analyzed_at": "2026-08-23T08:26:16.855301+00:00",
+    "summary": "Article URL: https://medium.com/the-discovery-collective/the-hidden-pipeline-behind-ai-search-visibility-d4e9c22897f8\nComments URL: https://news.ycombinator.com/item?id=49406142\nPoints: 2\n# Comments: ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rakeshmenon",
+      "language": null
+    }
+  },
+  {
+    "id": "619f8331-a655-4026-a122-7c98e23437d2",
+    "title": "AI's potential climate benefits outweighed by role in boosting fossil fuels",
+    "source_url": "https://www.theguardian.com/technology/2026/aug/11/ai-will-do-more-to-boost-fossil-fuel-production-than-green-energy",
+    "source": "hacker_news",
+    "collected_at": "2026-08-23T08:26:18.083365+00:00",
+    "analyzed_at": "2026-08-23T08:26:18.083365+00:00",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/11/ai-will-do-more-to-boost-fossil-fuel-production-than-green-energy\nComments URL: https://news.ycombinator.com/item?id=49406136\nPoints: 2\n",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "bryanrasmussen",
+      "language": null
+    }
+  },
+  {
+    "id": "fc413b4d-3683-4257-ac2e-177033d8999a",
+    "title": "Activity Monitor for AI Application on Mac OS X",
+    "source_url": "https://popy.app/apps/corral",
+    "source": "hacker_news",
+    "collected_at": "2026-08-23T08:26:19.337886+00:00",
+    "analyzed_at": "2026-08-23T08:26:19.337886+00:00",
+    "summary": "Article URL: https://popy.app/apps/corral\nComments URL: https://news.ycombinator.com/item?id=49406046\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "kulekci",
+      "language": null
+    }
+  },
+  {
+    "id": "04d6331b-96d5-4ad6-a57f-5665f2cf2f4d",
+    "title": "Palantir's Karp – frontier AI labs that are 'trying to drug addict us'",
+    "source_url": "https://www.cnbc.com/2026/08/03/palantir-karp-open-ai-anthropic-open-weight.html",
+    "source": "hacker_news",
+    "collected_at": "2026-08-23T08:26:20.583271+00:00",
+    "analyzed_at": "2026-08-23T08:26:20.583271+00:00",
+    "summary": "Article URL: https://www.cnbc.com/2026/08/03/palantir-karp-open-ai-anthropic-open-weight.html\nComments URL: https://news.ycombinator.com/item?id=49405966\nPoints: 14\n# Comments: 5",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rishabhd",
+      "language": null
+    }
+  }
+]
