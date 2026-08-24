@@ -1,0 +1,422 @@
+[
+  {
+    "id": "6e7d61f2-dc35-4256-a099-ddce6d909631",
+    "title": "duty1g/x64dbg-mcp-server",
+    "source_url": "https://github.com/duty1g/x64dbg-mcp-server",
+    "source": "unknown",
+    "collected_at": "2026-08-24T08:43:21.996021+00:00",
+    "analyzed_at": "2026-08-24T08:43:21.996021+00:00",
+    "summary": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg progra",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1052,
+      "score": null,
+      "author": null,
+      "language": "Zig"
+    }
+  },
+  {
+    "id": "9e169137-04cc-43c3-b2dd-a48279aee3cc",
+    "title": "ShadowAqueduct/watermark-remover",
+    "source_url": "https://github.com/ShadowAqueduct/watermark-remover",
+    "source": "unknown",
+    "collected_at": "2026-08-24T08:43:23.239146+00:00",
+    "analyzed_at": "2026-08-24T08:43:23.239146+00:00",
+    "summary": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 761,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "77e0af04-b7e0-48b4-992a-912b4a148a2a",
+    "title": "nateherkai/scroll-craft",
+    "source_url": "https://github.com/nateherkai/scroll-craft",
+    "source": "unknown",
+    "collected_at": "2026-08-24T08:43:24.494181+00:00",
+    "analyzed_at": "2026-08-24T08:43:24.494181+00:00",
+    "summary": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 542,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "254de138-2be3-46f1-b2a8-a7d1e8e53627",
+    "title": "Forsy-AI/biosecurity-agent",
+    "source_url": "https://github.com/Forsy-AI/biosecurity-agent",
+    "source": "unknown",
+    "collected_at": "2026-08-24T08:43:25.743929+00:00",
+    "analyzed_at": "2026-08-24T08:43:25.743929+00:00",
+    "summary": "AI agent that builds a live biosecurity world around any target.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 511,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "17565b23-1034-4343-8ffe-46a841fb65bb",
+    "title": "mrhlaingbwardev/Telegram-Secure-Storage-Bot",
+    "source_url": "https://github.com/mrhlaingbwardev/Telegram-Secure-Storage-Bot",
+    "source": "unknown",
+    "collected_at": "2026-08-24T08:43:26.993705+00:00",
+    "analyzed_at": "2026-08-24T08:43:26.993705+00:00",
+    "summary": "A secure, privacy-focused Telegram cloud storage bot using Cloudflare Workers and D1 Database. Features PIN protection, Burn-after-read, and Anti-leak.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 344,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "f66482ee-a981-490e-a34e-c227f91ccf5e",
+    "title": "LB623/no-negative-echo",
+    "source_url": "https://github.com/LB623/no-negative-echo",
+    "source": "unknown",
+    "collected_at": "2026-08-24T08:43:28.242361+00:00",
+    "analyzed_at": "2026-08-24T08:43:28.242361+00:00",
+    "summary": "让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 315,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "72d870b6-bb1f-4c5e-bb79-3b7e4600ad2d",
+    "title": "Flock camera backlash adds fuel to midterm anti-AI frenzy",
+    "source_url": "https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech",
+    "source": "hacker_news",
+    "collected_at": "2026-08-24T08:43:29.493920+00:00",
+    "analyzed_at": "2026-08-24T08:43:29.493920+00:00",
+    "summary": "Article URL: https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech\nComments URL: https://news.ycombinator.com/item?id=49409392\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "newsomix9xl",
+      "language": null
+    }
+  },
+  {
+    "id": "9c9df745-d089-4a9f-8167-101ad51ac52a",
+    "title": "Oneiric, AI-generated, open source [video]",
+    "source_url": "https://www.youtube.com/watch?v=aAg9iDh9_BQ",
+    "source": "hacker_news",
+    "collected_at": "2026-08-24T08:43:30.743256+00:00",
+    "analyzed_at": "2026-08-24T08:43:30.743256+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=aAg9iDh9_BQ\nComments URL: https://news.ycombinator.com/item?id=49409332\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "wiradikusuma",
+      "language": null
+    }
+  },
+  {
+    "id": "decf3414-8cab-4e9c-95d0-e070025a7c18",
+    "title": "Woe Is Em: The Sad Lifecycle of an AI Tell",
+    "source_url": "https://stevekrause.org/blog/2026/08/woe-is-em-the-sad-lifecycle-of-an-ai-tell/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-24T08:43:31.991141+00:00",
+    "analyzed_at": "2026-08-24T08:43:31.991141+00:00",
+    "summary": "Article URL: https://stevekrause.org/blog/2026/08/woe-is-em-the-sad-lifecycle-of-an-ai-tell/\nComments URL: https://news.ycombinator.com/item?id=49409320\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "quadtree",
+      "language": null
+    }
+  },
+  {
+    "id": "3101980e-f1e8-4a47-87cf-aa3f5bb8a7c7",
+    "title": "Show HN: Writing-eval, local deterministic style checks for AI-written drafts",
+    "source_url": "https://github.com/majesticlabs-dev/writing-eval",
+    "source": "hacker_news",
+    "collected_at": "2026-08-24T08:43:33.236459+00:00",
+    "analyzed_at": "2026-08-24T08:43:33.236459+00:00",
+    "summary": "Article URL: https://github.com/majesticlabs-dev/writing-eval\nComments URL: https://news.ycombinator.com/item?id=49409152\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "dpaluy",
+      "language": null
+    }
+  },
+  {
+    "id": "4e296c77-5f68-425b-b877-3639bd8b079c",
+    "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+    "source_url": "https://ericpardee.github.io/fire-hd-ownership/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-24T08:43:34.482325+00:00",
+    "analyzed_at": "2026-08-24T08:43:34.482325+00:00",
+    "summary": "Article URL: https://ericpardee.github.io/fire-hd-ownership/\nComments URL: https://news.ycombinator.com/item?id=49409073\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "dr_pardee",
+      "language": null
+    }
+  },
+  {
+    "id": "f2a64e3a-cd79-46a2-ad01-af758b9e0882",
+    "title": "OpenAI leader warns of threat of 'persistent' AI cyber-attacks",
+    "source_url": "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane",
+    "source": "hacker_news",
+    "collected_at": "2026-08-24T08:43:35.726992+00:00",
+    "analyzed_at": "2026-08-24T08:43:35.726992+00:00",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane\nComments URL: https://news.ycombinator.com/item?id=49409030\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "geox",
+      "language": null
+    }
+  },
+  {
+    "id": "855219ce-ae83-456d-be6d-ae769f81546e",
+    "title": "Show HN: Froging AI – image and video models in one workflow",
+    "source_url": "https://www.froging.ai",
+    "source": "hacker_news",
+    "collected_at": "2026-08-24T08:43:36.984184+00:00",
+    "analyzed_at": "2026-08-24T08:43:36.984184+00:00",
+    "summary": "Article URL: https://www.froging.ai\nComments URL: https://news.ycombinator.com/item?id=49408724\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "hashkitly",
+      "language": null
+    }
+  },
+  {
+    "id": "9199ec41-c67c-474d-afae-14777ed909ac",
+    "title": "Ask HN: Will AI trigger mass IP protectionism in software?",
+    "source_url": "https://news.ycombinator.com/item?id=49408691",
+    "source": "hacker_news",
+    "collected_at": "2026-08-24T08:43:38.249520+00:00",
+    "analyzed_at": "2026-08-24T08:43:38.249520+00:00",
+    "summary": "One of the reasons AI is so \"good\" at software development is that it is trained on a snapshot of a large corpus of already solved software problems.In the future, wouldn't that make anyone who produc",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "zaksa",
+      "language": null
+    }
+  },
+  {
+    "id": "b0c54975-c97f-4f76-9b8d-62c0225e4c22",
+    "title": "Product Owner Interview Questions for the Age of AI",
+    "source_url": "https://age-of-product.com/product-owner-interview-questions/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-24T08:43:39.499048+00:00",
+    "analyzed_at": "2026-08-24T08:43:39.499048+00:00",
+    "summary": "Article URL: https://age-of-product.com/product-owner-interview-questions/\nComments URL: https://news.ycombinator.com/item?id=49408316\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "swolpers",
+      "language": null
+    }
+  },
+  {
+    "id": "99f0476f-c2fd-4992-b2b0-56baa8e5b396",
+    "title": "Prism Reviewer – Multi-agent AI code reviewer built with LangGraph and LiteLLM",
+    "source_url": "https://github.com/marketplace/actions/prism-reviewer-ai",
+    "source": "hacker_news",
+    "collected_at": "2026-08-24T08:43:40.766602+00:00",
+    "analyzed_at": "2026-08-24T08:43:40.766602+00:00",
+    "summary": "Article URL: https://github.com/marketplace/actions/prism-reviewer-ai\nComments URL: https://news.ycombinator.com/item?id=49408247\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "aravinthan-n",
+      "language": null
+    }
+  },
+  {
+    "id": "a092caff-551e-459b-8a61-f5aa1dd0d99a",
+    "title": "Show HN: Declarative, reproducible configuration materializer for AI agents",
+    "source_url": "https://github.com/tooppoo/enozunu",
+    "source": "hacker_news",
+    "collected_at": "2026-08-24T08:43:42.030257+00:00",
+    "analyzed_at": "2026-08-24T08:43:42.030257+00:00",
+    "summary": "Article URL: https://github.com/tooppoo/enozunu\nComments URL: https://news.ycombinator.com/item?id=49408038\nPoints: 5\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "philomagi",
+      "language": null
+    }
+  },
+  {
+    "id": "245e9098-e180-47a8-b913-e82d27b6f3c4",
+    "title": "What do you think of AI website builders?",
+    "source_url": "https://blog.webround.com/en/i-built-an-ai-website-builder-and-killed-it",
+    "source": "hacker_news",
+    "collected_at": "2026-08-24T08:43:43.283458+00:00",
+    "analyzed_at": "2026-08-24T08:43:43.283458+00:00",
+    "summary": "Article URL: https://blog.webround.com/en/i-built-an-ai-website-builder-and-killed-it\nComments URL: https://news.ycombinator.com/item?id=49408013\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "LucaSiviero",
+      "language": null
+    }
+  },
+  {
+    "id": "e6e4f442-71e1-4ab1-bf1d-b47664b40e9b",
+    "title": "AI Labels Are Big Tech's Most Basic Responsibility, Even Those Claude Watermarks",
+    "source_url": "https://www.cnet.com/tech/services-and-software/claude-watermarks-ai-labels-commentary-2026/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-24T08:43:44.536484+00:00",
+    "analyzed_at": "2026-08-24T08:43:44.536484+00:00",
+    "summary": "Article URL: https://www.cnet.com/tech/services-and-software/claude-watermarks-ai-labels-commentary-2026/\nComments URL: https://news.ycombinator.com/item?id=49408011\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "MS8080",
+      "language": null
+    }
+  },
+  {
+    "id": "a51da05c-2999-4c2a-b9da-9d8b967ce1b8",
+    "title": "Andrew Ng: \"AI Engineering Skills Map: Building and Deploying AI Applications\"",
+    "source_url": "https://twitter.com/AndrewYNg/status/2090840747738374568",
+    "source": "hacker_news",
+    "collected_at": "2026-08-24T08:43:45.787361+00:00",
+    "analyzed_at": "2026-08-24T08:43:45.787361+00:00",
+    "summary": "Article URL: https://twitter.com/AndrewYNg/status/2090840747738374568\nComments URL: https://news.ycombinator.com/item?id=49407944\nPoints: 15\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Anon84",
+      "language": null
+    }
+  }
+]

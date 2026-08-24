@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-08-24T08:43:20.278143+00:00",
+  "items": [
+    {
+      "name": "Flock camera backlash adds fuel to midterm anti-AI frenzy",
+      "url": "https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech",
+      "summary": "Article URL: https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech\nComments URL: https://news.ycombinator.com/item?id=49409392\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "newsomix9xl",
+      "published": "Sun, 23 Aug 2026 15:03:17 +0000"
+    },
+    {
+      "name": "Oneiric, AI-generated, open source [video]",
+      "url": "https://www.youtube.com/watch?v=aAg9iDh9_BQ",
+      "summary": "Article URL: https://www.youtube.com/watch?v=aAg9iDh9_BQ\nComments URL: https://news.ycombinator.com/item?id=49409332\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "wiradikusuma",
+      "published": "Sun, 23 Aug 2026 14:55:14 +0000"
+    },
+    {
+      "name": "Woe Is Em: The Sad Lifecycle of an AI Tell",
+      "url": "https://stevekrause.org/blog/2026/08/woe-is-em-the-sad-lifecycle-of-an-ai-tell/",
+      "summary": "Article URL: https://stevekrause.org/blog/2026/08/woe-is-em-the-sad-lifecycle-of-an-ai-tell/\nComments URL: https://news.ycombinator.com/item?id=49409320\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "quadtree",
+      "published": "Sun, 23 Aug 2026 14:53:36 +0000"
+    },
+    {
+      "name": "Show HN: Writing-eval, local deterministic style checks for AI-written drafts",
+      "url": "https://github.com/majesticlabs-dev/writing-eval",
+      "summary": "Article URL: https://github.com/majesticlabs-dev/writing-eval\nComments URL: https://news.ycombinator.com/item?id=49409152\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "dpaluy",
+      "published": "Sun, 23 Aug 2026 14:31:16 +0000"
+    },
+    {
+      "name": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+      "url": "https://ericpardee.github.io/fire-hd-ownership/",
+      "summary": "Article URL: https://ericpardee.github.io/fire-hd-ownership/\nComments URL: https://news.ycombinator.com/item?id=49409073\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "dr_pardee",
+      "published": "Sun, 23 Aug 2026 14:23:09 +0000"
+    },
+    {
+      "name": "OpenAI leader warns of threat of 'persistent' AI cyber-attacks",
+      "url": "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane\nComments URL: https://news.ycombinator.com/item?id=49409030\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "geox",
+      "published": "Sun, 23 Aug 2026 14:16:47 +0000"
+    },
+    {
+      "name": "Show HN: Froging AI – image and video models in one workflow",
+      "url": "https://www.froging.ai",
+      "summary": "Article URL: https://www.froging.ai\nComments URL: https://news.ycombinator.com/item?id=49408724\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "hashkitly",
+      "published": "Sun, 23 Aug 2026 13:30:37 +0000"
+    },
+    {
+      "name": "Ask HN: Will AI trigger mass IP protectionism in software?",
+      "url": "https://news.ycombinator.com/item?id=49408691",
+      "summary": "One of the reasons AI is so \"good\" at software development is that it is trained on a snapshot of a large corpus of already solved software problems.In the future, wouldn't that make anyone who produc",
+      "source": "hacker_news",
+      "score": null,
+      "author": "zaksa",
+      "published": "Sun, 23 Aug 2026 13:24:59 +0000"
+    },
+    {
+      "name": "Product Owner Interview Questions for the Age of AI",
+      "url": "https://age-of-product.com/product-owner-interview-questions/",
+      "summary": "Article URL: https://age-of-product.com/product-owner-interview-questions/\nComments URL: https://news.ycombinator.com/item?id=49408316\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "swolpers",
+      "published": "Sun, 23 Aug 2026 12:31:15 +0000"
+    },
+    {
+      "name": "Prism Reviewer – Multi-agent AI code reviewer built with LangGraph and LiteLLM",
+      "url": "https://github.com/marketplace/actions/prism-reviewer-ai",
+      "summary": "Article URL: https://github.com/marketplace/actions/prism-reviewer-ai\nComments URL: https://news.ycombinator.com/item?id=49408247\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "aravinthan-n",
+      "published": "Sun, 23 Aug 2026 12:22:24 +0000"
+    },
+    {
+      "name": "Show HN: Declarative, reproducible configuration materializer for AI agents",
+      "url": "https://github.com/tooppoo/enozunu",
+      "summary": "Article URL: https://github.com/tooppoo/enozunu\nComments URL: https://news.ycombinator.com/item?id=49408038\nPoints: 5\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "philomagi",
+      "published": "Sun, 23 Aug 2026 11:48:23 +0000"
+    },
+    {
+      "name": "What do you think of AI website builders?",
+      "url": "https://blog.webround.com/en/i-built-an-ai-website-builder-and-killed-it",
+      "summary": "Article URL: https://blog.webround.com/en/i-built-an-ai-website-builder-and-killed-it\nComments URL: https://news.ycombinator.com/item?id=49408013\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "LucaSiviero",
+      "published": "Sun, 23 Aug 2026 11:44:01 +0000"
+    },
+    {
+      "name": "AI Labels Are Big Tech's Most Basic Responsibility, Even Those Claude Watermarks",
+      "url": "https://www.cnet.com/tech/services-and-software/claude-watermarks-ai-labels-commentary-2026/",
+      "summary": "Article URL: https://www.cnet.com/tech/services-and-software/claude-watermarks-ai-labels-commentary-2026/\nComments URL: https://news.ycombinator.com/item?id=49408011\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "MS8080",
+      "published": "Sun, 23 Aug 2026 11:42:54 +0000"
+    },
+    {
+      "name": "Andrew Ng: \"AI Engineering Skills Map: Building and Deploying AI Applications\"",
+      "url": "https://twitter.com/AndrewYNg/status/2090840747738374568",
+      "summary": "Article URL: https://twitter.com/AndrewYNg/status/2090840747738374568\nComments URL: https://news.ycombinator.com/item?id=49407944\nPoints: 15\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Anon84",
+      "published": "Sun, 23 Aug 2026 11:28:08 +0000"
+    },
+    {
+      "name": "Why Einstein would fail today: The case for an automated AI Science Institute",
+      "url": "https://zenodo.org/records/22067050",
+      "summary": "Article URL: https://zenodo.org/records/22067050\nComments URL: https://news.ycombinator.com/item?id=49407926\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Anastasov_Theor",
+      "published": "Sun, 23 Aug 2026 11:24:42 +0000"
+    },
+    {
+      "name": "Publish to 15 social media channels using AI agents, free",
+      "url": "https://www.bulkpublish.com/",
+      "summary": "Article URL: https://www.bulkpublish.com/\nComments URL: https://news.ycombinator.com/item?id=49407919\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "azeemkafridi",
+      "published": "Sun, 23 Aug 2026 11:24:17 +0000"
+    },
+    {
+      "name": "Agentic AI in a Smolbox",
+      "url": "https://remyhax.xyz/posts/smolbox/",
+      "summary": "Article URL: https://remyhax.xyz/posts/smolbox/\nComments URL: https://news.ycombinator.com/item?id=49407905\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "882542F3884314B",
+      "published": "Sun, 23 Aug 2026 11:20:53 +0000"
+    },
+    {
+      "name": "Evidence over Anecdotes: Running A/B Tests on AI Agent Tooling",
+      "url": "https://www.pagerduty.com/eng/evidence-over-anecdotes-running-a-b-tests-on-ai-agent-tooling/",
+      "summary": "Article URL: https://www.pagerduty.com/eng/evidence-over-anecdotes-running-a-b-tests-on-ai-agent-tooling/\nComments URL: https://news.ycombinator.com/item?id=49407872\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mooreds",
+      "published": "Sun, 23 Aug 2026 11:14:58 +0000"
+    },
+    {
+      "name": "The search for consciousness inside AI",
+      "url": "https://www.economist.com/interactive/briefing/2026/08/20/the-search-for-consciousness-inside-llms",
+      "summary": "Article URL: https://www.economist.com/interactive/briefing/2026/08/20/the-search-for-consciousness-inside-llms\nComments URL: https://news.ycombinator.com/item?id=49407858\nPoints: 2\n# Comments: 3",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pingou",
+      "published": "Sun, 23 Aug 2026 11:07:51 +0000"
+    },
+    {
+      "name": "'AI refuser' quit her dream job, and hopes others follow",
+      "url": "https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html",
+      "summary": "Article URL: https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html\nComments URL: https://news.ycombinator.com/item?id=49407785\nPoints: 34\n# ",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mcapodici",
+      "published": "Sun, 23 Aug 2026 10:54:35 +0000"
+    }
+  ]
+}

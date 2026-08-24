@@ -1,0 +1,107 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-08-24T08:43:18.501740+00:00",
+  "items": [
+    {
+      "name": "duty1g/x64dbg-mcp-server",
+      "url": "https://github.com/duty1g/x64dbg-mcp-server",
+      "summary": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg progra",
+      "stars": 1052,
+      "language": "Zig",
+      "topics": [
+        "ai-agents",
+        "ai-debugging",
+        "binary-analysis",
+        "claude",
+        "claude-code",
+        "malware-analysis",
+        "malware-research",
+        "malware-scanner",
+        "mcp",
+        "mcp-server",
+        "mcp-servers",
+        "x64dbg",
+        "x64dbg-mcp",
+        "x64dbg-plugin",
+        "x64dbg-tools",
+        "xdbg",
+        "zig",
+        "zig-lang",
+        "ziglang"
+      ]
+    },
+    {
+      "name": "ShadowAqueduct/watermark-remover",
+      "url": "https://github.com/ShadowAqueduct/watermark-remover",
+      "summary": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "stars": 761,
+      "language": "Python",
+      "topics": [
+        "claude-ai",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skills",
+        "codex",
+        "codex-cli",
+        "codex-skill",
+        "codex-skills",
+        "watermark"
+      ]
+    },
+    {
+      "name": "nateherkai/scroll-craft",
+      "url": "https://github.com/nateherkai/scroll-craft",
+      "summary": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
+      "stars": 542,
+      "language": "JavaScript",
+      "topics": [
+        "accessibility",
+        "agent-skills",
+        "ai-web-design",
+        "anthropic",
+        "claude-code",
+        "claude-code-plugin",
+        "creative-coding",
+        "design-system",
+        "frontend",
+        "interaction-design",
+        "landing-page",
+        "scroll-animation",
+        "scrollytelling",
+        "typography",
+        "web-design"
+      ]
+    },
+    {
+      "name": "Forsy-AI/biosecurity-agent",
+      "url": "https://github.com/Forsy-AI/biosecurity-agent",
+      "summary": "AI agent that builds a live biosecurity world around any target.",
+      "stars": 511,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "mrhlaingbwardev/Telegram-Secure-Storage-Bot",
+      "url": "https://github.com/mrhlaingbwardev/Telegram-Secure-Storage-Bot",
+      "summary": "A secure, privacy-focused Telegram cloud storage bot using Cloudflare Workers and D1 Database. Features PIN protection, Burn-after-read, and Anti-leak.",
+      "stars": 344,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "name": "LB623/no-negative-echo",
+      "url": "https://github.com/LB623/no-negative-echo",
+      "summary": "让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。",
+      "stars": 315,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "chinese",
+        "codex",
+        "codex-skill",
+        "prompt-engineering"
+      ]
+    }
+  ]
+}
