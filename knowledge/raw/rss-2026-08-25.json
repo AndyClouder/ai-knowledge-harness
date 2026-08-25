@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-08-25T08:38:23.491631+00:00",
+  "items": [
+    {
+      "name": "Has AI Gone Rogue?",
+      "url": "https://calnewport.com/has-ai-gone-rogue/",
+      "summary": "Article URL: https://calnewport.com/has-ai-gone-rogue/\nComments URL: https://news.ycombinator.com/item?id=49430645\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "thedebuglife",
+      "published": "Tue, 25 Aug 2026 08:29:51 +0000"
+    },
+    {
+      "name": "Games as the Engine of AI Research",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "summary": "Article URL: https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/\nComments URL: https://news.ycombinator.com/item?id=49430567\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "brandonb",
+      "published": "Tue, 25 Aug 2026 08:16:04 +0000"
+    },
+    {
+      "name": "Dutch lawyer fined €2,300 for using AI-hallucinated citation",
+      "url": "https://nltimes.nl/2026/08/24/dutch-lawyer-fined-eu2300-using-ai-hallucinated-citation",
+      "summary": "Article URL: https://nltimes.nl/2026/08/24/dutch-lawyer-fined-eu2300-using-ai-hallucinated-citation\nComments URL: https://news.ycombinator.com/item?id=49430427\nPoints: 2\n# Comments: 5",
+      "source": "hacker_news",
+      "score": null,
+      "author": "tcp_handshaker",
+      "published": "Tue, 25 Aug 2026 07:55:38 +0000"
+    },
+    {
+      "name": "Show HN: I built an AI music generator with some harnesses",
+      "url": "https://onlymusic.ai",
+      "summary": "I’m a developer, and also a music producer. When I work on commercial music, especially songs for ads, I’ve gotten pretty used to using AI music tools as part of the creative process.But I noticed tha",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ShawWang",
+      "published": "Tue, 25 Aug 2026 07:55:24 +0000"
+    },
+    {
+      "name": "What \"Traceable Lineage\" Requires: A Teardown of the FBI TSC AI Sources Sought",
+      "url": "https://zatona.dev/blog/fbi-tsc-traceable-lineage",
+      "summary": "Article URL: https://zatona.dev/blog/fbi-tsc-traceable-lineage\nComments URL: https://news.ycombinator.com/item?id=49430296\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "dzatona",
+      "published": "Tue, 25 Aug 2026 07:37:25 +0000"
+    },
+    {
+      "name": "Do You Still Need to Read AI Code?",
+      "url": "https://adamtornhill.substack.com/p/controlling-the-uncertainty-machine",
+      "summary": "Article URL: https://adamtornhill.substack.com/p/controlling-the-uncertainty-machine\nComments URL: https://news.ycombinator.com/item?id=49430247\nPoints: 3\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "abrbhat",
+      "published": "Tue, 25 Aug 2026 07:30:31 +0000"
+    },
+    {
+      "name": "Free-AI-Tools-Hub.com Launch",
+      "url": "https://news.ycombinator.com/item?id=49430180",
+      "summary": "We have launch our new Free AI Tools website for common people to deal with their routine tasks and job things. From AI Chat to Ai Email writing and AI Songs lyrics, find 42+ tools on 1 website.\n\nComm",
+      "source": "hacker_news",
+      "score": null,
+      "author": "horitechsolutio",
+      "published": "Tue, 25 Aug 2026 07:20:46 +0000"
+    },
+    {
+      "name": "The Download: kids outlearning AI, and space travel agents",
+      "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+      "summary": "Article URL: https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/\nComments URL: https://news.ycombinator.com/item?id=49430133\nPoints: 1\n# Comments:",
+      "source": "hacker_news",
+      "score": null,
+      "author": "joozio",
+      "published": "Tue, 25 Aug 2026 07:13:09 +0000"
+    },
+    {
+      "name": "I found an SSRF in Google's official AI tooling, and how Google reacted",
+      "url": "https://news.ycombinator.com/item?id=49429926",
+      "summary": "Earlier this year I found a server-side request forgery bug in Google's MCP Toolbox, the official server Google publishes for connecting language-model agents to databases and HTTP APIs. I reported it",
+      "source": "hacker_news",
+      "score": null,
+      "author": "AnasSyed28",
+      "published": "Tue, 25 Aug 2026 06:46:17 +0000"
+    },
+    {
+      "name": "All AI Data Centers Under Construction Could Emit as Much CO₂ as 24M Cars",
+      "url": "https://www.gadgetreview.com/all-ai-data-centers-under-construction-could-emit-as-much-co%e2%82%82-as-24-million-cars",
+      "summary": "Article URL: https://www.gadgetreview.com/all-ai-data-centers-under-construction-could-emit-as-much-co%e2%82%82-as-24-million-cars\nComments URL: https://news.ycombinator.com/item?id=49429903\nPoints: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "01-_-",
+      "published": "Tue, 25 Aug 2026 06:43:03 +0000"
+    },
+    {
+      "name": "New technology lets cloud AI models process your data without privacy leaks",
+      "url": "https://plugos.net/blog/2026/08/confidential-ai-how-plugclaw-keeps-your-ai-work-private/",
+      "summary": "Article URL: https://plugos.net/blog/2026/08/confidential-ai-how-plugclaw-keeps-your-ai-work-private/\nComments URL: https://news.ycombinator.com/item?id=49429691\nPoints: 5\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ElowenWinslet",
+      "published": "Tue, 25 Aug 2026 06:11:42 +0000"
+    },
+    {
+      "name": "'Don't ask me to print your ChatGPT birthday card': Hitting back at AI 'slop'",
+      "url": "https://www.bbc.co.uk/news/articles/cq89jpjeq7ko",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cq89jpjeq7ko\nComments URL: https://news.ycombinator.com/item?id=49429688\nPoints: 5\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "erehweb",
+      "published": "Tue, 25 Aug 2026 06:11:28 +0000"
+    },
+    {
+      "name": "Show HN: CookWing, an AI chef that doesn't hallucinate quantities",
+      "url": "https://play.google.com/store/apps/details?id=com.redwing.vibecooking&hl=en_US",
+      "summary": "Hey HN!I just released Cookwing. This is an AI app that solves the biggest problem I had when I was cooking with ChatGPT : The quantities are often hallucinated.I was curious, so I even built my own c",
+      "source": "hacker_news",
+      "score": null,
+      "author": "BananeDeRungis",
+      "published": "Tue, 25 Aug 2026 05:53:45 +0000"
+    },
+    {
+      "name": "LLMPanel Deploy vLLM to RunPod or Vast.ai Without Kubernetes",
+      "url": "https://llmpanel.io",
+      "summary": "Article URL: https://llmpanel.io\nComments URL: https://news.ycombinator.com/item?id=49429521\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "SquidJack",
+      "published": "Tue, 25 Aug 2026 05:40:47 +0000"
+    },
+    {
+      "name": "Surge in AI-assisted complaints putting extra strain on councils and schools",
+      "url": "https://www.bbc.co.uk/news/articles/c2dk6wzjw23o",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/c2dk6wzjw23o\nComments URL: https://news.ycombinator.com/item?id=49429464\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "tomwphillips",
+      "published": "Tue, 25 Aug 2026 05:31:24 +0000"
+    },
+    {
+      "name": "I made HACKER AI for you vibecoded app",
+      "url": "https://www.netherite.uz",
+      "summary": "Article URL: https://www.netherite.uz\nComments URL: https://news.ycombinator.com/item?id=49429426\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "apexxx",
+      "published": "Tue, 25 Aug 2026 05:27:04 +0000"
+    },
+    {
+      "name": "Show HN: When AI Decides What Matters",
+      "url": "https://jasondoyle.ie/whitepapers/when-ai-decides-what-matters/",
+      "summary": "Article URL: https://jasondoyle.ie/whitepapers/when-ai-decides-what-matters/\nComments URL: https://news.ycombinator.com/item?id=49429255\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "thepsychguy",
+      "published": "Tue, 25 Aug 2026 04:56:55 +0000"
+    },
+    {
+      "name": "The AI Verification Bottleneck: Why Writing Code Is No Longer the Hard Part",
+      "url": "https://pragmaticbydefault.com/posts/ai-verification-bottleneck/",
+      "summary": "Article URL: https://pragmaticbydefault.com/posts/ai-verification-bottleneck/\nComments URL: https://news.ycombinator.com/item?id=49429130\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mruklukasz",
+      "published": "Tue, 25 Aug 2026 04:38:01 +0000"
+    },
+    {
+      "name": "Darkbloom (decentralized AI inference on Macs)-community security audit findings",
+      "url": "https://github.com/Layr-Labs/d-inference/issues/705",
+      "summary": "Article URL: https://github.com/Layr-Labs/d-inference/issues/705\nComments URL: https://news.ycombinator.com/item?id=49429118\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mudiam",
+      "published": "Tue, 25 Aug 2026 04:35:49 +0000"
+    },
+    {
+      "name": "Cloudflare OS: Open-Source Corp AI Platform Built on a Capability-Based Model",
+      "url": "https://www.infoq.com/news/2026/08/cloudflare-os-ai-platform-secure/",
+      "summary": "Article URL: https://www.infoq.com/news/2026/08/cloudflare-os-ai-platform-secure/\nComments URL: https://news.ycombinator.com/item?id=49429032\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "binarray2000",
+      "published": "Tue, 25 Aug 2026 04:22:30 +0000"
+    }
+  ]
+}
