@@ -1,0 +1,128 @@
+[
+  {
+    "id": "c4b2f16b-f5d0-4c9c-88be-9446a344582d",
+    "title": "kunchenguid/backpass",
+    "source_url": "https://github.com/kunchenguid/backpass",
+    "source": "unknown",
+    "collected_at": "2026-08-26T08:38:53.714916+00:00",
+    "analyzed_at": "2026-08-26T08:38:53.714916+00:00",
+    "summary": "You don't write AGENTS.md. You train it with gradient descent.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 374,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "83026ddd-dc05-4adf-8911-271ced2c0fc0",
+    "title": "GamePhanes/GamePhanes",
+    "source_url": "https://github.com/GamePhanes/GamePhanes",
+    "source": "unknown",
+    "collected_at": "2026-08-26T08:38:54.937051+00:00",
+    "analyzed_at": "2026-08-26T08:38:54.937051+00:00",
+    "summary": "An open-source game coding agent environment and benchmark for Godot.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 339,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "cbae2552-77e7-458a-8341-bccd728be6fd",
+    "title": "amosblomqvist/learn",
+    "source_url": "https://github.com/amosblomqvist/learn",
+    "source": "unknown",
+    "collected_at": "2026-08-26T08:38:56.390634+00:00",
+    "analyzed_at": "2026-08-26T08:38:56.390634+00:00",
+    "summary": "My AI learning system.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 315,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "605c2006-a4cc-4440-bd31-1ac89b05aff8",
+    "title": "ChenShuo2004/cs-board",
+    "source_url": "https://github.com/ChenShuo2004/cs-board",
+    "source": "unknown",
+    "collected_at": "2026-08-26T08:38:57.613583+00:00",
+    "analyzed_at": "2026-08-26T08:38:57.613583+00:00",
+    "summary": "将参考声音和中文文案自动生成白板动画视频的本地 AI 工具。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 314,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "15b31a32-280f-4dc6-a507-d776f739217b",
+    "title": "User0332/rewards-farmer",
+    "source_url": "https://github.com/User0332/rewards-farmer",
+    "source": "unknown",
+    "collected_at": "2026-08-26T08:38:58.853104+00:00",
+    "analyzed_at": "2026-08-26T08:38:58.853104+00:00",
+    "summary": "Automation for MS Rewards based on https://youtu.be/4qdPcMNaioA",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 309,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "4c4e1c52-626d-4961-a302-f4b9a7b9582c",
+    "title": "halofyai/halofy",
+    "source_url": "https://github.com/halofyai/halofy",
+    "source": "unknown",
+    "collected_at": "2026-08-26T08:39:00.093119+00:00",
+    "analyzed_at": "2026-08-26T08:39:00.093119+00:00",
+    "summary": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 277,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  }
+]

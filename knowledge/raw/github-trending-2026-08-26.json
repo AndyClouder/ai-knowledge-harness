@@ -1,0 +1,84 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-08-26T08:38:43.577291+00:00",
+  "items": [
+    {
+      "name": "kunchenguid/backpass",
+      "url": "https://github.com/kunchenguid/backpass",
+      "summary": "You don't write AGENTS.md. You train it with gradient descent.",
+      "stars": 374,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "name": "GamePhanes/GamePhanes",
+      "url": "https://github.com/GamePhanes/GamePhanes",
+      "summary": "An open-source game coding agent environment and benchmark for Godot.",
+      "stars": 339,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "name": "amosblomqvist/learn",
+      "url": "https://github.com/amosblomqvist/learn",
+      "summary": "My AI learning system.",
+      "stars": 315,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "ChenShuo2004/cs-board",
+      "url": "https://github.com/ChenShuo2004/cs-board",
+      "summary": "将参考声音和中文文案自动生成白板动画视频的本地 AI 工具。",
+      "stars": 314,
+      "language": "Python",
+      "topics": [
+        "ai-video",
+        "chinese",
+        "fastapi",
+        "index-tts",
+        "react",
+        "tts",
+        "whiteboard-animation"
+      ]
+    },
+    {
+      "name": "User0332/rewards-farmer",
+      "url": "https://github.com/User0332/rewards-farmer",
+      "summary": "Automation for MS Rewards based on https://youtu.be/4qdPcMNaioA",
+      "stars": 309,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "halofyai/halofy",
+      "url": "https://github.com/halofyai/halofy",
+      "summary": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.",
+      "stars": 277,
+      "language": "TypeScript",
+      "topics": [
+        "access-control",
+        "agent-governance",
+        "agent-memory",
+        "agent-visibility",
+        "ai-agents",
+        "audit-log",
+        "context-engineering",
+        "data-governance",
+        "data-provenance",
+        "identity-management",
+        "knowledge-management",
+        "model-context-protocol",
+        "multi-agent-systems",
+        "multi-tenant",
+        "open-source",
+        "organizational-context",
+        "pgvector",
+        "rbac",
+        "scoped-access",
+        "tenant-isolation"
+      ]
+    }
+  ]
+}
