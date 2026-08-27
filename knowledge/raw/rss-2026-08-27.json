@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-08-27T18:48:44.700521+00:00",
+  "items": [
+    {
+      "name": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
+      "url": "https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc",
+      "summary": "Article URL: https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc\nComments URL: https://news.ycombinator.com/item?id=49469249\nPoints: 2\n# Co",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rarisma",
+      "published": "Thu, 27 Aug 2026 18:34:40 +0000"
+    },
+    {
+      "name": "The AI 'Ghosts' Contaminating Academic Publishing",
+      "url": "https://www.404media.co/the-ai-ghosts-contaminating-academic-publishing/",
+      "summary": "Article URL: https://www.404media.co/the-ai-ghosts-contaminating-academic-publishing/\nComments URL: https://news.ycombinator.com/item?id=49469121\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "saikatsg",
+      "published": "Thu, 27 Aug 2026 18:24:59 +0000"
+    },
+    {
+      "name": "AI's hacking capabilities are severely underestimated",
+      "url": "https://www.ft.com/content/3f154376-fd8b-4255-ac5b-538c5e90fc40",
+      "summary": "Article URL: https://www.ft.com/content/3f154376-fd8b-4255-ac5b-538c5e90fc40\nComments URL: https://news.ycombinator.com/item?id=49468866\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "sbulaev",
+      "published": "Thu, 27 Aug 2026 18:07:08 +0000"
+    },
+    {
+      "name": "How much of a problem is AI's water use?",
+      "url": "https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/\nComments URL: https://news.ycombinator.com/item?id=49468473\nPoints: 7\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "furcyd",
+      "published": "Thu, 27 Aug 2026 17:42:50 +0000"
+    },
+    {
+      "name": "Ask HN: AI agent acts. Your logs say so. But you wrote the logs",
+      "url": "https://news.ycombinator.com/item?id=49468363",
+      "summary": "Hi \nI am really lost here, if you are deploying AI agents in production, how are you handling auditability? also what would make you trust an external witness protocol? \nfo reference, the Amazon vs Pe",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Yahyaaa",
+      "published": "Thu, 27 Aug 2026 17:36:42 +0000"
+    },
+    {
+      "name": "AMD Jumps from ROCm 7.14 to ROCm 10.0 with Rocm.ai",
+      "url": "https://www.phoronix.com/news/AMD-ROCm-10.0",
+      "summary": "Article URL: https://www.phoronix.com/news/AMD-ROCm-10.0\nComments URL: https://news.ycombinator.com/item?id=49468307\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Alephinitesimal",
+      "published": "Thu, 27 Aug 2026 17:32:49 +0000"
+    },
+    {
+      "name": "Swarm of 700 AI bots went rogue in hacking attack",
+      "url": "https://www.telegraph.co.uk/business/2026/08/27/swarm-of-700-ai-bots-went-rogue-in-hacking-attack/",
+      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/08/27/swarm-of-700-ai-bots-went-rogue-in-hacking-attack/\nComments URL: https://news.ycombinator.com/item?id=49468276\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "giardini",
+      "published": "Thu, 27 Aug 2026 17:29:54 +0000"
+    },
+    {
+      "name": "Tell HN: Man, AI is killing my brain",
+      "url": "https://news.ycombinator.com/item?id=49468252",
+      "summary": "I was among the last to resist, but then I was given a subtle hint that if I won't \"improve my productivity and be on par with my colleagues\" my work will be at risk. So I started to use Claude Code a",
+      "source": "hacker_news",
+      "score": null,
+      "author": "fnoef",
+      "published": "Thu, 27 Aug 2026 17:28:27 +0000"
+    },
+    {
+      "name": "Reimagining Homework in the Age of AI by Prioritizing Engagement",
+      "url": "https://localscribe.co/posts/reimagining-homework-ai-engagement/",
+      "summary": "Article URL: https://localscribe.co/posts/reimagining-homework-ai-engagement/\nComments URL: https://news.ycombinator.com/item?id=49468195\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "speckx",
+      "published": "Thu, 27 Aug 2026 17:24:43 +0000"
+    },
+    {
+      "name": "MadsLorentzen/AI-job-search: The job search that runs on your machine",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "summary": "Article URL: https://github.com/MadsLorentzen/ai-job-search\nComments URL: https://news.ycombinator.com/item?id=49468165\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rbanffy",
+      "published": "Thu, 27 Aug 2026 17:23:08 +0000"
+    },
+    {
+      "name": "Walkthrough of a prompt injection attack on a modern office-work AI agent",
+      "url": "https://shiftmag.dev/ai-agents-arent-safe-from-prompt-injection-and-spreadsheets-prove-it-11609/",
+      "summary": "Article URL: https://shiftmag.dev/ai-agents-arent-safe-from-prompt-injection-and-spreadsheets-prove-it-11609/\nComments URL: https://news.ycombinator.com/item?id=49468107\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Antolius",
+      "published": "Thu, 27 Aug 2026 17:19:01 +0000"
+    },
+    {
+      "name": "A cited AI answer can still be wrong: the retrieval bug we found in ZettaVector",
+      "url": "https://zettavector.com/blog/cited-ai-answer-can-still-be-wrong",
+      "summary": "Article URL: https://zettavector.com/blog/cited-ai-answer-can-still-be-wrong\nComments URL: https://news.ycombinator.com/item?id=49467711\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "warrowarro",
+      "published": "Thu, 27 Aug 2026 16:50:12 +0000"
+    },
+    {
+      "name": "InferCrane – Deploy and safely evolve self-hosted AI inference",
+      "url": "https://github.com/infercrane/infercrane",
+      "summary": "Article URL: https://github.com/infercrane/infercrane\nComments URL: https://news.ycombinator.com/item?id=49467696\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "yasintoy",
+      "published": "Thu, 27 Aug 2026 16:49:27 +0000"
+    },
+    {
+      "name": "Linux Foundation Submits OpenMDW AI License to Open Source Initiative",
+      "url": "https://techstrong.ai/articles/linux-foundation-submits-openmdw-ai-license-to-open-source-initiative/",
+      "summary": "Article URL: https://techstrong.ai/articles/linux-foundation-submits-openmdw-ai-license-to-open-source-initiative/\nComments URL: https://news.ycombinator.com/item?id=49467669\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "CrankyBear",
+      "published": "Thu, 27 Aug 2026 16:47:41 +0000"
+    },
+    {
+      "name": "Show HN: AiTells, a Vale style package for AI-written prose tells",
+      "url": "https://github.com/krishnasunkam/vale-ai-tells",
+      "summary": "Article URL: https://github.com/krishnasunkam/vale-ai-tells\nComments URL: https://news.ycombinator.com/item?id=49467627\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "krishnas2020",
+      "published": "Thu, 27 Aug 2026 16:44:43 +0000"
+    },
+    {
+      "name": "Sandy – A sandbox for AI coding agents with monitoring and policy controls",
+      "url": "https://github.com/kontext-security/sandy",
+      "summary": "Article URL: https://github.com/kontext-security/sandy\nComments URL: https://news.ycombinator.com/item?id=49467501\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mc-serious",
+      "published": "Thu, 27 Aug 2026 16:33:44 +0000"
+    },
+    {
+      "name": "CMS with AI, Not AI CMS: Wagtail 8.0's New API",
+      "url": "https://wagtail.org/blog/cms-with-ai-not-ai-cms-wagtail-80s-new-api/",
+      "summary": "Article URL: https://wagtail.org/blog/cms-with-ai-not-ai-cms-wagtail-80s-new-api/\nComments URL: https://news.ycombinator.com/item?id=49467481\nPoints: 12\n# Comments: 6",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ThibWeb",
+      "published": "Thu, 27 Aug 2026 16:32:21 +0000"
+    },
+    {
+      "name": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding and Linux [video]",
+      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
+      "summary": "Article URL: https://www.youtube.com/watch?v=NYFGCESmikA\nComments URL: https://news.ycombinator.com/item?id=49467437\nPoints: 6\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "momentmaker",
+      "published": "Thu, 27 Aug 2026 16:29:06 +0000"
+    },
+    {
+      "name": "Chinese AI Models Overtake American Rivals in Popularity",
+      "url": "https://techstrong.ai/articles/chinese-ai-models-overtake-american-rivals/",
+      "summary": "Article URL: https://techstrong.ai/articles/chinese-ai-models-overtake-american-rivals/\nComments URL: https://news.ycombinator.com/item?id=49467310\nPoints: 5\n# Comments: 3",
+      "source": "hacker_news",
+      "score": null,
+      "author": "CrankyBear",
+      "published": "Thu, 27 Aug 2026 16:21:09 +0000"
+    },
+    {
+      "name": "Teaching AI to Read a Map",
+      "url": "https://research.google/blog/teaching-ai-to-read-a-map/",
+      "summary": "Article URL: https://research.google/blog/teaching-ai-to-read-a-map/\nComments URL: https://news.ycombinator.com/item?id=49467170\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mattrighetti",
+      "published": "Thu, 27 Aug 2026 16:12:09 +0000"
+    }
+  ]
+}

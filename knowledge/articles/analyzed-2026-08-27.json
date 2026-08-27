@@ -1,0 +1,422 @@
+[
+  {
+    "id": "e2c205f5-1032-4292-aee1-bcc13cd66aff",
+    "title": "yding-git/personal-edge-proxy",
+    "source_url": "https://github.com/yding-git/personal-edge-proxy",
+    "source": "unknown",
+    "collected_at": "2026-08-27T18:48:46.708077+00:00",
+    "analyzed_at": "2026-08-27T18:48:46.708077+00:00",
+    "summary": "A practical multi-inbound, multi-outbound personal proxy setup with Xray, Hysteria2, REALITY Vision, WARP and optional static SOCKS5 routing.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 593,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "60f459b7-48e1-434a-9b9b-7f593a6e29b2",
+    "title": "Tencent/WeMM-Embedding",
+    "source_url": "https://github.com/Tencent/WeMM-Embedding",
+    "source": "unknown",
+    "collected_at": "2026-08-27T18:48:47.900387+00:00",
+    "analyzed_at": "2026-08-27T18:48:47.900387+00:00",
+    "summary": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 460,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "63654f03-bf93-4533-a0ed-a10b521eabd4",
+    "title": "dmitryd-ops1996m6/Wilonity",
+    "source_url": "https://github.com/dmitryd-ops1996m6/Wilonity",
+    "source": "unknown",
+    "collected_at": "2026-08-27T18:48:49.091864+00:00",
+    "analyzed_at": "2026-08-27T18:48:49.091864+00:00",
+    "summary": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWI",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 402,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "38cfd979-fc8d-447d-b2b9-5db459915ec4",
+    "title": "larashero3-dotcom/lieflat-less-ai-tone",
+    "source_url": "https://github.com/larashero3-dotcom/lieflat-less-ai-tone",
+    "source": "unknown",
+    "collected_at": "2026-08-27T18:48:50.284658+00:00",
+    "analyzed_at": "2026-08-27T18:48:50.284658+00:00",
+    "summary": "一个基于 283 万字语料统计的去 AI 味 skill · An AI-tone removal skill grounded in a 2.83-million-character corpus study",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 394,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "57ec297e-97de-4c7e-9929-7ec55ffd2045",
+    "title": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
+    "source_url": "https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc",
+    "source": "hacker_news",
+    "collected_at": "2026-08-27T18:48:51.476315+00:00",
+    "analyzed_at": "2026-08-27T18:48:51.476315+00:00",
+    "summary": "Article URL: https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc\nComments URL: https://news.ycombinator.com/item?id=49469249\nPoints: 2\n# Co",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rarisma",
+      "language": null
+    }
+  },
+  {
+    "id": "a3bc684c-335b-438c-a63a-63bab680936b",
+    "title": "The AI 'Ghosts' Contaminating Academic Publishing",
+    "source_url": "https://www.404media.co/the-ai-ghosts-contaminating-academic-publishing/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-27T18:48:52.668065+00:00",
+    "analyzed_at": "2026-08-27T18:48:52.668065+00:00",
+    "summary": "Article URL: https://www.404media.co/the-ai-ghosts-contaminating-academic-publishing/\nComments URL: https://news.ycombinator.com/item?id=49469121\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "saikatsg",
+      "language": null
+    }
+  },
+  {
+    "id": "25341648-2c4f-4248-abd9-7c23a48605ef",
+    "title": "AI's hacking capabilities are severely underestimated",
+    "source_url": "https://www.ft.com/content/3f154376-fd8b-4255-ac5b-538c5e90fc40",
+    "source": "hacker_news",
+    "collected_at": "2026-08-27T18:48:53.860333+00:00",
+    "analyzed_at": "2026-08-27T18:48:53.860333+00:00",
+    "summary": "Article URL: https://www.ft.com/content/3f154376-fd8b-4255-ac5b-538c5e90fc40\nComments URL: https://news.ycombinator.com/item?id=49468866\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "sbulaev",
+      "language": null
+    }
+  },
+  {
+    "id": "3a09c53e-6cc5-41e6-8795-6a3ae4624b3f",
+    "title": "How much of a problem is AI's water use?",
+    "source_url": "https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-27T18:48:55.052155+00:00",
+    "analyzed_at": "2026-08-27T18:48:55.052155+00:00",
+    "summary": "Article URL: https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/\nComments URL: https://news.ycombinator.com/item?id=49468473\nPoints: 7\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "furcyd",
+      "language": null
+    }
+  },
+  {
+    "id": "729e6c9f-3aaf-4728-870b-891ae847366c",
+    "title": "Ask HN: AI agent acts. Your logs say so. But you wrote the logs",
+    "source_url": "https://news.ycombinator.com/item?id=49468363",
+    "source": "hacker_news",
+    "collected_at": "2026-08-27T18:48:56.243176+00:00",
+    "analyzed_at": "2026-08-27T18:48:56.243176+00:00",
+    "summary": "Hi \nI am really lost here, if you are deploying AI agents in production, how are you handling auditability? also what would make you trust an external witness protocol? \nfo reference, the Amazon vs Pe",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Yahyaaa",
+      "language": null
+    }
+  },
+  {
+    "id": "8a3bc281-ea3a-40f5-8097-3fac41e50c83",
+    "title": "AMD Jumps from ROCm 7.14 to ROCm 10.0 with Rocm.ai",
+    "source_url": "https://www.phoronix.com/news/AMD-ROCm-10.0",
+    "source": "hacker_news",
+    "collected_at": "2026-08-27T18:48:57.441240+00:00",
+    "analyzed_at": "2026-08-27T18:48:57.441240+00:00",
+    "summary": "Article URL: https://www.phoronix.com/news/AMD-ROCm-10.0\nComments URL: https://news.ycombinator.com/item?id=49468307\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Alephinitesimal",
+      "language": null
+    }
+  },
+  {
+    "id": "36c24194-d547-4d7c-be92-8d3f7dc9ba0d",
+    "title": "Swarm of 700 AI bots went rogue in hacking attack",
+    "source_url": "https://www.telegraph.co.uk/business/2026/08/27/swarm-of-700-ai-bots-went-rogue-in-hacking-attack/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-27T18:48:58.638414+00:00",
+    "analyzed_at": "2026-08-27T18:48:58.638414+00:00",
+    "summary": "Article URL: https://www.telegraph.co.uk/business/2026/08/27/swarm-of-700-ai-bots-went-rogue-in-hacking-attack/\nComments URL: https://news.ycombinator.com/item?id=49468276\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "giardini",
+      "language": null
+    }
+  },
+  {
+    "id": "7ed459e2-c481-4ec2-b436-3354ba983342",
+    "title": "Tell HN: Man, AI is killing my brain",
+    "source_url": "https://news.ycombinator.com/item?id=49468252",
+    "source": "hacker_news",
+    "collected_at": "2026-08-27T18:48:59.830855+00:00",
+    "analyzed_at": "2026-08-27T18:48:59.830855+00:00",
+    "summary": "I was among the last to resist, but then I was given a subtle hint that if I won't \"improve my productivity and be on par with my colleagues\" my work will be at risk. So I started to use Claude Code a",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "fnoef",
+      "language": null
+    }
+  },
+  {
+    "id": "0f152955-906f-4e86-a1db-174c9bc8f7e8",
+    "title": "Reimagining Homework in the Age of AI by Prioritizing Engagement",
+    "source_url": "https://localscribe.co/posts/reimagining-homework-ai-engagement/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-27T18:49:01.021939+00:00",
+    "analyzed_at": "2026-08-27T18:49:01.021939+00:00",
+    "summary": "Article URL: https://localscribe.co/posts/reimagining-homework-ai-engagement/\nComments URL: https://news.ycombinator.com/item?id=49468195\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "speckx",
+      "language": null
+    }
+  },
+  {
+    "id": "5ee715ed-df3b-474e-a54b-e318ba6d79e0",
+    "title": "MadsLorentzen/AI-job-search: The job search that runs on your machine",
+    "source_url": "https://github.com/MadsLorentzen/ai-job-search",
+    "source": "hacker_news",
+    "collected_at": "2026-08-27T18:49:02.212539+00:00",
+    "analyzed_at": "2026-08-27T18:49:02.212539+00:00",
+    "summary": "Article URL: https://github.com/MadsLorentzen/ai-job-search\nComments URL: https://news.ycombinator.com/item?id=49468165\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rbanffy",
+      "language": null
+    }
+  },
+  {
+    "id": "7c8ee9e2-0d00-489f-a302-5bb151c3efe2",
+    "title": "Walkthrough of a prompt injection attack on a modern office-work AI agent",
+    "source_url": "https://shiftmag.dev/ai-agents-arent-safe-from-prompt-injection-and-spreadsheets-prove-it-11609/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-27T18:49:03.404445+00:00",
+    "analyzed_at": "2026-08-27T18:49:03.404445+00:00",
+    "summary": "Article URL: https://shiftmag.dev/ai-agents-arent-safe-from-prompt-injection-and-spreadsheets-prove-it-11609/\nComments URL: https://news.ycombinator.com/item?id=49468107\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Antolius",
+      "language": null
+    }
+  },
+  {
+    "id": "b93a07e3-75b6-4e6f-9391-702fa34d27ad",
+    "title": "A cited AI answer can still be wrong: the retrieval bug we found in ZettaVector",
+    "source_url": "https://zettavector.com/blog/cited-ai-answer-can-still-be-wrong",
+    "source": "hacker_news",
+    "collected_at": "2026-08-27T18:49:04.596504+00:00",
+    "analyzed_at": "2026-08-27T18:49:04.596504+00:00",
+    "summary": "Article URL: https://zettavector.com/blog/cited-ai-answer-can-still-be-wrong\nComments URL: https://news.ycombinator.com/item?id=49467711\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "warrowarro",
+      "language": null
+    }
+  },
+  {
+    "id": "f7513d12-3168-4378-afca-fb543d00f1bf",
+    "title": "InferCrane – Deploy and safely evolve self-hosted AI inference",
+    "source_url": "https://github.com/infercrane/infercrane",
+    "source": "hacker_news",
+    "collected_at": "2026-08-27T18:49:05.789003+00:00",
+    "analyzed_at": "2026-08-27T18:49:05.789003+00:00",
+    "summary": "Article URL: https://github.com/infercrane/infercrane\nComments URL: https://news.ycombinator.com/item?id=49467696\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "yasintoy",
+      "language": null
+    }
+  },
+  {
+    "id": "326d33d8-04c1-4e98-b277-410685ed5d6c",
+    "title": "Linux Foundation Submits OpenMDW AI License to Open Source Initiative",
+    "source_url": "https://techstrong.ai/articles/linux-foundation-submits-openmdw-ai-license-to-open-source-initiative/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-27T18:49:06.982517+00:00",
+    "analyzed_at": "2026-08-27T18:49:06.982517+00:00",
+    "summary": "Article URL: https://techstrong.ai/articles/linux-foundation-submits-openmdw-ai-license-to-open-source-initiative/\nComments URL: https://news.ycombinator.com/item?id=49467669\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "CrankyBear",
+      "language": null
+    }
+  },
+  {
+    "id": "506f4d94-8d1d-4c11-9dc1-c810345a7d63",
+    "title": "Show HN: AiTells, a Vale style package for AI-written prose tells",
+    "source_url": "https://github.com/krishnasunkam/vale-ai-tells",
+    "source": "hacker_news",
+    "collected_at": "2026-08-27T18:49:08.175580+00:00",
+    "analyzed_at": "2026-08-27T18:49:08.175580+00:00",
+    "summary": "Article URL: https://github.com/krishnasunkam/vale-ai-tells\nComments URL: https://news.ycombinator.com/item?id=49467627\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "krishnas2020",
+      "language": null
+    }
+  },
+  {
+    "id": "cf057093-59e3-4140-b53a-a6a57125d0f0",
+    "title": "Sandy – A sandbox for AI coding agents with monitoring and policy controls",
+    "source_url": "https://github.com/kontext-security/sandy",
+    "source": "hacker_news",
+    "collected_at": "2026-08-27T18:49:09.372282+00:00",
+    "analyzed_at": "2026-08-27T18:49:09.372282+00:00",
+    "summary": "Article URL: https://github.com/kontext-security/sandy\nComments URL: https://news.ycombinator.com/item?id=49467501\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mc-serious",
+      "language": null
+    }
+  }
+]
