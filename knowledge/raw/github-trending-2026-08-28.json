@@ -1,0 +1,66 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-08-28T19:52:19.023775+00:00",
+  "items": [
+    {
+      "name": "POUND0423/AI-drama-pound",
+      "url": "https://github.com/POUND0423/AI-drama-pound",
+      "summary": "",
+      "stars": 479,
+      "language": null,
+      "topics": []
+    },
+    {
+      "name": "totec448-spec/chat-on-steroids",
+      "url": "https://github.com/totec448-spec/chat-on-steroids",
+      "summary": "Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.",
+      "stars": 478,
+      "language": "TypeScript",
+      "topics": [
+        "automation",
+        "chatgpt",
+        "chrome-extension",
+        "electron",
+        "linux",
+        "local-first",
+        "macos",
+        "mcp",
+        "multi-agent",
+        "windows"
+      ]
+    },
+    {
+      "name": "gtlhuyidan-sketch/life-ipo",
+      "url": "https://github.com/gtlhuyidan-sketch/life-ipo",
+      "summary": "人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
+      "stars": 433,
+      "language": "TypeScript",
+      "topics": [
+        "ai-planning",
+        "crm",
+        "health-data",
+        "knowledge-management",
+        "life-ipo",
+        "personal-finance",
+        "team-collaboration"
+      ]
+    },
+    {
+      "name": "s0xDk/refactoring-ui-skill",
+      "url": "https://github.com/s0xDk/refactoring-ui-skill",
+      "summary": "A Claude Code skill that applies the concrete design rules from the book Refactoring UI (Wathan & Schoger) — constrained spacing/type/color/shadow scales, hierarchy through weight and color, and depth",
+      "stars": 387,
+      "language": "CSS",
+      "topics": []
+    },
+    {
+      "name": "alchaincyf/huashu-excel",
+      "url": "https://github.com/alchaincyf/huashu-excel",
+      "summary": "数据分析与 Excel 全流程 skill：体检脏表、清洗、对齐需求、分析、对账、交付。让 AI 算出来的数字经得起追问。跨 agent 通用，依赖仅 openpyxl。",
+      "stars": 330,
+      "language": "Python",
+      "topics": []
+    }
+  ]
+}

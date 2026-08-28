@@ -1,0 +1,422 @@
+[
+  {
+    "id": "974ac75b-3706-453c-85c9-c4cbf067f218",
+    "title": "POUND0423/AI-drama-pound",
+    "source_url": "https://github.com/POUND0423/AI-drama-pound",
+    "source": "unknown",
+    "collected_at": "2026-08-28T19:52:23.355307+00:00",
+    "analyzed_at": "2026-08-28T19:52:23.355307+00:00",
+    "summary": "",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 479,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "3d5b6f88-03b1-4362-b926-c56b2f5c6e2a",
+    "title": "totec448-spec/chat-on-steroids",
+    "source_url": "https://github.com/totec448-spec/chat-on-steroids",
+    "source": "unknown",
+    "collected_at": "2026-08-28T19:52:24.551696+00:00",
+    "analyzed_at": "2026-08-28T19:52:24.551696+00:00",
+    "summary": "Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 478,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "ea361343-8914-4967-8a27-bd8ce0098e17",
+    "title": "gtlhuyidan-sketch/life-ipo",
+    "source_url": "https://github.com/gtlhuyidan-sketch/life-ipo",
+    "source": "unknown",
+    "collected_at": "2026-08-28T19:52:25.747835+00:00",
+    "analyzed_at": "2026-08-28T19:52:25.747835+00:00",
+    "summary": "人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 433,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "368aebea-6871-4d0b-864b-d435fa1924b6",
+    "title": "s0xDk/refactoring-ui-skill",
+    "source_url": "https://github.com/s0xDk/refactoring-ui-skill",
+    "source": "unknown",
+    "collected_at": "2026-08-28T19:52:27.101718+00:00",
+    "analyzed_at": "2026-08-28T19:52:27.101718+00:00",
+    "summary": "A Claude Code skill that applies the concrete design rules from the book Refactoring UI (Wathan & Schoger) — constrained spacing/type/color/shadow scales, hierarchy through weight and color, and depth",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 387,
+      "score": null,
+      "author": null,
+      "language": "CSS"
+    }
+  },
+  {
+    "id": "1d8af613-6637-468e-a455-b29e19c72397",
+    "title": "alchaincyf/huashu-excel",
+    "source_url": "https://github.com/alchaincyf/huashu-excel",
+    "source": "unknown",
+    "collected_at": "2026-08-28T19:52:28.293096+00:00",
+    "analyzed_at": "2026-08-28T19:52:28.293096+00:00",
+    "summary": "数据分析与 Excel 全流程 skill：体检脏表、清洗、对齐需求、分析、对账、交付。让 AI 算出来的数字经得起追问。跨 agent 通用，依赖仅 openpyxl。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 330,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "94ff7780-940f-45dd-95eb-f1be54f19dac",
+    "title": "Condensed concepts: Questions to consider when evaluating AI",
+    "source_url": "https://condensedconcepts.blogspot.com/2026/08/questions-to-consider-when-evaluating-ai.html",
+    "source": "hacker_news",
+    "collected_at": "2026-08-28T19:52:29.485017+00:00",
+    "analyzed_at": "2026-08-28T19:52:29.485017+00:00",
+    "summary": "Article URL: https://condensedconcepts.blogspot.com/2026/08/questions-to-consider-when-evaluating-ai.html\nComments URL: https://news.ycombinator.com/item?id=49483366\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "speckx",
+      "language": null
+    }
+  },
+  {
+    "id": "f8052c07-0941-439a-9457-cea50326d2c4",
+    "title": "Moonshot and Nvidia Talks Show Chinese AI Models Moving into the Enterprise",
+    "source_url": "https://techstrong.ai/articles/moonshot-and-nvidia-talks-show-chinese-ai-models-moving-into-the-enterprise/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-28T19:52:30.696946+00:00",
+    "analyzed_at": "2026-08-28T19:52:30.696946+00:00",
+    "summary": "Article URL: https://techstrong.ai/articles/moonshot-and-nvidia-talks-show-chinese-ai-models-moving-into-the-enterprise/\nComments URL: https://news.ycombinator.com/item?id=49483129\nPoints: 3\n# Comment",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "CrankyBear",
+      "language": null
+    }
+  },
+  {
+    "id": "8021141d-7391-4977-9c3f-8a086a27ad07",
+    "title": "Show HN: iOS app for learning any song on piano with AI music transcription",
+    "source_url": "https://apps.apple.com/us/app/anything-piano-learn-any-song/id6761146933",
+    "source": "hacker_news",
+    "collected_at": "2026-08-28T19:52:31.889335+00:00",
+    "analyzed_at": "2026-08-28T19:52:31.889335+00:00",
+    "summary": "Article URL: https://apps.apple.com/us/app/anything-piano-learn-any-song/id6761146933\nComments URL: https://news.ycombinator.com/item?id=49483015\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "katielb",
+      "language": null
+    }
+  },
+  {
+    "id": "0004fc45-5603-4a8e-9c4d-d9552bc43c9b",
+    "title": "The Analytical AI Handbook",
+    "source_url": "https://handbook.sutro.sh",
+    "source": "hacker_news",
+    "collected_at": "2026-08-28T19:52:33.076009+00:00",
+    "analyzed_at": "2026-08-28T19:52:33.076009+00:00",
+    "summary": "Article URL: https://handbook.sutro.sh\nComments URL: https://news.ycombinator.com/item?id=49482925\nPoints: 11\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "sethkim",
+      "language": null
+    }
+  },
+  {
+    "id": "3de7655e-8f03-49f5-847f-e424fe017081",
+    "title": "China's daily AI token usage tops 500T as compute demand grows",
+    "source_url": "https://technode.com/2026/08/28/chinas-daily-ai-token-usage-tops-500-trillion-as-compute-demand-grows/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-28T19:52:34.279581+00:00",
+    "analyzed_at": "2026-08-28T19:52:34.279581+00:00",
+    "summary": "Article URL: https://technode.com/2026/08/28/chinas-daily-ai-token-usage-tops-500-trillion-as-compute-demand-grows/\nComments URL: https://news.ycombinator.com/item?id=49482794\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "yogthos",
+      "language": null
+    }
+  },
+  {
+    "id": "e86ba004-bce3-46f6-a2be-b321cc478078",
+    "title": "The Uninvited Guest Who Crashed Our Family Vacation: My Mom's AI Chatbot",
+    "source_url": "https://www.wsj.com/tech/ai/claude-family-ai-chatbot-vacation-boomers-b6b7b25e",
+    "source": "hacker_news",
+    "collected_at": "2026-08-28T19:52:35.466873+00:00",
+    "analyzed_at": "2026-08-28T19:52:35.466873+00:00",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/claude-family-ai-chatbot-vacation-boomers-b6b7b25e\nComments URL: https://news.ycombinator.com/item?id=49482754\nPoints: 6\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "bcaulfield",
+      "language": null
+    }
+  },
+  {
+    "id": "3b912e32-08a3-4fd5-8022-967c5f230336",
+    "title": "Polytoken Is an AI Harness",
+    "source_url": "https://polytoken.dev/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-28T19:52:36.678241+00:00",
+    "analyzed_at": "2026-08-28T19:52:36.678241+00:00",
+    "summary": "Article URL: https://polytoken.dev/\nComments URL: https://news.ycombinator.com/item?id=49482682\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "droidjj",
+      "language": null
+    }
+  },
+  {
+    "id": "8ad8d16f-0e6c-4629-968e-bd86917f4924",
+    "title": "New AI tech considered to tackle wrong-way driving",
+    "source_url": "https://www.rte.ie/news/ireland/2026/0828/1589622-ai-motorways/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-28T19:52:37.889821+00:00",
+    "analyzed_at": "2026-08-28T19:52:37.889821+00:00",
+    "summary": "Article URL: https://www.rte.ie/news/ireland/2026/0828/1589622-ai-motorways/\nComments URL: https://news.ycombinator.com/item?id=49482612\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "austinallegro",
+      "language": null
+    }
+  },
+  {
+    "id": "d560e59f-1ebd-4ee0-a087-1f75789d6c93",
+    "title": "I tested 47 news outlets: 16 block AI fact-checkers, incl. Reuters, WSJ and NYT",
+    "source_url": "https://korniienko.dev/blog/news-outlets-ai-cannot-read/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-28T19:52:39.067079+00:00",
+    "analyzed_at": "2026-08-28T19:52:39.067079+00:00",
+    "summary": "Article URL: https://korniienko.dev/blog/news-outlets-ai-cannot-read/\nComments URL: https://news.ycombinator.com/item?id=49482593\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "skorniienko",
+      "language": null
+    }
+  },
+  {
+    "id": "bf2e4761-e420-4666-ab0e-020e4437f4cf",
+    "title": "Show HN: AI Shipcheck – know if your AI-built app is ready to ship",
+    "source_url": "https://github.com/sinceaihq/ai-shipcheck",
+    "source": "hacker_news",
+    "collected_at": "2026-08-28T19:52:40.243980+00:00",
+    "analyzed_at": "2026-08-28T19:52:40.243980+00:00",
+    "summary": "Article URL: https://github.com/sinceaihq/ai-shipcheck\nComments URL: https://news.ycombinator.com/item?id=49482469\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rikulauttia",
+      "language": null
+    }
+  },
+  {
+    "id": "6fba08fa-6a79-4222-af4c-d24de72d8b28",
+    "title": "Spotify Backstage Meet LiteLLM for Corporate AI Governance",
+    "source_url": "https://github.com/acarmisc/backstage-plugin-litellm-govai",
+    "source": "hacker_news",
+    "collected_at": "2026-08-28T19:52:41.464421+00:00",
+    "analyzed_at": "2026-08-28T19:52:41.464421+00:00",
+    "summary": "Article URL: https://github.com/acarmisc/backstage-plugin-litellm-govai\nComments URL: https://news.ycombinator.com/item?id=49482108\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "acarmisc",
+      "language": null
+    }
+  },
+  {
+    "id": "5947f3fb-77fc-4b49-8e45-2e40b84c00e1",
+    "title": "Ask HN: AI writes better code than me. How to keep my identity?",
+    "source_url": "https://news.ycombinator.com/item?id=49481969",
+    "source": "hacker_news",
+    "collected_at": "2026-08-28T19:52:42.642938+00:00",
+    "analyzed_at": "2026-08-28T19:52:42.642938+00:00",
+    "summary": "Nowadays, almost everyone codes with AI, right? I am a freelancer, and the entire market is now setting deadlines based on AI-assisted coding speeds. If you don't use AI, you simply cannot meet the de",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jdw64",
+      "language": null
+    }
+  },
+  {
+    "id": "3caa2988-16a8-4a71-bde3-5a6963273985",
+    "title": "LibreOffice 26.8 is out – local first, and with no AI",
+    "source_url": "https://www.theregister.com/applications/2026/08/28/libreoffice-268-is-out-local-first-and-with-no-ai/5293301",
+    "source": "hacker_news",
+    "collected_at": "2026-08-28T19:52:43.822055+00:00",
+    "analyzed_at": "2026-08-28T19:52:43.822055+00:00",
+    "summary": "Article URL: https://www.theregister.com/applications/2026/08/28/libreoffice-268-is-out-local-first-and-with-no-ai/5293301\nComments URL: https://news.ycombinator.com/item?id=49481868\nPoints: 9\n# Comme",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "beardyw",
+      "language": null
+    }
+  },
+  {
+    "id": "4999a8e0-4d0e-4833-a030-d2df8d6be3eb",
+    "title": "A History of the AI Incident-O-Pocalypse in B-Movie Horror Posters",
+    "source_url": "https://www.qawolf.com/blog/a-history-of-the-ai-incident-o-pocalypse-in-b-movie-horror-posters",
+    "source": "hacker_news",
+    "collected_at": "2026-08-28T19:52:45.009566+00:00",
+    "analyzed_at": "2026-08-28T19:52:45.009566+00:00",
+    "summary": "Article URL: https://www.qawolf.com/blog/a-history-of-the-ai-incident-o-pocalypse-in-b-movie-horror-posters\nComments URL: https://news.ycombinator.com/item?id=49481830\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "eyehurtsme",
+      "language": null
+    }
+  },
+  {
+    "id": "b01c7800-3e2f-4900-94c1-73a652ff4d8b",
+    "title": "Songs created by AI banned from Australia's music charts",
+    "source_url": "https://www.bbc.com/news/articles/c20vl4vm2pno",
+    "source": "hacker_news",
+    "collected_at": "2026-08-28T19:52:46.220327+00:00",
+    "analyzed_at": "2026-08-28T19:52:46.220327+00:00",
+    "summary": "Article URL: https://www.bbc.com/news/articles/c20vl4vm2pno\nComments URL: https://news.ycombinator.com/item?id=49481822\nPoints: 3\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "cdrnsf",
+      "language": null
+    }
+  }
+]
