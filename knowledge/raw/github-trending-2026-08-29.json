@@ -1,0 +1,101 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-08-29T13:35:57.197554+00:00",
+  "items": [
+    {
+      "name": "XiaoDuoYa/codex-with-chatgpt",
+      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+      "summary": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+      "stars": 721,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "chatgpt",
+        "codex",
+        "mcp",
+        "model-context-protocol",
+        "oauth"
+      ]
+    },
+    {
+      "name": "Nanako0129/sepia",
+      "url": "https://github.com/Nanako0129/sepia",
+      "summary": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "stars": 563,
+      "language": "Shell",
+      "topics": [
+        "agent-skills",
+        "ai-writing",
+        "antigravity",
+        "claude-code",
+        "codex",
+        "developer-tools",
+        "fiction",
+        "grok",
+        "humanizer",
+        "llm",
+        "prompt-engineering",
+        "writing-tools"
+      ]
+    },
+    {
+      "name": "MetaMask-AI/metamask-desktop",
+      "url": "https://github.com/MetaMask-AI/metamask-desktop",
+      "summary": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
+      "stars": 484,
+      "language": "CSS",
+      "topics": [
+        "bitcoin",
+        "bitcoin-wallet",
+        "crypto",
+        "cryptocoins",
+        "cryptocompare-api",
+        "cryptocurrency",
+        "dapp",
+        "ethereum",
+        "ethereum-blockchain",
+        "ethereum-wallet",
+        "evm",
+        "evm-wallet",
+        "macos",
+        "metamask",
+        "metamask-dapp",
+        "metamask-desktop",
+        "metamask-io",
+        "solana",
+        "web3",
+        "windows"
+      ]
+    },
+    {
+      "name": "HanyuanWang/LiveStream-Agent-Studio",
+      "url": "https://github.com/HanyuanWang/LiveStream-Agent-Studio",
+      "summary": "面向抖音直播电商的 Windows 本地 AI Agent Studio，贯通主播发现、直播洞察、直播复盘与短视频内容编导的统一智能工作流。",
+      "stars": 370,
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "douyin",
+        "livestream",
+        "speech-to-text"
+      ]
+    },
+    {
+      "name": "tt-a1i/simplify-codebase",
+      "url": "https://github.com/tt-a1i/simplify-codebase",
+      "summary": "Prove and remove accidental codebase complexity without breaking behavior.",
+      "stars": 342,
+      "language": null,
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "code-quality",
+        "codebase",
+        "codex",
+        "developer-tools",
+        "refactoring"
+      ]
+    }
+  ]
+}

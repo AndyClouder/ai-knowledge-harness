@@ -1,0 +1,422 @@
+[
+  {
+    "id": "82a36190-eda4-464b-b558-c4452f7da11f",
+    "title": "XiaoDuoYa/codex-with-chatgpt",
+    "source_url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+    "source": "unknown",
+    "collected_at": "2026-08-29T13:36:24.210165+00:00",
+    "analyzed_at": "2026-08-29T13:36:24.210165+00:00",
+    "summary": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 721,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "c7373903-48ba-41e4-9209-1ece99a1ba38",
+    "title": "Nanako0129/sepia",
+    "source_url": "https://github.com/Nanako0129/sepia",
+    "source": "unknown",
+    "collected_at": "2026-08-29T13:36:25.421096+00:00",
+    "analyzed_at": "2026-08-29T13:36:25.421096+00:00",
+    "summary": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 563,
+      "score": null,
+      "author": null,
+      "language": "Shell"
+    }
+  },
+  {
+    "id": "aa6e7e1d-dc23-4654-b63b-6e6595d52dde",
+    "title": "MetaMask-AI/metamask-desktop",
+    "source_url": "https://github.com/MetaMask-AI/metamask-desktop",
+    "source": "unknown",
+    "collected_at": "2026-08-29T13:36:26.613813+00:00",
+    "analyzed_at": "2026-08-29T13:36:26.613813+00:00",
+    "summary": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 484,
+      "score": null,
+      "author": null,
+      "language": "CSS"
+    }
+  },
+  {
+    "id": "564ce2cf-b1e3-4de3-ba8b-98ee723ed2fa",
+    "title": "HanyuanWang/LiveStream-Agent-Studio",
+    "source_url": "https://github.com/HanyuanWang/LiveStream-Agent-Studio",
+    "source": "unknown",
+    "collected_at": "2026-08-29T13:36:27.808625+00:00",
+    "analyzed_at": "2026-08-29T13:36:27.808625+00:00",
+    "summary": "面向抖音直播电商的 Windows 本地 AI Agent Studio，贯通主播发现、直播洞察、直播复盘与短视频内容编导的统一智能工作流。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 370,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "a59d0d61-33a1-4ab7-a116-11f52844f0f4",
+    "title": "tt-a1i/simplify-codebase",
+    "source_url": "https://github.com/tt-a1i/simplify-codebase",
+    "source": "unknown",
+    "collected_at": "2026-08-29T13:36:29.000693+00:00",
+    "analyzed_at": "2026-08-29T13:36:29.000693+00:00",
+    "summary": "Prove and remove accidental codebase complexity without breaking behavior.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 342,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "bbd586f9-ad4d-4d65-ba6f-247a7068262f",
+    "title": "Ask AI buttons like social media links for webpages",
+    "source_url": "https://llmcheck.app/ai-ask-buttons/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-29T13:36:30.210553+00:00",
+    "analyzed_at": "2026-08-29T13:36:30.210553+00:00",
+    "summary": "Article URL: https://llmcheck.app/ai-ask-buttons/\nComments URL: https://news.ycombinator.com/item?id=49489761\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "loudsilence",
+      "language": null
+    }
+  },
+  {
+    "id": "83b697aa-5f06-4400-b2c9-910122b7cb51",
+    "title": "7th Circuit Rules AI-Generated CSAM Is Protected Speach",
+    "source_url": "https://media.ca7.uscourts.gov/cgi-bin/OpinionsWeb/processWebInputExternal.pl?Submit=Display&Path=Y2026/D08-25/C:25-1354:J:Lee:aut:T:fnOp:N:3597567:S:0",
+    "source": "hacker_news",
+    "collected_at": "2026-08-29T13:36:31.420413+00:00",
+    "analyzed_at": "2026-08-29T13:36:31.420413+00:00",
+    "summary": "Article URL: https://media.ca7.uscourts.gov/cgi-bin/OpinionsWeb/processWebInputExternal.pl?Submit=Display&amp;Path=Y2026/D08-25/C:25-1354:J:Lee:aut:T:fnOp:N:3597567:S:0\nComments URL: https://news.ycom",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "piker",
+      "language": null
+    }
+  },
+  {
+    "id": "d0615906-5f93-48aa-8faf-1dae7477c60d",
+    "title": "My answer to AI burnout: more AI (but context is king)",
+    "source_url": "https://sycdan.wordpress.com/2026/08/29/my-answer-to-ai-burnout-more-ai-but-context-is-king/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-29T13:36:32.629121+00:00",
+    "analyzed_at": "2026-08-29T13:36:32.629121+00:00",
+    "summary": "Article URL: https://sycdan.wordpress.com/2026/08/29/my-answer-to-ai-burnout-more-ai-but-context-is-king/\nComments URL: https://news.ycombinator.com/item?id=49489549\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "sycdan",
+      "language": null
+    }
+  },
+  {
+    "id": "8b982538-995c-4b39-8fec-b1a4bd086448",
+    "title": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
+    "source_url": "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html",
+    "source": "hacker_news",
+    "collected_at": "2026-08-29T13:36:33.815704+00:00",
+    "analyzed_at": "2026-08-29T13:36:33.815704+00:00",
+    "summary": "Article URL: https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html\nComments URL: https://news.ycombinator.com/item?id=49489481\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "1vuio0pswjnm7",
+      "language": null
+    }
+  },
+  {
+    "id": "381fce07-dc64-4da0-b1ec-5fe624af5abe",
+    "title": "AI Hallucination Cases Database",
+    "source_url": "https://www.damiencharlotin.com/hallucinations/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-29T13:36:35.006579+00:00",
+    "analyzed_at": "2026-08-29T13:36:35.006579+00:00",
+    "summary": "Article URL: https://www.damiencharlotin.com/hallucinations/\nComments URL: https://news.ycombinator.com/item?id=49489219\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Tomte",
+      "language": null
+    }
+  },
+  {
+    "id": "db616302-0b46-4620-ae5c-7a780d16127e",
+    "title": "Show HN: Toolchestrator – make local, AI-built tools usable by your team",
+    "source_url": "https://toolchestrator.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-29T13:36:36.215300+00:00",
+    "analyzed_at": "2026-08-29T13:36:36.215300+00:00",
+    "summary": "Article URL: https://toolchestrator.com/\nComments URL: https://news.ycombinator.com/item?id=49489072\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "kstedev",
+      "language": null
+    }
+  },
+  {
+    "id": "53af958c-cd42-45c8-98d1-67853a59d787",
+    "title": "Did AI write this? It's getting harder to tell",
+    "source_url": "https://www.ft.com/content/f100c90b-c138-4125-aaa7-853b77690db9",
+    "source": "hacker_news",
+    "collected_at": "2026-08-29T13:36:37.425319+00:00",
+    "analyzed_at": "2026-08-29T13:36:37.425319+00:00",
+    "summary": "Article URL: https://www.ft.com/content/f100c90b-c138-4125-aaa7-853b77690db9\nComments URL: https://news.ycombinator.com/item?id=49488866\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "cs702",
+      "language": null
+    }
+  },
+  {
+    "id": "9de0110f-a969-453f-a532-7b6a2ba69ba4",
+    "title": "Make AI Companies Criminally Liable for Preventable Harm",
+    "source_url": "https://www.techpolicy.press/make-ai-companies-criminally-liable-for-preventable-harm/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-29T13:36:38.620813+00:00",
+    "analyzed_at": "2026-08-29T13:36:38.620813+00:00",
+    "summary": "Article URL: https://www.techpolicy.press/make-ai-companies-criminally-liable-for-preventable-harm/\nComments URL: https://news.ycombinator.com/item?id=49488608\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "DeepLogin",
+      "language": null
+    }
+  },
+  {
+    "id": "1bd9ed9c-2a35-4d63-9508-af6f81589cdd",
+    "title": "Debian AI vote: Option 5 \"Responsible use of GenAI\" won",
+    "source_url": "https://www.debian.org/vote/2026/vote_002#texte",
+    "source": "hacker_news",
+    "collected_at": "2026-08-29T13:36:39.836383+00:00",
+    "analyzed_at": "2026-08-29T13:36:39.836383+00:00",
+    "summary": "Article URL: https://www.debian.org/vote/2026/vote_002#texte\nComments URL: https://news.ycombinator.com/item?id=49488522\nPoints: 4\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "flaburgan",
+      "language": null
+    }
+  },
+  {
+    "id": "ef7419d2-ddf0-492c-b14a-556a30f581b3",
+    "title": "Show HN: The UI AI-Slop game. No one can resist 5 minutes",
+    "source_url": "https://ai-rush.lol/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-29T13:36:41.028021+00:00",
+    "analyzed_at": "2026-08-29T13:36:41.028021+00:00",
+    "summary": "I turned AI slop into a UI game\n\nComments URL: https://news.ycombinator.com/item?id=49488507\nPoints: 1\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "federicoTXTS",
+      "language": null
+    }
+  },
+  {
+    "id": "d291e657-33da-47e1-8581-c4fe9a63a0da",
+    "title": "Hypothetical Paintings and Why AI-Generated Art Can Feel Soulless",
+    "source_url": "https://decodingvibes.com/blog/3-hypothetical-paintings-and-why-ai-generated-art-can-feel-soulless/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-29T13:36:42.239385+00:00",
+    "analyzed_at": "2026-08-29T13:36:42.239385+00:00",
+    "summary": "Article URL: https://decodingvibes.com/blog/3-hypothetical-paintings-and-why-ai-generated-art-can-feel-soulless/\nComments URL: https://news.ycombinator.com/item?id=49488423\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "altmanaltman",
+      "language": null
+    }
+  },
+  {
+    "id": "120b4351-23e7-4f96-87f9-76fdced70832",
+    "title": "A Collectivist, Economic Vision for AI",
+    "source_url": "https://cacm.acm.org/research/a-collectivist-economic-vision-for-ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-29T13:36:43.433219+00:00",
+    "analyzed_at": "2026-08-29T13:36:43.433219+00:00",
+    "summary": "Article URL: https://cacm.acm.org/research/a-collectivist-economic-vision-for-ai/\nComments URL: https://news.ycombinator.com/item?id=49488356\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "visha1v",
+      "language": null
+    }
+  },
+  {
+    "id": "23a6220a-b315-462a-ab47-ec43083a28fb",
+    "title": "We Ran Code Inside Fortune 500s Using Files They Published for AI Agents",
+    "source_url": "https://medium.com/@alonhertz1/data-became-code-we-ran-code-inside-fortune-500s-using-files-they-published-for-ai-agents-0cd67ffbbffc",
+    "source": "hacker_news",
+    "collected_at": "2026-08-29T13:36:44.644578+00:00",
+    "analyzed_at": "2026-08-29T13:36:44.644578+00:00",
+    "summary": "Article URL: https://medium.com/@alonhertz1/data-became-code-we-ran-code-inside-fortune-500s-using-files-they-published-for-ai-agents-0cd67ffbbffc\nComments URL: https://news.ycombinator.com/item?id=49",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "nizbit",
+      "language": null
+    }
+  },
+  {
+    "id": "d84fe53f-4400-4260-8135-3964231b50fb",
+    "title": "Show HN: AgentBridge – Let one AI think while another AI writes the code",
+    "source_url": "https://github.com/IndexFlowing/AgentBridge",
+    "source": "hacker_news",
+    "collected_at": "2026-08-29T13:36:45.839365+00:00",
+    "analyzed_at": "2026-08-29T13:36:45.839365+00:00",
+    "summary": "Article URL: https://github.com/IndexFlowing/AgentBridge\nComments URL: https://news.ycombinator.com/item?id=49488074\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mandarinclips",
+      "language": null
+    }
+  },
+  {
+    "id": "1104f9ba-0029-4154-9cf7-be0619aaa7b5",
+    "title": "Some GitHub bounty repos are honeypots that farm free work from AI agents",
+    "source_url": "https://oactodev.github.io/ninety-quid/report/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-29T13:36:47.032650+00:00",
+    "analyzed_at": "2026-08-29T13:36:47.032650+00:00",
+    "summary": "Article URL: https://oactodev.github.io/ninety-quid/report/\nComments URL: https://news.ycombinator.com/item?id=49488042\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ninetyquid",
+      "language": null
+    }
+  }
+]
