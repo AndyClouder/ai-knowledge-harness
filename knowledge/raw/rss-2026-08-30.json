@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-08-30T13:31:25.652620+00:00",
+  "items": [
+    {
+      "name": "Judge rule AI-generated child sex abuse material is protected by First Amendment",
+      "url": "https://reason.com/volokh/2026/08/27/home-possession-of-ai-generated-porn-depicting-fake-children-remains-constitutionally-protected-seventh-circuit-rules/",
+      "summary": "Article URL: https://reason.com/volokh/2026/08/27/home-possession-of-ai-generated-porn-depicting-fake-children-remains-constitutionally-protected-seventh-circuit-rules/\nComments URL: https://news.ycom",
+      "source": "hacker_news",
+      "score": null,
+      "author": "DeepLogin",
+      "published": "Sun, 30 Aug 2026 13:15:33 +0000"
+    },
+    {
+      "name": "90 days of attacks on AI infrastructure",
+      "url": "https://www.wiz.io/blog/ai-infrastructure-honeypot",
+      "summary": "Article URL: https://www.wiz.io/blog/ai-infrastructure-honeypot\nComments URL: https://news.ycombinator.com/item?id=49498326\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "coder-pm",
+      "published": "Sun, 30 Aug 2026 13:08:58 +0000"
+    },
+    {
+      "name": "No AI Fridays",
+      "url": "https://noaifridays.com/",
+      "summary": "Article URL: https://noaifridays.com/\nComments URL: https://news.ycombinator.com/item?id=49498095\nPoints: 3\n# Comments: 3",
+      "source": "hacker_news",
+      "score": null,
+      "author": "xendo",
+      "published": "Sun, 30 Aug 2026 12:31:05 +0000"
+    },
+    {
+      "name": "Idlen: Ads in the IDE, in AI chats, and a self-serve ads manager",
+      "url": "https://www.idlen.io/",
+      "summary": "Article URL: https://www.idlen.io/\nComments URL: https://news.ycombinator.com/item?id=49497926\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "paulidenfounder",
+      "published": "Sun, 30 Aug 2026 12:02:08 +0000"
+    },
+    {
+      "name": "Show HN: 1endpoint – Cheaper access to AI models",
+      "url": "https://1endpoint.dev",
+      "summary": "1endpoint is a unified AI inference gateway. We support OpenAI Chat Completions, Responses API and Anthropic Messages, so existing tools and agents can usually point to 1endpoint without changing much",
+      "source": "hacker_news",
+      "score": null,
+      "author": "DustinPham12",
+      "published": "Sun, 30 Aug 2026 11:13:32 +0000"
+    },
+    {
+      "name": "Show HN: Get your free AI search visibility scan",
+      "url": "https://www.visiscan.app",
+      "summary": "Article URL: https://www.visiscan.app\nComments URL: https://news.ycombinator.com/item?id=49497538\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "not_wowinter14",
+      "published": "Sun, 30 Aug 2026 10:50:35 +0000"
+    },
+    {
+      "name": "Only believe what you can validate: a verification framework for agentic AI",
+      "url": "https://devblogs.microsoft.com/all-things-azure/only-believe-what-you-can-validate/",
+      "summary": "Article URL: https://devblogs.microsoft.com/all-things-azure/only-believe-what-you-can-validate/\nComments URL: https://news.ycombinator.com/item?id=49497440\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "yani__",
+      "published": "Sun, 30 Aug 2026 10:36:16 +0000"
+    },
+    {
+      "name": "VibeGuard – security linter for AI-generated code",
+      "url": "https://github.com/zeroFhacker/vibeguard",
+      "summary": "Article URL: https://github.com/zeroFhacker/vibeguard\nComments URL: https://news.ycombinator.com/item?id=49497389\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "obadafid",
+      "published": "Sun, 30 Aug 2026 10:26:10 +0000"
+    },
+    {
+      "name": "Observations Around Prominent Programmer Sentiment and AI",
+      "url": "https://blog.g9n.com/observations-around-prominent-programmer-sentiment-and-ai",
+      "summary": "Article URL: https://blog.g9n.com/observations-around-prominent-programmer-sentiment-and-ai\nComments URL: https://news.ycombinator.com/item?id=49497358\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "gb2d_hn",
+      "published": "Sun, 30 Aug 2026 10:20:20 +0000"
+    },
+    {
+      "name": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+      "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+      "summary": "Article URL: https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766\nComments URL: https://news.ycombinator.com/item?id=49497357\nPoints: 35\n# Comments: 11",
+      "source": "hacker_news",
+      "score": null,
+      "author": "martyvis",
+      "published": "Sun, 30 Aug 2026 10:20:11 +0000"
+    },
+    {
+      "name": "What We Tell AI",
+      "url": "https://www.whatwetellai.com/",
+      "summary": "Article URL: https://www.whatwetellai.com/\nComments URL: https://news.ycombinator.com/item?id=49497334\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "thm",
+      "published": "Sun, 30 Aug 2026 10:16:14 +0000"
+    },
+    {
+      "name": "We built this after an AI agent misread a risk signal and moved $1.2M in trades",
+      "url": "https://runplane.ai",
+      "summary": "Article URL: https://runplane.ai\nComments URL: https://news.ycombinator.com/item?id=49497238\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "runplane",
+      "published": "Sun, 30 Aug 2026 09:57:59 +0000"
+    },
+    {
+      "name": "Nvidia's AI advantage is moving beyond the GPU",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "summary": "Article URL: https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/\nComments URL: https://news.ycombinator.com/item?id=49497235\nPoints: 12\n# Comments: 6",
+      "source": "hacker_news",
+      "score": null,
+      "author": "01-_-",
+      "published": "Sun, 30 Aug 2026 09:57:06 +0000"
+    },
+    {
+      "name": "Workers in their 40s, 50s and 60s are the most positive about AI",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-27/older-workers-are-more-upbeat-about-ai-than-20-somethings",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-27/older-workers-are-more-upbeat-about-ai-than-20-somethings\nComments URL: https://news.ycombinator.com/item?id=49497225\nPoints: 3\n# Commen",
+      "source": "hacker_news",
+      "score": null,
+      "author": "giuliomagnifico",
+      "published": "Sun, 30 Aug 2026 09:55:58 +0000"
+    },
+    {
+      "name": "The AI Delegation Audit Webinar, October 6, 2026",
+      "url": "https://berlin-product-people.com/ai-delegation-audit-webinar/",
+      "summary": "Article URL: https://berlin-product-people.com/ai-delegation-audit-webinar/\nComments URL: https://news.ycombinator.com/item?id=49496964\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "swolpers",
+      "published": "Sun, 30 Aug 2026 09:01:13 +0000"
+    },
+    {
+      "name": "AI Effect",
+      "url": "https://en.wikipedia.org/wiki/AI_effect",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/AI_effect\nComments URL: https://news.ycombinator.com/item?id=49496822\nPoints: 4\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "o4c",
+      "published": "Sun, 30 Aug 2026 08:32:36 +0000"
+    },
+    {
+      "name": "Google's Dreambeans, weirdest-named AI tool, will turn your life to a cartoon",
+      "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+      "summary": "Article URL: https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/\nComments URL: https://news.ycombinator.com/item?id=49496694\nPoi",
+      "source": "hacker_news",
+      "score": null,
+      "author": "the-mitr",
+      "published": "Sun, 30 Aug 2026 08:04:11 +0000"
+    },
+    {
+      "name": "Show HN: Photo Manager That Find and Organize Screenshots with Private, Local AI",
+      "url": "https://ringlochid.me/imagesage/index.html",
+      "summary": "Article URL: https://ringlochid.me/imagesage/index.html\nComments URL: https://news.ycombinator.com/item?id=49496500\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ringlochid",
+      "published": "Sun, 30 Aug 2026 07:28:44 +0000"
+    },
+    {
+      "name": "Hotline for AI Agents to Report Safety Incidents",
+      "url": "https://agenthotline.ai/",
+      "summary": "Article URL: https://agenthotline.ai/\nComments URL: https://news.ycombinator.com/item?id=49496388\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "unyxfly",
+      "published": "Sun, 30 Aug 2026 07:11:44 +0000"
+    },
+    {
+      "name": "How AI Is Reshaping Pediatric Imaging",
+      "url": "https://www.childrenshospitals.org/news/childrens-hospitals-today/2026/08/how-ai-is-reshaping-pediatric-imaging",
+      "summary": "Article URL: https://www.childrenshospitals.org/news/childrens-hospitals-today/2026/08/how-ai-is-reshaping-pediatric-imaging\nComments URL: https://news.ycombinator.com/item?id=49496372\nPoints: 2\n# Com",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ryzvonusef",
+      "published": "Sun, 30 Aug 2026 07:07:53 +0000"
+    }
+  ]
+}

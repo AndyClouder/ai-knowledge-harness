@@ -1,0 +1,114 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-08-30T13:30:17.486087+00:00",
+  "items": [
+    {
+      "name": "kacperkapusciak/goldie",
+      "url": "https://github.com/kacperkapusciak/goldie",
+      "summary": "✨ agentic app store previews and screenshots",
+      "stars": 574,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "cbrock84/headcount",
+      "url": "https://github.com/cbrock84/headcount",
+      "summary": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
+      "stars": 514,
+      "language": "Markdown",
+      "topics": [
+        "agent-marketplace",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-plugin",
+        "claude-skills",
+        "mcp"
+      ]
+    },
+    {
+      "name": "OnlyTerp/opengrok",
+      "url": "https://github.com/OnlyTerp/opengrok",
+      "summary": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
+      "stars": 378,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "grok",
+        "llm",
+        "model-router",
+        "openai-compatible",
+        "windows"
+      ]
+    },
+    {
+      "name": "leopard627/fire-your-seo-agency",
+      "url": "https://github.com/leopard627/fire-your-seo-agency",
+      "summary": "Fire your SEO·GEO agency 🔥 A Claude Code skill that audits and optimizes SEO·AEO·GEO·LLMO·NEO(Naver) by itself — 월 50~350만 원짜리 'AI 검색 최적화' 대행, AI 에이전트가 대체합니다",
+      "stars": 346,
+      "language": null,
+      "topics": [
+        "aeo",
+        "ai-search",
+        "claude-code",
+        "claude-skills",
+        "geo",
+        "llmo",
+        "llms-txt",
+        "naver",
+        "seo"
+      ]
+    },
+    {
+      "name": "ruoyuw22-byte/NeuroMorph-Assessment",
+      "url": "https://github.com/ruoyuw22-byte/NeuroMorph-Assessment",
+      "summary": "An automated structural MRI morphometry system integrating CAT12 processing, brain tissue quantification, visualization, and automated report generation.",
+      "stars": 343,
+      "language": "Python",
+      "topics": [
+        "brain-imaging",
+        "brain-morphometry",
+        "brain-mri",
+        "cat12",
+        "desktop-application",
+        "image-analysis",
+        "medical-imaging",
+        "mri",
+        "neuroimaging",
+        "neuroinformatics",
+        "python",
+        "spm12"
+      ]
+    },
+    {
+      "name": "KKKKhazix/sun-style-writing",
+      "url": "https://github.com/KKKKhazix/sun-style-writing",
+      "summary": "从孙割19年白月光的痛彻心扉中蒸馏出来的无上心法",
+      "stars": 334,
+      "language": null,
+      "topics": [
+        "agent-skills",
+        "chinese-writing",
+        "claude-code",
+        "codex",
+        "literary-writing",
+        "prompt-engineering",
+        "writing"
+      ]
+    },
+    {
+      "name": "hkqr/my-free-code",
+      "url": "https://github.com/hkqr/my-free-code",
+      "summary": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
+      "stars": 312,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "claude-code",
+        "free-claude-api",
+        "multi-provider",
+        "multi-provider-llm"
+      ]
+    }
+  ]
+}

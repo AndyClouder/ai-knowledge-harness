@@ -1,0 +1,422 @@
+[
+  {
+    "id": "7330ed84-05c9-4021-8b7e-ac67ce0a9f2e",
+    "title": "kacperkapusciak/goldie",
+    "source_url": "https://github.com/kacperkapusciak/goldie",
+    "source": "unknown",
+    "collected_at": "2026-08-30T13:31:27.364097+00:00",
+    "analyzed_at": "2026-08-30T13:31:27.364097+00:00",
+    "summary": "✨ agentic app store previews and screenshots",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 574,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "c136a3cf-06f1-45e6-b417-a9e2543b8d91",
+    "title": "cbrock84/headcount",
+    "source_url": "https://github.com/cbrock84/headcount",
+    "source": "unknown",
+    "collected_at": "2026-08-30T13:31:28.598173+00:00",
+    "analyzed_at": "2026-08-30T13:31:28.598173+00:00",
+    "summary": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 514,
+      "score": null,
+      "author": null,
+      "language": "Markdown"
+    }
+  },
+  {
+    "id": "74ea7803-2800-4b0a-8a86-2d45c40a17bf",
+    "title": "OnlyTerp/opengrok",
+    "source_url": "https://github.com/OnlyTerp/opengrok",
+    "source": "unknown",
+    "collected_at": "2026-08-30T13:31:30.073754+00:00",
+    "analyzed_at": "2026-08-30T13:31:30.073754+00:00",
+    "summary": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 378,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "58271e0f-de5b-41d7-87dc-d1a5ecb0d480",
+    "title": "leopard627/fire-your-seo-agency",
+    "source_url": "https://github.com/leopard627/fire-your-seo-agency",
+    "source": "unknown",
+    "collected_at": "2026-08-30T13:31:31.322130+00:00",
+    "analyzed_at": "2026-08-30T13:31:31.322130+00:00",
+    "summary": "Fire your SEO·GEO agency 🔥 A Claude Code skill that audits and optimizes SEO·AEO·GEO·LLMO·NEO(Naver) by itself — 월 50~350만 원짜리 'AI 검색 최적화' 대행, AI 에이전트가 대체합니다",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 346,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "d533d3f2-3673-4729-90c4-5bcf6d0ad8f0",
+    "title": "ruoyuw22-byte/NeuroMorph-Assessment",
+    "source_url": "https://github.com/ruoyuw22-byte/NeuroMorph-Assessment",
+    "source": "unknown",
+    "collected_at": "2026-08-30T13:31:32.568065+00:00",
+    "analyzed_at": "2026-08-30T13:31:32.568065+00:00",
+    "summary": "An automated structural MRI morphometry system integrating CAT12 processing, brain tissue quantification, visualization, and automated report generation.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 343,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "6d380f97-66e6-4814-923f-ae4480bf3981",
+    "title": "KKKKhazix/sun-style-writing",
+    "source_url": "https://github.com/KKKKhazix/sun-style-writing",
+    "source": "unknown",
+    "collected_at": "2026-08-30T13:31:33.815640+00:00",
+    "analyzed_at": "2026-08-30T13:31:33.815640+00:00",
+    "summary": "从孙割19年白月光的痛彻心扉中蒸馏出来的无上心法",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 334,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "b475b748-1279-4afd-98d3-d98d5eaa53b3",
+    "title": "hkqr/my-free-code",
+    "source_url": "https://github.com/hkqr/my-free-code",
+    "source": "unknown",
+    "collected_at": "2026-08-30T13:31:35.062679+00:00",
+    "analyzed_at": "2026-08-30T13:31:35.062679+00:00",
+    "summary": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 312,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "de5bbbcf-6688-459d-bb47-4fc042a6968a",
+    "title": "Judge rule AI-generated child sex abuse material is protected by First Amendment",
+    "source_url": "https://reason.com/volokh/2026/08/27/home-possession-of-ai-generated-porn-depicting-fake-children-remains-constitutionally-protected-seventh-circuit-rules/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-30T13:31:36.308307+00:00",
+    "analyzed_at": "2026-08-30T13:31:36.308307+00:00",
+    "summary": "Article URL: https://reason.com/volokh/2026/08/27/home-possession-of-ai-generated-porn-depicting-fake-children-remains-constitutionally-protected-seventh-circuit-rules/\nComments URL: https://news.ycom",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "DeepLogin",
+      "language": null
+    }
+  },
+  {
+    "id": "73a2eed0-260b-44ce-ad65-79394ec17a6c",
+    "title": "90 days of attacks on AI infrastructure",
+    "source_url": "https://www.wiz.io/blog/ai-infrastructure-honeypot",
+    "source": "hacker_news",
+    "collected_at": "2026-08-30T13:31:37.554650+00:00",
+    "analyzed_at": "2026-08-30T13:31:37.554650+00:00",
+    "summary": "Article URL: https://www.wiz.io/blog/ai-infrastructure-honeypot\nComments URL: https://news.ycombinator.com/item?id=49498326\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "coder-pm",
+      "language": null
+    }
+  },
+  {
+    "id": "4b49c0c8-5b67-4734-ab34-087d46d370c0",
+    "title": "No AI Fridays",
+    "source_url": "https://noaifridays.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-30T13:31:38.800154+00:00",
+    "analyzed_at": "2026-08-30T13:31:38.800154+00:00",
+    "summary": "Article URL: https://noaifridays.com/\nComments URL: https://news.ycombinator.com/item?id=49498095\nPoints: 3\n# Comments: 3",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "xendo",
+      "language": null
+    }
+  },
+  {
+    "id": "a3a907e1-b179-48db-83aa-a7d09e046517",
+    "title": "Idlen: Ads in the IDE, in AI chats, and a self-serve ads manager",
+    "source_url": "https://www.idlen.io/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-30T13:31:40.046358+00:00",
+    "analyzed_at": "2026-08-30T13:31:40.046358+00:00",
+    "summary": "Article URL: https://www.idlen.io/\nComments URL: https://news.ycombinator.com/item?id=49497926\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "paulidenfounder",
+      "language": null
+    }
+  },
+  {
+    "id": "68f8f2fe-e1bd-4ac0-a5c9-b7792fde8196",
+    "title": "Show HN: 1endpoint – Cheaper access to AI models",
+    "source_url": "https://1endpoint.dev",
+    "source": "hacker_news",
+    "collected_at": "2026-08-30T13:31:41.325986+00:00",
+    "analyzed_at": "2026-08-30T13:31:41.325986+00:00",
+    "summary": "1endpoint is a unified AI inference gateway. We support OpenAI Chat Completions, Responses API and Anthropic Messages, so existing tools and agents can usually point to 1endpoint without changing much",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "DustinPham12",
+      "language": null
+    }
+  },
+  {
+    "id": "c21e96bc-1d10-4af9-8670-e0ec571513fa",
+    "title": "Show HN: Get your free AI search visibility scan",
+    "source_url": "https://www.visiscan.app",
+    "source": "hacker_news",
+    "collected_at": "2026-08-30T13:31:42.571884+00:00",
+    "analyzed_at": "2026-08-30T13:31:42.571884+00:00",
+    "summary": "Article URL: https://www.visiscan.app\nComments URL: https://news.ycombinator.com/item?id=49497538\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "not_wowinter14",
+      "language": null
+    }
+  },
+  {
+    "id": "1c1bb31f-d1b5-4776-8330-be06bec5102c",
+    "title": "Only believe what you can validate: a verification framework for agentic AI",
+    "source_url": "https://devblogs.microsoft.com/all-things-azure/only-believe-what-you-can-validate/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-30T13:31:43.823451+00:00",
+    "analyzed_at": "2026-08-30T13:31:43.823451+00:00",
+    "summary": "Article URL: https://devblogs.microsoft.com/all-things-azure/only-believe-what-you-can-validate/\nComments URL: https://news.ycombinator.com/item?id=49497440\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "yani__",
+      "language": null
+    }
+  },
+  {
+    "id": "f6f4aefe-dc7c-4c07-8094-5e56206503f4",
+    "title": "VibeGuard – security linter for AI-generated code",
+    "source_url": "https://github.com/zeroFhacker/vibeguard",
+    "source": "hacker_news",
+    "collected_at": "2026-08-30T13:31:45.070097+00:00",
+    "analyzed_at": "2026-08-30T13:31:45.070097+00:00",
+    "summary": "Article URL: https://github.com/zeroFhacker/vibeguard\nComments URL: https://news.ycombinator.com/item?id=49497389\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "obadafid",
+      "language": null
+    }
+  },
+  {
+    "id": "39650b08-481b-4b3a-be3a-7426283b3640",
+    "title": "Observations Around Prominent Programmer Sentiment and AI",
+    "source_url": "https://blog.g9n.com/observations-around-prominent-programmer-sentiment-and-ai",
+    "source": "hacker_news",
+    "collected_at": "2026-08-30T13:31:46.316329+00:00",
+    "analyzed_at": "2026-08-30T13:31:46.316329+00:00",
+    "summary": "Article URL: https://blog.g9n.com/observations-around-prominent-programmer-sentiment-and-ai\nComments URL: https://news.ycombinator.com/item?id=49497358\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "gb2d_hn",
+      "language": null
+    }
+  },
+  {
+    "id": "b625bd00-259a-4ad9-bf7f-9dfeb25be6bf",
+    "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+    "source_url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+    "source": "hacker_news",
+    "collected_at": "2026-08-30T13:31:47.561542+00:00",
+    "analyzed_at": "2026-08-30T13:31:47.561542+00:00",
+    "summary": "Article URL: https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766\nComments URL: https://news.ycombinator.com/item?id=49497357\nPoints: 35\n# Comments: 11",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "martyvis",
+      "language": null
+    }
+  },
+  {
+    "id": "dc959cc2-1a5b-45dd-b87f-2ff4f06f47d9",
+    "title": "What We Tell AI",
+    "source_url": "https://www.whatwetellai.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-30T13:31:48.807149+00:00",
+    "analyzed_at": "2026-08-30T13:31:48.807149+00:00",
+    "summary": "Article URL: https://www.whatwetellai.com/\nComments URL: https://news.ycombinator.com/item?id=49497334\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "thm",
+      "language": null
+    }
+  },
+  {
+    "id": "91851d7b-4423-461e-a550-adabc90d6f5c",
+    "title": "We built this after an AI agent misread a risk signal and moved $1.2M in trades",
+    "source_url": "https://runplane.ai",
+    "source": "hacker_news",
+    "collected_at": "2026-08-30T13:31:50.065373+00:00",
+    "analyzed_at": "2026-08-30T13:31:50.065373+00:00",
+    "summary": "Article URL: https://runplane.ai\nComments URL: https://news.ycombinator.com/item?id=49497238\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "runplane",
+      "language": null
+    }
+  },
+  {
+    "id": "2cfbb210-9ed0-4929-a07e-39de14b1fce3",
+    "title": "Nvidia's AI advantage is moving beyond the GPU",
+    "source_url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-30T13:31:51.311678+00:00",
+    "analyzed_at": "2026-08-30T13:31:51.311678+00:00",
+    "summary": "Article URL: https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/\nComments URL: https://news.ycombinator.com/item?id=49497235\nPoints: 12\n# Comments: 6",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "01-_-",
+      "language": null
+    }
+  }
+]
