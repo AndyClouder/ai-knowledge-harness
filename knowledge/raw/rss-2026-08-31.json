@@ -1,0 +1,178 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-08-31T15:49:04.120684+00:00",
+  "items": [
+    {
+      "name": "OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk",
+      "url": "https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/",
+      "summary": "Article URL: https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/\nComments URL: https://news.ycombinator.com/item?id=49511084\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "benkan",
+      "published": "Mon, 31 Aug 2026 15:40:40 +0000"
+    },
+    {
+      "name": "Americans Aren't Sold on Businesses Using AI in Advertising",
+      "url": "https://news.gallup.com/poll/713222/americans-aren-sold-businesses-using-advertising.aspx",
+      "summary": "Article URL: https://news.gallup.com/poll/713222/americans-aren-sold-businesses-using-advertising.aspx\nComments URL: https://news.ycombinator.com/item?id=49511066\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "hn_acker",
+      "published": "Mon, 31 Aug 2026 15:38:43 +0000"
+    },
+    {
+      "name": "Show HN: Manner – Developers create AI clones that clients can hire",
+      "url": "https://manner.run/",
+      "summary": "Article URL: https://manner.run/\nComments URL: https://news.ycombinator.com/item?id=49511046\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "sanasar737",
+      "published": "Mon, 31 Aug 2026 15:37:02 +0000"
+    },
+    {
+      "name": "Show HN: My AI spent $15 on a test order, so I built a payment guardrail",
+      "url": "https://github.com/felixpg13-glitch/spendshield",
+      "summary": "Article URL: https://github.com/felixpg13-glitch/spendshield\nComments URL: https://news.ycombinator.com/item?id=49511045\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "felixpg13",
+      "published": "Mon, 31 Aug 2026 15:37:00 +0000"
+    },
+    {
+      "name": "Launch HN: Almanac (YC S26) – AI that knows your company",
+      "url": "https://usealmanac.com/",
+      "summary": "Hi HN, I'm Kushagra, one of three founders of Almanac, a Hermes with a brain that knows everything about your company.We started our journey with setting up Hermes for our company, thinking it must be",
+      "source": "hacker_news",
+      "score": null,
+      "author": "kushagrchitkar",
+      "published": "Mon, 31 Aug 2026 15:34:34 +0000"
+    },
+    {
+      "name": "AI PCB Design with KiCAD and open tooling",
+      "url": "https://mouro.ai/blog/pcb-design-with-ai/",
+      "summary": "Article URL: https://mouro.ai/blog/pcb-design-with-ai/\nComments URL: https://news.ycombinator.com/item?id=49510782\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ramalamadingdo",
+      "published": "Mon, 31 Aug 2026 15:14:44 +0000"
+    },
+    {
+      "name": "Show HN: Preview Postgres writes from AI agents with xmin checks (pg-dry-run)",
+      "url": "https://github.com/polycore/pg-dry-run",
+      "summary": "Article URL: https://github.com/polycore/pg-dry-run\nComments URL: https://news.ycombinator.com/item?id=49510746\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "anarkafkas",
+      "published": "Mon, 31 Aug 2026 15:11:42 +0000"
+    },
+    {
+      "name": "Edit and present slides in Markdown with AI",
+      "url": "https://kordikp.github.io/slaidy/",
+      "summary": "Article URL: https://kordikp.github.io/slaidy/\nComments URL: https://news.ycombinator.com/item?id=49510719\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "kordikp",
+      "published": "Mon, 31 Aug 2026 15:09:57 +0000"
+    },
+    {
+      "name": "Australia risks missing out on AI economic boom due to 'slow' business uptake",
+      "url": "https://www.abc.net.au/news/2026-08-31/ai-could-boost-australias-economy-treasury-flag-slow-uptake/107099934",
+      "summary": "Article URL: https://www.abc.net.au/news/2026-08-31/ai-could-boost-australias-economy-treasury-flag-slow-uptake/107099934\nComments URL: https://news.ycombinator.com/item?id=49510652\nPoints: 2\n# Commen",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ern",
+      "published": "Mon, 31 Aug 2026 15:04:29 +0000"
+    },
+    {
+      "name": "AI ruined some of my most precious accessibility tools",
+      "url": "https://straye.dgirl.gay/blog/2026/ai-ruined-accessibility/",
+      "summary": "Article URL: https://straye.dgirl.gay/blog/2026/ai-ruined-accessibility/\nComments URL: https://news.ycombinator.com/item?id=49510570\nPoints: 4\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "speckx",
+      "published": "Mon, 31 Aug 2026 14:57:04 +0000"
+    },
+    {
+      "name": "Show HN: What Happens When You Give Your AI Agents a Voice and an Attitude",
+      "url": "https://fellowgeek.github.io/mcp-speak/",
+      "summary": "Article URL: https://fellowgeek.github.io/mcp-speak/\nComments URL: https://news.ycombinator.com/item?id=49510547\nPoints: 3\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pcbmaker20",
+      "published": "Mon, 31 Aug 2026 14:55:08 +0000"
+    },
+    {
+      "name": "AI startup TrustedRouter raises $1.25M",
+      "url": "https://www.axios.com/2026/08/31/exclusive-ai-startup-trustedrouter-raises-125-million",
+      "summary": "Article URL: https://www.axios.com/2026/08/31/exclusive-ai-startup-trustedrouter-raises-125-million\nComments URL: https://news.ycombinator.com/item?id=49510298\nPoints: 4\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ljlolel",
+      "published": "Mon, 31 Aug 2026 14:35:49 +0000"
+    },
+    {
+      "name": "Show HN: AI startup TrustedRouter raises $1.25M",
+      "url": "https://news.ycombinator.com/item?id=49510283",
+      "summary": "https://www.axios.com/2026/08/31/exclusive-ai-startup-trustedrouter-raises-125-millionhey everybody, I started trustedrouter.com, which is a really simple way to use AI without needing to give your da",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ljlolel",
+      "published": "Mon, 31 Aug 2026 14:34:37 +0000"
+    },
+    {
+      "name": "OpenAI Engineers Are Shipping AI-Generated Kernels They Don't Understand",
+      "url": "https://twitter.com/firesidealpha/status/2093860831595499892",
+      "summary": "Article URL: https://twitter.com/firesidealpha/status/2093860831595499892\nComments URL: https://news.ycombinator.com/item?id=49510192\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "wertyk",
+      "published": "Mon, 31 Aug 2026 14:27:00 +0000"
+    },
+    {
+      "name": "Ask HN: What's the Best AI Setup?",
+      "url": "https://news.ycombinator.com/item?id=49510169",
+      "summary": "People who run AI agents in some kind of advanced way can you share your settings? With things moving so fast I've been a bit out of touch\n\nComments URL: https://news.ycombinator.com/item?id=49510169\n",
+      "source": "hacker_news",
+      "score": null,
+      "author": "yernarak",
+      "published": "Mon, 31 Aug 2026 14:23:53 +0000"
+    },
+    {
+      "name": "EngineRed: Asymmetric AI Warfare",
+      "url": "https://sma-das.blog/blogs/enginered-asymmetric-ai-warfare",
+      "summary": "Article URL: https://sma-das.blog/blogs/enginered-asymmetric-ai-warfare\nComments URL: https://news.ycombinator.com/item?id=49510134\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "sma-das",
+      "published": "Mon, 31 Aug 2026 14:20:32 +0000"
+    },
+    {
+      "name": "Ask HN: What would happen if your company stopped using all AI tomorrow?",
+      "url": "https://news.ycombinator.com/item?id=49510066",
+      "summary": "This is something I’ve been turning over in my head lately. I’m not denying AI is being used everywhere, but I don’t know if it’s actually helping businesses overall. If we shut it all down it seems t",
+      "source": "hacker_news",
+      "score": null,
+      "author": "jc_811",
+      "published": "Mon, 31 Aug 2026 14:14:25 +0000"
+    },
+    {
+      "name": "The New American AI Model Designed to Be Customized",
+      "url": "https://blog.bytebytego.com/p/the-new-american-ai-model-designed",
+      "summary": "Article URL: https://blog.bytebytego.com/p/the-new-american-ai-model-designed\nComments URL: https://news.ycombinator.com/item?id=49510063\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "gmays",
+      "published": "Mon, 31 Aug 2026 14:13:29 +0000"
+    },
+    {
+      "name": "How to Build a Shopify Store Using AI",
+      "url": "https://www.hostiqen.com/2026/08/how-to-build-shopify-store-using-ai.html",
+      "summary": "Article URL: https://www.hostiqen.com/2026/08/how-to-build-shopify-store-using-ai.html\nComments URL: https://news.ycombinator.com/item?id=49510046\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "reviewhub",
+      "published": "Mon, 31 Aug 2026 14:11:15 +0000"
+    }
+  ]
+}

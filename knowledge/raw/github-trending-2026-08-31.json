@@ -1,0 +1,80 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-08-31T15:48:52.609355+00:00",
+  "items": [
+    {
+      "name": "damejan80/tokentab",
+      "url": "https://github.com/damejan80/tokentab",
+      "summary": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "stars": 550,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "claude",
+        "claude-code",
+        "cursor",
+        "python",
+        "token-optimization",
+        "token-usage"
+      ]
+    },
+    {
+      "name": "DavidCarliez/trustmebro",
+      "url": "https://github.com/DavidCarliez/trustmebro",
+      "summary": "Bypass llm guardrails by confusing it with fabricated tool output.",
+      "stars": 340,
+      "language": "Go",
+      "topics": []
+    },
+    {
+      "name": "oboroge0/hayamimi",
+      "url": "https://github.com/oboroge0/hayamimi",
+      "summary": "早耳 - Real-time multilingual speech-to-text on CPU only. Live subtitles, browser dashboard, speaker labels, translation. No GPU, no cloud.",
+      "stars": 317,
+      "language": "Python",
+      "topics": [
+        "asr",
+        "japanese",
+        "multilingual",
+        "real-time",
+        "sherpa-onnx",
+        "speech-recognition",
+        "subtitles"
+      ]
+    },
+    {
+      "name": "saurabhkumar8112/cyclomatic-complexity-skill",
+      "url": "https://github.com/saurabhkumar8112/cyclomatic-complexity-skill",
+      "summary": "Claude skill: refactor code to reduce cyclomatic complexity",
+      "stars": 311,
+      "language": null,
+      "topics": [
+        "agent-skills",
+        "claude",
+        "code-quality",
+        "refactoring"
+      ]
+    },
+    {
+      "name": "S1N6H/pentest-harness",
+      "url": "https://github.com/S1N6H/pentest-harness",
+      "summary": "Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
+      "stars": 308,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "anthropic-api",
+        "bug-bounty",
+        "infosec",
+        "llm",
+        "offensive-security",
+        "open-source",
+        "openai-api",
+        "pentesting",
+        "red-team",
+        "security-tools"
+      ]
+    }
+  ]
+}

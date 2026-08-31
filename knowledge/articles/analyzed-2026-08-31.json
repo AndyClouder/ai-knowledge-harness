@@ -1,0 +1,422 @@
+[
+  {
+    "id": "1491be68-b298-4301-8963-2e4680d6bbb2",
+    "title": "damejan80/tokentab",
+    "source_url": "https://github.com/damejan80/tokentab",
+    "source": "unknown",
+    "collected_at": "2026-08-31T15:49:05.736589+00:00",
+    "analyzed_at": "2026-08-31T15:49:05.736589+00:00",
+    "summary": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 550,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "fb7dda0e-44f1-469e-8dc2-f73e2035598d",
+    "title": "DavidCarliez/trustmebro",
+    "source_url": "https://github.com/DavidCarliez/trustmebro",
+    "source": "unknown",
+    "collected_at": "2026-08-31T15:49:06.972595+00:00",
+    "analyzed_at": "2026-08-31T15:49:06.972595+00:00",
+    "summary": "Bypass llm guardrails by confusing it with fabricated tool output.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 340,
+      "score": null,
+      "author": null,
+      "language": "Go"
+    }
+  },
+  {
+    "id": "16a55bda-f0f3-4524-aa2f-3b8d00849e4d",
+    "title": "oboroge0/hayamimi",
+    "source_url": "https://github.com/oboroge0/hayamimi",
+    "source": "unknown",
+    "collected_at": "2026-08-31T15:49:08.212232+00:00",
+    "analyzed_at": "2026-08-31T15:49:08.212232+00:00",
+    "summary": "早耳 - Real-time multilingual speech-to-text on CPU only. Live subtitles, browser dashboard, speaker labels, translation. No GPU, no cloud.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 317,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "67d67499-68e1-4755-a476-cdbeec2ea3f5",
+    "title": "saurabhkumar8112/cyclomatic-complexity-skill",
+    "source_url": "https://github.com/saurabhkumar8112/cyclomatic-complexity-skill",
+    "source": "unknown",
+    "collected_at": "2026-08-31T15:49:09.445619+00:00",
+    "analyzed_at": "2026-08-31T15:49:09.445619+00:00",
+    "summary": "Claude skill: refactor code to reduce cyclomatic complexity",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 311,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "cb63203e-c543-410c-b7bf-f9e589d296a1",
+    "title": "S1N6H/pentest-harness",
+    "source_url": "https://github.com/S1N6H/pentest-harness",
+    "source": "unknown",
+    "collected_at": "2026-08-31T15:49:10.677303+00:00",
+    "analyzed_at": "2026-08-31T15:49:10.677303+00:00",
+    "summary": "Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 308,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "3f36ac4d-3583-4d49-8f78-b306d937b32d",
+    "title": "OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk",
+    "source_url": "https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-31T15:49:11.894350+00:00",
+    "analyzed_at": "2026-08-31T15:49:11.894350+00:00",
+    "summary": "Article URL: https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/\nComments URL: https://news.ycombinator.com/item?id=49511084\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "benkan",
+      "language": null
+    }
+  },
+  {
+    "id": "11b5c4aa-930e-4031-ae7b-08e5f9115714",
+    "title": "Americans Aren't Sold on Businesses Using AI in Advertising",
+    "source_url": "https://news.gallup.com/poll/713222/americans-aren-sold-businesses-using-advertising.aspx",
+    "source": "hacker_news",
+    "collected_at": "2026-08-31T15:49:13.111425+00:00",
+    "analyzed_at": "2026-08-31T15:49:13.111425+00:00",
+    "summary": "Article URL: https://news.gallup.com/poll/713222/americans-aren-sold-businesses-using-advertising.aspx\nComments URL: https://news.ycombinator.com/item?id=49511066\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "hn_acker",
+      "language": null
+    }
+  },
+  {
+    "id": "67f167a4-1eca-4406-b2fc-88425a8a432b",
+    "title": "Show HN: Manner – Developers create AI clones that clients can hire",
+    "source_url": "https://manner.run/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-31T15:49:14.329509+00:00",
+    "analyzed_at": "2026-08-31T15:49:14.329509+00:00",
+    "summary": "Article URL: https://manner.run/\nComments URL: https://news.ycombinator.com/item?id=49511046\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "sanasar737",
+      "language": null
+    }
+  },
+  {
+    "id": "1f374078-b6d0-4a4e-abe3-5c78b79d31c3",
+    "title": "Show HN: My AI spent $15 on a test order, so I built a payment guardrail",
+    "source_url": "https://github.com/felixpg13-glitch/spendshield",
+    "source": "hacker_news",
+    "collected_at": "2026-08-31T15:49:15.548401+00:00",
+    "analyzed_at": "2026-08-31T15:49:15.548401+00:00",
+    "summary": "Article URL: https://github.com/felixpg13-glitch/spendshield\nComments URL: https://news.ycombinator.com/item?id=49511045\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "felixpg13",
+      "language": null
+    }
+  },
+  {
+    "id": "8d8ac841-0af2-4736-a5f0-e585f9f00847",
+    "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+    "source_url": "https://usealmanac.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-31T15:49:16.764993+00:00",
+    "analyzed_at": "2026-08-31T15:49:16.764993+00:00",
+    "summary": "Hi HN, I'm Kushagra, one of three founders of Almanac, a Hermes with a brain that knows everything about your company.We started our journey with setting up Hermes for our company, thinking it must be",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "kushagrchitkar",
+      "language": null
+    }
+  },
+  {
+    "id": "a50de94c-6be6-4db7-9dfa-5f6fb430f20b",
+    "title": "AI PCB Design with KiCAD and open tooling",
+    "source_url": "https://mouro.ai/blog/pcb-design-with-ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-31T15:49:18.004221+00:00",
+    "analyzed_at": "2026-08-31T15:49:18.004221+00:00",
+    "summary": "Article URL: https://mouro.ai/blog/pcb-design-with-ai/\nComments URL: https://news.ycombinator.com/item?id=49510782\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ramalamadingdo",
+      "language": null
+    }
+  },
+  {
+    "id": "cb554ec8-d1bf-4a6d-8249-553823eb7a48",
+    "title": "Show HN: Preview Postgres writes from AI agents with xmin checks (pg-dry-run)",
+    "source_url": "https://github.com/polycore/pg-dry-run",
+    "source": "hacker_news",
+    "collected_at": "2026-08-31T15:49:19.220297+00:00",
+    "analyzed_at": "2026-08-31T15:49:19.220297+00:00",
+    "summary": "Article URL: https://github.com/polycore/pg-dry-run\nComments URL: https://news.ycombinator.com/item?id=49510746\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "anarkafkas",
+      "language": null
+    }
+  },
+  {
+    "id": "490760d9-5b33-4638-b954-945eaa94fcb2",
+    "title": "Edit and present slides in Markdown with AI",
+    "source_url": "https://kordikp.github.io/slaidy/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-31T15:49:20.447769+00:00",
+    "analyzed_at": "2026-08-31T15:49:20.447769+00:00",
+    "summary": "Article URL: https://kordikp.github.io/slaidy/\nComments URL: https://news.ycombinator.com/item?id=49510719\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "kordikp",
+      "language": null
+    }
+  },
+  {
+    "id": "17a5b8df-b2e4-4c6e-8008-b6d7de2e9710",
+    "title": "Australia risks missing out on AI economic boom due to 'slow' business uptake",
+    "source_url": "https://www.abc.net.au/news/2026-08-31/ai-could-boost-australias-economy-treasury-flag-slow-uptake/107099934",
+    "source": "hacker_news",
+    "collected_at": "2026-08-31T15:49:21.679452+00:00",
+    "analyzed_at": "2026-08-31T15:49:21.679452+00:00",
+    "summary": "Article URL: https://www.abc.net.au/news/2026-08-31/ai-could-boost-australias-economy-treasury-flag-slow-uptake/107099934\nComments URL: https://news.ycombinator.com/item?id=49510652\nPoints: 2\n# Commen",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ern",
+      "language": null
+    }
+  },
+  {
+    "id": "f9ce7712-ee18-4b77-b3ba-7902f034378d",
+    "title": "AI ruined some of my most precious accessibility tools",
+    "source_url": "https://straye.dgirl.gay/blog/2026/ai-ruined-accessibility/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-31T15:49:22.903320+00:00",
+    "analyzed_at": "2026-08-31T15:49:22.903320+00:00",
+    "summary": "Article URL: https://straye.dgirl.gay/blog/2026/ai-ruined-accessibility/\nComments URL: https://news.ycombinator.com/item?id=49510570\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "speckx",
+      "language": null
+    }
+  },
+  {
+    "id": "16558e49-5a99-4298-96c8-e6abb673859e",
+    "title": "Show HN: What Happens When You Give Your AI Agents a Voice and an Attitude",
+    "source_url": "https://fellowgeek.github.io/mcp-speak/",
+    "source": "hacker_news",
+    "collected_at": "2026-08-31T15:49:24.149406+00:00",
+    "analyzed_at": "2026-08-31T15:49:24.149406+00:00",
+    "summary": "Article URL: https://fellowgeek.github.io/mcp-speak/\nComments URL: https://news.ycombinator.com/item?id=49510547\nPoints: 3\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pcbmaker20",
+      "language": null
+    }
+  },
+  {
+    "id": "94f2c19f-6331-452e-80ed-256db5a7a4e0",
+    "title": "AI startup TrustedRouter raises $1.25M",
+    "source_url": "https://www.axios.com/2026/08/31/exclusive-ai-startup-trustedrouter-raises-125-million",
+    "source": "hacker_news",
+    "collected_at": "2026-08-31T15:49:25.381281+00:00",
+    "analyzed_at": "2026-08-31T15:49:25.381281+00:00",
+    "summary": "Article URL: https://www.axios.com/2026/08/31/exclusive-ai-startup-trustedrouter-raises-125-million\nComments URL: https://news.ycombinator.com/item?id=49510298\nPoints: 4\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ljlolel",
+      "language": null
+    }
+  },
+  {
+    "id": "cc80bb1f-63a6-4abd-9880-77cbe7ac2d03",
+    "title": "Show HN: AI startup TrustedRouter raises $1.25M",
+    "source_url": "https://news.ycombinator.com/item?id=49510283",
+    "source": "hacker_news",
+    "collected_at": "2026-08-31T15:49:26.607272+00:00",
+    "analyzed_at": "2026-08-31T15:49:26.607272+00:00",
+    "summary": "https://www.axios.com/2026/08/31/exclusive-ai-startup-trustedrouter-raises-125-millionhey everybody, I started trustedrouter.com, which is a really simple way to use AI without needing to give your da",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ljlolel",
+      "language": null
+    }
+  },
+  {
+    "id": "6a1345cd-22e0-458b-afd5-eb067885e4a7",
+    "title": "OpenAI Engineers Are Shipping AI-Generated Kernels They Don't Understand",
+    "source_url": "https://twitter.com/firesidealpha/status/2093860831595499892",
+    "source": "hacker_news",
+    "collected_at": "2026-08-31T15:49:27.839007+00:00",
+    "analyzed_at": "2026-08-31T15:49:27.839007+00:00",
+    "summary": "Article URL: https://twitter.com/firesidealpha/status/2093860831595499892\nComments URL: https://news.ycombinator.com/item?id=49510192\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "wertyk",
+      "language": null
+    }
+  },
+  {
+    "id": "353b9293-8802-4de3-b8c3-b32292ce3c67",
+    "title": "Ask HN: What's the Best AI Setup?",
+    "source_url": "https://news.ycombinator.com/item?id=49510169",
+    "source": "hacker_news",
+    "collected_at": "2026-08-31T15:49:29.073447+00:00",
+    "analyzed_at": "2026-08-31T15:49:29.073447+00:00",
+    "summary": "People who run AI agents in some kind of advanced way can you share your settings? With things moving so fast I've been a bit out of touch\n\nComments URL: https://news.ycombinator.com/item?id=49510169\n",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "yernarak",
+      "language": null
+    }
+  }
+]
