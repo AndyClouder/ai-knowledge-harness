@@ -1,0 +1,45 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-09-01T13:03:15.969083+00:00",
+  "items": [
+    {
+      "name": "PAICNI/CFBox",
+      "url": "https://github.com/PAICNI/CFBox",
+      "summary": "一个运行在 Cloudflare Workers 上兼容CFnew 与edgetunnel的代理订阅管理面板——既能在 /UUID 路径上输出 VLESS/Trojan/xhttp 多协议订阅，又提供图形化配置界面（KV 存储、改完即生效），并内置延迟测试、流媒体/AI 连通性检测、多客户端订阅生成、多语言等能力。",
+      "stars": 428,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "name": "MirroS-Lab/Code-as-World",
+      "url": "https://github.com/MirroS-Lab/Code-as-World",
+      "summary": "Code as World: Agentic Discovery of Executable World Representations for Physical Reasoning",
+      "stars": 364,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "brayonpi/hexstellar",
+      "url": "https://github.com/brayonpi/hexstellar",
+      "summary": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable executio",
+      "stars": 339,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "CHENG-LIANG1/real-company-interview-ai-coding-projects",
+      "url": "https://github.com/CHENG-LIANG1/real-company-interview-ai-coding-projects",
+      "summary": "三个匿名化真实 AI Coding 面试项目题与一套通用解题方法",
+      "stars": 295,
+      "language": null,
+      "topics": [
+        "agent",
+        "ai-coding",
+        "documentation",
+        "interview",
+        "take-home-assignment"
+      ]
+    }
+  ]
+}

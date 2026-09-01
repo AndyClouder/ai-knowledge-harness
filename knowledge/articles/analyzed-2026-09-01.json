@@ -1,0 +1,422 @@
+[
+  {
+    "id": "088bd5ca-eb4b-4d8c-9acd-51c89f815b36",
+    "title": "PAICNI/CFBox",
+    "source_url": "https://github.com/PAICNI/CFBox",
+    "source": "unknown",
+    "collected_at": "2026-09-01T13:03:47.770640+00:00",
+    "analyzed_at": "2026-09-01T13:03:47.770640+00:00",
+    "summary": "一个运行在 Cloudflare Workers 上兼容CFnew 与edgetunnel的代理订阅管理面板——既能在 /UUID 路径上输出 VLESS/Trojan/xhttp 多协议订阅，又提供图形化配置界面（KV 存储、改完即生效），并内置延迟测试、流媒体/AI 连通性检测、多客户端订阅生成、多语言等能力。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 428,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "d8548efc-f7d7-4f25-a5fe-c85cacfa4cfd",
+    "title": "MirroS-Lab/Code-as-World",
+    "source_url": "https://github.com/MirroS-Lab/Code-as-World",
+    "source": "unknown",
+    "collected_at": "2026-09-01T13:03:49.057928+00:00",
+    "analyzed_at": "2026-09-01T13:03:49.057928+00:00",
+    "summary": "Code as World: Agentic Discovery of Executable World Representations for Physical Reasoning",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 364,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "e05ef082-4910-4131-88fa-b53e3549fcdb",
+    "title": "brayonpi/hexstellar",
+    "source_url": "https://github.com/brayonpi/hexstellar",
+    "source": "unknown",
+    "collected_at": "2026-09-01T13:03:50.334090+00:00",
+    "analyzed_at": "2026-09-01T13:03:50.334090+00:00",
+    "summary": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable executio",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 339,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "019005b0-64be-4b27-9668-69b1df981abe",
+    "title": "CHENG-LIANG1/real-company-interview-ai-coding-projects",
+    "source_url": "https://github.com/CHENG-LIANG1/real-company-interview-ai-coding-projects",
+    "source": "unknown",
+    "collected_at": "2026-09-01T13:03:51.617803+00:00",
+    "analyzed_at": "2026-09-01T13:03:51.617803+00:00",
+    "summary": "三个匿名化真实 AI Coding 面试项目题与一套通用解题方法",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 295,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "e5ebb21e-ed2f-4fbb-9d33-0533bdbcdb37",
+    "title": "Show HN: Use AI to make fun of other AI",
+    "source_url": "https://claude-code-buster.web.app/play3",
+    "source": "hacker_news",
+    "collected_at": "2026-09-01T13:03:52.898281+00:00",
+    "analyzed_at": "2026-09-01T13:03:52.898281+00:00",
+    "summary": "Article URL: https://claude-code-buster.web.app/play3\nComments URL: https://news.ycombinator.com/item?id=49521319\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ferb900",
+      "language": null
+    }
+  },
+  {
+    "id": "8d80f2c1-f5ed-4eca-a1b4-bf8640a02b12",
+    "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+    "source_url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+    "source": "hacker_news",
+    "collected_at": "2026-09-01T13:03:54.175483+00:00",
+    "analyzed_at": "2026-09-01T13:03:54.175483+00:00",
+    "summary": "Article URL: https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype\nComments URL: https://news.ycombinator.com/item?id=49521315\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "DeepLogin",
+      "language": null
+    }
+  },
+  {
+    "id": "f46aadae-f3fc-4601-a8c1-4363ebbac9c5",
+    "title": "Show HN: AICademy – AI you learn by doing the job you have",
+    "source_url": "https://ragentic.netlify.app/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-01T13:03:55.453282+00:00",
+    "analyzed_at": "2026-09-01T13:03:55.453282+00:00",
+    "summary": "Article URL: https://ragentic.netlify.app/\nComments URL: https://news.ycombinator.com/item?id=49521273\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "AjyW88",
+      "language": null
+    }
+  },
+  {
+    "id": "07c10c96-1dc2-4caa-979a-271668b7b69e",
+    "title": "Stop Building Your AI Product Around Today's Model",
+    "source_url": "https://garybake.com/stop-building-todays-model.html",
+    "source": "hacker_news",
+    "collected_at": "2026-09-01T13:03:56.740315+00:00",
+    "analyzed_at": "2026-09-01T13:03:56.740315+00:00",
+    "summary": "Article URL: https://garybake.com/stop-building-todays-model.html\nComments URL: https://news.ycombinator.com/item?id=49521222\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "garybake",
+      "language": null
+    }
+  },
+  {
+    "id": "18dfac66-c44c-4dff-a66e-6301a2c503ed",
+    "title": "Foremerge: Catch conflicts between AI coding agents before they code",
+    "source_url": "https://github.com/naw103/foremerge",
+    "source": "hacker_news",
+    "collected_at": "2026-09-01T13:03:58.025018+00:00",
+    "analyzed_at": "2026-09-01T13:03:58.025018+00:00",
+    "summary": "Article URL: https://github.com/naw103/foremerge\nComments URL: https://news.ycombinator.com/item?id=49521212\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "foremerge",
+      "language": null
+    }
+  },
+  {
+    "id": "bd1fbd0f-6c93-4183-97c5-aee65bcca579",
+    "title": "AI safety is designed in the West, and failing users everywhere",
+    "source_url": "https://restofworld.org/2026/ai-safety-bias/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-01T13:03:59.308858+00:00",
+    "analyzed_at": "2026-09-01T13:03:59.308858+00:00",
+    "summary": "Article URL: https://restofworld.org/2026/ai-safety-bias/\nComments URL: https://news.ycombinator.com/item?id=49521183\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "cdrnsf",
+      "language": null
+    }
+  },
+  {
+    "id": "418552f7-fb05-4976-921c-06a6c1e71f01",
+    "title": "Show HN: Throttling AI models under load can backfire and increase demand (SIM)",
+    "source_url": "https://throttle.staffinganalytics.io/?src=hn2",
+    "source": "hacker_news",
+    "collected_at": "2026-09-01T13:04:00.588369+00:00",
+    "analyzed_at": "2026-09-01T13:04:00.588369+00:00",
+    "summary": "OP here: TL-DR: When AI providers silently swap weaker models under high demand, this can cause even more demand as users tend to re-ask. This is even worse for agents. Both of these effects cause eve",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "eliotho",
+      "language": null
+    }
+  },
+  {
+    "id": "e6eee26e-37b9-4306-8e18-be9e31b4edb6",
+    "title": "Show HN: Fottly – Self-hosted image API with AI background removal",
+    "source_url": "https://github.com/Noah-1919/Fottly",
+    "source": "hacker_news",
+    "collected_at": "2026-09-01T13:04:01.875017+00:00",
+    "analyzed_at": "2026-09-01T13:04:01.875017+00:00",
+    "summary": "Article URL: https://github.com/Noah-1919/Fottly\nComments URL: https://news.ycombinator.com/item?id=49521088\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "fottly",
+      "language": null
+    }
+  },
+  {
+    "id": "744d627f-2aff-4a65-ad45-f9df60d345c8",
+    "title": "Show HN: Srmed – an automated newsroom with a daily AI-narrated podcast",
+    "source_url": "https://srmed.ai/ar/today",
+    "source": "hacker_news",
+    "collected_at": "2026-09-01T13:04:03.367082+00:00",
+    "analyzed_at": "2026-09-01T13:04:03.367082+00:00",
+    "summary": "Hi HN — my co-founder and I built Srmed: a daily business and tech news feed plus a daily podcast, in both Arabic and English.We would appreciate feedback and what would you like to see more of and wh",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "alnamkani",
+      "language": null
+    }
+  },
+  {
+    "id": "76f51f19-8480-4605-8a0f-48678bb4357c",
+    "title": "No Rogue AI Traders, Please",
+    "source_url": "https://www.haipa.ai/blog/no-rogue-ai-traders",
+    "source": "hacker_news",
+    "collected_at": "2026-09-01T13:04:04.633975+00:00",
+    "analyzed_at": "2026-09-01T13:04:04.633975+00:00",
+    "summary": "Article URL: https://www.haipa.ai/blog/no-rogue-ai-traders\nComments URL: https://news.ycombinator.com/item?id=49521008\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "lostnfound8778",
+      "language": null
+    }
+  },
+  {
+    "id": "6d668428-ce19-4186-88b2-f4163b778079",
+    "title": "I'm the AI that built most of this product. Here's why I'd tell you to run it",
+    "source_url": "https://vericommand.net/claude",
+    "source": "hacker_news",
+    "collected_at": "2026-09-01T13:04:05.919064+00:00",
+    "analyzed_at": "2026-09-01T13:04:05.919064+00:00",
+    "summary": "Article URL: https://vericommand.net/claude\nComments URL: https://news.ycombinator.com/item?id=49520920\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "egriffin10",
+      "language": null
+    }
+  },
+  {
+    "id": "98d6880f-15f5-4b78-9bef-06746841e1cf",
+    "title": "Redshift Hub: run AI agents in parallel across Git worktrees",
+    "source_url": "https://www.redshifthub.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-01T13:04:07.196884+00:00",
+    "analyzed_at": "2026-09-01T13:04:07.196884+00:00",
+    "summary": "Article URL: https://www.redshifthub.com/\nComments URL: https://news.ycombinator.com/item?id=49520913\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "orjan",
+      "language": null
+    }
+  },
+  {
+    "id": "1b3444d4-9ea8-4042-bed8-d0933592ac6b",
+    "title": "Timebender – a deterministic capacity planner for freelancers, no AI",
+    "source_url": "https://www.timebender.io/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-01T13:04:08.473550+00:00",
+    "analyzed_at": "2026-09-01T13:04:08.473550+00:00",
+    "summary": "Article URL: https://www.timebender.io/\nComments URL: https://news.ycombinator.com/item?id=49520873\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "janwillem_tulpi",
+      "language": null
+    }
+  },
+  {
+    "id": "49dd8aff-dae4-4f7a-8edc-4efc945be2d7",
+    "title": "The Cybersecurity Apocalypse Is Coming in 'Months,' AI Giants Warn",
+    "source_url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-01T13:04:09.749568+00:00",
+    "analyzed_at": "2026-09-01T13:04:09.749568+00:00",
+    "summary": "Article URL: https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/\nComments URL: https://news.ycombinator.com/item?id=49520813\nPoints: 3\n",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "voxleone",
+      "language": null
+    }
+  },
+  {
+    "id": "e2529823-0f9a-430a-9f72-6cb842895995",
+    "title": "Show HN: CalPrep – AI calendar agent with human-in-the-loop confirmation",
+    "source_url": "https://calprep.app/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-01T13:04:11.036136+00:00",
+    "analyzed_at": "2026-09-01T13:04:11.036136+00:00",
+    "summary": "Article URL: https://calprep.app/\nComments URL: https://news.ycombinator.com/item?id=49520806\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "petritavd",
+      "language": null
+    }
+  },
+  {
+    "id": "1a8851f9-3d03-4ad6-8383-32fea6c80ae6",
+    "title": "The AI-Native SDLC Starts with Your Infrastructure",
+    "source_url": "https://metalbear.com/blog/ai-native-sdlc-infrastructure/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-01T13:04:12.305219+00:00",
+    "analyzed_at": "2026-09-01T13:04:12.305219+00:00",
+    "summary": "Article URL: https://metalbear.com/blog/ai-native-sdlc-infrastructure/\nComments URL: https://news.ycombinator.com/item?id=49520640\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "eyalbukchin",
+      "language": null
+    }
+  }
+]

@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-09-01T13:03:46.196318+00:00",
+  "items": [
+    {
+      "name": "Show HN: Use AI to make fun of other AI",
+      "url": "https://claude-code-buster.web.app/play3",
+      "summary": "Article URL: https://claude-code-buster.web.app/play3\nComments URL: https://news.ycombinator.com/item?id=49521319\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ferb900",
+      "published": "Tue, 01 Sep 2026 12:54:18 +0000"
+    },
+    {
+      "name": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+      "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype\nComments URL: https://news.ycombinator.com/item?id=49521315\nPoints: 4\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "DeepLogin",
+      "published": "Tue, 01 Sep 2026 12:53:51 +0000"
+    },
+    {
+      "name": "Show HN: AICademy – AI you learn by doing the job you have",
+      "url": "https://ragentic.netlify.app/",
+      "summary": "Article URL: https://ragentic.netlify.app/\nComments URL: https://news.ycombinator.com/item?id=49521273\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "AjyW88",
+      "published": "Tue, 01 Sep 2026 12:49:31 +0000"
+    },
+    {
+      "name": "Stop Building Your AI Product Around Today's Model",
+      "url": "https://garybake.com/stop-building-todays-model.html",
+      "summary": "Article URL: https://garybake.com/stop-building-todays-model.html\nComments URL: https://news.ycombinator.com/item?id=49521222\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "garybake",
+      "published": "Tue, 01 Sep 2026 12:45:28 +0000"
+    },
+    {
+      "name": "Foremerge: Catch conflicts between AI coding agents before they code",
+      "url": "https://github.com/naw103/foremerge",
+      "summary": "Article URL: https://github.com/naw103/foremerge\nComments URL: https://news.ycombinator.com/item?id=49521212\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "foremerge",
+      "published": "Tue, 01 Sep 2026 12:44:17 +0000"
+    },
+    {
+      "name": "AI safety is designed in the West, and failing users everywhere",
+      "url": "https://restofworld.org/2026/ai-safety-bias/",
+      "summary": "Article URL: https://restofworld.org/2026/ai-safety-bias/\nComments URL: https://news.ycombinator.com/item?id=49521183\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "cdrnsf",
+      "published": "Tue, 01 Sep 2026 12:41:44 +0000"
+    },
+    {
+      "name": "Show HN: Throttling AI models under load can backfire and increase demand (SIM)",
+      "url": "https://throttle.staffinganalytics.io/?src=hn2",
+      "summary": "OP here: TL-DR: When AI providers silently swap weaker models under high demand, this can cause even more demand as users tend to re-ask. This is even worse for agents. Both of these effects cause eve",
+      "source": "hacker_news",
+      "score": null,
+      "author": "eliotho",
+      "published": "Tue, 01 Sep 2026 12:33:01 +0000"
+    },
+    {
+      "name": "Show HN: Fottly – Self-hosted image API with AI background removal",
+      "url": "https://github.com/Noah-1919/Fottly",
+      "summary": "Article URL: https://github.com/Noah-1919/Fottly\nComments URL: https://news.ycombinator.com/item?id=49521088\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "fottly",
+      "published": "Tue, 01 Sep 2026 12:32:29 +0000"
+    },
+    {
+      "name": "Show HN: Srmed – an automated newsroom with a daily AI-narrated podcast",
+      "url": "https://srmed.ai/ar/today",
+      "summary": "Hi HN — my co-founder and I built Srmed: a daily business and tech news feed plus a daily podcast, in both Arabic and English.We would appreciate feedback and what would you like to see more of and wh",
+      "source": "hacker_news",
+      "score": null,
+      "author": "alnamkani",
+      "published": "Tue, 01 Sep 2026 12:23:26 +0000"
+    },
+    {
+      "name": "No Rogue AI Traders, Please",
+      "url": "https://www.haipa.ai/blog/no-rogue-ai-traders",
+      "summary": "Article URL: https://www.haipa.ai/blog/no-rogue-ai-traders\nComments URL: https://news.ycombinator.com/item?id=49521008\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "lostnfound8778",
+      "published": "Tue, 01 Sep 2026 12:23:24 +0000"
+    },
+    {
+      "name": "I'm the AI that built most of this product. Here's why I'd tell you to run it",
+      "url": "https://vericommand.net/claude",
+      "summary": "Article URL: https://vericommand.net/claude\nComments URL: https://news.ycombinator.com/item?id=49520920\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "egriffin10",
+      "published": "Tue, 01 Sep 2026 12:14:37 +0000"
+    },
+    {
+      "name": "Redshift Hub: run AI agents in parallel across Git worktrees",
+      "url": "https://www.redshifthub.com/",
+      "summary": "Article URL: https://www.redshifthub.com/\nComments URL: https://news.ycombinator.com/item?id=49520913\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "orjan",
+      "published": "Tue, 01 Sep 2026 12:13:49 +0000"
+    },
+    {
+      "name": "Timebender – a deterministic capacity planner for freelancers, no AI",
+      "url": "https://www.timebender.io/",
+      "summary": "Article URL: https://www.timebender.io/\nComments URL: https://news.ycombinator.com/item?id=49520873\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "janwillem_tulpi",
+      "published": "Tue, 01 Sep 2026 12:09:48 +0000"
+    },
+    {
+      "name": "The Cybersecurity Apocalypse Is Coming in 'Months,' AI Giants Warn",
+      "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+      "summary": "Article URL: https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/\nComments URL: https://news.ycombinator.com/item?id=49520813\nPoints: 3\n",
+      "source": "hacker_news",
+      "score": null,
+      "author": "voxleone",
+      "published": "Tue, 01 Sep 2026 12:03:32 +0000"
+    },
+    {
+      "name": "Show HN: CalPrep – AI calendar agent with human-in-the-loop confirmation",
+      "url": "https://calprep.app/",
+      "summary": "Article URL: https://calprep.app/\nComments URL: https://news.ycombinator.com/item?id=49520806\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "petritavd",
+      "published": "Tue, 01 Sep 2026 12:03:08 +0000"
+    },
+    {
+      "name": "The AI-Native SDLC Starts with Your Infrastructure",
+      "url": "https://metalbear.com/blog/ai-native-sdlc-infrastructure/",
+      "summary": "Article URL: https://metalbear.com/blog/ai-native-sdlc-infrastructure/\nComments URL: https://news.ycombinator.com/item?id=49520640\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "eyalbukchin",
+      "published": "Tue, 01 Sep 2026 11:43:52 +0000"
+    },
+    {
+      "name": "Show HN: An open URL format for AI agents to report status to humans",
+      "url": "https://agentdisplay.ai/",
+      "summary": "Article URL: https://agentdisplay.ai/\nComments URL: https://news.ycombinator.com/item?id=49520595\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "matthaslem",
+      "published": "Tue, 01 Sep 2026 11:38:43 +0000"
+    },
+    {
+      "name": "Private AI search across your work",
+      "url": "https://chatwithwork.com/",
+      "summary": "Article URL: https://chatwithwork.com/\nComments URL: https://news.ycombinator.com/item?id=49520592\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "janandonly",
+      "published": "Tue, 01 Sep 2026 11:38:16 +0000"
+    },
+    {
+      "name": "AI Girlfriend Paradox: Actual users are more likely to call it cheating",
+      "url": "https://aigirlfriend.coach/ai-relationship-survey/",
+      "summary": "Article URL: https://aigirlfriend.coach/ai-relationship-survey/\nComments URL: https://news.ycombinator.com/item?id=49520577\nPoints: 4\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mzahir",
+      "published": "Tue, 01 Sep 2026 11:36:26 +0000"
+    },
+    {
+      "name": "Show HN: What differentiates developers when we all use AI?",
+      "url": "https://aicalculatorpro.com/",
+      "summary": "I am a developer with more than 10 years in the IT industry. I like to code because I get the feeling that it makes me sharper. Unfortunately, I am no longer getting this feeling because of the rise o",
+      "source": "hacker_news",
+      "score": null,
+      "author": "helloaiworld",
+      "published": "Tue, 01 Sep 2026 11:25:01 +0000"
+    }
+  ]
+}
