@@ -1,0 +1,62 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-09-02T12:30:56.234489+00:00",
+  "items": [
+    {
+      "name": "Git-Agni/prod-FARM-IOS-Core",
+      "url": "https://github.com/Git-Agni/prod-FARM-IOS-Core",
+      "summary": "A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Self-hosted, Apache-2.0.",
+      "stars": 705,
+      "language": "TypeScript",
+      "topics": [
+        "appium",
+        "device-farm",
+        "ios-automation",
+        "marketing-automation",
+        "phone-farm",
+        "tiktok-automation-script",
+        "webdriveragent"
+      ]
+    },
+    {
+      "name": "2akouwu/codex-cli-portable-setup-kit",
+      "url": "https://github.com/2akouwu/codex-cli-portable-setup-kit",
+      "summary": "Autonomous Systems & Security Toolkit for OpenAI Codex CLI. Deterministic binary analysis, decoupled pipeline, and zero-friction execution.",
+      "stars": 505,
+      "language": "Python",
+      "topics": [
+        "agentic-workflow",
+        "ai-agents",
+        "automation",
+        "codex",
+        "codex-cli",
+        "developer-tools",
+        "execution-first",
+        "hooks",
+        "openai",
+        "powershell",
+        "prompt-engineering",
+        "skills",
+        "windows"
+      ]
+    },
+    {
+      "name": "Player-YN/PawWork_ZhuaZhua",
+      "url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
+      "summary": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
+      "stars": 433,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "browser-agent",
+        "byok",
+        "chrome-extension",
+        "llm",
+        "pptx",
+        "tldraw",
+        "univer"
+      ]
+    }
+  ]
+}
