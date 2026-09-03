@@ -1,0 +1,422 @@
+[
+  {
+    "id": "dfb89b8f-0c6b-4825-aa4f-53662ed274ad",
+    "title": "anthropics/commerce-agents",
+    "source_url": "https://github.com/anthropics/commerce-agents",
+    "source": "unknown",
+    "collected_at": "2026-09-03T12:34:42.395852+00:00",
+    "analyzed_at": "2026-09-03T12:34:42.395852+00:00",
+    "summary": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1138,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "ea82e7d0-412e-43f5-80ff-01a9fbab572d",
+    "title": "GangTailorUpgrade/undress-service",
+    "source_url": "https://github.com/GangTailorUpgrade/undress-service",
+    "source": "unknown",
+    "collected_at": "2026-09-03T12:34:43.596558+00:00",
+    "analyzed_at": "2026-09-03T12:34:43.596558+00:00",
+    "summary": "Dress AI Sponsor",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 979,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "012ac893-e7b2-48b7-880a-97b7de8f0a86",
+    "title": "shadcn-ui/cn",
+    "source_url": "https://github.com/shadcn-ui/cn",
+    "source": "unknown",
+    "collected_at": "2026-09-03T12:34:44.795791+00:00",
+    "analyzed_at": "2026-09-03T12:34:44.795791+00:00",
+    "summary": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 807,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "1558e3ff-f7bb-4814-bd0e-f165a3253708",
+    "title": "2akouwu/reverify",
+    "source_url": "https://github.com/2akouwu/reverify",
+    "source": "unknown",
+    "collected_at": "2026-09-03T12:34:45.992600+00:00",
+    "analyzed_at": "2026-09-03T12:34:45.992600+00:00",
+    "summary": "Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 675,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "2461d3dd-b459-4a8e-aa6f-a0741b2b1cfc",
+    "title": "Ryze-AI-Adgent/open-seo-mcp-skills",
+    "source_url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
+    "source": "unknown",
+    "collected_at": "2026-09-03T12:34:47.192485+00:00",
+    "analyzed_at": "2026-09-03T12:34:47.192485+00:00",
+    "summary": "Open-source SEO + GEO skills for Claude — keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataF",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 381,
+      "score": null,
+      "author": null,
+      "language": "Shell"
+    }
+  },
+  {
+    "id": "304cc3a2-dfbf-474f-87c2-b4c6fa0fb4b3",
+    "title": "Merserk/dlss5-visual-enhancer",
+    "source_url": "https://github.com/Merserk/dlss5-visual-enhancer",
+    "source": "unknown",
+    "collected_at": "2026-09-03T12:34:48.394933+00:00",
+    "analyzed_at": "2026-09-03T12:34:48.394933+00:00",
+    "summary": "DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 339,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "2f384c7f-0246-4c82-80b4-8effc026fa2d",
+    "title": "ZJU-REAL/Easel",
+    "source_url": "https://github.com/ZJU-REAL/Easel",
+    "source": "unknown",
+    "collected_at": "2026-09-03T12:34:49.592957+00:00",
+    "analyzed_at": "2026-09-03T12:34:49.592957+00:00",
+    "summary": "An open-source AI agent for social media — discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.🎨一个开源的 AI 社交媒体智能体——发现热点趋势、创作内",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 297,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "039e6e33-9a9a-4b17-850d-76c5259ba2a1",
+    "title": "PhiloLabs/fable51-worlds",
+    "source_url": "https://github.com/PhiloLabs/fable51-worlds",
+    "source": "unknown",
+    "collected_at": "2026-09-03T12:34:50.795357+00:00",
+    "analyzed_at": "2026-09-03T12:34:50.795357+00:00",
+    "summary": "worlds via code, from fable 5.1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 280,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "a2c8817f-de2d-4289-ba3a-2f93bc4d3df9",
+    "title": "Show HN: Hot. Dog. Bench. Mark. The AI benchmark we deserve",
+    "source_url": "https://hotdogbenchmark.lol/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-03T12:34:51.998180+00:00",
+    "analyzed_at": "2026-09-03T12:34:51.998180+00:00",
+    "summary": "Article URL: https://hotdogbenchmark.lol/\nComments URL: https://news.ycombinator.com/item?id=49549107\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "naniel",
+      "language": null
+    }
+  },
+  {
+    "id": "6324e147-4dd5-4595-babf-2984324fa3d5",
+    "title": "Show HN: AI Usage Ball – Claude/Codex/Antigravity Quota as Mac Liquid Orbs",
+    "source_url": "https://github.com/aiusageball/ai-usage-ball",
+    "source": "hacker_news",
+    "collected_at": "2026-09-03T12:34:53.199664+00:00",
+    "analyzed_at": "2026-09-03T12:34:53.199664+00:00",
+    "summary": "Article URL: https://github.com/aiusageball/ai-usage-ball\nComments URL: https://news.ycombinator.com/item?id=49549084\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "xbyxy2000",
+      "language": null
+    }
+  },
+  {
+    "id": "6131a8a6-a8ed-4bd6-93c8-44eb1f216453",
+    "title": "Show HN: Flipdot display with an AI chat that codes sandboxed animations for it",
+    "source_url": "https://github.com/mdbug/flipdot",
+    "source": "hacker_news",
+    "collected_at": "2026-09-03T12:34:54.395174+00:00",
+    "analyzed_at": "2026-09-03T12:34:54.395174+00:00",
+    "summary": "Article URL: https://github.com/mdbug/flipdot\nComments URL: https://news.ycombinator.com/item?id=49549074\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mdbug",
+      "language": null
+    }
+  },
+  {
+    "id": "f3e51fa0-e29a-4591-b950-a6dc59ef8c96",
+    "title": "Skills vs. MCP tools for AI agents: when to use which",
+    "source_url": "https://blog.logrocket.com/skills-vs-mcp-tools-agent-guide/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-03T12:34:55.629210+00:00",
+    "analyzed_at": "2026-09-03T12:34:55.629210+00:00",
+    "summary": "Article URL: https://blog.logrocket.com/skills-vs-mcp-tools-agent-guide/\nComments URL: https://news.ycombinator.com/item?id=49549058\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "deepmem",
+      "language": null
+    }
+  },
+  {
+    "id": "96a699fd-5585-4000-93f8-0c4a2bdc721d",
+    "title": "Free OpenHelper AI Chatbot v2 Preview is coming with many features",
+    "source_url": "https://techambient.github.io/HybridAI/v2.html",
+    "source": "hacker_news",
+    "collected_at": "2026-09-03T12:34:56.825739+00:00",
+    "analyzed_at": "2026-09-03T12:34:56.825739+00:00",
+    "summary": "Article URL: https://techambient.github.io/HybridAI/v2.html\nComments URL: https://news.ycombinator.com/item?id=49548967\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "techambient",
+      "language": null
+    }
+  },
+  {
+    "id": "37b82876-1434-4ce5-a4af-55323cbfd122",
+    "title": "Freelancers are getting buried with 'soulless' AI slop cleanup",
+    "source_url": "https://www.theguardian.com/technology/2026/sep/02/ai-jobs-freelance-cleanup",
+    "source": "hacker_news",
+    "collected_at": "2026-09-03T12:34:58.025015+00:00",
+    "analyzed_at": "2026-09-03T12:34:58.025015+00:00",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/02/ai-jobs-freelance-cleanup\nComments URL: https://news.ycombinator.com/item?id=49548946\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "_____k",
+      "language": null
+    }
+  },
+  {
+    "id": "67f5f65c-f24a-4e7d-be49-ed93cb91b401",
+    "title": "Show HN: Oconee Runtime – Policy enforcement for browser AI and coding agents",
+    "source_url": "https://www.oconeeruntime.com/news/policy-enforcement-for-browser-ai-and-coding-agents",
+    "source": "hacker_news",
+    "collected_at": "2026-09-03T12:34:59.220114+00:00",
+    "analyzed_at": "2026-09-03T12:34:59.220114+00:00",
+    "summary": "AI agents are changing the enterprise security boundary. Prompt-level controls are no longer enough when AI can execute commands, modify files, invoke tools, and act against enterprise resources.\n\nCom",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "hthomas4",
+      "language": null
+    }
+  },
+  {
+    "id": "7e10386e-3b76-4e5c-a8d8-9e3bfaa2450d",
+    "title": "We ported 65 OSS projects with AI",
+    "source_url": "https://akka.io/blog/we-ported-65-oss-projects",
+    "source": "hacker_news",
+    "collected_at": "2026-09-03T12:35:00.422371+00:00",
+    "analyzed_at": "2026-09-03T12:35:00.422371+00:00",
+    "summary": "Article URL: https://akka.io/blog/we-ported-65-oss-projects\nComments URL: https://news.ycombinator.com/item?id=49548871\nPoints: 2\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "TylerJewell",
+      "language": null
+    }
+  },
+  {
+    "id": "7d89f816-5b7d-4494-adea-5bb101773388",
+    "title": "Show HN: StillMade – Programmable AI video pipeline; Chat to video (now)",
+    "source_url": "https://www.stillmade.shop",
+    "source": "hacker_news",
+    "collected_at": "2026-09-03T12:35:01.618853+00:00",
+    "analyzed_at": "2026-09-03T12:35:01.618853+00:00",
+    "summary": "Six months of 7+ hour days building this because video production is still a multi-tool mess. Describe what you want to make and StillMade guides you through making it with its tools.I wanted full con",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "nomanWasTaken",
+      "language": null
+    }
+  },
+  {
+    "id": "f315c13b-2227-48a9-b932-fe78b85c456f",
+    "title": "Paid Actors, AI Writing",
+    "source_url": "https://www.semafor.com/article/09/02/2026/paid-actors-ai-writing-how-a-new-kind-of-video-business-cashed-in-on-americas-divided-politics",
+    "source": "hacker_news",
+    "collected_at": "2026-09-03T12:35:02.815474+00:00",
+    "analyzed_at": "2026-09-03T12:35:02.815474+00:00",
+    "summary": "Article URL: https://www.semafor.com/article/09/02/2026/paid-actors-ai-writing-how-a-new-kind-of-video-business-cashed-in-on-americas-divided-politics\nComments URL: https://news.ycombinator.com/item?i",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "root-parent",
+      "language": null
+    }
+  },
+  {
+    "id": "32a58df4-bc7b-4665-96a7-bb7ac3147711",
+    "title": "Show HN: What Engineers must own in the AI Era? [video]",
+    "source_url": "https://www.youtube.com/watch?v=wpxVCZ8fqZA",
+    "source": "hacker_news",
+    "collected_at": "2026-09-03T12:35:04.015471+00:00",
+    "analyzed_at": "2026-09-03T12:35:04.015471+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=wpxVCZ8fqZA\nComments URL: https://news.ycombinator.com/item?id=49548812\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Harish_0089",
+      "language": null
+    }
+  },
+  {
+    "id": "1cb9e5bf-0e7c-48a8-9b43-53bfa9a3e183",
+    "title": "US urges G20 countries to allow AI training on creators' work",
+    "source_url": "https://www.ctvnews.ca/sci-tech/article/us-urges-g20-countries-to-allow-ai-training-on-creators-work/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-03T12:35:05.213520+00:00",
+    "analyzed_at": "2026-09-03T12:35:05.213520+00:00",
+    "summary": "Article URL: https://www.ctvnews.ca/sci-tech/article/us-urges-g20-countries-to-allow-ai-training-on-creators-work/\nComments URL: https://news.ycombinator.com/item?id=49548769\nPoints: 2\n# Comments: 3",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "throw0101d",
+      "language": null
+    }
+  }
+]

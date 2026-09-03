@@ -1,0 +1,169 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-09-03T12:34:35.614019+00:00",
+  "items": [
+    {
+      "name": "anthropics/commerce-agents",
+      "url": "https://github.com/anthropics/commerce-agents",
+      "summary": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "stars": 1138,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "GangTailorUpgrade/undress-service",
+      "url": "https://github.com/GangTailorUpgrade/undress-service",
+      "summary": "Dress AI Sponsor",
+      "stars": 979,
+      "language": "Python",
+      "topics": [
+        "18comic",
+        "coomer",
+        "coomer-downloader",
+        "coomer-party",
+        "coomer-porn",
+        "coomer-su",
+        "doujin-moe",
+        "ehviewer",
+        "ex-hentai",
+        "explicit-content",
+        "hitomi-la",
+        "kemono",
+        "kemono-downloader",
+        "kemono-oarty",
+        "kemono-party",
+        "kemono-porn",
+        "kemono-su",
+        "nudity",
+        "sex",
+        "unrestricted-ai"
+      ]
+    },
+    {
+      "name": "shadcn-ui/cn",
+      "url": "https://github.com/shadcn-ui/cn",
+      "summary": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+      "stars": 807,
+      "language": "TypeScript",
+      "topics": [
+        "clsx",
+        "cn",
+        "shadcn",
+        "tailwind-merge",
+        "tailwindcss"
+      ]
+    },
+    {
+      "name": "2akouwu/reverify",
+      "url": "https://github.com/2akouwu/reverify",
+      "summary": "Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
+      "stars": 675,
+      "language": "Python",
+      "topics": [
+        "agentic-workflow",
+        "ai-agents",
+        "automation",
+        "binary-analysis",
+        "codex",
+        "codex-cli",
+        "ctf",
+        "developer-tools",
+        "disassembler",
+        "execution-first",
+        "frida",
+        "hooks",
+        "malware-analysis",
+        "mcp",
+        "openai",
+        "powershell",
+        "prompt-engineering",
+        "reverse-engineering",
+        "skills",
+        "windows"
+      ]
+    },
+    {
+      "name": "Ryze-AI-Adgent/open-seo-mcp-skills",
+      "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
+      "summary": "Open-source SEO + GEO skills for Claude — keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataF",
+      "stars": 381,
+      "language": "Shell",
+      "topics": [
+        "ai-seo",
+        "backlinks",
+        "claude",
+        "claude-skills",
+        "dataforseo",
+        "generative-engine-optimization",
+        "geo",
+        "keyword-research",
+        "mcp",
+        "mcp-server",
+        "open-source-seo",
+        "rank-tracking",
+        "seo",
+        "seo-audit"
+      ]
+    },
+    {
+      "name": "Merserk/dlss5-visual-enhancer",
+      "url": "https://github.com/Merserk/dlss5-visual-enhancer",
+      "summary": "DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
+      "stars": 339,
+      "language": "Python",
+      "topics": [
+        "ai-upscaling",
+        "dlss",
+        "dlss-5",
+        "dlssg",
+        "frame-generation",
+        "frame-interpolation",
+        "image-enhancement",
+        "image-upscaling",
+        "neural-rendering",
+        "nvidia",
+        "nvidia-rtx",
+        "video-enhancement",
+        "video-upscaling"
+      ]
+    },
+    {
+      "name": "ZJU-REAL/Easel",
+      "url": "https://github.com/ZJU-REAL/Easel",
+      "summary": "An open-source AI agent for social media — discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.🎨一个开源的 AI 社交媒体智能体——发现热点趋势、创作内",
+      "stars": 297,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agent-skill",
+        "content-automation",
+        "content-creation",
+        "content-generation",
+        "mcp",
+        "openclaw",
+        "social-media",
+        "social-media-management"
+      ]
+    },
+    {
+      "name": "PhiloLabs/fable51-worlds",
+      "url": "https://github.com/PhiloLabs/fable51-worlds",
+      "summary": "worlds via code, from fable 5.1",
+      "stars": 280,
+      "language": "JavaScript",
+      "topics": [
+        "3d-reconstruction",
+        "ai-agents",
+        "claude",
+        "digital-twin",
+        "openstreetmap",
+        "procedural-generation",
+        "san-francisco",
+        "threejs",
+        "urban-simulation",
+        "webgl"
+      ]
+    }
+  ]
+}
