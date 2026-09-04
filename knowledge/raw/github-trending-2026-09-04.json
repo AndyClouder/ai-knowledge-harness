@@ -1,0 +1,118 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-09-04T12:28:40.607610+00:00",
+  "items": [
+    {
+      "name": "codejunkie99/fable-orchestrator",
+      "url": "https://github.com/codejunkie99/fable-orchestrator",
+      "summary": "Fable 5.1 orchestrates. GPT-5.6 Luna and DeepSeek V4 Flash implement.",
+      "stars": 425,
+      "language": "Shell",
+      "topics": []
+    },
+    {
+      "name": "Human-Agent-Society/reef",
+      "url": "https://github.com/Human-Agent-Society/reef",
+      "summary": "Continual learning infra for self-improving agents",
+      "stars": 358,
+      "language": "Python",
+      "topics": [
+        "agent-infrastructure",
+        "ai-agents",
+        "continual-learning",
+        "inference",
+        "llm",
+        "llm-training",
+        "reinforcement-learning",
+        "self-improving-agents"
+      ]
+    },
+    {
+      "name": "Albert-Weasker/niubigeo",
+      "url": "https://github.com/Albert-Weasker/niubigeo",
+      "summary": "Open-source AI brand visibility and competitor reports",
+      "stars": 309,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "nahrek/polyledger",
+      "url": "https://github.com/nahrek/polyledger",
+      "summary": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
+      "stars": 304,
+      "language": "Python",
+      "topics": [
+        "data-science",
+        "hypersync",
+        "polymarket",
+        "polymarketprediction-markets",
+        "prediction-market"
+      ]
+    },
+    {
+      "name": "op7418/guizang-yingzao-skill",
+      "url": "https://github.com/op7418/guizang-yingzao-skill",
+      "summary": "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
+      "stars": 294,
+      "language": "Python",
+      "topics": [
+        "agent-skill",
+        "ai-agent",
+        "anthropic",
+        "chinese-architecture",
+        "chinese-culture",
+        "claude-code",
+        "claude-skill",
+        "codex",
+        "cultural-heritage",
+        "editorial-design",
+        "gpt-image",
+        "image-generation",
+        "openai",
+        "photography",
+        "poster-design",
+        "skill",
+        "skills",
+        "travel-photography",
+        "visual-design",
+        "xiaohongshu"
+      ]
+    },
+    {
+      "name": "LAMDA-NeSy/Research-Starter-Kit",
+      "url": "https://github.com/LAMDA-NeSy/Research-Starter-Kit",
+      "summary": "从0开始，掌握做科研、写论文的基本流程。",
+      "stars": 288,
+      "language": null,
+      "topics": [
+        "ai-research",
+        "awesome",
+        "awesome-list",
+        "phd",
+        "phd-research",
+        "research-assistant",
+        "research-skills"
+      ]
+    },
+    {
+      "name": "carloslfu/slotstream",
+      "url": "https://github.com/carloslfu/slotstream",
+      "summary": "Run Qwen3.8-Flash-Next (125B MoE, 104 GB at 4-bit) on Macs with a fraction of that RAM by streaming experts from SSD. MLX + Swift, Ollama-compatible API.",
+      "stars": 286,
+      "language": "Swift",
+      "topics": [
+        "apple-silicon",
+        "llm",
+        "llm-inference",
+        "local-llm",
+        "macos",
+        "mixture-of-experts",
+        "mlx",
+        "ollama",
+        "qwen",
+        "swift"
+      ]
+    }
+  ]
+}

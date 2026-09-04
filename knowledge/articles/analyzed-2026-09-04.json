@@ -1,0 +1,149 @@
+[
+  {
+    "id": "212715d6-8217-49fd-b17b-4ed73ef9af32",
+    "title": "codejunkie99/fable-orchestrator",
+    "source_url": "https://github.com/codejunkie99/fable-orchestrator",
+    "source": "unknown",
+    "collected_at": "2026-09-04T12:28:48.269034+00:00",
+    "analyzed_at": "2026-09-04T12:28:48.269034+00:00",
+    "summary": "Fable 5.1 orchestrates. GPT-5.6 Luna and DeepSeek V4 Flash implement.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 425,
+      "score": null,
+      "author": null,
+      "language": "Shell"
+    }
+  },
+  {
+    "id": "4a1489ca-31e7-44fb-8d19-2cf5cb044851",
+    "title": "Human-Agent-Society/reef",
+    "source_url": "https://github.com/Human-Agent-Society/reef",
+    "source": "unknown",
+    "collected_at": "2026-09-04T12:28:49.507321+00:00",
+    "analyzed_at": "2026-09-04T12:28:49.507321+00:00",
+    "summary": "Continual learning infra for self-improving agents",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 358,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "842aeec5-b37e-4850-9d65-5f8e57667921",
+    "title": "Albert-Weasker/niubigeo",
+    "source_url": "https://github.com/Albert-Weasker/niubigeo",
+    "source": "unknown",
+    "collected_at": "2026-09-04T12:28:50.721409+00:00",
+    "analyzed_at": "2026-09-04T12:28:50.721409+00:00",
+    "summary": "Open-source AI brand visibility and competitor reports",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 309,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "bbd6854e-dfe1-4b5d-93b0-fce976662b2d",
+    "title": "nahrek/polyledger",
+    "source_url": "https://github.com/nahrek/polyledger",
+    "source": "unknown",
+    "collected_at": "2026-09-04T12:28:51.938780+00:00",
+    "analyzed_at": "2026-09-04T12:28:51.938780+00:00",
+    "summary": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 304,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "72bdbffa-45ee-4e25-af2d-1a405dd41083",
+    "title": "op7418/guizang-yingzao-skill",
+    "source_url": "https://github.com/op7418/guizang-yingzao-skill",
+    "source": "unknown",
+    "collected_at": "2026-09-04T12:28:53.165593+00:00",
+    "analyzed_at": "2026-09-04T12:28:53.165593+00:00",
+    "summary": "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 294,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "0f08da38-da71-455c-a576-3ce58d4b6252",
+    "title": "LAMDA-NeSy/Research-Starter-Kit",
+    "source_url": "https://github.com/LAMDA-NeSy/Research-Starter-Kit",
+    "source": "unknown",
+    "collected_at": "2026-09-04T12:28:54.393304+00:00",
+    "analyzed_at": "2026-09-04T12:28:54.393304+00:00",
+    "summary": "从0开始，掌握做科研、写论文的基本流程。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 288,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "a7127c45-1f6c-4bbd-90bd-6a1fff187d4a",
+    "title": "carloslfu/slotstream",
+    "source_url": "https://github.com/carloslfu/slotstream",
+    "source": "unknown",
+    "collected_at": "2026-09-04T12:28:55.633993+00:00",
+    "analyzed_at": "2026-09-04T12:28:55.633993+00:00",
+    "summary": "Run Qwen3.8-Flash-Next (125B MoE, 104 GB at 4-bit) on Macs with a fraction of that RAM by streaming experts from SSD. MLX + Swift, Ollama-compatible API.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 286,
+      "score": null,
+      "author": null,
+      "language": "Swift"
+    }
+  }
+]
