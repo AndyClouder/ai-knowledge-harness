@@ -1,0 +1,422 @@
+[
+  {
+    "id": "80675a7d-2456-4c06-90ed-6dd8c795aca4",
+    "title": "TetreesEX/TetreesAgent_EX",
+    "source_url": "https://github.com/TetreesEX/TetreesAgent_EX",
+    "source": "unknown",
+    "collected_at": "2026-09-05T11:37:01.181567+00:00",
+    "analyzed_at": "2026-09-05T11:37:01.181567+00:00",
+    "summary": "This Agent MCP allows you to train external intelligence with zero GPU and let you trade it at Tetrees EX ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 314,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "fe09f059-cbf1-4f2b-b3a7-49505f432c88",
+    "title": "yilujian/easy-writing",
+    "source_url": "https://github.com/yilujian/easy-writing",
+    "source": "unknown",
+    "collected_at": "2026-09-05T11:37:02.374496+00:00",
+    "analyzed_at": "2026-09-05T11:37:02.374496+00:00",
+    "summary": "易创：纯本地、开源的 AI 网文写作桌面软件，支持小说创作、AI 辅助写作、BYOK 与自定义提示词。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 292,
+      "score": null,
+      "author": null,
+      "language": "Vue"
+    }
+  },
+  {
+    "id": "dcd9db26-4c12-4678-a184-50fe0406660f",
+    "title": "LunarXuan/image-prompt-reverse",
+    "source_url": "https://github.com/LunarXuan/image-prompt-reverse",
+    "source": "unknown",
+    "collected_at": "2026-09-05T11:37:03.586118+00:00",
+    "analyzed_at": "2026-09-05T11:37:03.586118+00:00",
+    "summary": "High-fidelity AI image prompt reverse-engineering skill for Codex",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 290,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "0dcff882-8f74-450d-8804-3663d880abab",
+    "title": "useagenthq/useagent",
+    "source_url": "https://github.com/useagenthq/useagent",
+    "source": "unknown",
+    "collected_at": "2026-09-05T11:37:04.797274+00:00",
+    "analyzed_at": "2026-09-05T11:37:04.797274+00:00",
+    "summary": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 284,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "3025175e-316a-4b44-b001-92fa014818b1",
+    "title": "gozen3ji/consulting-pptx-skill",
+    "source_url": "https://github.com/gozen3ji/consulting-pptx-skill",
+    "source": "unknown",
+    "collected_at": "2026-09-05T11:37:06.007602+00:00",
+    "analyzed_at": "2026-09-05T11:37:06.007602+00:00",
+    "summary": "AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋62型スライド型カタログ（SlideSpec 36型＋自由記述27パーツ）＋生成パイプライン＋機械チェック",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 234,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "caf30595-50de-496a-99df-58b6029d035d",
+    "title": "Rion-Wu-tech/wechat-intelligence-hub",
+    "source_url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
+    "source": "unknown",
+    "collected_at": "2026-09-05T11:37:07.243164+00:00",
+    "analyzed_at": "2026-09-05T11:37:07.243164+00:00",
+    "summary": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 219,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "eb9aa8aa-bc37-480b-b252-6e7e45f6d4d3",
+    "title": "joeseesun/qiaomu-book-reader",
+    "source_url": "https://github.com/joeseesun/qiaomu-book-reader",
+    "source": "unknown",
+    "collected_at": "2026-09-05T11:37:08.437913+00:00",
+    "analyzed_at": "2026-09-05T11:37:08.437913+00:00",
+    "summary": "在 Obsidian 中读书、就地问 AI、保存 Markdown 笔记 | Read EPUB/PDF, ask AI beside the page, and keep your notes locally.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 209,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "3a648999-7861-4a82-ad4d-81c73e79afb6",
+    "title": "Toolcall-doctor – Shrink broken LLM tool-call reproducers",
+    "source_url": "https://github.com/aldi949/toolcall-doctor",
+    "source": "hacker_news",
+    "collected_at": "2026-09-05T11:37:09.632980+00:00",
+    "analyzed_at": "2026-09-05T11:37:09.632980+00:00",
+    "summary": "Article URL: https://github.com/aldi949/toolcall-doctor\nComments URL: https://news.ycombinator.com/item?id=49574887\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Aldi949",
+      "language": null
+    }
+  },
+  {
+    "id": "1c73e676-a109-402f-a697-296a1947ee85",
+    "title": "Aegis – Inline security sidecar and eBPF sandbox for LLM agents",
+    "source_url": "https://aegiscruc.io",
+    "source": "hacker_news",
+    "collected_at": "2026-09-05T11:37:10.830090+00:00",
+    "analyzed_at": "2026-09-05T11:37:10.830090+00:00",
+    "summary": "Article URL: https://aegiscruc.io\nComments URL: https://news.ycombinator.com/item?id=49573010\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Mali1",
+      "language": null
+    }
+  },
+  {
+    "id": "cd4d7f03-ca7b-4661-b526-ea4b4e803082",
+    "title": "GotChat – Apache 2.0 LLM chat with installable full-stacked plugins",
+    "source_url": "https://github.com/gotchat-ai/foundry",
+    "source": "hacker_news",
+    "collected_at": "2026-09-05T11:37:12.036244+00:00",
+    "analyzed_at": "2026-09-05T11:37:12.036244+00:00",
+    "summary": "Article URL: https://github.com/gotchat-ai/foundry\nComments URL: https://news.ycombinator.com/item?id=49569265\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "gotchat",
+      "language": null
+    }
+  },
+  {
+    "id": "c076edbf-ea8d-43f7-b5e2-c892c890127f",
+    "title": "Local Multi-Agent Swarm: An ant farm for local LLM agents",
+    "source_url": "https://github.com/franciscocarloserra/local-multi-agent-swarm",
+    "source": "hacker_news",
+    "collected_at": "2026-09-05T11:37:13.242556+00:00",
+    "analyzed_at": "2026-09-05T11:37:13.242556+00:00",
+    "summary": "Article URL: https://github.com/franciscocarloserra/local-multi-agent-swarm\nComments URL: https://news.ycombinator.com/item?id=49568634\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "FranciscoCarlos",
+      "language": null
+    }
+  },
+  {
+    "id": "433cff7c-8fa3-45d7-90a4-7303e870d240",
+    "title": "Word Warp Drive – An Interactive LLM Explainer, Star Trek TNG Style",
+    "source_url": "https://marklevy.info/blog/word-warp-drive/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-05T11:37:14.450111+00:00",
+    "analyzed_at": "2026-09-05T11:37:14.450111+00:00",
+    "summary": "Article URL: https://marklevy.info/blog/word-warp-drive/\nComments URL: https://news.ycombinator.com/item?id=49567782\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "marktl",
+      "language": null
+    }
+  },
+  {
+    "id": "b1924d17-f699-464f-882b-3d660fec3e8d",
+    "title": "A no_std memory engine that stops an LLM agent citing its own output",
+    "source_url": "https://github.com/vitaliyfedotovpro-art/astrum-hsam-embedded",
+    "source": "hacker_news",
+    "collected_at": "2026-09-05T11:37:15.635891+00:00",
+    "analyzed_at": "2026-09-05T11:37:15.635891+00:00",
+    "summary": "Article URL: https://github.com/vitaliyfedotovpro-art/astrum-hsam-embedded\nComments URL: https://news.ycombinator.com/item?id=49564954\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "astrumverum",
+      "language": null
+    }
+  },
+  {
+    "id": "8138afda-acba-4b33-be13-87ce38e15508",
+    "title": "Native Rust/C++ LLM inference engine",
+    "source_url": "https://github.com/truespar/paddock",
+    "source": "hacker_news",
+    "collected_at": "2026-09-05T11:37:16.820961+00:00",
+    "analyzed_at": "2026-09-05T11:37:16.820961+00:00",
+    "summary": "Article URL: https://github.com/truespar/paddock\nComments URL: https://news.ycombinator.com/item?id=49561513\nPoints: 2\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "nylanderjens",
+      "language": null
+    }
+  },
+  {
+    "id": "8f9ae2d2-10de-4977-8a24-4be0b15674b6",
+    "title": "An audio end-of-turn gate before LLM invocation in a local voice-agent pipeline",
+    "source_url": "https://www.reddit.com/r/LLMDevs/comments/1w6w7cu/i_added_an_audio_endofturn_gate_before_llm/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-05T11:37:18.015020+00:00",
+    "analyzed_at": "2026-09-05T11:37:18.015020+00:00",
+    "summary": "Article URL: https://www.reddit.com/r/LLMDevs/comments/1w6w7cu/i_added_an_audio_endofturn_gate_before_llm/\nComments URL: https://news.ycombinator.com/item?id=49561360\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "aufklarer",
+      "language": null
+    }
+  },
+  {
+    "id": "ba33211e-b356-4f8c-8655-412ee873ffc9",
+    "title": "An open ad protocol for LLM inference",
+    "source_url": "https://github.com/musa92/uap",
+    "source": "hacker_news",
+    "collected_at": "2026-09-05T11:37:19.200373+00:00",
+    "analyzed_at": "2026-09-05T11:37:19.200373+00:00",
+    "summary": "Article URL: https://github.com/musa92/uap\nComments URL: https://news.ycombinator.com/item?id=49560582\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Musagayev",
+      "language": null
+    }
+  },
+  {
+    "id": "019f353a-87d2-4ca2-9e82-22c975f67dd2",
+    "title": "Ask HN: Is there a test for measuring cognitive affects from LLM usage?",
+    "source_url": "https://news.ycombinator.com/item?id=49557687",
+    "source": "hacker_news",
+    "collected_at": "2026-09-05T11:37:20.386255+00:00",
+    "analyzed_at": "2026-09-05T11:37:20.386255+00:00",
+    "summary": "A part of me feels like I may be loosing my ability to think.Is there a test I can periodically do to see how my cognitive abilities are being affected by my AI usage all day?\n\nComments URL: https://n",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "niwrad",
+      "language": null
+    }
+  },
+  {
+    "id": "b120917e-32fc-4b6d-9279-d9b67b541b1a",
+    "title": "Ask HN: Why don't LLM APIs have a first-class test mode?",
+    "source_url": "https://news.ycombinator.com/item?id=49556909",
+    "source": "hacker_news",
+    "collected_at": "2026-09-05T11:37:21.585532+00:00",
+    "analyzed_at": "2026-09-05T11:37:21.585532+00:00",
+    "summary": "Context: At work, we’re getting ready to stress-test a chatbot for scalability.One fairly obvious issue came up: if our load tests exercise the real OpenAI/Claude APIs, a scalability test can quickly ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "masternoob",
+      "language": null
+    }
+  },
+  {
+    "id": "8d9ebb6c-f296-4d8f-b920-63ca44f89973",
+    "title": "Show HN: We built client-side AST SEO audits for a Next.js CMS to avoid LLM lag",
+    "source_url": "https://github.com/nextblock-cms/nextblock",
+    "source": "hacker_news",
+    "collected_at": "2026-09-05T11:37:22.778762+00:00",
+    "analyzed_at": "2026-09-05T11:37:22.778762+00:00",
+    "summary": "Article URL: https://github.com/nextblock-cms/nextblock\nComments URL: https://news.ycombinator.com/item?id=49555956\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "nextblock",
+      "language": null
+    }
+  },
+  {
+    "id": "a55eb270-cae7-4670-9b27-5815b574d468",
+    "title": "Three-LLM: Three.js-based WebGPU LLM inference engine",
+    "source_url": "https://three-llm.ben3d.ca",
+    "source": "hacker_news",
+    "collected_at": "2026-09-05T11:37:23.971434+00:00",
+    "analyzed_at": "2026-09-05T11:37:23.971434+00:00",
+    "summary": "Article URL: https://three-llm.ben3d.ca\nComments URL: https://news.ycombinator.com/item?id=49555712\nPoints: 12\n# Comments: 5",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "bhouston",
+      "language": null
+    }
+  }
+]
