@@ -1,0 +1,133 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-09-06T11:56:13.594869+00:00",
+  "items": [
+    {
+      "name": "Language model watermarks degrade unevenly across different linguistic families",
+      "url": "https://theprimary.com/ai-tech/2026-08-28/language-model-watermarks-linguistic-families",
+      "summary": "Article URL: https://theprimary.com/ai-tech/2026-08-28/language-model-watermarks-linguistic-families\nComments URL: https://news.ycombinator.com/item?id=49567549\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Anon84",
+      "published": "Fri, 04 Sep 2026 17:26:22 +0000"
+    },
+    {
+      "name": "How to build a diffusion language model",
+      "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+      "summary": "Article URL: https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/\nComments URL: https://news.ycombinator.com/item?id=49503956\nPoints: 184\n# Comments: 20",
+      "source": "hacker_news",
+      "score": null,
+      "author": "volodia",
+      "published": "Sun, 30 Aug 2026 23:41:32 +0000"
+    },
+    {
+      "name": "Joint Optimization of Tool Creation and Use for Large Language Model Agents",
+      "url": "https://tool-use-smith.github.io/",
+      "summary": "Article URL: https://tool-use-smith.github.io/\nComments URL: https://news.ycombinator.com/item?id=49443122\nPoints: 5\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "blackcat201",
+      "published": "Wed, 26 Aug 2026 01:36:48 +0000"
+    },
+    {
+      "name": "Right-Sized Language Model",
+      "url": "https://joecooper.me/blog/cpuhaiku/",
+      "summary": "Article URL: https://joecooper.me/blog/cpuhaiku/\nComments URL: https://news.ycombinator.com/item?id=49428663\nPoints: 5\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "thatjoeoverthr",
+      "published": "Tue, 25 Aug 2026 03:10:44 +0000"
+    },
+    {
+      "name": "The Best Way to Make Your (Small) Vision Language Model Smarter",
+      "url": "https://loganbolton.github.io/blog/vlm-verification/",
+      "summary": "Article URL: https://loganbolton.github.io/blog/vlm-verification/\nComments URL: https://news.ycombinator.com/item?id=49334664\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "septisum",
+      "published": "Mon, 17 Aug 2026 17:34:05 +0000"
+    },
+    {
+      "name": "LabLLM – Train a small language model from scratch on Apple Silicon",
+      "url": "https://github.com/Greninja9257/LabLLM",
+      "summary": "Article URL: https://github.com/Greninja9257/LabLLM\nComments URL: https://news.ycombinator.com/item?id=49326163\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Developer1924",
+      "published": "Mon, 17 Aug 2026 03:10:03 +0000"
+    },
+    {
+      "name": "BananaMind 2 Pro: Language Model Trained on a Consumer GPU in 20 days",
+      "url": "https://huggingface.co/BananaMind/BananaMind-2-Pro",
+      "summary": "Article URL: https://huggingface.co/BananaMind/BananaMind-2-Pro\nComments URL: https://news.ycombinator.com/item?id=49302783\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "banaxii",
+      "published": "Fri, 14 Aug 2026 18:30:54 +0000"
+    },
+    {
+      "name": "LFM2.5-VL-3B: A Better and Faster Vision-Language Model for the Edge",
+      "url": "https://www.liquid.ai/blog/lfm2-5-vl-3b",
+      "summary": "Article URL: https://www.liquid.ai/blog/lfm2-5-vl-3b\nComments URL: https://news.ycombinator.com/item?id=49272747\nPoints: 11\n# Comments: 3",
+      "source": "hacker_news",
+      "score": null,
+      "author": "samstevens",
+      "published": "Wed, 12 Aug 2026 14:16:02 +0000"
+    },
+    {
+      "name": "1mongpt: A large language model, except it's one guy",
+      "url": "https://iwanttochee.se",
+      "summary": "Article URL: https://iwanttochee.se\nComments URL: https://news.ycombinator.com/item?id=49224296\nPoints: 6\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "raygen",
+      "published": "Sat, 08 Aug 2026 18:09:43 +0000"
+    },
+    {
+      "name": "Strangers pretrained a language model with HF PRs and a cron job",
+      "url": "https://news.ycombinator.com/item?id=49141174",
+      "summary": "Last week a few of us pretrained a 15M-parameter language model from scratch —\npast its Chinchilla-optimal token budget — with no cluster, no server, and no\nbudget. The training coordinator is a GitHu",
+      "source": "hacker_news",
+      "score": null,
+      "author": "somevyn",
+      "published": "Sun, 02 Aug 2026 04:42:50 +0000"
+    },
+    {
+      "name": "Aispa: User-Centric System Prompt Auditing for Large Language Model Applications",
+      "url": "https://arxiv.org/abs/2607.28617",
+      "summary": "Article URL: https://arxiv.org/abs/2607.28617\nComments URL: https://news.ycombinator.com/item?id=49135723\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "tcp_handshaker",
+      "published": "Sat, 01 Aug 2026 16:19:54 +0000"
+    },
+    {
+      "name": "Orca-Bench: How Ready Are Language Model Agents for Oncall?",
+      "url": "https://arxiv.org/abs/2607.28545",
+      "summary": "Article URL: https://arxiv.org/abs/2607.28545\nComments URL: https://news.ycombinator.com/item?id=49126943\nPoints: 30\n# Comments: 11",
+      "source": "hacker_news",
+      "score": null,
+      "author": "yruzin",
+      "published": "Fri, 31 Jul 2026 18:32:43 +0000"
+    },
+    {
+      "name": "LoRA Fine-Tuning and Profiling of a 0.5B Language Model on Apple Silicon",
+      "url": "https://zenodo.org/records/21541601",
+      "summary": "Article URL: https://zenodo.org/records/21541601\nComments URL: https://news.ycombinator.com/item?id=49057774\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "tanmaydesh5189",
+      "published": "Sun, 26 Jul 2026 13:02:49 +0000"
+    },
+    {
+      "name": "Quaternion small language-model comparison",
+      "url": "https://github.com/ibackstrom/QuartAI",
+      "summary": "Article URL: https://github.com/ibackstrom/QuartAI\nComments URL: https://news.ycombinator.com/item?id=48916849\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ibackstrom",
+      "published": "Wed, 15 Jul 2026 06:08:49 +0000"
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+[
+  {
+    "id": "45c89198-d062-4248-90b4-11cb37270b07",
+    "title": "pierrenade/short-video-generator-AI",
+    "source_url": "https://github.com/pierrenade/short-video-generator-AI",
+    "source": "unknown",
+    "collected_at": "2026-09-06T11:56:14.995357+00:00",
+    "analyzed_at": "2026-09-06T11:56:14.995357+00:00",
+    "summary": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 487,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "7e525c7a-3a75-4bb1-9658-4f2691f7fdfb",
+    "title": "vinzdg/codenotch",
+    "source_url": "https://github.com/vinzdg/codenotch",
+    "source": "unknown",
+    "collected_at": "2026-09-06T11:56:16.202850+00:00",
+    "analyzed_at": "2026-09-06T11:56:16.202850+00:00",
+    "summary": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 432,
+      "score": null,
+      "author": null,
+      "language": "Swift"
+    }
+  },
+  {
+    "id": "edf647ae-99bf-47da-962d-b4ad0ca05832",
+    "title": "tigerless-labs/agent-memory",
+    "source_url": "https://github.com/tigerless-labs/agent-memory",
+    "source": "unknown",
+    "collected_at": "2026-09-06T11:56:17.409235+00:00",
+    "analyzed_at": "2026-09-06T11:56:17.409235+00:00",
+    "summary": "",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 313,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "b0298693-65f1-4274-89f7-2c47ea5db62b",
+    "title": "okf-memory/okf-agent-memory",
+    "source_url": "https://github.com/okf-memory/okf-agent-memory",
+    "source": "unknown",
+    "collected_at": "2026-09-06T11:56:18.606570+00:00",
+    "analyzed_at": "2026-09-06T11:56:18.606570+00:00",
+    "summary": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zer",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 213,
+      "score": null,
+      "author": null,
+      "language": "Go"
+    }
+  },
+  {
+    "id": "fa8bb5cf-6eec-4272-a727-3f2110283460",
+    "title": "Language model watermarks degrade unevenly across different linguistic families",
+    "source_url": "https://theprimary.com/ai-tech/2026-08-28/language-model-watermarks-linguistic-families",
+    "source": "hacker_news",
+    "collected_at": "2026-09-06T11:56:19.815957+00:00",
+    "analyzed_at": "2026-09-06T11:56:19.815957+00:00",
+    "summary": "Article URL: https://theprimary.com/ai-tech/2026-08-28/language-model-watermarks-linguistic-families\nComments URL: https://news.ycombinator.com/item?id=49567549\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Anon84",
+      "language": null
+    }
+  },
+  {
+    "id": "0141a4a2-3fb3-4916-a5e5-aa3d45be6e2c",
+    "title": "How to build a diffusion language model",
+    "source_url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-06T11:56:21.023128+00:00",
+    "analyzed_at": "2026-09-06T11:56:21.023128+00:00",
+    "summary": "Article URL: https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/\nComments URL: https://news.ycombinator.com/item?id=49503956\nPoints: 184\n# Comments: 20",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "volodia",
+      "language": null
+    }
+  },
+  {
+    "id": "22c1aecb-5c12-472d-90e1-9dbd00c19077",
+    "title": "Joint Optimization of Tool Creation and Use for Large Language Model Agents",
+    "source_url": "https://tool-use-smith.github.io/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-06T11:56:22.229409+00:00",
+    "analyzed_at": "2026-09-06T11:56:22.229409+00:00",
+    "summary": "Article URL: https://tool-use-smith.github.io/\nComments URL: https://news.ycombinator.com/item?id=49443122\nPoints: 5\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "blackcat201",
+      "language": null
+    }
+  },
+  {
+    "id": "349c0e31-b03d-4b50-8ccc-493d797a89db",
+    "title": "Right-Sized Language Model",
+    "source_url": "https://joecooper.me/blog/cpuhaiku/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-06T11:56:23.440274+00:00",
+    "analyzed_at": "2026-09-06T11:56:23.440274+00:00",
+    "summary": "Article URL: https://joecooper.me/blog/cpuhaiku/\nComments URL: https://news.ycombinator.com/item?id=49428663\nPoints: 5\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "thatjoeoverthr",
+      "language": null
+    }
+  },
+  {
+    "id": "d64c036e-f261-4224-bf42-ecf48ffd3292",
+    "title": "The Best Way to Make Your (Small) Vision Language Model Smarter",
+    "source_url": "https://loganbolton.github.io/blog/vlm-verification/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-06T11:56:24.642356+00:00",
+    "analyzed_at": "2026-09-06T11:56:24.642356+00:00",
+    "summary": "Article URL: https://loganbolton.github.io/blog/vlm-verification/\nComments URL: https://news.ycombinator.com/item?id=49334664\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "septisum",
+      "language": null
+    }
+  },
+  {
+    "id": "48ced1bb-173e-4ef7-9e52-75c33e9b127d",
+    "title": "LabLLM – Train a small language model from scratch on Apple Silicon",
+    "source_url": "https://github.com/Greninja9257/LabLLM",
+    "source": "hacker_news",
+    "collected_at": "2026-09-06T11:56:25.854048+00:00",
+    "analyzed_at": "2026-09-06T11:56:25.854048+00:00",
+    "summary": "Article URL: https://github.com/Greninja9257/LabLLM\nComments URL: https://news.ycombinator.com/item?id=49326163\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Developer1924",
+      "language": null
+    }
+  },
+  {
+    "id": "31e4f301-bf7a-4177-828f-830c64880e1b",
+    "title": "BananaMind 2 Pro: Language Model Trained on a Consumer GPU in 20 days",
+    "source_url": "https://huggingface.co/BananaMind/BananaMind-2-Pro",
+    "source": "hacker_news",
+    "collected_at": "2026-09-06T11:56:27.065832+00:00",
+    "analyzed_at": "2026-09-06T11:56:27.065832+00:00",
+    "summary": "Article URL: https://huggingface.co/BananaMind/BananaMind-2-Pro\nComments URL: https://news.ycombinator.com/item?id=49302783\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "banaxii",
+      "language": null
+    }
+  },
+  {
+    "id": "8031f34e-1d44-456e-81d6-9d08414a3b54",
+    "title": "LFM2.5-VL-3B: A Better and Faster Vision-Language Model for the Edge",
+    "source_url": "https://www.liquid.ai/blog/lfm2-5-vl-3b",
+    "source": "hacker_news",
+    "collected_at": "2026-09-06T11:56:28.269496+00:00",
+    "analyzed_at": "2026-09-06T11:56:28.269496+00:00",
+    "summary": "Article URL: https://www.liquid.ai/blog/lfm2-5-vl-3b\nComments URL: https://news.ycombinator.com/item?id=49272747\nPoints: 11\n# Comments: 3",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "samstevens",
+      "language": null
+    }
+  },
+  {
+    "id": "13a8c0bc-77d4-43fe-a083-b08b760b273f",
+    "title": "1mongpt: A large language model, except it's one guy",
+    "source_url": "https://iwanttochee.se",
+    "source": "hacker_news",
+    "collected_at": "2026-09-06T11:56:29.474774+00:00",
+    "analyzed_at": "2026-09-06T11:56:29.474774+00:00",
+    "summary": "Article URL: https://iwanttochee.se\nComments URL: https://news.ycombinator.com/item?id=49224296\nPoints: 6\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "raygen",
+      "language": null
+    }
+  },
+  {
+    "id": "14b42864-f88c-446a-8fbb-75dd16cc9450",
+    "title": "Strangers pretrained a language model with HF PRs and a cron job",
+    "source_url": "https://news.ycombinator.com/item?id=49141174",
+    "source": "hacker_news",
+    "collected_at": "2026-09-06T11:56:30.681700+00:00",
+    "analyzed_at": "2026-09-06T11:56:30.681700+00:00",
+    "summary": "Last week a few of us pretrained a 15M-parameter language model from scratch —\npast its Chinchilla-optimal token budget — with no cluster, no server, and no\nbudget. The training coordinator is a GitHu",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "somevyn",
+      "language": null
+    }
+  },
+  {
+    "id": "439fda03-23a7-4648-b1c6-f577cd11cb0a",
+    "title": "Aispa: User-Centric System Prompt Auditing for Large Language Model Applications",
+    "source_url": "https://arxiv.org/abs/2607.28617",
+    "source": "hacker_news",
+    "collected_at": "2026-09-06T11:56:31.888840+00:00",
+    "analyzed_at": "2026-09-06T11:56:31.888840+00:00",
+    "summary": "Article URL: https://arxiv.org/abs/2607.28617\nComments URL: https://news.ycombinator.com/item?id=49135723\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "tcp_handshaker",
+      "language": null
+    }
+  },
+  {
+    "id": "a33e5ef0-3759-4073-860d-89c663c0a541",
+    "title": "Orca-Bench: How Ready Are Language Model Agents for Oncall?",
+    "source_url": "https://arxiv.org/abs/2607.28545",
+    "source": "hacker_news",
+    "collected_at": "2026-09-06T11:56:33.101551+00:00",
+    "analyzed_at": "2026-09-06T11:56:33.101551+00:00",
+    "summary": "Article URL: https://arxiv.org/abs/2607.28545\nComments URL: https://news.ycombinator.com/item?id=49126943\nPoints: 30\n# Comments: 11",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "yruzin",
+      "language": null
+    }
+  },
+  {
+    "id": "e66e99da-e5b8-486e-af71-17bca6089cbf",
+    "title": "LoRA Fine-Tuning and Profiling of a 0.5B Language Model on Apple Silicon",
+    "source_url": "https://zenodo.org/records/21541601",
+    "source": "hacker_news",
+    "collected_at": "2026-09-06T11:56:34.315887+00:00",
+    "analyzed_at": "2026-09-06T11:56:34.315887+00:00",
+    "summary": "Article URL: https://zenodo.org/records/21541601\nComments URL: https://news.ycombinator.com/item?id=49057774\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "tanmaydesh5189",
+      "language": null
+    }
+  },
+  {
+    "id": "9a5e2e5a-1735-476d-a45d-7af892e9d8c0",
+    "title": "Quaternion small language-model comparison",
+    "source_url": "https://github.com/ibackstrom/QuartAI",
+    "source": "hacker_news",
+    "collected_at": "2026-09-06T11:56:35.529295+00:00",
+    "analyzed_at": "2026-09-06T11:56:35.529295+00:00",
+    "summary": "Article URL: https://github.com/ibackstrom/QuartAI\nComments URL: https://news.ycombinator.com/item?id=48916849\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ibackstrom",
+      "language": null
+    }
+  }
+]
