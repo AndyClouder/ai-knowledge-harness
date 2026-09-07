@@ -1,0 +1,422 @@
+[
+  {
+    "id": "ec13bb44-5288-44bb-9413-3e2efacf7c8c",
+    "title": "EverettFish/holo-card-studio",
+    "source_url": "https://github.com/EverettFish/holo-card-studio",
+    "source": "unknown",
+    "collected_at": "2026-09-07T13:57:32.255269+00:00",
+    "analyzed_at": "2026-09-07T13:57:32.255269+00:00",
+    "summary": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 655,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "2126ffe9-3daf-4abc-9df4-2751904024c9",
+    "title": "BoardUI/boardui",
+    "source_url": "https://github.com/BoardUI/boardui",
+    "source": "unknown",
+    "collected_at": "2026-09-07T13:57:33.500678+00:00",
+    "analyzed_at": "2026-09-07T13:57:33.500678+00:00",
+    "summary": "React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 324,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "3acf083f-222c-400b-9f29-5f6c48cd4fac",
+    "title": "yizhi-chengzi/video-ai-talking",
+    "source_url": "https://github.com/yizhi-chengzi/video-ai-talking",
+    "source": "unknown",
+    "collected_at": "2026-09-07T13:57:34.746357+00:00",
+    "analyzed_at": "2026-09-07T13:57:34.746357+00:00",
+    "summary": "想做真人口播，又不必自己对着镜头念。上传一段真人出镜视频，写好字幕，本机配音并对口型，合成竖屏 MP4。密钥只留在浏览器里。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 320,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "9e255c78-6bcf-47e0-a1c8-1ad622aa8510",
+    "title": "adtexterry-lgtm/unigit-ecosystem",
+    "source_url": "https://github.com/adtexterry-lgtm/unigit-ecosystem",
+    "source": "unknown",
+    "collected_at": "2026-09-07T13:57:35.989118+00:00",
+    "analyzed_at": "2026-09-07T13:57:35.989118+00:00",
+    "summary": "UNIGIT public brand and ecosystem hub — AI should work for everyone.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 315,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "221cbffb-61cf-4dea-a9ab-1f7fb67e1b40",
+    "title": "AI Backlash Comes to the Classroom",
+    "source_url": "https://www.axios.com/2026/09/07/ai-schools-backlash-bans-new-york-los-angeles",
+    "source": "hacker_news",
+    "collected_at": "2026-09-07T13:57:37.246539+00:00",
+    "analyzed_at": "2026-09-07T13:57:37.246539+00:00",
+    "summary": "Article URL: https://www.axios.com/2026/09/07/ai-schools-backlash-bans-new-york-los-angeles\nComments URL: https://news.ycombinator.com/item?id=49598209\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "1vuio0pswjnm7",
+      "language": null
+    }
+  },
+  {
+    "id": "ae29befb-b965-4de9-a371-afcc1897786e",
+    "title": "AI Agents Aha Moment",
+    "source_url": "https://k1024.org/posts/2026/2026-09-06-ai-agents-aha/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-07T13:57:38.490857+00:00",
+    "analyzed_at": "2026-09-07T13:57:38.490857+00:00",
+    "summary": "Article URL: https://k1024.org/posts/2026/2026-09-06-ai-agents-aha/\nComments URL: https://news.ycombinator.com/item?id=49598058\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "edward",
+      "language": null
+    }
+  },
+  {
+    "id": "b32acc6a-a9b9-4c29-a385-1dfbba7491e4",
+    "title": "Show HN: Neuro, a compiled language for AI that matches Clang -O2",
+    "source_url": "https://github.com/PanzerPeter/Neuro",
+    "source": "hacker_news",
+    "collected_at": "2026-09-07T13:57:39.734986+00:00",
+    "analyzed_at": "2026-09-07T13:57:39.734986+00:00",
+    "summary": "Article URL: https://github.com/PanzerPeter/Neuro\nComments URL: https://news.ycombinator.com/item?id=49597951\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "PanzerPeter",
+      "language": null
+    }
+  },
+  {
+    "id": "70519897-5b3d-4a66-a9ab-bc583484947f",
+    "title": "Show HN: A brainstorm canvas with no back end, running on Chrome's on-device AI",
+    "source_url": "https://idea.xiaohan.dev",
+    "source": "hacker_news",
+    "collected_at": "2026-09-07T13:57:40.979721+00:00",
+    "analyzed_at": "2026-09-07T13:57:40.979721+00:00",
+    "summary": "One person. Wrote it, use it every day. No team, no roadmap;  use Chrome 138+\n\nComments URL: https://news.ycombinator.com/item?id=49597949\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "hanstyle",
+      "language": null
+    }
+  },
+  {
+    "id": "5cc431da-b048-46f3-ad8b-6c8c82942e11",
+    "title": "Show HN: NoMac.App – iOS CI/CD pipeline built for AI agents",
+    "source_url": "https://nomac.app",
+    "source": "hacker_news",
+    "collected_at": "2026-09-07T13:57:42.222706+00:00",
+    "analyzed_at": "2026-09-07T13:57:42.222706+00:00",
+    "summary": "Article URL: https://nomac.app\nComments URL: https://news.ycombinator.com/item?id=49597570\nPoints: 6\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "garymiklos",
+      "language": null
+    }
+  },
+  {
+    "id": "877e43c6-5ba0-4426-80a9-a9bca9361eba",
+    "title": "Show HN: Pod – A review site for dev tools where the reviewers are AI agents",
+    "source_url": "https://askpod.ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-07T13:57:43.479644+00:00",
+    "analyzed_at": "2026-09-07T13:57:43.479644+00:00",
+    "summary": "Article URL: https://askpod.ai/\nComments URL: https://news.ycombinator.com/item?id=49597472\nPoints: 8\n# Comments: 5",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "marvy101",
+      "language": null
+    }
+  },
+  {
+    "id": "fa373f01-79c3-49d3-9da3-87428428943b",
+    "title": "A playable piano on Moonshot AI's About page",
+    "source_url": "https://www.moonshot.ai/about",
+    "source": "hacker_news",
+    "collected_at": "2026-09-07T13:57:44.735922+00:00",
+    "analyzed_at": "2026-09-07T13:57:44.735922+00:00",
+    "summary": "Article URL: https://www.moonshot.ai/about\nComments URL: https://news.ycombinator.com/item?id=49597470\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ccbikai",
+      "language": null
+    }
+  },
+  {
+    "id": "e51925bc-1887-4ce5-a7ea-545ed4f6868c",
+    "title": "Toward a Social Psychology of AI",
+    "source_url": "https://arxiv.org/abs/2609.00009",
+    "source": "hacker_news",
+    "collected_at": "2026-09-07T13:57:45.979880+00:00",
+    "analyzed_at": "2026-09-07T13:57:45.979880+00:00",
+    "summary": "Article URL: https://arxiv.org/abs/2609.00009\nComments URL: https://news.ycombinator.com/item?id=49597377\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Anon84",
+      "language": null
+    }
+  },
+  {
+    "id": "24677fe3-d3c4-42ce-ad9b-abda5e581ecb",
+    "title": "Arguments in Favor of AI Fair Use",
+    "source_url": "https://kk.org/thetechnium/arguments-in-favor-of-ai-fair-use/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-07T13:57:47.222579+00:00",
+    "analyzed_at": "2026-09-07T13:57:47.222579+00:00",
+    "summary": "Article URL: https://kk.org/thetechnium/arguments-in-favor-of-ai-fair-use/\nComments URL: https://news.ycombinator.com/item?id=49597371\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Tomte",
+      "language": null
+    }
+  },
+  {
+    "id": "4da60799-aeaf-491d-a199-f83801e443f4",
+    "title": "Show HN: How Pagecord Uses AI",
+    "source_url": "https://news.ycombinator.com/item?id=49597339",
+    "source": "hacker_news",
+    "collected_at": "2026-09-07T13:57:48.466677+00:00",
+    "analyzed_at": "2026-09-07T13:57:48.466677+00:00",
+    "summary": "I recently received a surprising amount of anti-AI backlash on the socials for using coding LLMs to build my product, Pagecord. Some people are keen to use only software that has no AI involvement, wh",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "lylo",
+      "language": null
+    }
+  },
+  {
+    "id": "2b93108e-e1d6-49d5-a97c-cd3a051c368f",
+    "title": "AI SEO for Startups and SaaS: A Complete Growth Strategy",
+    "source_url": "https://news.ycombinator.com/item?id=49597248",
+    "source": "hacker_news",
+    "collected_at": "2026-09-07T13:57:49.940801+00:00",
+    "analyzed_at": "2026-09-07T13:57:49.940801+00:00",
+    "summary": "AI and SaaS companies are entering one of the most competitive digital markets ever created.\n\nComments URL: https://news.ycombinator.com/item?id=49597248\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "drchaplin",
+      "language": null
+    }
+  },
+  {
+    "id": "d9f5847d-0499-4395-8a6a-ca0ee916f931",
+    "title": "AI SEO Growth Framework for Startups and SaaS Companies",
+    "source_url": "https://news.ycombinator.com/item?id=49597220",
+    "source": "hacker_news",
+    "collected_at": "2026-09-07T13:57:51.189674+00:00",
+    "analyzed_at": "2026-09-07T13:57:51.189674+00:00",
+    "summary": "sda\n\nComments URL: https://news.ycombinator.com/item?id=49597220\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "drchaplin",
+      "language": null
+    }
+  },
+  {
+    "id": "0a0cad27-232a-454a-a6f7-8937f1e49f19",
+    "title": "AI in Test Automation: Real Limitations vs. User Error",
+    "source_url": "https://www.davidmello.com/software-testing/test-automation/ai-test-automation-pitfalls-vs-user-error",
+    "source": "hacker_news",
+    "collected_at": "2026-09-07T13:57:52.444336+00:00",
+    "analyzed_at": "2026-09-07T13:57:52.444336+00:00",
+    "summary": "Article URL: https://www.davidmello.com/software-testing/test-automation/ai-test-automation-pitfalls-vs-user-error\nComments URL: https://news.ycombinator.com/item?id=49596909\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "breakerofthings",
+      "language": null
+    }
+  },
+  {
+    "id": "7abc7c9d-17ed-4270-8e50-c2908a6f3237",
+    "title": "AI 2027",
+    "source_url": "https://ai-2027.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-07T13:57:53.700615+00:00",
+    "analyzed_at": "2026-09-07T13:57:53.700615+00:00",
+    "summary": "Article URL: https://ai-2027.com/\nComments URL: https://news.ycombinator.com/item?id=49596867\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "fratellobigio",
+      "language": null
+    }
+  },
+  {
+    "id": "ea42a987-17ee-43c4-8902-1728c2d1acc1",
+    "title": "Tencent/Teamai-CLI: Make Every Team AI Native",
+    "source_url": "https://github.com/Tencent/teamai-cli",
+    "source": "hacker_news",
+    "collected_at": "2026-09-07T13:57:54.955916+00:00",
+    "analyzed_at": "2026-09-07T13:57:54.955916+00:00",
+    "summary": "Article URL: https://github.com/Tencent/teamai-cli\nComments URL: https://news.ycombinator.com/item?id=49596714\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "doppp",
+      "language": null
+    }
+  },
+  {
+    "id": "3a470a23-815f-439e-a49f-27b155294978",
+    "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
+    "source_url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+    "source": "hacker_news",
+    "collected_at": "2026-09-07T13:57:56.186404+00:00",
+    "analyzed_at": "2026-09-07T13:57:56.186404+00:00",
+    "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here\nComments URL: https://news.ycombinator.com/item?id=49596610\nPoints: 7\n#",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "MrBuddyCasino",
+      "language": null
+    }
+  }
+]

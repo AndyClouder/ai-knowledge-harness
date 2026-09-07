@@ -1,0 +1,59 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-09-07T13:57:08.668878+00:00",
+  "items": [
+    {
+      "name": "EverettFish/holo-card-studio",
+      "url": "https://github.com/EverettFish/holo-card-studio",
+      "summary": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill",
+      "stars": 655,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "BoardUI/boardui",
+      "url": "https://github.com/BoardUI/boardui",
+      "summary": "React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage.",
+      "stars": 324,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "ai-agent",
+        "ai-chat",
+        "boardui",
+        "design-system",
+        "nextjs",
+        "react",
+        "react-components",
+        "tailwindcss",
+        "ui-components",
+        "vercel"
+      ]
+    },
+    {
+      "name": "yizhi-chengzi/video-ai-talking",
+      "url": "https://github.com/yizhi-chengzi/video-ai-talking",
+      "summary": "想做真人口播，又不必自己对着镜头念。上传一段真人出镜视频，写好字幕，本机配音并对口型，合成竖屏 MP4。密钥只留在浏览器里。",
+      "stars": 320,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "adtexterry-lgtm/unigit-ecosystem",
+      "url": "https://github.com/adtexterry-lgtm/unigit-ecosystem",
+      "summary": "UNIGIT public brand and ecosystem hub — AI should work for everyone.",
+      "stars": 315,
+      "language": "JavaScript",
+      "topics": [
+        "agentic-ai",
+        "ai-tools",
+        "ai-workbench",
+        "ecosystem",
+        "mcp",
+        "productivity",
+        "unigit"
+      ]
+    }
+  ]
+}
