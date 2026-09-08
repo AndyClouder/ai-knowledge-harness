@@ -1,0 +1,55 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-09-08T12:36:07.263131+00:00",
+  "items": [
+    {
+      "name": "donvito/codex-astra-luna-orchestrator",
+      "url": "https://github.com/donvito/codex-astra-luna-orchestrator",
+      "summary": "Use Astra as orchestrator and Luna for subagents in Codex",
+      "stars": 382,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "achimala/dream-loop",
+      "url": "https://github.com/achimala/dream-loop",
+      "summary": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
+      "stars": 315,
+      "language": null,
+      "topics": []
+    },
+    {
+      "name": "carnot-tech/consulting-pptx-skill",
+      "url": "https://github.com/carnot-tech/consulting-pptx-skill",
+      "summary": "AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋62型スライド型カタログ（SlideSpec 36型＋自由記述27パーツ）＋生成パイプライン＋機械チェック",
+      "stars": 291,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "name": "techjanitor/botmaker",
+      "url": "https://github.com/techjanitor/botmaker",
+      "summary": "A Hermes Agent skill + SOUL for a bot whose only job is minting other specialist bots",
+      "stars": 257,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "kunchenguid/kun",
+      "url": "https://github.com/kunchenguid/kun",
+      "summary": "Think and build like a principal engineer. Leverage Kun's experience, knowledge, tools, workflows, and skills to help you get shit done.",
+      "stars": 250,
+      "language": null,
+      "topics": []
+    },
+    {
+      "name": "Yean-Sec/StrikeAgent_AtkBrain-Flash",
+      "url": "https://github.com/Yean-Sec/StrikeAgent_AtkBrain-Flash",
+      "summary": "由夜安团队研发的AI渗透测试平台，涵盖红队打点、SRC、CTF，特别是在红队领域有极为亮眼的存在",
+      "stars": 250,
+      "language": "Python",
+      "topics": []
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-09-08T12:36:20.971918+00:00",
+  "items": [
+    {
+      "name": "Claudisms – a living banlist of AI-writing tells",
+      "url": "https://claudisms.ai/",
+      "summary": "Article URL: https://claudisms.ai/\nComments URL: https://news.ycombinator.com/item?id=49609383\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "weierstass",
+      "published": "Tue, 08 Sep 2026 12:25:08 +0000"
+    },
+    {
+      "name": "AI and Training PhD Students",
+      "url": "https://mathoverflow.net/questions/515026/ai-and-training-phd-students",
+      "summary": "Article URL: https://mathoverflow.net/questions/515026/ai-and-training-phd-students\nComments URL: https://news.ycombinator.com/item?id=49609379\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "jjgreen",
+      "published": "Tue, 08 Sep 2026 12:24:53 +0000"
+    },
+    {
+      "name": "Structure over vigilance: Rules for what reviewing the AI misses",
+      "url": "https://solutionexplorer.dev/journal/structure-over-vigilance",
+      "summary": "Article URL: https://solutionexplorer.dev/journal/structure-over-vigilance\nComments URL: https://news.ycombinator.com/item?id=49609349\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "firstordefault",
+      "published": "Tue, 08 Sep 2026 12:22:26 +0000"
+    },
+    {
+      "name": "Getting Out of the Loop: 8 Months Solo-Building with AI",
+      "url": "https://github.com/patforna/writing",
+      "summary": "Article URL: https://github.com/patforna/writing\nComments URL: https://news.ycombinator.com/item?id=49609121\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "patforna",
+      "published": "Tue, 08 Sep 2026 11:59:01 +0000"
+    },
+    {
+      "name": "Show HN: A Free AI Plugin for Google Ads, Console and Analytics",
+      "url": "https://unfetch.com/plugin",
+      "summary": "Article URL: https://unfetch.com/plugin\nComments URL: https://news.ycombinator.com/item?id=49609074\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "timm37",
+      "published": "Tue, 08 Sep 2026 11:55:00 +0000"
+    },
+    {
+      "name": "Show HN: Stateful AI agent on Cloudflare Workers free tier, with evals",
+      "url": "https://github.com/DomWane/workers-personal-agent",
+      "summary": "Article URL: https://github.com/DomWane/workers-personal-agent\nComments URL: https://news.ycombinator.com/item?id=49609064\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "DomWane",
+      "published": "Tue, 08 Sep 2026 11:54:15 +0000"
+    },
+    {
+      "name": "Show HN: AI Agent for Google Play Submissions [video]",
+      "url": "https://www.youtube.com/watch?v=tSSPdkp0QVI",
+      "summary": "Article URL: https://www.youtube.com/watch?v=tSSPdkp0QVI\nComments URL: https://news.ycombinator.com/item?id=49609021\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Harish_0089",
+      "published": "Tue, 08 Sep 2026 11:49:57 +0000"
+    },
+    {
+      "name": "Show HN: Fraise: a memory database for AI agents",
+      "url": "https://docs.getfraise.dev",
+      "summary": "Fraise is a memory database for AI agents — a single binary that stores facts as a temporal graph of facts, topics and entities, queried in a small language with\ntwo verbs:```\n  remember 'acme moved t",
+      "source": "hacker_news",
+      "score": null,
+      "author": "airejie",
+      "published": "Tue, 08 Sep 2026 11:49:20 +0000"
+    },
+    {
+      "name": "My dream is to become a chairman who only gave KPIs for AI, not tasks",
+      "url": "https://news.ycombinator.com/item?id=49608984",
+      "summary": "My dream is to become a chairman who focuses on investing then the company figures out how to make money.When AI agents raising, I also tried vibe coding for building products, but I feel tired when s",
+      "source": "hacker_news",
+      "score": null,
+      "author": "nohuman-labs",
+      "published": "Tue, 08 Sep 2026 11:46:40 +0000"
+    },
+    {
+      "name": "Nvidia Personal AI Router (Pair)",
+      "url": "https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/",
+      "summary": "Article URL: https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/\nComments URL: https://news.ycombinator.com/item?id=49608911\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "florianherrengt",
+      "published": "Tue, 08 Sep 2026 11:39:06 +0000"
+    },
+    {
+      "name": "AI now reads your bank",
+      "url": "https://bankmcp.dk/",
+      "summary": "Article URL: https://bankmcp.dk/\nComments URL: https://news.ycombinator.com/item?id=49608827\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "maxheyer",
+      "published": "Tue, 08 Sep 2026 11:29:45 +0000"
+    },
+    {
+      "name": "St Louis restaurants are generating AI images of their food Foodies are repulsed",
+      "url": "https://www.stltoday.com/news/local/business/article_4049a9c9-e801-4073-a8a0-347494790282.html",
+      "summary": "Article URL: https://www.stltoday.com/news/local/business/article_4049a9c9-e801-4073-a8a0-347494790282.html\nComments URL: https://news.ycombinator.com/item?id=49608725\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pgrote",
+      "published": "Tue, 08 Sep 2026 11:16:56 +0000"
+    },
+    {
+      "name": "Gen AI Tools Are Now Being Used to Push 'Slop Jihad'",
+      "url": "https://www.wired.com/story/gen-ai-tools-are-now-being-used-to-push-slop-jihad/",
+      "summary": "Article URL: https://www.wired.com/story/gen-ai-tools-are-now-being-used-to-push-slop-jihad/\nComments URL: https://news.ycombinator.com/item?id=49608610\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "joozio",
+      "published": "Tue, 08 Sep 2026 11:01:03 +0000"
+    },
+    {
+      "name": "Playing \"Taboo\" with AI Watermarking",
+      "url": "https://news.ycombinator.com/item?id=49608525",
+      "summary": "Today ChatGPT emitted a design doc that described our service to service messaging architecture as a \"capability fabric\". Notice the double noun, as if the a single 2-part word was thesaurused one wor",
+      "source": "hacker_news",
+      "score": null,
+      "author": "loosetypewriter",
+      "published": "Tue, 08 Sep 2026 10:50:19 +0000"
+    },
+    {
+      "name": "Developer Agency in the Age of AI",
+      "url": "https://languageops.com/blog/the-software-exists-because-of-the-developers-agency/",
+      "summary": "Article URL: https://languageops.com/blog/the-software-exists-because-of-the-developers-agency/\nComments URL: https://news.ycombinator.com/item?id=49608523\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "luxpir",
+      "published": "Tue, 08 Sep 2026 10:50:04 +0000"
+    },
+    {
+      "name": "Losing control of AI is the plan",
+      "url": "https://www.theargumentmag.com/p/losing-control-of-ai-is-actually",
+      "summary": "Article URL: https://www.theargumentmag.com/p/losing-control-of-ai-is-actually\nComments URL: https://news.ycombinator.com/item?id=49608501\nPoints: 4\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ForHackernews",
+      "published": "Tue, 08 Sep 2026 10:47:07 +0000"
+    },
+    {
+      "name": "Automatically detecting AI text in my browser",
+      "url": "https://www.seangoedecke.com/deckard/",
+      "summary": "Article URL: https://www.seangoedecke.com/deckard/\nComments URL: https://news.ycombinator.com/item?id=49608301\nPoints: 4\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "swah",
+      "published": "Tue, 08 Sep 2026 10:22:34 +0000"
+    },
+    {
+      "name": "Vaenyx – A personal AI app for family",
+      "url": "https://github.com/vaenyxai/core",
+      "summary": "Article URL: https://github.com/vaenyxai/core\nComments URL: https://news.ycombinator.com/item?id=49608188\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "vaenyxai",
+      "published": "Tue, 08 Sep 2026 10:09:52 +0000"
+    },
+    {
+      "name": "TrustFinder: Deep Search AI",
+      "url": "https://play.google.com/store/apps/details?id=com.popyakter.cheaterbusterai&hl=en_US",
+      "summary": "Article URL: https://play.google.com/store/apps/details?id=com.popyakter.cheaterbusterai&amp;hl=en_US\nComments URL: https://news.ycombinator.com/item?id=49607896\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pranto12345",
+      "published": "Tue, 08 Sep 2026 09:32:21 +0000"
+    },
+    {
+      "name": "PicWish – AI photo editing for product images",
+      "url": "https://picwish.com/",
+      "summary": "Article URL: https://picwish.com/\nComments URL: https://news.ycombinator.com/item?id=49607853\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "VolaRmb",
+      "published": "Tue, 08 Sep 2026 09:27:41 +0000"
+    }
+  ]
+}

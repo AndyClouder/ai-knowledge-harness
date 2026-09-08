@@ -1,0 +1,422 @@
+[
+  {
+    "id": "0f57205a-cac3-4d53-b14d-5b0e1c75cc2a",
+    "title": "donvito/codex-astra-luna-orchestrator",
+    "source_url": "https://github.com/donvito/codex-astra-luna-orchestrator",
+    "source": "unknown",
+    "collected_at": "2026-09-08T12:36:22.563867+00:00",
+    "analyzed_at": "2026-09-08T12:36:22.563867+00:00",
+    "summary": "Use Astra as orchestrator and Luna for subagents in Codex",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 382,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "732fc66b-2f1f-473e-8da0-0fe76dd6b03c",
+    "title": "achimala/dream-loop",
+    "source_url": "https://github.com/achimala/dream-loop",
+    "source": "unknown",
+    "collected_at": "2026-09-08T12:36:23.770474+00:00",
+    "analyzed_at": "2026-09-08T12:36:23.770474+00:00",
+    "summary": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 315,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "eab6fde7-5f6c-47ab-a33f-d64439fd5812",
+    "title": "carnot-tech/consulting-pptx-skill",
+    "source_url": "https://github.com/carnot-tech/consulting-pptx-skill",
+    "source": "unknown",
+    "collected_at": "2026-09-08T12:36:24.979509+00:00",
+    "analyzed_at": "2026-09-08T12:36:24.979509+00:00",
+    "summary": "AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋62型スライド型カタログ（SlideSpec 36型＋自由記述27パーツ）＋生成パイプライン＋機械チェック",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 291,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "06324e0c-cfc2-4937-a107-0f92bba9f632",
+    "title": "techjanitor/botmaker",
+    "source_url": "https://github.com/techjanitor/botmaker",
+    "source": "unknown",
+    "collected_at": "2026-09-08T12:36:26.188748+00:00",
+    "analyzed_at": "2026-09-08T12:36:26.188748+00:00",
+    "summary": "A Hermes Agent skill + SOUL for a bot whose only job is minting other specialist bots",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 257,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "6b94ab0d-3ac2-4d54-9b68-a4001100af06",
+    "title": "kunchenguid/kun",
+    "source_url": "https://github.com/kunchenguid/kun",
+    "source": "unknown",
+    "collected_at": "2026-09-08T12:36:27.395923+00:00",
+    "analyzed_at": "2026-09-08T12:36:27.395923+00:00",
+    "summary": "Think and build like a principal engineer. Leverage Kun's experience, knowledge, tools, workflows, and skills to help you get shit done.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 250,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "2606540e-eeff-4166-8f07-280fa891a005",
+    "title": "Yean-Sec/StrikeAgent_AtkBrain-Flash",
+    "source_url": "https://github.com/Yean-Sec/StrikeAgent_AtkBrain-Flash",
+    "source": "unknown",
+    "collected_at": "2026-09-08T12:36:28.603514+00:00",
+    "analyzed_at": "2026-09-08T12:36:28.603514+00:00",
+    "summary": "由夜安团队研发的AI渗透测试平台，涵盖红队打点、SRC、CTF，特别是在红队领域有极为亮眼的存在",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 250,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "334ea88f-64ae-49b0-ac0a-9b4a788f130f",
+    "title": "Claudisms – a living banlist of AI-writing tells",
+    "source_url": "https://claudisms.ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-08T12:36:29.809479+00:00",
+    "analyzed_at": "2026-09-08T12:36:29.809479+00:00",
+    "summary": "Article URL: https://claudisms.ai/\nComments URL: https://news.ycombinator.com/item?id=49609383\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "weierstass",
+      "language": null
+    }
+  },
+  {
+    "id": "99ea5a14-55d4-4d62-9edf-a546b85c691e",
+    "title": "AI and Training PhD Students",
+    "source_url": "https://mathoverflow.net/questions/515026/ai-and-training-phd-students",
+    "source": "hacker_news",
+    "collected_at": "2026-09-08T12:36:31.014934+00:00",
+    "analyzed_at": "2026-09-08T12:36:31.014934+00:00",
+    "summary": "Article URL: https://mathoverflow.net/questions/515026/ai-and-training-phd-students\nComments URL: https://news.ycombinator.com/item?id=49609379\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jjgreen",
+      "language": null
+    }
+  },
+  {
+    "id": "2ab04630-51ff-49af-855d-f604ad59b408",
+    "title": "Structure over vigilance: Rules for what reviewing the AI misses",
+    "source_url": "https://solutionexplorer.dev/journal/structure-over-vigilance",
+    "source": "hacker_news",
+    "collected_at": "2026-09-08T12:36:32.221603+00:00",
+    "analyzed_at": "2026-09-08T12:36:32.221603+00:00",
+    "summary": "Article URL: https://solutionexplorer.dev/journal/structure-over-vigilance\nComments URL: https://news.ycombinator.com/item?id=49609349\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "firstordefault",
+      "language": null
+    }
+  },
+  {
+    "id": "be025cb6-e680-4707-b3fa-49d822fb551d",
+    "title": "Getting Out of the Loop: 8 Months Solo-Building with AI",
+    "source_url": "https://github.com/patforna/writing",
+    "source": "hacker_news",
+    "collected_at": "2026-09-08T12:36:33.428514+00:00",
+    "analyzed_at": "2026-09-08T12:36:33.428514+00:00",
+    "summary": "Article URL: https://github.com/patforna/writing\nComments URL: https://news.ycombinator.com/item?id=49609121\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "patforna",
+      "language": null
+    }
+  },
+  {
+    "id": "62fbe5af-f88c-40d8-9a80-805c876f231d",
+    "title": "Show HN: A Free AI Plugin for Google Ads, Console and Analytics",
+    "source_url": "https://unfetch.com/plugin",
+    "source": "hacker_news",
+    "collected_at": "2026-09-08T12:36:34.635229+00:00",
+    "analyzed_at": "2026-09-08T12:36:34.635229+00:00",
+    "summary": "Article URL: https://unfetch.com/plugin\nComments URL: https://news.ycombinator.com/item?id=49609074\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "timm37",
+      "language": null
+    }
+  },
+  {
+    "id": "57e47400-341e-4375-aa9d-b5c528e02c58",
+    "title": "Show HN: Stateful AI agent on Cloudflare Workers free tier, with evals",
+    "source_url": "https://github.com/DomWane/workers-personal-agent",
+    "source": "hacker_news",
+    "collected_at": "2026-09-08T12:36:35.842424+00:00",
+    "analyzed_at": "2026-09-08T12:36:35.842424+00:00",
+    "summary": "Article URL: https://github.com/DomWane/workers-personal-agent\nComments URL: https://news.ycombinator.com/item?id=49609064\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "DomWane",
+      "language": null
+    }
+  },
+  {
+    "id": "833e77ee-adcf-4daa-a028-bbbe9d20901e",
+    "title": "Show HN: AI Agent for Google Play Submissions [video]",
+    "source_url": "https://www.youtube.com/watch?v=tSSPdkp0QVI",
+    "source": "hacker_news",
+    "collected_at": "2026-09-08T12:36:37.049839+00:00",
+    "analyzed_at": "2026-09-08T12:36:37.049839+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=tSSPdkp0QVI\nComments URL: https://news.ycombinator.com/item?id=49609021\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Harish_0089",
+      "language": null
+    }
+  },
+  {
+    "id": "38b6f52c-31a7-4060-9536-10f2a684ca46",
+    "title": "Show HN: Fraise: a memory database for AI agents",
+    "source_url": "https://docs.getfraise.dev",
+    "source": "hacker_news",
+    "collected_at": "2026-09-08T12:36:38.265142+00:00",
+    "analyzed_at": "2026-09-08T12:36:38.265142+00:00",
+    "summary": "Fraise is a memory database for AI agents — a single binary that stores facts as a temporal graph of facts, topics and entities, queried in a small language with\ntwo verbs:```\n  remember 'acme moved t",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "airejie",
+      "language": null
+    }
+  },
+  {
+    "id": "ec3196b5-f2ee-4989-ba4e-62811c2424cf",
+    "title": "My dream is to become a chairman who only gave KPIs for AI, not tasks",
+    "source_url": "https://news.ycombinator.com/item?id=49608984",
+    "source": "hacker_news",
+    "collected_at": "2026-09-08T12:36:39.472980+00:00",
+    "analyzed_at": "2026-09-08T12:36:39.472980+00:00",
+    "summary": "My dream is to become a chairman who focuses on investing then the company figures out how to make money.When AI agents raising, I also tried vibe coding for building products, but I feel tired when s",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "nohuman-labs",
+      "language": null
+    }
+  },
+  {
+    "id": "e0fcb90f-b09b-43f9-8267-f995b29f975c",
+    "title": "Nvidia Personal AI Router (Pair)",
+    "source_url": "https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-08T12:36:40.681279+00:00",
+    "analyzed_at": "2026-09-08T12:36:40.681279+00:00",
+    "summary": "Article URL: https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/\nComments URL: https://news.ycombinator.com/item?id=49608911\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "florianherrengt",
+      "language": null
+    }
+  },
+  {
+    "id": "52b58b35-d7cd-4ea7-ab59-66796d74e73e",
+    "title": "AI now reads your bank",
+    "source_url": "https://bankmcp.dk/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-08T12:36:41.890609+00:00",
+    "analyzed_at": "2026-09-08T12:36:41.890609+00:00",
+    "summary": "Article URL: https://bankmcp.dk/\nComments URL: https://news.ycombinator.com/item?id=49608827\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "maxheyer",
+      "language": null
+    }
+  },
+  {
+    "id": "e572393b-26ba-4415-85ef-216330110c13",
+    "title": "St Louis restaurants are generating AI images of their food Foodies are repulsed",
+    "source_url": "https://www.stltoday.com/news/local/business/article_4049a9c9-e801-4073-a8a0-347494790282.html",
+    "source": "hacker_news",
+    "collected_at": "2026-09-08T12:36:43.099636+00:00",
+    "analyzed_at": "2026-09-08T12:36:43.099636+00:00",
+    "summary": "Article URL: https://www.stltoday.com/news/local/business/article_4049a9c9-e801-4073-a8a0-347494790282.html\nComments URL: https://news.ycombinator.com/item?id=49608725\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pgrote",
+      "language": null
+    }
+  },
+  {
+    "id": "d3e416fd-e371-4690-9775-085ea20ef9c5",
+    "title": "Gen AI Tools Are Now Being Used to Push 'Slop Jihad'",
+    "source_url": "https://www.wired.com/story/gen-ai-tools-are-now-being-used-to-push-slop-jihad/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-08T12:36:44.307831+00:00",
+    "analyzed_at": "2026-09-08T12:36:44.307831+00:00",
+    "summary": "Article URL: https://www.wired.com/story/gen-ai-tools-are-now-being-used-to-push-slop-jihad/\nComments URL: https://news.ycombinator.com/item?id=49608610\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "joozio",
+      "language": null
+    }
+  },
+  {
+    "id": "981fb37e-be40-4406-be64-7faad54d69a7",
+    "title": "Playing \"Taboo\" with AI Watermarking",
+    "source_url": "https://news.ycombinator.com/item?id=49608525",
+    "source": "hacker_news",
+    "collected_at": "2026-09-08T12:36:45.514919+00:00",
+    "analyzed_at": "2026-09-08T12:36:45.514919+00:00",
+    "summary": "Today ChatGPT emitted a design doc that described our service to service messaging architecture as a \"capability fabric\". Notice the double noun, as if the a single 2-part word was thesaurused one wor",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "loosetypewriter",
+      "language": null
+    }
+  }
+]
