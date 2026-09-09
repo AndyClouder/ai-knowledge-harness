@@ -1,0 +1,94 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-09-09T12:42:45.729003+00:00",
+  "items": [
+    {
+      "name": "lfzk550/fanzha-ai-proxy",
+      "url": "https://github.com/lfzk550/fanzha-ai-proxy",
+      "summary": "国家反诈AI API 转 OpenAI 兼容格式反向代理服务 || 仅学习用途",
+      "stars": 367,
+      "language": null,
+      "topics": []
+    },
+    {
+      "name": "OpenWAM-Official/OpenWAM",
+      "url": "https://github.com/OpenWAM-Official/OpenWAM",
+      "summary": "Official repository for \"OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining\".",
+      "stars": 364,
+      "language": "Python",
+      "topics": [
+        "generalist-robot-policies",
+        "pretraining",
+        "robotics",
+        "world-action-model"
+      ]
+    },
+    {
+      "name": "i-am-manware/Manware-s-AI-Learning-Toolkit",
+      "url": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit",
+      "summary": "An AI toolkit that turns agents into teachers rather than code yapping machines",
+      "stars": 267,
+      "language": null,
+      "topics": []
+    },
+    {
+      "name": "com-phantom/Phantom-Wallet-Desktop",
+      "url": "https://github.com/com-phantom/Phantom-Wallet-Desktop",
+      "summary": "Phantom Wallet Desktop app for Windows, macOS and Linux. A lightweight desktop client that brings Phantom crypto wallet experience outside the browser with native desktop access.",
+      "stars": 240,
+      "language": "HTML",
+      "topics": [
+        "bitcoin",
+        "blockchain",
+        "cryptocurrency",
+        "defi",
+        "desktop-app",
+        "electron",
+        "ethereum",
+        "js",
+        "nft",
+        "phantom",
+        "phantom-desktop",
+        "phantom-wallet-browser",
+        "phantomjs",
+        "sol-trade",
+        "solana",
+        "solana-launchpad",
+        "solana-wallet-connect",
+        "solana-wallet-manager",
+        "wallet",
+        "web3"
+      ]
+    },
+    {
+      "name": "flectar/mail",
+      "url": "https://github.com/flectar/mail",
+      "summary": "Built from the ground up for speed. Flectar Mail delivers native performance, instant startup, and as little as 20 MB of RAM.",
+      "stars": 240,
+      "language": "Rust",
+      "topics": [
+        "android",
+        "caldav",
+        "calendar",
+        "contacts",
+        "cross-platform",
+        "desktop-app",
+        "email",
+        "email-client",
+        "groupware",
+        "imap",
+        "ios",
+        "jmap",
+        "lightweight",
+        "linux",
+        "macos",
+        "mail-client",
+        "rust",
+        "slint",
+        "smtp",
+        "windows"
+      ]
+    }
+  ]
+}

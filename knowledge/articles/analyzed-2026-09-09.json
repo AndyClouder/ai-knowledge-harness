@@ -1,0 +1,422 @@
+[
+  {
+    "id": "e3c20cd4-f7ca-41ec-a69a-5281664020e1",
+    "title": "lfzk550/fanzha-ai-proxy",
+    "source_url": "https://github.com/lfzk550/fanzha-ai-proxy",
+    "source": "unknown",
+    "collected_at": "2026-09-09T12:42:58.796104+00:00",
+    "analyzed_at": "2026-09-09T12:42:58.796104+00:00",
+    "summary": "国家反诈AI API 转 OpenAI 兼容格式反向代理服务 || 仅学习用途",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 367,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "a65ab614-d523-4de5-ae89-be63372924c6",
+    "title": "OpenWAM-Official/OpenWAM",
+    "source_url": "https://github.com/OpenWAM-Official/OpenWAM",
+    "source": "unknown",
+    "collected_at": "2026-09-09T12:42:59.985345+00:00",
+    "analyzed_at": "2026-09-09T12:42:59.985345+00:00",
+    "summary": "Official repository for \"OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining\".",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 364,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "35a87d1c-e2b9-42c3-a50d-f189c05832cb",
+    "title": "i-am-manware/Manware-s-AI-Learning-Toolkit",
+    "source_url": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit",
+    "source": "unknown",
+    "collected_at": "2026-09-09T12:43:01.178079+00:00",
+    "analyzed_at": "2026-09-09T12:43:01.178079+00:00",
+    "summary": "An AI toolkit that turns agents into teachers rather than code yapping machines",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 267,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "a44c3ad5-2960-4b53-adf3-6a28cd0d24da",
+    "title": "com-phantom/Phantom-Wallet-Desktop",
+    "source_url": "https://github.com/com-phantom/Phantom-Wallet-Desktop",
+    "source": "unknown",
+    "collected_at": "2026-09-09T12:43:02.400504+00:00",
+    "analyzed_at": "2026-09-09T12:43:02.400504+00:00",
+    "summary": "Phantom Wallet Desktop app for Windows, macOS and Linux. A lightweight desktop client that brings Phantom crypto wallet experience outside the browser with native desktop access.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 240,
+      "score": null,
+      "author": null,
+      "language": "HTML"
+    }
+  },
+  {
+    "id": "a4ac139b-8213-4bc4-975c-1f071c4873af",
+    "title": "flectar/mail",
+    "source_url": "https://github.com/flectar/mail",
+    "source": "unknown",
+    "collected_at": "2026-09-09T12:43:03.576996+00:00",
+    "analyzed_at": "2026-09-09T12:43:03.576996+00:00",
+    "summary": "Built from the ground up for speed. Flectar Mail delivers native performance, instant startup, and as little as 20 MB of RAM.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 240,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "4c780ab1-6711-491c-a9cf-e1e6ba4c5688",
+    "title": "Show HN: Buymydeadstartup.com – Sell your IP to AI labs",
+    "source_url": "https://www.buymydeadstartup.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-09T12:43:04.755594+00:00",
+    "analyzed_at": "2026-09-09T12:43:04.755594+00:00",
+    "summary": "I have had my fair share of failed startups, but none so recent that I could have sold our IP (code, Slack messages -- you name it) to Anthropic, OpenAI or any other AI lab or data buyer.I know some c",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "bkfh",
+      "language": null
+    }
+  },
+  {
+    "id": "4e634bc8-388f-4d02-a466-daadcc667625",
+    "title": "Opposing AI data centers is one thing Americans agree on",
+    "source_url": "https://goodauthority.org/news/opposing-ai-data-centers-is-one-thing-americans-agree-on/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-09T12:43:05.934585+00:00",
+    "analyzed_at": "2026-09-09T12:43:05.934585+00:00",
+    "summary": "Article URL: https://goodauthority.org/news/opposing-ai-data-centers-is-one-thing-americans-agree-on/\nComments URL: https://news.ycombinator.com/item?id=49625350\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jruohonen",
+      "language": null
+    }
+  },
+  {
+    "id": "811eec1c-8d60-4f0f-9fa1-ab50cb7d7d6e",
+    "title": "Google: €13B investment in AI infrastructure in Finland",
+    "source_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-ai-commitment-to-finland/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-09T12:43:07.112903+00:00",
+    "analyzed_at": "2026-09-09T12:43:07.112903+00:00",
+    "summary": "Article URL: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-ai-commitment-to-finland/\nComments URL: https://news.ycombinator.com/item?id=49625328\nPoints: 2\n# Comm",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mpweiher",
+      "language": null
+    }
+  },
+  {
+    "id": "0bd1ede2-6f36-4588-bd2d-f6b1cdcd3755",
+    "title": "I launched a fake deodorant brand to see if AI would notice",
+    "source_url": "https://twitter.com/medeana/status/2084671218704159169",
+    "source": "hacker_news",
+    "collected_at": "2026-09-09T12:43:08.301985+00:00",
+    "analyzed_at": "2026-09-09T12:43:08.301985+00:00",
+    "summary": "Article URL: https://twitter.com/medeana/status/2084671218704159169\nComments URL: https://news.ycombinator.com/item?id=49625311\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mooreds",
+      "language": null
+    }
+  },
+  {
+    "id": "7ce689cd-266f-42a7-96cf-db1aa254b4be",
+    "title": "10.7% of top sites block AI search crawlers but still allow Googlebot",
+    "source_url": "https://ai-visibility.lastminutedealshq.com/data",
+    "source": "hacker_news",
+    "collected_at": "2026-09-09T12:43:09.487942+00:00",
+    "analyzed_at": "2026-09-09T12:43:09.487942+00:00",
+    "summary": "Article URL: https://ai-visibility.lastminutedealshq.com/data\nComments URL: https://news.ycombinator.com/item?id=49625248\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "reesecalder",
+      "language": null
+    }
+  },
+  {
+    "id": "cb8fe787-f3a6-47e3-a837-4b2793263f58",
+    "title": "AI made procrastination look like work",
+    "source_url": "https://nedio.xyz/research/ai-procrastination-in-software-development",
+    "source": "hacker_news",
+    "collected_at": "2026-09-09T12:43:10.677168+00:00",
+    "analyzed_at": "2026-09-09T12:43:10.677168+00:00",
+    "summary": "Article URL: https://nedio.xyz/research/ai-procrastination-in-software-development\nComments URL: https://news.ycombinator.com/item?id=49625196\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "thaziev",
+      "language": null
+    }
+  },
+  {
+    "id": "bba7d167-014e-4067-9c1e-5ec8054ff228",
+    "title": "The next SolarWinds will be an AI security vendor",
+    "source_url": "https://getcrawdad.dev/blog/the-next-solarwinds-will-be-an-ai-security-vendor",
+    "source": "hacker_news",
+    "collected_at": "2026-09-09T12:43:11.868529+00:00",
+    "analyzed_at": "2026-09-09T12:43:11.868529+00:00",
+    "summary": "Article URL: https://getcrawdad.dev/blog/the-next-solarwinds-will-be-an-ai-security-vendor\nComments URL: https://news.ycombinator.com/item?id=49625028\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "AndrewGS",
+      "language": null
+    }
+  },
+  {
+    "id": "d2aaccf2-a404-4ae4-b9ec-fe5d02bc96e0",
+    "title": "Logitech MX Keypad – AI control keys for developers",
+    "source_url": "https://www.logitech.com/en-us/shop/p/mx-keypad",
+    "source": "hacker_news",
+    "collected_at": "2026-09-09T12:43:13.070158+00:00",
+    "analyzed_at": "2026-09-09T12:43:13.070158+00:00",
+    "summary": "Article URL: https://www.logitech.com/en-us/shop/p/mx-keypad\nComments URL: https://news.ycombinator.com/item?id=49624934\nPoints: 4\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "zvr",
+      "language": null
+    }
+  },
+  {
+    "id": "376a8823-00d3-473a-8d27-fce639870b99",
+    "title": "Mapped: AI Adoption by Country in 2026",
+    "source_url": "https://www.visualcapitalist.com/mapped-ai-adoption-by-country-in-2026/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-09T12:43:14.274344+00:00",
+    "analyzed_at": "2026-09-09T12:43:14.274344+00:00",
+    "summary": "Article URL: https://www.visualcapitalist.com/mapped-ai-adoption-by-country-in-2026/\nComments URL: https://news.ycombinator.com/item?id=49624801\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "soltanov",
+      "language": null
+    }
+  },
+  {
+    "id": "9512fc1c-8f85-4498-b146-d5fa327d124f",
+    "title": "An experiment to make a highly fun FOSS game with the community using AI",
+    "source_url": "https://github.com/Resistance-Labs-Tech/fossgamewithai",
+    "source": "hacker_news",
+    "collected_at": "2026-09-09T12:43:15.466410+00:00",
+    "analyzed_at": "2026-09-09T12:43:15.466410+00:00",
+    "summary": "Article URL: https://github.com/Resistance-Labs-Tech/fossgamewithai\nComments URL: https://news.ycombinator.com/item?id=49624684\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "samurai48",
+      "language": null
+    }
+  },
+  {
+    "id": "63ce110f-c376-4906-aaaa-ae376d630152",
+    "title": "We are the civic movement dedicated to averting the risks of superhuman AI",
+    "source_url": "https://pauseai.uk",
+    "source": "hacker_news",
+    "collected_at": "2026-09-09T12:43:16.636129+00:00",
+    "analyzed_at": "2026-09-09T12:43:16.636129+00:00",
+    "summary": "Article URL: https://pauseai.uk\nComments URL: https://news.ycombinator.com/item?id=49624678\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Bluestein",
+      "language": null
+    }
+  },
+  {
+    "id": "cfae36d4-08e9-4742-8a2c-9e15db191ce8",
+    "title": "China-Based AI Companies Conducting Industrial-Scale Distillation Campaigns",
+    "source_url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a",
+    "source": "hacker_news",
+    "collected_at": "2026-09-09T12:43:17.836938+00:00",
+    "analyzed_at": "2026-09-09T12:43:17.836938+00:00",
+    "summary": "Article URL: https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a\nComments URL: https://news.ycombinator.com/item?id=49624585\nPoints: 3\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "geox",
+      "language": null
+    }
+  },
+  {
+    "id": "d4676c3c-8de1-415d-a3f4-54d8a3e9bc1b",
+    "title": "Anti-AI slop moves for front end projects going faster than humans can review",
+    "source_url": "https://evilmartians.com/chronicles/ten-anti-ai-slop-moves-for-frontend-projects-going-faster-than-humans-can-review",
+    "source": "hacker_news",
+    "collected_at": "2026-09-09T12:43:19.006862+00:00",
+    "analyzed_at": "2026-09-09T12:43:19.006862+00:00",
+    "summary": "Article URL: https://evilmartians.com/chronicles/ten-anti-ai-slop-moves-for-frontend-projects-going-faster-than-humans-can-review\nComments URL: https://news.ycombinator.com/item?id=49624578\nPoints: 2\n",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "spiros",
+      "language": null
+    }
+  },
+  {
+    "id": "2a3f0371-c843-49d6-a604-1866c0227ecf",
+    "title": "AI Has Solved One of Math's $1M Millennium Prize Problems",
+    "source_url": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-09T12:43:20.181724+00:00",
+    "analyzed_at": "2026-09-09T12:43:20.181724+00:00",
+    "summary": "Article URL: https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/\nComments URL: https://news.ycombinator.com/item?id=49624469\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pseudolus",
+      "language": null
+    }
+  },
+  {
+    "id": "c6ff10af-5ca8-4698-83c6-5cfb12e20313",
+    "title": "AI entrepreneur is developing agents that can plan ahead for the unexpected",
+    "source_url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-09T12:43:21.353541+00:00",
+    "analyzed_at": "2026-09-09T12:43:21.353541+00:00",
+    "summary": "Article URL: https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/\nComments URL: https://news.ycombinator.com/item?id=49624457\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "joozio",
+      "language": null
+    }
+  }
+]
