@@ -1,0 +1,422 @@
+[
+  {
+    "id": "3a5d0834-753a-4983-b9b1-891786ccf688",
+    "title": "Vincentwei1021/anything2explainer",
+    "source_url": "https://github.com/Vincentwei1021/anything2explainer",
+    "source": "unknown",
+    "collected_at": "2026-09-10T12:41:18.569174+00:00",
+    "analyzed_at": "2026-09-10T12:41:18.569174+00:00",
+    "summary": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. C",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 502,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "a66e4815-8eea-4e38-83fa-2bd0b8493197",
+    "title": "truanayangi-com/truanayangi",
+    "source_url": "https://github.com/truanayangi-com/truanayangi",
+    "source": "unknown",
+    "collected_at": "2026-09-10T12:41:19.812085+00:00",
+    "analyzed_at": "2026-09-10T12:41:19.812085+00:00",
+    "summary": "Trưa Nay Ăn Gì — run locally with pnpm. Automatic cookie storage; no login, backend or cloud services required.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 497,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "7ed08cdf-0551-4749-a5d1-1e168e4b5d86",
+    "title": "yudaprasetya007/routeVSCODE",
+    "source_url": "https://github.com/yudaprasetya007/routeVSCODE",
+    "source": "unknown",
+    "collected_at": "2026-09-10T12:41:21.053070+00:00",
+    "analyzed_at": "2026-09-10T12:41:21.053070+00:00",
+    "summary": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 326,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "020ce25f-bc00-4e41-bc17-1cca5f37603b",
+    "title": "wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass",
+    "source_url": "https://github.com/wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass",
+    "source": "unknown",
+    "collected_at": "2026-09-10T12:41:22.294082+00:00",
+    "analyzed_at": "2026-09-10T12:41:22.294082+00:00",
+    "summary": "A game mod that uses NVIDIA AI to change lighting, detail and colour, with controls for strength and performance.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 270,
+      "score": null,
+      "author": null,
+      "language": "C++"
+    }
+  },
+  {
+    "id": "ed38864b-f59d-4179-9d14-382ad82eb6f8",
+    "title": "browser-use/browser-use-pi",
+    "source_url": "https://github.com/browser-use/browser-use-pi",
+    "source": "unknown",
+    "collected_at": "2026-09-10T12:41:23.535118+00:00",
+    "analyzed_at": "2026-09-10T12:41:23.535118+00:00",
+    "summary": "A tiny TypeScript web agent, hill climbed on real browser evals.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 261,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "4da7cbfe-639f-4d65-ae51-8825968fda7c",
+    "title": "ScottStevenson/SuperAstra",
+    "source_url": "https://github.com/ScottStevenson/SuperAstra",
+    "source": "unknown",
+    "collected_at": "2026-09-10T12:41:24.775754+00:00",
+    "analyzed_at": "2026-09-10T12:41:24.775754+00:00",
+    "summary": "Change SNES games with AI while you play them.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 243,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "1d50a7c7-3822-4f3c-82f0-a75a12183126",
+    "title": "evangelosvlachos96-dotcom/booking-microservices",
+    "source_url": "https://github.com/evangelosvlachos96-dotcom/booking-microservices",
+    "source": "unknown",
+    "collected_at": "2026-09-10T12:41:26.017465+00:00",
+    "analyzed_at": "2026-09-10T12:41:26.017465+00:00",
+    "summary": "Flight booking system built as .NET 10 microservices with Vertical Slice Architecture, DDD, CQRS, Event Sourcing, gRPC, RabbitMQ, Wolverine, PostgreSQL, MongoDB and .NET Aspire.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 240,
+      "score": null,
+      "author": null,
+      "language": "C#"
+    }
+  },
+  {
+    "id": "00fb1499-3476-458f-b692-ab856587a76a",
+    "title": "Show HN: I graded 200 AI tools/apps and track any changes in their policies",
+    "source_url": "https://isittrainingonme.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-10T12:41:27.260324+00:00",
+    "analyzed_at": "2026-09-10T12:41:27.260324+00:00",
+    "summary": "Hi all,Given the recent OpenAI saga with the Navier–Stokes problem, I thought it would be a good time to show my latest project.The site pulls policies from 200+ websites, keeps track of them and comp",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "trainingonme",
+      "language": null
+    }
+  },
+  {
+    "id": "c9499ced-d21a-4d30-9623-128dd3b8bd54",
+    "title": "Canadian Students Say AI Is Hurting Their Critical Thinking",
+    "source_url": "https://thewalrus.ca/what-if-students-are-sick-of-ai-too/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-10T12:41:28.500869+00:00",
+    "analyzed_at": "2026-09-10T12:41:28.500869+00:00",
+    "summary": "Article URL: https://thewalrus.ca/what-if-students-are-sick-of-ai-too/\nComments URL: https://news.ycombinator.com/item?id=49642692\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pseudolus",
+      "language": null
+    }
+  },
+  {
+    "id": "242f0134-4236-42be-8651-aa0bb915812b",
+    "title": "Will AI soon lead to double-digit growth?",
+    "source_url": "https://aleximas.substack.com/p/will-ai-soon-lead-to-double-digit",
+    "source": "hacker_news",
+    "collected_at": "2026-09-10T12:41:29.742362+00:00",
+    "analyzed_at": "2026-09-10T12:41:29.742362+00:00",
+    "summary": "Article URL: https://aleximas.substack.com/p/will-ai-soon-lead-to-double-digit\nComments URL: https://news.ycombinator.com/item?id=49642481\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "paulpauper",
+      "language": null
+    }
+  },
+  {
+    "id": "5cfde022-2831-4832-9f92-2d337e57d7ae",
+    "title": "Show HN: Oracle Forms to Java: A Two-Week AI Migration Experiment",
+    "source_url": "https://vaadin.com/blog/oracle-forms-to-java-a-two-week-ai-migration-experiment",
+    "source": "hacker_news",
+    "collected_at": "2026-09-10T12:41:30.984672+00:00",
+    "analyzed_at": "2026-09-10T12:41:30.984672+00:00",
+    "summary": "Article URL: https://vaadin.com/blog/oracle-forms-to-java-a-two-week-ai-migration-experiment\nComments URL: https://news.ycombinator.com/item?id=49642379\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "spicyroman",
+      "language": null
+    }
+  },
+  {
+    "id": "e56dfa83-fef1-4923-b084-c6fcf6093802",
+    "title": "Show HN: Security Cards – Reducing insecure AI-generated code by 72%",
+    "source_url": "https://www.rewarelabs.com/blog/introducing-security-cards/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-10T12:41:32.234623+00:00",
+    "analyzed_at": "2026-09-10T12:41:32.234623+00:00",
+    "summary": "AI coding agents often generate functionally correct but insecure code. To address this issue, we have open-sourced Security Cards, targeted security guidance for 80+ widely used libraries across 13 p",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "hajipour",
+      "language": null
+    }
+  },
+  {
+    "id": "7c55ebef-a678-45fc-979a-4f06f3f6bd8f",
+    "title": "Japan can turn AI demand into industrial strength",
+    "source_url": "https://www.governance.fyi/p/how-japan-can-turn-ai-demand-into",
+    "source": "hacker_news",
+    "collected_at": "2026-09-10T12:41:33.486443+00:00",
+    "analyzed_at": "2026-09-10T12:41:33.486443+00:00",
+    "summary": "Article URL: https://www.governance.fyi/p/how-japan-can-turn-ai-demand-into\nComments URL: https://news.ycombinator.com/item?id=49642251\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "guardianbob",
+      "language": null
+    }
+  },
+  {
+    "id": "3ef3ca13-eaae-4d9a-bbd7-7005b28967dd",
+    "title": "Most of us are writing with AI, but no one likes reading AI writing",
+    "source_url": "https://vitaexmachina.substack.com/p/most-of-us-are-writing-with-ai-but",
+    "source": "hacker_news",
+    "collected_at": "2026-09-10T12:41:34.734845+00:00",
+    "analyzed_at": "2026-09-10T12:41:34.734845+00:00",
+    "summary": "Article URL: https://vitaexmachina.substack.com/p/most-of-us-are-writing-with-ai-but\nComments URL: https://news.ycombinator.com/item?id=49642133\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "sebg",
+      "language": null
+    }
+  },
+  {
+    "id": "44564fbd-33a0-4a16-8bc4-f8456fb614a2",
+    "title": "Getting Out of the Loop: 8 Months Solo-Building with AI",
+    "source_url": "https://github.com/patforna/getting-out-of-the-loop",
+    "source": "hacker_news",
+    "collected_at": "2026-09-10T12:41:35.984569+00:00",
+    "analyzed_at": "2026-09-10T12:41:35.984569+00:00",
+    "summary": "Article URL: https://github.com/patforna/getting-out-of-the-loop\nComments URL: https://news.ycombinator.com/item?id=49642132\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "patforna",
+      "language": null
+    }
+  },
+  {
+    "id": "667175d5-d456-4d2b-ad21-33db9578a6a0",
+    "title": "The $40k a year school where AI shapes every lesson, without teachers",
+    "source_url": "https://www.cbsnews.com/news/alpha-school-artificial-intelligence/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-10T12:41:37.234068+00:00",
+    "analyzed_at": "2026-09-10T12:41:37.234068+00:00",
+    "summary": "Article URL: https://www.cbsnews.com/news/alpha-school-artificial-intelligence/\nComments URL: https://news.ycombinator.com/item?id=49642074\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Anon84",
+      "language": null
+    }
+  },
+  {
+    "id": "82f9c063-a37f-4826-8e2f-6d62ebd24319",
+    "title": "Anthropic reveals fourth likely crime committed by its AI",
+    "source_url": "https://www.theregister.com/ai-and-ml/2026/09/10/anthropic-reveals-fourth-likely-crime-committed-by-its-ai/5295412",
+    "source": "hacker_news",
+    "collected_at": "2026-09-10T12:41:38.482859+00:00",
+    "analyzed_at": "2026-09-10T12:41:38.482859+00:00",
+    "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/10/anthropic-reveals-fourth-likely-crime-committed-by-its-ai/5295412\nComments URL: https://news.ycombinator.com/item?id=49642063\nPoints: 2\n# ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pseudolus",
+      "language": null
+    }
+  },
+  {
+    "id": "dff80770-8282-4e22-ae22-196a3a035de4",
+    "title": "The 24-Hour AI experiment that broke Google Earth's trust",
+    "source_url": "https://restofworld.org/2026/google-earth-ai-deepfake-iran-war/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-10T12:41:39.732325+00:00",
+    "analyzed_at": "2026-09-10T12:41:39.732325+00:00",
+    "summary": "Article URL: https://restofworld.org/2026/google-earth-ai-deepfake-iran-war/\nComments URL: https://news.ycombinator.com/item?id=49642028\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "donohoe",
+      "language": null
+    }
+  },
+  {
+    "id": "c0c4bad5-ef2d-4ca3-a9f4-ca2ae9c456f5",
+    "title": "Ask HN: If I innovate using AI, will it share my innovation?",
+    "source_url": "https://news.ycombinator.com/item?id=49642013",
+    "source": "hacker_news",
+    "collected_at": "2026-09-10T12:41:40.972745+00:00",
+    "analyzed_at": "2026-09-10T12:41:40.972745+00:00",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=49642013\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "andrewstuart",
+      "language": null
+    }
+  },
+  {
+    "id": "f99b44b7-57d9-461b-aa76-0f727aff0f22",
+    "title": "Finland: Google announces €13B AI, energy investment",
+    "source_url": "https://www.msn.com/en-us/money/economy/finland-google-announces-13-billion-ai-energy-investment/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-10T12:41:42.215744+00:00",
+    "analyzed_at": "2026-09-10T12:41:42.215744+00:00",
+    "summary": "Article URL: https://www.msn.com/en-us/money/economy/finland-google-announces-13-billion-ai-energy-investment/\nComments URL: https://news.ycombinator.com/item?id=49641970\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "NishanStepak",
+      "language": null
+    }
+  }
+]

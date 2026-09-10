@@ -1,0 +1,178 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-09-10T12:41:16.900542+00:00",
+  "items": [
+    {
+      "name": "Show HN: I graded 200 AI tools/apps and track any changes in their policies",
+      "url": "https://isittrainingonme.com/",
+      "summary": "Hi all,Given the recent OpenAI saga with the Navier–Stokes problem, I thought it would be a good time to show my latest project.The site pulls policies from 200+ websites, keeps track of them and comp",
+      "source": "hacker_news",
+      "score": null,
+      "author": "trainingonme",
+      "published": "Thu, 10 Sep 2026 12:39:55 +0000"
+    },
+    {
+      "name": "Canadian Students Say AI Is Hurting Their Critical Thinking",
+      "url": "https://thewalrus.ca/what-if-students-are-sick-of-ai-too/",
+      "summary": "Article URL: https://thewalrus.ca/what-if-students-are-sick-of-ai-too/\nComments URL: https://news.ycombinator.com/item?id=49642692\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pseudolus",
+      "published": "Thu, 10 Sep 2026 12:31:49 +0000"
+    },
+    {
+      "name": "Will AI soon lead to double-digit growth?",
+      "url": "https://aleximas.substack.com/p/will-ai-soon-lead-to-double-digit",
+      "summary": "Article URL: https://aleximas.substack.com/p/will-ai-soon-lead-to-double-digit\nComments URL: https://news.ycombinator.com/item?id=49642481\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "paulpauper",
+      "published": "Thu, 10 Sep 2026 12:14:44 +0000"
+    },
+    {
+      "name": "Show HN: Oracle Forms to Java: A Two-Week AI Migration Experiment",
+      "url": "https://vaadin.com/blog/oracle-forms-to-java-a-two-week-ai-migration-experiment",
+      "summary": "Article URL: https://vaadin.com/blog/oracle-forms-to-java-a-two-week-ai-migration-experiment\nComments URL: https://news.ycombinator.com/item?id=49642379\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "spicyroman",
+      "published": "Thu, 10 Sep 2026 12:06:14 +0000"
+    },
+    {
+      "name": "Show HN: Security Cards – Reducing insecure AI-generated code by 72%",
+      "url": "https://www.rewarelabs.com/blog/introducing-security-cards/",
+      "summary": "AI coding agents often generate functionally correct but insecure code. To address this issue, we have open-sourced Security Cards, targeted security guidance for 80+ widely used libraries across 13 p",
+      "source": "hacker_news",
+      "score": null,
+      "author": "hajipour",
+      "published": "Thu, 10 Sep 2026 12:03:03 +0000"
+    },
+    {
+      "name": "Japan can turn AI demand into industrial strength",
+      "url": "https://www.governance.fyi/p/how-japan-can-turn-ai-demand-into",
+      "summary": "Article URL: https://www.governance.fyi/p/how-japan-can-turn-ai-demand-into\nComments URL: https://news.ycombinator.com/item?id=49642251\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "guardianbob",
+      "published": "Thu, 10 Sep 2026 11:55:49 +0000"
+    },
+    {
+      "name": "Most of us are writing with AI, but no one likes reading AI writing",
+      "url": "https://vitaexmachina.substack.com/p/most-of-us-are-writing-with-ai-but",
+      "summary": "Article URL: https://vitaexmachina.substack.com/p/most-of-us-are-writing-with-ai-but\nComments URL: https://news.ycombinator.com/item?id=49642133\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "sebg",
+      "published": "Thu, 10 Sep 2026 11:46:58 +0000"
+    },
+    {
+      "name": "Getting Out of the Loop: 8 Months Solo-Building with AI",
+      "url": "https://github.com/patforna/getting-out-of-the-loop",
+      "summary": "Article URL: https://github.com/patforna/getting-out-of-the-loop\nComments URL: https://news.ycombinator.com/item?id=49642132\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "patforna",
+      "published": "Thu, 10 Sep 2026 11:46:58 +0000"
+    },
+    {
+      "name": "The $40k a year school where AI shapes every lesson, without teachers",
+      "url": "https://www.cbsnews.com/news/alpha-school-artificial-intelligence/",
+      "summary": "Article URL: https://www.cbsnews.com/news/alpha-school-artificial-intelligence/\nComments URL: https://news.ycombinator.com/item?id=49642074\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Anon84",
+      "published": "Thu, 10 Sep 2026 11:43:27 +0000"
+    },
+    {
+      "name": "Anthropic reveals fourth likely crime committed by its AI",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/10/anthropic-reveals-fourth-likely-crime-committed-by-its-ai/5295412",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/10/anthropic-reveals-fourth-likely-crime-committed-by-its-ai/5295412\nComments URL: https://news.ycombinator.com/item?id=49642063\nPoints: 2\n# ",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pseudolus",
+      "published": "Thu, 10 Sep 2026 11:42:40 +0000"
+    },
+    {
+      "name": "The 24-Hour AI experiment that broke Google Earth's trust",
+      "url": "https://restofworld.org/2026/google-earth-ai-deepfake-iran-war/",
+      "summary": "Article URL: https://restofworld.org/2026/google-earth-ai-deepfake-iran-war/\nComments URL: https://news.ycombinator.com/item?id=49642028\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "donohoe",
+      "published": "Thu, 10 Sep 2026 11:40:39 +0000"
+    },
+    {
+      "name": "Ask HN: If I innovate using AI, will it share my innovation?",
+      "url": "https://news.ycombinator.com/item?id=49642013",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=49642013\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "andrewstuart",
+      "published": "Thu, 10 Sep 2026 11:39:47 +0000"
+    },
+    {
+      "name": "Finland: Google announces €13B AI, energy investment",
+      "url": "https://www.msn.com/en-us/money/economy/finland-google-announces-13-billion-ai-energy-investment/",
+      "summary": "Article URL: https://www.msn.com/en-us/money/economy/finland-google-announces-13-billion-ai-energy-investment/\nComments URL: https://news.ycombinator.com/item?id=49641970\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "NishanStepak",
+      "published": "Thu, 10 Sep 2026 11:36:13 +0000"
+    },
+    {
+      "name": "AI can't mark its own homework",
+      "url": "https://www.techradar.com/pro/ai-cant-mark-its-own-homework",
+      "summary": "Article URL: https://www.techradar.com/pro/ai-cant-mark-its-own-homework\nComments URL: https://news.ycombinator.com/item?id=49641812\nPoints: 1\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ilreb",
+      "published": "Thu, 10 Sep 2026 11:20:28 +0000"
+    },
+    {
+      "name": "AI rent can save humanity",
+      "url": "https://nonlineartransform.substack.com/p/how-ai-rent-can-save-humanity",
+      "summary": "Article URL: https://nonlineartransform.substack.com/p/how-ai-rent-can-save-humanity\nComments URL: https://news.ycombinator.com/item?id=49641801\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "program_whiz",
+      "published": "Thu, 10 Sep 2026 11:19:53 +0000"
+    },
+    {
+      "name": "How Would AI Kill Us All? What to Know About the AI Doomsday Debate",
+      "url": "https://www.wsj.com/tech/ai/how-would-ai-actually-kill-us-all-what-to-know-about-the-ai-doomsday-debate-034270d1",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/how-would-ai-actually-kill-us-all-what-to-know-about-the-ai-doomsday-debate-034270d1\nComments URL: https://news.ycombinator.com/item?id=49641680\nPoints: 2\n# Co",
+      "source": "hacker_news",
+      "score": null,
+      "author": "doener",
+      "published": "Thu, 10 Sep 2026 11:07:36 +0000"
+    },
+    {
+      "name": "AI agents that QA-test your web app like real users",
+      "url": "https://www.sanitycheck.dev/",
+      "summary": "Article URL: https://www.sanitycheck.dev/\nComments URL: https://news.ycombinator.com/item?id=49641654\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "russellvancuren",
+      "published": "Thu, 10 Sep 2026 11:04:38 +0000"
+    },
+    {
+      "name": "Healthcare AI's next test is integration",
+      "url": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
+      "summary": "Article URL: https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/\nComments URL: https://news.ycombinator.com/item?id=49641622\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "joozio",
+      "published": "Thu, 10 Sep 2026 11:01:15 +0000"
+    },
+    {
+      "name": "Ask HN: What is the proper way of preventing AI labs to use your private data",
+      "url": "https://news.ycombinator.com/item?id=49641616",
+      "summary": "Recent discussions show that most people (including myself) are uneducated about the privacy policies of these AI companies.People talk about the \"opt-out\" button in the settings and assume this will ",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ozgung",
+      "published": "Thu, 10 Sep 2026 11:00:16 +0000"
+    }
+  ]
+}

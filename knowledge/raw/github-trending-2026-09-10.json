@@ -1,0 +1,118 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-09-10T12:40:57.035030+00:00",
+  "items": [
+    {
+      "name": "Vincentwei1021/anything2explainer",
+      "url": "https://github.com/Vincentwei1021/anything2explainer",
+      "summary": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. C",
+      "stars": 502,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "ai-video",
+        "claude-code",
+        "claude-code-skill",
+        "codex",
+        "edge-tts",
+        "educational-video",
+        "explainer-video",
+        "kokoro",
+        "motion-graphics",
+        "multi-agent",
+        "react",
+        "remotion",
+        "text-to-video",
+        "tts",
+        "typescript",
+        "video-generation"
+      ]
+    },
+    {
+      "name": "truanayangi-com/truanayangi",
+      "url": "https://github.com/truanayangi-com/truanayangi",
+      "summary": "Trưa Nay Ăn Gì — run locally with pnpm. Automatic cookie storage; no login, backend or cloud services required.",
+      "stars": 497,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "yudaprasetya007/routeVSCODE",
+      "url": "https://github.com/yudaprasetya007/routeVSCODE",
+      "summary": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
+      "stars": 326,
+      "language": "JavaScript",
+      "topics": [
+        "9router",
+        "ai",
+        "chatgpt",
+        "claude",
+        "copilot",
+        "deepseek",
+        "local-proxy",
+        "model-switcher",
+        "vscode",
+        "vscode-extension"
+      ]
+    },
+    {
+      "name": "wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass",
+      "url": "https://github.com/wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass",
+      "summary": "A game mod that uses NVIDIA AI to change lighting, detail and colour, with controls for strength and performance.",
+      "stars": 270,
+      "language": "C++",
+      "topics": [
+        "baldurs-gate-3",
+        "dlss",
+        "dlss-neural-rendering",
+        "optiscaler"
+      ]
+    },
+    {
+      "name": "browser-use/browser-use-pi",
+      "url": "https://github.com/browser-use/browser-use-pi",
+      "summary": "A tiny TypeScript web agent, hill climbed on real browser evals.",
+      "stars": 261,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "name": "ScottStevenson/SuperAstra",
+      "url": "https://github.com/ScottStevenson/SuperAstra",
+      "summary": "Change SNES games with AI while you play them.",
+      "stars": 243,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "evangelosvlachos96-dotcom/booking-microservices",
+      "url": "https://github.com/evangelosvlachos96-dotcom/booking-microservices",
+      "summary": "Flight booking system built as .NET 10 microservices with Vertical Slice Architecture, DDD, CQRS, Event Sourcing, gRPC, RabbitMQ, Wolverine, PostgreSQL, MongoDB and .NET Aspire.",
+      "stars": 240,
+      "language": "C#",
+      "topics": [
+        "cqrs",
+        "docker",
+        "domain-driven-design",
+        "dotnet",
+        "event-driven-architecture",
+        "event-sourcing",
+        "eventstoredb",
+        "grpc",
+        "identityserver4",
+        "kubernetes",
+        "microservices",
+        "mongodb",
+        "net-aspire",
+        "opentelemetry",
+        "postgresql",
+        "rabbitmq",
+        "vertical-slice-architecture",
+        "wolverines",
+        "yarp"
+      ]
+    }
+  ]
+}
