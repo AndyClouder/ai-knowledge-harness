@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-09-11T12:35:41.151133+00:00",
+  "items": [
+    {
+      "name": "Beyond Coding: The Case for Narrow AI Harnesses",
+      "url": "https://medium.com/@sumant1122/beyond-coding-the-case-for-narrow-ai-harnesses-dae8def8570f",
+      "summary": "Article URL: https://medium.com/@sumant1122/beyond-coding-the-case-for-narrow-ai-harnesses-dae8def8570f\nComments URL: https://news.ycombinator.com/item?id=49657356\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "paperplaneflyr",
+      "published": "Fri, 11 Sep 2026 12:34:01 +0000"
+    },
+    {
+      "name": "Building AI desktop apps without Electron (3.3MB native Windows)",
+      "url": "https://visualneo.com/visualneo-win/the-anti-bloat-revolution-why-visualneo-win-is-the-ideal-ide-for-building-ai-powered-desktop-apps",
+      "summary": "Article URL: https://visualneo.com/visualneo-win/the-anti-bloat-revolution-why-visualneo-win-is-the-ideal-ide-for-building-ai-powered-desktop-apps\nComments URL: https://news.ycombinator.com/item?id=49",
+      "source": "hacker_news",
+      "score": null,
+      "author": "luissinlios",
+      "published": "Fri, 11 Sep 2026 12:25:07 +0000"
+    },
+    {
+      "name": "Mozilla pauses it's Bug Bounty Program for 3 months due to AI report volume",
+      "url": "https://hackerone.com/mozilla/updates?type=team",
+      "summary": "Article URL: https://hackerone.com/mozilla/updates?type=team\nComments URL: https://news.ycombinator.com/item?id=49657229\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "TimH",
+      "published": "Fri, 11 Sep 2026 12:23:19 +0000"
+    },
+    {
+      "name": "AI Hysteria Jumps the Shark",
+      "url": "https://www.washingtonpost.com/opinions/2026/09/09/artificial-intelligence-will-not-kill-us-all/",
+      "summary": "Article URL: https://www.washingtonpost.com/opinions/2026/09/09/artificial-intelligence-will-not-kill-us-all/\nComments URL: https://news.ycombinator.com/item?id=49657228\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "RickJWagner",
+      "published": "Fri, 11 Sep 2026 12:23:08 +0000"
+    },
+    {
+      "name": "Pizza Bot: a local-first inbox for long-running AI agents",
+      "url": "https://github.com/pizza-bot-app/pizza-bot",
+      "summary": "Article URL: https://github.com/pizza-bot-app/pizza-bot\nComments URL: https://news.ycombinator.com/item?id=49657189\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "joshcsimmons",
+      "published": "Fri, 11 Sep 2026 12:20:16 +0000"
+    },
+    {
+      "name": "Culture slop: how AI gave Brazil an American 1980s",
+      "url": "https://albertoescarlate.substack.com/p/culture-slop-how-ai-gave-brazil-an",
+      "summary": "Article URL: https://albertoescarlate.substack.com/p/culture-slop-how-ai-gave-brazil-an\nComments URL: https://news.ycombinator.com/item?id=49656960\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Anon84",
+      "published": "Fri, 11 Sep 2026 12:00:32 +0000"
+    },
+    {
+      "name": "Europe's difficult choices on AI – Mario Draghi",
+      "url": "https://www.ft.com/content/f054f927-b512-452a-b494-ea53f5ac1079",
+      "summary": "Article URL: https://www.ft.com/content/f054f927-b512-452a-b494-ea53f5ac1079\nComments URL: https://news.ycombinator.com/item?id=49656938\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "nkjoep",
+      "published": "Fri, 11 Sep 2026 11:58:09 +0000"
+    },
+    {
+      "name": "Twelve search APIs ran through the same AI agent to see which one helps it most",
+      "url": "https://artificialanalysis.ai/agents/search-api",
+      "summary": "Article URL: https://artificialanalysis.ai/agents/search-api\nComments URL: https://news.ycombinator.com/item?id=49656926\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "2001asjad",
+      "published": "Fri, 11 Sep 2026 11:56:46 +0000"
+    },
+    {
+      "name": "Why fears of AI self-improvement are causing 'existential' concerns",
+      "url": "https://www.cnbc.com/2026/09/11/anthropic-openai-ai-existential-concerns.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/09/11/anthropic-openai-ai-existential-concerns.html\nComments URL: https://news.ycombinator.com/item?id=49656644\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "cramer4next",
+      "published": "Fri, 11 Sep 2026 11:31:06 +0000"
+    },
+    {
+      "name": "Study: Generative AI Is Eroding the Development Pathway for Software Developers",
+      "url": "https://eng.snu.ac.kr/en/communication/promotion/news?md=v&bbsidx=8355",
+      "summary": "Article URL: https://eng.snu.ac.kr/en/communication/promotion/news?md=v&amp;bbsidx=8355\nComments URL: https://news.ycombinator.com/item?id=49656591\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "DeepLogin",
+      "published": "Fri, 11 Sep 2026 11:26:49 +0000"
+    },
+    {
+      "name": "Worried Anthropic researchers warn that AI 'could kill all humans'",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans\nComments URL: https://news.ycombinator.com/item?id=49656503\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "thijsai",
+      "published": "Fri, 11 Sep 2026 11:18:43 +0000"
+    },
+    {
+      "name": "The Waymo effect: how AI is quietly making research less collaborative",
+      "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+      "summary": "Article URL: https://www.researchagenda.news/articles/the-waymo-effect.html\nComments URL: https://news.ycombinator.com/item?id=49656496\nPoints: 90\n# Comments: 54",
+      "source": "hacker_news",
+      "score": null,
+      "author": "JohnHammersley",
+      "published": "Fri, 11 Sep 2026 11:17:50 +0000"
+    },
+    {
+      "name": "In Their Words: Israeli Forces Describe AI-Backed Gaza Killing in New Film",
+      "url": "https://www.barrons.com/news/in-their-words-israeli-forces-describe-ai-backed-gaza-killing-in-new-film-08dece37",
+      "summary": "Article URL: https://www.barrons.com/news/in-their-words-israeli-forces-describe-ai-backed-gaza-killing-in-new-film-08dece37\nComments URL: https://news.ycombinator.com/item?id=49656443\nPoints: 2\n# Com",
+      "source": "hacker_news",
+      "score": null,
+      "author": "CrypticShift",
+      "published": "Fri, 11 Sep 2026 11:13:04 +0000"
+    },
+    {
+      "name": "How do we know if writing is AI?",
+      "url": "https://paulgp.substack.com/p/how-do-we-know-if-writing-is-ai",
+      "summary": "Article URL: https://paulgp.substack.com/p/how-do-we-know-if-writing-is-ai\nComments URL: https://news.ycombinator.com/item?id=49656389\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "AnodicElegy",
+      "published": "Fri, 11 Sep 2026 11:08:21 +0000"
+    },
+    {
+      "name": "Noodle Computer – Share Linux Desktops with AI Agents on Your Mac",
+      "url": "https://xcancel.com/antibot/captcha",
+      "summary": "Article URL: https://xcancel.com/antibot/captcha\nComments URL: https://news.ycombinator.com/item?id=49656260\nPoints: 1\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "_pdp_",
+      "published": "Fri, 11 Sep 2026 10:52:28 +0000"
+    },
+    {
+      "name": "Anthropic says it blocked possible attempts to use AI to develop bioweapons",
+      "url": "https://www.cnn.com/2026/09/10/health/anthropic-bioweapons-report",
+      "summary": "Article URL: https://www.cnn.com/2026/09/10/health/anthropic-bioweapons-report\nComments URL: https://news.ycombinator.com/item?id=49656146\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "cisc",
+      "published": "Fri, 11 Sep 2026 10:36:49 +0000"
+    },
+    {
+      "name": "Gavin Newsom imposes strict new rules on AI, social media, chatbots for children",
+      "url": "https://www.theguardian.com/media/2026/sep/10/gavin-newsom-social-media-bill",
+      "summary": "Article URL: https://www.theguardian.com/media/2026/sep/10/gavin-newsom-social-media-bill\nComments URL: https://news.ycombinator.com/item?id=49656061\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "dgellow",
+      "published": "Fri, 11 Sep 2026 10:24:48 +0000"
+    },
+    {
+      "name": "Resist \"AI\"",
+      "url": "https://ronjeffries.com/articles/-v026/x/t/",
+      "summary": "Article URL: https://ronjeffries.com/articles/-v026/x/t/\nComments URL: https://news.ycombinator.com/item?id=49656033\nPoints: 52\n# Comments: 94",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mborch",
+      "published": "Fri, 11 Sep 2026 10:19:59 +0000"
+    },
+    {
+      "name": "An adult AI image, video and companion chat platform [NSFW AI]",
+      "url": "https://aifapper.com",
+      "summary": "Article URL: https://aifapper.com\nComments URL: https://news.ycombinator.com/item?id=49656014\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "gptguru",
+      "published": "Fri, 11 Sep 2026 10:17:06 +0000"
+    },
+    {
+      "name": "Yemeni militants used Anthropic AI to try to build ballistic missiles",
+      "url": "https://www.ft.com/content/8310cf56-ce60-4e6e-8254-5bb470e9a880",
+      "summary": "Article URL: https://www.ft.com/content/8310cf56-ce60-4e6e-8254-5bb470e9a880\nComments URL: https://news.ycombinator.com/item?id=49655950\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "sbulaev",
+      "published": "Fri, 11 Sep 2026 10:07:08 +0000"
+    }
+  ]
+}
