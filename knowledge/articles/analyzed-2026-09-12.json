@@ -1,0 +1,422 @@
+[
+  {
+    "id": "7a84e008-2c52-4851-aff8-5673fb480c9f",
+    "title": "Jarvis322/macos-sysdata",
+    "source_url": "https://github.com/Jarvis322/macos-sysdata",
+    "source": "unknown",
+    "collected_at": "2026-09-12T11:58:01.505414+00:00",
+    "analyzed_at": "2026-09-12T11:58:01.505414+00:00",
+    "summary": "See what is really inside macOS System Data and delete it item by item. A free menu bar app that explains every category and shows each command before it runs.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 658,
+      "score": null,
+      "author": null,
+      "language": "Swift"
+    }
+  },
+  {
+    "id": "67383875-9a57-48cc-8755-c48aaf59c687",
+    "title": "nftechie/stonkfly",
+    "source_url": "https://github.com/nftechie/stonkfly",
+    "source": "unknown",
+    "collected_at": "2026-09-12T11:58:02.760547+00:00",
+    "analyzed_at": "2026-09-12T11:58:02.760547+00:00",
+    "summary": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 357,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "7017625a-4519-4307-8c82-d13a684e75a3",
+    "title": "Show HN: TattooPreview AI – a planning workflow for tattoo artist conversations",
+    "source_url": "https://tattoopreviewai.com",
+    "source": "hacker_news",
+    "collected_at": "2026-09-12T11:58:03.985499+00:00",
+    "analyzed_at": "2026-09-12T11:58:03.985499+00:00",
+    "summary": "Article URL: https://tattoopreviewai.com\nComments URL: https://news.ycombinator.com/item?id=49671355\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "robot1996",
+      "language": null
+    }
+  },
+  {
+    "id": "aadb6630-d176-4d1e-b047-4ca1edb42523",
+    "title": "Show HN: I wrote a book on using AI in game design production (free on GitHub)",
+    "source_url": "https://github.com/eremes81/game-design-ai-practice-en",
+    "source": "hacker_news",
+    "collected_at": "2026-09-12T11:58:05.212088+00:00",
+    "analyzed_at": "2026-09-12T11:58:05.212088+00:00",
+    "summary": "Article URL: https://github.com/eremes81/game-design-ai-practice-en\nComments URL: https://news.ycombinator.com/item?id=49671342\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "eremes81",
+      "language": null
+    }
+  },
+  {
+    "id": "b8468f25-906a-484b-9a57-2cb6673840ac",
+    "title": "Altman tells staff OpenAI is open to slowing AI development",
+    "source_url": "https://www.reuters.com/business/altman-tells-staff-openai-is-open-slowing-ai-development-bloomberg-news-reports-2026-09-11/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-12T11:58:06.436965+00:00",
+    "analyzed_at": "2026-09-12T11:58:06.436965+00:00",
+    "summary": "Article URL: https://www.reuters.com/business/altman-tells-staff-openai-is-open-slowing-ai-development-bloomberg-news-reports-2026-09-11/\nComments URL: https://news.ycombinator.com/item?id=49671274\nPo",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "signa11",
+      "language": null
+    }
+  },
+  {
+    "id": "ade83701-6e9b-44c4-8613-15ad34cca48d",
+    "title": "The Houthi's weapon programme and AI",
+    "source_url": "https://www.karlsnotes.com/the-houthis-weapon-programme-and-ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-12T11:58:07.697387+00:00",
+    "analyzed_at": "2026-09-12T11:58:07.697387+00:00",
+    "summary": "Article URL: https://www.karlsnotes.com/the-houthis-weapon-programme-and-ai/\nComments URL: https://news.ycombinator.com/item?id=49671169\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Sizzling4028",
+      "language": null
+    }
+  },
+  {
+    "id": "859a05ab-b3d9-41da-9e92-13940496392b",
+    "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+    "source_url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-12T11:58:08.920396+00:00",
+    "analyzed_at": "2026-09-12T11:58:08.920396+00:00",
+    "summary": "Article URL: https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/\nComments URL: https://news.ycombinator.com/item?id=49671159\nPoints: 5\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ColinWright",
+      "language": null
+    }
+  },
+  {
+    "id": "7745b044-b43a-4810-a470-5739d7499616",
+    "title": "Andrew Ng: AI Engineering Skills Map: Shaping the Build",
+    "source_url": "https://twitter.com/andrewyng/status/2098459474608672916",
+    "source": "hacker_news",
+    "collected_at": "2026-09-12T11:58:10.146041+00:00",
+    "analyzed_at": "2026-09-12T11:58:10.146041+00:00",
+    "summary": "Article URL: https://twitter.com/andrewyng/status/2098459474608672916\nComments URL: https://news.ycombinator.com/item?id=49671121\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Anon84",
+      "language": null
+    }
+  },
+  {
+    "id": "e4111b0b-3a83-45d9-a504-83313d43d23e",
+    "title": "Aristotle and AI",
+    "source_url": "https://hollisrobbinsanecdotal.substack.com/p/aristotle-and-ai",
+    "source": "hacker_news",
+    "collected_at": "2026-09-12T11:58:11.371883+00:00",
+    "analyzed_at": "2026-09-12T11:58:11.371883+00:00",
+    "summary": "Article URL: https://hollisrobbinsanecdotal.substack.com/p/aristotle-and-ai\nComments URL: https://news.ycombinator.com/item?id=49671078\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "HR01",
+      "language": null
+    }
+  },
+  {
+    "id": "4a920686-9c3c-4c73-beb2-f8527a38b0f2",
+    "title": "AI Is Powerful Enough to Crack Our Hardest Math Problems–and Kill Us All",
+    "source_url": "https://www.wsj.com/tech/ai/ai-math-millennium-prize-safety-openai-anthropic-05179825",
+    "source": "hacker_news",
+    "collected_at": "2026-09-12T11:58:12.598791+00:00",
+    "analyzed_at": "2026-09-12T11:58:12.598791+00:00",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/ai-math-millennium-prize-safety-openai-anthropic-05179825\nComments URL: https://news.ycombinator.com/item?id=49671043\nPoints: 12\n# Comments: 16",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "diogenes_atx",
+      "language": null
+    }
+  },
+  {
+    "id": "bf7f08d3-0956-4341-a2da-993a98cd3b40",
+    "title": "Top AI spenders cut per-employee costs by nearly 10 percent in August",
+    "source_url": "https://the-decoder.com/top-ai-spenders-cut-per-employee-costs-by-nearly-10-percent-in-august/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-12T11:58:13.823628+00:00",
+    "analyzed_at": "2026-09-12T11:58:13.823628+00:00",
+    "summary": "Article URL: https://the-decoder.com/top-ai-spenders-cut-per-employee-costs-by-nearly-10-percent-in-august/\nComments URL: https://news.ycombinator.com/item?id=49670967\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "geox",
+      "language": null
+    }
+  },
+  {
+    "id": "c1ad1ed5-b1ec-4709-9b7d-3d4c3a72a583",
+    "title": "At this point I feel like AI companies selling Fear",
+    "source_url": "https://news.ycombinator.com/item?id=49670907",
+    "source": "hacker_news",
+    "collected_at": "2026-09-12T11:58:15.049428+00:00",
+    "analyzed_at": "2026-09-12T11:58:15.049428+00:00",
+    "summary": "AI can do reasoning better But It can't outsmart humans , AI gets trained on data but human have their learning with them ,only about 5% of data a human share as learning, knowledge - rest it just ins",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Vineetyadav2",
+      "language": null
+    }
+  },
+  {
+    "id": "9e588f20-7b30-4425-9895-44d27b7672c4",
+    "title": "Static state was not enough for a long-running human-AI interaction",
+    "source_url": "https://github.com/jerry-h-research/static-state-was-not-enough",
+    "source": "hacker_news",
+    "collected_at": "2026-09-12T11:58:16.274631+00:00",
+    "analyzed_at": "2026-09-12T11:58:16.274631+00:00",
+    "summary": "Article URL: https://github.com/jerry-h-research/static-state-was-not-enough\nComments URL: https://news.ycombinator.com/item?id=49670870\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jerry_h",
+      "language": null
+    }
+  },
+  {
+    "id": "c19ef254-b39e-4605-9950-d9e14e2b4bd5",
+    "title": "AI Didn't Solve Fluid Dynamics [video]",
+    "source_url": "https://www.youtube.com/watch?v=WfbtnY3HdFU",
+    "source": "hacker_news",
+    "collected_at": "2026-09-12T11:58:17.500372+00:00",
+    "analyzed_at": "2026-09-12T11:58:17.500372+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=WfbtnY3HdFU\nComments URL: https://news.ycombinator.com/item?id=49670866\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "frag",
+      "language": null
+    }
+  },
+  {
+    "id": "3cdfc594-6402-4bdd-b399-cc778470357c",
+    "title": "Agentica – Six AI agents that plan, build, and deploy a company with you",
+    "source_url": "https://ai-biz.dev/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-12T11:58:18.726879+00:00",
+    "analyzed_at": "2026-09-12T11:58:18.726879+00:00",
+    "summary": "Article URL: https://ai-biz.dev/\nComments URL: https://news.ycombinator.com/item?id=49670861\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "laurenz_bauer",
+      "language": null
+    }
+  },
+  {
+    "id": "4c0c5db5-c50b-4912-bdb7-4ca1597a56d1",
+    "title": "Anatomy of the AI Debate",
+    "source_url": "https://piotrzientara.pl/anatomy-of-the-ai-debate/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-12T11:58:19.952408+00:00",
+    "analyzed_at": "2026-09-12T11:58:19.952408+00:00",
+    "summary": "Article URL: https://piotrzientara.pl/anatomy-of-the-ai-debate/\nComments URL: https://news.ycombinator.com/item?id=49670833\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "piotrzientara",
+      "language": null
+    }
+  },
+  {
+    "id": "884cddae-639a-419f-b8eb-14020b62b032",
+    "title": "GoatCode – open-source terminal AI agent with provider failover",
+    "source_url": "https://news.ycombinator.com/item?id=49670455",
+    "source": "hacker_news",
+    "collected_at": "2026-09-12T11:58:21.177970+00:00",
+    "analyzed_at": "2026-09-12T11:58:21.177970+00:00",
+    "summary": "GoatCode is a single 85 MB binary that runs in your terminal. It brings 180+ LLM providers (or your existing Claude/ChatGPT/Gemini/Copilot subscriptions via OAuth), and when your quota dies mid-sessio",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Arhan-w",
+      "language": null
+    }
+  },
+  {
+    "id": "f4bbfd7b-b92e-4a21-84c7-6545348bad02",
+    "title": "AI may be denting computer science graduates' job prospects, UK data shows",
+    "source_url": "https://www.theguardian.com/education/2026/sep/12/ai-computer-science-graduates-job-prospects-uk-data",
+    "source": "hacker_news",
+    "collected_at": "2026-09-12T11:58:22.437881+00:00",
+    "analyzed_at": "2026-09-12T11:58:22.437881+00:00",
+    "summary": "Article URL: https://www.theguardian.com/education/2026/sep/12/ai-computer-science-graduates-job-prospects-uk-data\nComments URL: https://news.ycombinator.com/item?id=49670427\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "vinni2",
+      "language": null
+    }
+  },
+  {
+    "id": "d3559854-9611-4bb7-8ec5-c2012b12131e",
+    "title": "UAE revises 5GW AI data center plan after Iranian attacks, sources say",
+    "source_url": "https://www.reuters.com/world/middle-east/uae-revises-ai-data-center-plan-after-iranian-attacks-sources-say-2026-09-11/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-12T11:58:23.703011+00:00",
+    "analyzed_at": "2026-09-12T11:58:23.703011+00:00",
+    "summary": "Article URL: https://www.reuters.com/world/middle-east/uae-revises-ai-data-center-plan-after-iranian-attacks-sources-say-2026-09-11/\nComments URL: https://news.ycombinator.com/item?id=49670299\nPoints:",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "giuliomagnifico",
+      "language": null
+    }
+  },
+  {
+    "id": "2058db3f-0165-40a3-90c8-86e45ca3b147",
+    "title": "Show HN: Sharpniq – AI-powered tool to unblur images online",
+    "source_url": "https://unblurimage.me",
+    "source": "hacker_news",
+    "collected_at": "2026-09-12T11:58:24.930355+00:00",
+    "analyzed_at": "2026-09-12T11:58:24.930355+00:00",
+    "summary": "Sharpniq is an AI-powered unblur image tool that sharpens blurry photos and restores image clarity online in seconds, with no software installation required.\n\nComments URL: https://news.ycombinator.co",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "toolina",
+      "language": null
+    }
+  }
+]
