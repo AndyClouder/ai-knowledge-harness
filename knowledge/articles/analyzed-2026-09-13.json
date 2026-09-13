@@ -1,0 +1,149 @@
+[
+  {
+    "id": "f8897d2f-7b5d-4dc3-ac08-c22331535688",
+    "title": "rizqinrr/viserys-agent",
+    "source_url": "https://github.com/rizqinrr/viserys-agent",
+    "source": "unknown",
+    "collected_at": "2026-09-13T13:05:59.997306+00:00",
+    "analyzed_at": "2026-09-13T13:05:59.997306+00:00",
+    "summary": "",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 627,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "a32a8c0a-5b6a-4565-8409-6c2d349832dc",
+    "title": "eternityspring/reelbench-skills",
+    "source_url": "https://github.com/eternityspring/reelbench-skills",
+    "source": "unknown",
+    "collected_at": "2026-09-13T13:06:01.187699+00:00",
+    "analyzed_at": "2026-09-13T13:06:01.187699+00:00",
+    "summary": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 423,
+      "score": null,
+      "author": null,
+      "language": "HTML"
+    }
+  },
+  {
+    "id": "cf399083-7d6f-4187-9b84-4d61df620151",
+    "title": "unstablebuild/rune",
+    "source_url": "https://github.com/unstablebuild/rune",
+    "source": "unknown",
+    "collected_at": "2026-09-13T13:06:02.378965+00:00",
+    "analyzed_at": "2026-09-13T13:06:02.378965+00:00",
+    "summary": "the development environment for pros",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 423,
+      "score": null,
+      "author": null,
+      "language": "Go"
+    }
+  },
+  {
+    "id": "f8531347-0df9-4aee-9562-a4fc03dae4ac",
+    "title": "yifanzhang-pro/recurrent-looped-tranformer",
+    "source_url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer",
+    "source": "unknown",
+    "collected_at": "2026-09-13T13:06:03.568698+00:00",
+    "analyzed_at": "2026-09-13T13:06:03.568698+00:00",
+    "summary": "Official Project Page for Recurrent Looped Transformer (RLT)",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 360,
+      "score": null,
+      "author": null,
+      "language": "HTML"
+    }
+  },
+  {
+    "id": "6395dfbd-c0f5-46f0-a21a-db25f780a0c7",
+    "title": "openaiotlab/CUHK-X",
+    "source_url": "https://github.com/openaiotlab/CUHK-X",
+    "source": "unknown",
+    "collected_at": "2026-09-13T13:06:04.771148+00:00",
+    "analyzed_at": "2026-09-13T13:06:04.771148+00:00",
+    "summary": "[MobiSys 2026] A large-scale, multimodal dataset and benchmark for Human Action Recognition, Understanding and Reasoning",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 302,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "0bd19fcc-8995-457a-bfb6-f3708c2a3eef",
+    "title": "showlab/Show-Harness",
+    "source_url": "https://github.com/showlab/Show-Harness",
+    "source": "unknown",
+    "collected_at": "2026-09-13T13:06:05.938940+00:00",
+    "analyzed_at": "2026-09-13T13:06:05.938940+00:00",
+    "summary": "Just a VLM Agent Can Play Robots",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 290,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "407bd053-ffa3-45d7-91ad-096f420a9319",
+    "title": "tsymbaluyk/maskgate",
+    "source_url": "https://github.com/tsymbaluyk/maskgate",
+    "source": "unknown",
+    "collected_at": "2026-09-13T13:06:07.132641+00:00",
+    "analyzed_at": "2026-09-13T13:06:07.132641+00:00",
+    "summary": "Mask Gate — PII masking shield: detect and mask passports, INN, SNILS, cards and other sensitive data before sending to ChatGPT, Claude, Gemini. block / redact / flag, reversible vault, self-hosted, 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 268,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  }
+]

@@ -1,0 +1,91 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-09-13T13:05:54.737946+00:00",
+  "items": [
+    {
+      "name": "rizqinrr/viserys-agent",
+      "url": "https://github.com/rizqinrr/viserys-agent",
+      "summary": "",
+      "stars": 627,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "name": "eternityspring/reelbench-skills",
+      "url": "https://github.com/eternityspring/reelbench-skills",
+      "summary": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
+      "stars": 423,
+      "language": "HTML",
+      "topics": [
+        "ai-video",
+        "claude-code",
+        "claude-skills",
+        "ffmpeg",
+        "shot-analysis",
+        "video-analysis"
+      ]
+    },
+    {
+      "name": "unstablebuild/rune",
+      "url": "https://github.com/unstablebuild/rune",
+      "summary": "the development environment for pros",
+      "stars": 423,
+      "language": "Go",
+      "topics": [
+        "agent-orchestration",
+        "ai",
+        "cli",
+        "coding-agents",
+        "developer-tool",
+        "devtools",
+        "go",
+        "golang",
+        "ide",
+        "rune",
+        "terminal-multiplexer",
+        "text-editor",
+        "tmux",
+        "tui",
+        "workspace-manager"
+      ]
+    },
+    {
+      "name": "yifanzhang-pro/recurrent-looped-tranformer",
+      "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer",
+      "summary": "Official Project Page for Recurrent Looped Transformer (RLT)",
+      "stars": 360,
+      "language": "HTML",
+      "topics": []
+    },
+    {
+      "name": "openaiotlab/CUHK-X",
+      "url": "https://github.com/openaiotlab/CUHK-X",
+      "summary": "[MobiSys 2026] A large-scale, multimodal dataset and benchmark for Human Action Recognition, Understanding and Reasoning",
+      "stars": 302,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "showlab/Show-Harness",
+      "url": "https://github.com/showlab/Show-Harness",
+      "summary": "Just a VLM Agent Can Play Robots",
+      "stars": 290,
+      "language": "Python",
+      "topics": [
+        "embodied-agent",
+        "foundation-models",
+        "harness",
+        "robotics"
+      ]
+    },
+    {
+      "name": "tsymbaluyk/maskgate",
+      "url": "https://github.com/tsymbaluyk/maskgate",
+      "summary": "Mask Gate — PII masking shield: detect and mask passports, INN, SNILS, cards and other sensitive data before sending to ChatGPT, Claude, Gemini. block / redact / flag, reversible vault, self-hosted, 1",
+      "stars": 268,
+      "language": null,
+      "topics": []
+    }
+  ]
+}
