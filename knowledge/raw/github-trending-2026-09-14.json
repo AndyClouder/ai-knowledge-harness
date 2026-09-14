@@ -1,0 +1,46 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-09-14T14:42:16.328355+00:00",
+  "items": [
+    {
+      "name": "kruzovic7/ai-data-extractor",
+      "url": "https://github.com/kruzovic7/ai-data-extractor",
+      "summary": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "stars": 572,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-data-extraction",
+        "claude-code",
+        "cursor"
+      ]
+    },
+    {
+      "name": "yi1108/printfilm",
+      "url": "https://github.com/yi1108/printfilm",
+      "summary": "PRINTFILM：AI 科普视频与漫剧创作平台",
+      "stars": 335,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "Phyzicalorg/Phyzical_org",
+      "url": "https://github.com/Phyzicalorg/Phyzical_org",
+      "summary": "Browser teleoperation data for embodied AI — elizaOS-ready episodes, trajectory_db converter, onchain provenance. The fuel station for agent robot stacks.",
+      "stars": 306,
+      "language": "Python",
+      "topics": [
+        "data-platform",
+        "elizaos",
+        "embodied-ai",
+        "imitation-learning",
+        "robot-learning",
+        "robotics",
+        "teleoperation",
+        "vla",
+        "web3"
+      ]
+    }
+  ]
+}

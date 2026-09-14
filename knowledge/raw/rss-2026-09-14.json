@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-09-14T14:42:28.986281+00:00",
+  "items": [
+    {
+      "name": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+      "summary": "Article URL: https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/\nComments URL: https://news.ycombinator.com/item?id=49697477\nPoints: 5\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "nathannaveen",
+      "published": "Mon, 14 Sep 2026 14:29:23 +0000"
+    },
+    {
+      "name": "Show HN: Prmptree – AI email agent with a trust dial, not an on/off switch",
+      "url": "https://www.prmptree.com/",
+      "summary": "Article URL: https://www.prmptree.com/\nComments URL: https://news.ycombinator.com/item?id=49697407\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "doingmybest1",
+      "published": "Mon, 14 Sep 2026 14:25:28 +0000"
+    },
+    {
+      "name": "Anthropic team lead: AI >10% to kill all humans in next decade",
+      "url": "https://twitter.com/EvanHub/status/2097497037956891126",
+      "summary": "Article URL: https://twitter.com/EvanHub/status/2097497037956891126\nComments URL: https://news.ycombinator.com/item?id=49697400\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "highfrequency",
+      "published": "Mon, 14 Sep 2026 14:25:01 +0000"
+    },
+    {
+      "name": "Russian Navy paints ships to resemble homes to deceive AI drones",
+      "url": "https://twitter.com/JayinKyiv/status/2099403626712068129",
+      "summary": "Article URL: https://twitter.com/JayinKyiv/status/2099403626712068129\nComments URL: https://news.ycombinator.com/item?id=49697304\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ilamont",
+      "published": "Mon, 14 Sep 2026 14:18:38 +0000"
+    },
+    {
+      "name": "Roblox is making easier to build games with AI and play outside of it",
+      "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
+      "summary": "Article URL: https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/\nComments URL: https://news.ycombinator.com/item?id=49697274\nPoints: 2\n# C",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ltononro",
+      "published": "Mon, 14 Sep 2026 14:16:27 +0000"
+    },
+    {
+      "name": "Humanist AI Code of Conduct – Microsoft AI",
+      "url": "https://microsoft.ai/code-of-conduct/",
+      "summary": "Article URL: https://microsoft.ai/code-of-conduct/\nComments URL: https://news.ycombinator.com/item?id=49697230\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "thm",
+      "published": "Mon, 14 Sep 2026 14:13:31 +0000"
+    },
+    {
+      "name": "Trump downplays warnings of AI risks, citing rivalry with China",
+      "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/c7v48vp31mdo\nComments URL: https://news.ycombinator.com/item?id=49697190\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "chrisjj",
+      "published": "Mon, 14 Sep 2026 14:10:34 +0000"
+    },
+    {
+      "name": "Transformative AI Strategy for Europe",
+      "url": "https://transformative-ai.eu/",
+      "summary": "Article URL: https://transformative-ai.eu/\nComments URL: https://news.ycombinator.com/item?id=49697164\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "armcat",
+      "published": "Mon, 14 Sep 2026 14:08:50 +0000"
+    },
+    {
+      "name": "A fresh take on Code Intelligence for AI agents – publically benchmarked",
+      "url": "https://github.com/oooscoos/Benzi",
+      "summary": "Article URL: https://github.com/oooscoos/Benzi\nComments URL: https://news.ycombinator.com/item?id=49697137\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "tweedler290",
+      "published": "Mon, 14 Sep 2026 14:07:27 +0000"
+    },
+    {
+      "name": "Expense tracker by voice with AI analysis",
+      "url": "https://apps.apple.com/us/app/expense-tracker-myfullwallet/id6806290220",
+      "summary": "Article URL: https://apps.apple.com/us/app/expense-tracker-myfullwallet/id6806290220\nComments URL: https://news.ycombinator.com/item?id=49697118\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rafaelrpadovani",
+      "published": "Mon, 14 Sep 2026 14:06:36 +0000"
+    },
+    {
+      "name": "Defeating AI-Assisted Reverse Engineering (Or at Least Trying To)",
+      "url": "https://blog.quarkslab.com/defeating-ai-assisted-reverse-engineering-or-at-least-trying-to.html",
+      "summary": "Article URL: https://blog.quarkslab.com/defeating-ai-assisted-reverse-engineering-or-at-least-trying-to.html\nComments URL: https://news.ycombinator.com/item?id=49697101\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ChaoStatiX",
+      "published": "Mon, 14 Sep 2026 14:05:25 +0000"
+    },
+    {
+      "name": "Adversarial Fashion Makes a Statement on AI Panopticon",
+      "url": "https://spectrum.ieee.org/adversarial-fashion",
+      "summary": "Article URL: https://spectrum.ieee.org/adversarial-fashion\nComments URL: https://news.ycombinator.com/item?id=49697094\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rbanffy",
+      "published": "Mon, 14 Sep 2026 14:04:53 +0000"
+    },
+    {
+      "name": "Trump resists AI slowdown citing Chinese competition",
+      "url": "https://www.washingtonpost.com/politics/2026/09/13/trump-rejects-calls-so-slow-ai-development-citing-chinese-competition/",
+      "summary": "Article URL: https://www.washingtonpost.com/politics/2026/09/13/trump-rejects-calls-so-slow-ai-development-citing-chinese-competition/\nComments URL: https://news.ycombinator.com/item?id=49697037\nPoint",
+      "source": "hacker_news",
+      "score": null,
+      "author": "hkalbasi",
+      "published": "Mon, 14 Sep 2026 14:00:35 +0000"
+    },
+    {
+      "name": "The AI job market in 2026",
+      "url": "https://www.ilinmaks.com/blog/en/ai-jobs-market-2026",
+      "summary": "Article URL: https://www.ilinmaks.com/blog/en/ai-jobs-market-2026\nComments URL: https://news.ycombinator.com/item?id=49696867\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "dxs",
+      "published": "Mon, 14 Sep 2026 13:49:57 +0000"
+    },
+    {
+      "name": "AI Norms and Values, Part 3 of 3: Things We Hold True",
+      "url": "https://www.honeycomb.io/blog/ai-norms-values-part-3-things-we-hold-true",
+      "summary": "Article URL: https://www.honeycomb.io/blog/ai-norms-values-part-3-things-we-hold-true\nComments URL: https://news.ycombinator.com/item?id=49696785\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "lervag",
+      "published": "Mon, 14 Sep 2026 13:44:38 +0000"
+    },
+    {
+      "name": "China state newspaper blasts Anthropic's calls to slow AI as 'Cold War' tactic",
+      "url": "https://www.reuters.com/world/china/china-state-newspaper-blasts-anthropics-calls-slow-ai-cold-war-tactic-2026-09-14/",
+      "summary": "Article URL: https://www.reuters.com/world/china/china-state-newspaper-blasts-anthropics-calls-slow-ai-cold-war-tactic-2026-09-14/\nComments URL: https://news.ycombinator.com/item?id=49696781\nPoints: 8",
+      "source": "hacker_news",
+      "score": null,
+      "author": "magoghm",
+      "published": "Mon, 14 Sep 2026 13:44:18 +0000"
+    },
+    {
+      "name": "Do the AI Studio test NOW to prove Google doesn't delete chats",
+      "url": "https://lemmy.world/post/51905600",
+      "summary": "Article URL: https://lemmy.world/post/51905600\nComments URL: https://news.ycombinator.com/item?id=49696731\nPoints: 3\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Bitu79",
+      "published": "Mon, 14 Sep 2026 13:41:15 +0000"
+    },
+    {
+      "name": "METR: The New AI Gatekeepers and the Quiet Path to State Control of AI",
+      "url": "https://readmultiplex.com/2026/09/13/metr-the-new-ai-measurement-gatekeepers-and-the-quiet-path-to-state-control-of-ai/",
+      "summary": "Article URL: https://readmultiplex.com/2026/09/13/metr-the-new-ai-measurement-gatekeepers-and-the-quiet-path-to-state-control-of-ai/\nComments URL: https://news.ycombinator.com/item?id=49696665\nPoints:",
+      "source": "hacker_news",
+      "score": null,
+      "author": "CGMthrowaway",
+      "published": "Mon, 14 Sep 2026 13:36:53 +0000"
+    },
+    {
+      "name": "The AI cleanup crew. Why AI taking down sites is a good thing",
+      "url": "https://news.ycombinator.com/item?id=49696660",
+      "summary": "Everyone is worried about how AI can break security and attack any website and potentially destroy them.  I offer a different perspective.AI shouldn't be stopped from doing this.  It should be encoura",
+      "source": "hacker_news",
+      "score": null,
+      "author": "foxtrot8672",
+      "published": "Mon, 14 Sep 2026 13:36:36 +0000"
+    },
+    {
+      "name": "Jensen Huang Became AI's Taylor Swift",
+      "url": "https://www.economist.com/interactive/1843/2026/09/03/how-jensen-huang-became-ais-taylor-swift",
+      "summary": "Article URL: https://www.economist.com/interactive/1843/2026/09/03/how-jensen-huang-became-ais-taylor-swift\nComments URL: https://news.ycombinator.com/item?id=49696460\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "tolugenius",
+      "published": "Mon, 14 Sep 2026 13:24:29 +0000"
+    }
+  ]
+}

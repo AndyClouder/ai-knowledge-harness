@@ -1,0 +1,422 @@
+[
+  {
+    "id": "7bf84a21-738c-4241-9efd-181ac8842709",
+    "title": "kruzovic7/ai-data-extractor",
+    "source_url": "https://github.com/kruzovic7/ai-data-extractor",
+    "source": "unknown",
+    "collected_at": "2026-09-14T14:42:30.477504+00:00",
+    "analyzed_at": "2026-09-14T14:42:30.477504+00:00",
+    "summary": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 572,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "3d6f0ec4-fabf-44d4-8330-7bce2028dba9",
+    "title": "yi1108/printfilm",
+    "source_url": "https://github.com/yi1108/printfilm",
+    "source": "unknown",
+    "collected_at": "2026-09-14T14:42:31.687947+00:00",
+    "analyzed_at": "2026-09-14T14:42:31.687947+00:00",
+    "summary": "PRINTFILM：AI 科普视频与漫剧创作平台",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 335,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "613cb7d8-af20-493b-b597-8ede31c99e30",
+    "title": "Phyzicalorg/Phyzical_org",
+    "source_url": "https://github.com/Phyzicalorg/Phyzical_org",
+    "source": "unknown",
+    "collected_at": "2026-09-14T14:42:32.889937+00:00",
+    "analyzed_at": "2026-09-14T14:42:32.889937+00:00",
+    "summary": "Browser teleoperation data for embodied AI — elizaOS-ready episodes, trajectory_db converter, onchain provenance. The fuel station for agent robot stacks.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 306,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "5248fafc-a636-44b9-a6c8-55ca990b8188",
+    "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+    "source_url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-14T14:42:34.093210+00:00",
+    "analyzed_at": "2026-09-14T14:42:34.093210+00:00",
+    "summary": "Article URL: https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/\nComments URL: https://news.ycombinator.com/item?id=49697477\nPoints: 5\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "nathannaveen",
+      "language": null
+    }
+  },
+  {
+    "id": "2bc50ddd-5a60-438b-af70-e919799a794e",
+    "title": "Show HN: Prmptree – AI email agent with a trust dial, not an on/off switch",
+    "source_url": "https://www.prmptree.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-14T14:42:35.300345+00:00",
+    "analyzed_at": "2026-09-14T14:42:35.300345+00:00",
+    "summary": "Article URL: https://www.prmptree.com/\nComments URL: https://news.ycombinator.com/item?id=49697407\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "doingmybest1",
+      "language": null
+    }
+  },
+  {
+    "id": "1892904b-8253-4d7e-a124-cdce608dc339",
+    "title": "Anthropic team lead: AI >10% to kill all humans in next decade",
+    "source_url": "https://twitter.com/EvanHub/status/2097497037956891126",
+    "source": "hacker_news",
+    "collected_at": "2026-09-14T14:42:36.505799+00:00",
+    "analyzed_at": "2026-09-14T14:42:36.505799+00:00",
+    "summary": "Article URL: https://twitter.com/EvanHub/status/2097497037956891126\nComments URL: https://news.ycombinator.com/item?id=49697400\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "highfrequency",
+      "language": null
+    }
+  },
+  {
+    "id": "e130846c-4c01-494a-bd58-393166e0ef16",
+    "title": "Russian Navy paints ships to resemble homes to deceive AI drones",
+    "source_url": "https://twitter.com/JayinKyiv/status/2099403626712068129",
+    "source": "hacker_news",
+    "collected_at": "2026-09-14T14:42:37.713465+00:00",
+    "analyzed_at": "2026-09-14T14:42:37.713465+00:00",
+    "summary": "Article URL: https://twitter.com/JayinKyiv/status/2099403626712068129\nComments URL: https://news.ycombinator.com/item?id=49697304\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ilamont",
+      "language": null
+    }
+  },
+  {
+    "id": "65224dfd-8c00-48ab-b1be-215ff35d09fd",
+    "title": "Roblox is making easier to build games with AI and play outside of it",
+    "source_url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-14T14:42:38.915430+00:00",
+    "analyzed_at": "2026-09-14T14:42:38.915430+00:00",
+    "summary": "Article URL: https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/\nComments URL: https://news.ycombinator.com/item?id=49697274\nPoints: 2\n# C",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ltononro",
+      "language": null
+    }
+  },
+  {
+    "id": "c6a5722d-93a1-46fd-908c-a5ba0748b52e",
+    "title": "Humanist AI Code of Conduct – Microsoft AI",
+    "source_url": "https://microsoft.ai/code-of-conduct/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-14T14:42:40.117619+00:00",
+    "analyzed_at": "2026-09-14T14:42:40.117619+00:00",
+    "summary": "Article URL: https://microsoft.ai/code-of-conduct/\nComments URL: https://news.ycombinator.com/item?id=49697230\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "thm",
+      "language": null
+    }
+  },
+  {
+    "id": "2512dd9d-d651-41e4-b0ab-2edc0343e071",
+    "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+    "source_url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo",
+    "source": "hacker_news",
+    "collected_at": "2026-09-14T14:42:41.326005+00:00",
+    "analyzed_at": "2026-09-14T14:42:41.326005+00:00",
+    "summary": "Article URL: https://www.bbc.co.uk/news/articles/c7v48vp31mdo\nComments URL: https://news.ycombinator.com/item?id=49697190\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "chrisjj",
+      "language": null
+    }
+  },
+  {
+    "id": "54b79182-8887-44f3-a7c6-3b801f1948a0",
+    "title": "Transformative AI Strategy for Europe",
+    "source_url": "https://transformative-ai.eu/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-14T14:42:42.542472+00:00",
+    "analyzed_at": "2026-09-14T14:42:42.542472+00:00",
+    "summary": "Article URL: https://transformative-ai.eu/\nComments URL: https://news.ycombinator.com/item?id=49697164\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "armcat",
+      "language": null
+    }
+  },
+  {
+    "id": "f2f880c1-4943-47f2-9bee-a7cdd2c20771",
+    "title": "A fresh take on Code Intelligence for AI agents – publically benchmarked",
+    "source_url": "https://github.com/oooscoos/Benzi",
+    "source": "hacker_news",
+    "collected_at": "2026-09-14T14:42:43.748324+00:00",
+    "analyzed_at": "2026-09-14T14:42:43.748324+00:00",
+    "summary": "Article URL: https://github.com/oooscoos/Benzi\nComments URL: https://news.ycombinator.com/item?id=49697137\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "tweedler290",
+      "language": null
+    }
+  },
+  {
+    "id": "4319823a-d441-4471-8592-857fb9d78dd4",
+    "title": "Expense tracker by voice with AI analysis",
+    "source_url": "https://apps.apple.com/us/app/expense-tracker-myfullwallet/id6806290220",
+    "source": "hacker_news",
+    "collected_at": "2026-09-14T14:42:44.959259+00:00",
+    "analyzed_at": "2026-09-14T14:42:44.959259+00:00",
+    "summary": "Article URL: https://apps.apple.com/us/app/expense-tracker-myfullwallet/id6806290220\nComments URL: https://news.ycombinator.com/item?id=49697118\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rafaelrpadovani",
+      "language": null
+    }
+  },
+  {
+    "id": "1eec13b4-1598-400f-a15f-4c0b731d3150",
+    "title": "Defeating AI-Assisted Reverse Engineering (Or at Least Trying To)",
+    "source_url": "https://blog.quarkslab.com/defeating-ai-assisted-reverse-engineering-or-at-least-trying-to.html",
+    "source": "hacker_news",
+    "collected_at": "2026-09-14T14:42:46.147986+00:00",
+    "analyzed_at": "2026-09-14T14:42:46.147986+00:00",
+    "summary": "Article URL: https://blog.quarkslab.com/defeating-ai-assisted-reverse-engineering-or-at-least-trying-to.html\nComments URL: https://news.ycombinator.com/item?id=49697101\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ChaoStatiX",
+      "language": null
+    }
+  },
+  {
+    "id": "cc6fa19b-919a-4423-9424-c9f89ca6526e",
+    "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
+    "source_url": "https://spectrum.ieee.org/adversarial-fashion",
+    "source": "hacker_news",
+    "collected_at": "2026-09-14T14:42:47.363592+00:00",
+    "analyzed_at": "2026-09-14T14:42:47.363592+00:00",
+    "summary": "Article URL: https://spectrum.ieee.org/adversarial-fashion\nComments URL: https://news.ycombinator.com/item?id=49697094\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rbanffy",
+      "language": null
+    }
+  },
+  {
+    "id": "85560eb1-1530-441b-b047-b9d9ee47ada1",
+    "title": "Trump resists AI slowdown citing Chinese competition",
+    "source_url": "https://www.washingtonpost.com/politics/2026/09/13/trump-rejects-calls-so-slow-ai-development-citing-chinese-competition/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-14T14:42:48.574118+00:00",
+    "analyzed_at": "2026-09-14T14:42:48.574118+00:00",
+    "summary": "Article URL: https://www.washingtonpost.com/politics/2026/09/13/trump-rejects-calls-so-slow-ai-development-citing-chinese-competition/\nComments URL: https://news.ycombinator.com/item?id=49697037\nPoint",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "hkalbasi",
+      "language": null
+    }
+  },
+  {
+    "id": "71080936-531a-432a-831c-1f59caf21327",
+    "title": "The AI job market in 2026",
+    "source_url": "https://www.ilinmaks.com/blog/en/ai-jobs-market-2026",
+    "source": "hacker_news",
+    "collected_at": "2026-09-14T14:42:49.765075+00:00",
+    "analyzed_at": "2026-09-14T14:42:49.765075+00:00",
+    "summary": "Article URL: https://www.ilinmaks.com/blog/en/ai-jobs-market-2026\nComments URL: https://news.ycombinator.com/item?id=49696867\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "dxs",
+      "language": null
+    }
+  },
+  {
+    "id": "25770108-dfe6-43c1-90b9-48cdd73579d8",
+    "title": "AI Norms and Values, Part 3 of 3: Things We Hold True",
+    "source_url": "https://www.honeycomb.io/blog/ai-norms-values-part-3-things-we-hold-true",
+    "source": "hacker_news",
+    "collected_at": "2026-09-14T14:42:50.957770+00:00",
+    "analyzed_at": "2026-09-14T14:42:50.957770+00:00",
+    "summary": "Article URL: https://www.honeycomb.io/blog/ai-norms-values-part-3-things-we-hold-true\nComments URL: https://news.ycombinator.com/item?id=49696785\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "lervag",
+      "language": null
+    }
+  },
+  {
+    "id": "bde8dbfe-c4c9-4134-ba2c-a4673ac4cf6c",
+    "title": "China state newspaper blasts Anthropic's calls to slow AI as 'Cold War' tactic",
+    "source_url": "https://www.reuters.com/world/china/china-state-newspaper-blasts-anthropics-calls-slow-ai-cold-war-tactic-2026-09-14/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-14T14:42:52.158419+00:00",
+    "analyzed_at": "2026-09-14T14:42:52.158419+00:00",
+    "summary": "Article URL: https://www.reuters.com/world/china/china-state-newspaper-blasts-anthropics-calls-slow-ai-cold-war-tactic-2026-09-14/\nComments URL: https://news.ycombinator.com/item?id=49696781\nPoints: 8",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "magoghm",
+      "language": null
+    }
+  },
+  {
+    "id": "7c002277-e49b-421f-b872-326243e89e16",
+    "title": "Do the AI Studio test NOW to prove Google doesn't delete chats",
+    "source_url": "https://lemmy.world/post/51905600",
+    "source": "hacker_news",
+    "collected_at": "2026-09-14T14:42:53.365653+00:00",
+    "analyzed_at": "2026-09-14T14:42:53.365653+00:00",
+    "summary": "Article URL: https://lemmy.world/post/51905600\nComments URL: https://news.ycombinator.com/item?id=49696731\nPoints: 3\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Bitu79",
+      "language": null
+    }
+  }
+]
