@@ -1,0 +1,149 @@
+[
+  {
+    "id": "fe6c4523-4974-45b2-9ab3-03585030b83f",
+    "title": "agentverse-os/AgentVerse-OS",
+    "source_url": "https://github.com/agentverse-os/AgentVerse-OS",
+    "source": "unknown",
+    "collected_at": "2026-09-15T13:06:53.547481+00:00",
+    "analyzed_at": "2026-09-15T13:06:53.547481+00:00",
+    "summary": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Co",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 493,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "2690021b-aace-42fd-af50-8c30c29081fd",
+    "title": "ai-sucks-butt/ai-sucks-butt",
+    "source_url": "https://github.com/ai-sucks-butt/ai-sucks-butt",
+    "source": "unknown",
+    "collected_at": "2026-09-15T13:06:54.763684+00:00",
+    "analyzed_at": "2026-09-15T13:06:54.763684+00:00",
+    "summary": "If you think AI sucks, star the repo.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 440,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "6fbff349-cfb1-4674-b78c-57bb30967384",
+    "title": "youngyangyang04/llm-master",
+    "source_url": "https://github.com/youngyangyang04/llm-master",
+    "source": "unknown",
+    "collected_at": "2026-09-15T13:06:55.984584+00:00",
+    "analyzed_at": "2026-09-15T13:06:55.984584+00:00",
+    "summary": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 408,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "16cb98c1-2e44-4dba-ae8e-412312de57c4",
+    "title": "viettranx/3dviz-pro-max",
+    "source_url": "https://github.com/viettranx/3dviz-pro-max",
+    "source": "unknown",
+    "collected_at": "2026-09-15T13:06:57.206175+00:00",
+    "analyzed_at": "2026-09-15T13:06:57.206175+00:00",
+    "summary": "Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studi",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 372,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "0a492d6e-3d22-4fda-952e-29fe5ca885e8",
+    "title": "anonymous-report-421/GPT-as-Policy",
+    "source_url": "https://github.com/anonymous-report-421/GPT-as-Policy",
+    "source": "unknown",
+    "collected_at": "2026-09-15T13:06:58.427729+00:00",
+    "analyzed_at": "2026-09-15T13:06:58.427729+00:00",
+    "summary": "GPT as Policy",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 309,
+      "score": null,
+      "author": null,
+      "language": "HTML"
+    }
+  },
+  {
+    "id": "7f812cd5-461b-4b60-9684-1bf2fa2aeef2",
+    "title": "Qiuner/birdview",
+    "source_url": "https://github.com/Qiuner/birdview",
+    "source": "unknown",
+    "collected_at": "2026-09-15T13:06:59.645148+00:00",
+    "analyzed_at": "2026-09-15T13:06:59.645148+00:00",
+    "summary": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 280,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "bd8a740c-eb3c-4ee0-87dc-6f3f43fc820d",
+    "title": "feitangyuan/motion-web",
+    "source_url": "https://github.com/feitangyuan/motion-web",
+    "source": "unknown",
+    "collected_at": "2026-09-15T13:07:00.863985+00:00",
+    "analyzed_at": "2026-09-15T13:07:00.863985+00:00",
+    "summary": "Build motion-first, high-touch creative websites on vanilla Three.js / Canvas 2D / WebGL / CSS. A Claude Agent Skill with real physics and automated verification.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 245,
+      "score": null,
+      "author": null,
+      "language": "HTML"
+    }
+  }
+]
