@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-09-16T13:05:40.001082+00:00",
+  "items": [
+    {
+      "name": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+      "url": "https://stale.jock.pl/",
+      "summary": "Article URL: https://stale.jock.pl/\nComments URL: https://news.ycombinator.com/item?id=49726343\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "joozio",
+      "published": "Wed, 16 Sep 2026 13:01:52 +0000"
+    },
+    {
+      "name": "ImpactGate: A merge gate that scores the structural decay AI adds",
+      "url": "https://github.com/officefloor/ImpactGate",
+      "summary": "Article URL: https://github.com/officefloor/ImpactGate\nComments URL: https://news.ycombinator.com/item?id=49726329\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "sagenschneider",
+      "published": "Wed, 16 Sep 2026 13:01:09 +0000"
+    },
+    {
+      "name": "Paying for frontier AI models buys 4-month head start at 5x the cost",
+      "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/\nComments URL: https://news.ycombinator.com/item?id=49726241\nPoints: 1\n#",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rbanffy",
+      "published": "Wed, 16 Sep 2026 12:53:24 +0000"
+    },
+    {
+      "name": "Residential proxies as the next front in the AI wars",
+      "url": "https://www.unite.ai/residential-proxies-as-the-next-front-in-the-ai-wars/",
+      "summary": "Article URL: https://www.unite.ai/residential-proxies-as-the-next-front-in-the-ai-wars/\nComments URL: https://news.ycombinator.com/item?id=49726210\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "50kIters",
+      "published": "Wed, 16 Sep 2026 12:50:23 +0000"
+    },
+    {
+      "name": "AI writing patterns across 10,126 pages of real marketing copy",
+      "url": "https://www.getsitetell.com/data",
+      "summary": "Article URL: https://www.getsitetell.com/data\nComments URL: https://news.ycombinator.com/item?id=49725973\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "NotGeorgeHere",
+      "published": "Wed, 16 Sep 2026 12:32:25 +0000"
+    },
+    {
+      "name": "AIUC raises $40M Series A to build confidence infrastructure for frontier AI",
+      "url": "https://aiuc.com/updates/series-a-announcement",
+      "summary": "Article URL: https://aiuc.com/updates/series-a-announcement\nComments URL: https://news.ycombinator.com/item?id=49725907\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "agentrisknotes",
+      "published": "Wed, 16 Sep 2026 12:27:17 +0000"
+    },
+    {
+      "name": "Show HN: Remind Cards – an offline-first flashcard app with AI generation",
+      "url": "https://news.ycombinator.com/item?id=49725821",
+      "summary": "Hi HN,I’m a software engineer, and for the past several months I’ve been building Remind Cards, a flashcard app I originally made because I wanted a better way to study Estonian vocabulary.https://rem",
+      "source": "hacker_news",
+      "score": null,
+      "author": "tekfen",
+      "published": "Wed, 16 Sep 2026 12:21:12 +0000"
+    },
+    {
+      "name": "How to Build Effective Evals for AI Agents",
+      "url": "https://www.kdnuggets.com/how-to-build-effective-evals-for-ai-agents",
+      "summary": "Article URL: https://www.kdnuggets.com/how-to-build-effective-evals-for-ai-agents\nComments URL: https://news.ycombinator.com/item?id=49725785\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "eigenBasis",
+      "published": "Wed, 16 Sep 2026 12:18:48 +0000"
+    },
+    {
+      "name": "WVM – A headless Windows 11 execution sandbox for AI agents",
+      "url": "https://github.com/AndrewProject-Zion/WVM",
+      "summary": "Article URL: https://github.com/AndrewProject-Zion/WVM\nComments URL: https://news.ycombinator.com/item?id=49725680\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "andy1571",
+      "published": "Wed, 16 Sep 2026 12:09:59 +0000"
+    },
+    {
+      "name": "Why AI Coding Needs Specs, Not Better Prompts [video]",
+      "url": "https://www.youtube.com/watch?v=f289f2GgfFE",
+      "summary": "Article URL: https://www.youtube.com/watch?v=f289f2GgfFE\nComments URL: https://news.ycombinator.com/item?id=49725458\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Harish_0089",
+      "published": "Wed, 16 Sep 2026 11:55:55 +0000"
+    },
+    {
+      "name": "Show HN: Freeform – One click shareable AI generated apps",
+      "url": "https://sharefreeform.com",
+      "summary": "TLDR: Curious if YC startup requests are a valid take, so I built freeform in a weekend.Storytime: I’ve been working on a startup for a while (another context layer startup) and one night while I had ",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ReeseEJ",
+      "published": "Wed, 16 Sep 2026 11:43:17 +0000"
+    },
+    {
+      "name": "Playing both sides of the U.S.-China AI \"Cold War\"",
+      "url": "https://restofworld.org/2026/ai-us-chips-chinese-open-source-models/",
+      "summary": "Article URL: https://restofworld.org/2026/ai-us-chips-chinese-open-source-models/\nComments URL: https://news.ycombinator.com/item?id=49725265\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "makerdiety",
+      "published": "Wed, 16 Sep 2026 11:43:09 +0000"
+    },
+    {
+      "name": "Tomosu, scores AI generated code against your repo's own incident history",
+      "url": "https://tomosu.ai/",
+      "summary": "Article URL: https://tomosu.ai/\nComments URL: https://news.ycombinator.com/item?id=49725256\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "tomosu-ai",
+      "published": "Wed, 16 Sep 2026 11:42:32 +0000"
+    },
+    {
+      "name": "Uncanny and unappetizing: appetites spoil as AI images take over food menus",
+      "url": "https://www.theguardian.com/technology/2026/sep/06/ai-food-menu-images",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/06/ai-food-menu-images\nComments URL: https://news.ycombinator.com/item?id=49725197\nPoints: 9\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "edward",
+      "published": "Wed, 16 Sep 2026 11:38:57 +0000"
+    },
+    {
+      "name": "Mirror publisher to cut 220 editorial jobs as readers turn to AI summaries",
+      "url": "https://www.theguardian.com/business/2026/sep/16/mirror-publisher-reach-cuts-editorial-jobs-ai-summaries-google",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/sep/16/mirror-publisher-reach-cuts-editorial-jobs-ai-summaries-google\nComments URL: https://news.ycombinator.com/item?id=49725127\nPoints: 1\n# Com",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pera",
+      "published": "Wed, 16 Sep 2026 11:34:40 +0000"
+    },
+    {
+      "name": "Is anyone else losing their motivation to nerd out and tinker because of AI?",
+      "url": "https://news.ycombinator.com/item?id=49724898",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=49724898\nPoints: 4\n# Comments: 10",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rizsyed1",
+      "published": "Wed, 16 Sep 2026 11:16:52 +0000"
+    },
+    {
+      "name": "Should markets discount the AI apocalypse?",
+      "url": "https://www.ft.com/content/845a7c03-15b4-4bff-a49c-25781287b75c",
+      "summary": "Article URL: https://www.ft.com/content/845a7c03-15b4-4bff-a49c-25781287b75c\nComments URL: https://news.ycombinator.com/item?id=49724780\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "cc62cf4a4f20",
+      "published": "Wed, 16 Sep 2026 11:06:18 +0000"
+    },
+    {
+      "name": "Cyber Defense for the Hybrid Enterprise in the Age of AI",
+      "url": "https://www.ciscopress.com/store/cyber-defense-for-the-hybrid-enterprisein-the-age-of-9780135472781",
+      "summary": "Article URL: https://www.ciscopress.com/store/cyber-defense-for-the-hybrid-enterprisein-the-age-of-9780135472781\nComments URL: https://news.ycombinator.com/item?id=49724778\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "teleforce",
+      "published": "Wed, 16 Sep 2026 11:05:51 +0000"
+    },
+    {
+      "name": "AI models need more data about biology, and OpenAI is paying to create it",
+      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+      "summary": "Article URL: https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/\nComments URL: https://news.ycombinator.com/item?id=49724730\nP",
+      "source": "hacker_news",
+      "score": null,
+      "author": "joozio",
+      "published": "Wed, 16 Sep 2026 11:02:27 +0000"
+    },
+    {
+      "name": "China's open-weight AI models are now just 4 months behind frontier US offerings",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-i",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rbanffy",
+      "published": "Wed, 16 Sep 2026 10:58:32 +0000"
+    }
+  ]
+}

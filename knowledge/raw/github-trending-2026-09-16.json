@@ -1,0 +1,59 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-09-16T13:05:33.884842+00:00",
+  "items": [
+    {
+      "name": "letorig/video-generator-client",
+      "url": "https://github.com/letorig/video-generator-client",
+      "summary": "Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
+      "stars": 516,
+      "language": "Python",
+      "topics": [
+        "kling",
+        "kling-ai",
+        "minimax-h3",
+        "seedance",
+        "seedance-2-5",
+        "video-generation",
+        "video-generation-api",
+        "video-generation-tool"
+      ]
+    },
+    {
+      "name": "atria-asi/Atria-Dawn-Preview",
+      "url": "https://github.com/atria-asi/Atria-Dawn-Preview",
+      "summary": "",
+      "stars": 399,
+      "language": null,
+      "topics": [
+        "llm",
+        "llm-agent"
+      ]
+    },
+    {
+      "name": "linguo2625469/workbuddy2api-panel",
+      "url": "https://github.com/linguo2625469/workbuddy2api-panel",
+      "summary": "把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
+      "stars": 302,
+      "language": "Go",
+      "topics": [
+        "admin-panel",
+        "codebuddy",
+        "gateway",
+        "golang",
+        "openai-api",
+        "reverse-proxy",
+        "workbuddy"
+      ]
+    },
+    {
+      "name": "yjz211/vivid-figures-skill",
+      "url": "https://github.com/yjz211/vivid-figures-skill",
+      "summary": "让 AI 用你的数据生成科研图表：108 个配方，鲜艳与稳重两种风格，多套配色，交付图片与源码。仅限个人非商业使用。",
+      "stars": 262,
+      "language": "HTML",
+      "topics": []
+    }
+  ]
+}

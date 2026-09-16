@@ -1,0 +1,422 @@
+[
+  {
+    "id": "c6033a73-0da4-4891-8ae8-a9440d47c177",
+    "title": "letorig/video-generator-client",
+    "source_url": "https://github.com/letorig/video-generator-client",
+    "source": "unknown",
+    "collected_at": "2026-09-16T13:05:41.490986+00:00",
+    "analyzed_at": "2026-09-16T13:05:41.490986+00:00",
+    "summary": "Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 516,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "32e7d16d-9ea1-4cc9-966d-a0938255006a",
+    "title": "atria-asi/Atria-Dawn-Preview",
+    "source_url": "https://github.com/atria-asi/Atria-Dawn-Preview",
+    "source": "unknown",
+    "collected_at": "2026-09-16T13:05:42.691129+00:00",
+    "analyzed_at": "2026-09-16T13:05:42.691129+00:00",
+    "summary": "",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 399,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "7d68c6b4-a7ab-4706-b58c-cad3de5384c9",
+    "title": "linguo2625469/workbuddy2api-panel",
+    "source_url": "https://github.com/linguo2625469/workbuddy2api-panel",
+    "source": "unknown",
+    "collected_at": "2026-09-16T13:05:43.890610+00:00",
+    "analyzed_at": "2026-09-16T13:05:43.890610+00:00",
+    "summary": "把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 302,
+      "score": null,
+      "author": null,
+      "language": "Go"
+    }
+  },
+  {
+    "id": "8f0a6ecb-f324-4c9b-b970-1e23d23397e6",
+    "title": "yjz211/vivid-figures-skill",
+    "source_url": "https://github.com/yjz211/vivid-figures-skill",
+    "source": "unknown",
+    "collected_at": "2026-09-16T13:05:45.103599+00:00",
+    "analyzed_at": "2026-09-16T13:05:45.103599+00:00",
+    "summary": "让 AI 用你的数据生成科研图表：108 个配方，鲜艳与稳重两种风格，多套配色，交付图片与源码。仅限个人非商业使用。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 262,
+      "score": null,
+      "author": null,
+      "language": "HTML"
+    }
+  },
+  {
+    "id": "604d9881-1d0a-4746-af5c-c03ba86fbe84",
+    "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+    "source_url": "https://stale.jock.pl/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-16T13:05:46.315158+00:00",
+    "analyzed_at": "2026-09-16T13:05:46.315158+00:00",
+    "summary": "Article URL: https://stale.jock.pl/\nComments URL: https://news.ycombinator.com/item?id=49726343\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "joozio",
+      "language": null
+    }
+  },
+  {
+    "id": "17dabe3a-8e2b-411c-8199-be17127c8eca",
+    "title": "ImpactGate: A merge gate that scores the structural decay AI adds",
+    "source_url": "https://github.com/officefloor/ImpactGate",
+    "source": "hacker_news",
+    "collected_at": "2026-09-16T13:05:47.516548+00:00",
+    "analyzed_at": "2026-09-16T13:05:47.516548+00:00",
+    "summary": "Article URL: https://github.com/officefloor/ImpactGate\nComments URL: https://news.ycombinator.com/item?id=49726329\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "sagenschneider",
+      "language": null
+    }
+  },
+  {
+    "id": "2e7474ed-6d19-4d0f-9d33-dd90e6f13a00",
+    "title": "Paying for frontier AI models buys 4-month head start at 5x the cost",
+    "source_url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-16T13:05:48.714248+00:00",
+    "analyzed_at": "2026-09-16T13:05:48.714248+00:00",
+    "summary": "Article URL: https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/\nComments URL: https://news.ycombinator.com/item?id=49726241\nPoints: 1\n#",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rbanffy",
+      "language": null
+    }
+  },
+  {
+    "id": "a1eb65db-c550-40cf-98ff-875e2e2ee297",
+    "title": "Residential proxies as the next front in the AI wars",
+    "source_url": "https://www.unite.ai/residential-proxies-as-the-next-front-in-the-ai-wars/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-16T13:05:49.934694+00:00",
+    "analyzed_at": "2026-09-16T13:05:49.934694+00:00",
+    "summary": "Article URL: https://www.unite.ai/residential-proxies-as-the-next-front-in-the-ai-wars/\nComments URL: https://news.ycombinator.com/item?id=49726210\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "50kIters",
+      "language": null
+    }
+  },
+  {
+    "id": "ab922101-743b-4bd2-ba90-d4e8dc4a5a3f",
+    "title": "AI writing patterns across 10,126 pages of real marketing copy",
+    "source_url": "https://www.getsitetell.com/data",
+    "source": "hacker_news",
+    "collected_at": "2026-09-16T13:05:51.153801+00:00",
+    "analyzed_at": "2026-09-16T13:05:51.153801+00:00",
+    "summary": "Article URL: https://www.getsitetell.com/data\nComments URL: https://news.ycombinator.com/item?id=49725973\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "NotGeorgeHere",
+      "language": null
+    }
+  },
+  {
+    "id": "079d0fca-619a-4901-9b95-4e72151a610f",
+    "title": "AIUC raises $40M Series A to build confidence infrastructure for frontier AI",
+    "source_url": "https://aiuc.com/updates/series-a-announcement",
+    "source": "hacker_news",
+    "collected_at": "2026-09-16T13:05:52.375993+00:00",
+    "analyzed_at": "2026-09-16T13:05:52.375993+00:00",
+    "summary": "Article URL: https://aiuc.com/updates/series-a-announcement\nComments URL: https://news.ycombinator.com/item?id=49725907\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "agentrisknotes",
+      "language": null
+    }
+  },
+  {
+    "id": "d90e1e2c-bba2-483c-88f7-cf24023efa44",
+    "title": "Show HN: Remind Cards – an offline-first flashcard app with AI generation",
+    "source_url": "https://news.ycombinator.com/item?id=49725821",
+    "source": "hacker_news",
+    "collected_at": "2026-09-16T13:05:53.596326+00:00",
+    "analyzed_at": "2026-09-16T13:05:53.596326+00:00",
+    "summary": "Hi HN,I’m a software engineer, and for the past several months I’ve been building Remind Cards, a flashcard app I originally made because I wanted a better way to study Estonian vocabulary.https://rem",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "tekfen",
+      "language": null
+    }
+  },
+  {
+    "id": "009ca814-87e4-4c46-bd5b-60f554be88e7",
+    "title": "How to Build Effective Evals for AI Agents",
+    "source_url": "https://www.kdnuggets.com/how-to-build-effective-evals-for-ai-agents",
+    "source": "hacker_news",
+    "collected_at": "2026-09-16T13:05:54.813616+00:00",
+    "analyzed_at": "2026-09-16T13:05:54.813616+00:00",
+    "summary": "Article URL: https://www.kdnuggets.com/how-to-build-effective-evals-for-ai-agents\nComments URL: https://news.ycombinator.com/item?id=49725785\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "eigenBasis",
+      "language": null
+    }
+  },
+  {
+    "id": "95ff5477-df46-4790-98d2-b419af0ca1f2",
+    "title": "WVM – A headless Windows 11 execution sandbox for AI agents",
+    "source_url": "https://github.com/AndrewProject-Zion/WVM",
+    "source": "hacker_news",
+    "collected_at": "2026-09-16T13:05:56.026804+00:00",
+    "analyzed_at": "2026-09-16T13:05:56.026804+00:00",
+    "summary": "Article URL: https://github.com/AndrewProject-Zion/WVM\nComments URL: https://news.ycombinator.com/item?id=49725680\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "andy1571",
+      "language": null
+    }
+  },
+  {
+    "id": "70f93526-2a96-4a95-89df-ad3327bad4ed",
+    "title": "Why AI Coding Needs Specs, Not Better Prompts [video]",
+    "source_url": "https://www.youtube.com/watch?v=f289f2GgfFE",
+    "source": "hacker_news",
+    "collected_at": "2026-09-16T13:05:57.241667+00:00",
+    "analyzed_at": "2026-09-16T13:05:57.241667+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=f289f2GgfFE\nComments URL: https://news.ycombinator.com/item?id=49725458\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Harish_0089",
+      "language": null
+    }
+  },
+  {
+    "id": "3cdcb0ad-2fb0-4357-a2a8-172573d4a0f4",
+    "title": "Show HN: Freeform – One click shareable AI generated apps",
+    "source_url": "https://sharefreeform.com",
+    "source": "hacker_news",
+    "collected_at": "2026-09-16T13:05:58.461865+00:00",
+    "analyzed_at": "2026-09-16T13:05:58.461865+00:00",
+    "summary": "TLDR: Curious if YC startup requests are a valid take, so I built freeform in a weekend.Storytime: I’ve been working on a startup for a while (another context layer startup) and one night while I had ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ReeseEJ",
+      "language": null
+    }
+  },
+  {
+    "id": "bf4b0265-9ef3-4f49-80d8-e9220c275cde",
+    "title": "Playing both sides of the U.S.-China AI \"Cold War\"",
+    "source_url": "https://restofworld.org/2026/ai-us-chips-chinese-open-source-models/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-16T13:05:59.659448+00:00",
+    "analyzed_at": "2026-09-16T13:05:59.659448+00:00",
+    "summary": "Article URL: https://restofworld.org/2026/ai-us-chips-chinese-open-source-models/\nComments URL: https://news.ycombinator.com/item?id=49725265\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "makerdiety",
+      "language": null
+    }
+  },
+  {
+    "id": "9e560ac6-a297-491f-adea-7e424bbc348c",
+    "title": "Tomosu, scores AI generated code against your repo's own incident history",
+    "source_url": "https://tomosu.ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-16T13:06:00.860250+00:00",
+    "analyzed_at": "2026-09-16T13:06:00.860250+00:00",
+    "summary": "Article URL: https://tomosu.ai/\nComments URL: https://news.ycombinator.com/item?id=49725256\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "tomosu-ai",
+      "language": null
+    }
+  },
+  {
+    "id": "236c0127-e593-454e-97c6-f3307a308b0c",
+    "title": "Uncanny and unappetizing: appetites spoil as AI images take over food menus",
+    "source_url": "https://www.theguardian.com/technology/2026/sep/06/ai-food-menu-images",
+    "source": "hacker_news",
+    "collected_at": "2026-09-16T13:06:02.060217+00:00",
+    "analyzed_at": "2026-09-16T13:06:02.060217+00:00",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/06/ai-food-menu-images\nComments URL: https://news.ycombinator.com/item?id=49725197\nPoints: 9\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "edward",
+      "language": null
+    }
+  },
+  {
+    "id": "f84469a6-6eaa-4d84-8d23-a7fb60e41abd",
+    "title": "Mirror publisher to cut 220 editorial jobs as readers turn to AI summaries",
+    "source_url": "https://www.theguardian.com/business/2026/sep/16/mirror-publisher-reach-cuts-editorial-jobs-ai-summaries-google",
+    "source": "hacker_news",
+    "collected_at": "2026-09-16T13:06:03.258110+00:00",
+    "analyzed_at": "2026-09-16T13:06:03.258110+00:00",
+    "summary": "Article URL: https://www.theguardian.com/business/2026/sep/16/mirror-publisher-reach-cuts-editorial-jobs-ai-summaries-google\nComments URL: https://news.ycombinator.com/item?id=49725127\nPoints: 1\n# Com",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pera",
+      "language": null
+    }
+  },
+  {
+    "id": "1fcdc6a6-e2df-4b51-a740-23b02c390db0",
+    "title": "Is anyone else losing their motivation to nerd out and tinker because of AI?",
+    "source_url": "https://news.ycombinator.com/item?id=49724898",
+    "source": "hacker_news",
+    "collected_at": "2026-09-16T13:06:04.479578+00:00",
+    "analyzed_at": "2026-09-16T13:06:04.479578+00:00",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=49724898\nPoints: 4\n# Comments: 10",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rizsyed1",
+      "language": null
+    }
+  }
+]
