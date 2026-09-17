@@ -1,0 +1,51 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-09-17T13:01:17.830151+00:00",
+  "items": [
+    {
+      "name": "shinthink/blitzstrike",
+      "url": "https://github.com/shinthink/blitzstrike",
+      "summary": "⚡ Blitz Strike — a universal MCP penetration-testing toolbelt. Structured methodology: reconnaissance & attack-surface mapping, source-to-sink analysis, and live validation. 57 escalation chains, 130-",
+      "stars": 633,
+      "language": "TypeScript",
+      "topics": [
+        "active-directory",
+        "blue-team",
+        "bug-bounty",
+        "cve",
+        "defensive-security",
+        "exploit",
+        "mcp",
+        "mcp-server",
+        "nuclei",
+        "offensive-security",
+        "payloads",
+        "pentest",
+        "reconnaissance",
+        "red-team",
+        "reverse-engineering",
+        "security",
+        "security-tools",
+        "vulnerability-scanning",
+        "wordpress"
+      ]
+    },
+    {
+      "name": "AetherLabsAI/RSIAgent",
+      "url": "https://github.com/AetherLabsAI/RSIAgent",
+      "summary": "A training-free multi-agent framework for recursive self-improvement in new environments through broad-then-deep autonomous exploration and reusable memory.",
+      "stars": 296,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "jarrodwatts/jev-trader",
+      "url": "https://github.com/jarrodwatts/jev-trader",
+      "summary": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "stars": 288,
+      "language": "TypeScript",
+      "topics": []
+    }
+  ]
+}
