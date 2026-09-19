@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-09-19T12:16:06.093461+00:00",
+  "items": [
+    {
+      "name": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+      "url": "https://artificialanalysis.ai/models/step-5",
+      "summary": "Article URL: https://artificialanalysis.ai/models/step-5\nComments URL: https://news.ycombinator.com/item?id=49763660\nPoints: 11\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "AnodicElegy",
+      "published": "Sat, 19 Sep 2026 05:42:31 +0000"
+    },
+    {
+      "name": "A Black-Box Audit of Provider-Side Token Inflation in LLM Services",
+      "url": "https://arxiv.org/abs/2609.20370",
+      "summary": "Article URL: https://arxiv.org/abs/2609.20370\nComments URL: https://news.ycombinator.com/item?id=49763307\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "donk8r",
+      "published": "Sat, 19 Sep 2026 04:27:39 +0000"
+    },
+    {
+      "name": "The Great Unbundling of the LLM",
+      "url": "https://seldon-ai.com/blog/generation-is-the-wrong-primitive",
+      "summary": "Article URL: https://seldon-ai.com/blog/generation-is-the-wrong-primitive\nComments URL: https://news.ycombinator.com/item?id=49762040\nPoints: 4\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "nlpnerd",
+      "published": "Sat, 19 Sep 2026 00:23:38 +0000"
+    },
+    {
+      "name": "TypeSafe AI's Jev Is Not an LLM – and That May Be the Point",
+      "url": "https://forkast.news/typesafe-ais-jev-is-not-an-llm-and-that-may-be-the-point/",
+      "summary": "Article URL: https://forkast.news/typesafe-ais-jev-is-not-an-llm-and-that-may-be-the-point/\nComments URL: https://news.ycombinator.com/item?id=49761730\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Bluestein",
+      "published": "Fri, 18 Sep 2026 23:40:15 +0000"
+    },
+    {
+      "name": "A 6502 emulator written in Markdown (and executed by an LLM)",
+      "url": "https://dunkels.com/adam/llm-6502-emulator/",
+      "summary": "Article URL: https://dunkels.com/adam/llm-6502-emulator/\nComments URL: https://news.ycombinator.com/item?id=49760817\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "adunk",
+      "published": "Fri, 18 Sep 2026 21:58:00 +0000"
+    },
+    {
+      "name": "The Implications of Linguistic Illegibility for LLM Security",
+      "url": "https://arxiv.org/abs/2609.02852",
+      "summary": "Article URL: https://arxiv.org/abs/2609.02852\nComments URL: https://news.ycombinator.com/item?id=49758689\nPoints: 71\n# Comments: 28",
+      "source": "hacker_news",
+      "score": null,
+      "author": "tomjakubowski",
+      "published": "Fri, 18 Sep 2026 19:00:06 +0000"
+    },
+    {
+      "name": "Share an LLM endpoint over HTTPS while TLS still terminates on your machine",
+      "url": "https://swobu.com/blog/https-routes/",
+      "summary": "Article URL: https://swobu.com/blog/https-routes/\nComments URL: https://news.ycombinator.com/item?id=49756982\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "metrofun",
+      "published": "Fri, 18 Sep 2026 16:48:59 +0000"
+    },
+    {
+      "name": "Alea iacta non est: rerolling the LLM dice",
+      "url": "https://rolisz.ro/2026/alea-iacta-non-est-rerolling-the-llm-dice/",
+      "summary": "Article URL: https://rolisz.ro/2026/alea-iacta-non-est-rerolling-the-llm-dice/\nComments URL: https://news.ycombinator.com/item?id=49756356\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rolisz",
+      "published": "Fri, 18 Sep 2026 16:02:15 +0000"
+    },
+    {
+      "name": "OpenAI lost the plot on boring LLM use cases (2025)",
+      "url": "https://softwaredoug.com/blog/2025/08/21/open-ai-lost-plot",
+      "summary": "Article URL: https://softwaredoug.com/blog/2025/08/21/open-ai-lost-plot\nComments URL: https://news.ycombinator.com/item?id=49754791\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "softwaredoug",
+      "published": "Fri, 18 Sep 2026 14:19:27 +0000"
+    },
+    {
+      "name": "You can create any workflow or pipeline you want with DSCI and LLM",
+      "url": "https://deadsimpleci.sparrowhub.io/doc/posts/dsci_llm",
+      "summary": "Article URL: https://deadsimpleci.sparrowhub.io/doc/posts/dsci_llm\nComments URL: https://news.ycombinator.com/item?id=49754558\nPoints: 4\n# Comments: 3",
+      "source": "hacker_news",
+      "score": null,
+      "author": "melezhik",
+      "published": "Fri, 18 Sep 2026 14:02:02 +0000"
+    },
+    {
+      "name": "12-Factor Agents – Principles for building reliable LLM applications",
+      "url": "https://github.com/humanlayer/12-factor-agents",
+      "summary": "Article URL: https://github.com/humanlayer/12-factor-agents\nComments URL: https://news.ycombinator.com/item?id=49753825\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "beepdyboop",
+      "published": "Fri, 18 Sep 2026 13:02:24 +0000"
+    },
+    {
+      "name": "ContextClip – Clean web docs into token-optimized LLM prompts",
+      "url": "https://contextclip.vercel.app/",
+      "summary": "Article URL: https://contextclip.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=49752906\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "moradel",
+      "published": "Fri, 18 Sep 2026 11:37:48 +0000"
+    },
+    {
+      "name": "Alibi: Adversarial Legitimacy Injection in Binaries Against LLM Malware",
+      "url": "https://arxiv.org/abs/2609.19722",
+      "summary": "Article URL: https://arxiv.org/abs/2609.19722\nComments URL: https://news.ycombinator.com/item?id=49752647\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "sbulaev",
+      "published": "Fri, 18 Sep 2026 11:07:08 +0000"
+    },
+    {
+      "name": "Fredy: Letting an LLM create a search without letting it invent the data",
+      "url": "https://github.com/orangecoding/fredy",
+      "summary": "Article URL: https://github.com/orangecoding/fredy\nComments URL: https://news.ycombinator.com/item?id=49752559\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "orangecoding",
+      "published": "Fri, 18 Sep 2026 10:54:46 +0000"
+    },
+    {
+      "name": "Probably – a programming language for LLM workflows, powered by Jev",
+      "url": "https://probably-lang.southpolesteve.workers.dev/",
+      "summary": "Article URL: https://probably-lang.southpolesteve.workers.dev/\nComments URL: https://news.ycombinator.com/item?id=49751902\nPoints: 3\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "porridgeraisin",
+      "published": "Fri, 18 Sep 2026 09:17:41 +0000"
+    },
+    {
+      "name": "The LLM Comments Are Not for You",
+      "url": "https://danilafe.com/blog/comments_not_for_you/",
+      "summary": "Article URL: https://danilafe.com/blog/comments_not_for_you/\nComments URL: https://news.ycombinator.com/item?id=49751659\nPoints: 3\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "kqr",
+      "published": "Fri, 18 Sep 2026 08:38:27 +0000"
+    },
+    {
+      "name": "The Provenance Tax: How LLM Watermarking Changes AI Agent Behavior",
+      "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+      "summary": "Article URL: https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior\nComments URL: https://news.ycombinator.com/item?id=49749997\nPoints: 8\n",
+      "source": "hacker_news",
+      "score": null,
+      "author": "fourfire",
+      "published": "Fri, 18 Sep 2026 03:53:51 +0000"
+    },
+    {
+      "name": "Mini-Jev – typesafe's Jev implemented on top of an LLM locally",
+      "url": "https://github.com/r-ms/mini-jev",
+      "summary": "Article URL: https://github.com/r-ms/mini-jev\nComments URL: https://news.ycombinator.com/item?id=49748643\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "phyrex",
+      "published": "Fri, 18 Sep 2026 00:21:58 +0000"
+    },
+    {
+      "name": "How to Write with an LLM",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "summary": "Article URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/\nComments URL: https://news.ycombinator.com/item?id=49747070\nPoints: 508\n# Comments: 342",
+      "source": "hacker_news",
+      "score": null,
+      "author": "joeriddles",
+      "published": "Thu, 17 Sep 2026 21:48:38 +0000"
+    },
+    {
+      "name": "Show HN: Vim-like, hyper-efficient, LLM power tool - 20-80k tokens not 350k+",
+      "url": "https://easiest.ai/",
+      "summary": "I built a focused TUI tool for efficient parallelized tasks, early independent testers expressed 90%+ API savings and more direct results.  This is accomplished by user smaller context windows, hybrid",
+      "source": "hacker_news",
+      "score": null,
+      "author": "skhameneh",
+      "published": "Thu, 17 Sep 2026 20:26:06 +0000"
+    }
+  ]
+}

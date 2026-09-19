@@ -1,0 +1,60 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-09-19T12:15:29.409043+00:00",
+  "items": [
+    {
+      "name": "TianyuCodings/NanoJev",
+      "url": "https://github.com/TianyuCodings/NanoJev",
+      "summary": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
+      "stars": 649,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "arvindear/wp2shell-PoC",
+      "url": "https://github.com/arvindear/wp2shell-PoC",
+      "summary": "CVE-2026-63030 & CVE-2026-60137 RCE chain proof-of-concept",
+      "stars": 517,
+      "language": "Python",
+      "topics": [
+        "cve-2026-60137",
+        "cve-2026-63030",
+        "wp2shell",
+        "wp2shell-exploit",
+        "wp2shell-poc"
+      ]
+    },
+    {
+      "name": "jackwener/wx-cli-again",
+      "url": "https://github.com/jackwener/wx-cli-again",
+      "summary": "WeChat local data CLI (query/decrypt/export) — fresh start from wx-cli",
+      "stars": 464,
+      "language": "Rust",
+      "topics": []
+    },
+    {
+      "name": "Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+      "url": "https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+      "summary": "Runtime behavioral ablation for compressed LLMs. First target: Ternary Bonsai 2 27B — no weight modification or re-quantization. by OrcaRouter team",
+      "stars": 439,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "awlevin/typesafe-computer-use",
+      "url": "https://github.com/awlevin/typesafe-computer-use",
+      "summary": "Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS.",
+      "stars": 400,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "automation",
+        "computer-use",
+        "macos",
+        "ocr",
+        "typesafe"
+      ]
+    }
+  ]
+}
