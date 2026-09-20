@@ -1,0 +1,95 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-09-20T12:50:30.569909+00:00",
+  "items": [
+    {
+      "name": "jaredpalmer/kev",
+      "url": "https://github.com/jaredpalmer/kev",
+      "summary": "tiny Jev-like model built on top of Qwen2.5-0.5B you can train and run on your MacBook",
+      "stars": 743,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "mizorewww/laya-mlx",
+      "url": "https://github.com/mizorewww/laya-mlx",
+      "summary": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+      "stars": 612,
+      "language": "Python",
+      "topics": [
+        "apple-silicon",
+        "decision-model",
+        "inference",
+        "laya",
+        "local-ai",
+        "machine-learning",
+        "mlx",
+        "modernbert",
+        "system-one",
+        "typed-decisions"
+      ]
+    },
+    {
+      "name": "incoai/splash",
+      "url": "https://github.com/incoai/splash",
+      "summary": "A local inference engine for Apple silicon, built around the model.",
+      "stars": 400,
+      "language": "Python",
+      "topics": [
+        "apple-silicon",
+        "coding-agents",
+        "llm-inference",
+        "macos",
+        "metal",
+        "speculative-decoding"
+      ]
+    },
+    {
+      "name": "devagrawal09/jev-review",
+      "url": "https://github.com/devagrawal09/jev-review",
+      "summary": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
+      "stars": 388,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "code-review",
+        "jev",
+        "typesafe-ai",
+        "typescript"
+      ]
+    },
+    {
+      "name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+      "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+      "summary": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
+      "stars": 361,
+      "language": "Markdown",
+      "topics": [
+        "ai",
+        "ai-engineering",
+        "ai-engineering-interview",
+        "ai-interview",
+        "ai-interview-questions",
+        "company-wise-prep",
+        "company-wise-questions",
+        "interview-questions",
+        "llm-inference",
+        "questions-and-answers"
+      ]
+    },
+    {
+      "name": "unicodef1wn/grokbot-field-notes",
+      "url": "https://github.com/unicodef1wn/grokbot-field-notes",
+      "summary": "Rules, playbooks, bot roles and a failure log from the xAI Grok Bot team's 72-hour live build. Drop AGENTS.md into your repo and go.",
+      "stars": 331,
+      "language": "Python",
+      "topics": [
+        "cursor",
+        "grokbot",
+        "spacex",
+        "xai"
+      ]
+    }
+  ]
+}

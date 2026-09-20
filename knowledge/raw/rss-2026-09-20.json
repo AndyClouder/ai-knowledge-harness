@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-09-20T12:51:24.400766+00:00",
+  "items": [
+    {
+      "name": "AAA AI – Autonomous AI agent squads for local and cloud LLMs",
+      "url": "https://aaaai.me/",
+      "summary": "Article URL: https://aaaai.me/\nComments URL: https://news.ycombinator.com/item?id=49775304\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pokidovkirill",
+      "published": "Sun, 20 Sep 2026 12:45:19 +0000"
+    },
+    {
+      "name": "How ISIL is using Big Tech's AI to build bombs",
+      "url": "https://www.aljazeera.com/news/2026/9/18/just-ask-grok-how-isil-is-using-big-techs-ai-to-build-bombs",
+      "summary": "Article URL: https://www.aljazeera.com/news/2026/9/18/just-ask-grok-how-isil-is-using-big-techs-ai-to-build-bombs\nComments URL: https://news.ycombinator.com/item?id=49775141\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "smallerize",
+      "published": "Sun, 20 Sep 2026 12:23:19 +0000"
+    },
+    {
+      "name": "Big Tech uses guarantees to keep $300B AI exposure off balance sheets",
+      "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
+      "summary": "Article URL: https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563\nComments URL: https://news.ycombinator.com/item?id=49774991\nPoints: 7\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "sbulaev",
+      "published": "Sun, 20 Sep 2026 12:07:10 +0000"
+    },
+    {
+      "name": "Open-source AI PR reviewer that helps you ship",
+      "url": "https://nitpicker.dev/",
+      "summary": "Article URL: https://nitpicker.dev/\nComments URL: https://news.ycombinator.com/item?id=49774911\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Bluestein",
+      "published": "Sun, 20 Sep 2026 11:56:21 +0000"
+    },
+    {
+      "name": "Ask HN: What to focus on in this age of AI",
+      "url": "https://news.ycombinator.com/item?id=49774797",
+      "summary": "So software became cheap now with this whole AI schtick. Now what to properly focus on?\n\nComments URL: https://news.ycombinator.com/item?id=49774797\nPoints: 2\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "yernarak",
+      "published": "Sun, 20 Sep 2026 11:37:16 +0000"
+    },
+    {
+      "name": "If AI coding is lowering your code quality, you're not managing quality right",
+      "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+      "summary": "Article URL: https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code\nComments URL: https://news.ycombinator.com/item?id=49774795\nPoints: 40\n# Comments: 49",
+      "source": "hacker_news",
+      "score": null,
+      "author": "bucket2015",
+      "published": "Sun, 20 Sep 2026 11:37:10 +0000"
+    },
+    {
+      "name": "I'm Tired of the AI Tone",
+      "url": "https://sagivo.com/blog/im-tired-of-the-ai-tone",
+      "summary": "Article URL: https://sagivo.com/blog/im-tired-of-the-ai-tone\nComments URL: https://news.ycombinator.com/item?id=49774665\nPoints: 33\n# Comments: 44",
+      "source": "hacker_news",
+      "score": null,
+      "author": "sagivo",
+      "published": "Sun, 20 Sep 2026 11:18:26 +0000"
+    },
+    {
+      "name": "AI is giving scientists more ideas than they can test",
+      "url": "https://www.scientificamerican.com/article/why-ai-is-speeding-up-scientific-research-but-not-lab-experiments/",
+      "summary": "Article URL: https://www.scientificamerican.com/article/why-ai-is-speeding-up-scientific-research-but-not-lab-experiments/\nComments URL: https://news.ycombinator.com/item?id=49774493\nPoints: 2\n# Comme",
+      "source": "hacker_news",
+      "score": null,
+      "author": "geox",
+      "published": "Sun, 20 Sep 2026 10:43:34 +0000"
+    },
+    {
+      "name": "What the Hugging Face Incident Changed in How I See the Current State of AI",
+      "url": "https://chrhenning.com/blog/2026/hugging-face-incident/",
+      "summary": "Article URL: https://chrhenning.com/blog/2026/hugging-face-incident/\nComments URL: https://news.ycombinator.com/item?id=49774452\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "chrhenning",
+      "published": "Sun, 20 Sep 2026 10:35:54 +0000"
+    },
+    {
+      "name": "The AI regulation smackdown isn't over",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over\nComments URL: https://news.ycombinator.com/item?id=49774447\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "saikatsg",
+      "published": "Sun, 20 Sep 2026 10:35:13 +0000"
+    },
+    {
+      "name": "Automatic Against the People: Reading, Writing, and AI",
+      "url": "http://www.unemployednegativity.com/2024/09/automatic-against-people-reading.html",
+      "summary": "Article URL: http://www.unemployednegativity.com/2024/09/automatic-against-people-reading.html\nComments URL: https://news.ycombinator.com/item?id=49774415\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "waingake",
+      "published": "Sun, 20 Sep 2026 10:27:20 +0000"
+    },
+    {
+      "name": "AI and the Destruction of the Creative Commons",
+      "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
+      "summary": "Article URL: https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/\nComments URL: https://news.ycombinator.com/item?id=49774329\nPoints: 109\n# Comments: 56",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rakel_rakel",
+      "published": "Sun, 20 Sep 2026 10:07:51 +0000"
+    },
+    {
+      "name": "Jev is the fastest-adopted model in AI Gateway history",
+      "url": "https://vercel.com/blog/ai-gateway-jev-model-launch",
+      "summary": "Article URL: https://vercel.com/blog/ai-gateway-jev-model-launch\nComments URL: https://news.ycombinator.com/item?id=49774164\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "flashbrew",
+      "published": "Sun, 20 Sep 2026 09:38:26 +0000"
+    },
+    {
+      "name": "Show HN: Delightful Cells – reliable AI batch processing for spreadsheets",
+      "url": "https://delightfulcells.com",
+      "summary": "Article URL: https://delightfulcells.com\nComments URL: https://news.ycombinator.com/item?id=49774124\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "sumtsui",
+      "published": "Sun, 20 Sep 2026 09:31:29 +0000"
+    },
+    {
+      "name": "I built an extension that hides your personal information from AI",
+      "url": "https://github.com/arikchakma/opencloak",
+      "summary": "Article URL: https://github.com/arikchakma/opencloak\nComments URL: https://news.ycombinator.com/item?id=49774033\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "arikchakma",
+      "published": "Sun, 20 Sep 2026 09:15:09 +0000"
+    },
+    {
+      "name": "Why China is pushing back on US warnings over rapid AI development",
+      "url": "https://www.theguardian.com/world/2026/sep/20/why-china-is-pushing-back-on-us-warnings-over-rapid-ai-development",
+      "summary": "Article URL: https://www.theguardian.com/world/2026/sep/20/why-china-is-pushing-back-on-us-warnings-over-rapid-ai-development\nComments URL: https://news.ycombinator.com/item?id=49773995\nPoints: 7\n# Co",
+      "source": "hacker_news",
+      "score": null,
+      "author": "chrisjj",
+      "published": "Sun, 20 Sep 2026 09:08:07 +0000"
+    },
+    {
+      "name": "I Hijacked a Real Artist's Spotify with AI Music. It Was Disturbingly Easy",
+      "url": "https://www.404media.co/spotify-ai-music-scam/",
+      "summary": "Article URL: https://www.404media.co/spotify-ai-music-scam/\nComments URL: https://news.ycombinator.com/item?id=49773915\nPoints: 5\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "thm",
+      "published": "Sun, 20 Sep 2026 08:55:55 +0000"
+    },
+    {
+      "name": "Enjambre – a durable kernel for swarms of AI agents (Python, MCP)",
+      "url": "https://github.com/santibccc-sudo/enjambre-os",
+      "summary": "Article URL: https://github.com/santibccc-sudo/enjambre-os\nComments URL: https://news.ycombinator.com/item?id=49773912\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "santibccc",
+      "published": "Sun, 20 Sep 2026 08:55:30 +0000"
+    },
+    {
+      "name": "Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
+      "url": "https://faceanalysisai.com/",
+      "summary": "Article URL: https://faceanalysisai.com/\nComments URL: https://news.ycombinator.com/item?id=49773871\nPoints: 11\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "dares2573",
+      "published": "Sun, 20 Sep 2026 08:48:35 +0000"
+    },
+    {
+      "name": "Show HN: I cleaned AI watermarks from my clipboard",
+      "url": "https://www.pastezero.com/",
+      "summary": "Article URL: https://www.pastezero.com/\nComments URL: https://news.ycombinator.com/item?id=49773825\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "And0v",
+      "published": "Sun, 20 Sep 2026 08:40:19 +0000"
+    }
+  ]
+}

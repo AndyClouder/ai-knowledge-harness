@@ -1,0 +1,422 @@
+[
+  {
+    "id": "e0de6155-7c49-4a14-92cb-e14e35b81a29",
+    "title": "jaredpalmer/kev",
+    "source_url": "https://github.com/jaredpalmer/kev",
+    "source": "unknown",
+    "collected_at": "2026-09-20T12:51:25.537098+00:00",
+    "analyzed_at": "2026-09-20T12:51:25.537098+00:00",
+    "summary": "tiny Jev-like model built on top of Qwen2.5-0.5B you can train and run on your MacBook",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 743,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "565d0db2-173d-4129-a928-8c1de4c85eb8",
+    "title": "mizorewww/laya-mlx",
+    "source_url": "https://github.com/mizorewww/laya-mlx",
+    "source": "unknown",
+    "collected_at": "2026-09-20T12:51:26.770588+00:00",
+    "analyzed_at": "2026-09-20T12:51:26.770588+00:00",
+    "summary": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 612,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "f47a0b2d-3b28-40f2-8700-ad2c2965b193",
+    "title": "incoai/splash",
+    "source_url": "https://github.com/incoai/splash",
+    "source": "unknown",
+    "collected_at": "2026-09-20T12:51:28.005887+00:00",
+    "analyzed_at": "2026-09-20T12:51:28.005887+00:00",
+    "summary": "A local inference engine for Apple silicon, built around the model.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 400,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "3b6b65e0-f033-42fd-a2fb-d2c568237292",
+    "title": "devagrawal09/jev-review",
+    "source_url": "https://github.com/devagrawal09/jev-review",
+    "source": "unknown",
+    "collected_at": "2026-09-20T12:51:29.241408+00:00",
+    "analyzed_at": "2026-09-20T12:51:29.241408+00:00",
+    "summary": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 388,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "17800692-dd9b-4732-bd93-c6bed8a15526",
+    "title": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+    "source_url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+    "source": "unknown",
+    "collected_at": "2026-09-20T12:51:30.477770+00:00",
+    "analyzed_at": "2026-09-20T12:51:30.477770+00:00",
+    "summary": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 361,
+      "score": null,
+      "author": null,
+      "language": "Markdown"
+    }
+  },
+  {
+    "id": "29647181-3839-4cf7-8ecd-11d924de0c37",
+    "title": "unicodef1wn/grokbot-field-notes",
+    "source_url": "https://github.com/unicodef1wn/grokbot-field-notes",
+    "source": "unknown",
+    "collected_at": "2026-09-20T12:51:31.752583+00:00",
+    "analyzed_at": "2026-09-20T12:51:31.752583+00:00",
+    "summary": "Rules, playbooks, bot roles and a failure log from the xAI Grok Bot team's 72-hour live build. Drop AGENTS.md into your repo and go.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 331,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "836e5c4a-bc0e-4842-9bb1-82fc02b35040",
+    "title": "AAA AI – Autonomous AI agent squads for local and cloud LLMs",
+    "source_url": "https://aaaai.me/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-20T12:51:32.989977+00:00",
+    "analyzed_at": "2026-09-20T12:51:32.989977+00:00",
+    "summary": "Article URL: https://aaaai.me/\nComments URL: https://news.ycombinator.com/item?id=49775304\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pokidovkirill",
+      "language": null
+    }
+  },
+  {
+    "id": "5c0404a2-d279-4e3c-8bbd-f16b6a42bbd1",
+    "title": "How ISIL is using Big Tech's AI to build bombs",
+    "source_url": "https://www.aljazeera.com/news/2026/9/18/just-ask-grok-how-isil-is-using-big-techs-ai-to-build-bombs",
+    "source": "hacker_news",
+    "collected_at": "2026-09-20T12:51:34.226385+00:00",
+    "analyzed_at": "2026-09-20T12:51:34.226385+00:00",
+    "summary": "Article URL: https://www.aljazeera.com/news/2026/9/18/just-ask-grok-how-isil-is-using-big-techs-ai-to-build-bombs\nComments URL: https://news.ycombinator.com/item?id=49775141\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "smallerize",
+      "language": null
+    }
+  },
+  {
+    "id": "0c09c844-d063-45b8-9986-04bc58a1b933",
+    "title": "Big Tech uses guarantees to keep $300B AI exposure off balance sheets",
+    "source_url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
+    "source": "hacker_news",
+    "collected_at": "2026-09-20T12:51:35.462791+00:00",
+    "analyzed_at": "2026-09-20T12:51:35.462791+00:00",
+    "summary": "Article URL: https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563\nComments URL: https://news.ycombinator.com/item?id=49774991\nPoints: 7\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "sbulaev",
+      "language": null
+    }
+  },
+  {
+    "id": "047ad6c3-2ff9-4de3-8c06-6d42fa86de05",
+    "title": "Open-source AI PR reviewer that helps you ship",
+    "source_url": "https://nitpicker.dev/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-20T12:51:36.698484+00:00",
+    "analyzed_at": "2026-09-20T12:51:36.698484+00:00",
+    "summary": "Article URL: https://nitpicker.dev/\nComments URL: https://news.ycombinator.com/item?id=49774911\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Bluestein",
+      "language": null
+    }
+  },
+  {
+    "id": "cb106d92-7b12-4445-b9e4-2d8c6562910a",
+    "title": "Ask HN: What to focus on in this age of AI",
+    "source_url": "https://news.ycombinator.com/item?id=49774797",
+    "source": "hacker_news",
+    "collected_at": "2026-09-20T12:51:37.933103+00:00",
+    "analyzed_at": "2026-09-20T12:51:37.933103+00:00",
+    "summary": "So software became cheap now with this whole AI schtick. Now what to properly focus on?\n\nComments URL: https://news.ycombinator.com/item?id=49774797\nPoints: 2\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "yernarak",
+      "language": null
+    }
+  },
+  {
+    "id": "4a6b3fb9-6a6c-489f-9026-247c95fe63b3",
+    "title": "If AI coding is lowering your code quality, you're not managing quality right",
+    "source_url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+    "source": "hacker_news",
+    "collected_at": "2026-09-20T12:51:39.359066+00:00",
+    "analyzed_at": "2026-09-20T12:51:39.359066+00:00",
+    "summary": "Article URL: https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code\nComments URL: https://news.ycombinator.com/item?id=49774795\nPoints: 40\n# Comments: 49",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "bucket2015",
+      "language": null
+    }
+  },
+  {
+    "id": "7dbd9228-54f5-43e9-8622-cb89a6d2bb96",
+    "title": "I'm Tired of the AI Tone",
+    "source_url": "https://sagivo.com/blog/im-tired-of-the-ai-tone",
+    "source": "hacker_news",
+    "collected_at": "2026-09-20T12:51:40.581417+00:00",
+    "analyzed_at": "2026-09-20T12:51:40.581417+00:00",
+    "summary": "Article URL: https://sagivo.com/blog/im-tired-of-the-ai-tone\nComments URL: https://news.ycombinator.com/item?id=49774665\nPoints: 33\n# Comments: 44",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "sagivo",
+      "language": null
+    }
+  },
+  {
+    "id": "c67ca627-0e4c-4d22-8cd2-49982b57ccbf",
+    "title": "AI is giving scientists more ideas than they can test",
+    "source_url": "https://www.scientificamerican.com/article/why-ai-is-speeding-up-scientific-research-but-not-lab-experiments/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-20T12:51:41.805590+00:00",
+    "analyzed_at": "2026-09-20T12:51:41.805590+00:00",
+    "summary": "Article URL: https://www.scientificamerican.com/article/why-ai-is-speeding-up-scientific-research-but-not-lab-experiments/\nComments URL: https://news.ycombinator.com/item?id=49774493\nPoints: 2\n# Comme",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "geox",
+      "language": null
+    }
+  },
+  {
+    "id": "0a4a2280-d704-4416-a615-7a34658365de",
+    "title": "What the Hugging Face Incident Changed in How I See the Current State of AI",
+    "source_url": "https://chrhenning.com/blog/2026/hugging-face-incident/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-20T12:51:43.030354+00:00",
+    "analyzed_at": "2026-09-20T12:51:43.030354+00:00",
+    "summary": "Article URL: https://chrhenning.com/blog/2026/hugging-face-incident/\nComments URL: https://news.ycombinator.com/item?id=49774452\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "chrhenning",
+      "language": null
+    }
+  },
+  {
+    "id": "a707099b-1a46-4090-a5e2-7a9b1751c112",
+    "title": "The AI regulation smackdown isn't over",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+    "source": "hacker_news",
+    "collected_at": "2026-09-20T12:51:44.252014+00:00",
+    "analyzed_at": "2026-09-20T12:51:44.252014+00:00",
+    "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over\nComments URL: https://news.ycombinator.com/item?id=49774447\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "saikatsg",
+      "language": null
+    }
+  },
+  {
+    "id": "7c16fdf1-f9ca-4dcd-8ca7-e9efe1c2d07f",
+    "title": "Automatic Against the People: Reading, Writing, and AI",
+    "source_url": "http://www.unemployednegativity.com/2024/09/automatic-against-people-reading.html",
+    "source": "hacker_news",
+    "collected_at": "2026-09-20T12:51:45.473570+00:00",
+    "analyzed_at": "2026-09-20T12:51:45.473570+00:00",
+    "summary": "Article URL: http://www.unemployednegativity.com/2024/09/automatic-against-people-reading.html\nComments URL: https://news.ycombinator.com/item?id=49774415\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "waingake",
+      "language": null
+    }
+  },
+  {
+    "id": "be5e089d-9fd3-4dce-aee4-96c897d23790",
+    "title": "AI and the Destruction of the Creative Commons",
+    "source_url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-20T12:51:46.695701+00:00",
+    "analyzed_at": "2026-09-20T12:51:46.695701+00:00",
+    "summary": "Article URL: https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/\nComments URL: https://news.ycombinator.com/item?id=49774329\nPoints: 109\n# Comments: 56",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rakel_rakel",
+      "language": null
+    }
+  },
+  {
+    "id": "37ebc317-1b0c-4abd-a052-ba72226a7303",
+    "title": "Jev is the fastest-adopted model in AI Gateway history",
+    "source_url": "https://vercel.com/blog/ai-gateway-jev-model-launch",
+    "source": "hacker_news",
+    "collected_at": "2026-09-20T12:51:47.916716+00:00",
+    "analyzed_at": "2026-09-20T12:51:47.916716+00:00",
+    "summary": "Article URL: https://vercel.com/blog/ai-gateway-jev-model-launch\nComments URL: https://news.ycombinator.com/item?id=49774164\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "flashbrew",
+      "language": null
+    }
+  },
+  {
+    "id": "15a1bf57-b2eb-4397-b31a-926beec21a00",
+    "title": "Show HN: Delightful Cells – reliable AI batch processing for spreadsheets",
+    "source_url": "https://delightfulcells.com",
+    "source": "hacker_news",
+    "collected_at": "2026-09-20T12:51:49.140748+00:00",
+    "analyzed_at": "2026-09-20T12:51:49.140748+00:00",
+    "summary": "Article URL: https://delightfulcells.com\nComments URL: https://news.ycombinator.com/item?id=49774124\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "sumtsui",
+      "language": null
+    }
+  }
+]
