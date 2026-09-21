@@ -1,0 +1,422 @@
+[
+  {
+    "id": "f2044982-4e76-443d-bd45-f961f760c9af",
+    "title": "browser-use/jev-ultrafast",
+    "source_url": "https://github.com/browser-use/jev-ultrafast",
+    "source": "unknown",
+    "collected_at": "2026-09-21T14:49:32.746330+00:00",
+    "analyzed_at": "2026-09-21T14:49:32.746330+00:00",
+    "summary": "Fastest and cheapest web agent",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 14660,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "141a19df-5f09-4740-94d0-19e0dc8a3e81",
+    "title": "zai-org/ZCode",
+    "source_url": "https://github.com/zai-org/ZCode",
+    "source": "unknown",
+    "collected_at": "2026-09-21T14:49:33.957706+00:00",
+    "analyzed_at": "2026-09-21T14:49:33.957706+00:00",
+    "summary": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 5214,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "a83bb2da-0cc8-45fe-b059-d8a8cfb8ee36",
+    "title": "mizorewww/laya-coreml",
+    "source_url": "https://github.com/mizorewww/laya-coreml",
+    "source": "unknown",
+    "collected_at": "2026-09-21T14:49:35.183174+00:00",
+    "analyzed_at": "2026-09-21T14:49:35.183174+00:00",
+    "summary": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 689,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "306893f6-839e-4adc-ace3-7485941b46b5",
+    "title": "Skills for AI agents to remove or prevent slop in UI design and written content",
+    "source_url": "https://github.com/kmaida/deslop-skills",
+    "source": "hacker_news",
+    "collected_at": "2026-09-21T14:49:36.408964+00:00",
+    "analyzed_at": "2026-09-21T14:49:36.408964+00:00",
+    "summary": "Article URL: https://github.com/kmaida/deslop-skills\nComments URL: https://news.ycombinator.com/item?id=49788010\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mooreds",
+      "language": null
+    }
+  },
+  {
+    "id": "14aae7ae-fde9-4eb1-b05d-d31fe77b849e",
+    "title": "AMD becomes latest chipmaker to reach $1T valuation on AI demand",
+    "source_url": "https://www.reuters.com/business/amd-becomes-latest-chipmaker-reach-1-trillion-valuation-ai-demand-2026-09-21/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-21T14:49:37.626372+00:00",
+    "analyzed_at": "2026-09-21T14:49:37.626372+00:00",
+    "summary": "Article URL: https://www.reuters.com/business/amd-becomes-latest-chipmaker-reach-1-trillion-valuation-ai-demand-2026-09-21/\nComments URL: https://news.ycombinator.com/item?id=49787785\nPoints: 2\n# Comm",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mfiguiere",
+      "language": null
+    }
+  },
+  {
+    "id": "5888ee10-d389-47f6-baae-1fb737afe80d",
+    "title": "Trust AI leaders when they AI is dangerous, but don't trust them when",
+    "source_url": "https://simonlermen.substack.com/p/trust-ai-leaders-when-they-ai-is",
+    "source": "hacker_news",
+    "collected_at": "2026-09-21T14:49:38.843764+00:00",
+    "analyzed_at": "2026-09-21T14:49:38.843764+00:00",
+    "summary": "Article URL: https://simonlermen.substack.com/p/trust-ai-leaders-when-they-ai-is\nComments URL: https://news.ycombinator.com/item?id=49787717\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "DalasNoin",
+      "language": null
+    }
+  },
+  {
+    "id": "4556d2ea-9a91-4f24-8ada-2a1bb9cc82c1",
+    "title": "Show HN: Nanosamur.ai – Ollama for Voice Models (STT)",
+    "source_url": "https://github.com/nanosamurai/nanosamurai",
+    "source": "hacker_news",
+    "collected_at": "2026-09-21T14:49:40.068149+00:00",
+    "analyzed_at": "2026-09-21T14:49:40.068149+00:00",
+    "summary": "nanosamur.ai is a speech-to-tech platform that supports different models for realtime, semi-realtime, and batch transcription and provides a unified stack for robust speech processing, agentic workflo",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "newcrobuzon",
+      "language": null
+    }
+  },
+  {
+    "id": "ecc0b531-df95-4e07-999b-28a49d75fdb9",
+    "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+    "source_url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-21T14:49:41.291283+00:00",
+    "analyzed_at": "2026-09-21T14:49:41.291283+00:00",
+    "summary": "Article URL: https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/\nComments URL: https://news.ycombinator.com/item?id=49787535\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ano-ther",
+      "language": null
+    }
+  },
+  {
+    "id": "e8a458c5-bca9-4a3f-aac5-f7c507cd0861",
+    "title": "How Many People Use AI? Facts and Figures 2026",
+    "source_url": "https://www.gradually.ai/en/how-many-people-use-ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-21T14:49:42.514666+00:00",
+    "analyzed_at": "2026-09-21T14:49:42.514666+00:00",
+    "summary": "Article URL: https://www.gradually.ai/en/how-many-people-use-ai/\nComments URL: https://news.ycombinator.com/item?id=49787472\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "james_mir",
+      "language": null
+    }
+  },
+  {
+    "id": "34487cd5-2e2b-4313-95d6-434c3968849f",
+    "title": "Giving My AI Agents Access to My RSS Reader",
+    "source_url": "https://markphelps.me/posts/giving-ai-agents-access-to-rss-reader/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-21T14:49:43.735117+00:00",
+    "analyzed_at": "2026-09-21T14:49:43.735117+00:00",
+    "summary": "Article URL: https://markphelps.me/posts/giving-ai-agents-access-to-rss-reader/\nComments URL: https://news.ycombinator.com/item?id=49787456\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "bullcitydev",
+      "language": null
+    }
+  },
+  {
+    "id": "95d7d7ae-5ad6-45b3-b480-3625729048c8",
+    "title": "Google Rolls Out $899-Plus 'Ai laptops'",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-09-21/google-rolls-out-899-plus-googlebooks-from-dell-hp-lenovo-acer-asus",
+    "source": "hacker_news",
+    "collected_at": "2026-09-21T14:49:44.957570+00:00",
+    "analyzed_at": "2026-09-21T14:49:44.957570+00:00",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-21/google-rolls-out-899-plus-googlebooks-from-dell-hp-lenovo-acer-asus\nComments URL: https://news.ycombinator.com/item?id=49787453\nPoints: ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "evo_9",
+      "language": null
+    }
+  },
+  {
+    "id": "ee6b78de-5129-49b1-88d1-062ecf0edd29",
+    "title": "Hemmingway-1: The AI that writes like a person",
+    "source_url": "https://huggingface.co/Altworld/Hemmingway-1",
+    "source": "hacker_news",
+    "collected_at": "2026-09-21T14:49:46.170741+00:00",
+    "analyzed_at": "2026-09-21T14:49:46.170741+00:00",
+    "summary": "Article URL: https://huggingface.co/Altworld/Hemmingway-1\nComments URL: https://news.ycombinator.com/item?id=49787449\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "nateb2022",
+      "language": null
+    }
+  },
+  {
+    "id": "9f8cac29-939b-4342-a00f-35d9585181cc",
+    "title": "US will form 'AI Force' and appoint an artificial intelligence tsar",
+    "source_url": "https://www.bbc.com/news/articles/cqlykr2vrv04o",
+    "source": "hacker_news",
+    "collected_at": "2026-09-21T14:49:47.391263+00:00",
+    "analyzed_at": "2026-09-21T14:49:47.391263+00:00",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cqlykr2vrv04o\nComments URL: https://news.ycombinator.com/item?id=49787426\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "neom",
+      "language": null
+    }
+  },
+  {
+    "id": "6ab10c95-20f9-472d-97f9-44689e4cea5e",
+    "title": "Secure Messaging and AI Remain In Conflict Despite the Promise of TEEs",
+    "source_url": "https://www.eff.org/deeplinks/2026/09/secure-messaging-and-ai-remain-conflict-despite-promise-tees",
+    "source": "hacker_news",
+    "collected_at": "2026-09-21T14:49:48.610244+00:00",
+    "analyzed_at": "2026-09-21T14:49:48.610244+00:00",
+    "summary": "Article URL: https://www.eff.org/deeplinks/2026/09/secure-messaging-and-ai-remain-conflict-despite-promise-tees\nComments URL: https://news.ycombinator.com/item?id=49787420\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "hn_acker",
+      "language": null
+    }
+  },
+  {
+    "id": "dfe71171-a1d7-4295-a5ff-14b58a5ae0da",
+    "title": "Microsoft's new AI 'code of conduct' tells models not to hack systems",
+    "source_url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-21T14:49:49.821017+00:00",
+    "analyzed_at": "2026-09-21T14:49:49.821017+00:00",
+    "summary": "Article URL: https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/\nComments URL: https://news.ycombinator.com/item?id=49787357\nPoints: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "marcofloriano",
+      "language": null
+    }
+  },
+  {
+    "id": "c26df067-0b16-427c-b0f5-6f37b307fcd6",
+    "title": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
+    "source_url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-21T14:49:51.041045+00:00",
+    "analyzed_at": "2026-09-21T14:49:51.041045+00:00",
+    "summary": "Article URL: https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/\nComments URL: https://news.ycombinator.com/item?id=49787313\nPoints: 30\n# Comments: 10",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "piotrgrabowski",
+      "language": null
+    }
+  },
+  {
+    "id": "90b79310-4902-4ebf-869f-282b374d18c9",
+    "title": "Mac Studio M5 Max review: The best reason to run AI locally",
+    "source_url": "https://tbreak.com/mac-studio-m5-max-review-local-ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-21T14:49:52.263987+00:00",
+    "analyzed_at": "2026-09-21T14:49:52.263987+00:00",
+    "summary": "Article URL: https://tbreak.com/mac-studio-m5-max-review-local-ai/\nComments URL: https://news.ycombinator.com/item?id=49787092\nPoints: 3\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "throwfaraway4",
+      "language": null
+    }
+  },
+  {
+    "id": "599ccb79-f8ee-4461-9e4d-de32e51e3392",
+    "title": "Website toolbox with super simple AI builder",
+    "source_url": "https://nanomo.app/login",
+    "source": "hacker_news",
+    "collected_at": "2026-09-21T14:49:53.484376+00:00",
+    "analyzed_at": "2026-09-21T14:49:53.484376+00:00",
+    "summary": "Article URL: https://nanomo.app/login\nComments URL: https://news.ycombinator.com/item?id=49786930\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mountain-hawk",
+      "language": null
+    }
+  },
+  {
+    "id": "651e855f-3312-48d7-8024-70e0da99d77f",
+    "title": "How to Make Your AI Agent EU AI Act Compliant: A Practical Guide",
+    "source_url": "https://medium.com/@MirArshadTalpur/how-to-make-your-ai-agent-eu-ai-act-compliant-a-practical-guide-b9b7dbd97b92",
+    "source": "hacker_news",
+    "collected_at": "2026-09-21T14:49:54.703692+00:00",
+    "analyzed_at": "2026-09-21T14:49:54.703692+00:00",
+    "summary": "Article URL: https://medium.com/@MirArshadTalpur/how-to-make-your-ai-agent-eu-ai-act-compliant-a-practical-guide-b9b7dbd97b92\nComments URL: https://news.ycombinator.com/item?id=49786899\nPoints: 2\n# Co",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Arshad-Talpur",
+      "language": null
+    }
+  },
+  {
+    "id": "254b45e6-6526-4538-8d9b-71e503753b97",
+    "title": "Show HN: Open-source shared memory for teams of AI coding agents",
+    "source_url": "https://github.com/motif-Labs/motif",
+    "source": "hacker_news",
+    "collected_at": "2026-09-21T14:49:55.925582+00:00",
+    "analyzed_at": "2026-09-21T14:49:55.925582+00:00",
+    "summary": "Article URL: https://github.com/motif-Labs/motif\nComments URL: https://news.ycombinator.com/item?id=49786875\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "merthdotxyz",
+      "language": null
+    }
+  }
+]

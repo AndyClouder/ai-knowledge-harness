@@ -1,0 +1,41 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-09-21T14:49:17.755068+00:00",
+  "items": [
+    {
+      "name": "browser-use/jev-ultrafast",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "summary": "Fastest and cheapest web agent",
+      "stars": 14660,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "zai-org/ZCode",
+      "url": "https://github.com/zai-org/ZCode",
+      "summary": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "stars": 5214,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "mizorewww/laya-coreml",
+      "url": "https://github.com/mizorewww/laya-coreml",
+      "summary": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
+      "stars": 689,
+      "language": "Python",
+      "topics": [
+        "apple-neural-engine",
+        "apple-silicon",
+        "coreml",
+        "decision-model",
+        "laya",
+        "local-ai",
+        "modernbert",
+        "on-device-ai",
+        "typed-decisions"
+      ]
+    }
+  ]
+}
