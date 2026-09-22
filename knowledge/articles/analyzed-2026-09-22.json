@@ -1,0 +1,86 @@
+[
+  {
+    "id": "a07bf796-401d-434f-8eba-5a874287b1a1",
+    "title": "jev-chat/jev-chat-jarvis",
+    "source_url": "https://github.com/jev-chat/jev-chat-jarvis",
+    "source": "unknown",
+    "collected_at": "2026-09-22T13:03:36.669854+00:00",
+    "analyzed_at": "2026-09-22T13:03:36.669854+00:00",
+    "summary": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 3080,
+      "score": null,
+      "author": null,
+      "language": "Kotlin"
+    }
+  },
+  {
+    "id": "bcc0f3da-c584-4797-9ac4-e4bcd49b7d46",
+    "title": "hydra-db/open-glean",
+    "source_url": "https://github.com/hydra-db/open-glean",
+    "source": "unknown",
+    "collected_at": "2026-09-22T13:03:37.892102+00:00",
+    "analyzed_at": "2026-09-22T13:03:37.892102+00:00",
+    "summary": "An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 750,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "6ce8e52e-fbbf-4cb0-b6b9-962f46c57712",
+    "title": "Lumid-Off/AirCard-Windows",
+    "source_url": "https://github.com/Lumid-Off/AirCard-Windows",
+    "source": "unknown",
+    "collected_at": "2026-09-22T13:03:39.122061+00:00",
+    "analyzed_at": "2026-09-22T13:03:39.122061+00:00",
+    "summary": "",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 580,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "0ccc52d2-141e-46c6-94da-3eda78a8b1da",
+    "title": "ethanplusai/astra-flash-orchestrator",
+    "source_url": "https://github.com/ethanplusai/astra-flash-orchestrator",
+    "source": "unknown",
+    "collected_at": "2026-09-22T13:03:40.354838+00:00",
+    "analyzed_at": "2026-09-22T13:03:40.354838+00:00",
+    "summary": "Astra plans and reviews; DeepSeek Flash builds. A native Codex workflow with phased tasks, verification, safe installation and reversible setup.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 549,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  }
+]

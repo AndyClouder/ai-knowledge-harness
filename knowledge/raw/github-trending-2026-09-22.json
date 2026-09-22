@@ -1,0 +1,53 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-09-22T13:03:32.879233+00:00",
+  "items": [
+    {
+      "name": "jev-chat/jev-chat-jarvis",
+      "url": "https://github.com/jev-chat/jev-chat-jarvis",
+      "summary": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+      "stars": 3080,
+      "language": "Kotlin",
+      "topics": [
+        "accessibility-service",
+        "android",
+        "chat-assistant",
+        "llm",
+        "qq",
+        "wechat"
+      ]
+    },
+    {
+      "name": "hydra-db/open-glean",
+      "url": "https://github.com/hydra-db/open-glean",
+      "summary": "An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
+      "stars": 750,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "Lumid-Off/AirCard-Windows",
+      "url": "https://github.com/Lumid-Off/AirCard-Windows",
+      "summary": "",
+      "stars": 580,
+      "language": "Rust",
+      "topics": []
+    },
+    {
+      "name": "ethanplusai/astra-flash-orchestrator",
+      "url": "https://github.com/ethanplusai/astra-flash-orchestrator",
+      "summary": "Astra plans and reviews; DeepSeek Flash builds. A native Codex workflow with phased tasks, verification, safe installation and reversible setup.",
+      "stars": 549,
+      "language": "Python",
+      "topics": [
+        "agent-orchestration",
+        "ai-agents",
+        "codex",
+        "codex-skills",
+        "deepseek",
+        "developer-tools"
+      ]
+    }
+  ]
+}
