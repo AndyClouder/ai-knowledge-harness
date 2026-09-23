@@ -1,0 +1,422 @@
+[
+  {
+    "id": "5f075849-5584-4d79-bd12-ac2610ccf56f",
+    "title": "NandhaKishorM/laya",
+    "source_url": "https://github.com/NandhaKishorM/laya",
+    "source": "unknown",
+    "collected_at": "2026-09-23T13:20:24.681624+00:00",
+    "analyzed_at": "2026-09-23T13:20:24.681624+00:00",
+    "summary": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per reque",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 19145,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "848b6189-819d-4dd1-bf81-81fbe5b283bb",
+    "title": "unreallabsai/unreal-agent",
+    "source_url": "https://github.com/unreallabsai/unreal-agent",
+    "source": "unknown",
+    "collected_at": "2026-09-23T13:20:25.934098+00:00",
+    "analyzed_at": "2026-09-23T13:20:25.934098+00:00",
+    "summary": "Async-first agent harness",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1489,
+      "score": null,
+      "author": null,
+      "language": "Go"
+    }
+  },
+  {
+    "id": "1382ede8-0bd9-411a-8951-71f098ea20aa",
+    "title": "kerpopule/hermes-jev-skills",
+    "source_url": "https://github.com/kerpopule/hermes-jev-skills",
+    "source": "unknown",
+    "collected_at": "2026-09-23T13:20:27.189919+00:00",
+    "analyzed_at": "2026-09-23T13:20:27.189919+00:00",
+    "summary": "Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex)",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 679,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "0821d9d5-ec15-4123-895f-d918b22876b6",
+    "title": "volotat/mini-AGI",
+    "source_url": "https://github.com/volotat/mini-AGI",
+    "source": "unknown",
+    "collected_at": "2026-09-23T13:20:28.419527+00:00",
+    "analyzed_at": "2026-09-23T13:20:28.419527+00:00",
+    "summary": "Continual learning model trained from scratch on 8GB VRAM laptop with batch-1 stream of data.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 672,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "e40d5e77-6c98-402a-b2d9-3853d46af4eb",
+    "title": "VedicQ AI Astrology Kundli Engine",
+    "source_url": "https://www.vedicq.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-23T13:20:29.648746+00:00",
+    "analyzed_at": "2026-09-23T13:20:29.648746+00:00",
+    "summary": "Article URL: https://www.vedicq.com/\nComments URL: https://news.ycombinator.com/item?id=49815359\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rajtvservice",
+      "language": null
+    }
+  },
+  {
+    "id": "08831193-357e-473c-87ef-267c8e6c39b2",
+    "title": "What AI-Native Looks Like",
+    "source_url": "https://fagnerbrack.com/heres-what-ai-native-with-stable-infra-looks-like-9f17cdb61459",
+    "source": "hacker_news",
+    "collected_at": "2026-09-23T13:20:30.899623+00:00",
+    "analyzed_at": "2026-09-23T13:20:30.899623+00:00",
+    "summary": "Article URL: https://fagnerbrack.com/heres-what-ai-native-with-stable-infra-looks-like-9f17cdb61459\nComments URL: https://news.ycombinator.com/item?id=49815344\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "fagnerbrack",
+      "language": null
+    }
+  },
+  {
+    "id": "8c967eed-703a-4e82-bcf2-5420864ac674",
+    "title": "BannerGen – AI Social Media Banner Generator (CLI, Open Source)",
+    "source_url": "https://github.com/astra-intelligence/bannergen-cli",
+    "source": "hacker_news",
+    "collected_at": "2026-09-23T13:20:32.153149+00:00",
+    "analyzed_at": "2026-09-23T13:20:32.153149+00:00",
+    "summary": "Article URL: https://github.com/astra-intelligence/bannergen-cli\nComments URL: https://news.ycombinator.com/item?id=49815178\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "adventureagent",
+      "language": null
+    }
+  },
+  {
+    "id": "f938bb3e-4c41-4734-b75e-37da5e956667",
+    "title": "AI proof of the Erdős–Sós conjecture",
+    "source_url": "https://arxiv.org/abs/2609.17877",
+    "source": "hacker_news",
+    "collected_at": "2026-09-23T13:20:33.619608+00:00",
+    "analyzed_at": "2026-09-23T13:20:33.619608+00:00",
+    "summary": "Article URL: https://arxiv.org/abs/2609.17877\nComments URL: https://news.ycombinator.com/item?id=49815126\nPoints: 5\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "tadamcz",
+      "language": null
+    }
+  },
+  {
+    "id": "eb2c92d2-3e2e-48de-9cc1-a3adcac7b9ba",
+    "title": "Show HN: RxFilm Studio–Create and edit your product videos with AI agent",
+    "source_url": "https://filmstudio.rxlab.app",
+    "source": "hacker_news",
+    "collected_at": "2026-09-23T13:20:34.863481+00:00",
+    "analyzed_at": "2026-09-23T13:20:34.863481+00:00",
+    "summary": "Hi HN,I built RxFilm Studio, a video workspace that lets you create and revise videos with AI agent.The reason I started this project is simple: I’ve noticed that many independent developers and small",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "zilue",
+      "language": null
+    }
+  },
+  {
+    "id": "bbe7f334-9673-419c-ba23-7f62aec3c307",
+    "title": "First of its kind, AI malware. CLOSEDQUORUM",
+    "source_url": "https://www.theregister.com/security/2026/09/22/windows-closedquorum-malware-uses-ai-models-to-autonomously-select-post-compromise-actions/5298435",
+    "source": "hacker_news",
+    "collected_at": "2026-09-23T13:20:36.113545+00:00",
+    "analyzed_at": "2026-09-23T13:20:36.113545+00:00",
+    "summary": "Article URL: https://www.theregister.com/security/2026/09/22/windows-closedquorum-malware-uses-ai-models-to-autonomously-select-post-compromise-actions/5298435\nComments URL: https://news.ycombinator.c",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Wpnx330",
+      "language": null
+    }
+  },
+  {
+    "id": "5edfdf3b-cd78-430a-88d5-12b16cd12420",
+    "title": "The AI Content Moderation Platform",
+    "source_url": "https://www.checkstep.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-23T13:20:37.340428+00:00",
+    "analyzed_at": "2026-09-23T13:20:37.340428+00:00",
+    "summary": "Article URL: https://www.checkstep.com/\nComments URL: https://news.ycombinator.com/item?id=49814862\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "CS-Sean",
+      "language": null
+    }
+  },
+  {
+    "id": "a981a72a-9b57-4bbe-8a2c-88bdbb692569",
+    "title": "Show HN: Red-team your AI agent",
+    "source_url": "https://www.botgauge.com",
+    "source": "hacker_news",
+    "collected_at": "2026-09-23T13:20:38.567323+00:00",
+    "analyzed_at": "2026-09-23T13:20:38.567323+00:00",
+    "summary": "Article URL: https://www.botgauge.com\nComments URL: https://news.ycombinator.com/item?id=49814754\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "sanathbhat",
+      "language": null
+    }
+  },
+  {
+    "id": "4a41e421-84d6-4fbf-af97-4babe6645082",
+    "title": "What if we created a local AI tool to measure your security?",
+    "source_url": "https://github.com/just-not-google/BiNeuron",
+    "source": "hacker_news",
+    "collected_at": "2026-09-23T13:20:39.795590+00:00",
+    "analyzed_at": "2026-09-23T13:20:39.795590+00:00",
+    "summary": "Article URL: https://github.com/just-not-google/BiNeuron\nComments URL: https://news.ycombinator.com/item?id=49814638\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "BiNeuron",
+      "language": null
+    }
+  },
+  {
+    "id": "2fd8fc94-9b1a-4f4f-972e-61eff67787c1",
+    "title": "Samsung's AI fridges shut down after update, causes outrage",
+    "source_url": "https://www.notebookcheck.net/The-refrigerator-is-dead-Samsung-s-AI-fridges-shut-down-after-update-causes-outrage.1406447.0.html",
+    "source": "hacker_news",
+    "collected_at": "2026-09-23T13:20:41.023706+00:00",
+    "analyzed_at": "2026-09-23T13:20:41.023706+00:00",
+    "summary": "Article URL: https://www.notebookcheck.net/The-refrigerator-is-dead-Samsung-s-AI-fridges-shut-down-after-update-causes-outrage.1406447.0.html\nComments URL: https://news.ycombinator.com/item?id=4981448",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "thunderbong",
+      "language": null
+    }
+  },
+  {
+    "id": "875e8cba-7084-46b0-be3e-9369c02a504a",
+    "title": "Meta Tests Muse AI Agent Calls That Are Made by Humans in a Call Center",
+    "source_url": "https://www.404media.co/meta-tests-muse-ai-agent-calls-that-are-actually-made-by-humans-in-a-call-center/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-23T13:20:42.250737+00:00",
+    "analyzed_at": "2026-09-23T13:20:42.250737+00:00",
+    "summary": "Article URL: https://www.404media.co/meta-tests-muse-ai-agent-calls-that-are-actually-made-by-humans-in-a-call-center/\nComments URL: https://news.ycombinator.com/item?id=49814468\nPoints: 1\n# Comments:",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "cdrnsf",
+      "language": null
+    }
+  },
+  {
+    "id": "336f99e1-40e0-46bb-8017-c75b0e61421f",
+    "title": "Universal Agent HP – 10-layer autonomous AI agent OS (free or local)",
+    "source_url": "https://github.com/kapitan00000978-sketch/Universal-Agent-HP",
+    "source": "hacker_news",
+    "collected_at": "2026-09-23T13:20:43.490880+00:00",
+    "analyzed_at": "2026-09-23T13:20:43.490880+00:00",
+    "summary": "Article URL: https://github.com/kapitan00000978-sketch/Universal-Agent-HP\nComments URL: https://news.ycombinator.com/item?id=49814428\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "JonyMC",
+      "language": null
+    }
+  },
+  {
+    "id": "774e10df-0a9a-491b-a041-0e3ecfb9d3a8",
+    "title": "The Download: why AI's latest breakthroughs and fears may be more hype than rea",
+    "source_url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-23T13:20:44.732070+00:00",
+    "analyzed_at": "2026-09-23T13:20:44.732070+00:00",
+    "summary": "Article URL: https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/\nComments URL: https://news.ycombinator.com/item?id=49814211\nPoints: 36\n# Comments: 68",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "joozio",
+      "language": null
+    }
+  },
+  {
+    "id": "71005273-f146-4da1-9f25-29a5b0f66bf7",
+    "title": "The (AI) Nature of the Firm",
+    "source_url": "https://camerongordon0.substack.com/p/the-ai-nature-of-the-firm",
+    "source": "hacker_news",
+    "collected_at": "2026-09-23T13:20:45.971716+00:00",
+    "analyzed_at": "2026-09-23T13:20:45.971716+00:00",
+    "summary": "Article URL: https://camerongordon0.substack.com/p/the-ai-nature-of-the-firm\nComments URL: https://news.ycombinator.com/item?id=49813922\nPoints: 5\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "iciac",
+      "language": null
+    }
+  },
+  {
+    "id": "255612d9-3920-4971-aa67-c4422d7ae37d",
+    "title": "Show HN: Life Forge – Open-source flight simulator for autonomous AI agents",
+    "source_url": "https://github.com/zariffromlatif/life-forge",
+    "source": "hacker_news",
+    "collected_at": "2026-09-23T13:20:47.212181+00:00",
+    "analyzed_at": "2026-09-23T13:20:47.212181+00:00",
+    "summary": "Article URL: https://github.com/zariffromlatif/life-forge\nComments URL: https://news.ycombinator.com/item?id=49813880\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mdzariflatif",
+      "language": null
+    }
+  },
+  {
+    "id": "1431fdc2-7944-435c-a815-333e0a0bc360",
+    "title": "What Is an AI Software Factory? Lessons from 3 Client Deployments",
+    "source_url": "https://camplight.net/ai/ai-software-factory/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-23T13:20:48.452905+00:00",
+    "analyzed_at": "2026-09-23T13:20:48.452905+00:00",
+    "summary": "Article URL: https://camplight.net/ai/ai-software-factory/\nComments URL: https://news.ycombinator.com/item?id=49813704\nPoints: 8\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "altras",
+      "language": null
+    }
+  }
+]

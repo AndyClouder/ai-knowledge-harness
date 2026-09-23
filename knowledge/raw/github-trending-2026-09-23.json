@@ -1,0 +1,53 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-09-23T13:20:11.191718+00:00",
+  "items": [
+    {
+      "name": "NandhaKishorM/laya",
+      "url": "https://github.com/NandhaKishorM/laya",
+      "summary": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per reque",
+      "stars": 19145,
+      "language": "Python",
+      "topics": [
+        "calibration",
+        "classification",
+        "decision-model",
+        "huggingface",
+        "jev",
+        "modernbert",
+        "multilingual",
+        "nlp",
+        "python",
+        "pytorch",
+        "routing",
+        "typed-decisions",
+        "zero-shot"
+      ]
+    },
+    {
+      "name": "unreallabsai/unreal-agent",
+      "url": "https://github.com/unreallabsai/unreal-agent",
+      "summary": "Async-first agent harness",
+      "stars": 1489,
+      "language": "Go",
+      "topics": []
+    },
+    {
+      "name": "kerpopule/hermes-jev-skills",
+      "url": "https://github.com/kerpopule/hermes-jev-skills",
+      "summary": "Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex)",
+      "stars": 679,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "volotat/mini-AGI",
+      "url": "https://github.com/volotat/mini-AGI",
+      "summary": "Continual learning model trained from scratch on 8GB VRAM laptop with batch-1 stream of data.",
+      "stars": 672,
+      "language": "Python",
+      "topics": []
+    }
+  ]
+}
