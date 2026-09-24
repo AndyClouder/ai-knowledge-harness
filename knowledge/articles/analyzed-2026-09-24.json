@@ -1,0 +1,422 @@
+[
+  {
+    "id": "954a3f05-59a2-49e0-af89-5d7588fa4684",
+    "title": "riba2534/claude-opus-5-5-demo",
+    "source_url": "https://github.com/riba2534/claude-opus-5-5-demo",
+    "source": "unknown",
+    "collected_at": "2026-09-24T13:10:00.862399+00:00",
+    "analyzed_at": "2026-09-24T13:10:00.862399+00:00",
+    "summary": "claude-opus-5-5-demo",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 751,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "e474ac4a-3627-4c0c-82f7-7e24734c4b6e",
+    "title": "Mak5er/AirCard-iOS",
+    "source_url": "https://github.com/Mak5er/AirCard-iOS",
+    "source": "unknown",
+    "collected_at": "2026-09-24T13:10:02.062683+00:00",
+    "analyzed_at": "2026-09-24T13:10:02.062683+00:00",
+    "summary": " Apple Wallet card skins and lock screen passcode themes on iOS 27. ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 678,
+      "score": null,
+      "author": null,
+      "language": "Swift"
+    }
+  },
+  {
+    "id": "bbdec99b-86bf-4ec1-94d3-7c2702d25e0a",
+    "title": "freestylefly/WeChatBridge",
+    "source_url": "https://github.com/freestylefly/WeChatBridge",
+    "source": "unknown",
+    "collected_at": "2026-09-24T13:10:03.267215+00:00",
+    "analyzed_at": "2026-09-24T13:10:03.267215+00:00",
+    "summary": "微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 642,
+      "score": null,
+      "author": null,
+      "language": "Swift"
+    }
+  },
+  {
+    "id": "3b83bb65-4458-4983-a754-3b519b9d6466",
+    "title": "wfzyx/von",
+    "source_url": "https://github.com/wfzyx/von",
+    "source": "unknown",
+    "collected_at": "2026-09-24T13:10:04.472248+00:00",
+    "analyzed_at": "2026-09-24T13:10:04.472248+00:00",
+    "summary": "The open-source System One decision model. Sub-15ms, non-autoregressive, local drop-in alternative to TypeSafe Jev.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 618,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "63211f32-bee6-42e0-a948-0ea40bedeeeb",
+    "title": "AI, Make the Website Good",
+    "source_url": "https://www.zachleat.com/web/ai-websites/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-24T13:10:05.677764+00:00",
+    "analyzed_at": "2026-09-24T13:10:05.677764+00:00",
+    "summary": "Article URL: https://www.zachleat.com/web/ai-websites/\nComments URL: https://news.ycombinator.com/item?id=49830088\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "meetpateltech",
+      "language": null
+    }
+  },
+  {
+    "id": "4b6ed215-40db-4e3a-b3f2-d09354a37986",
+    "title": "Show HN: A novel about an AI that starts asking questions, a chapter a day",
+    "source_url": "https://thought-is-free.com/read/ch01/?from=hn",
+    "source": "hacker_news",
+    "collected_at": "2026-09-24T13:10:06.883630+00:00",
+    "analyzed_at": "2026-09-24T13:10:06.883630+00:00",
+    "summary": "Article URL: https://thought-is-free.com/read/ch01/?from=hn\nComments URL: https://news.ycombinator.com/item?id=49830013\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rovugui",
+      "language": null
+    }
+  },
+  {
+    "id": "55fda9be-9910-480f-984c-abfbc619b7eb",
+    "title": "I Proved AI Could Beat Our Technical Interviews. Then I Had to Fix Them",
+    "source_url": "https://andrewwegner.com/ai-broke-our-interview-process-i-had-to-fix-it.html",
+    "source": "hacker_news",
+    "collected_at": "2026-09-24T13:10:08.078216+00:00",
+    "analyzed_at": "2026-09-24T13:10:08.078216+00:00",
+    "summary": "Article URL: https://andrewwegner.com/ai-broke-our-interview-process-i-had-to-fix-it.html\nComments URL: https://news.ycombinator.com/item?id=49829915\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "bucket2015",
+      "language": null
+    }
+  },
+  {
+    "id": "5ec89b85-902a-4161-bf8b-c0df4e2a9609",
+    "title": "Changing my mind about AI risk – Francis Fukuyama [video]",
+    "source_url": "https://www.youtube.com/watch?v=aqdum6lnhJ8",
+    "source": "hacker_news",
+    "collected_at": "2026-09-24T13:10:09.269983+00:00",
+    "analyzed_at": "2026-09-24T13:10:09.269983+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=aqdum6lnhJ8\nComments URL: https://news.ycombinator.com/item?id=49829910\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mistersquid",
+      "language": null
+    }
+  },
+  {
+    "id": "63f83c5e-194e-422f-a077-c34ddce7b268",
+    "title": "Show HN: Keydris checks your AI agent's permissions before it sends email",
+    "source_url": "https://www.youtube.com/watch?v=De0PQTEL8r0",
+    "source": "hacker_news",
+    "collected_at": "2026-09-24T13:10:10.461207+00:00",
+    "analyzed_at": "2026-09-24T13:10:10.461207+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=De0PQTEL8r0\nComments URL: https://news.ycombinator.com/item?id=49829823\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Osman_728",
+      "language": null
+    }
+  },
+  {
+    "id": "71c10f7a-f185-4f6b-b12a-01cba481b407",
+    "title": "Mark Zuckerberg Showcases Muse AI Agent Fused with Smartglasses",
+    "source_url": "https://www.wsj.com/tech/ai/mark-zuckerberg-lays-out-his-vision-muse-ai-agent-fused-with-smartglasses-18d9c85e",
+    "source": "hacker_news",
+    "collected_at": "2026-09-24T13:10:11.651335+00:00",
+    "analyzed_at": "2026-09-24T13:10:11.651335+00:00",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/mark-zuckerberg-lays-out-his-vision-muse-ai-agent-fused-with-smartglasses-18d9c85e\nComments URL: https://news.ycombinator.com/item?id=49829761\nPoints: 2\n# Comm",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "htk",
+      "language": null
+    }
+  },
+  {
+    "id": "cf36eeeb-2f87-432c-901f-aeaaa5780fb2",
+    "title": "What China's Vibe-Coding Capital Can Tell Us About The AI Boom",
+    "source_url": "https://www.newyorker.com/news/the-lede/what-chinas-vibe-coding-capital-can-tell-us-about-the-ai-boom",
+    "source": "hacker_news",
+    "collected_at": "2026-09-24T13:10:12.843343+00:00",
+    "analyzed_at": "2026-09-24T13:10:12.843343+00:00",
+    "summary": "Article URL: https://www.newyorker.com/news/the-lede/what-chinas-vibe-coding-capital-can-tell-us-about-the-ai-boom\nComments URL: https://news.ycombinator.com/item?id=49829694\nPoints: 3\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jbegley",
+      "language": null
+    }
+  },
+  {
+    "id": "8cd66f1c-0cf9-45e7-83c7-7946c8c13d96",
+    "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
+    "source_url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
+    "source": "hacker_news",
+    "collected_at": "2026-09-24T13:10:14.037352+00:00",
+    "analyzed_at": "2026-09-24T13:10:14.037352+00:00",
+    "summary": "Article URL: https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us\nComments URL: https://news.ycombinator.com/item?id=49829650\nPoints: 20\n# Comments: 5",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "YeGoblynQueenne",
+      "language": null
+    }
+  },
+  {
+    "id": "646c8b63-a632-4ee6-96e2-df0abb1bc9e7",
+    "title": "I build an efficient and lean Poker bot with AI",
+    "source_url": "https://github.com/aeneassoft/QuantPlay",
+    "source": "hacker_news",
+    "collected_at": "2026-09-24T13:10:15.230142+00:00",
+    "analyzed_at": "2026-09-24T13:10:15.230142+00:00",
+    "summary": "Article URL: https://github.com/aeneassoft/QuantPlay\nComments URL: https://news.ycombinator.com/item?id=49829613\nPoints: 3\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "aeneassoft",
+      "language": null
+    }
+  },
+  {
+    "id": "bde5a1c0-bad5-4885-8f3f-97c4c86e48aa",
+    "title": "Meta's new Muse AI Agent read Jason Aten's messages database",
+    "source_url": "https://daringfireball.net/linked/2026/09/22/aten-muse",
+    "source": "hacker_news",
+    "collected_at": "2026-09-24T13:10:16.423251+00:00",
+    "analyzed_at": "2026-09-24T13:10:16.423251+00:00",
+    "summary": "Article URL: https://daringfireball.net/linked/2026/09/22/aten-muse\nComments URL: https://news.ycombinator.com/item?id=49829473\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ch_sm",
+      "language": null
+    }
+  },
+  {
+    "id": "b8a47a4b-b3bb-4398-9aa8-daf84684d9b7",
+    "title": "Squelette – keep AI coding agents inside the scope you approved",
+    "source_url": "https://github.com/JyMinet/squelette",
+    "source": "hacker_news",
+    "collected_at": "2026-09-24T13:10:17.622379+00:00",
+    "analyzed_at": "2026-09-24T13:10:17.622379+00:00",
+    "summary": "Article URL: https://github.com/JyMinet/squelette\nComments URL: https://news.ycombinator.com/item?id=49829460\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "JyMINET2",
+      "language": null
+    }
+  },
+  {
+    "id": "4090a572-785a-481b-ad76-829697e90097",
+    "title": "CheatBench: Measuring Reward Gaming in AI Agents",
+    "source_url": "https://www.cheatbench.ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-24T13:10:18.818816+00:00",
+    "analyzed_at": "2026-09-24T13:10:18.818816+00:00",
+    "summary": "Article URL: https://www.cheatbench.ai/\nComments URL: https://news.ycombinator.com/item?id=49829454\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "gumby",
+      "language": null
+    }
+  },
+  {
+    "id": "ca2ef953-abe3-4f57-8995-06aecefabd38",
+    "title": "AI progress is speeding up dramatically – here's why you should care [video]",
+    "source_url": "https://www.youtube.com/watch?v=DKA5AkrQfxo",
+    "source": "hacker_news",
+    "collected_at": "2026-09-24T13:10:20.012696+00:00",
+    "analyzed_at": "2026-09-24T13:10:20.012696+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=DKA5AkrQfxo\nComments URL: https://news.ycombinator.com/item?id=49829347\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mgh2",
+      "language": null
+    }
+  },
+  {
+    "id": "557408bf-a9c4-40a0-a9b6-438d59a500d6",
+    "title": "Scoop: Trump allies open new front against Anthropic CEO over AI \"doomerism\"",
+    "source_url": "https://www.axios.com/2026/09/24/trump-anthropic-ai-doomerism-dario-amodei",
+    "source": "hacker_news",
+    "collected_at": "2026-09-24T13:10:21.223611+00:00",
+    "analyzed_at": "2026-09-24T13:10:21.223611+00:00",
+    "summary": "Article URL: https://www.axios.com/2026/09/24/trump-anthropic-ai-doomerism-dario-amodei\nComments URL: https://news.ycombinator.com/item?id=49829312\nPoints: 3\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "koolhead17",
+      "language": null
+    }
+  },
+  {
+    "id": "cd1d46ab-3015-4e16-8c89-ab06c5cb24b0",
+    "title": "Dutch intelligence services warn AI is making cyberattacks faster and easier",
+    "source_url": "https://nltimes.nl/2026/09/24/dutch-intelligence-services-warn-ai-making-cyberattacks-faster-easier",
+    "source": "hacker_news",
+    "collected_at": "2026-09-24T13:10:22.487126+00:00",
+    "analyzed_at": "2026-09-24T13:10:22.487126+00:00",
+    "summary": "Article URL: https://nltimes.nl/2026/09/24/dutch-intelligence-services-warn-ai-making-cyberattacks-faster-easier\nComments URL: https://news.ycombinator.com/item?id=49829131\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "warrenmiller",
+      "language": null
+    }
+  },
+  {
+    "id": "54182225-46f6-4c17-b5fb-2cb1926bed6f",
+    "title": "Show HN: Szept – talk to your AI agents and show them your screen (macOS)",
+    "source_url": "https://szept.szyma.co/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-24T13:10:23.692639+00:00",
+    "analyzed_at": "2026-09-24T13:10:23.692639+00:00",
+    "summary": "Article URL: https://szept.szyma.co/\nComments URL: https://news.ycombinator.com/item?id=49829021\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Donmario",
+      "language": null
+    }
+  }
+]
