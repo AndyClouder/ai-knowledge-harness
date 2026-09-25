@@ -1,0 +1,422 @@
+[
+  {
+    "id": "66d9fb5f-a6ab-4086-99b3-8a1acde12f86",
+    "title": "mikehasa/golive-skill",
+    "source_url": "https://github.com/mikehasa/golive-skill",
+    "source": "unknown",
+    "collected_at": "2026-09-25T13:14:18.508944+00:00",
+    "analyzed_at": "2026-09-25T13:14:18.508944+00:00",
+    "summary": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 929,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "90896c75-b7c0-4fac-ad3b-8dda09d5e8d4",
+    "title": "JohnHeibel/PDoomVideo",
+    "source_url": "https://github.com/JohnHeibel/PDoomVideo",
+    "source": "unknown",
+    "collected_at": "2026-09-25T13:14:19.727738+00:00",
+    "analyzed_at": "2026-09-25T13:14:19.727738+00:00",
+    "summary": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 820,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "0cc9fcec-2200-4716-8214-c4210f2aa53a",
+    "title": "yetone/magpie",
+    "source_url": "https://github.com/yetone/magpie",
+    "source": "unknown",
+    "collected_at": "2026-09-25T13:14:20.947142+00:00",
+    "analyzed_at": "2026-09-25T13:14:20.947142+00:00",
+    "summary": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 751,
+      "score": null,
+      "author": null,
+      "language": "Go"
+    }
+  },
+  {
+    "id": "ab14f266-0e4b-4c93-af66-9b0f3269495f",
+    "title": "nokia-applied-research/AnyJev",
+    "source_url": "https://github.com/nokia-applied-research/AnyJev",
+    "source": "unknown",
+    "collected_at": "2026-09-25T13:14:22.165275+00:00",
+    "analyzed_at": "2026-09-25T13:14:22.165275+00:00",
+    "summary": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating)",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 598,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "f32a0f08-8b5b-4b07-867b-e9ff65e41b80",
+    "title": "Restaurants Are Using AI to Advertise Their Food and people don't like it",
+    "source_url": "https://www.wsj.com/tech/ai/restaurants-ai-food-image-generators-advertisements-efb787a9",
+    "source": "hacker_news",
+    "collected_at": "2026-09-25T13:14:23.381827+00:00",
+    "analyzed_at": "2026-09-25T13:14:23.381827+00:00",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/restaurants-ai-food-image-generators-advertisements-efb787a9\nComments URL: https://news.ycombinator.com/item?id=49844173\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "erehweb",
+      "language": null
+    }
+  },
+  {
+    "id": "0e98e2e8-3b68-491a-a08a-20c9d6906985",
+    "title": "RushShift – Offline AI desktop tool to search local B-roll archives by prompt",
+    "source_url": "https://rushshift.vercel.app",
+    "source": "hacker_news",
+    "collected_at": "2026-09-25T13:14:24.599570+00:00",
+    "analyzed_at": "2026-09-25T13:14:24.599570+00:00",
+    "summary": "Article URL: https://rushshift.vercel.app\nComments URL: https://news.ycombinator.com/item?id=49844087\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Diyon_Dust",
+      "language": null
+    }
+  },
+  {
+    "id": "41859ca0-13b6-43e0-89f1-e4fe17976284",
+    "title": "I Ran 255 AI Agents to Make Three Comics. The Line Between Slop and Good Is",
+    "source_url": "https://thoughts.jock.pl/p/ai-slop-comic-experiment-2026",
+    "source": "hacker_news",
+    "collected_at": "2026-09-25T13:14:25.820012+00:00",
+    "analyzed_at": "2026-09-25T13:14:25.820012+00:00",
+    "summary": "Article URL: https://thoughts.jock.pl/p/ai-slop-comic-experiment-2026\nComments URL: https://news.ycombinator.com/item?id=49844063\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "joozio",
+      "language": null
+    }
+  },
+  {
+    "id": "187d36e0-b2fb-4550-ae98-18277b25e0cf",
+    "title": "Show HN: Hard Stop: Kernel-level preemption for autonomous AI agents",
+    "source_url": "https://arxiv.org/abs/2609.29808",
+    "source": "hacker_news",
+    "collected_at": "2026-09-25T13:14:27.049990+00:00",
+    "analyzed_at": "2026-09-25T13:14:27.049990+00:00",
+    "summary": "Article URL: https://arxiv.org/abs/2609.29808\nComments URL: https://news.ycombinator.com/item?id=49844056\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "joseluispino",
+      "language": null
+    }
+  },
+  {
+    "id": "2c5081fe-3096-42c0-aea3-1b998b7f3a8c",
+    "title": "Financing the AI Buildout",
+    "source_url": "https://www.brookings.edu/articles/financing-the-ai-buildout/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-25T13:14:28.271000+00:00",
+    "analyzed_at": "2026-09-25T13:14:28.271000+00:00",
+    "summary": "Article URL: https://www.brookings.edu/articles/financing-the-ai-buildout/\nComments URL: https://news.ycombinator.com/item?id=49843952\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Balgair",
+      "language": null
+    }
+  },
+  {
+    "id": "f39716c3-0a83-4584-bea8-7b699d1de36f",
+    "title": "EU Member States plan \"digital expropriation\" in the interest of AI companies",
+    "source_url": "https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies",
+    "source": "hacker_news",
+    "collected_at": "2026-09-25T13:14:29.540968+00:00",
+    "analyzed_at": "2026-09-25T13:14:29.540968+00:00",
+    "summary": "Article URL: https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies\nComments URL: https://news.ycombinator.com/item?id=49843793\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "vrganj",
+      "language": null
+    }
+  },
+  {
+    "id": "ce213c39-2e74-4c06-98ee-80a23a81f1f8",
+    "title": "Show HN: An AI interviewer that pushes back on your system design trade-offs",
+    "source_url": "https://prepd.tech/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-25T13:14:30.798827+00:00",
+    "analyzed_at": "2026-09-25T13:14:30.798827+00:00",
+    "summary": "Article URL: https://prepd.tech/\nComments URL: https://news.ycombinator.com/item?id=49843681\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Prepd",
+      "language": null
+    }
+  },
+  {
+    "id": "d95e7176-b374-407a-a191-c93bcb2654b8",
+    "title": "Show HN: StackReplay – analyze and replay your AI coding history locally",
+    "source_url": "https://stackreplay.com",
+    "source": "hacker_news",
+    "collected_at": "2026-09-25T13:14:32.024290+00:00",
+    "analyzed_at": "2026-09-25T13:14:32.024290+00:00",
+    "summary": "Article URL: https://stackreplay.com\nComments URL: https://news.ycombinator.com/item?id=49843535\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "tsouth2",
+      "language": null
+    }
+  },
+  {
+    "id": "163ca31d-182c-491e-8326-4c5dc3cb1ad3",
+    "title": "The AI Apocalypse Is Boring Now",
+    "source_url": "https://martinrobbins.substack.com/p/the-ai-apocalypse-is-extremely-boring",
+    "source": "hacker_news",
+    "collected_at": "2026-09-25T13:14:33.252405+00:00",
+    "analyzed_at": "2026-09-25T13:14:33.252405+00:00",
+    "summary": "Article URL: https://martinrobbins.substack.com/p/the-ai-apocalypse-is-extremely-boring\nComments URL: https://news.ycombinator.com/item?id=49843484\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "AnodicElegy",
+      "language": null
+    }
+  },
+  {
+    "id": "b8435b03-fdb0-4418-abc0-a1b714414673",
+    "title": "Show HN: Threshold Cryptography for AI Agents Using Payments and Digital Assets",
+    "source_url": "https://github.com/tkeeper-org/tkeeper",
+    "source": "hacker_news",
+    "collected_at": "2026-09-25T13:14:34.480394+00:00",
+    "analyzed_at": "2026-09-25T13:14:34.480394+00:00",
+    "summary": "We introduce the concept of a \"cryptographic identity\", which consists of a private key, a manifest attached to it that defines what a specific action is allowed or not allowed to do, and additional c",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "_qnt",
+      "language": null
+    }
+  },
+  {
+    "id": "34270b4c-3ad6-4740-8bfe-2175d544f2b5",
+    "title": "Bugpocalypse, or reporting bugs in an AI age",
+    "source_url": "https://www.qemu.org/2026/09/23/bugs/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-25T13:14:35.701266+00:00",
+    "analyzed_at": "2026-09-25T13:14:35.701266+00:00",
+    "summary": "Article URL: https://www.qemu.org/2026/09/23/bugs/\nComments URL: https://news.ycombinator.com/item?id=49843453\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Tomte",
+      "language": null
+    }
+  },
+  {
+    "id": "882c42d0-351b-4f41-8e69-7b131ac01dcf",
+    "title": "Reimagining research papers as interactive and reliable AI agents",
+    "source_url": "https://www.nature.com/articles/s41586-026-11044-y",
+    "source": "hacker_news",
+    "collected_at": "2026-09-25T13:14:36.921089+00:00",
+    "analyzed_at": "2026-09-25T13:14:36.921089+00:00",
+    "summary": "Article URL: https://www.nature.com/articles/s41586-026-11044-y\nComments URL: https://news.ycombinator.com/item?id=49843293\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "JohnHammersley",
+      "language": null
+    }
+  },
+  {
+    "id": "8f556ba1-f352-4cf0-ad97-2ae64e3c24a9",
+    "title": "The Biggest Risk of AI Wearables Is Not Personal Privacy – It's Human Agency",
+    "source_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7498938",
+    "source": "hacker_news",
+    "collected_at": "2026-09-25T13:14:38.144600+00:00",
+    "analyzed_at": "2026-09-25T13:14:38.144600+00:00",
+    "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7498938\nComments URL: https://news.ycombinator.com/item?id=49843266\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "hogwash",
+      "language": null
+    }
+  },
+  {
+    "id": "9aa74ac3-fde0-4e0c-aa4b-192b37e15982",
+    "title": "The Pentagon wants $30M to build an AI-powered lie detector",
+    "source_url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-25T13:14:39.373397+00:00",
+    "analyzed_at": "2026-09-25T13:14:39.373397+00:00",
+    "summary": "Article URL: https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/\nComments URL: https://news.ycombinator.com/item?id=49842808\nPoints: 6\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "joozio",
+      "language": null
+    }
+  },
+  {
+    "id": "898a2d6e-3ea3-4b9b-8637-31fad9716a05",
+    "title": "Uproar in France over award-winning author accused of using AI",
+    "source_url": "https://www.bbc.com/news/articles/ck7v4y45893go",
+    "source": "hacker_news",
+    "collected_at": "2026-09-25T13:14:40.600831+00:00",
+    "analyzed_at": "2026-09-25T13:14:40.600831+00:00",
+    "summary": "Article URL: https://www.bbc.com/news/articles/ck7v4y45893go\nComments URL: https://news.ycombinator.com/item?id=49842707\nPoints: 30\n# Comments: 70",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "harscoat",
+      "language": null
+    }
+  },
+  {
+    "id": "1d346346-9280-401d-8a59-9756e4888dbb",
+    "title": "Four things I learned throughout the last years working with AI",
+    "source_url": "https://www.ssp.sh/brain/what-i-learned-writing-with-ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-25T13:14:41.826646+00:00",
+    "analyzed_at": "2026-09-25T13:14:41.826646+00:00",
+    "summary": "Article URL: https://www.ssp.sh/brain/what-i-learned-writing-with-ai/\nComments URL: https://news.ycombinator.com/item?id=49842633\nPoints: 3\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "zazuke",
+      "language": null
+    }
+  }
+]

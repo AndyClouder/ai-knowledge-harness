@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-09-25T13:14:17.198588+00:00",
+  "items": [
+    {
+      "name": "Restaurants Are Using AI to Advertise Their Food and people don't like it",
+      "url": "https://www.wsj.com/tech/ai/restaurants-ai-food-image-generators-advertisements-efb787a9",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/restaurants-ai-food-image-generators-advertisements-efb787a9\nComments URL: https://news.ycombinator.com/item?id=49844173\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "erehweb",
+      "published": "Fri, 25 Sep 2026 13:11:17 +0000"
+    },
+    {
+      "name": "RushShift – Offline AI desktop tool to search local B-roll archives by prompt",
+      "url": "https://rushshift.vercel.app",
+      "summary": "Article URL: https://rushshift.vercel.app\nComments URL: https://news.ycombinator.com/item?id=49844087\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Diyon_Dust",
+      "published": "Fri, 25 Sep 2026 13:04:47 +0000"
+    },
+    {
+      "name": "I Ran 255 AI Agents to Make Three Comics. The Line Between Slop and Good Is",
+      "url": "https://thoughts.jock.pl/p/ai-slop-comic-experiment-2026",
+      "summary": "Article URL: https://thoughts.jock.pl/p/ai-slop-comic-experiment-2026\nComments URL: https://news.ycombinator.com/item?id=49844063\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "joozio",
+      "published": "Fri, 25 Sep 2026 13:02:35 +0000"
+    },
+    {
+      "name": "Show HN: Hard Stop: Kernel-level preemption for autonomous AI agents",
+      "url": "https://arxiv.org/abs/2609.29808",
+      "summary": "Article URL: https://arxiv.org/abs/2609.29808\nComments URL: https://news.ycombinator.com/item?id=49844056\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "joseluispino",
+      "published": "Fri, 25 Sep 2026 13:01:56 +0000"
+    },
+    {
+      "name": "Financing the AI Buildout",
+      "url": "https://www.brookings.edu/articles/financing-the-ai-buildout/",
+      "summary": "Article URL: https://www.brookings.edu/articles/financing-the-ai-buildout/\nComments URL: https://news.ycombinator.com/item?id=49843952\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Balgair",
+      "published": "Fri, 25 Sep 2026 12:53:05 +0000"
+    },
+    {
+      "name": "EU Member States plan \"digital expropriation\" in the interest of AI companies",
+      "url": "https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies",
+      "summary": "Article URL: https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies\nComments URL: https://news.ycombinator.com/item?id=49843793\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "vrganj",
+      "published": "Fri, 25 Sep 2026 12:38:41 +0000"
+    },
+    {
+      "name": "Show HN: An AI interviewer that pushes back on your system design trade-offs",
+      "url": "https://prepd.tech/",
+      "summary": "Article URL: https://prepd.tech/\nComments URL: https://news.ycombinator.com/item?id=49843681\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Prepd",
+      "published": "Fri, 25 Sep 2026 12:27:05 +0000"
+    },
+    {
+      "name": "Show HN: StackReplay – analyze and replay your AI coding history locally",
+      "url": "https://stackreplay.com",
+      "summary": "Article URL: https://stackreplay.com\nComments URL: https://news.ycombinator.com/item?id=49843535\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "tsouth2",
+      "published": "Fri, 25 Sep 2026 12:12:27 +0000"
+    },
+    {
+      "name": "The AI Apocalypse Is Boring Now",
+      "url": "https://martinrobbins.substack.com/p/the-ai-apocalypse-is-extremely-boring",
+      "summary": "Article URL: https://martinrobbins.substack.com/p/the-ai-apocalypse-is-extremely-boring\nComments URL: https://news.ycombinator.com/item?id=49843484\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "AnodicElegy",
+      "published": "Fri, 25 Sep 2026 12:08:13 +0000"
+    },
+    {
+      "name": "Show HN: Threshold Cryptography for AI Agents Using Payments and Digital Assets",
+      "url": "https://github.com/tkeeper-org/tkeeper",
+      "summary": "We introduce the concept of a \"cryptographic identity\", which consists of a private key, a manifest attached to it that defines what a specific action is allowed or not allowed to do, and additional c",
+      "source": "hacker_news",
+      "score": null,
+      "author": "_qnt",
+      "published": "Fri, 25 Sep 2026 12:07:53 +0000"
+    },
+    {
+      "name": "Bugpocalypse, or reporting bugs in an AI age",
+      "url": "https://www.qemu.org/2026/09/23/bugs/",
+      "summary": "Article URL: https://www.qemu.org/2026/09/23/bugs/\nComments URL: https://news.ycombinator.com/item?id=49843453\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Tomte",
+      "published": "Fri, 25 Sep 2026 12:05:13 +0000"
+    },
+    {
+      "name": "Reimagining research papers as interactive and reliable AI agents",
+      "url": "https://www.nature.com/articles/s41586-026-11044-y",
+      "summary": "Article URL: https://www.nature.com/articles/s41586-026-11044-y\nComments URL: https://news.ycombinator.com/item?id=49843293\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "JohnHammersley",
+      "published": "Fri, 25 Sep 2026 11:49:44 +0000"
+    },
+    {
+      "name": "The Biggest Risk of AI Wearables Is Not Personal Privacy – It's Human Agency",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7498938",
+      "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7498938\nComments URL: https://news.ycombinator.com/item?id=49843266\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "hogwash",
+      "published": "Fri, 25 Sep 2026 11:46:45 +0000"
+    },
+    {
+      "name": "The Pentagon wants $30M to build an AI-powered lie detector",
+      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "summary": "Article URL: https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/\nComments URL: https://news.ycombinator.com/item?id=49842808\nPoints: 6\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "joozio",
+      "published": "Fri, 25 Sep 2026 11:01:16 +0000"
+    },
+    {
+      "name": "Uproar in France over award-winning author accused of using AI",
+      "url": "https://www.bbc.com/news/articles/ck7v4y45893go",
+      "summary": "Article URL: https://www.bbc.com/news/articles/ck7v4y45893go\nComments URL: https://news.ycombinator.com/item?id=49842707\nPoints: 30\n# Comments: 70",
+      "source": "hacker_news",
+      "score": null,
+      "author": "harscoat",
+      "published": "Fri, 25 Sep 2026 10:48:32 +0000"
+    },
+    {
+      "name": "Four things I learned throughout the last years working with AI",
+      "url": "https://www.ssp.sh/brain/what-i-learned-writing-with-ai/",
+      "summary": "Article URL: https://www.ssp.sh/brain/what-i-learned-writing-with-ai/\nComments URL: https://news.ycombinator.com/item?id=49842633\nPoints: 3\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "zazuke",
+      "published": "Fri, 25 Sep 2026 10:38:25 +0000"
+    },
+    {
+      "name": "AI-Powered Fuzzing with the GitHub Security Lab Taskflow Agent",
+      "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
+      "summary": "Article URL: https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/\nComments URL: https://news.ycombinator.com/item?id=49842514\nPoints: 2\n# C",
+      "source": "hacker_news",
+      "score": null,
+      "author": "joshcsimmons",
+      "published": "Fri, 25 Sep 2026 10:23:41 +0000"
+    },
+    {
+      "name": "Tell HN: PSA: AI can make old games run on 64-bit macOS",
+      "url": "https://news.ycombinator.com/item?id=49842482",
+      "summary": "I had Aviary Attorney lying around (great game, whether or not you like Phoenix Wright) but it wouldn't run on newer macOS versions.I tried asking Astra on a whim, looked away, and within a few minute",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Razengan",
+      "published": "Fri, 25 Sep 2026 10:19:20 +0000"
+    },
+    {
+      "name": "Show HN: Rigo Studio | AI Farm Intelligence",
+      "url": "https://agririgo.com",
+      "summary": "Article URL: https://agririgo.com\nComments URL: https://news.ycombinator.com/item?id=49842358\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ernestkapesa",
+      "published": "Fri, 25 Sep 2026 10:02:08 +0000"
+    },
+    {
+      "name": "How Does AI Change Labor Demand? Evidence from 41 Countries",
+      "url": "https://digitaleconomy.stanford.edu/publication/how-does-ai-change-labor-demand/",
+      "summary": "Article URL: https://digitaleconomy.stanford.edu/publication/how-does-ai-change-labor-demand/\nComments URL: https://news.ycombinator.com/item?id=49842337\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "latentframe",
+      "published": "Fri, 25 Sep 2026 10:00:19 +0000"
+    }
+  ]
+}
