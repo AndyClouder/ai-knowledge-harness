@@ -1,0 +1,83 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-09-26T12:39:10.541461+00:00",
+  "items": [
+    {
+      "name": "asokurasu/text-humanizer",
+      "url": "https://github.com/asokurasu/text-humanizer",
+      "summary": "A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline. ",
+      "stars": 722,
+      "language": "Python",
+      "topics": [
+        "ai-detector",
+        "ai-detector-bypass",
+        "ai-detectors",
+        "text-humanizer",
+        "zerogpt",
+        "zerogpt-bypass"
+      ]
+    },
+    {
+      "name": "yukitorido/short-video-generator-AI",
+      "url": "https://github.com/yukitorido/short-video-generator-AI",
+      "summary": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
+      "stars": 714,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "llm",
+        "llm-tools",
+        "opus-clip",
+        "opus-clip-alternative",
+        "short-video",
+        "short-video-automation",
+        "short-video-generator",
+        "short-video-maker"
+      ]
+    },
+    {
+      "name": "jev-chat/jev-chat-windows",
+      "url": "https://github.com/jev-chat/jev-chat-windows",
+      "summary": "JevChat-Windows：聊天窗口旁挂的回复辅助。窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动",
+      "stars": 582,
+      "language": "Python",
+      "topics": [
+        "chat-assistant",
+        "jev",
+        "llm",
+        "local-first",
+        "ocr",
+        "privacy",
+        "pyqt",
+        "python",
+        "wechat",
+        "windows"
+      ]
+    },
+    {
+      "name": "rmalde/minecraft-agent",
+      "url": "https://github.com/rmalde/minecraft-agent",
+      "summary": "Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
+      "stars": 552,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "name": "Haleclipse/CometixCode",
+      "url": "https://github.com/Haleclipse/CometixCode",
+      "summary": "An unofficial Rust reimplementation of Anthropic's Claude Code terminal UI, built on iocraft",
+      "stars": 549,
+      "language": "Rust",
+      "topics": []
+    },
+    {
+      "name": "Rizzo-AI-Academy/rizzo-flow",
+      "url": "https://github.com/Rizzo-AI-Academy/rizzo-flow",
+      "summary": "The open, local take on Jev: typed decisions from an LLM, without generating a single token",
+      "stars": 539,
+      "language": "Python",
+      "topics": []
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+[
+  {
+    "id": "47cb5dee-69d9-4615-b486-6091e55bcbae",
+    "title": "asokurasu/text-humanizer",
+    "source_url": "https://github.com/asokurasu/text-humanizer",
+    "source": "unknown",
+    "collected_at": "2026-09-26T12:39:38.349277+00:00",
+    "analyzed_at": "2026-09-26T12:39:38.349277+00:00",
+    "summary": "A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline. ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 722,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "33839661-edb9-4c46-8cd4-cb8801852993",
+    "title": "yukitorido/short-video-generator-AI",
+    "source_url": "https://github.com/yukitorido/short-video-generator-AI",
+    "source": "unknown",
+    "collected_at": "2026-09-26T12:39:39.564209+00:00",
+    "analyzed_at": "2026-09-26T12:39:39.564209+00:00",
+    "summary": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 714,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "6c9a7062-f346-41db-a3fc-22b605a1a03f",
+    "title": "jev-chat/jev-chat-windows",
+    "source_url": "https://github.com/jev-chat/jev-chat-windows",
+    "source": "unknown",
+    "collected_at": "2026-09-26T12:39:40.803074+00:00",
+    "analyzed_at": "2026-09-26T12:39:40.803074+00:00",
+    "summary": "JevChat-Windows：聊天窗口旁挂的回复辅助。窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 582,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "0187d885-32e5-496c-880a-d377eebb763c",
+    "title": "rmalde/minecraft-agent",
+    "source_url": "https://github.com/rmalde/minecraft-agent",
+    "source": "unknown",
+    "collected_at": "2026-09-26T12:39:42.010150+00:00",
+    "analyzed_at": "2026-09-26T12:39:42.010150+00:00",
+    "summary": "Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 552,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "f5d29fd8-c3a9-4054-8434-62af4cfa0c21",
+    "title": "Haleclipse/CometixCode",
+    "source_url": "https://github.com/Haleclipse/CometixCode",
+    "source": "unknown",
+    "collected_at": "2026-09-26T12:39:43.224521+00:00",
+    "analyzed_at": "2026-09-26T12:39:43.224521+00:00",
+    "summary": "An unofficial Rust reimplementation of Anthropic's Claude Code terminal UI, built on iocraft",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 549,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "a23d5d2e-bd2f-42c8-9c2b-b659a5239e10",
+    "title": "Rizzo-AI-Academy/rizzo-flow",
+    "source_url": "https://github.com/Rizzo-AI-Academy/rizzo-flow",
+    "source": "unknown",
+    "collected_at": "2026-09-26T12:39:44.437515+00:00",
+    "analyzed_at": "2026-09-26T12:39:44.437515+00:00",
+    "summary": "The open, local take on Jev: typed decisions from an LLM, without generating a single token",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 539,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "c5d5a42b-69eb-4788-a670-76b4c0146947",
+    "title": "OpenAI says its AI agents posted user images online in error",
+    "source_url": "https://techxplore.com/news/2026-09-openai-ai-agents-user-images.html",
+    "source": "hacker_news",
+    "collected_at": "2026-09-26T12:39:45.646381+00:00",
+    "analyzed_at": "2026-09-26T12:39:45.646381+00:00",
+    "summary": "Article URL: https://techxplore.com/news/2026-09-openai-ai-agents-user-images.html\nComments URL: https://news.ycombinator.com/item?id=49855863\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "geox",
+      "language": null
+    }
+  },
+  {
+    "id": "f572f5e8-1406-4aff-bfdf-4f1ed0a743de",
+    "title": "Chinese AI models surge in global popularity – and Washington is worried",
+    "source_url": "https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html",
+    "source": "hacker_news",
+    "collected_at": "2026-09-26T12:39:46.854161+00:00",
+    "analyzed_at": "2026-09-26T12:39:46.854161+00:00",
+    "summary": "Article URL: https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html\nComments URL: https://news.ycombinator.com/item?id=49855784\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pseudolus",
+      "language": null
+    }
+  },
+  {
+    "id": "963742c0-951a-4fa9-967e-3034329a3142",
+    "title": "Is the AI Bubble About to Be Tested?",
+    "source_url": "https://www.youtube.com/watch?v=T-oXyXwD6sE",
+    "source": "hacker_news",
+    "collected_at": "2026-09-26T12:39:48.064506+00:00",
+    "analyzed_at": "2026-09-26T12:39:48.064506+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=T-oXyXwD6sE\nComments URL: https://news.ycombinator.com/item?id=49855610\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Betelbuddy",
+      "language": null
+    }
+  },
+  {
+    "id": "bbe53982-ed0c-42f4-a896-d505a168cf70",
+    "title": "Restricting AI Agents When No Human Is Watching",
+    "source_url": "https://a16y.ai/blog/securing-ai-agents-when-no-human-is-watching",
+    "source": "hacker_news",
+    "collected_at": "2026-09-26T12:39:49.270956+00:00",
+    "analyzed_at": "2026-09-26T12:39:49.270956+00:00",
+    "summary": "Article URL: https://a16y.ai/blog/securing-ai-agents-when-no-human-is-watching\nComments URL: https://news.ycombinator.com/item?id=49855568\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "doitmyaiway",
+      "language": null
+    }
+  },
+  {
+    "id": "3ecc8779-99d2-4d4d-aba8-bda4f91b8807",
+    "title": "Focal Prompt: tools for studying how AI systems allocate attention",
+    "source_url": "https://www.focalprompt.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-26T12:39:50.483661+00:00",
+    "analyzed_at": "2026-09-26T12:39:50.483661+00:00",
+    "summary": "Article URL: https://www.focalprompt.com/\nComments URL: https://news.ycombinator.com/item?id=49855538\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "goncalossilva",
+      "language": null
+    }
+  },
+  {
+    "id": "63061f76-2bf3-4c38-8716-12b9afb40fc8",
+    "title": "Agentboxd – Email inboxes for AI agents that treat mail as hostile",
+    "source_url": "https://agentboxd.com",
+    "source": "hacker_news",
+    "collected_at": "2026-09-26T12:39:51.690968+00:00",
+    "analyzed_at": "2026-09-26T12:39:51.690968+00:00",
+    "summary": "Article URL: https://agentboxd.com\nComments URL: https://news.ycombinator.com/item?id=49855372\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "karamfrederic",
+      "language": null
+    }
+  },
+  {
+    "id": "d8168cc4-b973-4c37-924a-54fdb8e4c3fd",
+    "title": "Alex Karp: AI Models Are Stealing Your Data and the AI Safety Truth [video]",
+    "source_url": "https://www.youtube.com/watch?v=2YVCdwvG548",
+    "source": "hacker_news",
+    "collected_at": "2026-09-26T12:39:52.899129+00:00",
+    "analyzed_at": "2026-09-26T12:39:52.899129+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=2YVCdwvG548\nComments URL: https://news.ycombinator.com/item?id=49855238\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "baranul",
+      "language": null
+    }
+  },
+  {
+    "id": "24eb28bb-07a3-486e-bf35-235a08ac85c3",
+    "title": "One Month Without AI",
+    "source_url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+    "source": "hacker_news",
+    "collected_at": "2026-09-26T12:39:54.107853+00:00",
+    "analyzed_at": "2026-09-26T12:39:54.107853+00:00",
+    "summary": "Article URL: https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html\nComments URL: https://news.ycombinator.com/item?id=49855018\nPoints: 79\n# Comments: 56",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "saibotk",
+      "language": null
+    }
+  },
+  {
+    "id": "76135352-93bf-4aa9-8b06-0ddfb2398d89",
+    "title": "Show HN: App2Api – Give your AI the API behind your app",
+    "source_url": "https://app2api.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-26T12:39:55.314654+00:00",
+    "analyzed_at": "2026-09-26T12:39:55.314654+00:00",
+    "summary": "Article URL: https://app2api.com/\nComments URL: https://news.ycombinator.com/item?id=49854783\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "flkdnfsnsf",
+      "language": null
+    }
+  },
+  {
+    "id": "28e78fd7-a02b-4f39-b8a5-fe3b9fe4192b",
+    "title": "Flashcat – a local AI assistant for the Mac terminal that asks first",
+    "source_url": "https://github.com/TomTomsen765/flashcat",
+    "source": "hacker_news",
+    "collected_at": "2026-09-26T12:39:56.522913+00:00",
+    "analyzed_at": "2026-09-26T12:39:56.522913+00:00",
+    "summary": "Article URL: https://github.com/TomTomsen765/flashcat\nComments URL: https://news.ycombinator.com/item?id=49854766\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "TomTomsen",
+      "language": null
+    }
+  },
+  {
+    "id": "b20b9e1d-7cfb-4db3-84ef-89ca8e91a5a1",
+    "title": "Using Pomodoro to limit interaction with AI",
+    "source_url": "https://anaivebidder.com/posts/the-agentic-pomodoro-iterating-faster/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-26T12:39:57.732995+00:00",
+    "analyzed_at": "2026-09-26T12:39:57.732995+00:00",
+    "summary": "Article URL: https://anaivebidder.com/posts/the-agentic-pomodoro-iterating-faster/\nComments URL: https://news.ycombinator.com/item?id=49854538\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rbnafo",
+      "language": null
+    }
+  },
+  {
+    "id": "d902f027-94dd-4ce2-b5f5-49c49a97c733",
+    "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+    "source_url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-26T12:39:58.940139+00:00",
+    "analyzed_at": "2026-09-26T12:39:58.940139+00:00",
+    "summary": "Article URL: https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/\nComments URL: https://news.ycombinator.com/item?id=49854528\nPoints: ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ndsipa_pomu",
+      "language": null
+    }
+  },
+  {
+    "id": "0bf32b63-5afb-4d47-bf8c-0e46c4e763cb",
+    "title": "Linux Kernel Developers Consider Adding Agents.md to Help Guide AI/LLM Agents",
+    "source_url": "https://www.phoronix.com/news/Linux-Considers-AGENTS-MD",
+    "source": "hacker_news",
+    "collected_at": "2026-09-26T12:40:00.146968+00:00",
+    "analyzed_at": "2026-09-26T12:40:00.146968+00:00",
+    "summary": "Article URL: https://www.phoronix.com/news/Linux-Considers-AGENTS-MD\nComments URL: https://news.ycombinator.com/item?id=49854439\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "signa11",
+      "language": null
+    }
+  },
+  {
+    "id": "5a1b1353-200f-4f56-bb61-595d6010a09c",
+    "title": "Nobody wanted an \"AI PC,\" so Microsoft stopped calling it that",
+    "source_url": "https://www.techspot.com/news/113985-nobody-wanted-ai-pc-microsoft-stopped-calling.html",
+    "source": "hacker_news",
+    "collected_at": "2026-09-26T12:40:01.353229+00:00",
+    "analyzed_at": "2026-09-26T12:40:01.353229+00:00",
+    "summary": "Article URL: https://www.techspot.com/news/113985-nobody-wanted-ai-pc-microsoft-stopped-calling.html\nComments URL: https://news.ycombinator.com/item?id=49854382\nPoints: 6\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "theanonymousone",
+      "language": null
+    }
+  }
+]
