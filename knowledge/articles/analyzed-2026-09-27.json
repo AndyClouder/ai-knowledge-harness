@@ -1,0 +1,107 @@
+[
+  {
+    "id": "f21686cb-c61b-49c8-b7ee-0e33c16c9835",
+    "title": "supermemoryai/company-brain",
+    "source_url": "https://github.com/supermemoryai/company-brain",
+    "source": "unknown",
+    "collected_at": "2026-09-27T13:31:13.287780+00:00",
+    "analyzed_at": "2026-09-27T13:31:13.287780+00:00",
+    "summary": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 621,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "b7243150-c216-423d-854b-d3510755d8cd",
+    "title": "ollaya-dev/ollaya",
+    "source_url": "https://github.com/ollaya-dev/ollaya",
+    "source": "unknown",
+    "collected_at": "2026-09-27T13:31:14.512585+00:00",
+    "analyzed_at": "2026-09-27T13:31:14.512585+00:00",
+    "summary": "Run open decision models locally: pull and serve Laya, decider, NLI and GLiClass behind a TypeSafe-compatible API. Ollama for decision models.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 568,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "b772cc6f-0cb3-4851-9f42-cabbef90c62b",
+    "title": "alexgreensh/anidoodle",
+    "source_url": "https://github.com/alexgreensh/anidoodle",
+    "source": "unknown",
+    "collected_at": "2026-09-27T13:31:15.737504+00:00",
+    "analyzed_at": "2026-09-27T13:31:15.737504+00:00",
+    "summary": "Art and animation, written as code. Illustrations, loops, interactive web art, stickers and scored films in dozens of styles, identical on every render.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 524,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "e47ecd11-edaa-46b0-9d53-be0507ff2539",
+    "title": "wuyoscar/jev-skill",
+    "source_url": "https://github.com/wuyoscar/jev-skill",
+    "source": "unknown",
+    "collected_at": "2026-09-27T13:31:16.997823+00:00",
+    "analyzed_at": "2026-09-27T13:31:16.997823+00:00",
+    "summary": "An awesome collection of Jev use cases, workflows, and agent skills.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 504,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "14911baf-c117-4a5d-a60b-bca0e3b47e57",
+    "title": "rgem227/knoweldge-base",
+    "source_url": "https://github.com/rgem227/knoweldge-base",
+    "source": "unknown",
+    "collected_at": "2026-09-27T13:31:18.227046+00:00",
+    "analyzed_at": "2026-09-27T13:31:18.227046+00:00",
+    "summary": "Personal or team knowledge base, supports MCP API calls.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 496,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  }
+]

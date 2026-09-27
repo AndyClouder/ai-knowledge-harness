@@ -1,0 +1,81 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-09-27T13:30:35.383184+00:00",
+  "items": [
+    {
+      "name": "supermemoryai/company-brain",
+      "url": "https://github.com/supermemoryai/company-brain",
+      "summary": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
+      "stars": 621,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "ollaya-dev/ollaya",
+      "url": "https://github.com/ollaya-dev/ollaya",
+      "summary": "Run open decision models locally: pull and serve Laya, decider, NLI and GLiClass behind a TypeSafe-compatible API. Ollama for decision models.",
+      "stars": 568,
+      "language": "Rust",
+      "topics": [
+        "calibration",
+        "classification",
+        "decision-models",
+        "gliclass",
+        "jev",
+        "laya",
+        "llm-routing",
+        "local-inference",
+        "nli",
+        "ollama",
+        "onnx",
+        "onnxruntime",
+        "rust",
+        "typesafe",
+        "zero-shot-classification"
+      ]
+    },
+    {
+      "name": "alexgreensh/anidoodle",
+      "url": "https://github.com/alexgreensh/anidoodle",
+      "summary": "Art and animation, written as code. Illustrations, loops, interactive web art, stickers and scored films in dozens of styles, identical on every render.",
+      "stars": 524,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "animation",
+        "canvas",
+        "claude-code",
+        "claude-plugin",
+        "claude-skills",
+        "codex-plugin",
+        "creative-code",
+        "creative-coding",
+        "creative-tools",
+        "deterministic",
+        "generative-art",
+        "hand-drawn",
+        "illustration",
+        "plugin",
+        "procedural-generation",
+        "skill"
+      ]
+    },
+    {
+      "name": "wuyoscar/jev-skill",
+      "url": "https://github.com/wuyoscar/jev-skill",
+      "summary": "An awesome collection of Jev use cases, workflows, and agent skills.",
+      "stars": 504,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "rgem227/knoweldge-base",
+      "url": "https://github.com/rgem227/knoweldge-base",
+      "summary": "Personal or team knowledge base, supports MCP API calls.",
+      "stars": 496,
+      "language": "Python",
+      "topics": []
+    }
+  ]
+}
