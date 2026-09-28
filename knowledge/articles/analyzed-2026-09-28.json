@@ -1,0 +1,128 @@
+[
+  {
+    "id": "afbacbb4-62b3-4db1-ba71-25bf9263b4cf",
+    "title": "dzhng/jevgrep",
+    "source_url": "https://github.com/dzhng/jevgrep",
+    "source": "unknown",
+    "collected_at": "2026-09-28T16:25:51.325777+00:00",
+    "analyzed_at": "2026-09-28T16:25:51.325777+00:00",
+    "summary": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1215,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "fb77274b-1716-46c0-b6a5-5c4688f93339",
+    "title": "Niko1221/Strata",
+    "source_url": "https://github.com/Niko1221/Strata",
+    "source": "unknown",
+    "collected_at": "2026-09-28T16:25:52.516221+00:00",
+    "analyzed_at": "2026-09-28T16:25:52.516221+00:00",
+    "summary": "Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 904,
+      "score": null,
+      "author": null,
+      "language": "C++"
+    }
+  },
+  {
+    "id": "c1bd53ab-9f40-4f7a-97e0-bb462d8050e9",
+    "title": "feitangyuan/onetake",
+    "source_url": "https://github.com/feitangyuan/onetake",
+    "source": "unknown",
+    "collected_at": "2026-09-28T16:25:53.706484+00:00",
+    "analyzed_at": "2026-09-28T16:25:53.706484+00:00",
+    "summary": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and featur",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 706,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "7435b380-6ffe-410c-8790-12b33a34e29e",
+    "title": "OnlistTeam/ai-manager",
+    "source_url": "https://github.com/OnlistTeam/ai-manager",
+    "source": "unknown",
+    "collected_at": "2026-09-28T16:25:54.907266+00:00",
+    "analyzed_at": "2026-09-28T16:25:54.907266+00:00",
+    "summary": "AI Manager desktop application for AI coding tools",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 690,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "ed06bd16-6d6e-4761-9d55-4efbb80f1901",
+    "title": "Alex314618-create/JevRev",
+    "source_url": "https://github.com/Alex314618-create/JevRev",
+    "source": "unknown",
+    "collected_at": "2026-09-28T16:25:56.266055+00:00",
+    "analyzed_at": "2026-09-28T16:25:56.266055+00:00",
+    "summary": "An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside. ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 555,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "1d94d335-5edb-4dcb-8ac3-b13ccba8375f",
+    "title": "JohnHeibel/ClaudeAnimationBase",
+    "source_url": "https://github.com/JohnHeibel/ClaudeAnimationBase",
+    "source": "unknown",
+    "collected_at": "2026-09-28T16:25:57.609569+00:00",
+    "analyzed_at": "2026-09-28T16:25:57.609569+00:00",
+    "summary": "A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 533,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  }
+]
