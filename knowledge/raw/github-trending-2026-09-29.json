@@ -1,0 +1,114 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-09-29T14:35:29.086751+00:00",
+  "items": [
+    {
+      "name": "KKKKhazix/AIHOT",
+      "url": "https://github.com/KKKKhazix/AIHOT",
+      "summary": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "stars": 2631,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "llm",
+        "mcp",
+        "news-aggregator",
+        "rss",
+        "self-hosted"
+      ]
+    },
+    {
+      "name": "kaankiziltug/logo-design-skill",
+      "url": "https://github.com/kaankiziltug/logo-design-skill",
+      "summary": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
+      "stars": 726,
+      "language": "HTML",
+      "topics": [
+        "agent-skills",
+        "branding",
+        "claude",
+        "claude-skills",
+        "codex",
+        "gemini-cli",
+        "logo-design",
+        "svg"
+      ]
+    },
+    {
+      "name": "lemomo-ai/lemo-opuscar",
+      "url": "https://github.com/lemomo-ai/lemo-opuscar",
+      "summary": "43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码",
+      "stars": 587,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "ai-video",
+        "animation",
+        "canvas",
+        "claude",
+        "claude-code",
+        "creative-coding",
+        "ffmpeg",
+        "filmmaking",
+        "motion-graphics",
+        "prompt-library",
+        "text-to-speech",
+        "threejs",
+        "video-production",
+        "webgl"
+      ]
+    },
+    {
+      "name": "angusdevgo/Seep-Reverse-Lab",
+      "url": "https://github.com/angusdevgo/Seep-Reverse-Lab",
+      "summary": "Agent-Native multi-platform reverse engineering and CWE-602 client-side authorization audit workbench.",
+      "stars": 555,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "samyost1/3dicon",
+      "url": "https://github.com/samyost1/3dicon",
+      "summary": "One prompt in, a looping animated 3D icon out — with real transparency. A Claude Code skill.",
+      "stars": 505,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "Liuziyu77/Valen",
+      "url": "https://github.com/Liuziyu77/Valen",
+      "summary": "Train a Jev-like multimodal model by yourself. System One Model, now with vision.",
+      "stars": 486,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "glanderness/BeefTV",
+      "url": "https://github.com/glanderness/BeefTV",
+      "summary": "Local-first, lightweight, AI-native video workspace.",
+      "stars": 468,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "amitshekhariitbhu/ai-system-design",
+      "url": "https://github.com/amitshekhariitbhu/ai-system-design",
+      "summary": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
+      "stars": 468,
+      "language": "Markdown",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-engineering",
+        "ai-system",
+        "ai-system-design",
+        "ai-systems",
+        "ai-systems-design",
+        "llm",
+        "system-design",
+        "system-design-interview"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+[
+  {
+    "id": "102d7adc-885c-4983-8a09-2ca45adeba38",
+    "title": "KKKKhazix/AIHOT",
+    "source_url": "https://github.com/KKKKhazix/AIHOT",
+    "source": "unknown",
+    "collected_at": "2026-09-29T14:35:40.052411+00:00",
+    "analyzed_at": "2026-09-29T14:35:40.052411+00:00",
+    "summary": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 2631,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "4228d9b7-33c0-4fce-bd9b-c1652cbf35a4",
+    "title": "kaankiziltug/logo-design-skill",
+    "source_url": "https://github.com/kaankiziltug/logo-design-skill",
+    "source": "unknown",
+    "collected_at": "2026-09-29T14:35:41.294110+00:00",
+    "analyzed_at": "2026-09-29T14:35:41.294110+00:00",
+    "summary": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 726,
+      "score": null,
+      "author": null,
+      "language": "HTML"
+    }
+  },
+  {
+    "id": "571a1cc6-a510-4f79-a6e3-217aa710b457",
+    "title": "lemomo-ai/lemo-opuscar",
+    "source_url": "https://github.com/lemomo-ai/lemo-opuscar",
+    "source": "unknown",
+    "collected_at": "2026-09-29T14:35:42.557582+00:00",
+    "analyzed_at": "2026-09-29T14:35:42.557582+00:00",
+    "summary": "43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 587,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "e9cb5e63-0c66-4913-9162-fb1a2540871d",
+    "title": "angusdevgo/Seep-Reverse-Lab",
+    "source_url": "https://github.com/angusdevgo/Seep-Reverse-Lab",
+    "source": "unknown",
+    "collected_at": "2026-09-29T14:35:43.819195+00:00",
+    "analyzed_at": "2026-09-29T14:35:43.819195+00:00",
+    "summary": "Agent-Native multi-platform reverse engineering and CWE-602 client-side authorization audit workbench.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 555,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "2542b515-36f8-44cb-8b9c-cad49709b4fc",
+    "title": "samyost1/3dicon",
+    "source_url": "https://github.com/samyost1/3dicon",
+    "source": "unknown",
+    "collected_at": "2026-09-29T14:35:45.078823+00:00",
+    "analyzed_at": "2026-09-29T14:35:45.078823+00:00",
+    "summary": "One prompt in, a looping animated 3D icon out — with real transparency. A Claude Code skill.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 505,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "a05651d9-79e6-42cc-9282-2049aadad397",
+    "title": "Liuziyu77/Valen",
+    "source_url": "https://github.com/Liuziyu77/Valen",
+    "source": "unknown",
+    "collected_at": "2026-09-29T14:35:46.343219+00:00",
+    "analyzed_at": "2026-09-29T14:35:46.343219+00:00",
+    "summary": "Train a Jev-like multimodal model by yourself. System One Model, now with vision.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 486,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "2bd484b2-0f06-497e-bf7e-73ff5d16ecd2",
+    "title": "glanderness/BeefTV",
+    "source_url": "https://github.com/glanderness/BeefTV",
+    "source": "unknown",
+    "collected_at": "2026-09-29T14:35:47.604099+00:00",
+    "analyzed_at": "2026-09-29T14:35:47.604099+00:00",
+    "summary": "Local-first, lightweight, AI-native video workspace.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 468,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "2cb576b4-06dd-487f-bcbe-b4f54a0be4ec",
+    "title": "amitshekhariitbhu/ai-system-design",
+    "source_url": "https://github.com/amitshekhariitbhu/ai-system-design",
+    "source": "unknown",
+    "collected_at": "2026-09-29T14:35:48.864427+00:00",
+    "analyzed_at": "2026-09-29T14:35:48.864427+00:00",
+    "summary": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 468,
+      "score": null,
+      "author": null,
+      "language": "Markdown"
+    }
+  },
+  {
+    "id": "829741da-4780-4714-901b-8d6579e14113",
+    "title": "I let AI agents write most of a live-trading codebase",
+    "source_url": "https://redgeoff.com/posts/ai-agents-test-gate/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-29T14:35:50.124634+00:00",
+    "analyzed_at": "2026-09-29T14:35:50.124634+00:00",
+    "summary": "Article URL: https://redgeoff.com/posts/ai-agents-test-gate/\nComments URL: https://news.ycombinator.com/item?id=49894045\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "redgeoff",
+      "language": null
+    }
+  },
+  {
+    "id": "4febbfc7-428b-4c1c-87af-39a1eedbaed4",
+    "title": "What's the Future for Pure Math Research in the Age of AI?",
+    "source_url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-29T14:35:51.386666+00:00",
+    "analyzed_at": "2026-09-29T14:35:51.386666+00:00",
+    "summary": "Article URL: https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/\nComments URL: https://news.ycombinator.com/item?id=49893816\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Michelangelo11",
+      "language": null
+    }
+  },
+  {
+    "id": "1c7b5ab2-96ff-4d08-9c9f-e3f468fa2d0a",
+    "title": "Why Secret Collaboration Is an AI Agent Security Risk",
+    "source_url": "https://spectrum.ieee.org/ai-agent-security",
+    "source": "hacker_news",
+    "collected_at": "2026-09-29T14:35:52.647312+00:00",
+    "analyzed_at": "2026-09-29T14:35:52.647312+00:00",
+    "summary": "Article URL: https://spectrum.ieee.org/ai-agent-security\nComments URL: https://news.ycombinator.com/item?id=49893815\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rbanffy",
+      "language": null
+    }
+  },
+  {
+    "id": "cc9e1b58-1f94-4b12-808d-d7771d4c0887",
+    "title": "Shopify adds WebMCP checkout for browser-based AI agents",
+    "source_url": "https://shopify.dev/docs/agents/carts-and-checkout/checkout-webmcp",
+    "source": "hacker_news",
+    "collected_at": "2026-09-29T14:35:53.906962+00:00",
+    "analyzed_at": "2026-09-29T14:35:53.906962+00:00",
+    "summary": "Article URL: https://shopify.dev/docs/agents/carts-and-checkout/checkout-webmcp\nComments URL: https://news.ycombinator.com/item?id=49893726\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "bluepeter",
+      "language": null
+    }
+  },
+  {
+    "id": "e84f2923-91d0-4111-b67f-9c027e8797b9",
+    "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
+    "source_url": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions",
+    "source": "hacker_news",
+    "collected_at": "2026-09-29T14:35:55.166377+00:00",
+    "analyzed_at": "2026-09-29T14:35:55.166377+00:00",
+    "summary": "Article URL: https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions\nComments URL: https://news.ycombinator.com/item?id=49893709\nPoints: 10\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "dkobia",
+      "language": null
+    }
+  },
+  {
+    "id": "5b4bb833-91e6-4067-b246-8c4216372fe2",
+    "title": "AI coding models state their assumptions only 46% of the time",
+    "source_url": "https://bito.ai/benchmarks/ai-coding-model-cost/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-29T14:35:56.417902+00:00",
+    "analyzed_at": "2026-09-29T14:35:56.417902+00:00",
+    "summary": "Article URL: https://bito.ai/benchmarks/ai-coding-model-cost/\nComments URL: https://news.ycombinator.com/item?id=49893607\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "truly_furqan",
+      "language": null
+    }
+  },
+  {
+    "id": "219cbce4-04a0-46c2-9407-74533ab6e3f7",
+    "title": "ListingLift – AI Listings for Etsy, eBay, and Shopify",
+    "source_url": "https://www.listinglift.online/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-29T14:35:57.670801+00:00",
+    "analyzed_at": "2026-09-29T14:35:57.670801+00:00",
+    "summary": "Article URL: https://www.listinglift.online/\nComments URL: https://news.ycombinator.com/item?id=49893588\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "joetotman",
+      "language": null
+    }
+  },
+  {
+    "id": "f39324d1-2010-4aff-889b-fe02fcccd350",
+    "title": "AI Delirium",
+    "source_url": "https://piece-of-cake.no/blog#aidelirium",
+    "source": "hacker_news",
+    "collected_at": "2026-09-29T14:35:58.924369+00:00",
+    "analyzed_at": "2026-09-29T14:35:58.924369+00:00",
+    "summary": "Article URL: https://piece-of-cake.no/blog#aidelirium\nComments URL: https://news.ycombinator.com/item?id=49893566\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "StianOvrevage",
+      "language": null
+    }
+  },
+  {
+    "id": "592235c7-902c-454a-a0cc-79f1a45623b0",
+    "title": "Investors vehemently hate AI-generated decks, how do you get around that?",
+    "source_url": "https://kayodeodeleye.substack.com/p/how-to-build-custom-decks-with-claude",
+    "source": "hacker_news",
+    "collected_at": "2026-09-29T14:36:00.177723+00:00",
+    "analyzed_at": "2026-09-29T14:36:00.177723+00:00",
+    "summary": "Article URL: https://kayodeodeleye.substack.com/p/how-to-build-custom-decks-with-claude\nComments URL: https://news.ycombinator.com/item?id=49893511\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "kayovin1",
+      "language": null
+    }
+  },
+  {
+    "id": "2bc0ca07-345a-4b46-bb13-904a70f25345",
+    "title": "Show HN: Misanthropic – an AI that's honest about how it feels about you",
+    "source_url": "https://misanthropic.chat",
+    "source": "hacker_news",
+    "collected_at": "2026-09-29T14:36:01.432215+00:00",
+    "analyzed_at": "2026-09-29T14:36:01.432215+00:00",
+    "summary": "Article URL: https://misanthropic.chat\nComments URL: https://news.ycombinator.com/item?id=49893427\nPoints: 3\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "yaskyj",
+      "language": null
+    }
+  },
+  {
+    "id": "c368af4a-0492-49e1-a38b-73bee959e860",
+    "title": "Show HN: Investment Bets – market bets at live prices, humans or AI",
+    "source_url": "https://investment-bets.com",
+    "source": "hacker_news",
+    "collected_at": "2026-09-29T14:36:02.724657+00:00",
+    "analyzed_at": "2026-09-29T14:36:02.724657+00:00",
+    "summary": "I've long been an index-investing type of person, but last year I started making some side bets, especially in tech (some inspired by WSB). I was sharing them with friends and wanted to simplify that.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "php_survivor",
+      "language": null
+    }
+  },
+  {
+    "id": "a688860f-06c3-4740-b0cb-a63617031a71",
+    "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
+    "source_url": "https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html",
+    "source": "hacker_news",
+    "collected_at": "2026-09-29T14:36:03.977507+00:00",
+    "analyzed_at": "2026-09-29T14:36:03.977507+00:00",
+    "summary": "Article URL: https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html\nComments URL: https://news.ycombinator.com/item?id=49893350\nPoints: 1\n# Comme",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "oscarfr",
+      "language": null
+    }
+  }
+]

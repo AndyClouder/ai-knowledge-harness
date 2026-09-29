@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-09-29T14:35:38.876780+00:00",
+  "items": [
+    {
+      "name": "I let AI agents write most of a live-trading codebase",
+      "url": "https://redgeoff.com/posts/ai-agents-test-gate/",
+      "summary": "Article URL: https://redgeoff.com/posts/ai-agents-test-gate/\nComments URL: https://news.ycombinator.com/item?id=49894045\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "redgeoff",
+      "published": "Tue, 29 Sep 2026 14:34:48 +0000"
+    },
+    {
+      "name": "What's the Future for Pure Math Research in the Age of AI?",
+      "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
+      "summary": "Article URL: https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/\nComments URL: https://news.ycombinator.com/item?id=49893816\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Michelangelo11",
+      "published": "Tue, 29 Sep 2026 14:21:39 +0000"
+    },
+    {
+      "name": "Why Secret Collaboration Is an AI Agent Security Risk",
+      "url": "https://spectrum.ieee.org/ai-agent-security",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-agent-security\nComments URL: https://news.ycombinator.com/item?id=49893815\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rbanffy",
+      "published": "Tue, 29 Sep 2026 14:21:38 +0000"
+    },
+    {
+      "name": "Shopify adds WebMCP checkout for browser-based AI agents",
+      "url": "https://shopify.dev/docs/agents/carts-and-checkout/checkout-webmcp",
+      "summary": "Article URL: https://shopify.dev/docs/agents/carts-and-checkout/checkout-webmcp\nComments URL: https://news.ycombinator.com/item?id=49893726\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "bluepeter",
+      "published": "Tue, 29 Sep 2026 14:16:41 +0000"
+    },
+    {
+      "name": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
+      "url": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions",
+      "summary": "Article URL: https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions\nComments URL: https://news.ycombinator.com/item?id=49893709\nPoints: 10\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "dkobia",
+      "published": "Tue, 29 Sep 2026 14:15:24 +0000"
+    },
+    {
+      "name": "AI coding models state their assumptions only 46% of the time",
+      "url": "https://bito.ai/benchmarks/ai-coding-model-cost/",
+      "summary": "Article URL: https://bito.ai/benchmarks/ai-coding-model-cost/\nComments URL: https://news.ycombinator.com/item?id=49893607\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "truly_furqan",
+      "published": "Tue, 29 Sep 2026 14:09:29 +0000"
+    },
+    {
+      "name": "ListingLift – AI Listings for Etsy, eBay, and Shopify",
+      "url": "https://www.listinglift.online/",
+      "summary": "Article URL: https://www.listinglift.online/\nComments URL: https://news.ycombinator.com/item?id=49893588\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "joetotman",
+      "published": "Tue, 29 Sep 2026 14:08:37 +0000"
+    },
+    {
+      "name": "AI Delirium",
+      "url": "https://piece-of-cake.no/blog#aidelirium",
+      "summary": "Article URL: https://piece-of-cake.no/blog#aidelirium\nComments URL: https://news.ycombinator.com/item?id=49893566\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "StianOvrevage",
+      "published": "Tue, 29 Sep 2026 14:07:28 +0000"
+    },
+    {
+      "name": "Investors vehemently hate AI-generated decks, how do you get around that?",
+      "url": "https://kayodeodeleye.substack.com/p/how-to-build-custom-decks-with-claude",
+      "summary": "Article URL: https://kayodeodeleye.substack.com/p/how-to-build-custom-decks-with-claude\nComments URL: https://news.ycombinator.com/item?id=49893511\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "kayovin1",
+      "published": "Tue, 29 Sep 2026 14:04:58 +0000"
+    },
+    {
+      "name": "Show HN: Misanthropic – an AI that's honest about how it feels about you",
+      "url": "https://misanthropic.chat",
+      "summary": "Article URL: https://misanthropic.chat\nComments URL: https://news.ycombinator.com/item?id=49893427\nPoints: 3\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "yaskyj",
+      "published": "Tue, 29 Sep 2026 14:00:24 +0000"
+    },
+    {
+      "name": "Show HN: Investment Bets – market bets at live prices, humans or AI",
+      "url": "https://investment-bets.com",
+      "summary": "I've long been an index-investing type of person, but last year I started making some side bets, especially in tech (some inspired by WSB). I was sharing them with friends and wanted to simplify that.",
+      "source": "hacker_news",
+      "score": null,
+      "author": "php_survivor",
+      "published": "Tue, 29 Sep 2026 14:00:19 +0000"
+    },
+    {
+      "name": "Anthropic's IPO prospectus shows AI vision, surging costs",
+      "url": "https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html\nComments URL: https://news.ycombinator.com/item?id=49893350\nPoints: 1\n# Comme",
+      "source": "hacker_news",
+      "score": null,
+      "author": "oscarfr",
+      "published": "Tue, 29 Sep 2026 13:56:38 +0000"
+    },
+    {
+      "name": "On The Value of Doing a PhD in the Age of AI",
+      "url": "https://web.mit.edu/phillipi/www/writing/PhD-in-age-of-AI.html",
+      "summary": "Article URL: https://web.mit.edu/phillipi/www/writing/PhD-in-age-of-AI.html\nComments URL: https://news.ycombinator.com/item?id=49893305\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pbrowne011",
+      "published": "Tue, 29 Sep 2026 13:53:32 +0000"
+    },
+    {
+      "name": "Stupid Over-Reliance on Palantir AI Helped Lead to US Bombing of Iranian School",
+      "url": "https://www.techdirt.com/2026/09/29/reporting-confirms-stupid-over-reliance-on-palantir-ai-helped-lead-to-us-bombing-of-iranian-schoolgirls/",
+      "summary": "Article URL: https://www.techdirt.com/2026/09/29/reporting-confirms-stupid-over-reliance-on-palantir-ai-helped-lead-to-us-bombing-of-iranian-schoolgirls/\nComments URL: https://news.ycombinator.com/ite",
+      "source": "hacker_news",
+      "score": null,
+      "author": "cdrnsf",
+      "published": "Tue, 29 Sep 2026 13:50:30 +0000"
+    },
+    {
+      "name": "A surprising number of Americans use AI for spiritual reasons",
+      "url": "https://www.npr.org/2026/09/21/nx-s1-5944346/a-surprising-number-of-americans-use-ai-for-spiritual-reasons-heres-what-they-told-us",
+      "summary": "Article URL: https://www.npr.org/2026/09/21/nx-s1-5944346/a-surprising-number-of-americans-use-ai-for-spiritual-reasons-heres-what-they-told-us\nComments URL: https://news.ycombinator.com/item?id=49892",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pseudolus",
+      "published": "Tue, 29 Sep 2026 13:24:01 +0000"
+    },
+    {
+      "name": "Autonomous AI in Space Exploration Raises New Stakes",
+      "url": "https://spectrum.ieee.org/generative-ai-in-space-exploration",
+      "summary": "Article URL: https://spectrum.ieee.org/generative-ai-in-space-exploration\nComments URL: https://news.ycombinator.com/item?id=49892839\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rbanffy",
+      "published": "Tue, 29 Sep 2026 13:23:43 +0000"
+    },
+    {
+      "name": "220 Per Cent More Code: Why Meta Stopped Replacing Staff With AI",
+      "url": "https://smarterarticles.co.uk/220-per-cent-more-code-why-meta-stopped-replacing-staff-with-ai",
+      "summary": "Article URL: https://smarterarticles.co.uk/220-per-cent-more-code-why-meta-stopped-replacing-staff-with-ai\nComments URL: https://news.ycombinator.com/item?id=49892814\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "dxs",
+      "published": "Tue, 29 Sep 2026 13:21:56 +0000"
+    },
+    {
+      "name": "AI is like a wall hack for real life",
+      "url": "https://www.geekbeard.dev/p/ai-as-a-cheat",
+      "summary": "Article URL: https://www.geekbeard.dev/p/ai-as-a-cheat\nComments URL: https://news.ycombinator.com/item?id=49892699\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "drunx",
+      "published": "Tue, 29 Sep 2026 13:14:26 +0000"
+    },
+    {
+      "name": "The „Nicolae Trump\" Experiment: Testing the Limits of AI Information Streams",
+      "url": "https://labnews.ai/the-nicolae-trump-experiment-how-a-publisher-is-testing-the-limits-of-ai-information-streams/",
+      "summary": "Article URL: https://labnews.ai/the-nicolae-trump-experiment-how-a-publisher-is-testing-the-limits-of-ai-information-streams/\nComments URL: https://news.ycombinator.com/item?id=49892687\nPoints: 1\n# Co",
+      "source": "hacker_news",
+      "score": null,
+      "author": "VladDanGeorgesc",
+      "published": "Tue, 29 Sep 2026 13:13:23 +0000"
+    },
+    {
+      "name": "Show HN: Pyunto – invite an AI agent and a robot into an encrypted diary",
+      "url": "https://pyunto.com/",
+      "summary": "Article URL: https://pyunto.com/\nComments URL: https://news.ycombinator.com/item?id=49892533\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "tomsonoda",
+      "published": "Tue, 29 Sep 2026 13:04:25 +0000"
+    }
+  ]
+}
