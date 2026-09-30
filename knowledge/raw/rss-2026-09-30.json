@@ -1,0 +1,106 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-09-30T14:36:03.718681+00:00",
+  "items": [
+    {
+      "name": "Meaning Ops: Seven Verbs for Working on Meaning with a Language Model",
+      "url": "https://utopai.substack.com/p/meaning-ops",
+      "summary": "Article URL: https://utopai.substack.com/p/meaning-ops\nComments URL: https://news.ycombinator.com/item?id=49905802\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "cyberneticc",
+      "published": "Wed, 30 Sep 2026 07:55:18 +0000"
+    },
+    {
+      "name": "PSSA: A non-transformer language model written from scratch in Rust",
+      "url": "https://github.com/Sparticle62ops/pssa",
+      "summary": "Article URL: https://github.com/Sparticle62ops/pssa\nComments URL: https://news.ycombinator.com/item?id=49903993\nPoints: 81\n# Comments: 35",
+      "source": "hacker_news",
+      "score": null,
+      "author": "sparticle62",
+      "published": "Wed, 30 Sep 2026 03:19:54 +0000"
+    },
+    {
+      "name": "Inspect: An open-source framework for large language model evaluations",
+      "url": "https://inspect.aisi.org.uk/",
+      "summary": "Article URL: https://inspect.aisi.org.uk/\nComments URL: https://news.ycombinator.com/item?id=49902367\nPoints: 4\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pkilgore",
+      "published": "Tue, 29 Sep 2026 23:40:04 +0000"
+    },
+    {
+      "name": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+      "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+      "summary": "Article URL: https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster\nComments URL: https://news.ycombinator.com/item?id=49884625\nPoints: 150\n# Comments: 31",
+      "source": "hacker_news",
+      "score": null,
+      "author": "nkko",
+      "published": "Mon, 28 Sep 2026 21:26:41 +0000"
+    },
+    {
+      "name": "A Vision-Language Model as a Teacher for Bird Vocalization Detection",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.09.23.753955v1",
+      "summary": "Article URL: https://www.biorxiv.org/content/10.64898/2026.09.23.753955v1\nComments URL: https://news.ycombinator.com/item?id=49879816\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "georgeven",
+      "published": "Mon, 28 Sep 2026 15:42:42 +0000"
+    },
+    {
+      "name": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "url": "https://arxiv.org/abs/2609.25021",
+      "summary": "Article URL: https://arxiv.org/abs/2609.25021\nComments URL: https://news.ycombinator.com/item?id=49865343\nPoints: 103\n# Comments: 109",
+      "source": "hacker_news",
+      "score": null,
+      "author": "yu3zhou4",
+      "published": "Sun, 27 Sep 2026 10:26:25 +0000"
+    },
+    {
+      "name": "Training a Language Model End-to-End in Rust: An Experience Report",
+      "url": "https://arxiv.org/abs/2609.25008",
+      "summary": "Article URL: https://arxiv.org/abs/2609.25008\nComments URL: https://news.ycombinator.com/item?id=49818349\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Brajeshwar",
+      "published": "Wed, 23 Sep 2026 16:15:58 +0000"
+    },
+    {
+      "name": "EncryptedLLM: Privacy-Preserving Large Language Model Inference",
+      "url": "https://ICML.cc/virtual/2025/poster/45395",
+      "summary": "Article URL: https://ICML.cc/virtual/2025/poster/45395\nComments URL: https://news.ycombinator.com/item?id=49797916\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rrr_oh_man",
+      "published": "Tue, 22 Sep 2026 07:53:37 +0000"
+    },
+    {
+      "name": "Language Model Tokenizers Introduce Unfairness Between Languages (2023)",
+      "url": "https://arxiv.org/abs/2305.15425",
+      "summary": "Article URL: https://arxiv.org/abs/2305.15425\nComments URL: https://news.ycombinator.com/item?id=49650798\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "lluisantoni",
+      "published": "Thu, 10 Sep 2026 22:09:54 +0000"
+    },
+    {
+      "name": "A 35B language model running on an iPhone using only 1–2.5 GB of peak memory",
+      "url": "https://github.com/Edge0-AI/edge0/",
+      "summary": "Article URL: https://github.com/Edge0-AI/edge0/\nComments URL: https://news.ycombinator.com/item?id=49645864\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rajtilakjee",
+      "published": "Thu, 10 Sep 2026 15:54:48 +0000"
+    },
+    {
+      "name": "WebLLM: Run a language model in the browser on WebGPU, Lesson 1",
+      "url": "https://buttercup.sh/lessons/2026-09-08-lesson-1-webllm.html",
+      "summary": "Article URL: https://buttercup.sh/lessons/2026-09-08-lesson-1-webllm.html\nComments URL: https://news.ycombinator.com/item?id=49614839\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "stephenblum",
+      "published": "Tue, 08 Sep 2026 18:44:49 +0000"
+    }
+  ]
+}

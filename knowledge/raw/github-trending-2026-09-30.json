@@ -1,0 +1,63 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-09-30T14:35:31.573390+00:00",
+  "items": [
+    {
+      "name": "feder-cr/dots",
+      "url": "https://github.com/feder-cr/dots",
+      "summary": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+      "stars": 1408,
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "ai-agents",
+        "ai-browser",
+        "anti-detect-browser",
+        "browser-agent",
+        "browser-automation",
+        "chatgpt",
+        "dotfiles",
+        "dots",
+        "firefox",
+        "llm-agent",
+        "mcp",
+        "open-source-alternative",
+        "openai",
+        "openai-dots",
+        "openrouter",
+        "playwright",
+        "stealth-browser",
+        "web-agent",
+        "web-automation"
+      ]
+    },
+    {
+      "name": "OpSafari/hypoarena",
+      "url": "https://github.com/OpSafari/hypoarena",
+      "summary": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tourn",
+      "stars": 544,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "zouyuxuan122/dsh-our-free-model",
+      "url": "https://github.com/zouyuxuan122/dsh-our-free-model",
+      "summary": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Mu",
+      "stars": 491,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "deepseek",
+        "deepseek-harness",
+        "developer-tools",
+        "dsh",
+        "dsh-plugin",
+        "free-model",
+        "llm",
+        "model-provider",
+        "openai-compatible"
+      ]
+    }
+  ]
+}

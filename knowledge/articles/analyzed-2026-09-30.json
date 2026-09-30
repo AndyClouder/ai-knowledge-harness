@@ -1,0 +1,296 @@
+[
+  {
+    "id": "92cfe348-c529-44ea-994e-b9ca4bdfa338",
+    "title": "feder-cr/dots",
+    "source_url": "https://github.com/feder-cr/dots",
+    "source": "unknown",
+    "collected_at": "2026-09-30T14:36:04.576907+00:00",
+    "analyzed_at": "2026-09-30T14:36:04.576907+00:00",
+    "summary": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1408,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "5e2938e1-0253-46d4-bf79-60e44eb60174",
+    "title": "OpSafari/hypoarena",
+    "source_url": "https://github.com/OpSafari/hypoarena",
+    "source": "unknown",
+    "collected_at": "2026-09-30T14:36:05.749568+00:00",
+    "analyzed_at": "2026-09-30T14:36:05.749568+00:00",
+    "summary": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tourn",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 544,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "f5f5cf39-36df-44bb-9489-61ab5e21ac02",
+    "title": "zouyuxuan122/dsh-our-free-model",
+    "source_url": "https://github.com/zouyuxuan122/dsh-our-free-model",
+    "source": "unknown",
+    "collected_at": "2026-09-30T14:36:06.922260+00:00",
+    "analyzed_at": "2026-09-30T14:36:06.922260+00:00",
+    "summary": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Mu",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 491,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "efa0e99d-9834-4cab-8d53-ebdec2e0710f",
+    "title": "Meaning Ops: Seven Verbs for Working on Meaning with a Language Model",
+    "source_url": "https://utopai.substack.com/p/meaning-ops",
+    "source": "hacker_news",
+    "collected_at": "2026-09-30T14:36:08.101699+00:00",
+    "analyzed_at": "2026-09-30T14:36:08.101699+00:00",
+    "summary": "Article URL: https://utopai.substack.com/p/meaning-ops\nComments URL: https://news.ycombinator.com/item?id=49905802\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "cyberneticc",
+      "language": null
+    }
+  },
+  {
+    "id": "21a87d7a-0cc1-4048-88c9-f752d7594f78",
+    "title": "PSSA: A non-transformer language model written from scratch in Rust",
+    "source_url": "https://github.com/Sparticle62ops/pssa",
+    "source": "hacker_news",
+    "collected_at": "2026-09-30T14:36:09.274930+00:00",
+    "analyzed_at": "2026-09-30T14:36:09.274930+00:00",
+    "summary": "Article URL: https://github.com/Sparticle62ops/pssa\nComments URL: https://news.ycombinator.com/item?id=49903993\nPoints: 81\n# Comments: 35",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "sparticle62",
+      "language": null
+    }
+  },
+  {
+    "id": "cbf0bb90-8386-41f7-b136-7a36ff858446",
+    "title": "Inspect: An open-source framework for large language model evaluations",
+    "source_url": "https://inspect.aisi.org.uk/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-30T14:36:10.455396+00:00",
+    "analyzed_at": "2026-09-30T14:36:10.455396+00:00",
+    "summary": "Article URL: https://inspect.aisi.org.uk/\nComments URL: https://news.ycombinator.com/item?id=49902367\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pkilgore",
+      "language": null
+    }
+  },
+  {
+    "id": "f9129302-3b8f-40cf-98e0-95b57433a38a",
+    "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+    "source_url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+    "source": "hacker_news",
+    "collected_at": "2026-09-30T14:36:11.624740+00:00",
+    "analyzed_at": "2026-09-30T14:36:11.624740+00:00",
+    "summary": "Article URL: https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster\nComments URL: https://news.ycombinator.com/item?id=49884625\nPoints: 150\n# Comments: 31",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "nkko",
+      "language": null
+    }
+  },
+  {
+    "id": "0eb52aad-b854-4b9b-b2f8-321adc6d0fb6",
+    "title": "A Vision-Language Model as a Teacher for Bird Vocalization Detection",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.09.23.753955v1",
+    "source": "hacker_news",
+    "collected_at": "2026-09-30T14:36:12.804548+00:00",
+    "analyzed_at": "2026-09-30T14:36:12.804548+00:00",
+    "summary": "Article URL: https://www.biorxiv.org/content/10.64898/2026.09.23.753955v1\nComments URL: https://news.ycombinator.com/item?id=49879816\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "georgeven",
+      "language": null
+    }
+  },
+  {
+    "id": "d9baeab7-445a-4ed5-b33f-e7725566760b",
+    "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+    "source_url": "https://arxiv.org/abs/2609.25021",
+    "source": "hacker_news",
+    "collected_at": "2026-09-30T14:36:13.982248+00:00",
+    "analyzed_at": "2026-09-30T14:36:13.982248+00:00",
+    "summary": "Article URL: https://arxiv.org/abs/2609.25021\nComments URL: https://news.ycombinator.com/item?id=49865343\nPoints: 103\n# Comments: 109",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "yu3zhou4",
+      "language": null
+    }
+  },
+  {
+    "id": "7de0d700-08f8-46c8-ba07-adf41afe6f95",
+    "title": "Training a Language Model End-to-End in Rust: An Experience Report",
+    "source_url": "https://arxiv.org/abs/2609.25008",
+    "source": "hacker_news",
+    "collected_at": "2026-09-30T14:36:15.160489+00:00",
+    "analyzed_at": "2026-09-30T14:36:15.160489+00:00",
+    "summary": "Article URL: https://arxiv.org/abs/2609.25008\nComments URL: https://news.ycombinator.com/item?id=49818349\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Brajeshwar",
+      "language": null
+    }
+  },
+  {
+    "id": "b2deb312-7730-4289-819c-4ff29cbc3be9",
+    "title": "EncryptedLLM: Privacy-Preserving Large Language Model Inference",
+    "source_url": "https://ICML.cc/virtual/2025/poster/45395",
+    "source": "hacker_news",
+    "collected_at": "2026-09-30T14:36:16.328849+00:00",
+    "analyzed_at": "2026-09-30T14:36:16.328849+00:00",
+    "summary": "Article URL: https://ICML.cc/virtual/2025/poster/45395\nComments URL: https://news.ycombinator.com/item?id=49797916\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rrr_oh_man",
+      "language": null
+    }
+  },
+  {
+    "id": "cf1f270e-e2ca-4dc0-9c20-032ad5c7ea23",
+    "title": "Language Model Tokenizers Introduce Unfairness Between Languages (2023)",
+    "source_url": "https://arxiv.org/abs/2305.15425",
+    "source": "hacker_news",
+    "collected_at": "2026-09-30T14:36:17.500547+00:00",
+    "analyzed_at": "2026-09-30T14:36:17.500547+00:00",
+    "summary": "Article URL: https://arxiv.org/abs/2305.15425\nComments URL: https://news.ycombinator.com/item?id=49650798\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "lluisantoni",
+      "language": null
+    }
+  },
+  {
+    "id": "6b254198-4059-4d4b-acd2-1961f84f08b6",
+    "title": "A 35B language model running on an iPhone using only 1–2.5 GB of peak memory",
+    "source_url": "https://github.com/Edge0-AI/edge0/",
+    "source": "hacker_news",
+    "collected_at": "2026-09-30T14:36:18.685320+00:00",
+    "analyzed_at": "2026-09-30T14:36:18.685320+00:00",
+    "summary": "Article URL: https://github.com/Edge0-AI/edge0/\nComments URL: https://news.ycombinator.com/item?id=49645864\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rajtilakjee",
+      "language": null
+    }
+  },
+  {
+    "id": "c17526ac-9b8a-4ed7-8d15-8e9b26ef2479",
+    "title": "WebLLM: Run a language model in the browser on WebGPU, Lesson 1",
+    "source_url": "https://buttercup.sh/lessons/2026-09-08-lesson-1-webllm.html",
+    "source": "hacker_news",
+    "collected_at": "2026-09-30T14:36:19.860608+00:00",
+    "analyzed_at": "2026-09-30T14:36:19.860608+00:00",
+    "summary": "Article URL: https://buttercup.sh/lessons/2026-09-08-lesson-1-webllm.html\nComments URL: https://news.ycombinator.com/item?id=49614839\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "stephenblum",
+      "language": null
+    }
+  }
+]
