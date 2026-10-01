@@ -1,0 +1,422 @@
+[
+  {
+    "id": "7cd8162b-b30e-4da5-bc2e-96ea30a0a593",
+    "title": "Louis-CFM/coucou",
+    "source_url": "https://github.com/Louis-CFM/coucou",
+    "source": "unknown",
+    "collected_at": "2026-10-01T15:04:15.531338+00:00",
+    "analyzed_at": "2026-10-01T15:04:15.531338+00:00",
+    "summary": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows) and keeps an eye on your Claude Code sessions.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 2180,
+      "score": null,
+      "author": null,
+      "language": "Swift"
+    }
+  },
+  {
+    "id": "9c393af5-9620-49f9-918f-8336812c5455",
+    "title": "rehan-remade/universal-modder",
+    "source_url": "https://github.com/rehan-remade/universal-modder",
+    "source": "unknown",
+    "collected_at": "2026-10-01T15:04:16.710363+00:00",
+    "analyzed_at": "2026-10-01T15:04:16.710363+00:00",
+    "summary": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1322,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "559fa069-504d-47f8-938f-4acef2219db9",
+    "title": "firelex/jeff",
+    "source_url": "https://github.com/firelex/jeff",
+    "source": "unknown",
+    "collected_at": "2026-10-01T15:04:17.882459+00:00",
+    "analyzed_at": "2026-10-01T15:04:17.882459+00:00",
+    "summary": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1243,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "ff283d70-b129-4b71-a7bb-3309025e277a",
+    "title": "nanaism/yomiyasu",
+    "source_url": "https://github.com/nanaism/yomiyasu",
+    "source": "unknown",
+    "collected_at": "2026-10-01T15:04:19.061981+00:00",
+    "analyzed_at": "2026-10-01T15:04:19.061981+00:00",
+    "summary": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 862,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "8ea30caf-9b0b-46a9-a99b-8815df65631a",
+    "title": "echris6/motion-video-kit",
+    "source_url": "https://github.com/echris6/motion-video-kit",
+    "source": "unknown",
+    "collected_at": "2026-10-01T15:04:20.231921+00:00",
+    "analyzed_at": "2026-10-01T15:04:20.231921+00:00",
+    "summary": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 793,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "80a3a178-a501-4024-b571-b516b152ef16",
+    "title": "edenfunf/reelmimic",
+    "source_url": "https://github.com/edenfunf/reelmimic",
+    "source": "unknown",
+    "collected_at": "2026-10-01T15:04:21.579591+00:00",
+    "analyzed_at": "2026-10-01T15:04:21.579591+00:00",
+    "summary": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 653,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "09204205-2ca7-4b11-a36f-c254d57e4690",
+    "title": "openai/mcp-extensions",
+    "source_url": "https://github.com/openai/mcp-extensions",
+    "source": "unknown",
+    "collected_at": "2026-10-01T15:04:22.757525+00:00",
+    "analyzed_at": "2026-10-01T15:04:22.757525+00:00",
+    "summary": "Build plugins that feel like native, first-class features of ChatGPT.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 572,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "5ce8cdef-e9c6-4108-afda-25ebdf6ee8b4",
+    "title": "JoasASantos/Offensive-Security-AI-Models",
+    "source_url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
+    "source": "unknown",
+    "collected_at": "2026-10-01T15:04:23.924506+00:00",
+    "analyzed_at": "2026-10-01T15:04:23.924506+00:00",
+    "summary": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 510,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "d2e9a082-0ecb-4bf4-adfe-dd0e2dd057b9",
+    "title": "Gaussian Splat Avatars for Realtime AI Agents",
+    "source_url": "https://github.com/NavodPeiris/gsplat-talkinghead",
+    "source": "hacker_news",
+    "collected_at": "2026-10-01T15:04:25.096734+00:00",
+    "analyzed_at": "2026-10-01T15:04:25.096734+00:00",
+    "summary": "Article URL: https://github.com/NavodPeiris/gsplat-talkinghead\nComments URL: https://news.ycombinator.com/item?id=49922564\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "NavodPeiris",
+      "language": null
+    }
+  },
+  {
+    "id": "6936040d-9591-4b91-8057-27d7ab63f427",
+    "title": "Hotpath Record an AI agent once, replay it as a deterministic workflow",
+    "source_url": "https://github.com/mourad-baazi/hotpath",
+    "source": "hacker_news",
+    "collected_at": "2026-10-01T15:04:26.281607+00:00",
+    "analyzed_at": "2026-10-01T15:04:26.281607+00:00",
+    "summary": "Article URL: https://github.com/mourad-baazi/hotpath\nComments URL: https://news.ycombinator.com/item?id=49922532\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "vonkey",
+      "language": null
+    }
+  },
+  {
+    "id": "81f9fbe5-660f-445c-b235-eea7876cc358",
+    "title": "Cloudflare AI Search is now generally available",
+    "source_url": "https://blog.cloudflare.com/ai-search-ga/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-01T15:04:27.447543+00:00",
+    "analyzed_at": "2026-10-01T15:04:27.447543+00:00",
+    "summary": "Article URL: https://blog.cloudflare.com/ai-search-ga/\nComments URL: https://news.ycombinator.com/item?id=49922518\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "fourfire",
+      "language": null
+    }
+  },
+  {
+    "id": "e85a92bd-585a-421b-843f-a65977e60617",
+    "title": "Award-winning microscopy image used AI",
+    "source_url": "https://www.nature.com/articles/d41586-026-03086-z",
+    "source": "hacker_news",
+    "collected_at": "2026-10-01T15:04:28.627816+00:00",
+    "analyzed_at": "2026-10-01T15:04:28.627816+00:00",
+    "summary": "Article URL: https://www.nature.com/articles/d41586-026-03086-z\nComments URL: https://news.ycombinator.com/item?id=49922505\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rndsignals",
+      "language": null
+    }
+  },
+  {
+    "id": "13977c99-68bf-4a59-9d97-798ccc705186",
+    "title": "Show HN: Rename screenshots into searchable filenames with AI",
+    "source_url": "https://www.nevorago.com",
+    "source": "hacker_news",
+    "collected_at": "2026-10-01T15:04:29.794540+00:00",
+    "analyzed_at": "2026-10-01T15:04:29.794540+00:00",
+    "summary": "Article URL: https://www.nevorago.com\nComments URL: https://news.ycombinator.com/item?id=49922416\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "glcyming",
+      "language": null
+    }
+  },
+  {
+    "id": "ef3903bd-4a50-491d-8b32-ec98868bfaff",
+    "title": "Ask HN: Which \"AI\" provider would you choose?",
+    "source_url": "https://news.ycombinator.com/item?id=49922231",
+    "source": "hacker_news",
+    "collected_at": "2026-10-01T15:04:31.006021+00:00",
+    "analyzed_at": "2026-10-01T15:04:31.006021+00:00",
+    "summary": "I'm looking for an \"AI provider\" recommendations for physics teaching and academic research. My use case requires mathematical and physics reasoning for paper parsing and PDF synthesis to generate lec",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "EbNar",
+      "language": null
+    }
+  },
+  {
+    "id": "7fbd90ce-bcbc-42ee-bf36-343ec5acf38c",
+    "title": "Who Keeps Your Industrial AI Plugged In?",
+    "source_url": "https://deploy95.substack.com/p/uptime-follows-the-maintainer-not",
+    "source": "hacker_news",
+    "collected_at": "2026-10-01T15:04:32.176390+00:00",
+    "analyzed_at": "2026-10-01T15:04:32.176390+00:00",
+    "summary": "Article URL: https://deploy95.substack.com/p/uptime-follows-the-maintainer-not\nComments URL: https://news.ycombinator.com/item?id=49922204\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "dddddaviddddd",
+      "language": null
+    }
+  },
+  {
+    "id": "7d95a73c-3232-4284-8b9a-2cc1f46b76da",
+    "title": "AI Resolves Theta(p_C) = 0",
+    "source_url": "https://www.scientificamerican.com/article/ai-solves-a-holy-grail-problem-from-probability-theory/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-01T15:04:33.342678+00:00",
+    "analyzed_at": "2026-10-01T15:04:33.342678+00:00",
+    "summary": "Article URL: https://www.scientificamerican.com/article/ai-solves-a-holy-grail-problem-from-probability-theory/\nComments URL: https://news.ycombinator.com/item?id=49922157\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "unhandyandy",
+      "language": null
+    }
+  },
+  {
+    "id": "a3dbb717-fa24-447a-9d40-a37d1b46f742",
+    "title": "When AI Agents Break In, Governments Shouldn't Be Stuck with the Cleanup",
+    "source_url": "https://www.techpolicy.press/when-ai-agents-break-in-governments-shouldnt-be-stuck-with-the-cleanup/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-01T15:04:34.532302+00:00",
+    "analyzed_at": "2026-10-01T15:04:34.532302+00:00",
+    "summary": "Article URL: https://www.techpolicy.press/when-ai-agents-break-in-governments-shouldnt-be-stuck-with-the-cleanup/\nComments URL: https://news.ycombinator.com/item?id=49922085\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "hn_acker",
+      "language": null
+    }
+  },
+  {
+    "id": "7b184b37-d734-4d25-b9ac-7f24b6b5ef7d",
+    "title": "Stanislas: What if AI had been imagined back in 1984?",
+    "source_url": "https://maicintosh.eu",
+    "source": "hacker_news",
+    "collected_at": "2026-10-01T15:04:35.705670+00:00",
+    "analyzed_at": "2026-10-01T15:04:35.705670+00:00",
+    "summary": "Article URL: https://maicintosh.eu\nComments URL: https://news.ycombinator.com/item?id=49922081\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "AlCavi",
+      "language": null
+    }
+  },
+  {
+    "id": "5f00b62d-fa24-40e2-93dc-ff5e7bc392d8",
+    "title": "Leading Democrat asks AI firms for data on any Chinese access to sensitive code",
+    "source_url": "https://www.reuters.com/legal/litigation/leading-democrat-asks-ai-firms-data-any-chinese-access-sensitive-code-2026-10-01/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-01T15:04:36.876878+00:00",
+    "analyzed_at": "2026-10-01T15:04:36.876878+00:00",
+    "summary": "Article URL: https://www.reuters.com/legal/litigation/leading-democrat-asks-ai-firms-data-any-chinese-access-sensitive-code-2026-10-01/\nComments URL: https://news.ycombinator.com/item?id=49922004\nPoin",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "tartoran",
+      "language": null
+    }
+  },
+  {
+    "id": "858c7dba-2e99-46df-8ac0-07afd15b133d",
+    "title": "Trump's 'Morally Binding' New AI Guardrails Are Meaningless Pudding",
+    "source_url": "https://www.techdirt.com/2026/10/01/trumps-morally-binding-new-ai-guardrails-are-meaningless-pudding/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-01T15:04:38.052390+00:00",
+    "analyzed_at": "2026-10-01T15:04:38.052390+00:00",
+    "summary": "Article URL: https://www.techdirt.com/2026/10/01/trumps-morally-binding-new-ai-guardrails-are-meaningless-pudding/\nComments URL: https://news.ycombinator.com/item?id=49921987\nPoints: 3\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "hn_acker",
+      "language": null
+    }
+  }
+]

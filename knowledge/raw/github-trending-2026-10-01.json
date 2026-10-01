@@ -1,0 +1,120 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-10-01T15:03:52.460922+00:00",
+  "items": [
+    {
+      "name": "Louis-CFM/coucou",
+      "url": "https://github.com/Louis-CFM/coucou",
+      "summary": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows) and keeps an eye on your Claude Code sessions.",
+      "stars": 2180,
+      "language": "Swift",
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "dynamic-island",
+        "macos",
+        "macos-app",
+        "menubar-app",
+        "notch",
+        "open-source",
+        "swift",
+        "swiftui"
+      ]
+    },
+    {
+      "name": "rehan-remade/universal-modder",
+      "url": "https://github.com/rehan-remade/universal-modder",
+      "summary": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+      "stars": 1322,
+      "language": "Python",
+      "topics": [
+        "age-of-empires",
+        "claude-code",
+        "claude-code-plugin",
+        "fal",
+        "game-assets",
+        "game-modding",
+        "mcp",
+        "modding",
+        "reverse-engineering",
+        "tmodloader"
+      ]
+    },
+    {
+      "name": "firelex/jeff",
+      "url": "https://github.com/firelex/jeff",
+      "summary": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
+      "stars": 1243,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "nanaism/yomiyasu",
+      "url": "https://github.com/nanaism/yomiyasu",
+      "summary": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "stars": 862,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-writing",
+        "antigravity",
+        "claude-code",
+        "codex",
+        "cursor",
+        "gemini",
+        "japanese",
+        "linter",
+        "llm",
+        "nlp",
+        "writing",
+        "writing-assistant",
+        "writing-tool"
+      ]
+    },
+    {
+      "name": "echris6/motion-video-kit",
+      "url": "https://github.com/echris6/motion-video-kit",
+      "summary": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
+      "stars": 793,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "edenfunf/reelmimic",
+      "url": "https://github.com/edenfunf/reelmimic",
+      "summary": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
+      "stars": 653,
+      "language": "JavaScript",
+      "topics": [
+        "2d-animation",
+        "ai-agents",
+        "ai-video",
+        "animation",
+        "claude-code",
+        "codex",
+        "multi-agent",
+        "style-transfer",
+        "video-generation"
+      ]
+    },
+    {
+      "name": "openai/mcp-extensions",
+      "url": "https://github.com/openai/mcp-extensions",
+      "summary": "Build plugins that feel like native, first-class features of ChatGPT.",
+      "stars": 572,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "JoasASantos/Offensive-Security-AI-Models",
+      "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
+      "summary": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
+      "stars": 510,
+      "language": null,
+      "topics": []
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-10-01T15:04:14.308724+00:00",
+  "items": [
+    {
+      "name": "Gaussian Splat Avatars for Realtime AI Agents",
+      "url": "https://github.com/NavodPeiris/gsplat-talkinghead",
+      "summary": "Article URL: https://github.com/NavodPeiris/gsplat-talkinghead\nComments URL: https://news.ycombinator.com/item?id=49922564\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "NavodPeiris",
+      "published": "Thu, 01 Oct 2026 15:01:51 +0000"
+    },
+    {
+      "name": "Hotpath Record an AI agent once, replay it as a deterministic workflow",
+      "url": "https://github.com/mourad-baazi/hotpath",
+      "summary": "Article URL: https://github.com/mourad-baazi/hotpath\nComments URL: https://news.ycombinator.com/item?id=49922532\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "vonkey",
+      "published": "Thu, 01 Oct 2026 14:59:35 +0000"
+    },
+    {
+      "name": "Cloudflare AI Search is now generally available",
+      "url": "https://blog.cloudflare.com/ai-search-ga/",
+      "summary": "Article URL: https://blog.cloudflare.com/ai-search-ga/\nComments URL: https://news.ycombinator.com/item?id=49922518\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "fourfire",
+      "published": "Thu, 01 Oct 2026 14:58:39 +0000"
+    },
+    {
+      "name": "Award-winning microscopy image used AI",
+      "url": "https://www.nature.com/articles/d41586-026-03086-z",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-026-03086-z\nComments URL: https://news.ycombinator.com/item?id=49922505\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rndsignals",
+      "published": "Thu, 01 Oct 2026 14:57:13 +0000"
+    },
+    {
+      "name": "Show HN: Rename screenshots into searchable filenames with AI",
+      "url": "https://www.nevorago.com",
+      "summary": "Article URL: https://www.nevorago.com\nComments URL: https://news.ycombinator.com/item?id=49922416\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "glcyming",
+      "published": "Thu, 01 Oct 2026 14:50:20 +0000"
+    },
+    {
+      "name": "Ask HN: Which \"AI\" provider would you choose?",
+      "url": "https://news.ycombinator.com/item?id=49922231",
+      "summary": "I'm looking for an \"AI provider\" recommendations for physics teaching and academic research. My use case requires mathematical and physics reasoning for paper parsing and PDF synthesis to generate lec",
+      "source": "hacker_news",
+      "score": null,
+      "author": "EbNar",
+      "published": "Thu, 01 Oct 2026 14:34:51 +0000"
+    },
+    {
+      "name": "Who Keeps Your Industrial AI Plugged In?",
+      "url": "https://deploy95.substack.com/p/uptime-follows-the-maintainer-not",
+      "summary": "Article URL: https://deploy95.substack.com/p/uptime-follows-the-maintainer-not\nComments URL: https://news.ycombinator.com/item?id=49922204\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "dddddaviddddd",
+      "published": "Thu, 01 Oct 2026 14:32:36 +0000"
+    },
+    {
+      "name": "AI Resolves Theta(p_C) = 0",
+      "url": "https://www.scientificamerican.com/article/ai-solves-a-holy-grail-problem-from-probability-theory/",
+      "summary": "Article URL: https://www.scientificamerican.com/article/ai-solves-a-holy-grail-problem-from-probability-theory/\nComments URL: https://news.ycombinator.com/item?id=49922157\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "unhandyandy",
+      "published": "Thu, 01 Oct 2026 14:28:01 +0000"
+    },
+    {
+      "name": "When AI Agents Break In, Governments Shouldn't Be Stuck with the Cleanup",
+      "url": "https://www.techpolicy.press/when-ai-agents-break-in-governments-shouldnt-be-stuck-with-the-cleanup/",
+      "summary": "Article URL: https://www.techpolicy.press/when-ai-agents-break-in-governments-shouldnt-be-stuck-with-the-cleanup/\nComments URL: https://news.ycombinator.com/item?id=49922085\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "hn_acker",
+      "published": "Thu, 01 Oct 2026 14:21:44 +0000"
+    },
+    {
+      "name": "Stanislas: What if AI had been imagined back in 1984?",
+      "url": "https://maicintosh.eu",
+      "summary": "Article URL: https://maicintosh.eu\nComments URL: https://news.ycombinator.com/item?id=49922081\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "AlCavi",
+      "published": "Thu, 01 Oct 2026 14:21:34 +0000"
+    },
+    {
+      "name": "Leading Democrat asks AI firms for data on any Chinese access to sensitive code",
+      "url": "https://www.reuters.com/legal/litigation/leading-democrat-asks-ai-firms-data-any-chinese-access-sensitive-code-2026-10-01/",
+      "summary": "Article URL: https://www.reuters.com/legal/litigation/leading-democrat-asks-ai-firms-data-any-chinese-access-sensitive-code-2026-10-01/\nComments URL: https://news.ycombinator.com/item?id=49922004\nPoin",
+      "source": "hacker_news",
+      "score": null,
+      "author": "tartoran",
+      "published": "Thu, 01 Oct 2026 14:16:20 +0000"
+    },
+    {
+      "name": "Trump's 'Morally Binding' New AI Guardrails Are Meaningless Pudding",
+      "url": "https://www.techdirt.com/2026/10/01/trumps-morally-binding-new-ai-guardrails-are-meaningless-pudding/",
+      "summary": "Article URL: https://www.techdirt.com/2026/10/01/trumps-morally-binding-new-ai-guardrails-are-meaningless-pudding/\nComments URL: https://news.ycombinator.com/item?id=49921987\nPoints: 3\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "hn_acker",
+      "published": "Thu, 01 Oct 2026 14:15:27 +0000"
+    },
+    {
+      "name": "3 Engineers in Japan built an AI pentester that topped HackerOne VDP (2026 Q3)",
+      "url": "https://layer8.jp/en/blog/hackerone-vdp-2026-q3-first-place",
+      "summary": "Article URL: https://layer8.jp/en/blog/hackerone-vdp-2026-q3-first-place\nComments URL: https://news.ycombinator.com/item?id=49921932\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Layer_8",
+      "published": "Thu, 01 Oct 2026 14:10:09 +0000"
+    },
+    {
+      "name": "Tencent signed a $7B deal to lease 100k AI chips from Oracle",
+      "url": "https://qz.com/tencent-oracle-ai-chips-lease-deal-100126",
+      "summary": "Article URL: https://qz.com/tencent-oracle-ai-chips-lease-deal-100126\nComments URL: https://news.ycombinator.com/item?id=49921884\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "01-_-",
+      "published": "Thu, 01 Oct 2026 14:05:55 +0000"
+    },
+    {
+      "name": "AI coding agents leaked 13,000 screenshots, and nobody hacked them",
+      "url": "https://thenewstack.io/coding-agents-leaked-screenshots/",
+      "summary": "Article URL: https://thenewstack.io/coding-agents-leaked-screenshots/\nComments URL: https://news.ycombinator.com/item?id=49921821\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Brajeshwar",
+      "published": "Thu, 01 Oct 2026 14:00:21 +0000"
+    },
+    {
+      "name": "Open-ended data is a bottleneck for AI systems tackling real knowledge work",
+      "url": "https://www.fig.inc/blog/open-ended-data-is-a-bottleneck/",
+      "summary": "Article URL: https://www.fig.inc/blog/open-ended-data-is-a-bottleneck/\nComments URL: https://news.ycombinator.com/item?id=49921816\nPoints: 7\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "joehabeebs",
+      "published": "Thu, 01 Oct 2026 14:00:03 +0000"
+    },
+    {
+      "name": "AI agents inadvertently leak 13,000 internal screenshots from 300 organizations",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/ai-agents-inadvertently-leak-13-000-internal-screenshots-from-organizations-list-of-companies-includes-fortune-500-and-a-frontier-ai-lab",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/cyber-security/ai-agents-inadvertently-leak-13-000-internal-screenshots-from-organizations-list-of-companies-includes-fortune-500-and-a-frontier",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rbanffy",
+      "published": "Thu, 01 Oct 2026 13:59:39 +0000"
+    },
+    {
+      "name": "Positron – Purpose-built hardware for the age of generative AI",
+      "url": "https://www.positron.ai",
+      "summary": "Article URL: https://www.positron.ai\nComments URL: https://news.ycombinator.com/item?id=49921665\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "peter_d_sherman",
+      "published": "Thu, 01 Oct 2026 13:48:38 +0000"
+    },
+    {
+      "name": "AI Agents Targeted U.S. and Canadian Government Websites",
+      "url": "https://transluce.org/us-canada-gov",
+      "summary": "Article URL: https://transluce.org/us-canada-gov\nComments URL: https://news.ycombinator.com/item?id=49921614\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "geox",
+      "published": "Thu, 01 Oct 2026 13:44:20 +0000"
+    },
+    {
+      "name": "Please Don't Shame the AI Writers",
+      "url": "https://aethermug.com/posts/please-don-t-shame-the-ai-writers",
+      "summary": "Article URL: https://aethermug.com/posts/please-don-t-shame-the-ai-writers\nComments URL: https://news.ycombinator.com/item?id=49921564\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mrcgnc",
+      "published": "Thu, 01 Oct 2026 13:41:12 +0000"
+    }
+  ]
+}
