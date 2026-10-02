@@ -1,0 +1,44 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-10-02T14:25:56.573925+00:00",
+  "items": [
+    {
+      "name": "CopilotKit/OpenDots",
+      "url": "https://github.com/CopilotKit/OpenDots",
+      "summary": "Your always-on AI coworkers that move between text, calls, and Slack.",
+      "stars": 1053,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "Edwardxlai/easyread",
+      "url": "https://github.com/Edwardxlai/easyread",
+      "summary": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+      "stars": 584,
+      "language": "JavaScript",
+      "topics": [
+        "academic",
+        "arxiv",
+        "chinese",
+        "claude-code",
+        "codex",
+        "electron",
+        "llm",
+        "paper-reading",
+        "pdf-translator",
+        "reference-manager",
+        "research-tool",
+        "translation"
+      ]
+    },
+    {
+      "name": "AgentSystemLabs/agent-office",
+      "url": "https://github.com/AgentSystemLabs/agent-office",
+      "summary": "A cartoon 3D office where your team hires Claude Code workers at desks, shares live terminals, talks over voice, and tracks GitHub issues and PRs.",
+      "stars": 492,
+      "language": "TypeScript",
+      "topics": []
+    }
+  ]
+}

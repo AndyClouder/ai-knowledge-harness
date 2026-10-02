@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-10-02T14:26:14.703194+00:00",
+  "items": [
+    {
+      "name": "AI Performance Engineering",
+      "url": "https://github.com/wafer-ai/gpu-perf-engineering-resources",
+      "summary": "Article URL: https://github.com/wafer-ai/gpu-perf-engineering-resources\nComments URL: https://news.ycombinator.com/item?id=49933866\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "bogdiyan",
+      "published": "Fri, 02 Oct 2026 14:22:02 +0000"
+    },
+    {
+      "name": "We're Missing a Key Reason Why Americans Hate AI",
+      "url": "https://www.derekthompson.org/p/were-missing-a-key-reason-why-americans",
+      "summary": "Article URL: https://www.derekthompson.org/p/were-missing-a-key-reason-why-americans\nComments URL: https://news.ycombinator.com/item?id=49933819\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "abe94",
+      "published": "Fri, 02 Oct 2026 14:18:34 +0000"
+    },
+    {
+      "name": "Ask HN: I think the AI terminology needs a reset",
+      "url": "https://news.ycombinator.com/item?id=49933750",
+      "summary": "A friend asked me what a personal AI agent does. I started explaining, then I realized I was describing three different things.I think we need better order and terms in this world.So personal ai agent",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ddaniel10",
+      "published": "Fri, 02 Oct 2026 14:12:33 +0000"
+    },
+    {
+      "name": "AI Agents Need an Undo Button",
+      "url": "https://cacm.acm.org/blogcacm/ai-agents-need-an-undo-button/",
+      "summary": "Article URL: https://cacm.acm.org/blogcacm/ai-agents-need-an-undo-button/\nComments URL: https://news.ycombinator.com/item?id=49933749\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "tradertanmay",
+      "published": "Fri, 02 Oct 2026 14:12:32 +0000"
+    },
+    {
+      "name": "With most information hidden, the game Stratego had stumped AI–until now",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "summary": "Article URL: https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/\nComments URL: https://news.ycombinator.com/item?id=49933740\nPoints: 1\n#",
+      "source": "hacker_news",
+      "score": null,
+      "author": "PaulHoule",
+      "published": "Fri, 02 Oct 2026 14:11:24 +0000"
+    },
+    {
+      "name": "Reddit to sunset RSS access because of AI bots",
+      "url": "https://www.theverge.com/tech/1002788/old-reddit-ai-scraping",
+      "summary": "Article URL: https://www.theverge.com/tech/1002788/old-reddit-ai-scraping\nComments URL: https://news.ycombinator.com/item?id=49933619\nPoints: 5\n# Comments: 6",
+      "source": "hacker_news",
+      "score": null,
+      "author": "zacharycohn",
+      "published": "Fri, 02 Oct 2026 13:59:22 +0000"
+    },
+    {
+      "name": "AI Pace Accelerating, Career Traps for Smart People – Food for Agile Thought 564",
+      "url": "https://age-of-product.com/food-agile-thought-564-ai-pace-accelerating/",
+      "summary": "Article URL: https://age-of-product.com/food-agile-thought-564-ai-pace-accelerating/\nComments URL: https://news.ycombinator.com/item?id=49933562\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "swolpers",
+      "published": "Fri, 02 Oct 2026 13:55:12 +0000"
+    },
+    {
+      "name": "A Grand Unified Theory of AI Alarm Bells [video]",
+      "url": "https://www.youtube.com/watch?v=75An2Y-YDf8",
+      "summary": "Article URL: https://www.youtube.com/watch?v=75An2Y-YDf8\nComments URL: https://news.ycombinator.com/item?id=49933535\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "naughtiusmax",
+      "published": "Fri, 02 Oct 2026 13:52:29 +0000"
+    },
+    {
+      "name": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+      "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
+      "summary": "Article URL: https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/\nComments URL: https://news.ycombinator.com/item?id=49933524\nPoints: 1\n# Co",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pseudolus",
+      "published": "Fri, 02 Oct 2026 13:51:39 +0000"
+    },
+    {
+      "name": "Token Exports Explained: How Shantou Is Selling AI Without Selling Chips",
+      "url": "https://mrkt30.com/shantou-token-exports-explained/",
+      "summary": "Article URL: https://mrkt30.com/shantou-token-exports-explained/\nComments URL: https://news.ycombinator.com/item?id=49933512\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "newscomAI",
+      "published": "Fri, 02 Oct 2026 13:50:16 +0000"
+    },
+    {
+      "name": "GamesByAI – 528 browser games made with AI, and which tools made them",
+      "url": "https://gamesbyai.win/stats/",
+      "summary": "Article URL: https://gamesbyai.win/stats/\nComments URL: https://news.ycombinator.com/item?id=49933367\nPoints: 1\n# Comments: 3",
+      "source": "hacker_news",
+      "score": null,
+      "author": "kvickan",
+      "published": "Fri, 02 Oct 2026 13:36:04 +0000"
+    },
+    {
+      "name": "Nvidia/OpenShell: Safe, private runtime for autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "summary": "Article URL: https://github.com/NVIDIA/OpenShell\nComments URL: https://news.ycombinator.com/item?id=49933338\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "gmays",
+      "published": "Fri, 02 Oct 2026 13:31:51 +0000"
+    },
+    {
+      "name": "The Looming Closure of China's AI Frontier",
+      "url": "https://www.aei.org/foreign-and-defense-policy/the-looming-closure-of-chinas-ai-frontier/",
+      "summary": "Article URL: https://www.aei.org/foreign-and-defense-policy/the-looming-closure-of-chinas-ai-frontier/\nComments URL: https://news.ycombinator.com/item?id=49933330\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ironyman",
+      "published": "Fri, 02 Oct 2026 13:30:42 +0000"
+    },
+    {
+      "name": "Slowly, then all at once: AI agents that know how a company works",
+      "url": "https://www.nijho.lt/post/mindroom-at-ionq/",
+      "summary": "Article URL: https://www.nijho.lt/post/mindroom-at-ionq/\nComments URL: https://news.ycombinator.com/item?id=49933317\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "msmalina",
+      "published": "Fri, 02 Oct 2026 13:28:55 +0000"
+    },
+    {
+      "name": "Show HN: Hotel Lobby AI Video Generator – Two Photos to Rap Duet",
+      "url": "https://hotellobbygenerator.net/",
+      "summary": "Article URL: https://hotellobbygenerator.net/\nComments URL: https://news.ycombinator.com/item?id=49933313\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "jerry5678",
+      "published": "Fri, 02 Oct 2026 13:27:57 +0000"
+    },
+    {
+      "name": "Nvidia DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+      "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+      "summary": "Article URL: https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/\nComments URL: https://news.ycombinator.com/item?id=49933234\nPoints: 4\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "6thbit",
+      "published": "Fri, 02 Oct 2026 13:18:28 +0000"
+    },
+    {
+      "name": "How to train AI models using physics simulators",
+      "url": "https://www.arenaphysica.com/publications/fem-edge-elements",
+      "summary": "Article URL: https://www.arenaphysica.com/publications/fem-edge-elements\nComments URL: https://news.ycombinator.com/item?id=49933167\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pranade",
+      "published": "Fri, 02 Oct 2026 13:10:57 +0000"
+    },
+    {
+      "name": "How to Almost Fry Your AI Agent (and Your Mac Mini)",
+      "url": "https://thoughts.jock.pl/p/almost-fried-ai-agent-mac-mini-mistakes-2026",
+      "summary": "Article URL: https://thoughts.jock.pl/p/almost-fried-ai-agent-mac-mini-mistakes-2026\nComments URL: https://news.ycombinator.com/item?id=49933136\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "joozio",
+      "published": "Fri, 02 Oct 2026 13:07:40 +0000"
+    },
+    {
+      "name": "AI Is Writing Your Tests, yet Nothing Is Getting Tested",
+      "url": "https://testkube.wistia.com/live/events/uswa35zy9l",
+      "summary": "Article URL: https://testkube.wistia.com/live/events/uswa35zy9l\nComments URL: https://news.ycombinator.com/item?id=49933113\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "evwitmer",
+      "published": "Fri, 02 Oct 2026 13:05:25 +0000"
+    },
+    {
+      "name": "New Audible feature let's you talk to AI versions of book characters",
+      "url": "https://www.audible.com/about/newsroom/the-next-chapter-in-listening-new-ways-to-interact-with-stories-on-audible",
+      "summary": "Article URL: https://www.audible.com/about/newsroom/the-next-chapter-in-listening-new-ways-to-interact-with-stories-on-audible\nComments URL: https://news.ycombinator.com/item?id=49933105\nPoints: 1\n# C",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pickleglitch",
+      "published": "Fri, 02 Oct 2026 13:04:20 +0000"
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+[
+  {
+    "id": "7f55da6c-360c-46c4-87c4-1645e339dee1",
+    "title": "CopilotKit/OpenDots",
+    "source_url": "https://github.com/CopilotKit/OpenDots",
+    "source": "unknown",
+    "collected_at": "2026-10-02T14:26:15.928235+00:00",
+    "analyzed_at": "2026-10-02T14:26:15.928235+00:00",
+    "summary": "Your always-on AI coworkers that move between text, calls, and Slack.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1053,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "0c517334-35c9-4715-a60c-175fd5072c2f",
+    "title": "Edwardxlai/easyread",
+    "source_url": "https://github.com/Edwardxlai/easyread",
+    "source": "unknown",
+    "collected_at": "2026-10-02T14:26:17.139734+00:00",
+    "analyzed_at": "2026-10-02T14:26:17.139734+00:00",
+    "summary": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 584,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "13238ae8-52b7-4a54-a3af-d7d6d898c5b6",
+    "title": "AgentSystemLabs/agent-office",
+    "source_url": "https://github.com/AgentSystemLabs/agent-office",
+    "source": "unknown",
+    "collected_at": "2026-10-02T14:26:18.349703+00:00",
+    "analyzed_at": "2026-10-02T14:26:18.349703+00:00",
+    "summary": "A cartoon 3D office where your team hires Claude Code workers at desks, shares live terminals, talks over voice, and tracks GitHub issues and PRs.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 492,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "0f9e0c38-bd84-4548-8fb5-cdf99218a4df",
+    "title": "AI Performance Engineering",
+    "source_url": "https://github.com/wafer-ai/gpu-perf-engineering-resources",
+    "source": "hacker_news",
+    "collected_at": "2026-10-02T14:26:19.566674+00:00",
+    "analyzed_at": "2026-10-02T14:26:19.566674+00:00",
+    "summary": "Article URL: https://github.com/wafer-ai/gpu-perf-engineering-resources\nComments URL: https://news.ycombinator.com/item?id=49933866\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "bogdiyan",
+      "language": null
+    }
+  },
+  {
+    "id": "4465e801-89ae-49b8-a3b2-73504b69b702",
+    "title": "We're Missing a Key Reason Why Americans Hate AI",
+    "source_url": "https://www.derekthompson.org/p/were-missing-a-key-reason-why-americans",
+    "source": "hacker_news",
+    "collected_at": "2026-10-02T14:26:20.787861+00:00",
+    "analyzed_at": "2026-10-02T14:26:20.787861+00:00",
+    "summary": "Article URL: https://www.derekthompson.org/p/were-missing-a-key-reason-why-americans\nComments URL: https://news.ycombinator.com/item?id=49933819\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "abe94",
+      "language": null
+    }
+  },
+  {
+    "id": "f55b5365-e5c1-4814-a282-2c64f80042be",
+    "title": "Ask HN: I think the AI terminology needs a reset",
+    "source_url": "https://news.ycombinator.com/item?id=49933750",
+    "source": "hacker_news",
+    "collected_at": "2026-10-02T14:26:21.993019+00:00",
+    "analyzed_at": "2026-10-02T14:26:21.993019+00:00",
+    "summary": "A friend asked me what a personal AI agent does. I started explaining, then I realized I was describing three different things.I think we need better order and terms in this world.So personal ai agent",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ddaniel10",
+      "language": null
+    }
+  },
+  {
+    "id": "73179d83-f9ff-4a78-b889-e54a13446493",
+    "title": "AI Agents Need an Undo Button",
+    "source_url": "https://cacm.acm.org/blogcacm/ai-agents-need-an-undo-button/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-02T14:26:23.207661+00:00",
+    "analyzed_at": "2026-10-02T14:26:23.207661+00:00",
+    "summary": "Article URL: https://cacm.acm.org/blogcacm/ai-agents-need-an-undo-button/\nComments URL: https://news.ycombinator.com/item?id=49933749\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "tradertanmay",
+      "language": null
+    }
+  },
+  {
+    "id": "1bfcf136-c4e3-4133-a81f-0eac1206b95f",
+    "title": "With most information hidden, the game Stratego had stumped AI–until now",
+    "source_url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-02T14:26:24.413144+00:00",
+    "analyzed_at": "2026-10-02T14:26:24.413144+00:00",
+    "summary": "Article URL: https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/\nComments URL: https://news.ycombinator.com/item?id=49933740\nPoints: 1\n#",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "PaulHoule",
+      "language": null
+    }
+  },
+  {
+    "id": "3aa75067-561c-45d4-aebf-257c9854a604",
+    "title": "Reddit to sunset RSS access because of AI bots",
+    "source_url": "https://www.theverge.com/tech/1002788/old-reddit-ai-scraping",
+    "source": "hacker_news",
+    "collected_at": "2026-10-02T14:26:25.618929+00:00",
+    "analyzed_at": "2026-10-02T14:26:25.618929+00:00",
+    "summary": "Article URL: https://www.theverge.com/tech/1002788/old-reddit-ai-scraping\nComments URL: https://news.ycombinator.com/item?id=49933619\nPoints: 5\n# Comments: 6",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "zacharycohn",
+      "language": null
+    }
+  },
+  {
+    "id": "2c4e7506-8a5e-46d7-a8ca-76e761390769",
+    "title": "AI Pace Accelerating, Career Traps for Smart People – Food for Agile Thought 564",
+    "source_url": "https://age-of-product.com/food-agile-thought-564-ai-pace-accelerating/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-02T14:26:26.825293+00:00",
+    "analyzed_at": "2026-10-02T14:26:26.825293+00:00",
+    "summary": "Article URL: https://age-of-product.com/food-agile-thought-564-ai-pace-accelerating/\nComments URL: https://news.ycombinator.com/item?id=49933562\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "swolpers",
+      "language": null
+    }
+  },
+  {
+    "id": "a1d222ee-9132-48fb-aab4-ba70d20c8cda",
+    "title": "A Grand Unified Theory of AI Alarm Bells [video]",
+    "source_url": "https://www.youtube.com/watch?v=75An2Y-YDf8",
+    "source": "hacker_news",
+    "collected_at": "2026-10-02T14:26:28.205940+00:00",
+    "analyzed_at": "2026-10-02T14:26:28.205940+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=75An2Y-YDf8\nComments URL: https://news.ycombinator.com/item?id=49933535\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "naughtiusmax",
+      "language": null
+    }
+  },
+  {
+    "id": "b07a806c-196a-45cf-8da2-f41b31f3ed7f",
+    "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+    "source_url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-02T14:26:29.569376+00:00",
+    "analyzed_at": "2026-10-02T14:26:29.569376+00:00",
+    "summary": "Article URL: https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/\nComments URL: https://news.ycombinator.com/item?id=49933524\nPoints: 1\n# Co",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pseudolus",
+      "language": null
+    }
+  },
+  {
+    "id": "6e284c23-f27b-4c81-8ba5-bfde381d725f",
+    "title": "Token Exports Explained: How Shantou Is Selling AI Without Selling Chips",
+    "source_url": "https://mrkt30.com/shantou-token-exports-explained/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-02T14:26:30.776126+00:00",
+    "analyzed_at": "2026-10-02T14:26:30.776126+00:00",
+    "summary": "Article URL: https://mrkt30.com/shantou-token-exports-explained/\nComments URL: https://news.ycombinator.com/item?id=49933512\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "newscomAI",
+      "language": null
+    }
+  },
+  {
+    "id": "eecf4af6-c99b-4517-b94e-21f5142a9675",
+    "title": "GamesByAI – 528 browser games made with AI, and which tools made them",
+    "source_url": "https://gamesbyai.win/stats/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-02T14:26:31.978631+00:00",
+    "analyzed_at": "2026-10-02T14:26:31.978631+00:00",
+    "summary": "Article URL: https://gamesbyai.win/stats/\nComments URL: https://news.ycombinator.com/item?id=49933367\nPoints: 1\n# Comments: 3",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "kvickan",
+      "language": null
+    }
+  },
+  {
+    "id": "f360bf9d-1b6b-4df8-bc32-1b08faa30493",
+    "title": "Nvidia/OpenShell: Safe, private runtime for autonomous AI agents",
+    "source_url": "https://github.com/NVIDIA/OpenShell",
+    "source": "hacker_news",
+    "collected_at": "2026-10-02T14:26:33.183041+00:00",
+    "analyzed_at": "2026-10-02T14:26:33.183041+00:00",
+    "summary": "Article URL: https://github.com/NVIDIA/OpenShell\nComments URL: https://news.ycombinator.com/item?id=49933338\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "gmays",
+      "language": null
+    }
+  },
+  {
+    "id": "0d59ac20-9ba7-4d79-b1e8-7f30ef36d9c7",
+    "title": "The Looming Closure of China's AI Frontier",
+    "source_url": "https://www.aei.org/foreign-and-defense-policy/the-looming-closure-of-chinas-ai-frontier/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-02T14:26:34.393885+00:00",
+    "analyzed_at": "2026-10-02T14:26:34.393885+00:00",
+    "summary": "Article URL: https://www.aei.org/foreign-and-defense-policy/the-looming-closure-of-chinas-ai-frontier/\nComments URL: https://news.ycombinator.com/item?id=49933330\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ironyman",
+      "language": null
+    }
+  },
+  {
+    "id": "98d1ae56-8c62-4713-bf65-817039156504",
+    "title": "Slowly, then all at once: AI agents that know how a company works",
+    "source_url": "https://www.nijho.lt/post/mindroom-at-ionq/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-02T14:26:35.608417+00:00",
+    "analyzed_at": "2026-10-02T14:26:35.608417+00:00",
+    "summary": "Article URL: https://www.nijho.lt/post/mindroom-at-ionq/\nComments URL: https://news.ycombinator.com/item?id=49933317\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "msmalina",
+      "language": null
+    }
+  },
+  {
+    "id": "34f69bae-df8d-470a-a364-d4d779db07da",
+    "title": "Show HN: Hotel Lobby AI Video Generator – Two Photos to Rap Duet",
+    "source_url": "https://hotellobbygenerator.net/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-02T14:26:36.826545+00:00",
+    "analyzed_at": "2026-10-02T14:26:36.826545+00:00",
+    "summary": "Article URL: https://hotellobbygenerator.net/\nComments URL: https://news.ycombinator.com/item?id=49933313\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jerry5678",
+      "language": null
+    }
+  },
+  {
+    "id": "2a7eced5-79a7-4991-b18b-4fe4628f8bf9",
+    "title": "Nvidia DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+    "source_url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-02T14:26:38.045142+00:00",
+    "analyzed_at": "2026-10-02T14:26:38.045142+00:00",
+    "summary": "Article URL: https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/\nComments URL: https://news.ycombinator.com/item?id=49933234\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "6thbit",
+      "language": null
+    }
+  },
+  {
+    "id": "6b295f9c-56a2-470b-95f6-9658f71f6a11",
+    "title": "How to train AI models using physics simulators",
+    "source_url": "https://www.arenaphysica.com/publications/fem-edge-elements",
+    "source": "hacker_news",
+    "collected_at": "2026-10-02T14:26:39.271402+00:00",
+    "analyzed_at": "2026-10-02T14:26:39.271402+00:00",
+    "summary": "Article URL: https://www.arenaphysica.com/publications/fem-edge-elements\nComments URL: https://news.ycombinator.com/item?id=49933167\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pranade",
+      "language": null
+    }
+  }
+]
