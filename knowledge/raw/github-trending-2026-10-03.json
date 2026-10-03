@@ -1,0 +1,29 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-10-03T13:00:58.749862+00:00",
+  "items": [
+    {
+      "name": "PSRben/VisionHOPE",
+      "url": "https://github.com/PSRben/VisionHOPE",
+      "summary": "Official PyTorch implementation of VisionHOPE: Visual Backbones as Self-Modifying Learning Systems.",
+      "stars": 504,
+      "language": "Python",
+      "topics": [
+        "backbone",
+        "backbone-networks",
+        "computer-vision",
+        "image-classification",
+        "vision-framework"
+      ]
+    },
+    {
+      "name": "composio-community/open-dot",
+      "url": "https://github.com/composio-community/open-dot",
+      "summary": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
+      "stars": 472,
+      "language": "TypeScript",
+      "topics": []
+    }
+  ]
+}

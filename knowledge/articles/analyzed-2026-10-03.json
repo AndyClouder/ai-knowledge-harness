@@ -1,0 +1,44 @@
+[
+  {
+    "id": "9ec859f6-9b7e-48c8-bc70-38fe04ce5a4b",
+    "title": "PSRben/VisionHOPE",
+    "source_url": "https://github.com/PSRben/VisionHOPE",
+    "source": "unknown",
+    "collected_at": "2026-10-03T13:01:06.781964+00:00",
+    "analyzed_at": "2026-10-03T13:01:06.781964+00:00",
+    "summary": "Official PyTorch implementation of VisionHOPE: Visual Backbones as Self-Modifying Learning Systems.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 504,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "3ae15d50-1de3-4185-be0c-9da089ca85c6",
+    "title": "composio-community/open-dot",
+    "source_url": "https://github.com/composio-community/open-dot",
+    "source": "unknown",
+    "collected_at": "2026-10-03T13:01:08.011828+00:00",
+    "analyzed_at": "2026-10-03T13:01:08.011828+00:00",
+    "summary": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 472,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  }
+]
