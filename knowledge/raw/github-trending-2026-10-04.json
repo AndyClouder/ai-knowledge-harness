@@ -1,0 +1,81 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-10-04T13:39:44.934013+00:00",
+  "items": [
+    {
+      "name": "nykooi1/vibe-wise",
+      "url": "https://github.com/nykooi1/vibe-wise",
+      "summary": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
+      "stars": 865,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "QingYunA/answer-me-with-html",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "summary": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "stars": 807,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skill",
+        "ai-agent",
+        "claude-code",
+        "cli",
+        "diagram",
+        "explainer",
+        "html",
+        "llm",
+        "ste100"
+      ]
+    },
+    {
+      "name": "oil-oil/oil-ui",
+      "url": "https://github.com/oil-oil/oil-ui",
+      "summary": "把 AI 的 UI 设计能力推到极限。",
+      "stars": 447,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "Ceilingmoreminisce/Discord-Server-Raider",
+      "url": "https://github.com/Ceilingmoreminisce/Discord-Server-Raider",
+      "summary": "Automate server management and enhance security on your GitHub-hosted projects using Discords's powerful bot that optimizes resource allocation and...",
+      "stars": 408,
+      "language": null,
+      "topics": [
+        "discord-bot-raid",
+        "discord-multitools",
+        "discord-nuke",
+        "discord-raid",
+        "discord-raid-bot",
+        "discord-raid-tool",
+        "discord-raid-tools",
+        "raid",
+        "raid-bot",
+        "raid-protection",
+        "raiding"
+      ]
+    },
+    {
+      "name": "BladesmanSound/DVD-Creator",
+      "url": "https://github.com/BladesmanSound/DVD-Creator",
+      "summary": "Efficiently organizes digital media files into polished DVD structures, eliminating manual formatting labor.",
+      "stars": 407,
+      "language": null,
+      "topics": [
+        "acer-nitro",
+        "ais-data",
+        "aiseesoft-data-recovery-speed-comparison",
+        "aiseesoft-fonelab-for-ios",
+        "aiseesoft-recover-deleted-files",
+        "aiseesoft-video-converter-pc",
+        "aosp-build",
+        "compound-engineering",
+        "dvd-authoring-on-windows",
+        "dvd-menu-customization-windows",
+        "ios-open-source"
+      ]
+    }
+  ]
+}

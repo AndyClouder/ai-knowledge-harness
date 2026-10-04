@@ -1,0 +1,422 @@
+[
+  {
+    "id": "519eec05-c2b1-48dd-8589-a37868ca0981",
+    "title": "nykooi1/vibe-wise",
+    "source_url": "https://github.com/nykooi1/vibe-wise",
+    "source": "unknown",
+    "collected_at": "2026-10-04T13:40:21.276733+00:00",
+    "analyzed_at": "2026-10-04T13:40:21.276733+00:00",
+    "summary": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 865,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "c9d66c6d-5aec-4d1a-897d-33417edbed08",
+    "title": "QingYunA/answer-me-with-html",
+    "source_url": "https://github.com/QingYunA/answer-me-with-html",
+    "source": "unknown",
+    "collected_at": "2026-10-04T13:40:22.487463+00:00",
+    "analyzed_at": "2026-10-04T13:40:22.487463+00:00",
+    "summary": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 807,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "c5ee6e25-083d-486f-9f2c-1087b2f2bf22",
+    "title": "oil-oil/oil-ui",
+    "source_url": "https://github.com/oil-oil/oil-ui",
+    "source": "unknown",
+    "collected_at": "2026-10-04T13:40:23.701010+00:00",
+    "analyzed_at": "2026-10-04T13:40:23.701010+00:00",
+    "summary": "把 AI 的 UI 设计能力推到极限。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 447,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "65e836ae-d643-46a7-9d26-2a48804d535a",
+    "title": "Ceilingmoreminisce/Discord-Server-Raider",
+    "source_url": "https://github.com/Ceilingmoreminisce/Discord-Server-Raider",
+    "source": "unknown",
+    "collected_at": "2026-10-04T13:40:24.910560+00:00",
+    "analyzed_at": "2026-10-04T13:40:24.910560+00:00",
+    "summary": "Automate server management and enhance security on your GitHub-hosted projects using Discords's powerful bot that optimizes resource allocation and...",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 408,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "e03134dc-32f9-4250-8791-8681a7e94dba",
+    "title": "BladesmanSound/DVD-Creator",
+    "source_url": "https://github.com/BladesmanSound/DVD-Creator",
+    "source": "unknown",
+    "collected_at": "2026-10-04T13:40:26.119282+00:00",
+    "analyzed_at": "2026-10-04T13:40:26.119282+00:00",
+    "summary": "Efficiently organizes digital media files into polished DVD structures, eliminating manual formatting labor.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 407,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "eb4f43e6-91b5-4dd7-bdc1-9a424108b3cb",
+    "title": "Show HN: B1 Sprechen – Practise German B1 Speaking Exams with AI",
+    "source_url": "https://b1sprechen.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-04T13:40:27.326441+00:00",
+    "analyzed_at": "2026-10-04T13:40:27.326441+00:00",
+    "summary": "Article URL: https://b1sprechen.com/\nComments URL: https://news.ycombinator.com/item?id=49953820\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "HumphreyZ",
+      "language": null
+    }
+  },
+  {
+    "id": "3c402c28-7633-4647-aa4c-280d2f79ffa0",
+    "title": "What AI debates have to do with alchemy",
+    "source_url": "https://www.programmablemutter.com/p/what-ai-debates-have-to-do-with-alchemy",
+    "source": "hacker_news",
+    "collected_at": "2026-10-04T13:40:28.539842+00:00",
+    "analyzed_at": "2026-10-04T13:40:28.539842+00:00",
+    "summary": "Article URL: https://www.programmablemutter.com/p/what-ai-debates-have-to-do-with-alchemy\nComments URL: https://news.ycombinator.com/item?id=49953664\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rwmj",
+      "language": null
+    }
+  },
+  {
+    "id": "57c2df78-ca44-4304-af2d-4eae5910fc1c",
+    "title": "AI's 'Thought' Process Can No Longer Be Trusted",
+    "source_url": "https://www.wsj.com/tech/ai/ai-monitoring-chain-of-thought-research-b46a05fd",
+    "source": "hacker_news",
+    "collected_at": "2026-10-04T13:40:29.748989+00:00",
+    "analyzed_at": "2026-10-04T13:40:29.748989+00:00",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/ai-monitoring-chain-of-thought-research-b46a05fd\nComments URL: https://news.ycombinator.com/item?id=49953523\nPoints: 3\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "1vuio0pswjnm7",
+      "language": null
+    }
+  },
+  {
+    "id": "d29e44d5-5b75-498c-afe8-06f05e45f062",
+    "title": "Herbarium – keep and review the HTML pages AI tools generate",
+    "source_url": "https://github.com/abdoufermat5/herbarium",
+    "source": "hacker_news",
+    "collected_at": "2026-10-04T13:40:30.961181+00:00",
+    "analyzed_at": "2026-10-04T13:40:30.961181+00:00",
+    "summary": "Article URL: https://github.com/abdoufermat5/herbarium\nComments URL: https://news.ycombinator.com/item?id=49953497\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "abdouyaya1998",
+      "language": null
+    }
+  },
+  {
+    "id": "48f5552c-191c-43c2-b760-b64458176cc9",
+    "title": "Harden Your AI Agent",
+    "source_url": "https://sometechblog.com/harden-your-ai-agent",
+    "source": "hacker_news",
+    "collected_at": "2026-10-04T13:40:32.184312+00:00",
+    "analyzed_at": "2026-10-04T13:40:32.184312+00:00",
+    "summary": "Article URL: https://sometechblog.com/harden-your-ai-agent\nComments URL: https://news.ycombinator.com/item?id=49953464\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "l5870uoo9y",
+      "language": null
+    }
+  },
+  {
+    "id": "01016de9-c96d-4b6a-b8e4-60e9987c0944",
+    "title": "Fighting AI slop in science papers",
+    "source_url": "https://www.unite.ai/fighting-ai-slop-in-science-papers/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-04T13:40:33.393604+00:00",
+    "analyzed_at": "2026-10-04T13:40:33.393604+00:00",
+    "summary": "Article URL: https://www.unite.ai/fighting-ai-slop-in-science-papers/\nComments URL: https://news.ycombinator.com/item?id=49953325\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "50kIters",
+      "language": null
+    }
+  },
+  {
+    "id": "f05064e1-78e9-4af0-87a6-c5c22b2f106a",
+    "title": "98% of US households aren't paying for AI yet",
+    "source_url": "https://www.a16z.news/p/state-of-markets-ii",
+    "source": "hacker_news",
+    "collected_at": "2026-10-04T13:40:34.608600+00:00",
+    "analyzed_at": "2026-10-04T13:40:34.608600+00:00",
+    "summary": "Article URL: https://www.a16z.news/p/state-of-markets-ii\nComments URL: https://news.ycombinator.com/item?id=49953246\nPoints: 5\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "7777777phil",
+      "language": null
+    }
+  },
+  {
+    "id": "f516a466-cee3-48b6-a73b-8c942141d97e",
+    "title": "Ask HN: How would AI kill us all?",
+    "source_url": "https://news.ycombinator.com/item?id=49953228",
+    "source": "hacker_news",
+    "collected_at": "2026-10-04T13:40:35.826356+00:00",
+    "analyzed_at": "2026-10-04T13:40:35.826356+00:00",
+    "summary": "I've watched a lot of doomer videos and read many articles but it's never really clear how this will play out. I don't see a terminator ending so I don't think it will be rise of the machines styles. ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ryandetzel",
+      "language": null
+    }
+  },
+  {
+    "id": "538c9728-bf06-4e83-92f5-fa5b1e226bb8",
+    "title": "AI Tells: Opus 5.5 Update",
+    "source_url": "https://graphite.io/five-percent/research/ai-tells-opus-5-5-update",
+    "source": "hacker_news",
+    "collected_at": "2026-10-04T13:40:37.047546+00:00",
+    "analyzed_at": "2026-10-04T13:40:37.047546+00:00",
+    "summary": "Article URL: https://graphite.io/five-percent/research/ai-tells-opus-5-5-update\nComments URL: https://news.ycombinator.com/item?id=49953160\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "cainxinth",
+      "language": null
+    }
+  },
+  {
+    "id": "9d3f7d1a-3e4b-48c5-885b-cf6df1f3f64a",
+    "title": "Asia-Pacific Journal Series – Introduction: Military AI Has Left the Laboratory",
+    "source_url": "https://lieber.westpoint.edu/asia-pacific-ai-series-introduction-military-ai-has-left-laboratory/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-04T13:40:38.405904+00:00",
+    "analyzed_at": "2026-10-04T13:40:38.405904+00:00",
+    "summary": "Article URL: https://lieber.westpoint.edu/asia-pacific-ai-series-introduction-military-ai-has-left-laboratory/\nComments URL: https://news.ycombinator.com/item?id=49952994\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "snarky-comments",
+      "language": null
+    }
+  },
+  {
+    "id": "97ef9063-5870-47af-a408-1393257fd6cc",
+    "title": "The Mythology of Conscious AI",
+    "source_url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-04T13:40:39.613202+00:00",
+    "analyzed_at": "2026-10-04T13:40:39.613202+00:00",
+    "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/\nComments URL: https://news.ycombinator.com/item?id=49952991\nPoints: 3\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Anon84",
+      "language": null
+    }
+  },
+  {
+    "id": "e9d664a0-53d7-45ac-b412-439cfbd2fe8f",
+    "title": "MentaAgent – a self-hosted AI analyst for a company's own files",
+    "source_url": "https://github.com/DanielKim03/mentaagent",
+    "source": "hacker_news",
+    "collected_at": "2026-10-04T13:40:40.819913+00:00",
+    "analyzed_at": "2026-10-04T13:40:40.819913+00:00",
+    "summary": "Article URL: https://github.com/DanielKim03/mentaagent\nComments URL: https://news.ycombinator.com/item?id=49952810\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "kdaniel_03",
+      "language": null
+    }
+  },
+  {
+    "id": "48fd0c46-6171-4b34-931b-dd2f393263e2",
+    "title": "The ML4Good Technical AI Safety Bootcamp: What to Expect",
+    "source_url": "https://www.lesswrong.com/posts/a7Lds5i5rfEE2doFa/inside-the-ml4good-technical-ai-safety-bootcamp-what-to-1",
+    "source": "hacker_news",
+    "collected_at": "2026-10-04T13:40:42.026571+00:00",
+    "analyzed_at": "2026-10-04T13:40:42.026571+00:00",
+    "summary": "Article URL: https://www.lesswrong.com/posts/a7Lds5i5rfEE2doFa/inside-the-ml4good-technical-ai-safety-bootcamp-what-to-1\nComments URL: https://news.ycombinator.com/item?id=49952800\nPoints: 1\n# Comment",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "joozio",
+      "language": null
+    }
+  },
+  {
+    "id": "10e311cb-169d-4188-815e-d7da0f3f4aa9",
+    "title": "AI Policy Enforcement Report",
+    "source_url": "https://delinea.com/resources/ai-policy-enforcement-report",
+    "source": "hacker_news",
+    "collected_at": "2026-10-04T13:40:43.244523+00:00",
+    "analyzed_at": "2026-10-04T13:40:43.244523+00:00",
+    "summary": "Article URL: https://delinea.com/resources/ai-policy-enforcement-report\nComments URL: https://news.ycombinator.com/item?id=49952749\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "based2",
+      "language": null
+    }
+  },
+  {
+    "id": "dce31d78-f3dd-4ab1-9ae2-100aeff3d614",
+    "title": "[No] Use for Humans in the Age of AI",
+    "source_url": "https://blog.hackflow.ru/blog/2026/10/04/ai-balance-of-power/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-04T13:40:44.618242+00:00",
+    "analyzed_at": "2026-10-04T13:40:44.618242+00:00",
+    "summary": "Article URL: https://blog.hackflow.ru/blog/2026/10/04/ai-balance-of-power/\nComments URL: https://news.ycombinator.com/item?id=49952728\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Suor",
+      "language": null
+    }
+  }
+]
