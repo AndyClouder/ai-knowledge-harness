@@ -1,0 +1,422 @@
+[
+  {
+    "id": "5871a5db-455c-4e45-bfd1-f982d0209693",
+    "title": "storytold/photocraft",
+    "source_url": "https://github.com/storytold/photocraft",
+    "source": "unknown",
+    "collected_at": "2026-10-05T16:46:11.084339+00:00",
+    "analyzed_at": "2026-10-05T16:46:11.084339+00:00",
+    "summary": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1727,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "be7dc499-f4d8-40f8-a395-d021910ba48d",
+    "title": "omlahore/RemoveMacAI",
+    "source_url": "https://github.com/omlahore/RemoveMacAI",
+    "source": "unknown",
+    "collected_at": "2026-10-05T16:46:12.311959+00:00",
+    "analyzed_at": "2026-10-05T16:46:12.311959+00:00",
+    "summary": "Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1521,
+      "score": null,
+      "author": null,
+      "language": "Swift"
+    }
+  },
+  {
+    "id": "14cc1681-4ac4-4635-b19b-c39ec9a49c36",
+    "title": "StayLameBro/backburner",
+    "source_url": "https://github.com/StayLameBro/backburner",
+    "source": "unknown",
+    "collected_at": "2026-10-05T16:46:13.544428+00:00",
+    "analyzed_at": "2026-10-05T16:46:13.544428+00:00",
+    "summary": "Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 627,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "0d034c55-c02a-4f0d-b26e-2e3a64e4d65b",
+    "title": "ythx-101/live-panel-skill",
+    "source_url": "https://github.com/ythx-101/live-panel-skill",
+    "source": "unknown",
+    "collected_at": "2026-10-05T16:46:14.777944+00:00",
+    "analyzed_at": "2026-10-05T16:46:14.777944+00:00",
+    "summary": "Config-driven animated architecture diagrams: turn one JSON file into a terminal-style, always-running diagram or a light-theme infographic that moves. Outputs H.264 mp4 or a live web page; also a Cla",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 570,
+      "score": null,
+      "author": null,
+      "language": "HTML"
+    }
+  },
+  {
+    "id": "c3d9e1a1-b544-47ea-a623-46f4c908eb7a",
+    "title": "lucasmarkes/hairline",
+    "source_url": "https://github.com/lucasmarkes/hairline",
+    "source": "unknown",
+    "collected_at": "2026-10-05T16:46:16.010492+00:00",
+    "analyzed_at": "2026-10-05T16:46:16.010492+00:00",
+    "summary": "Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 496,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "c9ea40f9-7ea9-42e1-a878-7a24c98cb54e",
+    "title": "whirlchat/whirl",
+    "source_url": "https://github.com/whirlchat/whirl",
+    "source": "unknown",
+    "collected_at": "2026-10-05T16:46:17.241612+00:00",
+    "analyzed_at": "2026-10-05T16:46:17.241612+00:00",
+    "summary": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 470,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "d72d9cb0-792a-4071-8612-505c623f1677",
+    "title": "Show HN: Made a xcom like game in a weekend with AI. 3D, textures, models, etc.",
+    "source_url": "https://playgama.ai/play/55p62bkfsc",
+    "source": "hacker_news",
+    "collected_at": "2026-10-05T16:46:18.470897+00:00",
+    "analyzed_at": "2026-10-05T16:46:18.470897+00:00",
+    "summary": "I published it to playgama, but first want to say how it helped me. One of my ideas was to make something like X-Com but provide an indirect control - you control the leader, and your squad members ma",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "AndreyK1984",
+      "language": null
+    }
+  },
+  {
+    "id": "38b3a7dd-d718-42a8-8b47-b998ac838a62",
+    "title": "No Signs of AI in the Productivity Data",
+    "source_url": "https://view.e.apollo.com/?vawpToken=7L5HV5YJ6JNUHBYA6QBXXEV6CY.120045&utm_source=mce&utm_medium=email&utm_campaign=701Dp00000017sOIAQ&utm_content=https%3a%2f%2fview.e.apollo.com%2f%3fvawpToken%3d%25%25tokenized_vawp_metadata%25%25&utm_id=76effdac4c9a922585b0715a3796d544&mce_id=208988442",
+    "source": "hacker_news",
+    "collected_at": "2026-10-05T16:46:19.699927+00:00",
+    "analyzed_at": "2026-10-05T16:46:19.699927+00:00",
+    "summary": "Article URL: https://view.e.apollo.com/?vawpToken=7L5HV5YJ6JNUHBYA6QBXXEV6CY.120045&amp;utm_source=mce&amp;utm_medium=email&amp;utm_campaign=701Dp00000017sOIAQ&amp;utm_content=https%3a%2f%2fview.e.apo",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "el_benhameen",
+      "language": null
+    }
+  },
+  {
+    "id": "58f92376-43c6-4948-8f85-dfb1b95b05be",
+    "title": "Show HN: I Want My AI – 75% OFF – 7V34KVYSU5",
+    "source_url": "https://iwantmy.ai/welcome",
+    "source": "hacker_news",
+    "collected_at": "2026-10-05T16:46:20.928442+00:00",
+    "analyzed_at": "2026-10-05T16:46:20.928442+00:00",
+    "summary": "Article URL: https://iwantmy.ai/welcome\nComments URL: https://news.ycombinator.com/item?id=49966967\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "relatedcode",
+      "language": null
+    }
+  },
+  {
+    "id": "5bd72075-f4da-4a9d-a3f4-fac1aeb71ac3",
+    "title": "SoftBank's Masayoshi Son has rare cautionary note on AI safety",
+    "source_url": "https://www.japantimes.co.jp/business/2026/10/05/companies/softbank-son-ai-risks/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-05T16:46:22.158340+00:00",
+    "analyzed_at": "2026-10-05T16:46:22.158340+00:00",
+    "summary": "Article URL: https://www.japantimes.co.jp/business/2026/10/05/companies/softbank-son-ai-risks/\nComments URL: https://news.ycombinator.com/item?id=49966830\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mikhael",
+      "language": null
+    }
+  },
+  {
+    "id": "dff43b3f-7794-4195-97a8-ee520058f9e4",
+    "title": "Pricing and viability of indie apps post-AI",
+    "source_url": "https://www.reddit.com/r/macapps/comments/1wvyd4s/pricing_and_viability_of_indie_apps_postai/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-05T16:46:23.387202+00:00",
+    "analyzed_at": "2026-10-05T16:46:23.387202+00:00",
+    "summary": "Article URL: https://www.reddit.com/r/macapps/comments/1wvyd4s/pricing_and_viability_of_indie_apps_postai/\nComments URL: https://news.ycombinator.com/item?id=49966778\nPoints: 2\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "marshalla",
+      "language": null
+    }
+  },
+  {
+    "id": "14a1fffa-376d-4ee8-b05e-cc99da47354b",
+    "title": "What the AI boom is doing for Americans – Noah Smith",
+    "source_url": "https://www.noahpinion.blog/p/what-the-ai-boom-is-doing-for-americans",
+    "source": "hacker_news",
+    "collected_at": "2026-10-05T16:46:24.644535+00:00",
+    "analyzed_at": "2026-10-05T16:46:24.644535+00:00",
+    "summary": "Article URL: https://www.noahpinion.blog/p/what-the-ai-boom-is-doing-for-americans\nComments URL: https://news.ycombinator.com/item?id=49966755\nPoints: 3\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "bluepeter",
+      "language": null
+    }
+  },
+  {
+    "id": "2c1389e7-e911-446b-9430-549c9ec58a23",
+    "title": "Show HN: Designobo – AI prototyping tool in 40kb of js",
+    "source_url": "https://designobo.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-05T16:46:25.912572+00:00",
+    "analyzed_at": "2026-10-05T16:46:25.912572+00:00",
+    "summary": "hi HNI'm building designobo, a very fast ai prototyping tool. It let's you create and compare html prototypes in an infinite canvas. There's also a full css editor if you want to manually edit styles.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "crowdyriver",
+      "language": null
+    }
+  },
+  {
+    "id": "bad8ac5c-db47-42c0-bd3a-a5c54f00559e",
+    "title": "Show HN: Leftovers – FOSS macOS app to cleanup after AI agents",
+    "source_url": "https://github.com/arpwal/leftovers",
+    "source": "hacker_news",
+    "collected_at": "2026-10-05T16:46:27.180145+00:00",
+    "analyzed_at": "2026-10-05T16:46:27.180145+00:00",
+    "summary": "Article URL: https://github.com/arpwal/leftovers\nComments URL: https://news.ycombinator.com/item?id=49966727\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "arpitagarwal",
+      "language": null
+    }
+  },
+  {
+    "id": "a813be39-5602-4ec1-b77b-bd1d963260d8",
+    "title": "Best Books/Courses/Channels to Leapfrog on AI/ML Material",
+    "source_url": "https://news.ycombinator.com/item?id=49966625",
+    "source": "hacker_news",
+    "collected_at": "2026-10-05T16:46:28.410291+00:00",
+    "analyzed_at": "2026-10-05T16:46:28.410291+00:00",
+    "summary": "Assuming I have been on hibernation since 2018-19  time frame, which materials - books, MOOC courses and YT channels would be recommended for me to get started with understanding all the current progr",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "dtsdwarak",
+      "language": null
+    }
+  },
+  {
+    "id": "cddf5b4f-accb-4a0a-8123-5686fed5a570",
+    "title": "What AI Means for Career Growth",
+    "source_url": "https://letters.unchartedpathbreakthroughs.com/posts/what-ai-means-for-career-growth",
+    "source": "hacker_news",
+    "collected_at": "2026-10-05T16:46:29.637037+00:00",
+    "analyzed_at": "2026-10-05T16:46:29.637037+00:00",
+    "summary": "Article URL: https://letters.unchartedpathbreakthroughs.com/posts/what-ai-means-for-career-growth\nComments URL: https://news.ycombinator.com/item?id=49966415\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mooreds",
+      "language": null
+    }
+  },
+  {
+    "id": "7aa8e52b-389a-44b4-b826-562474ba38ea",
+    "title": "AI Parametric Part Design with FreeCAD on Browser",
+    "source_url": "https://chat.extrudeai.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-05T16:46:30.864179+00:00",
+    "analyzed_at": "2026-10-05T16:46:30.864179+00:00",
+    "summary": "Article URL: https://chat.extrudeai.com/\nComments URL: https://news.ycombinator.com/item?id=49966338\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "talatuyarer",
+      "language": null
+    }
+  },
+  {
+    "id": "20424b0b-ea60-4bc1-b9d8-e0df24386cd6",
+    "title": "AI Attribution (AIA) – Timothy Cook",
+    "source_url": "https://timothyfcook.com/aia",
+    "source": "hacker_news",
+    "collected_at": "2026-10-05T16:46:32.093162+00:00",
+    "analyzed_at": "2026-10-05T16:46:32.093162+00:00",
+    "summary": "Article URL: https://timothyfcook.com/aia\nComments URL: https://news.ycombinator.com/item?id=49966237\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pkaeding",
+      "language": null
+    }
+  },
+  {
+    "id": "0b3eb3ba-4335-4713-91bc-d941d9b6b3bc",
+    "title": "Reporting AI Studies in Education (Raise) Framework",
+    "source_url": "https://www.bera.ac.uk/blog/can-we-trust-ai-research-in-education-introducing-the-reporting-ai-studies-in-education-raise-framework",
+    "source": "hacker_news",
+    "collected_at": "2026-10-05T16:46:33.323741+00:00",
+    "analyzed_at": "2026-10-05T16:46:33.323741+00:00",
+    "summary": "Article URL: https://www.bera.ac.uk/blog/can-we-trust-ai-research-in-education-introducing-the-reporting-ai-studies-in-education-raise-framework\nComments URL: https://news.ycombinator.com/item?id=4996",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ilreb",
+      "language": null
+    }
+  },
+  {
+    "id": "59b91a65-d764-4e18-a494-cc1f5d55100d",
+    "title": "AI Survey and instant insights",
+    "source_url": "https://crowdlee.com",
+    "source": "hacker_news",
+    "collected_at": "2026-10-05T16:46:34.554117+00:00",
+    "analyzed_at": "2026-10-05T16:46:34.554117+00:00",
+    "summary": "Article URL: https://crowdlee.com\nComments URL: https://news.ycombinator.com/item?id=49966043\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "areffhb",
+      "language": null
+    }
+  }
+]

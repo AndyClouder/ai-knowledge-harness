@@ -1,0 +1,107 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-10-05T16:46:06.081364+00:00",
+  "items": [
+    {
+      "name": "storytold/photocraft",
+      "url": "https://github.com/storytold/photocraft",
+      "summary": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
+      "stars": 1727,
+      "language": "Rust",
+      "topics": [
+        "adobe",
+        "adobe-photoshop-2026",
+        "adobe-photoshop-2026-ai",
+        "art",
+        "image-editing",
+        "image-editing-software",
+        "image-editor",
+        "images",
+        "photo-editing",
+        "photoshop",
+        "psd",
+        "rust"
+      ]
+    },
+    {
+      "name": "omlahore/RemoveMacAI",
+      "url": "https://github.com/omlahore/RemoveMacAI",
+      "summary": "Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible.",
+      "stars": 1521,
+      "language": "Swift",
+      "topics": [
+        "apple-intelligence",
+        "cli",
+        "debloat",
+        "macos",
+        "macos-27",
+        "privacy",
+        "siri",
+        "swift"
+      ]
+    },
+    {
+      "name": "StayLameBro/backburner",
+      "url": "https://github.com/StayLameBro/backburner",
+      "summary": "Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
+      "stars": 627,
+      "language": "Python",
+      "topics": [
+        "apple-silicon",
+        "ios",
+        "iphone",
+        "llama-cpp",
+        "llm-inference",
+        "local-llm",
+        "macos",
+        "metal",
+        "qwen",
+        "sme2",
+        "speculative-decoding"
+      ]
+    },
+    {
+      "name": "ythx-101/live-panel-skill",
+      "url": "https://github.com/ythx-101/live-panel-skill",
+      "summary": "Config-driven animated architecture diagrams: turn one JSON file into a terminal-style, always-running diagram or a light-theme infographic that moves. Outputs H.264 mp4 or a live web page; also a Cla",
+      "stars": 570,
+      "language": "HTML",
+      "topics": []
+    },
+    {
+      "name": "lucasmarkes/hairline",
+      "url": "https://github.com/lucasmarkes/hairline",
+      "summary": "Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
+      "stars": 496,
+      "language": "TypeScript",
+      "topics": [
+        "animation",
+        "isometric",
+        "react",
+        "shadcn",
+        "svg",
+        "typescript"
+      ]
+    },
+    {
+      "name": "whirlchat/whirl",
+      "url": "https://github.com/whirlchat/whirl",
+      "summary": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+      "stars": 470,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-chat",
+        "chat",
+        "convex",
+        "llm",
+        "nextjs",
+        "openrouter",
+        "react",
+        "self-hosted",
+        "typescript"
+      ]
+    }
+  ]
+}
