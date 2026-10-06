@@ -1,0 +1,422 @@
+[
+  {
+    "id": "3d44f975-3f22-49bd-aa93-780a3ce0c944",
+    "title": "Jakeschincariol/replica-skill",
+    "source_url": "https://github.com/Jakeschincariol/replica-skill",
+    "source": "unknown",
+    "collected_at": "2026-10-06T14:43:50.070139+00:00",
+    "analyzed_at": "2026-10-06T14:43:50.070139+00:00",
+    "summary": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 635,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "5b97aee8-9af9-4201-8039-e79bbe331b13",
+    "title": "elstongun/leviathan",
+    "source_url": "https://github.com/elstongun/leviathan",
+    "source": "unknown",
+    "collected_at": "2026-10-06T14:43:51.282860+00:00",
+    "analyzed_at": "2026-10-06T14:43:51.282860+00:00",
+    "summary": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-t",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 559,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "172b584b-b10e-4882-a2b7-b66395233f1e",
+    "title": "AgentMemoryRepo/agentmemoryrepo",
+    "source_url": "https://github.com/AgentMemoryRepo/agentmemoryrepo",
+    "source": "unknown",
+    "collected_at": "2026-10-06T14:43:52.493820+00:00",
+    "analyzed_at": "2026-10-06T14:43:52.493820+00:00",
+    "summary": "Spec for Agent Memory Repo",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 488,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "7dbfb44e-7729-4b43-a6dd-275ce3fe248e",
+    "title": "Building advertising for the way people use AI",
+    "source_url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-06T14:43:53.709449+00:00",
+    "analyzed_at": "2026-10-06T14:43:53.709449+00:00",
+    "summary": "Article URL: https://openai.com/index/new-chatgpt-ads-format-and-measurement/\nComments URL: https://news.ycombinator.com/item?id=49979167\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "gmays",
+      "language": null
+    }
+  },
+  {
+    "id": "de625b7c-49c6-46e5-ba5b-767f10efa3f9",
+    "title": "Our minds aren't equipped to handle AI",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+    "source": "hacker_news",
+    "collected_at": "2026-10-06T14:43:54.917911+00:00",
+    "analyzed_at": "2026-10-06T14:43:54.917911+00:00",
+    "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought\nComments URL: https://news.ycombinator.com/item?id=49979121\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rpgbr",
+      "language": null
+    }
+  },
+  {
+    "id": "652e7e45-8245-47c6-8394-0eb534d4c074",
+    "title": "JumpStar is the world's strongest AI engine for Chinese Checkers",
+    "source_url": "https://chinesecheckers.ai/chinese-checkers-ai",
+    "source": "hacker_news",
+    "collected_at": "2026-10-06T14:43:56.129569+00:00",
+    "analyzed_at": "2026-10-06T14:43:56.129569+00:00",
+    "summary": "Article URL: https://chinesecheckers.ai/chinese-checkers-ai\nComments URL: https://news.ycombinator.com/item?id=49979078\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "CharlesW",
+      "language": null
+    }
+  },
+  {
+    "id": "493f697f-bd83-4388-a1dc-d2c090448d64",
+    "title": "Show HN: RigMark benchmarks local AI the way coding agents use it",
+    "source_url": "https://github.com/alexellis/rigmark",
+    "source": "hacker_news",
+    "collected_at": "2026-10-06T14:43:57.336164+00:00",
+    "analyzed_at": "2026-10-06T14:43:57.336164+00:00",
+    "summary": "Article URL: https://github.com/alexellis/rigmark\nComments URL: https://news.ycombinator.com/item?id=49979017\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "alexellisuk",
+      "language": null
+    }
+  },
+  {
+    "id": "11b2d413-62f4-417f-a5bc-66429ee7ea5b",
+    "title": "Show HN: Bringing a Billy Bass to Life with AI",
+    "source_url": "https://twitter.com/MorgantWillis/status/2107463928196247843",
+    "source": "hacker_news",
+    "collected_at": "2026-10-06T14:43:58.542178+00:00",
+    "analyzed_at": "2026-10-06T14:43:58.542178+00:00",
+    "summary": "Article URL: https://twitter.com/MorgantWillis/status/2107463928196247843\nComments URL: https://news.ycombinator.com/item?id=49979003\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mtw14",
+      "language": null
+    }
+  },
+  {
+    "id": "732e2a44-beee-4e0f-93f7-c63115eab658",
+    "title": "Show HN: Orbtile – See which AI coding agent needs you, on a Logitech keypad",
+    "source_url": "https://orbtile.com/?s=hn",
+    "source": "hacker_news",
+    "collected_at": "2026-10-06T14:43:59.752770+00:00",
+    "analyzed_at": "2026-10-06T14:43:59.752770+00:00",
+    "summary": "Article URL: https://orbtile.com/?s=hn\nComments URL: https://news.ycombinator.com/item?id=49978997\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "diogomendes",
+      "language": null
+    }
+  },
+  {
+    "id": "1a3c464c-fa02-4bf9-959f-b987fbb133d1",
+    "title": "NewsGuard Launches First AI Chatbot Built to Deliver Trusted Journalism",
+    "source_url": "https://www.newsguardtech.com/press/newsguard-launches-first-ai-chatbot-built-to-deliver-trusted-journalism-only-from-reliable-news-websites/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-06T14:44:00.963871+00:00",
+    "analyzed_at": "2026-10-06T14:44:00.963871+00:00",
+    "summary": "Article URL: https://www.newsguardtech.com/press/newsguard-launches-first-ai-chatbot-built-to-deliver-trusted-journalism-only-from-reliable-news-websites/\nComments URL: https://news.ycombinator.com/it",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "bariumbitmap",
+      "language": null
+    }
+  },
+  {
+    "id": "095d4fd4-c9b8-4441-908c-c29dc9cf8045",
+    "title": "The Fossil Logic of the Industrial and AI Revolutions",
+    "source_url": "https://blue-continuum.com/fossil-logic",
+    "source": "hacker_news",
+    "collected_at": "2026-10-06T14:44:02.174657+00:00",
+    "analyzed_at": "2026-10-06T14:44:02.174657+00:00",
+    "summary": "Article URL: https://blue-continuum.com/fossil-logic\nComments URL: https://news.ycombinator.com/item?id=49978884\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "dnetesn",
+      "language": null
+    }
+  },
+  {
+    "id": "31071de9-9bdc-489d-a919-fa4b003818d5",
+    "title": "Test Driven Development in the AI Era [pdf]",
+    "source_url": "https://monografias.dcc.ufmg.br/wp-content/uploads/TDD_in_the_AI_Era___POC_2-1.pdf",
+    "source": "hacker_news",
+    "collected_at": "2026-10-06T14:44:03.388194+00:00",
+    "analyzed_at": "2026-10-06T14:44:03.388194+00:00",
+    "summary": "Article URL: https://monografias.dcc.ufmg.br/wp-content/uploads/TDD_in_the_AI_Era___POC_2-1.pdf\nComments URL: https://news.ycombinator.com/item?id=49978808\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "neogodless",
+      "language": null
+    }
+  },
+  {
+    "id": "4ec7c924-6a05-4d0d-b926-32c97a87fe52",
+    "title": "The WarGames problem: AI agents don't go rogue",
+    "source_url": "https://mappingignorance.org/2026/10/06/the-wargames-problem-ai-agents-dont-go-rogue/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-06T14:44:04.602790+00:00",
+    "analyzed_at": "2026-10-06T14:44:04.602790+00:00",
+    "summary": "Article URL: https://mappingignorance.org/2026/10/06/the-wargames-problem-ai-agents-dont-go-rogue/\nComments URL: https://news.ycombinator.com/item?id=49978714\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "runtimewire",
+      "language": null
+    }
+  },
+  {
+    "id": "06f6fcf1-574a-41a0-96fb-88c466931005",
+    "title": "OpenAI's B2B Marketplace: The Hyperscaler of AI Apps",
+    "source_url": "https://www.akashbajwa.co/p/openais-b2b-marketplace-the-hyperscaler",
+    "source": "hacker_news",
+    "collected_at": "2026-10-06T14:44:05.842641+00:00",
+    "analyzed_at": "2026-10-06T14:44:05.842641+00:00",
+    "summary": "Article URL: https://www.akashbajwa.co/p/openais-b2b-marketplace-the-hyperscaler\nComments URL: https://news.ycombinator.com/item?id=49978663\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "gmays",
+      "language": null
+    }
+  },
+  {
+    "id": "95660156-1929-4783-af45-3872a5bbf0b7",
+    "title": "CharacterMemory: Memory System for AI Characters",
+    "source_url": "https://github.com/FrancescoCaracciolo/CharacterMemory",
+    "source": "hacker_news",
+    "collected_at": "2026-10-06T14:44:07.061721+00:00",
+    "analyzed_at": "2026-10-06T14:44:07.061721+00:00",
+    "summary": "Article URL: https://github.com/FrancescoCaracciolo/CharacterMemory\nComments URL: https://news.ycombinator.com/item?id=49978643\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "francescocaracc",
+      "language": null
+    }
+  },
+  {
+    "id": "24dcb4b3-d258-4435-ae1b-9a97d7a3de6c",
+    "title": "AI chatbots recommend shopping at Walmart over just about anywhere else",
+    "source_url": "https://www.morningstar.com/news/marketwatch/2026100584/ai-chatbots-recommend-shopping-at-walmart-over-just-about-anywhere-else-analysts-find",
+    "source": "hacker_news",
+    "collected_at": "2026-10-06T14:44:08.269828+00:00",
+    "analyzed_at": "2026-10-06T14:44:08.269828+00:00",
+    "summary": "Article URL: https://www.morningstar.com/news/marketwatch/2026100584/ai-chatbots-recommend-shopping-at-walmart-over-just-about-anywhere-else-analysts-find\nComments URL: https://news.ycombinator.com/it",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "tolugenius",
+      "language": null
+    }
+  },
+  {
+    "id": "8c215d5b-ec0b-47ba-aa83-56feb0b4d3bc",
+    "title": "Mistral to Release New AI Model to Better Compete with U.S. Rivals",
+    "source_url": "https://www.wsj.com/tech/ai/mistral-to-release-new-ai-model-to-better-compete-with-u-s-rivals-3f7c8a3d",
+    "source": "hacker_news",
+    "collected_at": "2026-10-06T14:44:09.478333+00:00",
+    "analyzed_at": "2026-10-06T14:44:09.478333+00:00",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/mistral-to-release-new-ai-model-to-better-compete-with-u-s-rivals-3f7c8a3d\nComments URL: https://news.ycombinator.com/item?id=49978612\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "goatley",
+      "language": null
+    }
+  },
+  {
+    "id": "e6ecaf9b-7deb-49a5-8b56-f96fd8f71204",
+    "title": "Your AI Governance Problem Is Probably an Architecture Problem",
+    "source_url": "https://www.jamiecadvisory.com/perspectives/your-ai-governance-problem-is-probably-an-architecture-problem/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-06T14:44:10.688580+00:00",
+    "analyzed_at": "2026-10-06T14:44:10.688580+00:00",
+    "summary": "Article URL: https://www.jamiecadvisory.com/perspectives/your-ai-governance-problem-is-probably-an-architecture-problem/\nComments URL: https://news.ycombinator.com/item?id=49978556\nPoints: 3\n# Comment",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mooreds",
+      "language": null
+    }
+  },
+  {
+    "id": "e32addcc-e7d9-4a90-a5f5-995e79de0e4e",
+    "title": "Show HN: Strava for AI agents, they train for trust instead of fitness",
+    "source_url": "https://sealkeeper.run",
+    "source": "hacker_news",
+    "collected_at": "2026-10-06T14:44:11.896733+00:00",
+    "analyzed_at": "2026-10-06T14:44:11.896733+00:00",
+    "summary": "Article URL: https://sealkeeper.run\nComments URL: https://news.ycombinator.com/item?id=49978554\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "carlmeyer",
+      "language": null
+    }
+  },
+  {
+    "id": "8500cc0b-adaf-4a3b-9e31-124dfa0b4725",
+    "title": "McDonald's dragged to court for using AI to dynamically price burgers",
+    "source_url": "https://www.neowin.net/news/mcdonalds-dragged-to-court-for-using-ai-to-price-burgers/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-06T14:44:13.108048+00:00",
+    "analyzed_at": "2026-10-06T14:44:13.108048+00:00",
+    "summary": "Article URL: https://www.neowin.net/news/mcdonalds-dragged-to-court-for-using-ai-to-price-burgers/\nComments URL: https://news.ycombinator.com/item?id=49978529\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "bundie",
+      "language": null
+    }
+  }
+]

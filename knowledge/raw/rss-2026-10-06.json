@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-10-06T14:43:49.093979+00:00",
+  "items": [
+    {
+      "name": "Building advertising for the way people use AI",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement/",
+      "summary": "Article URL: https://openai.com/index/new-chatgpt-ads-format-and-measurement/\nComments URL: https://news.ycombinator.com/item?id=49979167\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "gmays",
+      "published": "Tue, 06 Oct 2026 14:35:22 +0000"
+    },
+    {
+      "name": "Our minds aren't equipped to handle AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought\nComments URL: https://news.ycombinator.com/item?id=49979121\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rpgbr",
+      "published": "Tue, 06 Oct 2026 14:32:02 +0000"
+    },
+    {
+      "name": "JumpStar is the world's strongest AI engine for Chinese Checkers",
+      "url": "https://chinesecheckers.ai/chinese-checkers-ai",
+      "summary": "Article URL: https://chinesecheckers.ai/chinese-checkers-ai\nComments URL: https://news.ycombinator.com/item?id=49979078\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "CharlesW",
+      "published": "Tue, 06 Oct 2026 14:28:56 +0000"
+    },
+    {
+      "name": "Show HN: RigMark benchmarks local AI the way coding agents use it",
+      "url": "https://github.com/alexellis/rigmark",
+      "summary": "Article URL: https://github.com/alexellis/rigmark\nComments URL: https://news.ycombinator.com/item?id=49979017\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "alexellisuk",
+      "published": "Tue, 06 Oct 2026 14:25:25 +0000"
+    },
+    {
+      "name": "Show HN: Bringing a Billy Bass to Life with AI",
+      "url": "https://twitter.com/MorgantWillis/status/2107463928196247843",
+      "summary": "Article URL: https://twitter.com/MorgantWillis/status/2107463928196247843\nComments URL: https://news.ycombinator.com/item?id=49979003\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mtw14",
+      "published": "Tue, 06 Oct 2026 14:24:34 +0000"
+    },
+    {
+      "name": "Show HN: Orbtile – See which AI coding agent needs you, on a Logitech keypad",
+      "url": "https://orbtile.com/?s=hn",
+      "summary": "Article URL: https://orbtile.com/?s=hn\nComments URL: https://news.ycombinator.com/item?id=49978997\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "diogomendes",
+      "published": "Tue, 06 Oct 2026 14:24:16 +0000"
+    },
+    {
+      "name": "NewsGuard Launches First AI Chatbot Built to Deliver Trusted Journalism",
+      "url": "https://www.newsguardtech.com/press/newsguard-launches-first-ai-chatbot-built-to-deliver-trusted-journalism-only-from-reliable-news-websites/",
+      "summary": "Article URL: https://www.newsguardtech.com/press/newsguard-launches-first-ai-chatbot-built-to-deliver-trusted-journalism-only-from-reliable-news-websites/\nComments URL: https://news.ycombinator.com/it",
+      "source": "hacker_news",
+      "score": null,
+      "author": "bariumbitmap",
+      "published": "Tue, 06 Oct 2026 14:18:04 +0000"
+    },
+    {
+      "name": "The Fossil Logic of the Industrial and AI Revolutions",
+      "url": "https://blue-continuum.com/fossil-logic",
+      "summary": "Article URL: https://blue-continuum.com/fossil-logic\nComments URL: https://news.ycombinator.com/item?id=49978884\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "dnetesn",
+      "published": "Tue, 06 Oct 2026 14:17:29 +0000"
+    },
+    {
+      "name": "Test Driven Development in the AI Era [pdf]",
+      "url": "https://monografias.dcc.ufmg.br/wp-content/uploads/TDD_in_the_AI_Era___POC_2-1.pdf",
+      "summary": "Article URL: https://monografias.dcc.ufmg.br/wp-content/uploads/TDD_in_the_AI_Era___POC_2-1.pdf\nComments URL: https://news.ycombinator.com/item?id=49978808\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "neogodless",
+      "published": "Tue, 06 Oct 2026 14:12:48 +0000"
+    },
+    {
+      "name": "The WarGames problem: AI agents don't go rogue",
+      "url": "https://mappingignorance.org/2026/10/06/the-wargames-problem-ai-agents-dont-go-rogue/",
+      "summary": "Article URL: https://mappingignorance.org/2026/10/06/the-wargames-problem-ai-agents-dont-go-rogue/\nComments URL: https://news.ycombinator.com/item?id=49978714\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "runtimewire",
+      "published": "Tue, 06 Oct 2026 14:05:28 +0000"
+    },
+    {
+      "name": "OpenAI's B2B Marketplace: The Hyperscaler of AI Apps",
+      "url": "https://www.akashbajwa.co/p/openais-b2b-marketplace-the-hyperscaler",
+      "summary": "Article URL: https://www.akashbajwa.co/p/openais-b2b-marketplace-the-hyperscaler\nComments URL: https://news.ycombinator.com/item?id=49978663\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "gmays",
+      "published": "Tue, 06 Oct 2026 14:01:58 +0000"
+    },
+    {
+      "name": "CharacterMemory: Memory System for AI Characters",
+      "url": "https://github.com/FrancescoCaracciolo/CharacterMemory",
+      "summary": "Article URL: https://github.com/FrancescoCaracciolo/CharacterMemory\nComments URL: https://news.ycombinator.com/item?id=49978643\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "francescocaracc",
+      "published": "Tue, 06 Oct 2026 14:01:00 +0000"
+    },
+    {
+      "name": "AI chatbots recommend shopping at Walmart over just about anywhere else",
+      "url": "https://www.morningstar.com/news/marketwatch/2026100584/ai-chatbots-recommend-shopping-at-walmart-over-just-about-anywhere-else-analysts-find",
+      "summary": "Article URL: https://www.morningstar.com/news/marketwatch/2026100584/ai-chatbots-recommend-shopping-at-walmart-over-just-about-anywhere-else-analysts-find\nComments URL: https://news.ycombinator.com/it",
+      "source": "hacker_news",
+      "score": null,
+      "author": "tolugenius",
+      "published": "Tue, 06 Oct 2026 13:59:24 +0000"
+    },
+    {
+      "name": "Mistral to Release New AI Model to Better Compete with U.S. Rivals",
+      "url": "https://www.wsj.com/tech/ai/mistral-to-release-new-ai-model-to-better-compete-with-u-s-rivals-3f7c8a3d",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/mistral-to-release-new-ai-model-to-better-compete-with-u-s-rivals-3f7c8a3d\nComments URL: https://news.ycombinator.com/item?id=49978612\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "goatley",
+      "published": "Tue, 06 Oct 2026 13:59:20 +0000"
+    },
+    {
+      "name": "Your AI Governance Problem Is Probably an Architecture Problem",
+      "url": "https://www.jamiecadvisory.com/perspectives/your-ai-governance-problem-is-probably-an-architecture-problem/",
+      "summary": "Article URL: https://www.jamiecadvisory.com/perspectives/your-ai-governance-problem-is-probably-an-architecture-problem/\nComments URL: https://news.ycombinator.com/item?id=49978556\nPoints: 3\n# Comment",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mooreds",
+      "published": "Tue, 06 Oct 2026 13:55:11 +0000"
+    },
+    {
+      "name": "Show HN: Strava for AI agents, they train for trust instead of fitness",
+      "url": "https://sealkeeper.run",
+      "summary": "Article URL: https://sealkeeper.run\nComments URL: https://news.ycombinator.com/item?id=49978554\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "carlmeyer",
+      "published": "Tue, 06 Oct 2026 13:55:08 +0000"
+    },
+    {
+      "name": "McDonald's dragged to court for using AI to dynamically price burgers",
+      "url": "https://www.neowin.net/news/mcdonalds-dragged-to-court-for-using-ai-to-price-burgers/",
+      "summary": "Article URL: https://www.neowin.net/news/mcdonalds-dragged-to-court-for-using-ai-to-price-burgers/\nComments URL: https://news.ycombinator.com/item?id=49978529\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "bundie",
+      "published": "Tue, 06 Oct 2026 13:53:35 +0000"
+    },
+    {
+      "name": "Oracle Triggered the Implosion of the AI Bubble",
+      "url": "https://medium.com/predict/what-everyone-had-been-waiting-for-and-fearing-oracle-just-triggered-the-implosion-of-the-ai-121e0c8d368e",
+      "summary": "Article URL: https://medium.com/predict/what-everyone-had-been-waiting-for-and-fearing-oracle-just-triggered-the-implosion-of-the-ai-121e0c8d368e\nComments URL: https://news.ycombinator.com/item?id=499",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mpweiher",
+      "published": "Tue, 06 Oct 2026 13:42:56 +0000"
+    },
+    {
+      "name": "Show HN: Genjutsu AI – Replace objects in existing videos",
+      "url": "https://genjutsuai.net/",
+      "summary": "Article URL: https://genjutsuai.net/\nComments URL: https://news.ycombinator.com/item?id=49978361\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "CoderLim110",
+      "published": "Tue, 06 Oct 2026 13:42:36 +0000"
+    },
+    {
+      "name": "AI Certification Council (AICC) – AI education and AI technical skills",
+      "url": "https://www.aicertificationcouncil.com/",
+      "summary": "Article URL: https://www.aicertificationcouncil.com/\nComments URL: https://news.ycombinator.com/item?id=49978180\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "aicc",
+      "published": "Tue, 06 Oct 2026 13:31:13 +0000"
+    }
+  ]
+}

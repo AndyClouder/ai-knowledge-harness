@@ -1,0 +1,41 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-10-06T14:43:18.289038+00:00",
+  "items": [
+    {
+      "name": "Jakeschincariol/replica-skill",
+      "url": "https://github.com/Jakeschincariol/replica-skill",
+      "summary": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+      "stars": 635,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "app-clone",
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "indie-hacker",
+        "reverse-engineering",
+        "saas"
+      ]
+    },
+    {
+      "name": "elstongun/leviathan",
+      "url": "https://github.com/elstongun/leviathan",
+      "summary": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-t",
+      "stars": 559,
+      "language": "Rust",
+      "topics": []
+    },
+    {
+      "name": "AgentMemoryRepo/agentmemoryrepo",
+      "url": "https://github.com/AgentMemoryRepo/agentmemoryrepo",
+      "summary": "Spec for Agent Memory Repo",
+      "stars": 488,
+      "language": null,
+      "topics": []
+    }
+  ]
+}
