@@ -1,0 +1,128 @@
+[
+  {
+    "id": "cf946e44-b0a2-4226-b60f-9757353a4abc",
+    "title": "zzzz7788990213-ops/EvoVLM",
+    "source_url": "https://github.com/zzzz7788990213-ops/EvoVLM",
+    "source": "unknown",
+    "collected_at": "2026-10-07T15:03:27.248412+00:00",
+    "analyzed_at": "2026-10-07T15:03:27.248412+00:00",
+    "summary": "Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 507,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "52f5de7a-779e-4615-b9ec-27b1a52da717",
+    "title": "DozenTwelve/Papermorph",
+    "source_url": "https://github.com/DozenTwelve/Papermorph",
+    "source": "unknown",
+    "collected_at": "2026-10-07T15:03:28.437501+00:00",
+    "analyzed_at": "2026-10-07T15:03:28.437501+00:00",
+    "summary": "An AI skill that turns books into animated, narrated, interactive web experiences",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 501,
+      "score": null,
+      "author": null,
+      "language": "HTML"
+    }
+  },
+  {
+    "id": "7648d336-e469-4e23-814d-6c549884461c",
+    "title": "mdpsec/bug-bounty-hunting-prompts",
+    "source_url": "https://github.com/mdpsec/bug-bounty-hunting-prompts",
+    "source": "unknown",
+    "collected_at": "2026-10-07T15:03:29.663717+00:00",
+    "analyzed_at": "2026-10-07T15:03:29.663717+00:00",
+    "summary": "Reusable prompts for a structured, evidence-first bug bounty hunting workflow",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 486,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "c39e6858-c9ae-4b02-957c-82a234b55ff3",
+    "title": "shinshin86/mesh-avatar-studio",
+    "source_url": "https://github.com/shinshin86/mesh-avatar-studio",
+    "source": "unknown",
+    "collected_at": "2026-10-07T15:03:30.852303+00:00",
+    "analyzed_at": "2026-10-07T15:03:30.852303+00:00",
+    "summary": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 440,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "da30b6cc-f51e-4b79-88e1-86b9c1f05cfb",
+    "title": "blendi-remade/agentcraft",
+    "source_url": "https://github.com/blendi-remade/agentcraft",
+    "source": "unknown",
+    "collected_at": "2026-10-07T15:03:32.038366+00:00",
+    "analyzed_at": "2026-10-07T15:03:32.038366+00:00",
+    "summary": "",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 433,
+      "score": null,
+      "author": null,
+      "language": "Java"
+    }
+  },
+  {
+    "id": "fb702e94-d0c2-4c22-b2e8-bc1fd85ed31f",
+    "title": "pengchujin/livecanvas",
+    "source_url": "https://github.com/pengchujin/livecanvas",
+    "source": "unknown",
+    "collected_at": "2026-10-07T15:03:33.225203+00:00",
+    "analyzed_at": "2026-10-07T15:03:33.225203+00:00",
+    "summary": "一句话，做成有封面、有动画的 Live 图。Turn a sentence into a Live Photo with a designed cover and animation.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 422,
+      "score": null,
+      "author": null,
+      "language": "Swift"
+    }
+  }
+]

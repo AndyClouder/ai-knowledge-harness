@@ -1,0 +1,82 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-10-07T15:03:24.150629+00:00",
+  "items": [
+    {
+      "name": "zzzz7788990213-ops/EvoVLM",
+      "url": "https://github.com/zzzz7788990213-ops/EvoVLM",
+      "summary": "Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
+      "stars": 507,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "DozenTwelve/Papermorph",
+      "url": "https://github.com/DozenTwelve/Papermorph",
+      "summary": "An AI skill that turns books into animated, narrated, interactive web experiences",
+      "stars": 501,
+      "language": "HTML",
+      "topics": []
+    },
+    {
+      "name": "mdpsec/bug-bounty-hunting-prompts",
+      "url": "https://github.com/mdpsec/bug-bounty-hunting-prompts",
+      "summary": "Reusable prompts for a structured, evidence-first bug bounty hunting workflow",
+      "stars": 486,
+      "language": null,
+      "topics": [
+        "application-security",
+        "bug-bounty",
+        "bug-bounty-hunting",
+        "cybersecurity",
+        "llm-prompts",
+        "open-source",
+        "penetration-testing",
+        "prompt-engineering",
+        "responsible-disclosure",
+        "security-research",
+        "vulnerability-research",
+        "web-security"
+      ]
+    },
+    {
+      "name": "shinshin86/mesh-avatar-studio",
+      "url": "https://github.com/shinshin86/mesh-avatar-studio",
+      "summary": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
+      "stars": 440,
+      "language": "TypeScript",
+      "topics": [
+        "2d-animation",
+        "avatar",
+        "claude-code",
+        "codex",
+        "mesh-deformation",
+        "vtuber",
+        "webgl"
+      ]
+    },
+    {
+      "name": "blendi-remade/agentcraft",
+      "url": "https://github.com/blendi-remade/agentcraft",
+      "summary": "",
+      "stars": 433,
+      "language": "Java",
+      "topics": []
+    },
+    {
+      "name": "pengchujin/livecanvas",
+      "url": "https://github.com/pengchujin/livecanvas",
+      "summary": "一句话，做成有封面、有动画的 Live 图。Turn a sentence into a Live Photo with a designed cover and animation.",
+      "stars": 422,
+      "language": "Swift",
+      "topics": [
+        "agent-skills",
+        "codex",
+        "live-photo",
+        "motion-design",
+        "remotion"
+      ]
+    }
+  ]
+}
