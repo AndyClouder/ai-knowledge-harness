@@ -1,0 +1,87 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-10-08T15:11:28.933676+00:00",
+  "items": [
+    {
+      "name": "jiwoochris/artex-ko",
+      "url": "https://github.com/jiwoochris/artex-ko",
+      "summary": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "stars": 591,
+      "language": "Go",
+      "topics": [
+        "ai-agent",
+        "autonomous-agents",
+        "blue-team",
+        "cybersecurity",
+        "detection-engineering",
+        "i18n",
+        "korean",
+        "llm",
+        "penetration-testing",
+        "security",
+        "security-research",
+        "security-tools",
+        "sigma-rules",
+        "threat-detection"
+      ]
+    },
+    {
+      "name": "storytold/cadcraft",
+      "url": "https://github.com/storytold/cadcraft",
+      "summary": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+      "stars": 529,
+      "language": "Rust",
+      "topics": []
+    },
+    {
+      "name": "mhtsec/ARTEX",
+      "url": "https://github.com/mhtsec/ARTEX",
+      "summary": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "stars": 504,
+      "language": "Go",
+      "topics": []
+    },
+    {
+      "name": "wuyoscar/AISafetyHot-Hub",
+      "url": "https://github.com/wuyoscar/AISafetyHot-Hub",
+      "summary": "每天的 AI 安全精选和论文清单（md / bib / json），附 Agent 接入说明 · AI Safety HOT",
+      "stars": 465,
+      "language": "TeX",
+      "topics": []
+    },
+    {
+      "name": "Vincentwei1021/mg-styles-15",
+      "url": "https://github.com/Vincentwei1021/mg-styles-15",
+      "summary": "15 motion design styles, each made by Claude Opus 5.5 writing code from one prompt: watch the films, copy the prompts, read the full source.",
+      "stars": 462,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "genex-games/genex-desktop",
+      "url": "https://github.com/genex-games/genex-desktop",
+      "summary": "Desktop app for game dev with AI. macOS and Linux, Windows soon.",
+      "stars": 439,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "GTKottman/mortiflix-oss",
+      "url": "https://github.com/GTKottman/mortiflix-oss",
+      "summary": "A motion design studio on your own machine: Claude makes the video step by step, you approve every stage. Bring your own Claude Code or API key.",
+      "stars": 429,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "harness",
+        "motion-design",
+        "remotion",
+        "video",
+        "video-production"
+      ]
+    }
+  ]
+}

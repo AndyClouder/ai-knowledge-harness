@@ -1,0 +1,422 @@
+[
+  {
+    "id": "1664d9fc-baf5-47b7-a27a-0acce1f983b6",
+    "title": "jiwoochris/artex-ko",
+    "source_url": "https://github.com/jiwoochris/artex-ko",
+    "source": "unknown",
+    "collected_at": "2026-10-08T15:11:50.822776+00:00",
+    "analyzed_at": "2026-10-08T15:11:50.822776+00:00",
+    "summary": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 591,
+      "score": null,
+      "author": null,
+      "language": "Go"
+    }
+  },
+  {
+    "id": "c28fc4bc-f20a-4b18-9c69-6cc676873456",
+    "title": "storytold/cadcraft",
+    "source_url": "https://github.com/storytold/cadcraft",
+    "source": "unknown",
+    "collected_at": "2026-10-08T15:11:52.060435+00:00",
+    "analyzed_at": "2026-10-08T15:11:52.060435+00:00",
+    "summary": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 529,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "df53b746-9783-4a00-bc2f-3d69bbea5689",
+    "title": "mhtsec/ARTEX",
+    "source_url": "https://github.com/mhtsec/ARTEX",
+    "source": "unknown",
+    "collected_at": "2026-10-08T15:11:53.298843+00:00",
+    "analyzed_at": "2026-10-08T15:11:53.298843+00:00",
+    "summary": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 504,
+      "score": null,
+      "author": null,
+      "language": "Go"
+    }
+  },
+  {
+    "id": "1eb529f1-1197-45be-a925-efd088a08017",
+    "title": "wuyoscar/AISafetyHot-Hub",
+    "source_url": "https://github.com/wuyoscar/AISafetyHot-Hub",
+    "source": "unknown",
+    "collected_at": "2026-10-08T15:11:54.536030+00:00",
+    "analyzed_at": "2026-10-08T15:11:54.536030+00:00",
+    "summary": "每天的 AI 安全精选和论文清单（md / bib / json），附 Agent 接入说明 · AI Safety HOT",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 465,
+      "score": null,
+      "author": null,
+      "language": "TeX"
+    }
+  },
+  {
+    "id": "16b93d15-2187-4cb1-b608-b6be01bb833e",
+    "title": "Vincentwei1021/mg-styles-15",
+    "source_url": "https://github.com/Vincentwei1021/mg-styles-15",
+    "source": "unknown",
+    "collected_at": "2026-10-08T15:11:55.774795+00:00",
+    "analyzed_at": "2026-10-08T15:11:55.774795+00:00",
+    "summary": "15 motion design styles, each made by Claude Opus 5.5 writing code from one prompt: watch the films, copy the prompts, read the full source.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 462,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "ba38c3d4-557a-4d22-9176-82538cee7804",
+    "title": "genex-games/genex-desktop",
+    "source_url": "https://github.com/genex-games/genex-desktop",
+    "source": "unknown",
+    "collected_at": "2026-10-08T15:11:57.014615+00:00",
+    "analyzed_at": "2026-10-08T15:11:57.014615+00:00",
+    "summary": "Desktop app for game dev with AI. macOS and Linux, Windows soon.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 439,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "bf130784-41b3-48cd-ae5b-a284eeef65aa",
+    "title": "GTKottman/mortiflix-oss",
+    "source_url": "https://github.com/GTKottman/mortiflix-oss",
+    "source": "unknown",
+    "collected_at": "2026-10-08T15:11:58.252689+00:00",
+    "analyzed_at": "2026-10-08T15:11:58.252689+00:00",
+    "summary": "A motion design studio on your own machine: Claude makes the video step by step, you approve every stage. Bring your own Claude Code or API key.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 429,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "de1d2e04-b9b7-405f-993b-3ffec7d80b4d",
+    "title": "How to build an AI-native software factory",
+    "source_url": "https://www.theaithinker.com/p/how-to-build-an-ai-native-software",
+    "source": "hacker_news",
+    "collected_at": "2026-10-08T15:11:59.521971+00:00",
+    "analyzed_at": "2026-10-08T15:11:59.521971+00:00",
+    "summary": "Article URL: https://www.theaithinker.com/p/how-to-build-an-ai-native-software\nComments URL: https://news.ycombinator.com/item?id=50006461\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "gmays",
+      "language": null
+    }
+  },
+  {
+    "id": "2cf11a03-db87-4432-b143-0222686d8e8b",
+    "title": "AI scrapers are hiding behind referrer spam",
+    "source_url": "https://disassociated.com/ai-scrapers-hiding-behind-referrer-spam/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-08T15:12:00.760568+00:00",
+    "analyzed_at": "2026-10-08T15:12:00.760568+00:00",
+    "summary": "Article URL: https://disassociated.com/ai-scrapers-hiding-behind-referrer-spam/\nComments URL: https://news.ycombinator.com/item?id=50006438\nPoints: 4\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "speckx",
+      "language": null
+    }
+  },
+  {
+    "id": "d0e3b89d-cb34-4c78-a7c0-512ffb19d431",
+    "title": "Smaller models are the future of AI sovereignty",
+    "source_url": "https://katecarruthers.com/smaller-models-are-the-future-of-ai-sovereignty-2/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-08T15:12:01.998844+00:00",
+    "analyzed_at": "2026-10-08T15:12:01.998844+00:00",
+    "summary": "Article URL: https://katecarruthers.com/smaller-models-are-the-future-of-ai-sovereignty-2/\nComments URL: https://news.ycombinator.com/item?id=50006336\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "gmays",
+      "language": null
+    }
+  },
+  {
+    "id": "f683863b-ea7a-47ce-91e3-c359dab9c4ee",
+    "title": "Show HN: Llmll – AI agents fill typed holes, an SMT solver rejects wrong fills",
+    "source_url": "https://github.com/machunter/llmll",
+    "source": "hacker_news",
+    "collected_at": "2026-10-08T15:12:03.238056+00:00",
+    "analyzed_at": "2026-10-08T15:12:03.238056+00:00",
+    "summary": "Article URL: https://github.com/machunter/llmll\nComments URL: https://news.ycombinator.com/item?id=50006215\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "burcsahinoglu",
+      "language": null
+    }
+  },
+  {
+    "id": "19b5ddd4-d344-4698-b82d-04c296a4c856",
+    "title": "AI Ends Closed-Source Software",
+    "source_url": "https://www.heise.de/en/news/Open-Source-Guru-Raymond-AI-Ends-Closed-Source-Software-11480690.html",
+    "source": "hacker_news",
+    "collected_at": "2026-10-08T15:12:04.478147+00:00",
+    "analyzed_at": "2026-10-08T15:12:04.478147+00:00",
+    "summary": "Article URL: https://www.heise.de/en/news/Open-Source-Guru-Raymond-AI-Ends-Closed-Source-Software-11480690.html\nComments URL: https://news.ycombinator.com/item?id=50006202\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rvz",
+      "language": null
+    }
+  },
+  {
+    "id": "ddf33d66-4054-46d6-8c12-017d1254d001",
+    "title": "Show HN: I Put an AI Agent on a Nokia 110",
+    "source_url": "https://github.com/anupray95/AI-Agent-on-a-NOKIA",
+    "source": "hacker_news",
+    "collected_at": "2026-10-08T15:12:05.715465+00:00",
+    "analyzed_at": "2026-10-08T15:12:05.715465+00:00",
+    "summary": "Article URL: https://github.com/anupray95/AI-Agent-on-a-NOKIA\nComments URL: https://news.ycombinator.com/item?id=50006114\nPoints: 3\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "anupray",
+      "language": null
+    }
+  },
+  {
+    "id": "302c9652-6542-489d-b654-b0a1eee79b82",
+    "title": "Why the AI future will be awesome",
+    "source_url": "https://nullpaste.org/raw/t-0Um6AUv_CJ",
+    "source": "hacker_news",
+    "collected_at": "2026-10-08T15:12:06.951488+00:00",
+    "analyzed_at": "2026-10-08T15:12:06.951488+00:00",
+    "summary": "Article URL: https://nullpaste.org/raw/t-0Um6AUv_CJ\nComments URL: https://news.ycombinator.com/item?id=50006087\nPoints: 8\n# Comments: 20",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "samstress",
+      "language": null
+    }
+  },
+  {
+    "id": "9318fb10-6087-4655-a8fb-adb5d768e348",
+    "title": "Why the Catholic Church Is AI Doom's Most Formidable Foe",
+    "source_url": "https://thedispatch.com/article/catholic-church-artificial-intelligence-millenarian/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-08T15:12:08.192455+00:00",
+    "analyzed_at": "2026-10-08T15:12:08.192455+00:00",
+    "summary": "Article URL: https://thedispatch.com/article/catholic-church-artificial-intelligence-millenarian/\nComments URL: https://news.ycombinator.com/item?id=50006086\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Jimmc414",
+      "language": null
+    }
+  },
+  {
+    "id": "b225f7a4-955b-4fd0-88de-a457a09a4567",
+    "title": "Encrypted Word Hunt; game where AI understands what you say without hearing",
+    "source_url": "https://hotword.belfortlabs.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-08T15:12:09.430985+00:00",
+    "analyzed_at": "2026-10-08T15:12:09.430985+00:00",
+    "summary": "Article URL: https://hotword.belfortlabs.com/\nComments URL: https://news.ycombinator.com/item?id=50005959\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "furkanturan",
+      "language": null
+    }
+  },
+  {
+    "id": "bddaa6ba-63b0-48bd-858f-531b2d86c5cd",
+    "title": "Is Google limiting -AI Searches",
+    "source_url": "https://musings101.bearblog.dev/is-google-limiting-ai-searches/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-08T15:12:10.667197+00:00",
+    "analyzed_at": "2026-10-08T15:12:10.667197+00:00",
+    "summary": "Article URL: https://musings101.bearblog.dev/is-google-limiting-ai-searches/\nComments URL: https://news.ycombinator.com/item?id=50005858\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "speckx",
+      "language": null
+    }
+  },
+  {
+    "id": "8cdfc94d-1207-4396-9de1-43be4adc7871",
+    "title": "Google Granola Competitor: local first AI meeting dictation",
+    "source_url": "https://developers.google.com/edge/foresight",
+    "source": "hacker_news",
+    "collected_at": "2026-10-08T15:12:11.906672+00:00",
+    "analyzed_at": "2026-10-08T15:12:11.906672+00:00",
+    "summary": "Article URL: https://developers.google.com/edge/foresight\nComments URL: https://news.ycombinator.com/item?id=50005825\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "dawie",
+      "language": null
+    }
+  },
+  {
+    "id": "41f57147-08b9-4dc1-bcc0-8dff7e6089ff",
+    "title": "Solo teen hiker hoisted from mountain cliff after using AI to plan route",
+    "source_url": "https://www.nsnews.com/local-news/solo-teen-hiker-hoisted-from-mountain-cliff-after-using-ai-to-plan-route-north-shore-rescue-says-12855671",
+    "source": "hacker_news",
+    "collected_at": "2026-10-08T15:12:13.148030+00:00",
+    "analyzed_at": "2026-10-08T15:12:13.148030+00:00",
+    "summary": "Article URL: https://www.nsnews.com/local-news/solo-teen-hiker-hoisted-from-mountain-cliff-after-using-ai-to-plan-route-north-shore-rescue-says-12855671\nComments URL: https://news.ycombinator.com/item",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "lode",
+      "language": null
+    }
+  },
+  {
+    "id": "0ef95c0a-c92e-4424-a91e-e89a5bc8abf7",
+    "title": "The AI purge has begun",
+    "source_url": "https://joelgouveia.substack.com/p/the-ai-purge-has-begun",
+    "source": "hacker_news",
+    "collected_at": "2026-10-08T15:12:14.385736+00:00",
+    "analyzed_at": "2026-10-08T15:12:14.385736+00:00",
+    "summary": "Article URL: https://joelgouveia.substack.com/p/the-ai-purge-has-begun\nComments URL: https://news.ycombinator.com/item?id=50005718\nPoints: 5\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pier25",
+      "language": null
+    }
+  }
+]

@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-10-08T15:11:49.551294+00:00",
+  "items": [
+    {
+      "name": "How to build an AI-native software factory",
+      "url": "https://www.theaithinker.com/p/how-to-build-an-ai-native-software",
+      "summary": "Article URL: https://www.theaithinker.com/p/how-to-build-an-ai-native-software\nComments URL: https://news.ycombinator.com/item?id=50006461\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "gmays",
+      "published": "Thu, 08 Oct 2026 14:47:07 +0000"
+    },
+    {
+      "name": "AI scrapers are hiding behind referrer spam",
+      "url": "https://disassociated.com/ai-scrapers-hiding-behind-referrer-spam/",
+      "summary": "Article URL: https://disassociated.com/ai-scrapers-hiding-behind-referrer-spam/\nComments URL: https://news.ycombinator.com/item?id=50006438\nPoints: 4\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "speckx",
+      "published": "Thu, 08 Oct 2026 14:45:41 +0000"
+    },
+    {
+      "name": "Smaller models are the future of AI sovereignty",
+      "url": "https://katecarruthers.com/smaller-models-are-the-future-of-ai-sovereignty-2/",
+      "summary": "Article URL: https://katecarruthers.com/smaller-models-are-the-future-of-ai-sovereignty-2/\nComments URL: https://news.ycombinator.com/item?id=50006336\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "gmays",
+      "published": "Thu, 08 Oct 2026 14:37:51 +0000"
+    },
+    {
+      "name": "Show HN: Llmll – AI agents fill typed holes, an SMT solver rejects wrong fills",
+      "url": "https://github.com/machunter/llmll",
+      "summary": "Article URL: https://github.com/machunter/llmll\nComments URL: https://news.ycombinator.com/item?id=50006215\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "burcsahinoglu",
+      "published": "Thu, 08 Oct 2026 14:25:44 +0000"
+    },
+    {
+      "name": "AI Ends Closed-Source Software",
+      "url": "https://www.heise.de/en/news/Open-Source-Guru-Raymond-AI-Ends-Closed-Source-Software-11480690.html",
+      "summary": "Article URL: https://www.heise.de/en/news/Open-Source-Guru-Raymond-AI-Ends-Closed-Source-Software-11480690.html\nComments URL: https://news.ycombinator.com/item?id=50006202\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rvz",
+      "published": "Thu, 08 Oct 2026 14:24:46 +0000"
+    },
+    {
+      "name": "Show HN: I Put an AI Agent on a Nokia 110",
+      "url": "https://github.com/anupray95/AI-Agent-on-a-NOKIA",
+      "summary": "Article URL: https://github.com/anupray95/AI-Agent-on-a-NOKIA\nComments URL: https://news.ycombinator.com/item?id=50006114\nPoints: 3\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "anupray",
+      "published": "Thu, 08 Oct 2026 14:18:51 +0000"
+    },
+    {
+      "name": "Why the AI future will be awesome",
+      "url": "https://nullpaste.org/raw/t-0Um6AUv_CJ",
+      "summary": "Article URL: https://nullpaste.org/raw/t-0Um6AUv_CJ\nComments URL: https://news.ycombinator.com/item?id=50006087\nPoints: 8\n# Comments: 20",
+      "source": "hacker_news",
+      "score": null,
+      "author": "samstress",
+      "published": "Thu, 08 Oct 2026 14:16:34 +0000"
+    },
+    {
+      "name": "Why the Catholic Church Is AI Doom's Most Formidable Foe",
+      "url": "https://thedispatch.com/article/catholic-church-artificial-intelligence-millenarian/",
+      "summary": "Article URL: https://thedispatch.com/article/catholic-church-artificial-intelligence-millenarian/\nComments URL: https://news.ycombinator.com/item?id=50006086\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Jimmc414",
+      "published": "Thu, 08 Oct 2026 14:16:25 +0000"
+    },
+    {
+      "name": "Encrypted Word Hunt; game where AI understands what you say without hearing",
+      "url": "https://hotword.belfortlabs.com/",
+      "summary": "Article URL: https://hotword.belfortlabs.com/\nComments URL: https://news.ycombinator.com/item?id=50005959\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "furkanturan",
+      "published": "Thu, 08 Oct 2026 14:05:31 +0000"
+    },
+    {
+      "name": "Is Google limiting -AI Searches",
+      "url": "https://musings101.bearblog.dev/is-google-limiting-ai-searches/",
+      "summary": "Article URL: https://musings101.bearblog.dev/is-google-limiting-ai-searches/\nComments URL: https://news.ycombinator.com/item?id=50005858\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "speckx",
+      "published": "Thu, 08 Oct 2026 13:56:38 +0000"
+    },
+    {
+      "name": "Google Granola Competitor: local first AI meeting dictation",
+      "url": "https://developers.google.com/edge/foresight",
+      "summary": "Article URL: https://developers.google.com/edge/foresight\nComments URL: https://news.ycombinator.com/item?id=50005825\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "dawie",
+      "published": "Thu, 08 Oct 2026 13:53:24 +0000"
+    },
+    {
+      "name": "Solo teen hiker hoisted from mountain cliff after using AI to plan route",
+      "url": "https://www.nsnews.com/local-news/solo-teen-hiker-hoisted-from-mountain-cliff-after-using-ai-to-plan-route-north-shore-rescue-says-12855671",
+      "summary": "Article URL: https://www.nsnews.com/local-news/solo-teen-hiker-hoisted-from-mountain-cliff-after-using-ai-to-plan-route-north-shore-rescue-says-12855671\nComments URL: https://news.ycombinator.com/item",
+      "source": "hacker_news",
+      "score": null,
+      "author": "lode",
+      "published": "Thu, 08 Oct 2026 13:52:41 +0000"
+    },
+    {
+      "name": "The AI purge has begun",
+      "url": "https://joelgouveia.substack.com/p/the-ai-purge-has-begun",
+      "summary": "Article URL: https://joelgouveia.substack.com/p/the-ai-purge-has-begun\nComments URL: https://news.ycombinator.com/item?id=50005718\nPoints: 5\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pier25",
+      "published": "Thu, 08 Oct 2026 13:42:12 +0000"
+    },
+    {
+      "name": "Walking Robotic Hand Uses AI to Learn New Tricks",
+      "url": "https://spectrum.ieee.org/walking-robotic-hand",
+      "summary": "Article URL: https://spectrum.ieee.org/walking-robotic-hand\nComments URL: https://news.ycombinator.com/item?id=50005711\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rbanffy",
+      "published": "Thu, 08 Oct 2026 13:41:29 +0000"
+    },
+    {
+      "name": "Microsoft is sandboxing AI agents at the OS level",
+      "url": "https://baromae.blogspot.com/2026/10/microsoft-execution-containers-mxc.html",
+      "summary": "Article URL: https://baromae.blogspot.com/2026/10/microsoft-execution-containers-mxc.html\nComments URL: https://news.ycombinator.com/item?id=50005641\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "AllForAll",
+      "published": "Thu, 08 Oct 2026 13:34:07 +0000"
+    },
+    {
+      "name": "We gave AI a trust we never gave people: can it, may it, on what grounds",
+      "url": "https://discuss.huggingface.co/t/we-gave-ai-a-trust-we-never-gave-people-the-third-axis-after-capability-and-permission/183807",
+      "summary": "Article URL: https://discuss.huggingface.co/t/we-gave-ai-a-trust-we-never-gave-people-the-third-axis-after-capability-and-permission/183807\nComments URL: https://news.ycombinator.com/item?id=50005612\n",
+      "source": "hacker_news",
+      "score": null,
+      "author": "offaxis",
+      "published": "Thu, 08 Oct 2026 13:30:15 +0000"
+    },
+    {
+      "name": "How to Deploy Agentic AI in Banking with ZizkaDB: A Step by Step Guide",
+      "url": "https://medium.com/@MirArshadTalpur/how-to-deploy-agentic-ai-in-banking-with-zizkadb-a-step-by-step-guide-836ede74f8fa",
+      "summary": "Article URL: https://medium.com/@MirArshadTalpur/how-to-deploy-agentic-ai-in-banking-with-zizkadb-a-step-by-step-guide-836ede74f8fa\nComments URL: https://news.ycombinator.com/item?id=50005601\nPoints: ",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Arshad-Talpur",
+      "published": "Thu, 08 Oct 2026 13:29:27 +0000"
+    },
+    {
+      "name": "Collective Superintelligence – Keeping Humans in the AI Loop",
+      "url": "https://dx.doi.org/10.2139/ssrn.7576882",
+      "summary": "Article URL: https://dx.doi.org/10.2139/ssrn.7576882\nComments URL: https://news.ycombinator.com/item?id=50005589\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "bonkerbits",
+      "published": "Thu, 08 Oct 2026 13:27:42 +0000"
+    },
+    {
+      "name": "Show HN: TinyWebUI – A small, self-hosted AI chat UI with MCP, search and memory",
+      "url": "https://github.com/TinySuiteHQ/TinyWebUI",
+      "summary": "Article URL: https://github.com/TinySuiteHQ/TinyWebUI\nComments URL: https://news.ycombinator.com/item?id=50005552\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "MarcBuilds01",
+      "published": "Thu, 08 Oct 2026 13:23:59 +0000"
+    },
+    {
+      "name": "Preach+ – AI-assisted sermon prep for preachers (EN/ES)",
+      "url": "https://apps.apple.com/us/app/preach/id6806718726",
+      "summary": "Article URL: https://apps.apple.com/us/app/preach/id6806718726\nComments URL: https://news.ycombinator.com/item?id=50005077\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "kenevester",
+      "published": "Thu, 08 Oct 2026 12:34:31 +0000"
+    }
+  ]
+}
