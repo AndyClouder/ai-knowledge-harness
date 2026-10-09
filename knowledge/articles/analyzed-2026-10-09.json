@@ -1,0 +1,422 @@
+[
+  {
+    "id": "c59b693b-ff96-45c7-a233-22d0bafe6e2a",
+    "title": "LosaLosSantos/aurelio-finance",
+    "source_url": "https://github.com/LosaLosSantos/aurelio-finance",
+    "source": "unknown",
+    "collected_at": "2026-10-09T14:57:36.562636+00:00",
+    "analyzed_at": "2026-10-09T14:57:36.562636+00:00",
+    "summary": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 996,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "515b8651-bf81-45d9-8a38-f65396bc6d01",
+    "title": "openqodex/openqodex",
+    "source_url": "https://github.com/openqodex/openqodex",
+    "source": "unknown",
+    "collected_at": "2026-10-09T14:57:37.805904+00:00",
+    "analyzed_at": "2026-10-09T14:57:37.805904+00:00",
+    "summary": "Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on the lines you changed, then a separate reviewer process that checks every scanner",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 488,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "0a8c2811-b140-4406-ab45-3aedf0136d8b",
+    "title": "ThariqS/ai-newtab",
+    "source_url": "https://github.com/ThariqS/ai-newtab",
+    "source": "unknown",
+    "collected_at": "2026-10-09T14:57:39.037378+00:00",
+    "analyzed_at": "2026-10-09T14:57:39.037378+00:00",
+    "summary": "Claude generates a daily new tab page based on your browser history.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 432,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "c089499e-a3bc-4020-9ef1-87f96985d189",
+    "title": "Meatpupptry is far creepier than pure \"AI\" fakery",
+    "source_url": "https://news.ycombinator.com/item?id=50021296",
+    "source": "hacker_news",
+    "collected_at": "2026-10-09T14:57:40.267307+00:00",
+    "analyzed_at": "2026-10-09T14:57:40.267307+00:00",
+    "summary": "Local pharmacy phoneline is answered by \"Caroline\" with convincing voice, mannerisms and even background typing noise. You only realise she's fake at the first stochastic parrotese.My bank sends email",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "chrisjj",
+      "language": null
+    }
+  },
+  {
+    "id": "bc3a4ce9-ae03-4ece-b655-09eee7d41617",
+    "title": "AI Age Manager, Budgeting AI Spending, 10x Revenue by 10x Code?",
+    "source_url": "https://age-of-product.com/food-agile-thought-565-ai-age-manager/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-09T14:57:41.496904+00:00",
+    "analyzed_at": "2026-10-09T14:57:41.496904+00:00",
+    "summary": "Article URL: https://age-of-product.com/food-agile-thought-565-ai-age-manager/\nComments URL: https://news.ycombinator.com/item?id=50021170\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "swolpers",
+      "language": null
+    }
+  },
+  {
+    "id": "664d8d9e-4201-4a0f-abb4-1c51fbad3b13",
+    "title": "AI and the Future of Science",
+    "source_url": "https://sunelehmann.com/blog/ai-and-the-future-of-science/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-09T14:57:42.728410+00:00",
+    "analyzed_at": "2026-10-09T14:57:42.728410+00:00",
+    "summary": "Article URL: https://sunelehmann.com/blog/ai-and-the-future-of-science/\nComments URL: https://news.ycombinator.com/item?id=50021015\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "qwerde",
+      "language": null
+    }
+  },
+  {
+    "id": "bfe35f10-194f-4fb3-bb5f-982d1c27ea1a",
+    "title": "SoftBank seeks $100B from Gulf investors to expand AI bet",
+    "source_url": "https://www.ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd",
+    "source": "hacker_news",
+    "collected_at": "2026-10-09T14:57:43.969920+00:00",
+    "analyzed_at": "2026-10-09T14:57:43.969920+00:00",
+    "summary": "Article URL: https://www.ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd\nComments URL: https://news.ycombinator.com/item?id=50020959\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mikhael",
+      "language": null
+    }
+  },
+  {
+    "id": "db6e2694-f435-42e9-8d27-4359415a82c5",
+    "title": "Court throws out killer's sentence after judge said he loved AI video of victim",
+    "source_url": "https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457",
+    "source": "hacker_news",
+    "collected_at": "2026-10-09T14:57:45.201446+00:00",
+    "analyzed_at": "2026-10-09T14:57:45.201446+00:00",
+    "summary": "Article URL: https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457\nComments URL: https://news.ycombinator.com/item?id=50020856\nPoints: 34\n# Comments: 20",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rbanffy",
+      "language": null
+    }
+  },
+  {
+    "id": "0d4f2d61-763b-45a2-97df-57db81346c79",
+    "title": "Step 5 Preview now available on AI Gateway",
+    "source_url": "https://vercel.com/changelog/step-5-preview-now-available-on-ai-gateway",
+    "source": "hacker_news",
+    "collected_at": "2026-10-09T14:57:46.428005+00:00",
+    "analyzed_at": "2026-10-09T14:57:46.428005+00:00",
+    "summary": "Article URL: https://vercel.com/changelog/step-5-preview-now-available-on-ai-gateway\nComments URL: https://news.ycombinator.com/item?id=50020694\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "WavyPeng",
+      "language": null
+    }
+  },
+  {
+    "id": "c573f1b5-280b-4b92-9359-824ed0eda0c0",
+    "title": "Michael I. Jordan on AI: \"Superintelligence is science fiction\"",
+    "source_url": "https://www.di.ens.fr/~fbach/MJordan_ITW_Liberation_English.html",
+    "source": "hacker_news",
+    "collected_at": "2026-10-09T14:57:47.667634+00:00",
+    "analyzed_at": "2026-10-09T14:57:47.667634+00:00",
+    "summary": "Article URL: https://www.di.ens.fr/~fbach/MJordan_ITW_Liberation_English.html\nComments URL: https://news.ycombinator.com/item?id=50020667\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "theanonymousone",
+      "language": null
+    }
+  },
+  {
+    "id": "c711bcc2-b1a1-4ac3-aeb0-152b88c145ed",
+    "title": "LocalMind: Pocket AI Assistant",
+    "source_url": "https://play.google.com/store/apps/details?id=com.pocketai.localmind&hl=en_US",
+    "source": "hacker_news",
+    "collected_at": "2026-10-09T14:57:48.903034+00:00",
+    "analyzed_at": "2026-10-09T14:57:48.903034+00:00",
+    "summary": "Article URL: https://play.google.com/store/apps/details?id=com.pocketai.localmind&amp;hl=en_US\nComments URL: https://news.ycombinator.com/item?id=50020491\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "DisasterMonkey",
+      "language": null
+    }
+  },
+  {
+    "id": "e39c81ab-1def-4077-b0db-f5248488f1b7",
+    "title": "AI coding agents have a Mythical Man-Month problem",
+    "source_url": "https://www.youtube.com/watch?v=92dMxu3wcGI",
+    "source": "hacker_news",
+    "collected_at": "2026-10-09T14:57:50.140651+00:00",
+    "analyzed_at": "2026-10-09T14:57:50.140651+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=92dMxu3wcGI\nComments URL: https://news.ycombinator.com/item?id=50020477\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "frag",
+      "language": null
+    }
+  },
+  {
+    "id": "51e397b5-83a6-42d4-8a27-b1d47cd7af37",
+    "title": "Overzealous AI Guardrails Force Adult Users into Self-Censorship",
+    "source_url": "https://www.reddit.com/r/ChatGPTcomplaints/comments/1vjhxbl/stop_the_moral_policing_how_overzealous_ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-09T14:57:51.369899+00:00",
+    "analyzed_at": "2026-10-09T14:57:51.369899+00:00",
+    "summary": "Article URL: https://www.reddit.com/r/ChatGPTcomplaints/comments/1vjhxbl/stop_the_moral_policing_how_overzealous_ai/\nComments URL: https://news.ycombinator.com/item?id=50020372\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "frmersdog",
+      "language": null
+    }
+  },
+  {
+    "id": "b8306312-771f-4284-96bd-08747c13391c",
+    "title": "I Lost My Job to AI in China - Now What? [video]",
+    "source_url": "https://www.youtube.com/watch?v=eXyxQEkp58Y",
+    "source": "hacker_news",
+    "collected_at": "2026-10-09T14:57:52.595447+00:00",
+    "analyzed_at": "2026-10-09T14:57:52.595447+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=eXyxQEkp58Y\nComments URL: https://news.ycombinator.com/item?id=50020268\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "creativeSlumber",
+      "language": null
+    }
+  },
+  {
+    "id": "b850061c-431b-465a-b81c-c0fb1e1a6bc1",
+    "title": "AI Agents at Retail Brokerages",
+    "source_url": "https://www.condorcapital.com/digital-advice-report/reports/ai-agents-at-retail-brokerages-2q-2026/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-09T14:57:53.831200+00:00",
+    "analyzed_at": "2026-10-09T14:57:53.831200+00:00",
+    "summary": "Article URL: https://www.condorcapital.com/digital-advice-report/reports/ai-agents-at-retail-brokerages-2q-2026/\nComments URL: https://news.ycombinator.com/item?id=50020235\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "T-A",
+      "language": null
+    }
+  },
+  {
+    "id": "4a8d6bd8-a370-4263-a5e3-1bf01fb74832",
+    "title": "Ask HN: What if no AIpocalypse, no AI bubble, what if it just keeps advancing?",
+    "source_url": "https://news.ycombinator.com/item?id=50020096",
+    "source": "hacker_news",
+    "collected_at": "2026-10-09T14:57:55.068725+00:00",
+    "analyzed_at": "2026-10-09T14:57:55.068725+00:00",
+    "summary": "The two mainstream arguments are the extremes, because that's how our modern society rolls. It's either that there is an AI bubble that will crash, or that a rogue ASI will kill us all.What about the ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "consumer451",
+      "language": null
+    }
+  },
+  {
+    "id": "fadb70dc-0ea8-4fd6-a635-bca44f94d7aa",
+    "title": "Patients are using AI to complain about their dentists",
+    "source_url": "https://www.toothlocal.com/reports/ai-reviews-2026/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-09T14:57:56.308804+00:00",
+    "analyzed_at": "2026-10-09T14:57:56.308804+00:00",
+    "summary": "Article URL: https://www.toothlocal.com/reports/ai-reviews-2026/\nComments URL: https://news.ycombinator.com/item?id=50020076\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ryzvonusef",
+      "language": null
+    }
+  },
+  {
+    "id": "8257add3-e757-42ed-a4ee-1b70e1d94b8d",
+    "title": "Demons, Anti-Christ, and AI",
+    "source_url": "https://zarkones.github.io/demons-anti-christ-and-ai.html",
+    "source": "hacker_news",
+    "collected_at": "2026-10-09T14:57:57.549425+00:00",
+    "analyzed_at": "2026-10-09T14:57:57.549425+00:00",
+    "summary": "Article URL: https://zarkones.github.io/demons-anti-christ-and-ai.html\nComments URL: https://news.ycombinator.com/item?id=50020027\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ZARKONES",
+      "language": null
+    }
+  },
+  {
+    "id": "94b48b25-f55f-4510-9e6a-2e01ea71c1c8",
+    "title": "Why statutory laws fail against code: A critique of the EU AI Act",
+    "source_url": "https://medium.com/@kate8382/the-ai-security-paradox-why-old-laws-create-digital-enclosures-ff745d79e4f8",
+    "source": "hacker_news",
+    "collected_at": "2026-10-09T14:57:58.789748+00:00",
+    "analyzed_at": "2026-10-09T14:57:58.789748+00:00",
+    "summary": "Article URL: https://medium.com/@kate8382/the-ai-security-paradox-why-old-laws-create-digital-enclosures-ff745d79e4f8\nComments URL: https://news.ycombinator.com/item?id=50019907\nPoints: 1\n# Comments: ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "kate8382",
+      "language": null
+    }
+  },
+  {
+    "id": "1f27bed8-d3ed-4c56-9c1e-20b82fbfddbd",
+    "title": "Anthropic bans users from being 'cruel' to its AI systems",
+    "source_url": "https://www.bbc.com/news/articles/c6j9k1l72wkgo",
+    "source": "hacker_news",
+    "collected_at": "2026-10-09T14:58:00.031144+00:00",
+    "analyzed_at": "2026-10-09T14:58:00.031144+00:00",
+    "summary": "Article URL: https://www.bbc.com/news/articles/c6j9k1l72wkgo\nComments URL: https://news.ycombinator.com/item?id=50019860\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pluc",
+      "language": null
+    }
+  }
+]
