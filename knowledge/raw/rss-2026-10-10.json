@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-10-10T14:12:20.398984+00:00",
+  "items": [
+    {
+      "name": "AI Agent Security: Six Controls from Nine Real Incidents",
+      "url": "https://blog.gitguardian.com/ai-agent-security-six-controls/",
+      "summary": "Article URL: https://blog.gitguardian.com/ai-agent-security-six-controls/\nComments URL: https://news.ycombinator.com/item?id=50033190\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "guedou",
+      "published": "Sat, 10 Oct 2026 14:09:50 +0000"
+    },
+    {
+      "name": "Show HN: Tessary – Find the AI agent failures your sampled evals miss",
+      "url": "https://github.com/tessaryai/tessary",
+      "summary": "Hey, I'm Akhil, co-founder of Tessary. An open-source agent reliability platform that monitors every production trace, detects issues that sampled evals miss, and investigates to find the root cause.W",
+      "source": "hacker_news",
+      "score": null,
+      "author": "infinitetrooper",
+      "published": "Sat, 10 Oct 2026 14:09:36 +0000"
+    },
+    {
+      "name": "Design for Agent GUIs",
+      "url": "https://lexifina.com/blog/agent-guis",
+      "summary": "Article URL: https://lexifina.com/blog/agent-guis\nComments URL: https://news.ycombinator.com/item?id=50032297\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "theanonymousone",
+      "published": "Sat, 10 Oct 2026 12:32:24 +0000"
+    },
+    {
+      "name": "Building Piclaw on Top of an Opinionated Coding Agent",
+      "url": "https://taoofmac.com/space/blog/2026/08/21/2218",
+      "summary": "Article URL: https://taoofmac.com/space/blog/2026/08/21/2218\nComments URL: https://news.ycombinator.com/item?id=50031893\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rcarmo",
+      "published": "Sat, 10 Oct 2026 11:39:13 +0000"
+    },
+    {
+      "name": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "url": "https://github.com/rociiu/talorys",
+      "summary": "Article URL: https://github.com/rociiu/talorys\nComments URL: https://news.ycombinator.com/item?id=50031614\nPoints: 80\n# Comments: 36",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rociiu",
+      "published": "Sat, 10 Oct 2026 10:52:09 +0000"
+    },
+    {
+      "name": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+      "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo\nComments URL: https://news.ycombinator.com/item?id=50031438\nPoints: 13\n# Comments: 7",
+      "source": "hacker_news",
+      "score": null,
+      "author": "vinni2",
+      "published": "Sat, 10 Oct 2026 10:23:44 +0000"
+    },
+    {
+      "name": "Agent Mode in the DuckDB CLI",
+      "url": "https://duckdb.org/2026/10/09/agent-mode",
+      "summary": "Article URL: https://duckdb.org/2026/10/09/agent-mode\nComments URL: https://news.ycombinator.com/item?id=50031435\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "theanonymousone",
+      "published": "Sat, 10 Oct 2026 10:23:16 +0000"
+    },
+    {
+      "name": "Zulu Assistant – an ops board and agent workforce for your Mac",
+      "url": "https://github.com/zulu-assistant/zulu-assistant",
+      "summary": "Article URL: https://github.com/zulu-assistant/zulu-assistant\nComments URL: https://news.ycombinator.com/item?id=50030539\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mswart427",
+      "published": "Sat, 10 Oct 2026 07:23:01 +0000"
+    },
+    {
+      "name": "DHP – agent work that survives kill -9",
+      "url": "https://github.com/SIDDARTHAREDDY8/dhp",
+      "summary": "Article URL: https://github.com/SIDDARTHAREDDY8/dhp\nComments URL: https://news.ycombinator.com/item?id=50030258\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "siddarthareddy8",
+      "published": "Sat, 10 Oct 2026 06:31:27 +0000"
+    },
+    {
+      "name": "Show HN: A simple to-do app for iPhone, Mac, and your agent",
+      "url": "https://ilia.page/writing/introducing-nagare",
+      "summary": "Article URL: https://ilia.page/writing/introducing-nagare\nComments URL: https://news.ycombinator.com/item?id=50029607\nPoints: 14\n# Comments: 14",
+      "source": "hacker_news",
+      "score": null,
+      "author": "shmilia",
+      "published": "Sat, 10 Oct 2026 04:37:13 +0000"
+    },
+    {
+      "name": "Rewriting Prime Agent in Rust",
+      "url": "https://www.primeintellect.ai/blog/prime-agent-rust",
+      "summary": "Article URL: https://www.primeintellect.ai/blog/prime-agent-rust\nComments URL: https://news.ycombinator.com/item?id=50027694\nPoints: 57\n# Comments: 19",
+      "source": "hacker_news",
+      "score": null,
+      "author": "piotrgrabowski",
+      "published": "Fri, 09 Oct 2026 23:06:25 +0000"
+    },
+    {
+      "name": "A governed cloud coding agent for teams, built on Pi",
+      "url": "https://github.com/rebuno/uber",
+      "summary": "Article URL: https://github.com/rebuno/uber\nComments URL: https://news.ycombinator.com/item?id=50027055\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "nnww",
+      "published": "Fri, 09 Oct 2026 21:54:12 +0000"
+    },
+    {
+      "name": "Show HN: Memdebug – See what changed in your AI agent's memory, and undo it",
+      "url": "https://github.com/juraj-jumic/memdebug",
+      "summary": "Article URL: https://github.com/juraj-jumic/memdebug\nComments URL: https://news.ycombinator.com/item?id=50026431\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Termich",
+      "published": "Fri, 09 Oct 2026 20:51:42 +0000"
+    },
+    {
+      "name": "Agent-history CLI – Fast OMZ/Bash cmd to jump between recent AI coding sessions",
+      "url": "https://github.com/aaronbronow/agent-history",
+      "summary": "Article URL: https://github.com/aaronbronow/agent-history\nComments URL: https://news.ycombinator.com/item?id=50026323\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "aaronbronow",
+      "published": "Fri, 09 Oct 2026 20:41:15 +0000"
+    },
+    {
+      "name": "A hand-crafted, CPU-only agent clears all 25 public ARC-AGI-3 games",
+      "url": "https://zenodo.org/records/23269727",
+      "summary": "Article URL: https://zenodo.org/records/23269727\nComments URL: https://news.ycombinator.com/item?id=50026204\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "SingarajB",
+      "published": "Fri, 09 Oct 2026 20:30:12 +0000"
+    },
+    {
+      "name": "Show HN: Elements – Build and deploy web apps with your agent, on your machines",
+      "url": "https://elements.dev/",
+      "summary": "Article URL: https://elements.dev/\nComments URL: https://news.ycombinator.com/item?id=50026121\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mathec",
+      "published": "Fri, 09 Oct 2026 20:22:13 +0000"
+    },
+    {
+      "name": "Agent swarms in business is AI larping",
+      "url": "https://agentic-larp.ing/",
+      "summary": "Article URL: https://agentic-larp.ing/\nComments URL: https://news.ycombinator.com/item?id=50025601\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "saintvinasse",
+      "published": "Fri, 09 Oct 2026 19:34:45 +0000"
+    },
+    {
+      "name": "Inside Mark Zuckerberg’s Decision to Pull the Trigger on Meta’s A.I. Agent",
+      "url": "https://www.nytimes.com/2026/10/09/technology/inside-mark-zuckerbergs-decision-to-pull-the-trigger-on-metas-ai-agent.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/10/09/technology/inside-mark-zuckerbergs-decision-to-pull-the-trigger-on-metas-ai-agent.html\nComments URL: https://news.ycombinator.com/item?id=50025131\nPoint",
+      "source": "hacker_news",
+      "score": null,
+      "author": "thm",
+      "published": "Fri, 09 Oct 2026 18:55:49 +0000"
+    },
+    {
+      "name": "Chinese developer makes ARTEX AI agent closed-source after Korean bank hack",
+      "url": "https://www.reuters.com/world/china/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack-2026-10-09/",
+      "summary": "Article URL: https://www.reuters.com/world/china/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack-2026-10-09/\nComments URL: https://news.ycombinator.com/item?id=50024429\nPoi",
+      "source": "hacker_news",
+      "score": null,
+      "author": "01-_-",
+      "published": "Fri, 09 Oct 2026 18:05:28 +0000"
+    },
+    {
+      "name": "Agent-config&Claude Code mods",
+      "url": "https://github.com/Max-Levitskiy/skills/tree/main/plugins/ml-agent-config",
+      "summary": "Article URL: https://github.com/Max-Levitskiy/skills/tree/main/plugins/ml-agent-config\nComments URL: https://news.ycombinator.com/item?id=50024345\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "FunShot",
+      "published": "Fri, 09 Oct 2026 17:59:29 +0000"
+    }
+  ]
+}

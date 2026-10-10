@@ -1,0 +1,422 @@
+[
+  {
+    "id": "87993075-6447-453b-99ec-b22c8cb90048",
+    "title": "t4t5/omdrop-owl",
+    "source_url": "https://github.com/t4t5/omdrop-owl",
+    "source": "unknown",
+    "collected_at": "2026-10-10T14:12:21.746804+00:00",
+    "analyzed_at": "2026-10-10T14:12:21.746804+00:00",
+    "summary": "airdrop for non-apple devices",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1045,
+      "score": null,
+      "author": null,
+      "language": "Shell"
+    }
+  },
+  {
+    "id": "e43691ce-9648-433c-b51c-49d101ce2af1",
+    "title": "KindStatesman/KMS-Pico",
+    "source_url": "https://github.com/KindStatesman/KMS-Pico",
+    "source": "unknown",
+    "collected_at": "2026-10-10T14:12:22.994107+00:00",
+    "analyzed_at": "2026-10-10T14:12:22.994107+00:00",
+    "summary": "Kms Pico Free optimizes your professional desktop environment by providing a tailored utility configuration that enhances workflow efficiency.' This...",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 614,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "86028a9f-427d-4c58-91a0-655019ab9180",
+    "title": "navyofficerpipe/Discord-Server-Raider",
+    "source_url": "https://github.com/navyofficerpipe/Discord-Server-Raider",
+    "source": "unknown",
+    "collected_at": "2026-10-10T14:12:24.241776+00:00",
+    "analyzed_at": "2026-10-10T14:12:24.241776+00:00",
+    "summary": "Discord Server Raider\", an AI-driven solution designed to streamline server management tasks on GitHub without any mention of Apple or mobile devices; it...",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 605,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "8f264ea5-66ff-4b07-bc54-6a871762a452",
+    "title": "franzenzenhofer/big-arrow-on-the-screen",
+    "source_url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+    "source": "unknown",
+    "collected_at": "2026-10-10T14:12:25.497841+00:00",
+    "analyzed_at": "2026-10-10T14:12:25.497841+00:00",
+    "summary": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 545,
+      "score": null,
+      "author": null,
+      "language": "Swift"
+    }
+  },
+  {
+    "id": "145a58ce-898e-4997-a0e5-dd28514ad32f",
+    "title": "passrhymegazebo/AnyUnlock",
+    "source_url": "https://github.com/passrhymegazebo/AnyUnlock",
+    "source": "unknown",
+    "collected_at": "2026-10-10T14:12:26.749680+00:00",
+    "analyzed_at": "2026-10-10T14:12:26.749680+00:00",
+    "summary": "Anyunlock optimizes your workflow by providing a comprehensive desktop utility configuration that streamlines processes and boosts efficiency without...",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 510,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "5e3a41ef-4fd2-460e-9cf5-d2af87873ecf",
+    "title": "powderdiverpillar/Total-Commander",
+    "source_url": "https://github.com/powderdiverpillar/Total-Commander",
+    "source": "unknown",
+    "collected_at": "2026-10-10T14:12:28.003523+00:00",
+    "analyzed_at": "2026-10-10T14:12:28.003523+00:00",
+    "summary": "Total Commander is an advanced utility that optimizes workflow by providing a seamless interface to manage and navigate through multiple repositories...",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 504,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "e83ce291-762a-4f72-a0f1-8fad6ece72d1",
+    "title": "AI Agent Security: Six Controls from Nine Real Incidents",
+    "source_url": "https://blog.gitguardian.com/ai-agent-security-six-controls/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-10T14:12:29.236986+00:00",
+    "analyzed_at": "2026-10-10T14:12:29.236986+00:00",
+    "summary": "Article URL: https://blog.gitguardian.com/ai-agent-security-six-controls/\nComments URL: https://news.ycombinator.com/item?id=50033190\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "guedou",
+      "language": null
+    }
+  },
+  {
+    "id": "64ce1877-313c-4c93-8b8c-bb0e3150d5a7",
+    "title": "Show HN: Tessary – Find the AI agent failures your sampled evals miss",
+    "source_url": "https://github.com/tessaryai/tessary",
+    "source": "hacker_news",
+    "collected_at": "2026-10-10T14:12:30.470722+00:00",
+    "analyzed_at": "2026-10-10T14:12:30.470722+00:00",
+    "summary": "Hey, I'm Akhil, co-founder of Tessary. An open-source agent reliability platform that monitors every production trace, detects issues that sampled evals miss, and investigates to find the root cause.W",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "infinitetrooper",
+      "language": null
+    }
+  },
+  {
+    "id": "8d426fe9-e0b7-4df4-afe6-00abd99d11df",
+    "title": "Design for Agent GUIs",
+    "source_url": "https://lexifina.com/blog/agent-guis",
+    "source": "hacker_news",
+    "collected_at": "2026-10-10T14:12:31.702503+00:00",
+    "analyzed_at": "2026-10-10T14:12:31.702503+00:00",
+    "summary": "Article URL: https://lexifina.com/blog/agent-guis\nComments URL: https://news.ycombinator.com/item?id=50032297\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "theanonymousone",
+      "language": null
+    }
+  },
+  {
+    "id": "fa7e22b5-8003-4ee8-9611-36700f0af3e8",
+    "title": "Building Piclaw on Top of an Opinionated Coding Agent",
+    "source_url": "https://taoofmac.com/space/blog/2026/08/21/2218",
+    "source": "hacker_news",
+    "collected_at": "2026-10-10T14:12:32.938400+00:00",
+    "analyzed_at": "2026-10-10T14:12:32.938400+00:00",
+    "summary": "Article URL: https://taoofmac.com/space/blog/2026/08/21/2218\nComments URL: https://news.ycombinator.com/item?id=50031893\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rcarmo",
+      "language": null
+    }
+  },
+  {
+    "id": "d7262911-987d-4a67-8aaf-cd7230967b63",
+    "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+    "source_url": "https://github.com/rociiu/talorys",
+    "source": "hacker_news",
+    "collected_at": "2026-10-10T14:12:34.178662+00:00",
+    "analyzed_at": "2026-10-10T14:12:34.178662+00:00",
+    "summary": "Article URL: https://github.com/rociiu/talorys\nComments URL: https://news.ycombinator.com/item?id=50031614\nPoints: 80\n# Comments: 36",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rociiu",
+      "language": null
+    }
+  },
+  {
+    "id": "32ff00c1-03eb-443c-aa9b-2b6fa4cb07ad",
+    "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+    "source_url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo",
+    "source": "hacker_news",
+    "collected_at": "2026-10-10T14:12:35.458275+00:00",
+    "analyzed_at": "2026-10-10T14:12:35.458275+00:00",
+    "summary": "Article URL: https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo\nComments URL: https://news.ycombinator.com/item?id=50031438\nPoints: 13\n# Comments: 7",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "vinni2",
+      "language": null
+    }
+  },
+  {
+    "id": "da92f88e-c639-45f8-a5c7-a736733ed947",
+    "title": "Agent Mode in the DuckDB CLI",
+    "source_url": "https://duckdb.org/2026/10/09/agent-mode",
+    "source": "hacker_news",
+    "collected_at": "2026-10-10T14:12:36.707592+00:00",
+    "analyzed_at": "2026-10-10T14:12:36.707592+00:00",
+    "summary": "Article URL: https://duckdb.org/2026/10/09/agent-mode\nComments URL: https://news.ycombinator.com/item?id=50031435\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "theanonymousone",
+      "language": null
+    }
+  },
+  {
+    "id": "ee00ff7c-5f38-425d-aeb3-371ce5f77f43",
+    "title": "Zulu Assistant – an ops board and agent workforce for your Mac",
+    "source_url": "https://github.com/zulu-assistant/zulu-assistant",
+    "source": "hacker_news",
+    "collected_at": "2026-10-10T14:12:37.946608+00:00",
+    "analyzed_at": "2026-10-10T14:12:37.946608+00:00",
+    "summary": "Article URL: https://github.com/zulu-assistant/zulu-assistant\nComments URL: https://news.ycombinator.com/item?id=50030539\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mswart427",
+      "language": null
+    }
+  },
+  {
+    "id": "41b32d62-019f-44a6-8983-7d348181140d",
+    "title": "DHP – agent work that survives kill -9",
+    "source_url": "https://github.com/SIDDARTHAREDDY8/dhp",
+    "source": "hacker_news",
+    "collected_at": "2026-10-10T14:12:39.197596+00:00",
+    "analyzed_at": "2026-10-10T14:12:39.197596+00:00",
+    "summary": "Article URL: https://github.com/SIDDARTHAREDDY8/dhp\nComments URL: https://news.ycombinator.com/item?id=50030258\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "siddarthareddy8",
+      "language": null
+    }
+  },
+  {
+    "id": "67d039ba-e606-4ee3-a702-cc2d972a9797",
+    "title": "Show HN: A simple to-do app for iPhone, Mac, and your agent",
+    "source_url": "https://ilia.page/writing/introducing-nagare",
+    "source": "hacker_news",
+    "collected_at": "2026-10-10T14:12:40.448879+00:00",
+    "analyzed_at": "2026-10-10T14:12:40.448879+00:00",
+    "summary": "Article URL: https://ilia.page/writing/introducing-nagare\nComments URL: https://news.ycombinator.com/item?id=50029607\nPoints: 14\n# Comments: 14",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "shmilia",
+      "language": null
+    }
+  },
+  {
+    "id": "dd32c8cb-c8dc-401d-880b-ae57a41e0d8e",
+    "title": "Rewriting Prime Agent in Rust",
+    "source_url": "https://www.primeintellect.ai/blog/prime-agent-rust",
+    "source": "hacker_news",
+    "collected_at": "2026-10-10T14:12:41.702029+00:00",
+    "analyzed_at": "2026-10-10T14:12:41.702029+00:00",
+    "summary": "Article URL: https://www.primeintellect.ai/blog/prime-agent-rust\nComments URL: https://news.ycombinator.com/item?id=50027694\nPoints: 57\n# Comments: 19",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "piotrgrabowski",
+      "language": null
+    }
+  },
+  {
+    "id": "ddaf7133-730a-425a-971b-4a4138c9025a",
+    "title": "A governed cloud coding agent for teams, built on Pi",
+    "source_url": "https://github.com/rebuno/uber",
+    "source": "hacker_news",
+    "collected_at": "2026-10-10T14:12:42.954860+00:00",
+    "analyzed_at": "2026-10-10T14:12:42.954860+00:00",
+    "summary": "Article URL: https://github.com/rebuno/uber\nComments URL: https://news.ycombinator.com/item?id=50027055\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "nnww",
+      "language": null
+    }
+  },
+  {
+    "id": "d647ce8b-8784-49ae-bfe0-68bfa8b3dfff",
+    "title": "Show HN: Memdebug – See what changed in your AI agent's memory, and undo it",
+    "source_url": "https://github.com/juraj-jumic/memdebug",
+    "source": "hacker_news",
+    "collected_at": "2026-10-10T14:12:44.206261+00:00",
+    "analyzed_at": "2026-10-10T14:12:44.206261+00:00",
+    "summary": "Article URL: https://github.com/juraj-jumic/memdebug\nComments URL: https://news.ycombinator.com/item?id=50026431\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Termich",
+      "language": null
+    }
+  },
+  {
+    "id": "cfcd2604-f83f-497d-94a7-1cf889a5ef53",
+    "title": "Agent-history CLI – Fast OMZ/Bash cmd to jump between recent AI coding sessions",
+    "source_url": "https://github.com/aaronbronow/agent-history",
+    "source": "hacker_news",
+    "collected_at": "2026-10-10T14:12:45.455337+00:00",
+    "analyzed_at": "2026-10-10T14:12:45.455337+00:00",
+    "summary": "Article URL: https://github.com/aaronbronow/agent-history\nComments URL: https://news.ycombinator.com/item?id=50026323\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "aaronbronow",
+      "language": null
+    }
+  }
+]
