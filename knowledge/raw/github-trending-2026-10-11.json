@@ -1,0 +1,63 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-10-11T14:36:47.671885+00:00",
+  "items": [
+    {
+      "name": "wheresryan22/anatomy",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "summary": "A Claude Code skill that turns a technical idea into a detailed, interactive isometric figure of a real machine. It makes SVG with optional WebGL shaders and 3D, for docs, articles and landing pages.",
+      "stars": 1581,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "name": "marclou/mailcheap",
+      "url": "https://github.com/marclou/mailcheap",
+      "summary": "Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
+      "stars": 693,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "name": "FeiZhuLulu/DeepSeek-Bot",
+      "url": "https://github.com/FeiZhuLulu/DeepSeek-Bot",
+      "summary": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
+      "stars": 678,
+      "language": "JavaScript",
+      "topics": [
+        "bot",
+        "deepseek-harness",
+        "dsh-plugin",
+        "multi-agent"
+      ]
+    },
+    {
+      "name": "ARahim3/DigUp",
+      "url": "https://github.com/ARahim3/DigUp",
+      "summary": "Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.",
+      "stars": 587,
+      "language": "Swift",
+      "topics": [
+        "embeddinggemma",
+        "embeddings",
+        "llama-cpp",
+        "local-first",
+        "macos",
+        "menubar-app",
+        "multimodal",
+        "on-device",
+        "semantic-search",
+        "swift"
+      ]
+    },
+    {
+      "name": "sirioberati/Genjustsu-Open-Source-Workflow",
+      "url": "https://github.com/sirioberati/Genjustsu-Open-Source-Workflow",
+      "summary": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to p",
+      "stars": 578,
+      "language": "Python",
+      "topics": []
+    }
+  ]
+}

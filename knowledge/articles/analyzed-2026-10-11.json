@@ -1,0 +1,107 @@
+[
+  {
+    "id": "a191328c-1695-4e22-8bb0-4f7a0dbca622",
+    "title": "wheresryan22/anatomy",
+    "source_url": "https://github.com/wheresryan22/anatomy",
+    "source": "unknown",
+    "collected_at": "2026-10-11T14:36:51.503861+00:00",
+    "analyzed_at": "2026-10-11T14:36:51.503861+00:00",
+    "summary": "A Claude Code skill that turns a technical idea into a detailed, interactive isometric figure of a real machine. It makes SVG with optional WebGL shaders and 3D, for docs, articles and landing pages.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1581,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "3e126d01-3704-489d-b3af-c6ff4c83ef9c",
+    "title": "marclou/mailcheap",
+    "source_url": "https://github.com/marclou/mailcheap",
+    "source": "unknown",
+    "collected_at": "2026-10-11T14:36:52.740656+00:00",
+    "analyzed_at": "2026-10-11T14:36:52.740656+00:00",
+    "summary": "Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 693,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "655b2ad9-dc9b-4cf6-9173-b1f77af22163",
+    "title": "FeiZhuLulu/DeepSeek-Bot",
+    "source_url": "https://github.com/FeiZhuLulu/DeepSeek-Bot",
+    "source": "unknown",
+    "collected_at": "2026-10-11T14:36:54.015462+00:00",
+    "analyzed_at": "2026-10-11T14:36:54.015462+00:00",
+    "summary": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 678,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "726df4f8-b63a-4ec0-9f12-32f27d61cea8",
+    "title": "ARahim3/DigUp",
+    "source_url": "https://github.com/ARahim3/DigUp",
+    "source": "unknown",
+    "collected_at": "2026-10-11T14:36:55.258641+00:00",
+    "analyzed_at": "2026-10-11T14:36:55.258641+00:00",
+    "summary": "Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 587,
+      "score": null,
+      "author": null,
+      "language": "Swift"
+    }
+  },
+  {
+    "id": "32effc3c-6f25-4962-b996-0d3db0e4af76",
+    "title": "sirioberati/Genjustsu-Open-Source-Workflow",
+    "source_url": "https://github.com/sirioberati/Genjustsu-Open-Source-Workflow",
+    "source": "unknown",
+    "collected_at": "2026-10-11T14:36:56.495357+00:00",
+    "analyzed_at": "2026-10-11T14:36:56.495357+00:00",
+    "summary": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to p",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 578,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  }
+]
