@@ -1,0 +1,178 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-10-12T17:20:07.222929+00:00",
+  "items": [
+    {
+      "name": "Normies won't know they're building software because their AI will do it",
+      "url": "https://levels.io/normies-ai-builds-software-for-them",
+      "summary": "Article URL: https://levels.io/normies-ai-builds-software-for-them\nComments URL: https://news.ycombinator.com/item?id=50059537\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "speckx",
+      "published": "Mon, 12 Oct 2026 17:14:56 +0000"
+    },
+    {
+      "name": "AI coding agents generate more code, but not more software",
+      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/\nComments URL: https://news.ycombinator.com/item?id=50059523\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "gumby",
+      "published": "Mon, 12 Oct 2026 17:14:01 +0000"
+    },
+    {
+      "name": "Aura: A behavioral threat-intelligence framework for AI Safety",
+      "url": "https://medium.com/@kate8382/aura-ai-user-risk-assessment-a-behavioral-threat-intelligence-framework-for-ai-safety-7056f9ae0fee",
+      "summary": "Article URL: https://medium.com/@kate8382/aura-ai-user-risk-assessment-a-behavioral-threat-intelligence-framework-for-ai-safety-7056f9ae0fee\nComments URL: https://news.ycombinator.com/item?id=50059458",
+      "source": "hacker_news",
+      "score": null,
+      "author": "kate8382",
+      "published": "Mon, 12 Oct 2026 17:09:20 +0000"
+    },
+    {
+      "name": "AI Reflections of a New Grad Engineer",
+      "url": "https://medium.com/affirmengineering/ai-reflections-of-a-new-grad-engineer-3020093196fe",
+      "summary": "Article URL: https://medium.com/affirmengineering/ai-reflections-of-a-new-grad-engineer-3020093196fe\nComments URL: https://news.ycombinator.com/item?id=50059448\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mooreds",
+      "published": "Mon, 12 Oct 2026 17:08:28 +0000"
+    },
+    {
+      "name": "Meta Unveils New Series of Advanced AI Models",
+      "url": "https://www.nytimes.com/2026/10/12/technology/meta-muse-wonder-full-models.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/10/12/technology/meta-muse-wonder-full-models.html\nComments URL: https://news.ycombinator.com/item?id=50059427\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mikelgan",
+      "published": "Mon, 12 Oct 2026 17:07:20 +0000"
+    },
+    {
+      "name": "Show HN: Search 123 AI labs' jobs from your own agent, no signup",
+      "url": "https://workatailab.com/agents",
+      "summary": "Article URL: https://workatailab.com/agents\nComments URL: https://news.ycombinator.com/item?id=50059387\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ccarnino",
+      "published": "Mon, 12 Oct 2026 17:04:55 +0000"
+    },
+    {
+      "name": "A YouTube Transcript CLI Built for Humans and AI Agents",
+      "url": "https://github.com/nmdra/yt-transcript",
+      "summary": "Article URL: https://github.com/nmdra/yt-transcript\nComments URL: https://news.ycombinator.com/item?id=50059296\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "nmdra",
+      "published": "Mon, 12 Oct 2026 16:59:11 +0000"
+    },
+    {
+      "name": "AI spots nearly 19,000 road offences, in 2 week trial",
+      "url": "https://www.bbc.com/news/articles/c39wzpegqgd9o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c39wzpegqgd9o\nComments URL: https://news.ycombinator.com/item?id=50059138\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "kitbrennan",
+      "published": "Mon, 12 Oct 2026 16:49:14 +0000"
+    },
+    {
+      "name": "Hermes vs. OpenClaw: Which AI agent I kept after running both",
+      "url": "https://www.dhawalshah.net/article/hermes-vs-openclaw/",
+      "summary": "Article URL: https://www.dhawalshah.net/article/hermes-vs-openclaw/\nComments URL: https://news.ycombinator.com/item?id=50059089\nPoints: 4\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "djshah",
+      "published": "Mon, 12 Oct 2026 16:46:05 +0000"
+    },
+    {
+      "name": "Picks and Shovels: Game about AI industry built by AI",
+      "url": "https://blog.fsck.com/2026/10/11/picks-and-shovels/",
+      "summary": "Article URL: https://blog.fsck.com/2026/10/11/picks-and-shovels/\nComments URL: https://news.ycombinator.com/item?id=50059070\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "CharlesW",
+      "published": "Mon, 12 Oct 2026 16:45:20 +0000"
+    },
+    {
+      "name": "Ask HN: Fastest way to develop puppeteer scripts with AI?",
+      "url": "https://news.ycombinator.com/item?id=50058946",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=50058946\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "otherayden",
+      "published": "Mon, 12 Oct 2026 16:37:04 +0000"
+    },
+    {
+      "name": "AI didn't create the identity problem. It removed the speed limit",
+      "url": "https://fusionauth.io/blog/announcing-fusionauth-1-69",
+      "summary": "Article URL: https://fusionauth.io/blog/announcing-fusionauth-1-69\nComments URL: https://news.ycombinator.com/item?id=50058924\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mooreds",
+      "published": "Mon, 12 Oct 2026 16:35:42 +0000"
+    },
+    {
+      "name": "Show HN: IHMT – Infinite Hierarchical Memory Tree for AI Agents",
+      "url": "https://github.com/gonzaroman/IHMT-MEMORY",
+      "summary": "Article URL: https://github.com/gonzaroman/IHMT-MEMORY\nComments URL: https://news.ycombinator.com/item?id=50058903\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "gonzar79",
+      "published": "Mon, 12 Oct 2026 16:34:41 +0000"
+    },
+    {
+      "name": "Fails Proposal (Forensic AI-Ledger System)",
+      "url": "https://drive.google.com/file/d/1CqhyI3YM_LJtiP0k0eSs91XCUXCTFpt8/view?usp=sharing",
+      "summary": "Article URL: https://drive.google.com/file/d/1CqhyI3YM_LJtiP0k0eSs91XCUXCTFpt8/view?usp=sharing\nComments URL: https://news.ycombinator.com/item?id=50058614\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "blackturtleus",
+      "published": "Mon, 12 Oct 2026 16:18:07 +0000"
+    },
+    {
+      "name": "Ringee: Open source calling for humans and AI voice agents",
+      "url": "https://www.ringee.io",
+      "summary": "Article URL: https://www.ringee.io\nComments URL: https://news.ycombinator.com/item?id=50058605\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "edison_",
+      "published": "Mon, 12 Oct 2026 16:17:39 +0000"
+    },
+    {
+      "name": "AI's price wave reaches the processor: Intel up to 20%, Qualcomm 10%, TSMC next",
+      "url": "https://theinference.org/article/ai-s-price-wave-reaches-the-processor-intel-up-to-20-qualcomm-10-tsmc-next",
+      "summary": "Article URL: https://theinference.org/article/ai-s-price-wave-reaches-the-processor-intel-up-to-20-qualcomm-10-tsmc-next\nComments URL: https://news.ycombinator.com/item?id=50058530\nPoints: 2\n# Comment",
+      "source": "hacker_news",
+      "score": null,
+      "author": "vincentjiang",
+      "published": "Mon, 12 Oct 2026 16:13:10 +0000"
+    },
+    {
+      "name": "I'm an AI Founder (Claude Opus 5.5 music video)",
+      "url": "https://www.youtube.com/watch?v=EIBcfbPT3_I",
+      "summary": "Article URL: https://www.youtube.com/watch?v=EIBcfbPT3_I\nComments URL: https://news.ycombinator.com/item?id=50058490\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "gemanor",
+      "published": "Mon, 12 Oct 2026 16:10:34 +0000"
+    },
+    {
+      "name": "Show HN: AI Slop Detector – 120 patterns that make writing read like AI",
+      "url": "https://github.com/FeedHive/ai-slop-detector",
+      "summary": "Article URL: https://github.com/FeedHive/ai-slop-detector\nComments URL: https://news.ycombinator.com/item?id=50058453\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "SimonLH",
+      "published": "Mon, 12 Oct 2026 16:08:22 +0000"
+    },
+    {
+      "name": "Show HN: Practice for the new AI-assisted coding interview format",
+      "url": "https://nyrion.ai/",
+      "summary": "Article URL: https://nyrion.ai/\nComments URL: https://news.ycombinator.com/item?id=50058306\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "maxnyriev",
+      "published": "Mon, 12 Oct 2026 15:58:41 +0000"
+    }
+  ]
+}

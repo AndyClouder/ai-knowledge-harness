@@ -1,0 +1,422 @@
+[
+  {
+    "id": "1735d2d7-31ac-4193-b4d6-8eb1f65767e5",
+    "title": "Fei2411/DeepSeek-Bot",
+    "source_url": "https://github.com/Fei2411/DeepSeek-Bot",
+    "source": "unknown",
+    "collected_at": "2026-10-12T17:20:08.263674+00:00",
+    "analyzed_at": "2026-10-12T17:20:08.263674+00:00",
+    "summary": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1332,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "b1d1d32d-f3a8-4bdd-9e64-82980c5026fe",
+    "title": "bherbruck/solidcraft",
+    "source_url": "https://github.com/bherbruck/solidcraft",
+    "source": "unknown",
+    "collected_at": "2026-10-12T17:20:09.456190+00:00",
+    "analyzed_at": "2026-10-12T17:20:09.456190+00:00",
+    "summary": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 940,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "72765087-4608-4666-be33-be7ae888c274",
+    "title": "academa-labs/manimgx",
+    "source_url": "https://github.com/academa-labs/manimgx",
+    "source": "unknown",
+    "collected_at": "2026-10-12T17:20:10.635108+00:00",
+    "analyzed_at": "2026-10-12T17:20:10.635108+00:00",
+    "summary": "The animation engine for agents: blazingly fast math and 3D videos with Manim's Python API, on a Rust GPU core.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 860,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "5b66a4ac-3385-4758-b061-5832cd56bbdb",
+    "title": "jwuthri-cloud/Tracely-ai",
+    "source_url": "https://github.com/jwuthri-cloud/Tracely-ai",
+    "source": "unknown",
+    "collected_at": "2026-10-12T17:20:11.832490+00:00",
+    "analyzed_at": "2026-10-12T17:20:11.832490+00:00",
+    "summary": "",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 481,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "87beb374-7a65-48fa-9e9b-e99ea8473115",
+    "title": "zhuyansen/new-term-radar",
+    "source_url": "https://github.com/zhuyansen/new-term-radar",
+    "source": "unknown",
+    "collected_at": "2026-10-12T17:20:13.026663+00:00",
+    "analyzed_at": "2026-10-12T17:20:13.026663+00:00",
+    "summary": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 452,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "cf935c40-551a-48d6-a88a-45bb68b14aac",
+    "title": "iamlukethedev/Herald-OS",
+    "source_url": "https://github.com/iamlukethedev/Herald-OS",
+    "source": "unknown",
+    "collected_at": "2026-10-12T17:20:14.217276+00:00",
+    "analyzed_at": "2026-10-12T17:20:14.217276+00:00",
+    "summary": "An agent-native operating system, with Hermes Agent as the interface. Independent project, not affiliated with Nous Research.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 446,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "30c06d75-f686-4db9-95b4-2b1b891aec1a",
+    "title": "gholtzap/lintapple",
+    "source_url": "https://github.com/gholtzap/lintapple",
+    "source": "unknown",
+    "collected_at": "2026-10-12T17:20:15.398538+00:00",
+    "analyzed_at": "2026-10-12T17:20:15.398538+00:00",
+    "summary": "It should be impossible for AI to make a bad UI.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 444,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "fc9f78d4-8ce1-482b-8627-d726f4c15505",
+    "title": "Normies won't know they're building software because their AI will do it",
+    "source_url": "https://levels.io/normies-ai-builds-software-for-them",
+    "source": "hacker_news",
+    "collected_at": "2026-10-12T17:20:16.585376+00:00",
+    "analyzed_at": "2026-10-12T17:20:16.585376+00:00",
+    "summary": "Article URL: https://levels.io/normies-ai-builds-software-for-them\nComments URL: https://news.ycombinator.com/item?id=50059537\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "speckx",
+      "language": null
+    }
+  },
+  {
+    "id": "4ffbc3bc-6027-40bf-b0e7-dd424a2fdec6",
+    "title": "AI coding agents generate more code, but not more software",
+    "source_url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-12T17:20:17.769312+00:00",
+    "analyzed_at": "2026-10-12T17:20:17.769312+00:00",
+    "summary": "Article URL: https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/\nComments URL: https://news.ycombinator.com/item?id=50059523\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "gumby",
+      "language": null
+    }
+  },
+  {
+    "id": "a57638b2-beed-44af-889a-0da78ed7328e",
+    "title": "Aura: A behavioral threat-intelligence framework for AI Safety",
+    "source_url": "https://medium.com/@kate8382/aura-ai-user-risk-assessment-a-behavioral-threat-intelligence-framework-for-ai-safety-7056f9ae0fee",
+    "source": "hacker_news",
+    "collected_at": "2026-10-12T17:20:18.958543+00:00",
+    "analyzed_at": "2026-10-12T17:20:18.958543+00:00",
+    "summary": "Article URL: https://medium.com/@kate8382/aura-ai-user-risk-assessment-a-behavioral-threat-intelligence-framework-for-ai-safety-7056f9ae0fee\nComments URL: https://news.ycombinator.com/item?id=50059458",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "kate8382",
+      "language": null
+    }
+  },
+  {
+    "id": "4040f02c-a73d-4149-87dd-5b2fd616a23e",
+    "title": "AI Reflections of a New Grad Engineer",
+    "source_url": "https://medium.com/affirmengineering/ai-reflections-of-a-new-grad-engineer-3020093196fe",
+    "source": "hacker_news",
+    "collected_at": "2026-10-12T17:20:20.142212+00:00",
+    "analyzed_at": "2026-10-12T17:20:20.142212+00:00",
+    "summary": "Article URL: https://medium.com/affirmengineering/ai-reflections-of-a-new-grad-engineer-3020093196fe\nComments URL: https://news.ycombinator.com/item?id=50059448\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mooreds",
+      "language": null
+    }
+  },
+  {
+    "id": "09053c5c-5e4c-41e6-808a-4dc1e58bc2bb",
+    "title": "Meta Unveils New Series of Advanced AI Models",
+    "source_url": "https://www.nytimes.com/2026/10/12/technology/meta-muse-wonder-full-models.html",
+    "source": "hacker_news",
+    "collected_at": "2026-10-12T17:20:21.338363+00:00",
+    "analyzed_at": "2026-10-12T17:20:21.338363+00:00",
+    "summary": "Article URL: https://www.nytimes.com/2026/10/12/technology/meta-muse-wonder-full-models.html\nComments URL: https://news.ycombinator.com/item?id=50059427\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mikelgan",
+      "language": null
+    }
+  },
+  {
+    "id": "c2aca1b9-8866-40b5-a9ef-4894d58a7850",
+    "title": "Show HN: Search 123 AI labs' jobs from your own agent, no signup",
+    "source_url": "https://workatailab.com/agents",
+    "source": "hacker_news",
+    "collected_at": "2026-10-12T17:20:22.526282+00:00",
+    "analyzed_at": "2026-10-12T17:20:22.526282+00:00",
+    "summary": "Article URL: https://workatailab.com/agents\nComments URL: https://news.ycombinator.com/item?id=50059387\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ccarnino",
+      "language": null
+    }
+  },
+  {
+    "id": "deb3adf2-1434-40dc-80a0-bc28c6cc4d0d",
+    "title": "A YouTube Transcript CLI Built for Humans and AI Agents",
+    "source_url": "https://github.com/nmdra/yt-transcript",
+    "source": "hacker_news",
+    "collected_at": "2026-10-12T17:20:23.712449+00:00",
+    "analyzed_at": "2026-10-12T17:20:23.712449+00:00",
+    "summary": "Article URL: https://github.com/nmdra/yt-transcript\nComments URL: https://news.ycombinator.com/item?id=50059296\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "nmdra",
+      "language": null
+    }
+  },
+  {
+    "id": "5f037bf3-072e-4685-94e2-d2d57cded358",
+    "title": "AI spots nearly 19,000 road offences, in 2 week trial",
+    "source_url": "https://www.bbc.com/news/articles/c39wzpegqgd9o",
+    "source": "hacker_news",
+    "collected_at": "2026-10-12T17:20:24.896296+00:00",
+    "analyzed_at": "2026-10-12T17:20:24.896296+00:00",
+    "summary": "Article URL: https://www.bbc.com/news/articles/c39wzpegqgd9o\nComments URL: https://news.ycombinator.com/item?id=50059138\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "kitbrennan",
+      "language": null
+    }
+  },
+  {
+    "id": "62a5782b-aa88-4283-86c7-b0f921720a4c",
+    "title": "Hermes vs. OpenClaw: Which AI agent I kept after running both",
+    "source_url": "https://www.dhawalshah.net/article/hermes-vs-openclaw/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-12T17:20:26.093926+00:00",
+    "analyzed_at": "2026-10-12T17:20:26.093926+00:00",
+    "summary": "Article URL: https://www.dhawalshah.net/article/hermes-vs-openclaw/\nComments URL: https://news.ycombinator.com/item?id=50059089\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "djshah",
+      "language": null
+    }
+  },
+  {
+    "id": "eb909b77-a353-4de2-a8d7-503e12a33ee1",
+    "title": "Picks and Shovels: Game about AI industry built by AI",
+    "source_url": "https://blog.fsck.com/2026/10/11/picks-and-shovels/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-12T17:20:27.275380+00:00",
+    "analyzed_at": "2026-10-12T17:20:27.275380+00:00",
+    "summary": "Article URL: https://blog.fsck.com/2026/10/11/picks-and-shovels/\nComments URL: https://news.ycombinator.com/item?id=50059070\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "CharlesW",
+      "language": null
+    }
+  },
+  {
+    "id": "67338207-dea5-40d5-8ea8-97646eb04317",
+    "title": "Ask HN: Fastest way to develop puppeteer scripts with AI?",
+    "source_url": "https://news.ycombinator.com/item?id=50058946",
+    "source": "hacker_news",
+    "collected_at": "2026-10-12T17:20:28.456873+00:00",
+    "analyzed_at": "2026-10-12T17:20:28.456873+00:00",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=50058946\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "otherayden",
+      "language": null
+    }
+  },
+  {
+    "id": "63a91158-b836-4613-bf1b-9081ca68c5bf",
+    "title": "AI didn't create the identity problem. It removed the speed limit",
+    "source_url": "https://fusionauth.io/blog/announcing-fusionauth-1-69",
+    "source": "hacker_news",
+    "collected_at": "2026-10-12T17:20:29.646665+00:00",
+    "analyzed_at": "2026-10-12T17:20:29.646665+00:00",
+    "summary": "Article URL: https://fusionauth.io/blog/announcing-fusionauth-1-69\nComments URL: https://news.ycombinator.com/item?id=50058924\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mooreds",
+      "language": null
+    }
+  },
+  {
+    "id": "53fbe099-bfa2-436c-aecb-efca8a1bb1be",
+    "title": "Show HN: IHMT – Infinite Hierarchical Memory Tree for AI Agents",
+    "source_url": "https://github.com/gonzaroman/IHMT-MEMORY",
+    "source": "hacker_news",
+    "collected_at": "2026-10-12T17:20:30.839762+00:00",
+    "analyzed_at": "2026-10-12T17:20:30.839762+00:00",
+    "summary": "Article URL: https://github.com/gonzaroman/IHMT-MEMORY\nComments URL: https://news.ycombinator.com/item?id=50058903\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "gonzar79",
+      "language": null
+    }
+  }
+]

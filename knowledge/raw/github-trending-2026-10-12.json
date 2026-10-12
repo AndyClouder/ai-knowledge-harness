@@ -1,0 +1,96 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-10-12T17:19:47.243158+00:00",
+  "items": [
+    {
+      "name": "Fei2411/DeepSeek-Bot",
+      "url": "https://github.com/Fei2411/DeepSeek-Bot",
+      "summary": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
+      "stars": 1332,
+      "language": "JavaScript",
+      "topics": [
+        "bot",
+        "deepseek-harness",
+        "dsh-plugin",
+        "multi-agent"
+      ]
+    },
+    {
+      "name": "bherbruck/solidcraft",
+      "url": "https://github.com/bherbruck/solidcraft",
+      "summary": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
+      "stars": 940,
+      "language": "Rust",
+      "topics": [
+        "3d-modeling",
+        "brep",
+        "cad",
+        "egui",
+        "mcp",
+        "parametric-cad",
+        "rust",
+        "step",
+        "wasm"
+      ]
+    },
+    {
+      "name": "academa-labs/manimgx",
+      "url": "https://github.com/academa-labs/manimgx",
+      "summary": "The animation engine for agents: blazingly fast math and 3D videos with Manim's Python API, on a Rust GPU core.",
+      "stars": 860,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "jwuthri-cloud/Tracely-ai",
+      "url": "https://github.com/jwuthri-cloud/Tracely-ai",
+      "summary": "",
+      "stars": 481,
+      "language": null,
+      "topics": []
+    },
+    {
+      "name": "zhuyansen/new-term-radar",
+      "url": "https://github.com/zhuyansen/new-term-radar",
+      "summary": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "stars": 452,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "aisa",
+        "github-actions",
+        "keyword-research",
+        "seo",
+        "trends"
+      ]
+    },
+    {
+      "name": "iamlukethedev/Herald-OS",
+      "url": "https://github.com/iamlukethedev/Herald-OS",
+      "summary": "An agent-native operating system, with Hermes Agent as the interface. Independent project, not affiliated with Nous Research.",
+      "stars": 446,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "desktop-environment",
+        "fedora",
+        "hermes-agent",
+        "hyprland",
+        "linux",
+        "macos",
+        "niri",
+        "omarchy",
+        "operating-system"
+      ]
+    },
+    {
+      "name": "gholtzap/lintapple",
+      "url": "https://github.com/gholtzap/lintapple",
+      "summary": "It should be impossible for AI to make a bad UI.",
+      "stars": 444,
+      "language": "JavaScript",
+      "topics": []
+    }
+  ]
+}
