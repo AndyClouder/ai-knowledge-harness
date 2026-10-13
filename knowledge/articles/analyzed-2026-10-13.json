@@ -1,0 +1,422 @@
+[
+  {
+    "id": "56726a2e-86f5-4dab-bfb8-b375577f5950",
+    "title": "onehumanbeing/esp32-iphone-agent",
+    "source_url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+    "source": "unknown",
+    "collected_at": "2026-10-13T15:33:12.661822+00:00",
+    "analyzed_at": "2026-10-13T15:33:12.661822+00:00",
+    "summary": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1347,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "4a0917a3-0120-4479-867e-9ee7d9a49d29",
+    "title": "trhhubsd/ARTEXX",
+    "source_url": "https://github.com/trhhubsd/ARTEXX",
+    "source": "unknown",
+    "collected_at": "2026-10-13T15:33:13.875384+00:00",
+    "analyzed_at": "2026-10-13T15:33:13.875384+00:00",
+    "summary": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 879,
+      "score": null,
+      "author": null,
+      "language": "Go"
+    }
+  },
+  {
+    "id": "f95dfed0-8d9b-4a86-a91c-891cca56e114",
+    "title": "gr8rstudio/gr8r-studio",
+    "source_url": "https://github.com/gr8rstudio/gr8r-studio",
+    "source": "unknown",
+    "collected_at": "2026-10-13T15:33:15.089189+00:00",
+    "analyzed_at": "2026-10-13T15:33:15.089189+00:00",
+    "summary": "Gr8r Studio: a calm, structured project management workspace. Vite + plain ES modules.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 615,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "c44e180b-7b23-429e-a1fa-6dd4b0dfc8bb",
+    "title": "Arekejoker/qwen21-nsfw-pose-skill",
+    "source_url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+    "source": "unknown",
+    "collected_at": "2026-10-13T15:33:16.298932+00:00",
+    "analyzed_at": "2026-10-13T15:33:16.298932+00:00",
+    "summary": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 592,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "9d0fc754-15fc-4388-aa1e-03d24a6a9a7a",
+    "title": "Gen-Verse/RSI-Anything",
+    "source_url": "https://github.com/Gen-Verse/RSI-Anything",
+    "source": "unknown",
+    "collected_at": "2026-10-13T15:33:17.508553+00:00",
+    "analyzed_at": "2026-10-13T15:33:17.508553+00:00",
+    "summary": "RSI-Anything: Unlocking Recursive Self-Improvement with World Models",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 567,
+      "score": null,
+      "author": null,
+      "language": "HTML"
+    }
+  },
+  {
+    "id": "f702b4b2-e256-450a-b0b1-02c4c71b1c7e",
+    "title": "Palantir CTO:Some AI researchers taking up smoking;they expect AI to cure cancer",
+    "source_url": "https://www.businessinsider.com/ai-researchers-smoking-ai-cure-cancer-palantir-cto-2026-10",
+    "source": "hacker_news",
+    "collected_at": "2026-10-13T15:33:18.718348+00:00",
+    "analyzed_at": "2026-10-13T15:33:18.718348+00:00",
+    "summary": "Article URL: https://www.businessinsider.com/ai-researchers-smoking-ai-cure-cancer-palantir-cto-2026-10\nComments URL: https://news.ycombinator.com/item?id=50073279\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "bookofjoe",
+      "language": null
+    }
+  },
+  {
+    "id": "eb6a7f88-f765-4990-b616-cc914334e042",
+    "title": "I posted to HN, and then my website was flooded with AI BOT traffic",
+    "source_url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+    "source": "hacker_news",
+    "collected_at": "2026-10-13T15:33:19.929142+00:00",
+    "analyzed_at": "2026-10-13T15:33:19.929142+00:00",
+    "summary": "Article URL: https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic\nComments URL: https://news.ycombinator.com/item?id=50073221\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "sammy0910",
+      "language": null
+    }
+  },
+  {
+    "id": "0b0c86eb-adbe-4fc9-bd9a-d608ba23c336",
+    "title": "The \"alien\" economics of AI monetization",
+    "source_url": "https://stripe.com/blog/economics-of-ai-monetization",
+    "source": "hacker_news",
+    "collected_at": "2026-10-13T15:33:21.150022+00:00",
+    "analyzed_at": "2026-10-13T15:33:21.150022+00:00",
+    "summary": "Article URL: https://stripe.com/blog/economics-of-ai-monetization\nComments URL: https://news.ycombinator.com/item?id=50073161\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "runtimewire",
+      "language": null
+    }
+  },
+  {
+    "id": "ac19e1cc-2453-42f7-9db5-ae727fba872b",
+    "title": "Show HN: Agor, multiplayer AI – stop running agents alone",
+    "source_url": "https://github.com/preset-io/agor",
+    "source": "hacker_news",
+    "collected_at": "2026-10-13T15:33:22.360421+00:00",
+    "analyzed_at": "2026-10-13T15:33:22.360421+00:00",
+    "summary": "Article URL: https://github.com/preset-io/agor\nComments URL: https://news.ycombinator.com/item?id=50073109\nPoints: 6\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "caravel",
+      "language": null
+    }
+  },
+  {
+    "id": "4b06227f-ff8e-463f-9372-9781175d0977",
+    "title": "Companies rushed in on AI. Now some are pulling back",
+    "source_url": "https://www.theguardian.com/technology/2026/oct/13/ai-companies-rushed-workers-fallout",
+    "source": "hacker_news",
+    "collected_at": "2026-10-13T15:33:23.563380+00:00",
+    "analyzed_at": "2026-10-13T15:33:23.563380+00:00",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/13/ai-companies-rushed-workers-fallout\nComments URL: https://news.ycombinator.com/item?id=50073106\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "dennis_moore",
+      "language": null
+    }
+  },
+  {
+    "id": "d06ab30e-35fe-4b1a-b544-ed8fa05d9f34",
+    "title": "Cracks Are Starting to Appear in the AI Trade",
+    "source_url": "https://www.bloomberg.com/news/newsletters/2026-10-13/tech-stocks-cracks-are-starting-to-appear-in-the-ai-trade",
+    "source": "hacker_news",
+    "collected_at": "2026-10-13T15:33:24.776118+00:00",
+    "analyzed_at": "2026-10-13T15:33:24.776118+00:00",
+    "summary": "Article URL: https://www.bloomberg.com/news/newsletters/2026-10-13/tech-stocks-cracks-are-starting-to-appear-in-the-ai-trade\nComments URL: https://news.ycombinator.com/item?id=50072971\nPoints: 1\n# Com",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "wslh",
+      "language": null
+    }
+  },
+  {
+    "id": "ce1858ba-dd23-4af2-aed7-e498371584e0",
+    "title": "Is AI Making Students Lazy Thinkers? Only When It Skips the Thinking Step",
+    "source_url": "https://maheletgfikru.substack.com/p/is-ai-making-students-lazy-thinkers",
+    "source": "hacker_news",
+    "collected_at": "2026-10-13T15:33:25.983955+00:00",
+    "analyzed_at": "2026-10-13T15:33:25.983955+00:00",
+    "summary": "Article URL: https://maheletgfikru.substack.com/p/is-ai-making-students-lazy-thinkers\nComments URL: https://news.ycombinator.com/item?id=50072923\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "NomNew",
+      "language": null
+    }
+  },
+  {
+    "id": "a6eb1fab-ba58-4178-b83d-fed1f28d48a7",
+    "title": "China Just Broke America's Biggest AI Advantage? [video]",
+    "source_url": "https://www.youtube.com/watch?v=pw3T0wZjYes",
+    "source": "hacker_news",
+    "collected_at": "2026-10-13T15:33:27.224283+00:00",
+    "analyzed_at": "2026-10-13T15:33:27.224283+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=pw3T0wZjYes\nComments URL: https://news.ycombinator.com/item?id=50072773\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "hsnewman",
+      "language": null
+    }
+  },
+  {
+    "id": "ffbe5db7-b7c0-4611-af1a-cab06a5568b0",
+    "title": "Don't Quit Because of AI [video]",
+    "source_url": "https://www.youtube.com/watch?v=Nokft8MsZgU",
+    "source": "hacker_news",
+    "collected_at": "2026-10-13T15:33:28.468995+00:00",
+    "analyzed_at": "2026-10-13T15:33:28.468995+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=Nokft8MsZgU\nComments URL: https://news.ycombinator.com/item?id=50072771\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "wg0",
+      "language": null
+    }
+  },
+  {
+    "id": "cbf8e1b7-aef5-4d88-b179-5c84b502746b",
+    "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+    "source_url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-13T15:33:29.681864+00:00",
+    "analyzed_at": "2026-10-13T15:33:29.681864+00:00",
+    "summary": "Article URL: https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/\nComments URL: https://news.ycombinator.com/item?id=50072694\nPoints: 1\n# C",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rndsignals",
+      "language": null
+    }
+  },
+  {
+    "id": "a19be2fb-e2aa-4d87-af8c-842625b679d6",
+    "title": "Show HN: Podway – your self-hosted apps, run by an AI admin",
+    "source_url": "https://podway.io",
+    "source": "hacker_news",
+    "collected_at": "2026-10-13T15:33:30.892610+00:00",
+    "analyzed_at": "2026-10-13T15:33:30.892610+00:00",
+    "summary": "Article URL: https://podway.io\nComments URL: https://news.ycombinator.com/item?id=50072616\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "velsoff",
+      "language": null
+    }
+  },
+  {
+    "id": "7b56537d-146c-4f77-b917-f08585eb2fcc",
+    "title": "Mobile Tunnel: Giving AI agents control of Android to drive drones and IoT",
+    "source_url": "https://sealgate.ai/blog/mobile-tunnel-agents-control-android-devices",
+    "source": "hacker_news",
+    "collected_at": "2026-10-13T15:33:32.094042+00:00",
+    "analyzed_at": "2026-10-13T15:33:32.094042+00:00",
+    "summary": "Article URL: https://sealgate.ai/blog/mobile-tunnel-agents-control-android-devices\nComments URL: https://news.ycombinator.com/item?id=50072608\nPoints: 3\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "76SlashDolphin",
+      "language": null
+    }
+  },
+  {
+    "id": "f48b9d35-398e-4fab-9c10-b133cd0d9689",
+    "title": "NetBSD may have found a new role: The AI-free FOSS OS",
+    "source_url": "https://www.theregister.com/os-platforms/2026/10/13/netbsd-may-have-found-a-new-role-the-ai-free-foss-os/5302818",
+    "source": "hacker_news",
+    "collected_at": "2026-10-13T15:33:33.304274+00:00",
+    "analyzed_at": "2026-10-13T15:33:33.304274+00:00",
+    "summary": "Article URL: https://www.theregister.com/os-platforms/2026/10/13/netbsd-may-have-found-a-new-role-the-ai-free-foss-os/5302818\nComments URL: https://news.ycombinator.com/item?id=50072486\nPoints: 1\n# Co",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jjgreen",
+      "language": null
+    }
+  },
+  {
+    "id": "617fcfab-e2c9-4e19-afa1-c8eccad41db1",
+    "title": "Anthropic offers £145k for London personal assistant amid AI agent boom",
+    "source_url": "https://www.cityam.com/anthropic-offers-145k-for-london-personal-assistant-amid-ai-agent-boom/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-13T15:33:34.521299+00:00",
+    "analyzed_at": "2026-10-13T15:33:34.521299+00:00",
+    "summary": "Article URL: https://www.cityam.com/anthropic-offers-145k-for-london-personal-assistant-amid-ai-agent-boom/\nComments URL: https://news.ycombinator.com/item?id=50072346\nPoints: 5\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mirzap",
+      "language": null
+    }
+  },
+  {
+    "id": "9a857660-ea07-4cce-a4b4-cdbbff7dae46",
+    "title": "Show HN: Recall – long-term memory for AI agents that notices when facts change",
+    "source_url": "https://github.com/recallmem/recall",
+    "source": "hacker_news",
+    "collected_at": "2026-10-13T15:33:35.728677+00:00",
+    "analyzed_at": "2026-10-13T15:33:35.728677+00:00",
+    "summary": "Article URL: https://github.com/recallmem/recall\nComments URL: https://news.ycombinator.com/item?id=50072239\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Recallmem",
+      "language": null
+    }
+  }
+]

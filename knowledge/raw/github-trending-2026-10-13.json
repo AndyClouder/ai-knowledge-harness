@@ -1,0 +1,69 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-10-13T15:32:49.819175+00:00",
+  "items": [
+    {
+      "name": "onehumanbeing/esp32-iphone-agent",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "summary": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "stars": 1347,
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "airplay",
+        "automation",
+        "computer-use",
+        "esp32",
+        "esp32-s3",
+        "iphone",
+        "llm",
+        "usb-hid"
+      ]
+    },
+    {
+      "name": "trhhubsd/ARTEXX",
+      "url": "https://github.com/trhhubsd/ARTEXX",
+      "summary": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX",
+      "stars": 879,
+      "language": "Go",
+      "topics": []
+    },
+    {
+      "name": "gr8rstudio/gr8r-studio",
+      "url": "https://github.com/gr8rstudio/gr8r-studio",
+      "summary": "Gr8r Studio: a calm, structured project management workspace. Vite + plain ES modules.",
+      "stars": 615,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "name": "Arekejoker/qwen21-nsfw-pose-skill",
+      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+      "summary": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "stars": 592,
+      "language": "Python",
+      "topics": [
+        "agent-skill",
+        "comfyui",
+        "image-generation",
+        "openclaw",
+        "pose-control",
+        "qwen-image"
+      ]
+    },
+    {
+      "name": "Gen-Verse/RSI-Anything",
+      "url": "https://github.com/Gen-Verse/RSI-Anything",
+      "summary": "RSI-Anything: Unlocking Recursive Self-Improvement with World Models",
+      "stars": 567,
+      "language": "HTML",
+      "topics": [
+        "jepa",
+        "llm-agents",
+        "recursive-self-improvement",
+        "world-models"
+      ]
+    }
+  ]
+}
