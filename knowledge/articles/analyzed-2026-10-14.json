@@ -1,0 +1,44 @@
+[
+  {
+    "id": "8620b786-f47f-4231-b8d0-752e05ec2de9",
+    "title": "YeonwooSung/my-claude-code-mods",
+    "source_url": "https://github.com/YeonwooSung/my-claude-code-mods",
+    "source": "unknown",
+    "collected_at": "2026-10-14T13:17:34.192752+00:00",
+    "analyzed_at": "2026-10-14T13:17:34.192752+00:00",
+    "summary": "Custom Claude Code Mods that I need",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 743,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "2a941c0b-ed49-4173-88d7-0a38a3ba2076",
+    "title": "CoolkHz/gptibo",
+    "source_url": "https://github.com/CoolkHz/gptibo",
+    "source": "unknown",
+    "collected_at": "2026-10-14T13:17:35.442686+00:00",
+    "analyzed_at": "2026-10-14T13:17:35.442686+00:00",
+    "summary": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 653,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  }
+]

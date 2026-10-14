@@ -1,0 +1,28 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-10-14T13:17:23.765820+00:00",
+  "items": [
+    {
+      "name": "YeonwooSung/my-claude-code-mods",
+      "url": "https://github.com/YeonwooSung/my-claude-code-mods",
+      "summary": "Custom Claude Code Mods that I need",
+      "stars": 743,
+      "language": "TypeScript",
+      "topics": [
+        "claude-code",
+        "claude-code-mod",
+        "claude-code-mods",
+        "claude-code-plugin"
+      ]
+    },
+    {
+      "name": "CoolkHz/gptibo",
+      "url": "https://github.com/CoolkHz/gptibo",
+      "summary": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+      "stars": 653,
+      "language": "TypeScript",
+      "topics": []
+    }
+  ]
+}
