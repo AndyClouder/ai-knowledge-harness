@@ -1,0 +1,86 @@
+[
+  {
+    "id": "c8a32666-b937-4e62-8d23-c29ccdef595f",
+    "title": "deeplethe/solid-glass",
+    "source_url": "https://github.com/deeplethe/solid-glass",
+    "source": "unknown",
+    "collected_at": "2026-10-15T13:03:11.672050+00:00",
+    "analyzed_at": "2026-10-15T13:03:11.672050+00:00",
+    "summary": "A design system for AI applications. Material, physical, tactile, technical.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 944,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "53ec9f65-033c-4801-acf4-e1dc81aa2542",
+    "title": "outcrawlai/scout",
+    "source_url": "https://github.com/outcrawlai/scout",
+    "source": "unknown",
+    "collected_at": "2026-10-15T13:03:12.905829+00:00",
+    "analyzed_at": "2026-10-15T13:03:12.905829+00:00",
+    "summary": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 795,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "c3b42d47-7b99-445e-b565-b9e1fc1a1ec5",
+    "title": "Caho1/open-claude-ui",
+    "source_url": "https://github.com/Caho1/open-claude-ui",
+    "source": "unknown",
+    "collected_at": "2026-10-15T13:03:14.135923+00:00",
+    "analyzed_at": "2026-10-15T13:03:14.135923+00:00",
+    "summary": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。纯手写 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 575,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "cb4bc385-fd54-410a-8c8f-1670e3ff77ec",
+    "title": "nateherkai/roast-room",
+    "source_url": "https://github.com/nateherkai/roast-room",
+    "source": "unknown",
+    "collected_at": "2026-10-15T13:03:15.369351+00:00",
+    "analyzed_at": "2026-10-15T13:03:15.369351+00:00",
+    "summary": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 572,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  }
+]
