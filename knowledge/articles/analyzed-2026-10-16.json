@@ -1,0 +1,422 @@
+[
+  {
+    "id": "1a58bfe1-0e87-48bd-9cdb-93ca5b71ecf5",
+    "title": "feder-cr/open_scion",
+    "source_url": "https://github.com/feder-cr/open_scion",
+    "source": "unknown",
+    "collected_at": "2026-10-16T12:59:55.018592+00:00",
+    "analyzed_at": "2026-10-16T12:59:55.018592+00:00",
+    "summary": "Open-source version of Scion: version control built for coding agents.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1031,
+      "score": null,
+      "author": null,
+      "language": "Go"
+    }
+  },
+  {
+    "id": "43718acd-5a7f-4826-a81d-c29600d16b86",
+    "title": "overdriveps5/overdrive-releases",
+    "source_url": "https://github.com/overdriveps5/overdrive-releases",
+    "source": "unknown",
+    "collected_at": "2026-10-16T12:59:56.225060+00:00",
+    "analyzed_at": "2026-10-16T12:59:56.225060+00:00",
+    "summary": "Overdrive releases for jailbroken PS5",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 577,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "1e31ac18-9548-4086-98b9-470c73faed7f",
+    "title": "Zfinix/eleven",
+    "source_url": "https://github.com/Zfinix/eleven",
+    "source": "unknown",
+    "collected_at": "2026-10-16T12:59:57.431301+00:00",
+    "analyzed_at": "2026-10-16T12:59:57.431301+00:00",
+    "summary": "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 567,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "03f7ee01-f830-44b4-ad99-c6b03131e898",
+    "title": "hujjun/mcd-saver-strategist",
+    "source_url": "https://github.com/hujjun/mcd-saver-strategist",
+    "source": "unknown",
+    "collected_at": "2026-10-16T12:59:58.640241+00:00",
+    "analyzed_at": "2026-10-16T12:59:58.640241+00:00",
+    "summary": "麦当劳省钱点餐助手（麦门精算师）｜麦当劳优惠券组合优化 Skill：拉取麦当劳菜单与全部可用优惠券，算出最省的点餐组合，巨无霸套餐 ¥47 → ¥21.9（省 53%）。McDonalds MCP（麦当劳 MCP）coupon optimizer · McDonalds China MCP Server · Agent Skill for WorkBuddy · 麦当劳程序员创意开发大赛参赛作品",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 466,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "b8402436-7f1e-4f0a-9922-3791b0003208",
+    "title": "mrsarac/ff-tracking",
+    "source_url": "https://github.com/mrsarac/ff-tracking",
+    "source": "unknown",
+    "collected_at": "2026-10-16T12:59:59.849213+00:00",
+    "analyzed_at": "2026-10-16T12:59:59.849213+00:00",
+    "summary": "A virtual camera films an AI agent's screen while a tracker locks onto every glyph. Two fframes passes, one SkSL shader, all sound synthesized.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 440,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "2a25ffe4-2baf-4f99-a1d2-b6113213c219",
+    "title": "MyLuxy/overdrive",
+    "source_url": "https://github.com/MyLuxy/overdrive",
+    "source": "unknown",
+    "collected_at": "2026-10-16T13:00:01.057229+00:00",
+    "analyzed_at": "2026-10-16T13:00:01.057229+00:00",
+    "summary": "Overdrive, a PS5 homebrew game store with 1,800+ games.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 427,
+      "score": null,
+      "author": null,
+      "language": "C++"
+    }
+  },
+  {
+    "id": "677dacb0-5d86-4e01-bd0b-73d71b7713b3",
+    "title": "i12bp8/decomp.wtf",
+    "source_url": "https://github.com/i12bp8/decomp.wtf",
+    "source": "unknown",
+    "collected_at": "2026-10-16T13:00:02.272678+00:00",
+    "analyzed_at": "2026-10-16T13:00:02.272678+00:00",
+    "summary": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 425,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "fa1a6751-ee15-4fd1-889b-67ffd7601b57",
+    "title": "solana-classic/solana-classic",
+    "source_url": "https://github.com/solana-classic/solana-classic",
+    "source": "unknown",
+    "collected_at": "2026-10-16T13:00:03.487602+00:00",
+    "analyzed_at": "2026-10-16T13:00:03.487602+00:00",
+    "summary": "Bring back the fun. Open-source SVM blockchain development focused on art, NFTs, memes and their communities. Experimental testnet live.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 422,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "c445387b-47d4-4b78-bc97-74c264256230",
+    "title": "We generate accessible color palettes for AI-built apps",
+    "source_url": "https://www.rapidnative.com/blogs/how-rapidnatives-ai-generates-accessible-color-palettes",
+    "source": "hacker_news",
+    "collected_at": "2026-10-16T13:00:04.692861+00:00",
+    "analyzed_at": "2026-10-16T13:00:04.692861+00:00",
+    "summary": "Article URL: https://www.rapidnative.com/blogs/how-rapidnatives-ai-generates-accessible-color-palettes\nComments URL: https://news.ycombinator.com/item?id=50117708\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "fami-hn",
+      "language": null
+    }
+  },
+  {
+    "id": "53898f8c-c84f-451e-880d-5fd26643837e",
+    "title": "Show HN: Cr34te.it – a website anyone can rewrite one turn at a time with AI",
+    "source_url": "https://cr34te.it/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-16T13:00:05.896398+00:00",
+    "analyzed_at": "2026-10-16T13:00:05.896398+00:00",
+    "summary": "Yeah I built this out of a silly idea a couple of weeks ago.You can change what the website shows. You may change minor things or add something completely new. It bascially works like that:1. You clai",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "y42",
+      "language": null
+    }
+  },
+  {
+    "id": "0a6a53c4-5602-4851-ba21-f258c7d1ed76",
+    "title": "Belgrade AI Conference: Safety, Federated Learning and Hiring Bias",
+    "source_url": "https://irishtechnews.ie/belgrade-ai-conference-safety-learning/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-16T13:00:07.101279+00:00",
+    "analyzed_at": "2026-10-16T13:00:07.101279+00:00",
+    "summary": "Article URL: https://irishtechnews.ie/belgrade-ai-conference-safety-learning/\nComments URL: https://news.ycombinator.com/item?id=50117475\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "belkin1",
+      "language": null
+    }
+  },
+  {
+    "id": "42a6b245-cff1-4390-8927-bc16be08e3cb",
+    "title": "The AI Bill Is the Cheap Part",
+    "source_url": "https://avivbenyosef.com/the-ai-bill-is-the-cheap-part/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-16T13:00:08.320676+00:00",
+    "analyzed_at": "2026-10-16T13:00:08.320676+00:00",
+    "summary": "Article URL: https://avivbenyosef.com/the-ai-bill-is-the-cheap-part/\nComments URL: https://news.ycombinator.com/item?id=50117340\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mooreds",
+      "language": null
+    }
+  },
+  {
+    "id": "df0ca509-b937-48a8-a94c-d69d075828e1",
+    "title": "Will the AI Boom End Like the Railroad Crash of 1873? [video]",
+    "source_url": "https://www.youtube.com/watch?v=dlkE5cFPj4w",
+    "source": "hacker_news",
+    "collected_at": "2026-10-16T13:00:09.527061+00:00",
+    "analyzed_at": "2026-10-16T13:00:09.527061+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=dlkE5cFPj4w\nComments URL: https://news.ycombinator.com/item?id=50117335\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mooreds",
+      "language": null
+    }
+  },
+  {
+    "id": "efb3aca5-d447-4fe7-b222-cef862cc038b",
+    "title": "Show HN: Deterministic AI Agents Guardrail",
+    "source_url": "https://github.com/aws-safebox/aws-safebox",
+    "source": "hacker_news",
+    "collected_at": "2026-10-16T13:00:10.732047+00:00",
+    "analyzed_at": "2026-10-16T13:00:10.732047+00:00",
+    "summary": "Hi all,\nWith everybody (and especially companies) using AI agents, I have decided to work on a deterministic guardrail tool for AI agents.What does it mean? \nOn the same way that an AI agent can run “",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "fb-dev",
+      "language": null
+    }
+  },
+  {
+    "id": "1f5d9742-9fbf-46be-bea1-20b6fc19146a",
+    "title": "Show HN: Flashpapers – Interactive explainers for AI papers",
+    "source_url": "https://flashpapers.ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-16T13:00:11.936676+00:00",
+    "analyzed_at": "2026-10-16T13:00:11.936676+00:00",
+    "summary": "Article URL: https://flashpapers.ai/\nComments URL: https://news.ycombinator.com/item?id=50117104\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "intertwiner",
+      "language": null
+    }
+  },
+  {
+    "id": "11a0bd6b-f6f6-45d9-88a0-c9a07a293032",
+    "title": "The Country Cramming for the AI Revolution",
+    "source_url": "https://nymag.com/intelligencer/article/china-ai-learning-craze.html",
+    "source": "hacker_news",
+    "collected_at": "2026-10-16T13:00:13.150283+00:00",
+    "analyzed_at": "2026-10-16T13:00:13.150283+00:00",
+    "summary": "Article URL: https://nymag.com/intelligencer/article/china-ai-learning-craze.html\nComments URL: https://news.ycombinator.com/item?id=50116986\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Michelangelo11",
+      "language": null
+    }
+  },
+  {
+    "id": "919e8eb6-725f-4ac1-9775-b2d2ddba89f4",
+    "title": "AI Startup Character.ai Files for Bankruptcy – AI Bubble Bursting [video]",
+    "source_url": "https://www.youtube.com/watch?v=kcMTe1AbvjY",
+    "source": "hacker_news",
+    "collected_at": "2026-10-16T13:00:14.369060+00:00",
+    "analyzed_at": "2026-10-16T13:00:14.369060+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=kcMTe1AbvjY\nComments URL: https://news.ycombinator.com/item?id=50116859\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "baranul",
+      "language": null
+    }
+  },
+  {
+    "id": "9639913d-200c-409e-8d1c-3a5209e296ba",
+    "title": "How worried should we be about extinction risk from AI?",
+    "source_url": "https://gowers.wordpress.com/2026/10/16/how-worried-should-we-be-about-extinction-risk-from-ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-16T13:00:15.586355+00:00",
+    "analyzed_at": "2026-10-16T13:00:15.586355+00:00",
+    "summary": "Article URL: https://gowers.wordpress.com/2026/10/16/how-worried-should-we-be-about-extinction-risk-from-ai/\nComments URL: https://news.ycombinator.com/item?id=50116792\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ColinWright",
+      "language": null
+    }
+  },
+  {
+    "id": "bf6952ca-d7e0-4c60-a3ea-deab36e11f77",
+    "title": "I spent 48 hours in SF hanging out with billionaires, data labs and AI founders",
+    "source_url": "https://twitter.com/gregisenberg/status/2110414696037716372",
+    "source": "hacker_news",
+    "collected_at": "2026-10-16T13:00:16.806706+00:00",
+    "analyzed_at": "2026-10-16T13:00:16.806706+00:00",
+    "summary": "Article URL: https://twitter.com/gregisenberg/status/2110414696037716372\nComments URL: https://news.ycombinator.com/item?id=50116759\nPoints: 4\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "layer8",
+      "language": null
+    }
+  },
+  {
+    "id": "14acd20f-f23b-4bb6-b96d-df04d20521ad",
+    "title": "AlbertCode, an AI software engineering agent for building applications",
+    "source_url": "https://www.albertcode.dev",
+    "source": "hacker_news",
+    "collected_at": "2026-10-16T13:00:18.023553+00:00",
+    "analyzed_at": "2026-10-16T13:00:18.023553+00:00",
+    "summary": "Article URL: https://www.albertcode.dev\nComments URL: https://news.ycombinator.com/item?id=50116533\nPoints: 2\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "huynvic",
+      "language": null
+    }
+  }
+]
