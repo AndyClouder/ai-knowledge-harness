@@ -1,0 +1,422 @@
+[
+  {
+    "id": "2010efd7-a152-46ec-8413-ac0bfb9bb2ec",
+    "title": "feder-cr/git-ai",
+    "source_url": "https://github.com/feder-cr/git-ai",
+    "source": "unknown",
+    "collected_at": "2026-10-17T11:57:53.004377+00:00",
+    "analyzed_at": "2026-10-17T11:57:53.004377+00:00",
+    "summary": "Git designed for AI agents.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1100,
+      "score": null,
+      "author": null,
+      "language": "Go"
+    }
+  },
+  {
+    "id": "158e9588-411d-4856-8a8d-609931a92d30",
+    "title": "datalab-to/indra",
+    "source_url": "https://github.com/datalab-to/indra",
+    "source": "unknown",
+    "collected_at": "2026-10-17T11:57:54.244321+00:00",
+    "analyzed_at": "2026-10-17T11:57:54.244321+00:00",
+    "summary": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 522,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "21592e0f-ad96-40fa-bc4c-594a1d81387a",
+    "title": "yeyuxin777/baoyan-agent-benchmark",
+    "source_url": "https://github.com/yeyuxin777/baoyan-agent-benchmark",
+    "source": "unknown",
+    "collected_at": "2026-10-17T11:57:55.484429+00:00",
+    "analyzed_at": "2026-10-17T11:57:55.484429+00:00",
+    "summary": "Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 504,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "d46990b4-dd79-482d-a59d-bd648e991215",
+    "title": "Leonxlnx/earshot",
+    "source_url": "https://github.com/Leonxlnx/earshot",
+    "source": "unknown",
+    "collected_at": "2026-10-17T11:57:56.721184+00:00",
+    "analyzed_at": "2026-10-17T11:57:56.721184+00:00",
+    "summary": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 498,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "51e164f3-8eab-4b6a-acc7-fa24faed41f0",
+    "title": "As AI triggers a tsunami, computer science conferences impose caps",
+    "source_url": "https://www.science.org/content/article/ai-triggers-tsunami-submissions-computer-science-conferences-impose-caps",
+    "source": "hacker_news",
+    "collected_at": "2026-10-17T11:57:57.999470+00:00",
+    "analyzed_at": "2026-10-17T11:57:57.999470+00:00",
+    "summary": "Article URL: https://www.science.org/content/article/ai-triggers-tsunami-submissions-computer-science-conferences-impose-caps\nComments URL: https://news.ycombinator.com/item?id=50130206\nPoints: 2\n# Co",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jruohonen",
+      "language": null
+    }
+  },
+  {
+    "id": "62040498-a323-4ca0-a308-933a0c0efa8b",
+    "title": "AI Engineering Fluency Extension for VS Code / JetBrains / Visual Studio, NPM",
+    "source_url": "https://github.com/rajbos/ai-engineering-fluency",
+    "source": "hacker_news",
+    "collected_at": "2026-10-17T11:57:59.240938+00:00",
+    "analyzed_at": "2026-10-17T11:57:59.240938+00:00",
+    "summary": "Article URL: https://github.com/rajbos/ai-engineering-fluency\nComments URL: https://news.ycombinator.com/item?id=50130191\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "robbos",
+      "language": null
+    }
+  },
+  {
+    "id": "9d8bc275-1196-46ee-893d-f34e57ea1dcd",
+    "title": "The AI Expectations Gap",
+    "source_url": "https://www.anthropic.com/research/ai-expectations-gap",
+    "source": "hacker_news",
+    "collected_at": "2026-10-17T11:58:00.478707+00:00",
+    "analyzed_at": "2026-10-17T11:58:00.478707+00:00",
+    "summary": "Article URL: https://www.anthropic.com/research/ai-expectations-gap\nComments URL: https://news.ycombinator.com/item?id=50129987\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "cybermango",
+      "language": null
+    }
+  },
+  {
+    "id": "b3a44a12-f9f4-4673-ae70-3a9358d97663",
+    "title": "Roundtables: A Conversation with the Creator of AI-Designed Viruses",
+    "source_url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-17T11:58:01.715936+00:00",
+    "analyzed_at": "2026-10-17T11:58:01.715936+00:00",
+    "summary": "Article URL: https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/\nComments URL: https://news.ycombinator.com/item?id=50129960\nPoints:",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "joozio",
+      "language": null
+    }
+  },
+  {
+    "id": "39054266-d906-4511-91eb-01af12035884",
+    "title": "Amazon devices chief sees a future where AI devices replace the need to use apps",
+    "source_url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-17T11:58:02.954932+00:00",
+    "analyzed_at": "2026-10-17T11:58:02.954932+00:00",
+    "summary": "Article URL: https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/\nComments URL: https://news.ycombinator.com/item?id=50129954",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "cybermango",
+      "language": null
+    }
+  },
+  {
+    "id": "f1528a0c-ec99-44ef-b106-0add62274759",
+    "title": "MAGS: Machine-checked guarantees on specified safety properties in AI code",
+    "source_url": "https://arxiv.org/abs/2609.19391",
+    "source": "hacker_news",
+    "collected_at": "2026-10-17T11:58:04.193907+00:00",
+    "analyzed_at": "2026-10-17T11:58:04.193907+00:00",
+    "summary": "Article URL: https://arxiv.org/abs/2609.19391\nComments URL: https://news.ycombinator.com/item?id=50129603\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "donk8r",
+      "language": null
+    }
+  },
+  {
+    "id": "62e5bd0f-5f6b-4fc2-995f-b9a84c691126",
+    "title": "EmbedIDS: Open-source intrusion detection for embedded systems and physical AI",
+    "source_url": "https://embedids.linuscent.com/main/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-17T11:58:05.431410+00:00",
+    "analyzed_at": "2026-10-17T11:58:05.431410+00:00",
+    "summary": "Article URL: https://embedids.linuscent.com/main/\nComments URL: https://news.ycombinator.com/item?id=50129568\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "samiralavi",
+      "language": null
+    }
+  },
+  {
+    "id": "83720a8f-8de8-4e03-8b13-d7ccab9c137b",
+    "title": "Deleted AI Chats May Leave Clues Behind",
+    "source_url": "https://news.research.gatech.edu/2026/10/13/deleted-ai-chats-may-leave-clues-behind",
+    "source": "hacker_news",
+    "collected_at": "2026-10-17T11:58:06.672489+00:00",
+    "analyzed_at": "2026-10-17T11:58:06.672489+00:00",
+    "summary": "Article URL: https://news.research.gatech.edu/2026/10/13/deleted-ai-chats-may-leave-clues-behind\nComments URL: https://news.ycombinator.com/item?id=50129462\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "giuliomagnifico",
+      "language": null
+    }
+  },
+  {
+    "id": "c570a670-374b-4d2e-a875-d776a641fc53",
+    "title": "Show HN: CiteLadder – open-source AI search visibility tracker",
+    "source_url": "https://github.com/abhij1306/CiteLadder",
+    "source": "hacker_news",
+    "collected_at": "2026-10-17T11:58:07.909984+00:00",
+    "analyzed_at": "2026-10-17T11:58:07.909984+00:00",
+    "summary": "Article URL: https://github.com/abhij1306/CiteLadder\nComments URL: https://news.ycombinator.com/item?id=50129168\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "abhij1306",
+      "language": null
+    }
+  },
+  {
+    "id": "0e8a079a-773a-4dd2-9d1b-a563890a5dab",
+    "title": "Ask HN: Local AI product situation",
+    "source_url": "https://news.ycombinator.com/item?id=50129150",
+    "source": "hacker_news",
+    "collected_at": "2026-10-17T11:58:09.148374+00:00",
+    "analyzed_at": "2026-10-17T11:58:09.148374+00:00",
+    "summary": "Right now it seems every company wants you to buy their fancy new expensive computer to run local AI models. Why would we want to buy a whole new computer to run local AI models? Why not create a devi",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ankurdhama",
+      "language": null
+    }
+  },
+  {
+    "id": "63a6221a-d80a-43f5-a150-6e12e5f895c5",
+    "title": "Researchers Stranded an AI Agent on a Virtual Island",
+    "source_url": "https://gizmodo.com/researchers-stranded-an-ai-agent-on-a-virtual-island-things-got-very-weird-2000825998",
+    "source": "hacker_news",
+    "collected_at": "2026-10-17T11:58:10.386342+00:00",
+    "analyzed_at": "2026-10-17T11:58:10.386342+00:00",
+    "summary": "Article URL: https://gizmodo.com/researchers-stranded-an-ai-agent-on-a-virtual-island-things-got-very-weird-2000825998\nComments URL: https://news.ycombinator.com/item?id=50128876\nPoints: 3\n# Comments:",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jonbaer",
+      "language": null
+    }
+  },
+  {
+    "id": "8dfc3314-e590-4d21-b614-473821e33b42",
+    "title": "I built an open-source Kubernetes dashboard where AI agents ask before they act",
+    "source_url": "https://lumovi.dev/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-17T11:58:11.625624+00:00",
+    "analyzed_at": "2026-10-17T11:58:11.625624+00:00",
+    "summary": "Article URL: https://lumovi.dev/\nComments URL: https://news.ycombinator.com/item?id=50128693\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "kotapeter",
+      "language": null
+    }
+  },
+  {
+    "id": "e14eeb43-947b-4938-9987-cb19fe0a8e41",
+    "title": "Decomp.dev Shuts Down Because AI Has Made It Too Easy to Decompile Games",
+    "source_url": "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-17T11:58:12.863169+00:00",
+    "analyzed_at": "2026-10-17T11:58:12.863169+00:00",
+    "summary": "Article URL: https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/\nComments URL: https://news.ycombinator.com/item?id=50128576\nPoints: 4\n# Commen",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "dmitrygr",
+      "language": null
+    }
+  },
+  {
+    "id": "c57b1f64-ba65-44e8-b31d-dfc5829f8424",
+    "title": "Ask HN: What is the most useful thing AI has done for you?",
+    "source_url": "https://news.ycombinator.com/item?id=50128412",
+    "source": "hacker_news",
+    "collected_at": "2026-10-17T11:58:14.102614+00:00",
+    "analyzed_at": "2026-10-17T11:58:14.102614+00:00",
+    "summary": "I had a deep conversation with a friend about what is the most useful thing AI has created/done for either of us.For my private life, AI helped me to diagnose and root caused a running toilet, and avo",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "yitchelle",
+      "language": null
+    }
+  },
+  {
+    "id": "8374394b-e00f-4e64-a166-5955fdfb8eb7",
+    "title": "Existential Risk from AI: An Exposition for Mathematicians",
+    "source_url": "https://alkjash.github.io/ai-risk/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-17T11:58:15.374052+00:00",
+    "analyzed_at": "2026-10-17T11:58:15.374052+00:00",
+    "summary": "Article URL: https://alkjash.github.io/ai-risk/\nComments URL: https://news.ycombinator.com/item?id=50128351\nPoints: 3\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "reasonableklout",
+      "language": null
+    }
+  },
+  {
+    "id": "2c0799dd-3b2f-4aef-a6a5-5b3c2dcb6b88",
+    "title": "Mapping the China AI Ecosystem with Rui Ma [video]",
+    "source_url": "https://www.youtube.com/watch?v=-RDpqweadlE",
+    "source": "hacker_news",
+    "collected_at": "2026-10-17T11:58:16.612499+00:00",
+    "analyzed_at": "2026-10-17T11:58:16.612499+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=-RDpqweadlE\nComments URL: https://news.ycombinator.com/item?id=50128261\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "hunglee2",
+      "language": null
+    }
+  }
+]

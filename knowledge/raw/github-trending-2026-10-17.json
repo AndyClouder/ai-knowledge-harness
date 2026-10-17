@@ -1,0 +1,59 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-10-17T11:57:26.507097+00:00",
+  "items": [
+    {
+      "name": "feder-cr/git-ai",
+      "url": "https://github.com/feder-cr/git-ai",
+      "summary": "Git designed for AI agents.",
+      "stars": 1100,
+      "language": "Go",
+      "topics": [
+        "ai-agents",
+        "coding-agents",
+        "git",
+        "golang",
+        "scion",
+        "version-control"
+      ]
+    },
+    {
+      "name": "datalab-to/indra",
+      "url": "https://github.com/datalab-to/indra",
+      "summary": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
+      "stars": 522,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "cpu",
+        "document-parsing",
+        "ocr",
+        "onnx",
+        "pdf"
+      ]
+    },
+    {
+      "name": "yeyuxin777/baoyan-agent-benchmark",
+      "url": "https://github.com/yeyuxin777/baoyan-agent-benchmark",
+      "summary": "Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
+      "stars": 504,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "Leonxlnx/earshot",
+      "url": "https://github.com/Leonxlnx/earshot",
+      "summary": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "stars": 498,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "audio",
+        "claude-code",
+        "mcp",
+        "sound-design"
+      ]
+    }
+  ]
+}

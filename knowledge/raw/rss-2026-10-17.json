@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-10-17T11:57:51.754942+00:00",
+  "items": [
+    {
+      "name": "As AI triggers a tsunami, computer science conferences impose caps",
+      "url": "https://www.science.org/content/article/ai-triggers-tsunami-submissions-computer-science-conferences-impose-caps",
+      "summary": "Article URL: https://www.science.org/content/article/ai-triggers-tsunami-submissions-computer-science-conferences-impose-caps\nComments URL: https://news.ycombinator.com/item?id=50130206\nPoints: 2\n# Co",
+      "source": "hacker_news",
+      "score": null,
+      "author": "jruohonen",
+      "published": "Sat, 17 Oct 2026 11:44:09 +0000"
+    },
+    {
+      "name": "AI Engineering Fluency Extension for VS Code / JetBrains / Visual Studio, NPM",
+      "url": "https://github.com/rajbos/ai-engineering-fluency",
+      "summary": "Article URL: https://github.com/rajbos/ai-engineering-fluency\nComments URL: https://news.ycombinator.com/item?id=50130191\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "robbos",
+      "published": "Sat, 17 Oct 2026 11:42:54 +0000"
+    },
+    {
+      "name": "The AI Expectations Gap",
+      "url": "https://www.anthropic.com/research/ai-expectations-gap",
+      "summary": "Article URL: https://www.anthropic.com/research/ai-expectations-gap\nComments URL: https://news.ycombinator.com/item?id=50129987\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "cybermango",
+      "published": "Sat, 17 Oct 2026 11:06:19 +0000"
+    },
+    {
+      "name": "Roundtables: A Conversation with the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "summary": "Article URL: https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/\nComments URL: https://news.ycombinator.com/item?id=50129960\nPoints:",
+      "source": "hacker_news",
+      "score": null,
+      "author": "joozio",
+      "published": "Sat, 17 Oct 2026 11:02:17 +0000"
+    },
+    {
+      "name": "Amazon devices chief sees a future where AI devices replace the need to use apps",
+      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+      "summary": "Article URL: https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/\nComments URL: https://news.ycombinator.com/item?id=50129954",
+      "source": "hacker_news",
+      "score": null,
+      "author": "cybermango",
+      "published": "Sat, 17 Oct 2026 11:00:47 +0000"
+    },
+    {
+      "name": "MAGS: Machine-checked guarantees on specified safety properties in AI code",
+      "url": "https://arxiv.org/abs/2609.19391",
+      "summary": "Article URL: https://arxiv.org/abs/2609.19391\nComments URL: https://news.ycombinator.com/item?id=50129603\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "donk8r",
+      "published": "Sat, 17 Oct 2026 10:04:47 +0000"
+    },
+    {
+      "name": "EmbedIDS: Open-source intrusion detection for embedded systems and physical AI",
+      "url": "https://embedids.linuscent.com/main/",
+      "summary": "Article URL: https://embedids.linuscent.com/main/\nComments URL: https://news.ycombinator.com/item?id=50129568\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "samiralavi",
+      "published": "Sat, 17 Oct 2026 09:58:19 +0000"
+    },
+    {
+      "name": "Deleted AI Chats May Leave Clues Behind",
+      "url": "https://news.research.gatech.edu/2026/10/13/deleted-ai-chats-may-leave-clues-behind",
+      "summary": "Article URL: https://news.research.gatech.edu/2026/10/13/deleted-ai-chats-may-leave-clues-behind\nComments URL: https://news.ycombinator.com/item?id=50129462\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "giuliomagnifico",
+      "published": "Sat, 17 Oct 2026 09:38:18 +0000"
+    },
+    {
+      "name": "Show HN: CiteLadder – open-source AI search visibility tracker",
+      "url": "https://github.com/abhij1306/CiteLadder",
+      "summary": "Article URL: https://github.com/abhij1306/CiteLadder\nComments URL: https://news.ycombinator.com/item?id=50129168\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "abhij1306",
+      "published": "Sat, 17 Oct 2026 08:49:44 +0000"
+    },
+    {
+      "name": "Ask HN: Local AI product situation",
+      "url": "https://news.ycombinator.com/item?id=50129150",
+      "summary": "Right now it seems every company wants you to buy their fancy new expensive computer to run local AI models. Why would we want to buy a whole new computer to run local AI models? Why not create a devi",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ankurdhama",
+      "published": "Sat, 17 Oct 2026 08:46:16 +0000"
+    },
+    {
+      "name": "Researchers Stranded an AI Agent on a Virtual Island",
+      "url": "https://gizmodo.com/researchers-stranded-an-ai-agent-on-a-virtual-island-things-got-very-weird-2000825998",
+      "summary": "Article URL: https://gizmodo.com/researchers-stranded-an-ai-agent-on-a-virtual-island-things-got-very-weird-2000825998\nComments URL: https://news.ycombinator.com/item?id=50128876\nPoints: 3\n# Comments:",
+      "source": "hacker_news",
+      "score": null,
+      "author": "jonbaer",
+      "published": "Sat, 17 Oct 2026 07:45:09 +0000"
+    },
+    {
+      "name": "I built an open-source Kubernetes dashboard where AI agents ask before they act",
+      "url": "https://lumovi.dev/",
+      "summary": "Article URL: https://lumovi.dev/\nComments URL: https://news.ycombinator.com/item?id=50128693\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "kotapeter",
+      "published": "Sat, 17 Oct 2026 07:09:02 +0000"
+    },
+    {
+      "name": "Decomp.dev Shuts Down Because AI Has Made It Too Easy to Decompile Games",
+      "url": "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/",
+      "summary": "Article URL: https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/\nComments URL: https://news.ycombinator.com/item?id=50128576\nPoints: 4\n# Commen",
+      "source": "hacker_news",
+      "score": null,
+      "author": "dmitrygr",
+      "published": "Sat, 17 Oct 2026 06:44:13 +0000"
+    },
+    {
+      "name": "Ask HN: What is the most useful thing AI has done for you?",
+      "url": "https://news.ycombinator.com/item?id=50128412",
+      "summary": "I had a deep conversation with a friend about what is the most useful thing AI has created/done for either of us.For my private life, AI helped me to diagnose and root caused a running toilet, and avo",
+      "source": "hacker_news",
+      "score": null,
+      "author": "yitchelle",
+      "published": "Sat, 17 Oct 2026 06:06:44 +0000"
+    },
+    {
+      "name": "Existential Risk from AI: An Exposition for Mathematicians",
+      "url": "https://alkjash.github.io/ai-risk/",
+      "summary": "Article URL: https://alkjash.github.io/ai-risk/\nComments URL: https://news.ycombinator.com/item?id=50128351\nPoints: 3\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "reasonableklout",
+      "published": "Sat, 17 Oct 2026 05:52:06 +0000"
+    },
+    {
+      "name": "Mapping the China AI Ecosystem with Rui Ma [video]",
+      "url": "https://www.youtube.com/watch?v=-RDpqweadlE",
+      "summary": "Article URL: https://www.youtube.com/watch?v=-RDpqweadlE\nComments URL: https://news.ycombinator.com/item?id=50128261\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "hunglee2",
+      "published": "Sat, 17 Oct 2026 05:35:59 +0000"
+    },
+    {
+      "name": "Zeabur discontinues AI Hub after its August security breach",
+      "url": "https://zeabur.com/changelogs/aihub-shutdown",
+      "summary": "Article URL: https://zeabur.com/changelogs/aihub-shutdown\nComments URL: https://news.ycombinator.com/item?id=50127877\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "iamsyr",
+      "published": "Sat, 17 Oct 2026 04:14:58 +0000"
+    },
+    {
+      "name": "AI engineers became hot property. Now they're targets for seduction",
+      "url": "https://economictimes.indiatimes.com/ai/ai-insights/ai-engineers-became-hot-property-now-theyre-targets-for-seduction/articleshow/134998519.cms?from=mdr",
+      "summary": "Article URL: https://economictimes.indiatimes.com/ai/ai-insights/ai-engineers-became-hot-property-now-theyre-targets-for-seduction/articleshow/134998519.cms?from=mdr\nComments URL: https://news.ycombin",
+      "source": "hacker_news",
+      "score": null,
+      "author": "snarky-comments",
+      "published": "Sat, 17 Oct 2026 03:55:28 +0000"
+    },
+    {
+      "name": "AI is driving a boom in modestly successful software projects",
+      "url": "https://www.seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/",
+      "summary": "Article URL: https://www.seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/\nComments URL: https://news.ycombinator.com/item?id=50127729\nPoints: 13\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "gpi",
+      "published": "Sat, 17 Oct 2026 03:47:39 +0000"
+    },
+    {
+      "name": "Show HN: AI agent follows instructions you never approved",
+      "url": "https://github.com/Paraphern/rugsnare/blob/main/docs/blog/2026-10-17-mcp-contract-drift.md",
+      "summary": "Article URL: https://github.com/Paraphern/rugsnare/blob/main/docs/blog/2026-10-17-mcp-contract-drift.md\nComments URL: https://news.ycombinator.com/item?id=50127659\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "paraphern",
+      "published": "Sat, 17 Oct 2026 03:33:00 +0000"
+    }
+  ]
+}
