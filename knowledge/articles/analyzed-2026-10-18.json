@@ -1,0 +1,422 @@
+[
+  {
+    "id": "3e4cf20b-84c9-48f3-bf16-718ac76e58c9",
+    "title": "Gathin23/tv-vibehack",
+    "source_url": "https://github.com/Gathin23/tv-vibehack",
+    "source": "unknown",
+    "collected_at": "2026-10-18T12:25:53.239126+00:00",
+    "analyzed_at": "2026-10-18T12:25:53.239126+00:00",
+    "summary": "Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher. Built in an afternoon with Claude Code.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 824,
+      "score": null,
+      "author": null,
+      "language": "Java"
+    }
+  },
+  {
+    "id": "58c4402c-768a-4b14-a20f-9021d513f862",
+    "title": "LiCinCan/blender-ai-mcp-addon",
+    "source_url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
+    "source": "unknown",
+    "collected_at": "2026-10-18T12:25:54.475375+00:00",
+    "analyzed_at": "2026-10-18T12:25:54.475375+00:00",
+    "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 730,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "b07b6285-989c-4257-8d2a-a4b249293261",
+    "title": "Noniv/web-ocean",
+    "source_url": "https://github.com/Noniv/web-ocean",
+    "source": "unknown",
+    "collected_at": "2026-10-18T12:25:55.708780+00:00",
+    "analyzed_at": "2026-10-18T12:25:55.708780+00:00",
+    "summary": "Real-time WebGPU ocean renderer written from scratch, no engine. FFT waves, whitecaps, sun glitter, physically based sunset sky with clouds, free camera. Built with Claude Code (Opus 5.5). Opens from ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 604,
+      "score": null,
+      "author": null,
+      "language": "HTML"
+    }
+  },
+  {
+    "id": "dbda79e2-c851-471c-99b7-20721c88f9c7",
+    "title": "OpenMOSS/MOSS-Image",
+    "source_url": "https://github.com/OpenMOSS/MOSS-Image",
+    "source": "unknown",
+    "collected_at": "2026-10-18T12:25:56.968322+00:00",
+    "analyzed_at": "2026-10-18T12:25:56.968322+00:00",
+    "summary": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 550,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "907460d6-6c78-4ece-8b35-03b8589eec17",
+    "title": "aicodeking/leanrea",
+    "source_url": "https://github.com/aicodeking/leanrea",
+    "source": "unknown",
+    "collected_at": "2026-10-18T12:25:58.198682+00:00",
+    "analyzed_at": "2026-10-18T12:25:58.198682+00:00",
+    "summary": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 533,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "b251a7be-7832-4839-add3-56ad5e057ecc",
+    "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+    "source_url": "https://www.vals.ai/blogs/impossible-refund",
+    "source": "hacker_news",
+    "collected_at": "2026-10-18T12:25:59.432361+00:00",
+    "analyzed_at": "2026-10-18T12:25:59.432361+00:00",
+    "summary": "Article URL: https://www.vals.ai/blogs/impossible-refund\nComments URL: https://news.ycombinator.com/item?id=50140462\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "DeepLogin",
+      "language": null
+    }
+  },
+  {
+    "id": "41350aa8-bd9e-43c8-b308-6265262154c6",
+    "title": "How to Make Your Own Flying Car AI Video (Make a Tesla Roadster AI Video)",
+    "source_url": "https://roadster-ai.net/blog/how-to-make-roadster-ai-video",
+    "source": "hacker_news",
+    "collected_at": "2026-10-18T12:26:00.654745+00:00",
+    "analyzed_at": "2026-10-18T12:26:00.654745+00:00",
+    "summary": "Article URL: https://roadster-ai.net/blog/how-to-make-roadster-ai-video\nComments URL: https://news.ycombinator.com/item?id=50140420\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Moon_Y",
+      "language": null
+    }
+  },
+  {
+    "id": "fbefa1bc-07a9-4e9d-9d3e-12a4c5f435a4",
+    "title": "I've been using an AI agent for a month, and I'm both impressed and terrified",
+    "source_url": "https://www.androidauthority.com/using-ai-agent-instinct-one-month-later-impressions-3720825/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-18T12:26:01.877599+00:00",
+    "analyzed_at": "2026-10-18T12:26:01.877599+00:00",
+    "summary": "Article URL: https://www.androidauthority.com/using-ai-agent-instinct-one-month-later-impressions-3720825/\nComments URL: https://news.ycombinator.com/item?id=50140278\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "donk8r",
+      "language": null
+    }
+  },
+  {
+    "id": "651fc4cc-bf4d-4a8d-bf9a-0c89bf37228b",
+    "title": "Show HN: Shipback – SFTP deploys your AI agent can undo",
+    "source_url": "https://github.com/aldohushi1-stack/shipback-sftp",
+    "source": "hacker_news",
+    "collected_at": "2026-10-18T12:26:03.102926+00:00",
+    "analyzed_at": "2026-10-18T12:26:03.102926+00:00",
+    "summary": "Article URL: https://github.com/aldohushi1-stack/shipback-sftp\nComments URL: https://news.ycombinator.com/item?id=50140229\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "aldoh",
+      "language": null
+    }
+  },
+  {
+    "id": "61462fb8-980c-4725-aad9-3567620d5b65",
+    "title": "Doctors and Lawyers Are Joining AI's $400-an-Hour Gig Economy",
+    "source_url": "https://news.bloomberglaw.com/esg/doctors-and-lawyers-are-joining-ais-400-an-hour-gig-economy",
+    "source": "hacker_news",
+    "collected_at": "2026-10-18T12:26:04.334224+00:00",
+    "analyzed_at": "2026-10-18T12:26:04.334224+00:00",
+    "summary": "Article URL: https://news.bloomberglaw.com/esg/doctors-and-lawyers-are-joining-ais-400-an-hour-gig-economy\nComments URL: https://news.ycombinator.com/item?id=50140196\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "theanonymousone",
+      "language": null
+    }
+  },
+  {
+    "id": "e42fc1a1-b1a4-4865-b567-82c6a525b3a9",
+    "title": "Show HN: Flying Car AI – make your car or your product fly from one photo",
+    "source_url": "https://flyingcar-ai.org",
+    "source": "hacker_news",
+    "collected_at": "2026-10-18T12:26:05.557269+00:00",
+    "analyzed_at": "2026-10-18T12:26:05.557269+00:00",
+    "summary": "Article URL: https://flyingcar-ai.org\nComments URL: https://news.ycombinator.com/item?id=50140152\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "hashkitly",
+      "language": null
+    }
+  },
+  {
+    "id": "cdc95e62-dcbb-4d79-b5a3-5dc0d9e709ce",
+    "title": "Basal-Omni: An open-weight 31B model for AI decision-making (nr 1 on JevBench)",
+    "source_url": "https://huggingface.co/Remek/basal-omni-1.0-ultra",
+    "source": "hacker_news",
+    "collected_at": "2026-10-18T12:26:06.780841+00:00",
+    "analyzed_at": "2026-10-18T12:26:06.780841+00:00",
+    "summary": "Article URL: https://huggingface.co/Remek/basal-omni-1.0-ultra\nComments URL: https://news.ycombinator.com/item?id=50140075\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "lukasm",
+      "language": null
+    }
+  },
+  {
+    "id": "27a981ad-70d8-42a0-8dfa-e8c075b97f99",
+    "title": "Killa YuE v1.6.0 – Local AI vocal songs and P2P audio hosting on Android (A 2.0)",
+    "source_url": "https://github.com/JackKnifeAI/killa-yue",
+    "source": "hacker_news",
+    "collected_at": "2026-10-18T12:26:08.014783+00:00",
+    "analyzed_at": "2026-10-18T12:26:08.014783+00:00",
+    "summary": "Article URL: https://github.com/JackKnifeAI/killa-yue\nComments URL: https://news.ycombinator.com/item?id=50140056\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "JackKnifeAI",
+      "language": null
+    }
+  },
+  {
+    "id": "07ffd131-c7ca-4b16-bd80-4fd4fa3e4430",
+    "title": "Show HN: Chrome extension that types one prompt into many AI chat tabs",
+    "source_url": "https://chromewebstore.google.com/detail/use-multiple-chat-ai-at-o/pcpciffaliaooacnhiefjiegigjidehp",
+    "source": "hacker_news",
+    "collected_at": "2026-10-18T12:26:09.246560+00:00",
+    "analyzed_at": "2026-10-18T12:26:09.246560+00:00",
+    "summary": "Article URL: https://chromewebstore.google.com/detail/use-multiple-chat-ai-at-o/pcpciffaliaooacnhiefjiegigjidehp\nComments URL: https://news.ycombinator.com/item?id=50139795\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "yesgenius",
+      "language": null
+    }
+  },
+  {
+    "id": "c101c94f-36a5-44c2-97b6-2c650c5bceb6",
+    "title": "Show HN: AIOps Cockpit – An open-source AI SRE with human-in-the-loop safety",
+    "source_url": "https://github.com/matricphase-dot/aiops",
+    "source": "hacker_news",
+    "collected_at": "2026-10-18T12:26:10.470208+00:00",
+    "analyzed_at": "2026-10-18T12:26:10.470208+00:00",
+    "summary": "Article URL: https://github.com/matricphase-dot/aiops\nComments URL: https://news.ycombinator.com/item?id=50139640\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "adityam_9911",
+      "language": null
+    }
+  },
+  {
+    "id": "a0130d6e-acce-4b7a-bba5-4b5739e88230",
+    "title": "China proposes export controls on its advanced AI models and chip designs",
+    "source_url": "https://thenextweb.com/news/china-ai-export-controls-draft",
+    "source": "hacker_news",
+    "collected_at": "2026-10-18T12:26:11.695142+00:00",
+    "analyzed_at": "2026-10-18T12:26:11.695142+00:00",
+    "summary": "Article URL: https://thenextweb.com/news/china-ai-export-controls-draft\nComments URL: https://news.ycombinator.com/item?id=50139587\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "poszlem",
+      "language": null
+    }
+  },
+  {
+    "id": "85f5411d-01db-49c3-a9f9-f50c61ddf670",
+    "title": "Ask HN: Why people keep posting AI-generated projects around the Internet?",
+    "source_url": "https://news.ycombinator.com/item?id=50139584",
+    "source": "hacker_news",
+    "collected_at": "2026-10-18T12:26:12.914954+00:00",
+    "analyzed_at": "2026-10-18T12:26:12.914954+00:00",
+    "summary": "Programming-related subreddits and other media platforms are current flooded by the waterfall of AI-generated projects. A typical post contains a problem description and the link to GitHub repo create",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Eliah_Lakhin",
+      "language": null
+    }
+  },
+  {
+    "id": "367a7aaa-7a90-4830-a831-fb8b8b4646e4",
+    "title": "Deezer Will Let Listeners Filter Out AI Music",
+    "source_url": "https://www.engadget.com/2286898/deezer-will-let-listeners-completely-filter-out-ai-music/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-18T12:26:14.137932+00:00",
+    "analyzed_at": "2026-10-18T12:26:14.137932+00:00",
+    "summary": "Article URL: https://www.engadget.com/2286898/deezer-will-let-listeners-completely-filter-out-ai-music/\nComments URL: https://news.ycombinator.com/item?id=50139390\nPoints: 5\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rdmuser",
+      "language": null
+    }
+  },
+  {
+    "id": "954a7528-c62d-42a3-8f85-729c8603db09",
+    "title": "Why CoreWeave is in the crosshairs of the AI scare",
+    "source_url": "https://www.reuters.com/legal/transactional/why-coreweave-is-crosshairs-ai-scare-2026-10-16/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-18T12:26:15.357151+00:00",
+    "analyzed_at": "2026-10-18T12:26:15.357151+00:00",
+    "summary": "Article URL: https://www.reuters.com/legal/transactional/why-coreweave-is-crosshairs-ai-scare-2026-10-16/\nComments URL: https://news.ycombinator.com/item?id=50139375\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "giuliomagnifico",
+      "language": null
+    }
+  },
+  {
+    "id": "af03bd25-2e0f-4d30-a732-9fd615290a92",
+    "title": "Show HN: Risphai – picks the AI model, tools and prompt for each request",
+    "source_url": "https://risphai.com",
+    "source": "hacker_news",
+    "collected_at": "2026-10-18T12:26:16.577745+00:00",
+    "analyzed_at": "2026-10-18T12:26:16.577745+00:00",
+    "summary": "I noticed that a lot of non-technical people don’t use AI to its full extent. Like they use the wrong model for the task, the wrong reasoning effort, or vague prompts. That gap between \"what the AI ca",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "risphere",
+      "language": null
+    }
+  }
+]
