@@ -1,0 +1,65 @@
+[
+  {
+    "id": "98df1a53-5d92-47f9-b208-394f2ecbed4c",
+    "title": "Gathin23/cleanyourtv",
+    "source_url": "https://github.com/Gathin23/cleanyourtv",
+    "source": "unknown",
+    "collected_at": "2026-10-19T15:16:12.220138+00:00",
+    "analyzed_at": "2026-10-19T15:16:12.220138+00:00",
+    "summary": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 3894,
+      "score": null,
+      "author": null,
+      "language": "Java"
+    }
+  },
+  {
+    "id": "bf730dca-3640-4b78-80b8-6cfaa0ee8d0c",
+    "title": "alchaincyf/huashu-motion",
+    "source_url": "https://github.com/alchaincyf/huashu-motion",
+    "source": "unknown",
+    "collected_at": "2026-10-19T15:16:13.393365+00:00",
+    "analyzed_at": "2026-10-19T15:16:13.393365+00:00",
+    "summary": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 846,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "aeaa5d59-838e-4c7e-8fbb-c65fc3341783",
+    "title": "MaryCache/imozuru",
+    "source_url": "https://github.com/MaryCache/imozuru",
+    "source": "unknown",
+    "collected_at": "2026-10-19T15:16:14.571471+00:00",
+    "analyzed_at": "2026-10-19T15:16:14.571471+00:00",
+    "summary": "知らない分野を、原文にたどりつくまで芋づる式に掘る Claude Code のスキル",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 712,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  }
+]
