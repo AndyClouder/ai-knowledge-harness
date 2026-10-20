@@ -1,0 +1,422 @@
+[
+  {
+    "id": "f425eea6-b59d-439e-9c78-5d583b66cad7",
+    "title": "simbasjungles/free-my-tv",
+    "source_url": "https://github.com/simbasjungles/free-my-tv",
+    "source": "unknown",
+    "collected_at": "2026-10-20T13:18:29.835108+00:00",
+    "analyzed_at": "2026-10-20T13:18:29.835108+00:00",
+    "summary": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 972,
+      "score": null,
+      "author": null,
+      "language": "Java"
+    }
+  },
+  {
+    "id": "2d0e8c40-8b41-4a56-8ca0-bb28c56cfe67",
+    "title": "Ansub/tv-detox",
+    "source_url": "https://github.com/Ansub/tv-detox",
+    "source": "unknown",
+    "collected_at": "2026-10-20T13:18:31.039834+00:00",
+    "analyzed_at": "2026-10-20T13:18:31.039834+00:00",
+    "summary": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 767,
+      "score": null,
+      "author": null,
+      "language": "Java"
+    }
+  },
+  {
+    "id": "6d947e4b-b620-4e0d-9047-88995b8c720c",
+    "title": "cranebeaker/coop-anything",
+    "source_url": "https://github.com/cranebeaker/coop-anything",
+    "source": "unknown",
+    "collected_at": "2026-10-20T13:18:32.253980+00:00",
+    "analyzed_at": "2026-10-20T13:18:32.253980+00:00",
+    "summary": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 648,
+      "score": null,
+      "author": null,
+      "language": "C"
+    }
+  },
+  {
+    "id": "dd73bed4-3405-4ac1-ac75-55b8291e8073",
+    "title": "mistralai/timestral",
+    "source_url": "https://github.com/mistralai/timestral",
+    "source": "unknown",
+    "collected_at": "2026-10-20T13:18:33.456674+00:00",
+    "analyzed_at": "2026-10-20T13:18:33.456674+00:00",
+    "summary": "Repository for Timestral, the time-series foundation model by Mistral AI",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 634,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "ac3f0856-19d8-4f01-8d17-3adaa0fafede",
+    "title": "AI's power boom is giving the transformer a high-tech makeover",
+    "source_url": "https://www.scientificamerican.com/article/why-data-centers-are-reviving-solid-state-transformers/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-20T13:18:34.669820+00:00",
+    "analyzed_at": "2026-10-20T13:18:34.669820+00:00",
+    "summary": "Article URL: https://www.scientificamerican.com/article/why-data-centers-are-reviving-solid-state-transformers/\nComments URL: https://news.ycombinator.com/item?id=50165922\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "dxs",
+      "language": null
+    }
+  },
+  {
+    "id": "2175289e-bd7f-45b6-816f-e2d9a43bc65b",
+    "title": "OmniTrace – A local AI daemon that intercepts and patches Python crashes",
+    "source_url": "https://github.com/HadiAbdul30/omniTrace",
+    "source": "hacker_news",
+    "collected_at": "2026-10-20T13:18:35.909534+00:00",
+    "analyzed_at": "2026-10-20T13:18:35.909534+00:00",
+    "summary": "Article URL: https://github.com/HadiAbdul30/omniTrace\nComments URL: https://news.ycombinator.com/item?id=50165873\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "hadiabdul30",
+      "language": null
+    }
+  },
+  {
+    "id": "7b58b80a-1f2d-486f-932f-141d42c42044",
+    "title": "Show HN: Sorcerer – simulate a community of AI agents around a what-if (macOS)",
+    "source_url": "https://github.com/gbrasil720/sorcerer",
+    "source": "hacker_news",
+    "collected_at": "2026-10-20T13:18:37.129792+00:00",
+    "analyzed_at": "2026-10-20T13:18:37.129792+00:00",
+    "summary": "Article URL: https://github.com/gbrasil720/sorcerer\nComments URL: https://news.ycombinator.com/item?id=50165837\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "gbrasil720",
+      "language": null
+    }
+  },
+  {
+    "id": "8874f09a-e0e8-4567-a149-af350080dde9",
+    "title": "What if nobody wants to talk to your AI assistant?",
+    "source_url": "https://michalkuncio.com/what-if-nobody-wants-to-talk-to-your-ai-assistant/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-20T13:18:38.350205+00:00",
+    "analyzed_at": "2026-10-20T13:18:38.350205+00:00",
+    "summary": "Article URL: https://michalkuncio.com/what-if-nobody-wants-to-talk-to-your-ai-assistant/\nComments URL: https://news.ycombinator.com/item?id=50165830\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "michaelkdev",
+      "language": null
+    }
+  },
+  {
+    "id": "384ba9c9-88a2-4a28-b39d-ec0f263e3c21",
+    "title": "A minimalistic AI coding agent in 62 lines of bash, curl and jq",
+    "source_url": "https://github.com/antonum/bash-harness",
+    "source": "hacker_news",
+    "collected_at": "2026-10-20T13:18:39.566886+00:00",
+    "analyzed_at": "2026-10-20T13:18:39.566886+00:00",
+    "summary": "Article URL: https://github.com/antonum/bash-harness\nComments URL: https://news.ycombinator.com/item?id=50165809\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "aumnikov",
+      "language": null
+    }
+  },
+  {
+    "id": "30db83ea-c7d0-4f8b-a50e-ecc611f55089",
+    "title": "Too busy to read, so I dreamt up a newsroom of AI agents",
+    "source_url": "https://visokio.com/2026/10/19/too-busy-to-read-so-i-dreamt-up-a-newsroom-of-ai-agents/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-20T13:18:40.787942+00:00",
+    "analyzed_at": "2026-10-20T13:18:40.787942+00:00",
+    "summary": "Article URL: https://visokio.com/2026/10/19/too-busy-to-read-so-i-dreamt-up-a-newsroom-of-ai-agents/\nComments URL: https://news.ycombinator.com/item?id=50165682\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "supersteves",
+      "language": null
+    }
+  },
+  {
+    "id": "9a0a836c-7635-4c61-9ace-ab9bbba31386",
+    "title": "Just 42 AI-related stocks account for 80% of S&P 500 gains since 2024 [pdf]",
+    "source_url": "https://cdn.jpmorganfunds.com/content/dam/jpm-am-aem/global/en/insights/eye-on-the-market/califoreboding-amv.pdf",
+    "source": "hacker_news",
+    "collected_at": "2026-10-20T13:18:41.998573+00:00",
+    "analyzed_at": "2026-10-20T13:18:41.998573+00:00",
+    "summary": "Article URL: https://cdn.jpmorganfunds.com/content/dam/jpm-am-aem/global/en/insights/eye-on-the-market/califoreboding-amv.pdf\nComments URL: https://news.ycombinator.com/item?id=50165644\nPoints: 2\n# Co",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ck2",
+      "language": null
+    }
+  },
+  {
+    "id": "26e3c6a0-f4a4-4ba9-9a9f-50e2a4edd31c",
+    "title": "Yes, the Fed Can Kill the AI Boom",
+    "source_url": "https://www.wsj.com/finance/investing/yes-the-fed-can-kill-the-ai-boom-3c25da2e",
+    "source": "hacker_news",
+    "collected_at": "2026-10-20T13:18:43.255695+00:00",
+    "analyzed_at": "2026-10-20T13:18:43.255695+00:00",
+    "summary": "Article URL: https://www.wsj.com/finance/investing/yes-the-fed-can-kill-the-ai-boom-3c25da2e\nComments URL: https://news.ycombinator.com/item?id=50165630\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "AnodicElegy",
+      "language": null
+    }
+  },
+  {
+    "id": "924d916e-9a23-4a28-a67b-bda842909e82",
+    "title": "Documents Reveal Military Plan for Agentic AI That Hacks U.S. Adversaries",
+    "source_url": "https://gizmodo.com/documents-reveal-military-plan-for-agentic-ai-that-hacks-u-s-adversaries-2000827957",
+    "source": "hacker_news",
+    "collected_at": "2026-10-20T13:18:44.472181+00:00",
+    "analyzed_at": "2026-10-20T13:18:44.472181+00:00",
+    "summary": "Article URL: https://gizmodo.com/documents-reveal-military-plan-for-agentic-ai-that-hacks-u-s-adversaries-2000827957\nComments URL: https://news.ycombinator.com/item?id=50165546\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "cdrnsf",
+      "language": null
+    }
+  },
+  {
+    "id": "49d7b45d-8b44-4bbc-a929-6948757668b8",
+    "title": "JustEat apologises for AI-generated slop",
+    "source_url": "https://www.thejournal.ie/justeat-ai-pictures-takeaway-mistakes-7198965-Oct2026/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-20T13:18:45.691812+00:00",
+    "analyzed_at": "2026-10-20T13:18:45.691812+00:00",
+    "summary": "Article URL: https://www.thejournal.ie/justeat-ai-pictures-takeaway-mistakes-7198965-Oct2026/\nComments URL: https://news.ycombinator.com/item?id=50165543\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "cdrnsf",
+      "language": null
+    }
+  },
+  {
+    "id": "f996d9b6-0e25-4dfb-8a14-ff6fa856122f",
+    "title": "Show HN: Shazam but for AI Slop Music",
+    "source_url": "https://apps.apple.com/de/app/daft-slop-ai-music-detector/id6811013099",
+    "source": "hacker_news",
+    "collected_at": "2026-10-20T13:18:46.909019+00:00",
+    "analyzed_at": "2026-10-20T13:18:46.909019+00:00",
+    "summary": "I hacked this app together to detect AI Music. It uses Shazam under the hood to identifiy the song and uses a custom trained AI model to detect if its GenAI.I don't have a big agenda. Just want to spr",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "obrhoff",
+      "language": null
+    }
+  },
+  {
+    "id": "52bf684c-965a-40d3-8cb9-0cf0a529aabe",
+    "title": "AI Alignment Resources",
+    "source_url": "https://vkrakovna.wordpress.com/ai-safety-resources/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-20T13:18:48.127449+00:00",
+    "analyzed_at": "2026-10-20T13:18:48.127449+00:00",
+    "summary": "Article URL: https://vkrakovna.wordpress.com/ai-safety-resources/\nComments URL: https://news.ycombinator.com/item?id=50165506\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "vinhnx",
+      "language": null
+    }
+  },
+  {
+    "id": "b041d1fe-2faf-497f-82df-0273476b513f",
+    "title": "An Experiment in AI Peer Review",
+    "source_url": "https://kevinmunger.substack.com/p/an-experiment-in-ai-peer-review",
+    "source": "hacker_news",
+    "collected_at": "2026-10-20T13:18:49.341905+00:00",
+    "analyzed_at": "2026-10-20T13:18:49.341905+00:00",
+    "summary": "Article URL: https://kevinmunger.substack.com/p/an-experiment-in-ai-peer-review\nComments URL: https://news.ycombinator.com/item?id=50165455\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "surprisetalk",
+      "language": null
+    }
+  },
+  {
+    "id": "d35600f6-5c0c-4a12-97bc-f05990dc9985",
+    "title": "Missing the Psychosis Forest for the AI Trees",
+    "source_url": "https://figbert.com/posts/digital-psychosis/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-20T13:18:50.556189+00:00",
+    "analyzed_at": "2026-10-20T13:18:50.556189+00:00",
+    "summary": "Article URL: https://figbert.com/posts/digital-psychosis/\nComments URL: https://news.ycombinator.com/item?id=50165438\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "recursive-call",
+      "language": null
+    }
+  },
+  {
+    "id": "c8076420-a87d-4d16-91da-8923202815b9",
+    "title": "Show HN: MarkItDown AI – Convert documents to Markdown locally in the browser",
+    "source_url": "https://markitdownai.org",
+    "source": "hacker_news",
+    "collected_at": "2026-10-20T13:18:51.765103+00:00",
+    "analyzed_at": "2026-10-20T13:18:51.765103+00:00",
+    "summary": "Article URL: https://markitdownai.org\nComments URL: https://news.ycombinator.com/item?id=50165343\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "akageae",
+      "language": null
+    }
+  },
+  {
+    "id": "6f3474e4-36b2-4de8-a4aa-0e95554453db",
+    "title": "Friction Was the Safeguard: AI Worms, AI-Ported Games and Bioweapons",
+    "source_url": "https://macanorak.com/everything-everywhere-all-at-once/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-20T13:18:52.983982+00:00",
+    "analyzed_at": "2026-10-20T13:18:52.983982+00:00",
+    "summary": "Article URL: https://macanorak.com/everything-everywhere-all-at-once/\nComments URL: https://news.ycombinator.com/item?id=50165319\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ReturnoftheHack",
+      "language": null
+    }
+  }
+]

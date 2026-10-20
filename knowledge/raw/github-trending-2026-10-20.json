@@ -1,0 +1,48 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-10-20T13:18:20.344526+00:00",
+  "items": [
+    {
+      "name": "simbasjungles/free-my-tv",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "summary": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+      "stars": 972,
+      "language": "Java",
+      "topics": [
+        "android-tv",
+        "claude-code",
+        "google-tv",
+        "home-screen",
+        "launcher",
+        "no-ads",
+        "open-source",
+        "tmdb"
+      ]
+    },
+    {
+      "name": "Ansub/tv-detox",
+      "url": "https://github.com/Ansub/tv-detox",
+      "summary": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
+      "stars": 767,
+      "language": "Java",
+      "topics": []
+    },
+    {
+      "name": "cranebeaker/coop-anything",
+      "url": "https://github.com/cranebeaker/coop-anything",
+      "summary": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what",
+      "stars": 648,
+      "language": "C",
+      "topics": []
+    },
+    {
+      "name": "mistralai/timestral",
+      "url": "https://github.com/mistralai/timestral",
+      "summary": "Repository for Timestral, the time-series foundation model by Mistral AI",
+      "stars": 634,
+      "language": "Python",
+      "topics": []
+    }
+  ]
+}

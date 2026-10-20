@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-10-20T13:18:29.042975+00:00",
+  "items": [
+    {
+      "name": "AI's power boom is giving the transformer a high-tech makeover",
+      "url": "https://www.scientificamerican.com/article/why-data-centers-are-reviving-solid-state-transformers/",
+      "summary": "Article URL: https://www.scientificamerican.com/article/why-data-centers-are-reviving-solid-state-transformers/\nComments URL: https://news.ycombinator.com/item?id=50165922\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "dxs",
+      "published": "Tue, 20 Oct 2026 13:16:12 +0000"
+    },
+    {
+      "name": "OmniTrace – A local AI daemon that intercepts and patches Python crashes",
+      "url": "https://github.com/HadiAbdul30/omniTrace",
+      "summary": "Article URL: https://github.com/HadiAbdul30/omniTrace\nComments URL: https://news.ycombinator.com/item?id=50165873\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "hadiabdul30",
+      "published": "Tue, 20 Oct 2026 13:12:21 +0000"
+    },
+    {
+      "name": "Show HN: Sorcerer – simulate a community of AI agents around a what-if (macOS)",
+      "url": "https://github.com/gbrasil720/sorcerer",
+      "summary": "Article URL: https://github.com/gbrasil720/sorcerer\nComments URL: https://news.ycombinator.com/item?id=50165837\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "gbrasil720",
+      "published": "Tue, 20 Oct 2026 13:08:50 +0000"
+    },
+    {
+      "name": "What if nobody wants to talk to your AI assistant?",
+      "url": "https://michalkuncio.com/what-if-nobody-wants-to-talk-to-your-ai-assistant/",
+      "summary": "Article URL: https://michalkuncio.com/what-if-nobody-wants-to-talk-to-your-ai-assistant/\nComments URL: https://news.ycombinator.com/item?id=50165830\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "michaelkdev",
+      "published": "Tue, 20 Oct 2026 13:08:41 +0000"
+    },
+    {
+      "name": "A minimalistic AI coding agent in 62 lines of bash, curl and jq",
+      "url": "https://github.com/antonum/bash-harness",
+      "summary": "Article URL: https://github.com/antonum/bash-harness\nComments URL: https://news.ycombinator.com/item?id=50165809\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "aumnikov",
+      "published": "Tue, 20 Oct 2026 13:06:53 +0000"
+    },
+    {
+      "name": "Too busy to read, so I dreamt up a newsroom of AI agents",
+      "url": "https://visokio.com/2026/10/19/too-busy-to-read-so-i-dreamt-up-a-newsroom-of-ai-agents/",
+      "summary": "Article URL: https://visokio.com/2026/10/19/too-busy-to-read-so-i-dreamt-up-a-newsroom-of-ai-agents/\nComments URL: https://news.ycombinator.com/item?id=50165682\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "supersteves",
+      "published": "Tue, 20 Oct 2026 12:58:43 +0000"
+    },
+    {
+      "name": "Just 42 AI-related stocks account for 80% of S&P 500 gains since 2024 [pdf]",
+      "url": "https://cdn.jpmorganfunds.com/content/dam/jpm-am-aem/global/en/insights/eye-on-the-market/califoreboding-amv.pdf",
+      "summary": "Article URL: https://cdn.jpmorganfunds.com/content/dam/jpm-am-aem/global/en/insights/eye-on-the-market/califoreboding-amv.pdf\nComments URL: https://news.ycombinator.com/item?id=50165644\nPoints: 2\n# Co",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ck2",
+      "published": "Tue, 20 Oct 2026 12:55:59 +0000"
+    },
+    {
+      "name": "Yes, the Fed Can Kill the AI Boom",
+      "url": "https://www.wsj.com/finance/investing/yes-the-fed-can-kill-the-ai-boom-3c25da2e",
+      "summary": "Article URL: https://www.wsj.com/finance/investing/yes-the-fed-can-kill-the-ai-boom-3c25da2e\nComments URL: https://news.ycombinator.com/item?id=50165630\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "AnodicElegy",
+      "published": "Tue, 20 Oct 2026 12:54:59 +0000"
+    },
+    {
+      "name": "Documents Reveal Military Plan for Agentic AI That Hacks U.S. Adversaries",
+      "url": "https://gizmodo.com/documents-reveal-military-plan-for-agentic-ai-that-hacks-u-s-adversaries-2000827957",
+      "summary": "Article URL: https://gizmodo.com/documents-reveal-military-plan-for-agentic-ai-that-hacks-u-s-adversaries-2000827957\nComments URL: https://news.ycombinator.com/item?id=50165546\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "cdrnsf",
+      "published": "Tue, 20 Oct 2026 12:47:33 +0000"
+    },
+    {
+      "name": "JustEat apologises for AI-generated slop",
+      "url": "https://www.thejournal.ie/justeat-ai-pictures-takeaway-mistakes-7198965-Oct2026/",
+      "summary": "Article URL: https://www.thejournal.ie/justeat-ai-pictures-takeaway-mistakes-7198965-Oct2026/\nComments URL: https://news.ycombinator.com/item?id=50165543\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "cdrnsf",
+      "published": "Tue, 20 Oct 2026 12:47:10 +0000"
+    },
+    {
+      "name": "Show HN: Shazam but for AI Slop Music",
+      "url": "https://apps.apple.com/de/app/daft-slop-ai-music-detector/id6811013099",
+      "summary": "I hacked this app together to detect AI Music. It uses Shazam under the hood to identifiy the song and uses a custom trained AI model to detect if its GenAI.I don't have a big agenda. Just want to spr",
+      "source": "hacker_news",
+      "score": null,
+      "author": "obrhoff",
+      "published": "Tue, 20 Oct 2026 12:46:21 +0000"
+    },
+    {
+      "name": "AI Alignment Resources",
+      "url": "https://vkrakovna.wordpress.com/ai-safety-resources/",
+      "summary": "Article URL: https://vkrakovna.wordpress.com/ai-safety-resources/\nComments URL: https://news.ycombinator.com/item?id=50165506\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "vinhnx",
+      "published": "Tue, 20 Oct 2026 12:44:25 +0000"
+    },
+    {
+      "name": "An Experiment in AI Peer Review",
+      "url": "https://kevinmunger.substack.com/p/an-experiment-in-ai-peer-review",
+      "summary": "Article URL: https://kevinmunger.substack.com/p/an-experiment-in-ai-peer-review\nComments URL: https://news.ycombinator.com/item?id=50165455\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "surprisetalk",
+      "published": "Tue, 20 Oct 2026 12:40:04 +0000"
+    },
+    {
+      "name": "Missing the Psychosis Forest for the AI Trees",
+      "url": "https://figbert.com/posts/digital-psychosis/",
+      "summary": "Article URL: https://figbert.com/posts/digital-psychosis/\nComments URL: https://news.ycombinator.com/item?id=50165438\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "recursive-call",
+      "published": "Tue, 20 Oct 2026 12:38:38 +0000"
+    },
+    {
+      "name": "Show HN: MarkItDown AI – Convert documents to Markdown locally in the browser",
+      "url": "https://markitdownai.org",
+      "summary": "Article URL: https://markitdownai.org\nComments URL: https://news.ycombinator.com/item?id=50165343\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "akageae",
+      "published": "Tue, 20 Oct 2026 12:29:11 +0000"
+    },
+    {
+      "name": "Friction Was the Safeguard: AI Worms, AI-Ported Games and Bioweapons",
+      "url": "https://macanorak.com/everything-everywhere-all-at-once/",
+      "summary": "Article URL: https://macanorak.com/everything-everywhere-all-at-once/\nComments URL: https://news.ycombinator.com/item?id=50165319\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ReturnoftheHack",
+      "published": "Tue, 20 Oct 2026 12:26:38 +0000"
+    },
+    {
+      "name": "DJ Vibe Cat, the AI Agent Orchestrator",
+      "url": "https://www.youtube.com/watch?v=vMDhFMJHsxs",
+      "summary": "Article URL: https://www.youtube.com/watch?v=vMDhFMJHsxs\nComments URL: https://news.ycombinator.com/item?id=50165123\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "chris514",
+      "published": "Tue, 20 Oct 2026 12:11:30 +0000"
+    },
+    {
+      "name": "Retro tech meets modern AI: Inside an Amazon developer's working computer museum",
+      "url": "https://www.geekwire.com/2026/retro-tech-meets-modern-ai-inside-an-amazon-developers-garage-turned-working-computer-museum/",
+      "summary": "Article URL: https://www.geekwire.com/2026/retro-tech-meets-modern-ai-inside-an-amazon-developers-garage-turned-working-computer-museum/\nComments URL: https://news.ycombinator.com/item?id=50165122\nPoi",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Liriel",
+      "published": "Tue, 20 Oct 2026 12:11:21 +0000"
+    },
+    {
+      "name": "AI firm Elice plunges 32% in market debut as investors dump data centre stocks",
+      "url": "https://www.reuters.com/world/asia-pacific/south-korean-ai-data-centre-firm-elice-shares-tumble-ipo-debut-2026-10-20/",
+      "summary": "Article URL: https://www.reuters.com/world/asia-pacific/south-korean-ai-data-centre-firm-elice-shares-tumble-ipo-debut-2026-10-20/\nComments URL: https://news.ycombinator.com/item?id=50165056\nPoints: 4",
+      "source": "hacker_news",
+      "score": null,
+      "author": "yogthos",
+      "published": "Tue, 20 Oct 2026 12:05:53 +0000"
+    },
+    {
+      "name": "Candidates Campaign for AI Attention",
+      "url": "https://www.marketplace.org/story/2026/10/19/candidates-campaign-for-ai-attention",
+      "summary": "Article URL: https://www.marketplace.org/story/2026/10/19/candidates-campaign-for-ai-attention\nComments URL: https://news.ycombinator.com/item?id=50165051\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mooreds",
+      "published": "Tue, 20 Oct 2026 12:05:31 +0000"
+    }
+  ]
+}
