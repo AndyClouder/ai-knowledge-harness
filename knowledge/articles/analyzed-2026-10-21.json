@@ -1,0 +1,422 @@
+[
+  {
+    "id": "d4c1e97d-e0cc-4546-84c9-b9faca9633ec",
+    "title": "reason-machines/reason-network",
+    "source_url": "https://github.com/reason-machines/reason-network",
+    "source": "unknown",
+    "collected_at": "2026-10-21T13:24:55.823828+00:00",
+    "analyzed_at": "2026-10-21T13:24:55.823828+00:00",
+    "summary": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 853,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "2c502a9d-3454-4365-9a1c-dd55e515701f",
+    "title": "zcbacxc/mcd-party-planner",
+    "source_url": "https://github.com/zcbacxc/mcd-party-planner",
+    "source": "unknown",
+    "collected_at": "2026-10-21T13:24:57.068477+00:00",
+    "analyzed_at": "2026-10-21T13:24:57.068477+00:00",
+    "summary": "麦当劳 MCP 聚会/团餐组织助手 — 基于 Model Context Protocol 的派对预订与团餐规划 CLI/Skill",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 703,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "52b23fa2-c899-4930-a41a-688ab148d8a0",
+    "title": "YOURSJEYO/claude-switcher",
+    "source_url": "https://github.com/YOURSJEYO/claude-switcher",
+    "source": "unknown",
+    "collected_at": "2026-10-21T13:24:58.315145+00:00",
+    "analyzed_at": "2026-10-21T13:24:58.315145+00:00",
+    "summary": "Fail-Closed 账号环境管理器:11项环境指纹审计(Block-on-Fail)、手写STUN协议栈的WebRTC泄漏探针、Kill-Switch断网急停、多账号快照隔离、配置漂移自愈 —— 让真实IP在物理上无法泄漏",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 695,
+      "score": null,
+      "author": null,
+      "language": "Shell"
+    }
+  },
+  {
+    "id": "dfa2c2de-5625-4ac5-8e3f-d046a47d3ff4",
+    "title": "kitlangton/scrawl",
+    "source_url": "https://github.com/kitlangton/scrawl",
+    "source": "unknown",
+    "collected_at": "2026-10-21T13:24:59.547064+00:00",
+    "analyzed_at": "2026-10-21T13:24:59.547064+00:00",
+    "summary": "Show an agent a problem: mark up, record, send",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 618,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "59a77493-8540-4c4b-bfb4-3a41d2a5e8c8",
+    "title": "eagle-hq/EAGLE-4",
+    "source_url": "https://github.com/eagle-hq/EAGLE-4",
+    "source": "unknown",
+    "collected_at": "2026-10-21T13:25:00.777983+00:00",
+    "analyzed_at": "2026-10-21T13:25:00.777983+00:00",
+    "summary": "Official Inference Code of EAGLE-4",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 608,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "c72b39b7-5268-4e35-b901-1e8b07aff3d1",
+    "title": "gichirimaku/wp2shell-PoC",
+    "source_url": "https://github.com/gichirimaku/wp2shell-PoC",
+    "source": "unknown",
+    "collected_at": "2026-10-21T13:25:02.010977+00:00",
+    "analyzed_at": "2026-10-21T13:25:02.010977+00:00",
+    "summary": "CVE-2026-63030 + CVE-2026-60137 exploit RCE chain.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 562,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "ec1dae7c-f7c7-476f-8d02-22e91ed31756",
+    "title": "The AI doom scenario you've never heard of may be the hardest to stop",
+    "source_url": "https://www.cbsnews.com/news/ai-doom-scenario-gradual-disempowerment/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-21T13:25:03.244592+00:00",
+    "analyzed_at": "2026-10-21T13:25:03.244592+00:00",
+    "summary": "Article URL: https://www.cbsnews.com/news/ai-doom-scenario-gradual-disempowerment/\nComments URL: https://news.ycombinator.com/item?id=50180539\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "JeanKage",
+      "language": null
+    }
+  },
+  {
+    "id": "67d81066-4ac6-45db-8d19-e4e7ed866c3f",
+    "title": "AI bubble could burst and take global economy with it, IMF warns",
+    "source_url": "https://www.theregister.com/ai-and-ml/2026/10/13/ai-bubble-could-burst-and-take-global-economy-with-it-imf-warns/5302781",
+    "source": "hacker_news",
+    "collected_at": "2026-10-21T13:25:04.478574+00:00",
+    "analyzed_at": "2026-10-21T13:25:04.478574+00:00",
+    "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/10/13/ai-bubble-could-burst-and-take-global-economy-with-it-imf-warns/5302781\nComments URL: https://news.ycombinator.com/item?id=50180431\nPoints",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "entryleveljobsc",
+      "language": null
+    }
+  },
+  {
+    "id": "8351de63-2d4b-4c0a-941d-d4ae1200979f",
+    "title": "\"Who Owns ROM Hacking?\" and Other Questions AI Poisons Us With",
+    "source_url": "https://shoujo.gay/who-owns-rom-hacking/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-21T13:25:05.712185+00:00",
+    "analyzed_at": "2026-10-21T13:25:05.712185+00:00",
+    "summary": "Article URL: https://shoujo.gay/who-owns-rom-hacking/\nComments URL: https://news.ycombinator.com/item?id=50180316\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "speckx",
+      "language": null
+    }
+  },
+  {
+    "id": "3368fe31-77d3-41c5-b4a3-006cb8afca7a",
+    "title": "Radical Numerics creates first AI-generated phages to reach human patient",
+    "source_url": "https://www.radicalnumerics.ai/blog/omnii-phage",
+    "source": "hacker_news",
+    "collected_at": "2026-10-21T13:25:06.944144+00:00",
+    "analyzed_at": "2026-10-21T13:25:06.944144+00:00",
+    "summary": "Article URL: https://www.radicalnumerics.ai/blog/omnii-phage\nComments URL: https://news.ycombinator.com/item?id=50180283\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "torutofu",
+      "language": null
+    }
+  },
+  {
+    "id": "b7f9ce24-96ec-403c-b409-1e284422392e",
+    "title": "Show HN: Mnestiq – tamper-evident logs of what an AI agent saw and did",
+    "source_url": "https://github.com/mnestiq/mnestiq",
+    "source": "hacker_news",
+    "collected_at": "2026-10-21T13:25:08.177670+00:00",
+    "analyzed_at": "2026-10-21T13:25:08.177670+00:00",
+    "summary": "Article URL: https://github.com/mnestiq/mnestiq\nComments URL: https://news.ycombinator.com/item?id=50180226\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "lynceus",
+      "language": null
+    }
+  },
+  {
+    "id": "1a7e69c3-6c86-4e54-aa28-531f2739efac",
+    "title": "'We are the cows of the future' Harari warns AI could take over financial system",
+    "source_url": "https://www.ynetnews.com/tech-and-digital/article/rjzvkfq2fg",
+    "source": "hacker_news",
+    "collected_at": "2026-10-21T13:25:09.410724+00:00",
+    "analyzed_at": "2026-10-21T13:25:09.410724+00:00",
+    "summary": "Article URL: https://www.ynetnews.com/tech-and-digital/article/rjzvkfq2fg\nComments URL: https://news.ycombinator.com/item?id=50180094\nPoints: 3\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "myth_drannon",
+      "language": null
+    }
+  },
+  {
+    "id": "fcb585e3-d3a2-48c5-a5d1-37d34eeb704a",
+    "title": "Most Americans give a thumbs down to AI",
+    "source_url": "https://www.washingtonpost.com/technology/2026/10/21/poll-finds-most-americans-disapprove-how-trump-handling-ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-21T13:25:10.642747+00:00",
+    "analyzed_at": "2026-10-21T13:25:10.642747+00:00",
+    "summary": "Article URL: https://www.washingtonpost.com/technology/2026/10/21/poll-finds-most-americans-disapprove-how-trump-handling-ai/\nComments URL: https://news.ycombinator.com/item?id=50180070\nPoints: 2\n# Co",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Anon84",
+      "language": null
+    }
+  },
+  {
+    "id": "c27c1418-d69d-4f7a-b528-71fa93ef4186",
+    "title": "LayerFS: The filesystem for AI coding agents",
+    "source_url": "https://layerfs.ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-21T13:25:11.875810+00:00",
+    "analyzed_at": "2026-10-21T13:25:11.875810+00:00",
+    "summary": "Article URL: https://layerfs.ai/\nComments URL: https://news.ycombinator.com/item?id=50179857\nPoints: 9\n# Comments: 4",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "l2dy",
+      "language": null
+    }
+  },
+  {
+    "id": "0c1f6dae-c90f-48f4-a02b-029c2d033aa8",
+    "title": "Homeport AI: Continuous monitoring of leads and accounts",
+    "source_url": "https://homeport.ai/en",
+    "source": "hacker_news",
+    "collected_at": "2026-10-21T13:25:13.126672+00:00",
+    "analyzed_at": "2026-10-21T13:25:13.126672+00:00",
+    "summary": "Article URL: https://homeport.ai/en\nComments URL: https://news.ycombinator.com/item?id=50179851\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "doener",
+      "language": null
+    }
+  },
+  {
+    "id": "f9845501-4f27-4076-bdfc-7e2e97077c9a",
+    "title": "When buyers ask AI for \"best X\", vendors get 2% of citations",
+    "source_url": "https://www.aiverdict.io/blog/where-ai-actually-gets-its-answers",
+    "source": "hacker_news",
+    "collected_at": "2026-10-21T13:25:14.361314+00:00",
+    "analyzed_at": "2026-10-21T13:25:14.361314+00:00",
+    "summary": "Article URL: https://www.aiverdict.io/blog/where-ai-actually-gets-its-answers\nComments URL: https://news.ycombinator.com/item?id=50179742\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "puncto",
+      "language": null
+    }
+  },
+  {
+    "id": "2081cf30-37ff-4f5c-9394-c628e2bd59cd",
+    "title": "Show HN: Context Window, what changed in AI labs' own documents",
+    "source_url": "https://agentwire.thecompound.tech/context-window",
+    "source": "hacker_news",
+    "collected_at": "2026-10-21T13:25:15.596359+00:00",
+    "analyzed_at": "2026-10-21T13:25:15.596359+00:00",
+    "summary": "Article URL: https://agentwire.thecompound.tech/context-window\nComments URL: https://news.ycombinator.com/item?id=50179736\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "kyisaiah47",
+      "language": null
+    }
+  },
+  {
+    "id": "5fba2d25-11ea-4407-a184-bf36aa55a68b",
+    "title": "Mistral Advances AI for Engineering with Nvidia",
+    "source_url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-21T13:25:16.829986+00:00",
+    "analyzed_at": "2026-10-21T13:25:16.829986+00:00",
+    "summary": "Article URL: https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/\nComments URL: https://news.ycombinator.com/item?id=50179724\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "notfried",
+      "language": null
+    }
+  },
+  {
+    "id": "3eaf4a44-7aa5-4d78-bc8b-3f9220ea9d9e",
+    "title": "AI Testing vs. Software Testing",
+    "source_url": "https://deepsense.ai/blog/ai-testing-vs-software-testing-how-to-build-reliable-production-ai-systems/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-21T13:25:18.062770+00:00",
+    "analyzed_at": "2026-10-21T13:25:18.062770+00:00",
+    "summary": "Article URL: https://deepsense.ai/blog/ai-testing-vs-software-testing-how-to-build-reliable-production-ai-systems/\nComments URL: https://news.ycombinator.com/item?id=50179680\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "nvmdbljstm",
+      "language": null
+    }
+  },
+  {
+    "id": "0d0a76d9-38dc-40cd-b0a9-6ee7a710b9e0",
+    "title": "Rogue AI Agents [video]",
+    "source_url": "https://www.youtube.com/watch?v=OwZrotHHn4I",
+    "source": "hacker_news",
+    "collected_at": "2026-10-21T13:25:19.297221+00:00",
+    "analyzed_at": "2026-10-21T13:25:19.297221+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=OwZrotHHn4I\nComments URL: https://news.ycombinator.com/item?id=50179675\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "surprisetalk",
+      "language": null
+    }
+  }
+]

@@ -1,0 +1,87 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-10-21T13:24:03.173529+00:00",
+  "items": [
+    {
+      "name": "reason-machines/reason-network",
+      "url": "https://github.com/reason-machines/reason-network",
+      "summary": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+      "stars": 853,
+      "language": "Rust",
+      "topics": [
+        "coding-agents",
+        "iroh",
+        "mcp",
+        "peer-to-peer",
+        "reason"
+      ]
+    },
+    {
+      "name": "zcbacxc/mcd-party-planner",
+      "url": "https://github.com/zcbacxc/mcd-party-planner",
+      "summary": "麦当劳 MCP 聚会/团餐组织助手 — 基于 Model Context Protocol 的派对预订与团餐规划 CLI/Skill",
+      "stars": 703,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "YOURSJEYO/claude-switcher",
+      "url": "https://github.com/YOURSJEYO/claude-switcher",
+      "summary": "Fail-Closed 账号环境管理器:11项环境指纹审计(Block-on-Fail)、手写STUN协议栈的WebRTC泄漏探针、Kill-Switch断网急停、多账号快照隔离、配置漂移自愈 —— 让真实IP在物理上无法泄漏",
+      "stars": 695,
+      "language": "Shell",
+      "topics": []
+    },
+    {
+      "name": "kitlangton/scrawl",
+      "url": "https://github.com/kitlangton/scrawl",
+      "summary": "Show an agent a problem: mark up, record, send",
+      "stars": 618,
+      "language": "Rust",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "coding-agents",
+        "developer-tools",
+        "gpui",
+        "macos",
+        "opencode",
+        "rust",
+        "screen-recording"
+      ]
+    },
+    {
+      "name": "eagle-hq/EAGLE-4",
+      "url": "https://github.com/eagle-hq/EAGLE-4",
+      "summary": "Official Inference Code of EAGLE-4",
+      "stars": 608,
+      "language": "Python",
+      "topics": [
+        "eagle",
+        "gpu",
+        "llm-inference",
+        "sglang",
+        "speculative-decoding",
+        "tokenspeed",
+        "vllm"
+      ]
+    },
+    {
+      "name": "gichirimaku/wp2shell-PoC",
+      "url": "https://github.com/gichirimaku/wp2shell-PoC",
+      "summary": "CVE-2026-63030 + CVE-2026-60137 exploit RCE chain.",
+      "stars": 562,
+      "language": "Python",
+      "topics": [
+        "cve",
+        "cve-2026-60137",
+        "cve-2026-63030",
+        "cve-scanning",
+        "wp2shell",
+        "wp2shell-exploit",
+        "wp2shell-poc"
+      ]
+    }
+  ]
+}
