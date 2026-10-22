@@ -1,0 +1,422 @@
+[
+  {
+    "id": "b24f74ef-ced9-40a0-9f31-e9341d35fcb5",
+    "title": "ikow/php2shell-poc",
+    "source_url": "https://github.com/ikow/php2shell-poc",
+    "source": "unknown",
+    "collected_at": "2026-10-22T13:26:02.800475+00:00",
+    "analyzed_at": "2026-10-22T13:26:02.800475+00:00",
+    "summary": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1373,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "1359693b-4fbd-4b18-8809-9b5961f452b1",
+    "title": "dominikmartn/harp",
+    "source_url": "https://github.com/dominikmartn/harp",
+    "source": "unknown",
+    "collected_at": "2026-10-22T13:26:04.038563+00:00",
+    "analyzed_at": "2026-10-22T13:26:04.038563+00:00",
+    "summary": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 573,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "3e101e50-5fe1-422d-8c2f-7ea0bf1b651d",
+    "title": "VITASID57/bluntcore-intimacy-lab",
+    "source_url": "https://github.com/VITASID57/bluntcore-intimacy-lab",
+    "source": "unknown",
+    "collected_at": "2026-10-22T13:26:05.288341+00:00",
+    "analyzed_at": "2026-10-22T13:26:05.288341+00:00",
+    "summary": "🧬 钝核｜人机亲密实验室 · Bluntcore Intimacy Lab｜人机恋、成人 AI、Prompt、Memory、Agent、模型床测与实验记录。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 566,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "47db2346-d81d-4ce8-9736-3424c90521a4",
+    "title": "interplains/zero-breach",
+    "source_url": "https://github.com/interplains/zero-breach",
+    "source": "unknown",
+    "collected_at": "2026-10-22T13:26:06.538025+00:00",
+    "analyzed_at": "2026-10-22T13:26:06.538025+00:00",
+    "summary": "Zero Breach — local, read-only scanner that checks a computer for indicators of the AdFection / Candiru ad-delivered spyware campaign. No network, no admin, no dependencies.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 527,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "4114ce82-ef65-4f5e-b3f0-c3a580c686a3",
+    "title": "timhengc/mai-shen-zai-ci",
+    "source_url": "https://github.com/timhengc/mai-shen-zai-ci",
+    "source": "unknown",
+    "collected_at": "2026-10-22T13:26:07.788021+00:00",
+    "analyzed_at": "2026-10-22T13:26:07.788021+00:00",
+    "summary": "麦门封神榜｜你在麦门算老几？领取你的麦门专属身份",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 498,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "6f379f15-144e-4b79-bf0a-8bcd8287bdfa",
+    "title": "Show HN: GoRoute – Native Go LLM Gateway for Coding Agents (< 12MB RAM)",
+    "source_url": "https://github.com/ziuus/goroute",
+    "source": "hacker_news",
+    "collected_at": "2026-10-22T13:26:09.037479+00:00",
+    "analyzed_at": "2026-10-22T13:26:09.037479+00:00",
+    "summary": "Article URL: https://github.com/ziuus/goroute\nComments URL: https://news.ycombinator.com/item?id=50193745\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "noelyt101",
+      "language": null
+    }
+  },
+  {
+    "id": "fb999a46-2fa7-49be-823c-877bed4198be",
+    "title": "Show HN: Pith – a proxy that cuts LLM output tokens, and refuses when it can't",
+    "source_url": "https://github.com/dex0shubham/pith",
+    "source": "hacker_news",
+    "collected_at": "2026-10-22T13:26:10.286278+00:00",
+    "analyzed_at": "2026-10-22T13:26:10.286278+00:00",
+    "summary": "Article URL: https://github.com/dex0shubham/pith\nComments URL: https://news.ycombinator.com/item?id=50193525\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "dex0shubham",
+      "language": null
+    }
+  },
+  {
+    "id": "e9a71350-a6e5-4df9-96e4-447e5b37bb50",
+    "title": "Ask HN: Who owns the copyright to code generated by an AI LLM?",
+    "source_url": "https://news.ycombinator.com/item?id=50193266",
+    "source": "hacker_news",
+    "collected_at": "2026-10-22T13:26:11.537219+00:00",
+    "analyzed_at": "2026-10-22T13:26:11.537219+00:00",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=50193266\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "roschdal",
+      "language": null
+    }
+  },
+  {
+    "id": "453a42df-a26a-42a3-a39b-f9302812ae4d",
+    "title": "Achieving AI-style reasoning without an LLM",
+    "source_url": "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-22T13:26:12.785560+00:00",
+    "analyzed_at": "2026-10-22T13:26:12.785560+00:00",
+    "summary": "Article URL: https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/\nComments URL: https://news.ycombinator.com/item?id=50192868\nPoints: 44\n# Comments: 26",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "edwardchalk",
+      "language": null
+    }
+  },
+  {
+    "id": "d4b76b9e-b870-46a8-b84f-94711553f373",
+    "title": "Show HN: Kuron – An LLM acts as your app so you can try ideas before building",
+    "source_url": "https://kuron.pages.dev/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-22T13:26:14.033625+00:00",
+    "analyzed_at": "2026-10-22T13:26:14.033625+00:00",
+    "summary": "Article URL: https://kuron.pages.dev/\nComments URL: https://news.ycombinator.com/item?id=50191903\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "kofdai",
+      "language": null
+    }
+  },
+  {
+    "id": "c0005f64-bf00-4fba-9216-351aab2a8cd1",
+    "title": "Llmtobinary – LLM that generates bytes for a made up CPU archecture",
+    "source_url": "https://llmtobinary.com?llm",
+    "source": "hacker_news",
+    "collected_at": "2026-10-22T13:26:15.284125+00:00",
+    "analyzed_at": "2026-10-22T13:26:15.284125+00:00",
+    "summary": "Article URL: https://llmtobinary.com?llm\nComments URL: https://news.ycombinator.com/item?id=50191698\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "thomasfromcdnjs",
+      "language": null
+    }
+  },
+  {
+    "id": "1a1fcd0d-56bd-446b-af09-f6ee4a968632",
+    "title": "Show HN: Pawmc a.k.a. talking diary, an LLM chat with compartmentalised memory",
+    "source_url": "https://pawmc-demo.kolaegipet.workers.dev/?demo=1",
+    "source": "hacker_news",
+    "collected_at": "2026-10-22T13:26:16.534091+00:00",
+    "analyzed_at": "2026-10-22T13:26:16.534091+00:00",
+    "summary": "What pawmc is (from the blog post):It’s an LLM chat app with minimal system prompt and no tools/web-search by design. It stores most important context across your conversations in isolated buckets, ca",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "kol3x",
+      "language": null
+    }
+  },
+  {
+    "id": "372a9adb-27d0-490c-9c28-f73a145a4687",
+    "title": "LLM agents play Pokemon showdown",
+    "source_url": "https://olivergrabner.com/research/pokemon/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-22T13:26:17.782442+00:00",
+    "analyzed_at": "2026-10-22T13:26:17.782442+00:00",
+    "summary": "Article URL: https://olivergrabner.com/research/pokemon/\nComments URL: https://news.ycombinator.com/item?id=50190334\nPoints: 29\n# Comments: 15",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "grabnero",
+      "language": null
+    }
+  },
+  {
+    "id": "b0386a8d-055f-40d3-bcca-7c11c0123e6f",
+    "title": "France's OVHcloud plans frontier AI models to become Europe's second LLM player",
+    "source_url": "https://www.reuters.com/world/asia-pacific/frances-ovhcloud-plans-frontier-ai-models-become-europes-second-llm-player-2026-06-17/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-22T13:26:19.032235+00:00",
+    "analyzed_at": "2026-10-22T13:26:19.032235+00:00",
+    "summary": "Article URL: https://www.reuters.com/world/asia-pacific/frances-ovhcloud-plans-frontier-ai-models-become-europes-second-llm-player-2026-06-17/\nComments URL: https://news.ycombinator.com/item?id=501874",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "maelito",
+      "language": null
+    }
+  },
+  {
+    "id": "d051edb2-90aa-4b29-9247-a3198c4f3cd4",
+    "title": "LLM-D 1.0 Takes Open-Source Kubernetes AI Inference into Production",
+    "source_url": "https://techstrong.ai/ai-infrastructure/llm-d-1-0-takes-open-source-kubernetes-ai-inference-into-production/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-22T13:26:20.281015+00:00",
+    "analyzed_at": "2026-10-22T13:26:20.281015+00:00",
+    "summary": "Article URL: https://techstrong.ai/ai-infrastructure/llm-d-1-0-takes-open-source-kubernetes-ai-inference-into-production/\nComments URL: https://news.ycombinator.com/item?id=50186310\nPoints: 3\n# Commen",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "CrankyBear",
+      "language": null
+    }
+  },
+  {
+    "id": "b723c964-8b66-4049-ba68-9785a26090de",
+    "title": "Flint 40B: Frontier Local LLM (Fast 125 Tps on MacBook)",
+    "source_url": "https://twitter.com/RichardSocher/status/2112944385415426249",
+    "source": "hacker_news",
+    "collected_at": "2026-10-22T13:26:21.527907+00:00",
+    "analyzed_at": "2026-10-22T13:26:21.527907+00:00",
+    "summary": "Article URL: https://twitter.com/RichardSocher/status/2112944385415426249\nComments URL: https://news.ycombinator.com/item?id=50185801\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "debdut",
+      "language": null
+    }
+  },
+  {
+    "id": "55876efb-21c5-4258-b271-571e6b30ca03",
+    "title": "macOS 27 has a built-in, offline LLM you can call from Terminal",
+    "source_url": "https://news.ycombinator.com/item?id=50185265",
+    "source": "hacker_news",
+    "collected_at": "2026-10-22T13:26:22.775004+00:00",
+    "analyzed_at": "2026-10-22T13:26:22.775004+00:00",
+    "summary": "Apple appears to have made its Foundation Models accessible directly from Terminal in macOS 27.The interesting part is how little setup is required:```\nfm respond \"Your Question\"\n```You can also pipe ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ymattia",
+      "language": null
+    }
+  },
+  {
+    "id": "a5a7c676-3557-4f5f-82c8-e3b7a91f6c9c",
+    "title": "Deterministic LLM Inference Did Not Make Our Pipeline Deterministic",
+    "source_url": "https://www.ctgt.ai/research/concordance",
+    "source": "hacker_news",
+    "collected_at": "2026-10-22T13:26:24.024336+00:00",
+    "analyzed_at": "2026-10-22T13:26:24.024336+00:00",
+    "summary": "Article URL: https://www.ctgt.ai/research/concordance\nComments URL: https://news.ycombinator.com/item?id=50181579\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "archons",
+      "language": null
+    }
+  },
+  {
+    "id": "47545467-637f-4f29-8de0-9516abdd1fd4",
+    "title": "Open source Control Panel for LLM deployment",
+    "source_url": "https://github.com/LLMPanel/llmpanel-oss",
+    "source": "hacker_news",
+    "collected_at": "2026-10-22T13:26:25.274229+00:00",
+    "analyzed_at": "2026-10-22T13:26:25.274229+00:00",
+    "summary": "Article URL: https://github.com/LLMPanel/llmpanel-oss\nComments URL: https://news.ycombinator.com/item?id=50181509\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "SquidJack",
+      "language": null
+    }
+  },
+  {
+    "id": "c1d802e2-c3f3-4495-aeec-65e95f232fa5",
+    "title": "Would I have learned as much with an LLM?",
+    "source_url": "https://seg6.space/posts/questionable-cleverness/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-22T13:26:26.523338+00:00",
+    "analyzed_at": "2026-10-22T13:26:26.523338+00:00",
+    "summary": "Article URL: https://seg6.space/posts/questionable-cleverness/\nComments URL: https://news.ycombinator.com/item?id=50180451\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "seg6",
+      "language": null
+    }
+  }
+]

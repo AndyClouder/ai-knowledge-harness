@@ -1,0 +1,72 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-10-22T13:25:04.391277+00:00",
+  "items": [
+    {
+      "name": "ikow/php2shell-poc",
+      "url": "https://github.com/ikow/php2shell-poc",
+      "summary": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "stars": 1373,
+      "language": "Python",
+      "topics": [
+        "cve-2026-109618",
+        "cve-2026-109619",
+        "detection-rules",
+        "exploit",
+        "php-exploit",
+        "php-security",
+        "php2shell",
+        "poc",
+        "rce",
+        "session-upload-progress",
+        "suricata-rules",
+        "vulnerability-research",
+        "waf-rules",
+        "wordpress-security"
+      ]
+    },
+    {
+      "name": "dominikmartn/harp",
+      "url": "https://github.com/dominikmartn/harp",
+      "summary": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
+      "stars": 573,
+      "language": "Rust",
+      "topics": []
+    },
+    {
+      "name": "VITASID57/bluntcore-intimacy-lab",
+      "url": "https://github.com/VITASID57/bluntcore-intimacy-lab",
+      "summary": "🧬 钝核｜人机亲密实验室 · Bluntcore Intimacy Lab｜人机恋、成人 AI、Prompt、Memory、Agent、模型床测与实验记录。",
+      "stars": 566,
+      "language": null,
+      "topics": []
+    },
+    {
+      "name": "interplains/zero-breach",
+      "url": "https://github.com/interplains/zero-breach",
+      "summary": "Zero Breach — local, read-only scanner that checks a computer for indicators of the AdFection / Candiru ad-delivered spyware campaign. No network, no admin, no dependencies.",
+      "stars": 527,
+      "language": "Python",
+      "topics": [
+        "candiru",
+        "digital-security",
+        "forensics",
+        "incident-response",
+        "ioc",
+        "misp",
+        "spyware",
+        "stix",
+        "threat-intelligence"
+      ]
+    },
+    {
+      "name": "timhengc/mai-shen-zai-ci",
+      "url": "https://github.com/timhengc/mai-shen-zai-ci",
+      "summary": "麦门封神榜｜你在麦门算老几？领取你的麦门专属身份",
+      "stars": 498,
+      "language": "Python",
+      "topics": []
+    }
+  ]
+}
