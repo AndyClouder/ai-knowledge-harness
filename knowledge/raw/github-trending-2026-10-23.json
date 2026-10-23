@@ -1,0 +1,74 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-10-23T13:03:20.549037+00:00",
+  "items": [
+    {
+      "name": "EthanArbuckle/fairplay-decrypt",
+      "url": "https://github.com/EthanArbuckle/fairplay-decrypt",
+      "summary": "Offline FairPlay App Store IPA decryption with independent key derivation",
+      "stars": 1202,
+      "language": "C",
+      "topics": []
+    },
+    {
+      "name": "Jakeschincariol/day-trader-skill",
+      "url": "https://github.com/Jakeschincariol/day-trader-skill",
+      "summary": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+      "stars": 717,
+      "language": "Python",
+      "topics": [
+        "backtesting",
+        "claude",
+        "claude-skills",
+        "day-trading",
+        "stock-market"
+      ]
+    },
+    {
+      "name": "Snapintosh/Snapintosh",
+      "url": "https://github.com/Snapintosh/Snapintosh",
+      "summary": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
+      "stars": 686,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "aicodeking/pandacode",
+      "url": "https://github.com/aicodeking/pandacode",
+      "summary": "PandaCode: a calm desktop workspace for coding agents",
+      "stars": 558,
+      "language": "Rust",
+      "topics": []
+    },
+    {
+      "name": "kividbio/kividb",
+      "url": "https://github.com/kividbio/kividb",
+      "summary": "A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in",
+      "stars": 501,
+      "language": "Rust",
+      "topics": [
+        "cache",
+        "database",
+        "dragonfly-alternative",
+        "drop-in-replacement",
+        "full-text-search",
+        "high-performance",
+        "in-memory",
+        "io-uring",
+        "key-value-store",
+        "kividb",
+        "multithreaded",
+        "nosql",
+        "redis",
+        "redis-alternative",
+        "redis-compatible",
+        "resp",
+        "rust",
+        "valkey",
+        "vector-database",
+        "vector-search"
+      ]
+    }
+  ]
+}

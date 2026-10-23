@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-10-23T13:03:37.234248+00:00",
+  "items": [
+    {
+      "name": "Running 50 AI agent threads at once made me the bottleneck",
+      "url": "https://thoughts.jock.pl/p/ai-agents-attention-bottleneck-decisions-2026",
+      "summary": "Article URL: https://thoughts.jock.pl/p/ai-agents-attention-bottleneck-decisions-2026\nComments URL: https://news.ycombinator.com/item?id=50208342\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "joozio",
+      "published": "Fri, 23 Oct 2026 13:02:16 +0000"
+    },
+    {
+      "name": "Contrary to popular belief, AI can exploit the PHP exploit [video]",
+      "url": "https://www.youtube.com/watch?v=SP7y1h0laN0",
+      "summary": "Article URL: https://www.youtube.com/watch?v=SP7y1h0laN0\nComments URL: https://news.ycombinator.com/item?id=50208337\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "eraclide",
+      "published": "Fri, 23 Oct 2026 13:02:00 +0000"
+    },
+    {
+      "name": "The Psicology of an AI Hacker",
+      "url": "https://arxiv.org/abs/2610.30361",
+      "summary": "Article URL: https://arxiv.org/abs/2610.30361\nComments URL: https://news.ycombinator.com/item?id=50208307\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "vmayoral",
+      "published": "Fri, 23 Oct 2026 12:59:37 +0000"
+    },
+    {
+      "name": "Just Eat apologises for AI food mistakes after social media ridicule",
+      "url": "https://www.bbc.com/news/articles/crz981p0klvgo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/crz981p0klvgo\nComments URL: https://news.ycombinator.com/item?id=50208268\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "bookofjoe",
+      "published": "Fri, 23 Oct 2026 12:57:15 +0000"
+    },
+    {
+      "name": "Crusoe to deploy AI cloud in Paraguay powered by the Itaipu dam",
+      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-araico-hydroelectric-ai-infrastructure-partnership",
+      "summary": "Article URL: https://www.crusoe.ai/resources/newsroom/crusoe-araico-hydroelectric-ai-infrastructure-partnership\nComments URL: https://news.ycombinator.com/item?id=50208236\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "dvaplima",
+      "published": "Fri, 23 Oct 2026 12:54:48 +0000"
+    },
+    {
+      "name": "How DevRel Is Leading AI Adoption",
+      "url": "https://angiejones.tech/how-devrel-is-leading-ai-adoption/",
+      "summary": "Article URL: https://angiejones.tech/how-devrel-is-leading-ai-adoption/\nComments URL: https://news.ycombinator.com/item?id=50208035\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "adelekeabdulgan",
+      "published": "Fri, 23 Oct 2026 12:37:50 +0000"
+    },
+    {
+      "name": "Microsoft develops AI tool that can diagnose 'sequentially' like a doctor",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
+      "summary": "Article URL: https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/\nComments URL: https://news.ycombinator.com/it",
+      "source": "hacker_news",
+      "score": null,
+      "author": "tartoran",
+      "published": "Fri, 23 Oct 2026 12:33:41 +0000"
+    },
+    {
+      "name": "AI Identity Management System",
+      "url": "https://datatracker.ietf.org/doc/draft-ietf-wimse-aims/00/",
+      "summary": "Article URL: https://datatracker.ietf.org/doc/draft-ietf-wimse-aims/00/\nComments URL: https://news.ycombinator.com/item?id=50207901\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mooreds",
+      "published": "Fri, 23 Oct 2026 12:28:11 +0000"
+    },
+    {
+      "name": "Only 13% of companies see real returns from AI, survey finds",
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2026-10-19-gartner-survey-finds-only-13-percent-of-cios-say-their-enterprise-has-realized-significant-or-transformational-value-from-ai",
+      "summary": "Article URL: https://www.gartner.com/en/newsroom/press-releases/2026-10-19-gartner-survey-finds-only-13-percent-of-cios-say-their-enterprise-has-realized-significant-or-transformational-value-from-ai\n",
+      "source": "hacker_news",
+      "score": null,
+      "author": "DeepLogin",
+      "published": "Fri, 23 Oct 2026 12:27:03 +0000"
+    },
+    {
+      "name": "Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches",
+      "url": "https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357",
+      "summary": "Article URL: https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357\nComments URL: https://news.ycombinator.com/item?id=50207",
+      "source": "hacker_news",
+      "score": null,
+      "author": "speckx",
+      "published": "Fri, 23 Oct 2026 12:12:09 +0000"
+    },
+    {
+      "name": "Show HN: I gave my AI eyes for YouTube tutorials",
+      "url": "https://getframecap.com/",
+      "summary": "Article URL: https://getframecap.com/\nComments URL: https://news.ycombinator.com/item?id=50207650\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Kushbaghel",
+      "published": "Fri, 23 Oct 2026 12:05:38 +0000"
+    },
+    {
+      "name": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
+      "url": "https://www.thisandthat.chat/enron/",
+      "summary": "Article URL: https://www.thisandthat.chat/enron/\nComments URL: https://news.ycombinator.com/item?id=50207620\nPoints: 4\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "jreynar",
+      "published": "Fri, 23 Oct 2026 12:02:53 +0000"
+    },
+    {
+      "name": "Local AI Report#7–Machine-Speed Attacks: Breaches and Where Local AI Fits",
+      "url": "https://llmconfigurator.com/en/reports/ai-cyber-threats-2026-local-ai",
+      "summary": "Article URL: https://llmconfigurator.com/en/reports/ai-cyber-threats-2026-local-ai\nComments URL: https://news.ycombinator.com/item?id=50207612\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "jrusinowski",
+      "published": "Fri, 23 Oct 2026 12:02:17 +0000"
+    },
+    {
+      "name": "Little Caesars thinks big with AI",
+      "url": "https://www.cio.com/article/4150697/little-caesars-thinks-big-with-ai.html",
+      "summary": "Article URL: https://www.cio.com/article/4150697/little-caesars-thinks-big-with-ai.html\nComments URL: https://news.ycombinator.com/item?id=50207570\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mooreds",
+      "published": "Fri, 23 Oct 2026 11:58:27 +0000"
+    },
+    {
+      "name": "Wolves enter Finnish villages after Google clears 1300 acres for AI data centers",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/wolves-roam-into-finnish-villages-after-google-destroys-1-300-acres-of-forest-for-ai-data-centers-forest-where-wolf-packs-used-to-live-are-now-an-expanse-of-mud",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/data-centers/wolves-roam-into-finnish-villages-after-google-destroys-1-300-acres-of-forest-for-ai-data-centers-forest-where-wolf-packs-used-to-l",
+      "source": "hacker_news",
+      "score": null,
+      "author": "entryleveljobsc",
+      "published": "Fri, 23 Oct 2026 11:56:22 +0000"
+    },
+    {
+      "name": "AntFabric: Connecting Business Systems, Knowledge, and AI Agents [video]",
+      "url": "https://www.youtube.com/watch?v=_AANsj5Jz1M",
+      "summary": "Article URL: https://www.youtube.com/watch?v=_AANsj5Jz1M\nComments URL: https://news.ycombinator.com/item?id=50207473\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Harish_0089",
+      "published": "Fri, 23 Oct 2026 11:47:31 +0000"
+    },
+    {
+      "name": "Text-to-Diagram for AI Systems: Designing a DSL an LLM Gets Right",
+      "url": "https://zerowithdot.com/blog/text-to-diagram-for-ai-systems/",
+      "summary": "Article URL: https://zerowithdot.com/blog/text-to-diagram-for-ai-systems/\nComments URL: https://news.ycombinator.com/item?id=50207332\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "OlegZero13",
+      "published": "Fri, 23 Oct 2026 11:31:30 +0000"
+    },
+    {
+      "name": "AI Employment Changes – Food for Agile Thought #567",
+      "url": "https://www.youtube.com/watch?v=c7SuzfeAVQo",
+      "summary": "Article URL: https://www.youtube.com/watch?v=c7SuzfeAVQo\nComments URL: https://news.ycombinator.com/item?id=50207323\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "swolpers",
+      "published": "Fri, 23 Oct 2026 11:30:06 +0000"
+    },
+    {
+      "name": "A Tale of Three Months with AI: Guardrails, and How We Are More Alike Than We",
+      "url": "https://alessandrovermeulen.me/posts/a-tale-of-three-months-with-ai-guardrails-and-how-we-are-more-alike-than-we-wish-to-admit/",
+      "summary": "Article URL: https://alessandrovermeulen.me/posts/a-tale-of-three-months-with-ai-guardrails-and-how-we-are-more-alike-than-we-wish-to-admit/\nComments URL: https://news.ycombinator.com/item?id=50207290",
+      "source": "hacker_news",
+      "score": null,
+      "author": "spockz",
+      "published": "Fri, 23 Oct 2026 11:24:42 +0000"
+    },
+    {
+      "name": "Run AI prompts in any app from your menubar",
+      "url": "https://www.snippetbar.com",
+      "summary": "Article URL: https://www.snippetbar.com\nComments URL: https://news.ycombinator.com/item?id=50206992\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "martin_rariga",
+      "published": "Fri, 23 Oct 2026 10:52:01 +0000"
+    }
+  ]
+}

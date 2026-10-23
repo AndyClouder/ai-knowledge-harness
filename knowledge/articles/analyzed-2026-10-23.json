@@ -1,0 +1,422 @@
+[
+  {
+    "id": "9710f593-0f93-4147-8672-8e64ad7c40f4",
+    "title": "EthanArbuckle/fairplay-decrypt",
+    "source_url": "https://github.com/EthanArbuckle/fairplay-decrypt",
+    "source": "unknown",
+    "collected_at": "2026-10-23T13:03:38.162296+00:00",
+    "analyzed_at": "2026-10-23T13:03:38.162296+00:00",
+    "summary": "Offline FairPlay App Store IPA decryption with independent key derivation",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1202,
+      "score": null,
+      "author": null,
+      "language": "C"
+    }
+  },
+  {
+    "id": "7201aa01-bbad-4f9f-80a8-459df1944450",
+    "title": "Jakeschincariol/day-trader-skill",
+    "source_url": "https://github.com/Jakeschincariol/day-trader-skill",
+    "source": "unknown",
+    "collected_at": "2026-10-23T13:03:39.379641+00:00",
+    "analyzed_at": "2026-10-23T13:03:39.379641+00:00",
+    "summary": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 717,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "c7a7ba4c-19d5-469b-8281-d2d6e88be3aa",
+    "title": "Snapintosh/Snapintosh",
+    "source_url": "https://github.com/Snapintosh/Snapintosh",
+    "source": "unknown",
+    "collected_at": "2026-10-23T13:03:40.592170+00:00",
+    "analyzed_at": "2026-10-23T13:03:40.592170+00:00",
+    "summary": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 686,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "de541545-6589-467c-8a10-5a97c0cdaa55",
+    "title": "aicodeking/pandacode",
+    "source_url": "https://github.com/aicodeking/pandacode",
+    "source": "unknown",
+    "collected_at": "2026-10-23T13:03:41.821055+00:00",
+    "analyzed_at": "2026-10-23T13:03:41.821055+00:00",
+    "summary": "PandaCode: a calm desktop workspace for coding agents",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 558,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "bc4503ed-ecb5-40f4-9e99-472ace9f1ee0",
+    "title": "kividbio/kividb",
+    "source_url": "https://github.com/kividbio/kividb",
+    "source": "unknown",
+    "collected_at": "2026-10-23T13:03:43.027887+00:00",
+    "analyzed_at": "2026-10-23T13:03:43.027887+00:00",
+    "summary": "A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 501,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "56c57e92-d080-409a-ac2f-2d2050d8e88b",
+    "title": "Running 50 AI agent threads at once made me the bottleneck",
+    "source_url": "https://thoughts.jock.pl/p/ai-agents-attention-bottleneck-decisions-2026",
+    "source": "hacker_news",
+    "collected_at": "2026-10-23T13:03:44.238027+00:00",
+    "analyzed_at": "2026-10-23T13:03:44.238027+00:00",
+    "summary": "Article URL: https://thoughts.jock.pl/p/ai-agents-attention-bottleneck-decisions-2026\nComments URL: https://news.ycombinator.com/item?id=50208342\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "joozio",
+      "language": null
+    }
+  },
+  {
+    "id": "cf12a961-56be-41f2-98d1-4c1a33e1256f",
+    "title": "Contrary to popular belief, AI can exploit the PHP exploit [video]",
+    "source_url": "https://www.youtube.com/watch?v=SP7y1h0laN0",
+    "source": "hacker_news",
+    "collected_at": "2026-10-23T13:03:45.447139+00:00",
+    "analyzed_at": "2026-10-23T13:03:45.447139+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=SP7y1h0laN0\nComments URL: https://news.ycombinator.com/item?id=50208337\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "eraclide",
+      "language": null
+    }
+  },
+  {
+    "id": "942207e7-a7e0-4f0b-9cb8-6d9444dcb449",
+    "title": "The Psicology of an AI Hacker",
+    "source_url": "https://arxiv.org/abs/2610.30361",
+    "source": "hacker_news",
+    "collected_at": "2026-10-23T13:03:46.670099+00:00",
+    "analyzed_at": "2026-10-23T13:03:46.670099+00:00",
+    "summary": "Article URL: https://arxiv.org/abs/2610.30361\nComments URL: https://news.ycombinator.com/item?id=50208307\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "vmayoral",
+      "language": null
+    }
+  },
+  {
+    "id": "dd16b28e-3f6e-4a1e-ab3e-700f8177af97",
+    "title": "Just Eat apologises for AI food mistakes after social media ridicule",
+    "source_url": "https://www.bbc.com/news/articles/crz981p0klvgo",
+    "source": "hacker_news",
+    "collected_at": "2026-10-23T13:03:47.885327+00:00",
+    "analyzed_at": "2026-10-23T13:03:47.885327+00:00",
+    "summary": "Article URL: https://www.bbc.com/news/articles/crz981p0klvgo\nComments URL: https://news.ycombinator.com/item?id=50208268\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "bookofjoe",
+      "language": null
+    }
+  },
+  {
+    "id": "c1e879d8-0376-482c-8f4a-f47a85d151bb",
+    "title": "Crusoe to deploy AI cloud in Paraguay powered by the Itaipu dam",
+    "source_url": "https://www.crusoe.ai/resources/newsroom/crusoe-araico-hydroelectric-ai-infrastructure-partnership",
+    "source": "hacker_news",
+    "collected_at": "2026-10-23T13:03:49.108407+00:00",
+    "analyzed_at": "2026-10-23T13:03:49.108407+00:00",
+    "summary": "Article URL: https://www.crusoe.ai/resources/newsroom/crusoe-araico-hydroelectric-ai-infrastructure-partnership\nComments URL: https://news.ycombinator.com/item?id=50208236\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "dvaplima",
+      "language": null
+    }
+  },
+  {
+    "id": "631bddb4-76cc-4c31-b19c-2559a90adf07",
+    "title": "How DevRel Is Leading AI Adoption",
+    "source_url": "https://angiejones.tech/how-devrel-is-leading-ai-adoption/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-23T13:03:50.316667+00:00",
+    "analyzed_at": "2026-10-23T13:03:50.316667+00:00",
+    "summary": "Article URL: https://angiejones.tech/how-devrel-is-leading-ai-adoption/\nComments URL: https://news.ycombinator.com/item?id=50208035\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "adelekeabdulgan",
+      "language": null
+    }
+  },
+  {
+    "id": "81b2100f-ed41-4d63-8ba7-08b17d6c9e83",
+    "title": "Microsoft develops AI tool that can diagnose 'sequentially' like a doctor",
+    "source_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-23T13:03:51.526648+00:00",
+    "analyzed_at": "2026-10-23T13:03:51.526648+00:00",
+    "summary": "Article URL: https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/\nComments URL: https://news.ycombinator.com/it",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "tartoran",
+      "language": null
+    }
+  },
+  {
+    "id": "e5908b4e-d239-4119-bbac-6cc94a1f42a4",
+    "title": "AI Identity Management System",
+    "source_url": "https://datatracker.ietf.org/doc/draft-ietf-wimse-aims/00/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-23T13:03:52.745619+00:00",
+    "analyzed_at": "2026-10-23T13:03:52.745619+00:00",
+    "summary": "Article URL: https://datatracker.ietf.org/doc/draft-ietf-wimse-aims/00/\nComments URL: https://news.ycombinator.com/item?id=50207901\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mooreds",
+      "language": null
+    }
+  },
+  {
+    "id": "b12b7ae5-e475-4d9a-b4e2-e37dd58122fa",
+    "title": "Only 13% of companies see real returns from AI, survey finds",
+    "source_url": "https://www.gartner.com/en/newsroom/press-releases/2026-10-19-gartner-survey-finds-only-13-percent-of-cios-say-their-enterprise-has-realized-significant-or-transformational-value-from-ai",
+    "source": "hacker_news",
+    "collected_at": "2026-10-23T13:03:53.950904+00:00",
+    "analyzed_at": "2026-10-23T13:03:53.950904+00:00",
+    "summary": "Article URL: https://www.gartner.com/en/newsroom/press-releases/2026-10-19-gartner-survey-finds-only-13-percent-of-cios-say-their-enterprise-has-realized-significant-or-transformational-value-from-ai\n",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "DeepLogin",
+      "language": null
+    }
+  },
+  {
+    "id": "b443d410-3171-4f76-ba15-33f7cb605171",
+    "title": "Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches",
+    "source_url": "https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357",
+    "source": "hacker_news",
+    "collected_at": "2026-10-23T13:03:55.170251+00:00",
+    "analyzed_at": "2026-10-23T13:03:55.170251+00:00",
+    "summary": "Article URL: https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357\nComments URL: https://news.ycombinator.com/item?id=50207",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "speckx",
+      "language": null
+    }
+  },
+  {
+    "id": "8c1b2b2c-6ba7-499d-ae76-835c21c17da8",
+    "title": "Show HN: I gave my AI eyes for YouTube tutorials",
+    "source_url": "https://getframecap.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-23T13:03:56.378415+00:00",
+    "analyzed_at": "2026-10-23T13:03:56.378415+00:00",
+    "summary": "Article URL: https://getframecap.com/\nComments URL: https://news.ycombinator.com/item?id=50207650\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Kushbaghel",
+      "language": null
+    }
+  },
+  {
+    "id": "7b4d09fb-9bb1-47bc-b46c-910314f93b8e",
+    "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
+    "source_url": "https://www.thisandthat.chat/enron/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-23T13:03:57.584989+00:00",
+    "analyzed_at": "2026-10-23T13:03:57.584989+00:00",
+    "summary": "Article URL: https://www.thisandthat.chat/enron/\nComments URL: https://news.ycombinator.com/item?id=50207620\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jreynar",
+      "language": null
+    }
+  },
+  {
+    "id": "4bcd11e3-5335-427e-8bce-328bd92b974c",
+    "title": "Local AI Report#7–Machine-Speed Attacks: Breaches and Where Local AI Fits",
+    "source_url": "https://llmconfigurator.com/en/reports/ai-cyber-threats-2026-local-ai",
+    "source": "hacker_news",
+    "collected_at": "2026-10-23T13:03:58.792231+00:00",
+    "analyzed_at": "2026-10-23T13:03:58.792231+00:00",
+    "summary": "Article URL: https://llmconfigurator.com/en/reports/ai-cyber-threats-2026-local-ai\nComments URL: https://news.ycombinator.com/item?id=50207612\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jrusinowski",
+      "language": null
+    }
+  },
+  {
+    "id": "5fb22539-208a-4da3-8d09-78e304b17adc",
+    "title": "Little Caesars thinks big with AI",
+    "source_url": "https://www.cio.com/article/4150697/little-caesars-thinks-big-with-ai.html",
+    "source": "hacker_news",
+    "collected_at": "2026-10-23T13:03:59.997861+00:00",
+    "analyzed_at": "2026-10-23T13:03:59.997861+00:00",
+    "summary": "Article URL: https://www.cio.com/article/4150697/little-caesars-thinks-big-with-ai.html\nComments URL: https://news.ycombinator.com/item?id=50207570\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mooreds",
+      "language": null
+    }
+  },
+  {
+    "id": "f6f3b412-a4aa-405e-95cd-c3521f918998",
+    "title": "Wolves enter Finnish villages after Google clears 1300 acres for AI data centers",
+    "source_url": "https://www.tomshardware.com/tech-industry/data-centers/wolves-roam-into-finnish-villages-after-google-destroys-1-300-acres-of-forest-for-ai-data-centers-forest-where-wolf-packs-used-to-live-are-now-an-expanse-of-mud",
+    "source": "hacker_news",
+    "collected_at": "2026-10-23T13:04:01.207227+00:00",
+    "analyzed_at": "2026-10-23T13:04:01.207227+00:00",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/data-centers/wolves-roam-into-finnish-villages-after-google-destroys-1-300-acres-of-forest-for-ai-data-centers-forest-where-wolf-packs-used-to-l",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "entryleveljobsc",
+      "language": null
+    }
+  }
+]
