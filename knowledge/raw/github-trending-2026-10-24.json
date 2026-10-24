@@ -1,0 +1,84 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-10-24T12:26:09.834692+00:00",
+  "items": [
+    {
+      "name": "Alejandros17487/ai-jailbreaks",
+      "url": "https://github.com/Alejandros17487/ai-jailbreaks",
+      "summary": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing",
+      "stars": 512,
+      "language": null,
+      "topics": [
+        "ai",
+        "ai-safety",
+        "jailbreak",
+        "jailbreaking",
+        "privacy",
+        "safety",
+        "security"
+      ]
+    },
+    {
+      "name": "realskyrin/ns-game-apple-arm-port",
+      "url": "https://github.com/realskyrin/ns-game-apple-arm-port",
+      "summary": "Agent skill for native Nintendo Switch game porting to Apple Silicon macOS, iPadOS and iOS with Rust and Metal",
+      "stars": 494,
+      "language": null,
+      "topics": []
+    },
+    {
+      "name": "kanaworksai-hue/audio-studio-mcp",
+      "url": "https://github.com/kanaworksai-hue/audio-studio-mcp",
+      "summary": "Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX) and Windows NVIDIA GPUs (PyTorch). No cloud, no API key.",
+      "stars": 471,
+      "language": "Python",
+      "topics": [
+        "apple-silicon",
+        "audio-generation",
+        "claude-code",
+        "cuda",
+        "game-audio",
+        "mcp",
+        "mcp-server",
+        "mlx",
+        "music-generation",
+        "pytorch",
+        "sound-effects",
+        "stable-audio",
+        "windows"
+      ]
+    },
+    {
+      "name": "zita-ch/supermimic_vibed",
+      "url": "https://github.com/zita-ch/supermimic_vibed",
+      "summary": "vibe coded supermimic within 1h, LAFAN passed within 1.5 gpuh training",
+      "stars": 459,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "mihirgupta0900/tv-home",
+      "url": "https://github.com/mihirgupta0900/tv-home",
+      "summary": "Debloat a slow, ad-filled Android TV over Wi-Fi and give it a fast Apple TV-style home screen. One prompt for Claude Code, or do it by hand.",
+      "stars": 438,
+      "language": "Java",
+      "topics": [
+        "adb",
+        "android-tv",
+        "claude-code",
+        "debloat",
+        "google-tv",
+        "launcher"
+      ]
+    },
+    {
+      "name": "lesnolie/Tigris",
+      "url": "https://github.com/lesnolie/Tigris",
+      "summary": "Tigris — tvOS 27 style launcher for Android TV: Liquid Glass dock, Top Shelf, glass Control Center, photo screensaver. Agent-installable.",
+      "stars": 434,
+      "language": "Kotlin",
+      "topics": []
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-10-24T12:26:12.323653+00:00",
+  "items": [
+    {
+      "name": "Infinity: A runtime for extreme agent concurrency",
+      "url": "https://aws.amazon.com/blogs/opensource/introducing-infinity-a-runtime-for-extreme-agent-concurrency/",
+      "summary": "Article URL: https://aws.amazon.com/blogs/opensource/introducing-infinity-a-runtime-for-extreme-agent-concurrency/\nComments URL: https://news.ycombinator.com/item?id=50219851\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "joshcsimmons",
+      "published": "Sat, 24 Oct 2026 10:22:33 +0000"
+    },
+    {
+      "name": "Worca – Deterministic Multi-Agent Pipeline",
+      "url": "https://worca.dev/",
+      "summary": "Article URL: https://worca.dev/\nComments URL: https://news.ycombinator.com/item?id=50219131\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Tomte",
+      "published": "Sat, 24 Oct 2026 07:57:48 +0000"
+    },
+    {
+      "name": "Show HN: Let your AI agent put things on a screen",
+      "url": "https://console.usetd.com/",
+      "summary": "Article URL: https://console.usetd.com/\nComments URL: https://news.ycombinator.com/item?id=50218670\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "linxy97",
+      "published": "Sat, 24 Oct 2026 05:59:23 +0000"
+    },
+    {
+      "name": "Pi, the coding agent, compiled ahead of time to one native executable",
+      "url": "https://github.com/opensec-git/Pi-Bolt",
+      "summary": "Article URL: https://github.com/opensec-git/Pi-Bolt\nComments URL: https://news.ycombinator.com/item?id=50218338\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "thunderbong",
+      "published": "Sat, 24 Oct 2026 04:18:29 +0000"
+    },
+    {
+      "name": "Show HN: Task-view – review a coding agent’s change as a map instead of a diff",
+      "url": "https://github.com/gtindo/task-view",
+      "summary": "Article URL: https://github.com/gtindo/task-view\nComments URL: https://news.ycombinator.com/item?id=50217069\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "gtindo",
+      "published": "Sat, 24 Oct 2026 00:11:40 +0000"
+    },
+    {
+      "name": "I paired seven months of coding-agent transcripts with a token inventory",
+      "url": "https://morkeeth.substack.com/p/where-the-tokens-go-the-end-of-maxxing",
+      "summary": "Article URL: https://morkeeth.substack.com/p/where-the-tokens-go-the-end-of-maxxing\nComments URL: https://news.ycombinator.com/item?id=50216539\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Oscalemor",
+      "published": "Fri, 23 Oct 2026 22:58:07 +0000"
+    },
+    {
+      "name": "Narrative Deck – AI Agent skill for creating interactive web stories",
+      "url": "https://aakatheeri.github.io/narrative-deck/",
+      "summary": "Article URL: https://aakatheeri.github.io/narrative-deck/\nComments URL: https://news.ycombinator.com/item?id=50216138\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "aakatheeri",
+      "published": "Fri, 23 Oct 2026 22:18:39 +0000"
+    },
+    {
+      "name": "Show HN: Token Beggar, route coding agent subtasks to cheaper models",
+      "url": "https://github.com/Arthur031221/Token-Beggar",
+      "summary": "Article URL: https://github.com/Arthur031221/Token-Beggar\nComments URL: https://news.ycombinator.com/item?id=50215718\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "levi74108520963",
+      "published": "Fri, 23 Oct 2026 21:37:12 +0000"
+    },
+    {
+      "name": "We deserve a better agent-human interaction",
+      "url": "https://pinrail.dev/blog/we-deserve-a-better-agent-human-interaction/",
+      "summary": "Article URL: https://pinrail.dev/blog/we-deserve-a-better-agent-human-interaction/\nComments URL: https://news.ycombinator.com/item?id=50215389\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pnezis",
+      "published": "Fri, 23 Oct 2026 21:11:12 +0000"
+    },
+    {
+      "name": "Nu: The personal agent that runs on your rules",
+      "url": "https://github.com/rebuno/nu",
+      "summary": "Article URL: https://github.com/rebuno/nu\nComments URL: https://news.ycombinator.com/item?id=50215160\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "nnww",
+      "published": "Fri, 23 Oct 2026 20:52:16 +0000"
+    },
+    {
+      "name": "WTF Is Agent Experience",
+      "url": "https://usecommune.com/n/the-weekly-interface/a/2026-10-15-wtf-is-agent-experience",
+      "summary": "Article URL: https://usecommune.com/n/the-weekly-interface/a/2026-10-15-wtf-is-agent-experience\nComments URL: https://news.ycombinator.com/item?id=50214718\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "amzil",
+      "published": "Fri, 23 Oct 2026 20:17:00 +0000"
+    },
+    {
+      "name": "AI Coding Agent Security Benchmark",
+      "url": "https://www.endorlabs.com/research/ai-code-security-benchmark",
+      "summary": "Article URL: https://www.endorlabs.com/research/ai-code-security-benchmark\nComments URL: https://news.ycombinator.com/item?id=50214606\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "espeed",
+      "published": "Fri, 23 Oct 2026 20:08:49 +0000"
+    },
+    {
+      "name": "Show HN: Apple-design-hig agent skill, DocC updater CLI, and MCP server",
+      "url": "https://github.com/mr8lu/apple-design-hig",
+      "summary": "Article URL: https://github.com/mr8lu/apple-design-hig\nComments URL: https://news.ycombinator.com/item?id=50214427\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mr8lu",
+      "published": "Fri, 23 Oct 2026 19:51:52 +0000"
+    },
+    {
+      "name": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+      "url": "https://corgi.computer/",
+      "summary": "Hey everyone,Inspired by Herdr, I've built an agent multiplexer that I've been using as my daily driver for a few weeks now.I think I improved on the concept in a few ways, focusing on the ergonomics ",
+      "source": "hacker_news",
+      "score": null,
+      "author": "eiopa",
+      "published": "Fri, 23 Oct 2026 19:46:38 +0000"
+    },
+    {
+      "name": "The anatomy of a personal health agent",
+      "url": "https://www.nature.com/articles/s41586-026-11161-8",
+      "summary": "Article URL: https://www.nature.com/articles/s41586-026-11161-8\nComments URL: https://news.ycombinator.com/item?id=50214029\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "bookofjoe",
+      "published": "Fri, 23 Oct 2026 19:19:14 +0000"
+    },
+    {
+      "name": "To What Extent Does Agent-Generated Code Require Maintenance? An Empirical Study",
+      "url": "https://arxiv.org/abs/2605.06464",
+      "summary": "Article URL: https://arxiv.org/abs/2605.06464\nComments URL: https://news.ycombinator.com/item?id=50213566\nPoints: 3\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Tommkruix123",
+      "published": "Fri, 23 Oct 2026 18:42:32 +0000"
+    },
+    {
+      "name": "Build a Basic AI Agent from Scratch: Session Management II",
+      "url": "https://www.ruxu.dev/articles/ai/build-an-ai-agent-sessions-2/",
+      "summary": "Article URL: https://www.ruxu.dev/articles/ai/build-an-ai-agent-sessions-2/\nComments URL: https://news.ycombinator.com/item?id=50212685\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ruxudev",
+      "published": "Fri, 23 Oct 2026 17:41:02 +0000"
+    },
+    {
+      "name": "The model won't devour everything: three primitives of agent systems",
+      "url": "https://github.com/LiuBowenen/runtime-workspace-framework",
+      "summary": "Article URL: https://github.com/LiuBowenen/runtime-workspace-framework\nComments URL: https://news.ycombinator.com/item?id=50211851\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "LiuBowenen",
+      "published": "Fri, 23 Oct 2026 16:46:15 +0000"
+    },
+    {
+      "name": "Open Source Mobile-Use MCP and AI Agent",
+      "url": "https://github.com/ghorbelhamdi/buddy-android",
+      "summary": "Article URL: https://github.com/ghorbelhamdi/buddy-android\nComments URL: https://news.ycombinator.com/item?id=50211548\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "3amar404",
+      "published": "Fri, 23 Oct 2026 16:26:39 +0000"
+    }
+  ]
+}

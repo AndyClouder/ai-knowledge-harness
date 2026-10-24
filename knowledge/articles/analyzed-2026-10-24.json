@@ -1,0 +1,422 @@
+[
+  {
+    "id": "8b456311-abd3-4122-a2e8-dbbb72be1e4b",
+    "title": "Alejandros17487/ai-jailbreaks",
+    "source_url": "https://github.com/Alejandros17487/ai-jailbreaks",
+    "source": "unknown",
+    "collected_at": "2026-10-24T12:26:13.962682+00:00",
+    "analyzed_at": "2026-10-24T12:26:13.962682+00:00",
+    "summary": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 512,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "d3c16159-edb6-4935-9210-bfd2e0184a8d",
+    "title": "realskyrin/ns-game-apple-arm-port",
+    "source_url": "https://github.com/realskyrin/ns-game-apple-arm-port",
+    "source": "unknown",
+    "collected_at": "2026-10-24T12:26:15.208922+00:00",
+    "analyzed_at": "2026-10-24T12:26:15.208922+00:00",
+    "summary": "Agent skill for native Nintendo Switch game porting to Apple Silicon macOS, iPadOS and iOS with Rust and Metal",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 494,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "c8dc5902-36fb-4385-9d30-e8aa0b031fa5",
+    "title": "kanaworksai-hue/audio-studio-mcp",
+    "source_url": "https://github.com/kanaworksai-hue/audio-studio-mcp",
+    "source": "unknown",
+    "collected_at": "2026-10-24T12:26:16.454609+00:00",
+    "analyzed_at": "2026-10-24T12:26:16.454609+00:00",
+    "summary": "Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX) and Windows NVIDIA GPUs (PyTorch). No cloud, no API key.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 471,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "293db724-d58a-42dd-840a-ef6c9b7bb82d",
+    "title": "zita-ch/supermimic_vibed",
+    "source_url": "https://github.com/zita-ch/supermimic_vibed",
+    "source": "unknown",
+    "collected_at": "2026-10-24T12:26:17.719659+00:00",
+    "analyzed_at": "2026-10-24T12:26:17.719659+00:00",
+    "summary": "vibe coded supermimic within 1h, LAFAN passed within 1.5 gpuh training",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 459,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "bea12bf7-a757-4308-8126-e40d3906283d",
+    "title": "mihirgupta0900/tv-home",
+    "source_url": "https://github.com/mihirgupta0900/tv-home",
+    "source": "unknown",
+    "collected_at": "2026-10-24T12:26:18.965154+00:00",
+    "analyzed_at": "2026-10-24T12:26:18.965154+00:00",
+    "summary": "Debloat a slow, ad-filled Android TV over Wi-Fi and give it a fast Apple TV-style home screen. One prompt for Claude Code, or do it by hand.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 438,
+      "score": null,
+      "author": null,
+      "language": "Java"
+    }
+  },
+  {
+    "id": "133cd0cf-69c5-44e3-be4f-d7645285d053",
+    "title": "lesnolie/Tigris",
+    "source_url": "https://github.com/lesnolie/Tigris",
+    "source": "unknown",
+    "collected_at": "2026-10-24T12:26:20.210045+00:00",
+    "analyzed_at": "2026-10-24T12:26:20.210045+00:00",
+    "summary": "Tigris — tvOS 27 style launcher for Android TV: Liquid Glass dock, Top Shelf, glass Control Center, photo screensaver. Agent-installable.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 434,
+      "score": null,
+      "author": null,
+      "language": "Kotlin"
+    }
+  },
+  {
+    "id": "1c4b4ac9-2f52-4815-9340-b9e1bc1686ba",
+    "title": "Infinity: A runtime for extreme agent concurrency",
+    "source_url": "https://aws.amazon.com/blogs/opensource/introducing-infinity-a-runtime-for-extreme-agent-concurrency/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-24T12:26:21.454964+00:00",
+    "analyzed_at": "2026-10-24T12:26:21.454964+00:00",
+    "summary": "Article URL: https://aws.amazon.com/blogs/opensource/introducing-infinity-a-runtime-for-extreme-agent-concurrency/\nComments URL: https://news.ycombinator.com/item?id=50219851\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "joshcsimmons",
+      "language": null
+    }
+  },
+  {
+    "id": "32f069c9-4cda-41a8-bd48-ec0ea892462d",
+    "title": "Worca – Deterministic Multi-Agent Pipeline",
+    "source_url": "https://worca.dev/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-24T12:26:22.700608+00:00",
+    "analyzed_at": "2026-10-24T12:26:22.700608+00:00",
+    "summary": "Article URL: https://worca.dev/\nComments URL: https://news.ycombinator.com/item?id=50219131\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Tomte",
+      "language": null
+    }
+  },
+  {
+    "id": "1c1cbb7b-17ff-496e-a00a-ed9ca7916bb3",
+    "title": "Show HN: Let your AI agent put things on a screen",
+    "source_url": "https://console.usetd.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-24T12:26:23.953892+00:00",
+    "analyzed_at": "2026-10-24T12:26:23.953892+00:00",
+    "summary": "Article URL: https://console.usetd.com/\nComments URL: https://news.ycombinator.com/item?id=50218670\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "linxy97",
+      "language": null
+    }
+  },
+  {
+    "id": "fab8f3ee-bf47-44b2-8164-f512e74fbf4e",
+    "title": "Pi, the coding agent, compiled ahead of time to one native executable",
+    "source_url": "https://github.com/opensec-git/Pi-Bolt",
+    "source": "hacker_news",
+    "collected_at": "2026-10-24T12:26:25.197874+00:00",
+    "analyzed_at": "2026-10-24T12:26:25.197874+00:00",
+    "summary": "Article URL: https://github.com/opensec-git/Pi-Bolt\nComments URL: https://news.ycombinator.com/item?id=50218338\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "thunderbong",
+      "language": null
+    }
+  },
+  {
+    "id": "95b581be-f4d1-4872-a613-a604efe4a36f",
+    "title": "Show HN: Task-view – review a coding agent’s change as a map instead of a diff",
+    "source_url": "https://github.com/gtindo/task-view",
+    "source": "hacker_news",
+    "collected_at": "2026-10-24T12:26:26.443748+00:00",
+    "analyzed_at": "2026-10-24T12:26:26.443748+00:00",
+    "summary": "Article URL: https://github.com/gtindo/task-view\nComments URL: https://news.ycombinator.com/item?id=50217069\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "gtindo",
+      "language": null
+    }
+  },
+  {
+    "id": "a6fb4e5a-87a0-411a-8713-ffda9dfac909",
+    "title": "I paired seven months of coding-agent transcripts with a token inventory",
+    "source_url": "https://morkeeth.substack.com/p/where-the-tokens-go-the-end-of-maxxing",
+    "source": "hacker_news",
+    "collected_at": "2026-10-24T12:26:27.674024+00:00",
+    "analyzed_at": "2026-10-24T12:26:27.674024+00:00",
+    "summary": "Article URL: https://morkeeth.substack.com/p/where-the-tokens-go-the-end-of-maxxing\nComments URL: https://news.ycombinator.com/item?id=50216539\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Oscalemor",
+      "language": null
+    }
+  },
+  {
+    "id": "a3b95f4e-fc5b-469b-bbe4-df3712295677",
+    "title": "Narrative Deck – AI Agent skill for creating interactive web stories",
+    "source_url": "https://aakatheeri.github.io/narrative-deck/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-24T12:26:28.905656+00:00",
+    "analyzed_at": "2026-10-24T12:26:28.905656+00:00",
+    "summary": "Article URL: https://aakatheeri.github.io/narrative-deck/\nComments URL: https://news.ycombinator.com/item?id=50216138\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "aakatheeri",
+      "language": null
+    }
+  },
+  {
+    "id": "03a1b67f-75bf-471f-8397-093f4cd8e1c7",
+    "title": "Show HN: Token Beggar, route coding agent subtasks to cheaper models",
+    "source_url": "https://github.com/Arthur031221/Token-Beggar",
+    "source": "hacker_news",
+    "collected_at": "2026-10-24T12:26:30.138673+00:00",
+    "analyzed_at": "2026-10-24T12:26:30.138673+00:00",
+    "summary": "Article URL: https://github.com/Arthur031221/Token-Beggar\nComments URL: https://news.ycombinator.com/item?id=50215718\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "levi74108520963",
+      "language": null
+    }
+  },
+  {
+    "id": "754a2001-1486-42da-add5-3dcd2382d6e6",
+    "title": "We deserve a better agent-human interaction",
+    "source_url": "https://pinrail.dev/blog/we-deserve-a-better-agent-human-interaction/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-24T12:26:31.374097+00:00",
+    "analyzed_at": "2026-10-24T12:26:31.374097+00:00",
+    "summary": "Article URL: https://pinrail.dev/blog/we-deserve-a-better-agent-human-interaction/\nComments URL: https://news.ycombinator.com/item?id=50215389\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pnezis",
+      "language": null
+    }
+  },
+  {
+    "id": "1c1b5243-49ea-4dd1-96df-a2f349772567",
+    "title": "Nu: The personal agent that runs on your rules",
+    "source_url": "https://github.com/rebuno/nu",
+    "source": "hacker_news",
+    "collected_at": "2026-10-24T12:26:32.605962+00:00",
+    "analyzed_at": "2026-10-24T12:26:32.605962+00:00",
+    "summary": "Article URL: https://github.com/rebuno/nu\nComments URL: https://news.ycombinator.com/item?id=50215160\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "nnww",
+      "language": null
+    }
+  },
+  {
+    "id": "08edd60e-e8e9-427c-9d34-4672134c9043",
+    "title": "WTF Is Agent Experience",
+    "source_url": "https://usecommune.com/n/the-weekly-interface/a/2026-10-15-wtf-is-agent-experience",
+    "source": "hacker_news",
+    "collected_at": "2026-10-24T12:26:33.839253+00:00",
+    "analyzed_at": "2026-10-24T12:26:33.839253+00:00",
+    "summary": "Article URL: https://usecommune.com/n/the-weekly-interface/a/2026-10-15-wtf-is-agent-experience\nComments URL: https://news.ycombinator.com/item?id=50214718\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "amzil",
+      "language": null
+    }
+  },
+  {
+    "id": "aaacf8cb-e258-4911-9ff1-7c787068c7f8",
+    "title": "AI Coding Agent Security Benchmark",
+    "source_url": "https://www.endorlabs.com/research/ai-code-security-benchmark",
+    "source": "hacker_news",
+    "collected_at": "2026-10-24T12:26:35.070005+00:00",
+    "analyzed_at": "2026-10-24T12:26:35.070005+00:00",
+    "summary": "Article URL: https://www.endorlabs.com/research/ai-code-security-benchmark\nComments URL: https://news.ycombinator.com/item?id=50214606\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "espeed",
+      "language": null
+    }
+  },
+  {
+    "id": "3811a3e5-4608-4263-b5ff-e9933377e1ce",
+    "title": "Show HN: Apple-design-hig agent skill, DocC updater CLI, and MCP server",
+    "source_url": "https://github.com/mr8lu/apple-design-hig",
+    "source": "hacker_news",
+    "collected_at": "2026-10-24T12:26:36.299867+00:00",
+    "analyzed_at": "2026-10-24T12:26:36.299867+00:00",
+    "summary": "Article URL: https://github.com/mr8lu/apple-design-hig\nComments URL: https://news.ycombinator.com/item?id=50214427\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mr8lu",
+      "language": null
+    }
+  },
+  {
+    "id": "de13a784-cb3d-4a5e-9e50-694a03563e62",
+    "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+    "source_url": "https://corgi.computer/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-24T12:26:37.533088+00:00",
+    "analyzed_at": "2026-10-24T12:26:37.533088+00:00",
+    "summary": "Hey everyone,Inspired by Herdr, I've built an agent multiplexer that I've been using as my daily driver for a few weeks now.I think I improved on the concept in a few ways, focusing on the ergonomics ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "eiopa",
+      "language": null
+    }
+  }
+]
