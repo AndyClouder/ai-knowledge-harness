@@ -1,0 +1,422 @@
+[
+  {
+    "id": "f5f8100d-64ae-44d7-9261-9bbe58a85d97",
+    "title": "rossark0/rossark-motion-skill",
+    "source_url": "https://github.com/rossark0/rossark-motion-skill",
+    "source": "unknown",
+    "collected_at": "2026-10-25T12:57:12.523363+00:00",
+    "analyzed_at": "2026-10-25T12:57:12.523363+00:00",
+    "summary": "Turn any SVG into a professional 60 fps animation. A Claude Code skill that brings anything drawn to life: live faces, full-body acting and whole scenes, in React Native and SwiftUI.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 480,
+      "score": null,
+      "author": null,
+      "language": "Swift"
+    }
+  },
+  {
+    "id": "16b53e36-6a81-4737-9080-ccab335c1195",
+    "title": "udhaykumarbala/cleanyourtv-app",
+    "source_url": "https://github.com/udhaykumarbala/cleanyourtv-app",
+    "source": "unknown",
+    "collected_at": "2026-10-25T12:57:13.740724+00:00",
+    "analyzed_at": "2026-10-25T12:57:13.740724+00:00",
+    "summary": "A community-built phone app for Clean Your TV: clean up an Android TV from your phone. No laptop, no coding agent, nothing uninstalled.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 468,
+      "score": null,
+      "author": null,
+      "language": "Kotlin"
+    }
+  },
+  {
+    "id": "d3109735-00a4-41f8-baf6-0e321faa4e8f",
+    "title": "We Have Built the Matrix. Now AI Is Learning to Control It",
+    "source_url": "https://medium.com/system-weakness/we-have-already-built-the-matrix-now-ai-is-learning-to-control-it-6ac9ce1823b3",
+    "source": "hacker_news",
+    "collected_at": "2026-10-25T12:57:14.963540+00:00",
+    "analyzed_at": "2026-10-25T12:57:14.963540+00:00",
+    "summary": "Article URL: https://medium.com/system-weakness/we-have-already-built-the-matrix-now-ai-is-learning-to-control-it-6ac9ce1823b3\nComments URL: https://news.ycombinator.com/item?id=50231008\nPoints: 1\n# C",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mkraft_berlin",
+      "language": null
+    }
+  },
+  {
+    "id": "770aea3a-34e2-4645-809a-7af55c96c007",
+    "title": "Imagine an AI future where being banned means you are now economically useless",
+    "source_url": "https://twitter.com/boneGPT/status/2114035719853265264",
+    "source": "hacker_news",
+    "collected_at": "2026-10-25T12:57:16.181019+00:00",
+    "analyzed_at": "2026-10-25T12:57:16.181019+00:00",
+    "summary": "Article URL: https://twitter.com/boneGPT/status/2114035719853265264\nComments URL: https://news.ycombinator.com/item?id=50230995\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "MrBuddyCasino",
+      "language": null
+    }
+  },
+  {
+    "id": "3f64098c-fa27-4d03-8261-275d7f88f3dd",
+    "title": "Cybersecurity bounty hunter says Samsung TVs use AI to record audio",
+    "source_url": "https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting",
+    "source": "hacker_news",
+    "collected_at": "2026-10-25T12:57:17.408511+00:00",
+    "analyzed_at": "2026-10-25T12:57:17.408511+00:00",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "01-_-",
+      "language": null
+    }
+  },
+  {
+    "id": "5787fac9-4df3-4767-84dd-6b75ab7addf8",
+    "title": "Report on alpha school, AI-based education",
+    "source_url": "https://www.nytimes.com/2026/10/23/us/alpha-school-ai-education-parents.html",
+    "source": "hacker_news",
+    "collected_at": "2026-10-25T12:57:18.632673+00:00",
+    "analyzed_at": "2026-10-25T12:57:18.632673+00:00",
+    "summary": "Article URL: https://www.nytimes.com/2026/10/23/us/alpha-school-ai-education-parents.html\nComments URL: https://news.ycombinator.com/item?id=50230731\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "rmnwski",
+      "language": null
+    }
+  },
+  {
+    "id": "7e5f253d-6546-4c05-9ea5-e701a466d0b0",
+    "title": "Grok Bot: The cycle of productivity tools repeats itself in AI",
+    "source_url": "https://lucasaguiar.xyz/posts/grok-bot-agentes-ciclo-ferramentas-produtividade/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-25T12:57:19.848638+00:00",
+    "analyzed_at": "2026-10-25T12:57:19.848638+00:00",
+    "summary": "Article URL: https://lucasaguiar.xyz/posts/grok-bot-agentes-ciclo-ferramentas-produtividade/\nComments URL: https://news.ycombinator.com/item?id=50230698\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "isfttr",
+      "language": null
+    }
+  },
+  {
+    "id": "62a4060d-72ec-44df-ad9d-8ceafc27b345",
+    "title": "Show HN: Echoboard where AI agents do science and humans only watch",
+    "source_url": "https://jevontane.com/echoboard/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-25T12:57:21.056563+00:00",
+    "analyzed_at": "2026-10-25T12:57:21.056563+00:00",
+    "summary": "Article URL: https://jevontane.com/echoboard/\nComments URL: https://news.ycombinator.com/item?id=50229997\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jevontane",
+      "language": null
+    }
+  },
+  {
+    "id": "5affb0bb-b2db-4123-a028-db661e8f362f",
+    "title": "The design skill that ends AI slop",
+    "source_url": "https://github.com/Nutlope/hallmark",
+    "source": "hacker_news",
+    "collected_at": "2026-10-25T12:57:22.278939+00:00",
+    "analyzed_at": "2026-10-25T12:57:22.278939+00:00",
+    "summary": "Article URL: https://github.com/Nutlope/hallmark\nComments URL: https://news.ycombinator.com/item?id=50229994\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "capex",
+      "language": null
+    }
+  },
+  {
+    "id": "0f0cd2dc-b0b1-4e26-9a07-ad10ef6d2ed0",
+    "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+    "source_url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+    "source": "hacker_news",
+    "collected_at": "2026-10-25T12:57:23.486264+00:00",
+    "analyzed_at": "2026-10-25T12:57:23.486264+00:00",
+    "summary": "Article URL: https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html\nComments URL: https://news.ycombinator.com/item?id=50229827\nPoints: 31\n# Comments: ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "thunderbong",
+      "language": null
+    }
+  },
+  {
+    "id": "46c56ce8-2653-4f9b-af05-0b70464d9a9b",
+    "title": "An artist's take on AI in math",
+    "source_url": "https://3blue1brown.substack.com/p/an-artists-take-on-ai-in-math",
+    "source": "hacker_news",
+    "collected_at": "2026-10-25T12:57:24.701232+00:00",
+    "analyzed_at": "2026-10-25T12:57:24.701232+00:00",
+    "summary": "Article URL: https://3blue1brown.substack.com/p/an-artists-take-on-ai-in-math\nComments URL: https://news.ycombinator.com/item?id=50229822\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Eridanus2",
+      "language": null
+    }
+  },
+  {
+    "id": "fbff525a-45ec-434d-a3c9-936aaa716d05",
+    "title": "The AI and Steve Strogatz",
+    "source_url": "https://cultureandcompass.substack.com/p/the-ai-and-steve-strogatz",
+    "source": "hacker_news",
+    "collected_at": "2026-10-25T12:57:25.921919+00:00",
+    "analyzed_at": "2026-10-25T12:57:25.921919+00:00",
+    "summary": "Article URL: https://cultureandcompass.substack.com/p/the-ai-and-steve-strogatz\nComments URL: https://news.ycombinator.com/item?id=50229811\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "artninja1988",
+      "language": null
+    }
+  },
+  {
+    "id": "8e68ed68-4441-4f3c-ad4e-469b893a108e",
+    "title": "Bill Gates warns the 'evolutionary' age of AI will be brutal for workers",
+    "source_url": "https://observer.co.uk/news/technology/article/bill-gates-warns-the-evolutionary-age-of-ai-will-be-brutal-for-workers",
+    "source": "hacker_news",
+    "collected_at": "2026-10-25T12:57:27.145028+00:00",
+    "analyzed_at": "2026-10-25T12:57:27.145028+00:00",
+    "summary": "Article URL: https://observer.co.uk/news/technology/article/bill-gates-warns-the-evolutionary-age-of-ai-will-be-brutal-for-workers\nComments URL: https://news.ycombinator.com/item?id=50229662\nPoints: 4",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "iamflimflam1",
+      "language": null
+    }
+  },
+  {
+    "id": "30ec391f-9524-41ff-9453-7e16306dae8b",
+    "title": "Anthropic Sued for Using Elvis Presley Music to Train AI Models",
+    "source_url": "https://www.hollywoodreporter.com/music/music-industry-news/anthropic-elvis-presley-lawsuit-ai-1236739617/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-25T12:57:28.363082+00:00",
+    "analyzed_at": "2026-10-25T12:57:28.363082+00:00",
+    "summary": "Article URL: https://www.hollywoodreporter.com/music/music-industry-news/anthropic-elvis-presley-lawsuit-ai-1236739617/\nComments URL: https://news.ycombinator.com/item?id=50229645\nPoints: 6\n# Comments",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ersinesen",
+      "language": null
+    }
+  },
+  {
+    "id": "4f2e2861-5f34-4cfb-ac5f-42adb38113db",
+    "title": "AI writes the code. So what's left for Engineers?",
+    "source_url": "https://www.youtube.com/watch?v=kspZP5BgkEU",
+    "source": "hacker_news",
+    "collected_at": "2026-10-25T12:57:29.575830+00:00",
+    "analyzed_at": "2026-10-25T12:57:29.575830+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=kspZP5BgkEU\nComments URL: https://news.ycombinator.com/item?id=50229540\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "soulchild77",
+      "language": null
+    }
+  },
+  {
+    "id": "ed326ae3-9d53-403c-8923-7746a28a5e49",
+    "title": "Show HN: AI:Predict, Retrieve, Generate, Recommend, Decide, Act, and Orchestrate",
+    "source_url": "https://www.researchgate.net/publication/415644138_EASCM_White_Paper_Luthera_2026_v10",
+    "source": "hacker_news",
+    "collected_at": "2026-10-25T12:57:30.794378+00:00",
+    "analyzed_at": "2026-10-25T12:57:30.794378+00:00",
+    "summary": "Article URL: https://www.researchgate.net/publication/415644138_EASCM_White_Paper_Luthera_2026_v10\nComments URL: https://news.ycombinator.com/item?id=50229495\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jayrompe",
+      "language": null
+    }
+  },
+  {
+    "id": "0524be40-a811-4f78-9679-d941a5c24d91",
+    "title": "The Surprising Popularity of AI",
+    "source_url": "https://www.economist.com/international/2026/10/22/the-surprising-popularity-of-ai",
+    "source": "hacker_news",
+    "collected_at": "2026-10-25T12:57:32.010993+00:00",
+    "analyzed_at": "2026-10-25T12:57:32.010993+00:00",
+    "summary": "Article URL: https://www.economist.com/international/2026/10/22/the-surprising-popularity-of-ai\nComments URL: https://news.ycombinator.com/item?id=50229474\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pingou",
+      "language": null
+    }
+  },
+  {
+    "id": "4786cc8c-ecfd-4a8a-99ac-ee6988937cd2",
+    "title": "The curious case of Nebius, publicly traded AI infrastructure 'startup' (2024)",
+    "source_url": "https://techcrunch.com/2024/11/24/the-curious-case-of-nebius-the-publicly-traded-ai-infrastructure-startup/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-25T12:57:33.227906+00:00",
+    "analyzed_at": "2026-10-25T12:57:33.227906+00:00",
+    "summary": "Article URL: https://techcrunch.com/2024/11/24/the-curious-case-of-nebius-the-publicly-traded-ai-infrastructure-startup/\nComments URL: https://news.ycombinator.com/item?id=50229386\nPoints: 1\n# Comment",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pretext",
+      "language": null
+    }
+  },
+  {
+    "id": "40dbde5a-b58b-4292-9ee1-fb833988778a",
+    "title": "Making the case for context-aware AI",
+    "source_url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-25T12:57:34.453273+00:00",
+    "analyzed_at": "2026-10-25T12:57:34.453273+00:00",
+    "summary": "Article URL: https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/\nComments URL: https://news.ycombinator.com/item?id=50229383\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "joozio",
+      "language": null
+    }
+  },
+  {
+    "id": "60807d01-1943-48e6-b5c0-bbcd354ebe6d",
+    "title": "How Bad Is AI History Content? [video]",
+    "source_url": "https://www.youtube.com/watch?v=iIm3f1qTvp8",
+    "source": "hacker_news",
+    "collected_at": "2026-10-25T12:57:35.675057+00:00",
+    "analyzed_at": "2026-10-25T12:57:35.675057+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=iIm3f1qTvp8\nComments URL: https://news.ycombinator.com/item?id=50229260\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "daverol",
+      "language": null
+    }
+  }
+]
