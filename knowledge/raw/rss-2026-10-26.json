@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-10-26T14:50:05.457939+00:00",
+  "items": [
+    {
+      "name": "AI Beneficiaries: Investing in Second-Order Effects – Update: 100x AI Cultures [pdf]",
+      "url": "https://www.morganstanley.com/content/dam/im/assets/publication/thought-leadership/article/article_100xaicultures_ltr.pdf",
+      "summary": "Article URL: https://www.morganstanley.com/content/dam/im/assets/publication/thought-leadership/article/article_100xaicultures_ltr.pdf\nComments URL: https://news.ycombinator.com/item?id=50244372\nPoint",
+      "source": "hacker_news",
+      "score": null,
+      "author": "bluepeter",
+      "published": "Mon, 26 Oct 2026 14:30:06 +0000"
+    },
+    {
+      "name": "Anthropic Claude Models Contain AI Text Watermarks: What Does This Mean for You?",
+      "url": "https://www.oreilly.com/radar/the-latest-anthropic-claude-models-contain-ai-text-watermarks-what-does-this-mean-for-you/",
+      "summary": "Article URL: https://www.oreilly.com/radar/the-latest-anthropic-claude-models-contain-ai-text-watermarks-what-does-this-mean-for-you/\nComments URL: https://news.ycombinator.com/item?id=50244324\nPoints",
+      "source": "hacker_news",
+      "score": null,
+      "author": "gmays",
+      "published": "Mon, 26 Oct 2026 14:27:55 +0000"
+    },
+    {
+      "name": "NYPD in negotiations to use new AI-driven technology to track phones",
+      "url": "https://www.nydailynews.com/2026/10/24/nypd-in-negotiations-to-use-new-ai-driven-technology-will-make-it-easier-to-track-cell-phones/",
+      "summary": "Article URL: https://www.nydailynews.com/2026/10/24/nypd-in-negotiations-to-use-new-ai-driven-technology-will-make-it-easier-to-track-cell-phones/\nComments URL: https://news.ycombinator.com/item?id=50",
+      "source": "hacker_news",
+      "score": null,
+      "author": "slowin",
+      "published": "Mon, 26 Oct 2026 14:27:19 +0000"
+    },
+    {
+      "name": "R/open source just banned AI, non-English speakers, and more",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban\nComments URL: https://news.ycombinator.com/item?id=50244212\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "isaacfrond",
+      "published": "Mon, 26 Oct 2026 14:22:31 +0000"
+    },
+    {
+      "name": "Engineering Evolved. The Rest Didn't. That's Why Your AI ROI Sucks",
+      "url": "https://kerno.io/blog/why-your-ai-roi-sucks/",
+      "summary": "Article URL: https://kerno.io/blog/why-your-ai-roi-sucks/\nComments URL: https://news.ycombinator.com/item?id=50244143\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "karimtr",
+      "published": "Mon, 26 Oct 2026 14:17:45 +0000"
+    },
+    {
+      "name": "Show HN: ToiletBench - Can AI find the toilet without a sign?",
+      "url": "https://behu-kea.github.io/toilet-bench/",
+      "summary": "Imagine you are at a restaurant for the first time. You need to go to the toilet but don't see any signs for the toilet. You still have an intuition for where to go. This intuition has been built up o",
+      "source": "hacker_news",
+      "score": null,
+      "author": "RedGreenBlack",
+      "published": "Mon, 26 Oct 2026 14:15:31 +0000"
+    },
+    {
+      "name": "Filing My Taxes for Free with AI",
+      "url": "https://www.robw.fyi/2026/10/19/filing-my-taxes-for-free-with-ai/",
+      "summary": "Article URL: https://www.robw.fyi/2026/10/19/filing-my-taxes-for-free-with-ai/\nComments URL: https://news.ycombinator.com/item?id=50244056\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "someguy101010",
+      "published": "Mon, 26 Oct 2026 14:12:07 +0000"
+    },
+    {
+      "name": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+      "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+      "summary": "Article URL: https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/\nComments URL: https://news.ycombinator.com/item?id=50243883\nPoints: 1\n# C",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Brajeshwar",
+      "published": "Mon, 26 Oct 2026 14:01:56 +0000"
+    },
+    {
+      "name": "Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx-3090-ti-matrix-math-up-to-80-percent",
+      "summary": "Article URL: https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Brajeshwar",
+      "published": "Mon, 26 Oct 2026 14:01:40 +0000"
+    },
+    {
+      "name": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "summary": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/\nComments URL: https://news.ycombinator.com/item?id=50243759\nPoints: 5\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "marginalia_nu",
+      "published": "Mon, 26 Oct 2026 13:54:41 +0000"
+    },
+    {
+      "name": "Agentic AI has overtaken generative AI on S&P 500 earnings calls: 5,305 calls",
+      "url": "https://equibles.com/research/agentic-ai-has-overtaken-generative-ai-on-earnings-calls-evidence-from-5-305-s-p-500-calls",
+      "summary": "Article URL: https://equibles.com/research/agentic-ai-has-overtaken-generative-ai-on-earnings-calls-evidence-from-5-305-s-p-500-calls\nComments URL: https://news.ycombinator.com/item?id=50243753\nPoints",
+      "source": "hacker_news",
+      "score": null,
+      "author": "daniel3303",
+      "published": "Mon, 26 Oct 2026 13:54:28 +0000"
+    },
+    {
+      "name": "Connect your AI agents to your database without them having to write SQL",
+      "url": "https://github.com/claix-dev/claix-for-devs",
+      "summary": "Article URL: https://github.com/claix-dev/claix-for-devs\nComments URL: https://news.ycombinator.com/item?id=50243630\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "gael_dev",
+      "published": "Mon, 26 Oct 2026 13:46:58 +0000"
+    },
+    {
+      "name": "Pusaka Intelligence – AI equity research on US large caps",
+      "url": "https://pusakaintelligence.com/en/",
+      "summary": "Article URL: https://pusakaintelligence.com/en/\nComments URL: https://news.ycombinator.com/item?id=50243603\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "David_Gunawan",
+      "published": "Mon, 26 Oct 2026 13:45:29 +0000"
+    },
+    {
+      "name": "What Are Chinese AI Companies Saying About the Impacts of Export Controls?",
+      "url": "https://www.konstantinpilz.com/posts-publications/chinese-statements-on-compute",
+      "summary": "Article URL: https://www.konstantinpilz.com/posts-publications/chinese-statements-on-compute\nComments URL: https://news.ycombinator.com/item?id=50243570\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "abdullahalharir",
+      "published": "Mon, 26 Oct 2026 13:43:29 +0000"
+    },
+    {
+      "name": "Anthropic rushing IPO before AI bubble bursts",
+      "url": "https://nypost.com/2026/10/23/business/wall-street-is-urging-anthropic-openai-to-do-their-ipos-in-a-hurry-heres-why/",
+      "summary": "Article URL: https://nypost.com/2026/10/23/business/wall-street-is-urging-anthropic-openai-to-do-their-ipos-in-a-hurry-heres-why/\nComments URL: https://news.ycombinator.com/item?id=50243343\nPoints: 11",
+      "source": "hacker_news",
+      "score": null,
+      "author": "nothrowaways",
+      "published": "Mon, 26 Oct 2026 13:30:05 +0000"
+    },
+    {
+      "name": "AI is coming for accounting after coding",
+      "url": "https://news.ycombinator.com/item?id=50243234",
+      "summary": "Ai agents in accounting firms are way less effective than Ai agents in law firms for example. writing contracts is where an LLM shines, it's basic building blocks are formal words. Formal is the key t",
+      "source": "hacker_news",
+      "score": null,
+      "author": "shoman3003",
+      "published": "Mon, 26 Oct 2026 13:24:26 +0000"
+    },
+    {
+      "name": "The MS-DOS Moment of AI",
+      "url": "https://rruxandra.github.io/the-msdos-moment.html",
+      "summary": "Article URL: https://rruxandra.github.io/the-msdos-moment.html\nComments URL: https://news.ycombinator.com/item?id=50243189\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rruxandra",
+      "published": "Mon, 26 Oct 2026 13:21:59 +0000"
+    },
+    {
+      "name": "LTX-2.5-22B-IC-LoRA AI video studio with codex application protocol",
+      "url": "https://github.com/andrewarrow/aivs",
+      "summary": "Article URL: https://github.com/andrewarrow/aivs\nComments URL: https://news.ycombinator.com/item?id=50243133\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "andrewfromx",
+      "published": "Mon, 26 Oct 2026 13:18:49 +0000"
+    },
+    {
+      "name": "How to build the AI platform your company needs",
+      "url": "https://www.theaithinker.com/p/how-to-build-the-ai-platform-your",
+      "summary": "Article URL: https://www.theaithinker.com/p/how-to-build-the-ai-platform-your\nComments URL: https://news.ycombinator.com/item?id=50243022\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "adamfaik",
+      "published": "Mon, 26 Oct 2026 13:11:08 +0000"
+    },
+    {
+      "name": "R/opensource bans AI-made and AI-focused projects and non-English speakers",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/reddits-r-opensource-bans-ai-made-and-ai-focused-projects-also-bans-non-english-speakers-sweeping-new-rules-spark-backlash-over-linux-kernel-contributions-and-solo-developers",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/reddits-r-opensource-bans-ai-made-and-ai-focused-projects-also-bans-non-english-speakers-sweeping-new-rules-spark-backla",
+      "source": "hacker_news",
+      "score": null,
+      "author": "NordStreamYacht",
+      "published": "Mon, 26 Oct 2026 13:00:51 +0000"
+    }
+  ]
+}

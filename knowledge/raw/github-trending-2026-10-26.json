@@ -1,0 +1,103 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-10-26T14:49:31.868866+00:00",
+  "items": [
+    {
+      "name": "rddmwmddr/android-ad-cleaner",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "summary": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "stars": 1648,
+      "language": "Python",
+      "topics": [
+        "adb",
+        "ai-agent",
+        "android",
+        "coloros",
+        "debloat",
+        "hyperos",
+        "magicos",
+        "originos"
+      ]
+    },
+    {
+      "name": "morganlinton/BeautifulRust",
+      "url": "https://github.com/morganlinton/BeautifulRust",
+      "summary": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
+      "stars": 1100,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "claude-plugin",
+        "claude-skills",
+        "clippy",
+        "code-review",
+        "coding-agent",
+        "cursor",
+        "rust",
+        "style-guide"
+      ]
+    },
+    {
+      "name": "t3dotgg/tstack",
+      "url": "https://github.com/t3dotgg/tstack",
+      "summary": "The agent skills I use every day. Works with Claude Code and Codex.",
+      "stars": 1042,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "DenisSergeevitch/ex-ussr-kinship-research",
+      "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+      "summary": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+      "stars": 692,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "archives",
+        "claude-code",
+        "codex",
+        "family-history",
+        "familysearch",
+        "genealogy",
+        "ussr"
+      ]
+    },
+    {
+      "name": "wangrongding/tv-fresh",
+      "url": "https://github.com/wangrongding/tv-fresh",
+      "summary": "tv-fresh 电视焕新：小米电视(MIUI TV)去广告/清理预装/换桌面/装代理与影视仓的 Agent Skill——免root可逆，含固件逆向实录与一键脚本",
+      "stars": 476,
+      "language": "Shell",
+      "topics": []
+    },
+    {
+      "name": "andyhuo520/digital-human-koubo",
+      "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "summary": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "stars": 449,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "MemTensor/MemT-1.0",
+      "url": "https://github.com/MemTensor/MemT-1.0",
+      "summary": "Official repository for MemT-1.0",
+      "stars": 412,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "deepseek",
+        "llm",
+        "long-context",
+        "long-term-memory",
+        "memory",
+        "memory-augmented-models",
+        "native-memory",
+        "qwen",
+        "sglang"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+[
+  {
+    "id": "083338ae-a91c-43c6-afd1-c3040b0e3667",
+    "title": "rddmwmddr/android-ad-cleaner",
+    "source_url": "https://github.com/rddmwmddr/android-ad-cleaner",
+    "source": "unknown",
+    "collected_at": "2026-10-26T14:50:06.714194+00:00",
+    "analyzed_at": "2026-10-26T14:50:06.714194+00:00",
+    "summary": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1648,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "65b00ac0-8a85-47c8-a10b-ab2bd010ac09",
+    "title": "morganlinton/BeautifulRust",
+    "source_url": "https://github.com/morganlinton/BeautifulRust",
+    "source": "unknown",
+    "collected_at": "2026-10-26T14:50:07.910322+00:00",
+    "analyzed_at": "2026-10-26T14:50:07.910322+00:00",
+    "summary": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1100,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "354283c5-8196-4eb0-a320-7e762f9da8fc",
+    "title": "t3dotgg/tstack",
+    "source_url": "https://github.com/t3dotgg/tstack",
+    "source": "unknown",
+    "collected_at": "2026-10-26T14:50:09.107839+00:00",
+    "analyzed_at": "2026-10-26T14:50:09.107839+00:00",
+    "summary": "The agent skills I use every day. Works with Claude Code and Codex.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1042,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "037270a5-a524-4877-a13b-6c4921ce7726",
+    "title": "DenisSergeevitch/ex-ussr-kinship-research",
+    "source_url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+    "source": "unknown",
+    "collected_at": "2026-10-26T14:50:10.298838+00:00",
+    "analyzed_at": "2026-10-26T14:50:10.298838+00:00",
+    "summary": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 692,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "f3d1fbc4-3023-4552-9540-a82d4bf95788",
+    "title": "wangrongding/tv-fresh",
+    "source_url": "https://github.com/wangrongding/tv-fresh",
+    "source": "unknown",
+    "collected_at": "2026-10-26T14:50:11.492205+00:00",
+    "analyzed_at": "2026-10-26T14:50:11.492205+00:00",
+    "summary": "tv-fresh 电视焕新：小米电视(MIUI TV)去广告/清理预装/换桌面/装代理与影视仓的 Agent Skill——免root可逆，含固件逆向实录与一键脚本",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 476,
+      "score": null,
+      "author": null,
+      "language": "Shell"
+    }
+  },
+  {
+    "id": "0ed3a3b6-0b16-4394-97e8-8de98fd63abd",
+    "title": "andyhuo520/digital-human-koubo",
+    "source_url": "https://github.com/andyhuo520/digital-human-koubo",
+    "source": "unknown",
+    "collected_at": "2026-10-26T14:50:12.702567+00:00",
+    "analyzed_at": "2026-10-26T14:50:12.702567+00:00",
+    "summary": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 449,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "94c5ac58-aed2-40a1-aaa7-6bd0b7ebf310",
+    "title": "MemTensor/MemT-1.0",
+    "source_url": "https://github.com/MemTensor/MemT-1.0",
+    "source": "unknown",
+    "collected_at": "2026-10-26T14:50:13.901165+00:00",
+    "analyzed_at": "2026-10-26T14:50:13.901165+00:00",
+    "summary": "Official repository for MemT-1.0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 412,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "239b9f5e-153e-4b43-8b6a-eafbd0f2af0f",
+    "title": "AI Beneficiaries: Investing in Second-Order Effects – Update: 100x AI Cultures [pdf]",
+    "source_url": "https://www.morganstanley.com/content/dam/im/assets/publication/thought-leadership/article/article_100xaicultures_ltr.pdf",
+    "source": "hacker_news",
+    "collected_at": "2026-10-26T14:50:15.091799+00:00",
+    "analyzed_at": "2026-10-26T14:50:15.091799+00:00",
+    "summary": "Article URL: https://www.morganstanley.com/content/dam/im/assets/publication/thought-leadership/article/article_100xaicultures_ltr.pdf\nComments URL: https://news.ycombinator.com/item?id=50244372\nPoint",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "bluepeter",
+      "language": null
+    }
+  },
+  {
+    "id": "795f5f54-65dd-4ee2-b193-8975d351de09",
+    "title": "Anthropic Claude Models Contain AI Text Watermarks: What Does This Mean for You?",
+    "source_url": "https://www.oreilly.com/radar/the-latest-anthropic-claude-models-contain-ai-text-watermarks-what-does-this-mean-for-you/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-26T14:50:16.304084+00:00",
+    "analyzed_at": "2026-10-26T14:50:16.304084+00:00",
+    "summary": "Article URL: https://www.oreilly.com/radar/the-latest-anthropic-claude-models-contain-ai-text-watermarks-what-does-this-mean-for-you/\nComments URL: https://news.ycombinator.com/item?id=50244324\nPoints",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "gmays",
+      "language": null
+    }
+  },
+  {
+    "id": "549f9104-81c4-4d89-8f5c-29bc26b70f0e",
+    "title": "NYPD in negotiations to use new AI-driven technology to track phones",
+    "source_url": "https://www.nydailynews.com/2026/10/24/nypd-in-negotiations-to-use-new-ai-driven-technology-will-make-it-easier-to-track-cell-phones/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-26T14:50:17.492455+00:00",
+    "analyzed_at": "2026-10-26T14:50:17.492455+00:00",
+    "summary": "Article URL: https://www.nydailynews.com/2026/10/24/nypd-in-negotiations-to-use-new-ai-driven-technology-will-make-it-easier-to-track-cell-phones/\nComments URL: https://news.ycombinator.com/item?id=50",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "slowin",
+      "language": null
+    }
+  },
+  {
+    "id": "edbdc4cc-a7bc-4ed6-b651-12220fb495df",
+    "title": "R/open source just banned AI, non-English speakers, and more",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+    "source": "hacker_news",
+    "collected_at": "2026-10-26T14:50:18.684815+00:00",
+    "analyzed_at": "2026-10-26T14:50:18.684815+00:00",
+    "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban\nComments URL: https://news.ycombinator.com/item?id=50244212\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "isaacfrond",
+      "language": null
+    }
+  },
+  {
+    "id": "b9033fad-7412-47eb-9489-cde03123d478",
+    "title": "Engineering Evolved. The Rest Didn't. That's Why Your AI ROI Sucks",
+    "source_url": "https://kerno.io/blog/why-your-ai-roi-sucks/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-26T14:50:19.873580+00:00",
+    "analyzed_at": "2026-10-26T14:50:19.873580+00:00",
+    "summary": "Article URL: https://kerno.io/blog/why-your-ai-roi-sucks/\nComments URL: https://news.ycombinator.com/item?id=50244143\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "karimtr",
+      "language": null
+    }
+  },
+  {
+    "id": "304f20cb-4a20-49af-98e0-ae0e081250ea",
+    "title": "Show HN: ToiletBench - Can AI find the toilet without a sign?",
+    "source_url": "https://behu-kea.github.io/toilet-bench/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-26T14:50:21.065483+00:00",
+    "analyzed_at": "2026-10-26T14:50:21.065483+00:00",
+    "summary": "Imagine you are at a restaurant for the first time. You need to go to the toilet but don't see any signs for the toilet. You still have an intuition for where to go. This intuition has been built up o",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "RedGreenBlack",
+      "language": null
+    }
+  },
+  {
+    "id": "04d89584-e909-4d1b-a09d-0b1b83fce2f4",
+    "title": "Filing My Taxes for Free with AI",
+    "source_url": "https://www.robw.fyi/2026/10/19/filing-my-taxes-for-free-with-ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-26T14:50:22.263780+00:00",
+    "analyzed_at": "2026-10-26T14:50:22.263780+00:00",
+    "summary": "Article URL: https://www.robw.fyi/2026/10/19/filing-my-taxes-for-free-with-ai/\nComments URL: https://news.ycombinator.com/item?id=50244056\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "someguy101010",
+      "language": null
+    }
+  },
+  {
+    "id": "9d396eb5-d8b0-40dc-bf8c-26b167f1b0b4",
+    "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+    "source_url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-26T14:50:23.451917+00:00",
+    "analyzed_at": "2026-10-26T14:50:23.451917+00:00",
+    "summary": "Article URL: https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/\nComments URL: https://news.ycombinator.com/item?id=50243883\nPoints: 1\n# C",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Brajeshwar",
+      "language": null
+    }
+  },
+  {
+    "id": "1980d557-e327-4cff-b873-cedc091eb8cd",
+    "title": "Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle",
+    "source_url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx-3090-ti-matrix-math-up-to-80-percent",
+    "source": "hacker_news",
+    "collected_at": "2026-10-26T14:50:24.663919+00:00",
+    "analyzed_at": "2026-10-26T14:50:24.663919+00:00",
+    "summary": "Article URL: https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Brajeshwar",
+      "language": null
+    }
+  },
+  {
+    "id": "b1397a58-ebd0-4e3f-a926-18bbc5fb7ac9",
+    "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+    "source_url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-26T14:50:25.862649+00:00",
+    "analyzed_at": "2026-10-26T14:50:25.862649+00:00",
+    "summary": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/\nComments URL: https://news.ycombinator.com/item?id=50243759\nPoints: 5\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "marginalia_nu",
+      "language": null
+    }
+  },
+  {
+    "id": "99ee5493-aee0-459a-a296-9a5d8ecd68a3",
+    "title": "Agentic AI has overtaken generative AI on S&P 500 earnings calls: 5,305 calls",
+    "source_url": "https://equibles.com/research/agentic-ai-has-overtaken-generative-ai-on-earnings-calls-evidence-from-5-305-s-p-500-calls",
+    "source": "hacker_news",
+    "collected_at": "2026-10-26T14:50:27.054647+00:00",
+    "analyzed_at": "2026-10-26T14:50:27.054647+00:00",
+    "summary": "Article URL: https://equibles.com/research/agentic-ai-has-overtaken-generative-ai-on-earnings-calls-evidence-from-5-305-s-p-500-calls\nComments URL: https://news.ycombinator.com/item?id=50243753\nPoints",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "daniel3303",
+      "language": null
+    }
+  },
+  {
+    "id": "fcd3bab3-f100-4686-a830-97980b8bf8bf",
+    "title": "Connect your AI agents to your database without them having to write SQL",
+    "source_url": "https://github.com/claix-dev/claix-for-devs",
+    "source": "hacker_news",
+    "collected_at": "2026-10-26T14:50:28.273954+00:00",
+    "analyzed_at": "2026-10-26T14:50:28.273954+00:00",
+    "summary": "Article URL: https://github.com/claix-dev/claix-for-devs\nComments URL: https://news.ycombinator.com/item?id=50243630\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "gael_dev",
+      "language": null
+    }
+  },
+  {
+    "id": "d2f817d3-bab8-489e-aa02-49e7ae1462eb",
+    "title": "Pusaka Intelligence – AI equity research on US large caps",
+    "source_url": "https://pusakaintelligence.com/en/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-26T14:50:29.468331+00:00",
+    "analyzed_at": "2026-10-26T14:50:29.468331+00:00",
+    "summary": "Article URL: https://pusakaintelligence.com/en/\nComments URL: https://news.ycombinator.com/item?id=50243603\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "David_Gunawan",
+      "language": null
+    }
+  }
+]
