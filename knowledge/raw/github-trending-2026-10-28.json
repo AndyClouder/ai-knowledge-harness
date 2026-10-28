@@ -1,0 +1,66 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-10-28T14:49:45.365109+00:00",
+  "items": [
+    {
+      "name": "anhao/ai-pose-gallery-zh",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "summary": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "stars": 1583,
+      "language": "HTML",
+      "topics": [
+        "ai-art",
+        "chinese",
+        "cloudflare-pages",
+        "gallery",
+        "i18n",
+        "pose",
+        "reference-images",
+        "static-site"
+      ]
+    },
+    {
+      "name": "CopilotKit/OpenDuet",
+      "url": "https://github.com/CopilotKit/OpenDuet",
+      "summary": "An Open Source template for a proactive AI agent that gets your work done and keeps you in the loop.",
+      "stars": 1069,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "Motionsites-AI/claude-skill",
+      "url": "https://github.com/Motionsites-AI/claude-skill",
+      "summary": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+      "stars": 774,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "blakeandersonw/ai-app-playbook",
+      "url": "https://github.com/blakeandersonw/ai-app-playbook",
+      "summary": "How to build useful, profitable apps in 2026. Clone it and point your coding agent at AGENTS.md.",
+      "stars": 553,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "stormydayy/halo-overlay",
+      "url": "https://github.com/stormydayy/halo-overlay",
+      "summary": "Lightweight opensource AI overlay for live conversations. Hears, sees, suggests.",
+      "stars": 516,
+      "language": "Python",
+      "topics": [
+        "ai-overlay",
+        "cheating-daddy",
+        "interview-cheating-tool",
+        "interview-helper",
+        "interview-overlay",
+        "live-conversation",
+        "meetings-cheating",
+        "meetings-overlay",
+        "zoom-meetings"
+      ]
+    }
+  ]
+}

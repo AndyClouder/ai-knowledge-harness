@@ -1,0 +1,422 @@
+[
+  {
+    "id": "725317da-db10-494d-bba8-434e0959e039",
+    "title": "anhao/ai-pose-gallery-zh",
+    "source_url": "https://github.com/anhao/ai-pose-gallery-zh",
+    "source": "unknown",
+    "collected_at": "2026-10-28T14:49:53.020646+00:00",
+    "analyzed_at": "2026-10-28T14:49:53.020646+00:00",
+    "summary": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1583,
+      "score": null,
+      "author": null,
+      "language": "HTML"
+    }
+  },
+  {
+    "id": "4e44a4ec-9966-4ea0-bddb-6d18d4eb0d0a",
+    "title": "CopilotKit/OpenDuet",
+    "source_url": "https://github.com/CopilotKit/OpenDuet",
+    "source": "unknown",
+    "collected_at": "2026-10-28T14:49:54.216585+00:00",
+    "analyzed_at": "2026-10-28T14:49:54.216585+00:00",
+    "summary": "An Open Source template for a proactive AI agent that gets your work done and keeps you in the loop.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1069,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "2249276a-b741-4e01-9d29-5a85396b2f3f",
+    "title": "Motionsites-AI/claude-skill",
+    "source_url": "https://github.com/Motionsites-AI/claude-skill",
+    "source": "unknown",
+    "collected_at": "2026-10-28T14:49:55.412696+00:00",
+    "analyzed_at": "2026-10-28T14:49:55.412696+00:00",
+    "summary": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 774,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "6f072879-3aaf-4b75-aa18-3f511f7d8743",
+    "title": "blakeandersonw/ai-app-playbook",
+    "source_url": "https://github.com/blakeandersonw/ai-app-playbook",
+    "source": "unknown",
+    "collected_at": "2026-10-28T14:49:56.609082+00:00",
+    "analyzed_at": "2026-10-28T14:49:56.609082+00:00",
+    "summary": "How to build useful, profitable apps in 2026. Clone it and point your coding agent at AGENTS.md.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 553,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "a2611262-9af9-4382-9219-4f43f26a8b40",
+    "title": "stormydayy/halo-overlay",
+    "source_url": "https://github.com/stormydayy/halo-overlay",
+    "source": "unknown",
+    "collected_at": "2026-10-28T14:49:57.804338+00:00",
+    "analyzed_at": "2026-10-28T14:49:57.804338+00:00",
+    "summary": "Lightweight opensource AI overlay for live conversations. Hears, sees, suggests.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 516,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "85679544-77cc-4a4f-a6a0-c1d426dc3f14",
+    "title": "The AI cost of JavaScript frameworks",
+    "source_url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-28T14:49:59.001597+00:00",
+    "analyzed_at": "2026-10-28T14:49:59.001597+00:00",
+    "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/\nComments URL: https://news.ycombinator.com/item?id=50274565\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "notfried",
+      "language": null
+    }
+  },
+  {
+    "id": "63fc5645-b4c5-47ef-a8b2-7ed4609cad85",
+    "title": "GPU vs. CPU. How to Cut Live Streaming and AI Processing Costs?",
+    "source_url": "https://www.red5.net/blog/gpu-vs-cpu-how-to-cut-live-streaming-ai-processing-costs/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-28T14:50:00.198695+00:00",
+    "analyzed_at": "2026-10-28T14:50:00.198695+00:00",
+    "summary": "Article URL: https://www.red5.net/blog/gpu-vs-cpu-how-to-cut-live-streaming-ai-processing-costs/\nComments URL: https://news.ycombinator.com/item?id=50274492\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mondainx",
+      "language": null
+    }
+  },
+  {
+    "id": "cc151418-516d-489c-b266-d757e6312dc8",
+    "title": "Ask HN: MCP vs. AI integrated in your software",
+    "source_url": "https://news.ycombinator.com/item?id=50274354",
+    "source": "hacker_news",
+    "collected_at": "2026-10-28T14:50:01.395732+00:00",
+    "analyzed_at": "2026-10-28T14:50:01.395732+00:00",
+    "summary": "If you were to choose, would you rather use built-in AI directly into your software or would you go for MCP?\nReally curious of your perspectives and pro/cons you see for each.\n\nComments URL: https://n",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "lorinab",
+      "language": null
+    }
+  },
+  {
+    "id": "89398541-b33b-4f2c-a970-76f424add9f4",
+    "title": "Jeanette Winterson on AI and the future of humanity",
+    "source_url": "https://www.theguardian.com/books/2026/oct/28/no-inevitable-dystopia-jeanette-winterson-ai-future-of-humanity",
+    "source": "hacker_news",
+    "collected_at": "2026-10-28T14:50:02.605241+00:00",
+    "analyzed_at": "2026-10-28T14:50:02.605241+00:00",
+    "summary": "Article URL: https://www.theguardian.com/books/2026/oct/28/no-inevitable-dystopia-jeanette-winterson-ai-future-of-humanity\nComments URL: https://news.ycombinator.com/item?id=50274346\nPoints: 1\n# Comme",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Archelaos",
+      "language": null
+    }
+  },
+  {
+    "id": "1e17db41-64b4-4952-926a-42c66bc762ce",
+    "title": "Scaling AI in Legal: Building Uber's Redlining Agent",
+    "source_url": "https://www.uber.com/us/en/blog/building-ubers-redlining-agent/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-28T14:50:03.815160+00:00",
+    "analyzed_at": "2026-10-28T14:50:03.815160+00:00",
+    "summary": "Article URL: https://www.uber.com/us/en/blog/building-ubers-redlining-agent/\nComments URL: https://news.ycombinator.com/item?id=50274291\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "zerop",
+      "language": null
+    }
+  },
+  {
+    "id": "d223cfe0-f568-4da0-9c52-07300d1bdbe1",
+    "title": "New end to end construction management software with AI first approach",
+    "source_url": "https://boqmanager.com",
+    "source": "hacker_news",
+    "collected_at": "2026-10-28T14:50:05.013527+00:00",
+    "analyzed_at": "2026-10-28T14:50:05.013527+00:00",
+    "summary": "Article URL: https://boqmanager.com\nComments URL: https://news.ycombinator.com/item?id=50274261\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mamledesaiharsh",
+      "language": null
+    }
+  },
+  {
+    "id": "9a2d2c90-91fe-444a-98ff-136fa69efee7",
+    "title": "AI shopping assistants confuse fashion subcultures: a small test",
+    "source_url": "https://github.com/ascanioUnderIndex/underindex-api/blob/main/eval/assistants-2026-10.md",
+    "source": "hacker_news",
+    "collected_at": "2026-10-28T14:50:06.212808+00:00",
+    "analyzed_at": "2026-10-28T14:50:06.212808+00:00",
+    "summary": "Article URL: https://github.com/ascanioUnderIndex/underindex-api/blob/main/eval/assistants-2026-10.md\nComments URL: https://news.ycombinator.com/item?id=50274233\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "huskyunderindex",
+      "language": null
+    }
+  },
+  {
+    "id": "fb443f7c-5d94-40ee-8e84-c776f28b51d2",
+    "title": "India's outsourcers defy AI threat",
+    "source_url": "https://www.ft.com/content/42dc1a1c-2454-4eaf-bafe-ded5ad7855e4",
+    "source": "hacker_news",
+    "collected_at": "2026-10-28T14:50:07.410020+00:00",
+    "analyzed_at": "2026-10-28T14:50:07.410020+00:00",
+    "summary": "Article URL: https://www.ft.com/content/42dc1a1c-2454-4eaf-bafe-ded5ad7855e4\nComments URL: https://news.ycombinator.com/item?id=50274215\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "alephnerd",
+      "language": null
+    }
+  },
+  {
+    "id": "1d3ea209-c7a2-4faf-88db-6b54326c9f5a",
+    "title": "Show HN: AI Resume Reviewer Built with Next.js",
+    "source_url": "https://ai-resume-reviewer-nine-drab.vercel.app",
+    "source": "hacker_news",
+    "collected_at": "2026-10-28T14:50:08.605218+00:00",
+    "analyzed_at": "2026-10-28T14:50:08.605218+00:00",
+    "summary": "Article URL: https://ai-resume-reviewer-nine-drab.vercel.app\nComments URL: https://news.ycombinator.com/item?id=50274082\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "shivam--1",
+      "language": null
+    }
+  },
+  {
+    "id": "2dac6587-7732-43e6-819e-60f9e7042f79",
+    "title": "Nevada unions, politicians caught between AI job creation and destruction",
+    "source_url": "https://www.reuters.com/investigates/special-report/usa-data-centers-unions/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-28T14:50:09.799613+00:00",
+    "analyzed_at": "2026-10-28T14:50:09.799613+00:00",
+    "summary": "Article URL: https://www.reuters.com/investigates/special-report/usa-data-centers-unions/\nComments URL: https://news.ycombinator.com/item?id=50273997\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "tartoran",
+      "language": null
+    }
+  },
+  {
+    "id": "cdfd8e1e-caa2-40f2-949d-daf5402d6760",
+    "title": "Cisco open-sources Project Quarry, a detection language for AI agent behavior",
+    "source_url": "https://blogs.cisco.com/ai/project-quarry-agent-security-detections",
+    "source": "hacker_news",
+    "collected_at": "2026-10-28T14:50:10.995125+00:00",
+    "analyzed_at": "2026-10-28T14:50:10.995125+00:00",
+    "summary": "Article URL: https://blogs.cisco.com/ai/project-quarry-agent-security-detections\nComments URL: https://news.ycombinator.com/item?id=50273987\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "wondersky",
+      "language": null
+    }
+  },
+  {
+    "id": "205c6af9-5fa8-4e25-92a6-60479a5fbdea",
+    "title": "Access Multiple AI Models in Your Python Apps Using OpenRouter",
+    "source_url": "https://www.kdnuggets.com/access-multiple-ai-models-in-your-python-apps-using-openrouter",
+    "source": "hacker_news",
+    "collected_at": "2026-10-28T14:50:12.209913+00:00",
+    "analyzed_at": "2026-10-28T14:50:12.209913+00:00",
+    "summary": "Article URL: https://www.kdnuggets.com/access-multiple-ai-models-in-your-python-apps-using-openrouter\nComments URL: https://news.ycombinator.com/item?id=50273968\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "eigenBasis",
+      "language": null
+    }
+  },
+  {
+    "id": "b70e8483-7557-4257-972c-f6600b8026c3",
+    "title": "Europe's AI future taking shape",
+    "source_url": "https://nebul.com/nebul-expands-to-belgium-with-more-than-1000-nvidia-blackwell-ultra-gpus-in-gb300-nvl72-rack-scale-systems/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-28T14:50:13.408721+00:00",
+    "analyzed_at": "2026-10-28T14:50:13.408721+00:00",
+    "summary": "Article URL: https://nebul.com/nebul-expands-to-belgium-with-more-than-1000-nvidia-blackwell-ultra-gpus-in-gb300-nvl72-rack-scale-systems/\nComments URL: https://news.ycombinator.com/item?id=50273938\nP",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "tbsertkaya",
+      "language": null
+    }
+  },
+  {
+    "id": "a7647b53-b0ed-4485-b25f-14239ff7ac54",
+    "title": "3 out of 4 responses to UK smoke-free generation consultation were AI-generated",
+    "source_url": "https://bmjgroup.com/3-out-of-4-responses-to-uk-smoke-free-generation-consultation-were-ai-bot-generated/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-28T14:50:14.604392+00:00",
+    "analyzed_at": "2026-10-28T14:50:14.604392+00:00",
+    "summary": "Article URL: https://bmjgroup.com/3-out-of-4-responses-to-uk-smoke-free-generation-consultation-were-ai-bot-generated/\nComments URL: https://news.ycombinator.com/item?id=50273891\nPoints: 3\n# Comments:",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "DeepLogin",
+      "language": null
+    }
+  },
+  {
+    "id": "89374968-fde2-4669-963a-28d9fa02b6c5",
+    "title": "Comer Investigates Delaware Initiative to Create AI Companies",
+    "source_url": "https://oversight.house.gov/release/comer-investigates-potential-for-harm-lack-of-transparency-in-delaware-initiative-to-create-new-artificial-intelligence-companies/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-28T14:50:15.802620+00:00",
+    "analyzed_at": "2026-10-28T14:50:15.802620+00:00",
+    "summary": "Article URL: https://oversight.house.gov/release/comer-investigates-potential-for-harm-lack-of-transparency-in-delaware-initiative-to-create-new-artificial-intelligence-companies/\nComments URL: https:",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jkestner",
+      "language": null
+    }
+  }
+]

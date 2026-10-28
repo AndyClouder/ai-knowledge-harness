@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-10-28T14:49:52.092230+00:00",
+  "items": [
+    {
+      "name": "The AI cost of JavaScript frameworks",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/\nComments URL: https://news.ycombinator.com/item?id=50274565\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "notfried",
+      "published": "Wed, 28 Oct 2026 14:46:53 +0000"
+    },
+    {
+      "name": "GPU vs. CPU. How to Cut Live Streaming and AI Processing Costs?",
+      "url": "https://www.red5.net/blog/gpu-vs-cpu-how-to-cut-live-streaming-ai-processing-costs/",
+      "summary": "Article URL: https://www.red5.net/blog/gpu-vs-cpu-how-to-cut-live-streaming-ai-processing-costs/\nComments URL: https://news.ycombinator.com/item?id=50274492\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mondainx",
+      "published": "Wed, 28 Oct 2026 14:43:25 +0000"
+    },
+    {
+      "name": "Ask HN: MCP vs. AI integrated in your software",
+      "url": "https://news.ycombinator.com/item?id=50274354",
+      "summary": "If you were to choose, would you rather use built-in AI directly into your software or would you go for MCP?\nReally curious of your perspectives and pro/cons you see for each.\n\nComments URL: https://n",
+      "source": "hacker_news",
+      "score": null,
+      "author": "lorinab",
+      "published": "Wed, 28 Oct 2026 14:35:11 +0000"
+    },
+    {
+      "name": "Jeanette Winterson on AI and the future of humanity",
+      "url": "https://www.theguardian.com/books/2026/oct/28/no-inevitable-dystopia-jeanette-winterson-ai-future-of-humanity",
+      "summary": "Article URL: https://www.theguardian.com/books/2026/oct/28/no-inevitable-dystopia-jeanette-winterson-ai-future-of-humanity\nComments URL: https://news.ycombinator.com/item?id=50274346\nPoints: 1\n# Comme",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Archelaos",
+      "published": "Wed, 28 Oct 2026 14:34:48 +0000"
+    },
+    {
+      "name": "Scaling AI in Legal: Building Uber's Redlining Agent",
+      "url": "https://www.uber.com/us/en/blog/building-ubers-redlining-agent/",
+      "summary": "Article URL: https://www.uber.com/us/en/blog/building-ubers-redlining-agent/\nComments URL: https://news.ycombinator.com/item?id=50274291\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "zerop",
+      "published": "Wed, 28 Oct 2026 14:32:03 +0000"
+    },
+    {
+      "name": "New end to end construction management software with AI first approach",
+      "url": "https://boqmanager.com",
+      "summary": "Article URL: https://boqmanager.com\nComments URL: https://news.ycombinator.com/item?id=50274261\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mamledesaiharsh",
+      "published": "Wed, 28 Oct 2026 14:30:54 +0000"
+    },
+    {
+      "name": "AI shopping assistants confuse fashion subcultures: a small test",
+      "url": "https://github.com/ascanioUnderIndex/underindex-api/blob/main/eval/assistants-2026-10.md",
+      "summary": "Article URL: https://github.com/ascanioUnderIndex/underindex-api/blob/main/eval/assistants-2026-10.md\nComments URL: https://news.ycombinator.com/item?id=50274233\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "huskyunderindex",
+      "published": "Wed, 28 Oct 2026 14:29:30 +0000"
+    },
+    {
+      "name": "India's outsourcers defy AI threat",
+      "url": "https://www.ft.com/content/42dc1a1c-2454-4eaf-bafe-ded5ad7855e4",
+      "summary": "Article URL: https://www.ft.com/content/42dc1a1c-2454-4eaf-bafe-ded5ad7855e4\nComments URL: https://news.ycombinator.com/item?id=50274215\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "alephnerd",
+      "published": "Wed, 28 Oct 2026 14:28:58 +0000"
+    },
+    {
+      "name": "Show HN: AI Resume Reviewer Built with Next.js",
+      "url": "https://ai-resume-reviewer-nine-drab.vercel.app",
+      "summary": "Article URL: https://ai-resume-reviewer-nine-drab.vercel.app\nComments URL: https://news.ycombinator.com/item?id=50274082\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "shivam--1",
+      "published": "Wed, 28 Oct 2026 14:20:45 +0000"
+    },
+    {
+      "name": "Nevada unions, politicians caught between AI job creation and destruction",
+      "url": "https://www.reuters.com/investigates/special-report/usa-data-centers-unions/",
+      "summary": "Article URL: https://www.reuters.com/investigates/special-report/usa-data-centers-unions/\nComments URL: https://news.ycombinator.com/item?id=50273997\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "tartoran",
+      "published": "Wed, 28 Oct 2026 14:16:09 +0000"
+    },
+    {
+      "name": "Cisco open-sources Project Quarry, a detection language for AI agent behavior",
+      "url": "https://blogs.cisco.com/ai/project-quarry-agent-security-detections",
+      "summary": "Article URL: https://blogs.cisco.com/ai/project-quarry-agent-security-detections\nComments URL: https://news.ycombinator.com/item?id=50273987\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "wondersky",
+      "published": "Wed, 28 Oct 2026 14:15:42 +0000"
+    },
+    {
+      "name": "Access Multiple AI Models in Your Python Apps Using OpenRouter",
+      "url": "https://www.kdnuggets.com/access-multiple-ai-models-in-your-python-apps-using-openrouter",
+      "summary": "Article URL: https://www.kdnuggets.com/access-multiple-ai-models-in-your-python-apps-using-openrouter\nComments URL: https://news.ycombinator.com/item?id=50273968\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "eigenBasis",
+      "published": "Wed, 28 Oct 2026 14:14:42 +0000"
+    },
+    {
+      "name": "Europe's AI future taking shape",
+      "url": "https://nebul.com/nebul-expands-to-belgium-with-more-than-1000-nvidia-blackwell-ultra-gpus-in-gb300-nvl72-rack-scale-systems/",
+      "summary": "Article URL: https://nebul.com/nebul-expands-to-belgium-with-more-than-1000-nvidia-blackwell-ultra-gpus-in-gb300-nvl72-rack-scale-systems/\nComments URL: https://news.ycombinator.com/item?id=50273938\nP",
+      "source": "hacker_news",
+      "score": null,
+      "author": "tbsertkaya",
+      "published": "Wed, 28 Oct 2026 14:13:14 +0000"
+    },
+    {
+      "name": "3 out of 4 responses to UK smoke-free generation consultation were AI-generated",
+      "url": "https://bmjgroup.com/3-out-of-4-responses-to-uk-smoke-free-generation-consultation-were-ai-bot-generated/",
+      "summary": "Article URL: https://bmjgroup.com/3-out-of-4-responses-to-uk-smoke-free-generation-consultation-were-ai-bot-generated/\nComments URL: https://news.ycombinator.com/item?id=50273891\nPoints: 3\n# Comments:",
+      "source": "hacker_news",
+      "score": null,
+      "author": "DeepLogin",
+      "published": "Wed, 28 Oct 2026 14:10:59 +0000"
+    },
+    {
+      "name": "Comer Investigates Delaware Initiative to Create AI Companies",
+      "url": "https://oversight.house.gov/release/comer-investigates-potential-for-harm-lack-of-transparency-in-delaware-initiative-to-create-new-artificial-intelligence-companies/",
+      "summary": "Article URL: https://oversight.house.gov/release/comer-investigates-potential-for-harm-lack-of-transparency-in-delaware-initiative-to-create-new-artificial-intelligence-companies/\nComments URL: https:",
+      "source": "hacker_news",
+      "score": null,
+      "author": "jkestner",
+      "published": "Wed, 28 Oct 2026 14:08:32 +0000"
+    },
+    {
+      "name": "Show HN: Agent-B.V., adversarial tests and on-chain reports for AI agents",
+      "url": "https://agent-bv.pages.dev/app/",
+      "summary": "Article URL: https://agent-bv.pages.dev/app/\nComments URL: https://news.ycombinator.com/item?id=50273755\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "SAW29",
+      "published": "Wed, 28 Oct 2026 14:03:38 +0000"
+    },
+    {
+      "name": "Building My Own Tiny AI Weather Model",
+      "url": "https://tcumulus.dev/blog/building-my-own-tiny-ai-weather-model/",
+      "summary": "Article URL: https://tcumulus.dev/blog/building-my-own-tiny-ai-weather-model/\nComments URL: https://news.ycombinator.com/item?id=50273671\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "tcumulus",
+      "published": "Wed, 28 Oct 2026 13:59:21 +0000"
+    },
+    {
+      "name": "Harvey raised 500M for legal AI, I built the same and open sourced it",
+      "url": "https://github.com/thomasunise/casecite",
+      "summary": "Article URL: https://github.com/thomasunise/casecite\nComments URL: https://news.ycombinator.com/item?id=50273623\nPoints: 67\n# Comments: 26",
+      "source": "hacker_news",
+      "score": null,
+      "author": "zztopisgreat",
+      "published": "Wed, 28 Oct 2026 13:56:21 +0000"
+    },
+    {
+      "name": "Hyperbolic – Open-Access GPU and AI Cloud",
+      "url": "https://www.hyperbolic.ai",
+      "summary": "Article URL: https://www.hyperbolic.ai\nComments URL: https://news.ycombinator.com/item?id=50273479\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "eustoria",
+      "published": "Wed, 28 Oct 2026 13:47:01 +0000"
+    },
+    {
+      "name": "Decompiling Games with AI: Virtueel Zoetermeer",
+      "url": "https://bou.ke/blog/zoetermeer/",
+      "summary": "Article URL: https://bou.ke/blog/zoetermeer/\nComments URL: https://news.ycombinator.com/item?id=50273416\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "bouk",
+      "published": "Wed, 28 Oct 2026 13:43:32 +0000"
+    }
+  ]
+}
