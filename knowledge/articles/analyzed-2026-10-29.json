@@ -1,0 +1,422 @@
+[
+  {
+    "id": "4eb01423-ae70-472a-9666-e226a8fc6877",
+    "title": "daveebbelaar/bama",
+    "source_url": "https://github.com/daveebbelaar/bama",
+    "source": "unknown",
+    "collected_at": "2026-10-29T14:55:59.079673+00:00",
+    "analyzed_at": "2026-10-29T14:55:59.079673+00:00",
+    "summary": "BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 714,
+      "score": null,
+      "author": null,
+      "language": "Swift"
+    }
+  },
+  {
+    "id": "6f81d20b-2f9f-4f6c-801e-d9edbd521b58",
+    "title": "anonnerdfrenzy/survival-llm",
+    "source_url": "https://github.com/anonnerdfrenzy/survival-llm",
+    "source": "unknown",
+    "collected_at": "2026-10-29T14:56:00.275035+00:00",
+    "analyzed_at": "2026-10-29T14:56:00.275035+00:00",
+    "summary": "A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 706,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "ff78b6c3-cb60-4d84-ae7e-9aca7669fb41",
+    "title": "huaxialucaicaizi/ai-startup-skills",
+    "source_url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
+    "source": "unknown",
+    "collected_at": "2026-10-29T14:56:01.473992+00:00",
+    "analyzed_at": "2026-10-29T14:56:01.473992+00:00",
+    "summary": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 523,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "9069729f-6a1e-4df5-8e83-48115762f7ae",
+    "title": "konlu/story-studio",
+    "source_url": "https://github.com/konlu/story-studio",
+    "source": "unknown",
+    "collected_at": "2026-10-29T14:56:02.670103+00:00",
+    "analyzed_at": "2026-10-29T14:56:02.670103+00:00",
+    "summary": "从选题到剪映草稿的一站式 AI 短视频内容创作 Agent Skill",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 473,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "f421e504-4f26-4739-8cc2-021c45401bc7",
+    "title": "hevnsnt/CVEngine",
+    "source_url": "https://github.com/hevnsnt/CVEngine",
+    "source": "unknown",
+    "collected_at": "2026-10-29T14:56:03.861960+00:00",
+    "analyzed_at": "2026-10-29T14:56:03.861960+00:00",
+    "summary": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 454,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "e8fc6dd4-f33e-44c9-b7e9-c400306c5aa0",
+    "title": "zgx949/ai-pojia",
+    "source_url": "https://github.com/zgx949/ai-pojia",
+    "source": "unknown",
+    "collected_at": "2026-10-29T14:56:05.075392+00:00",
+    "analyzed_at": "2026-10-29T14:56:05.075392+00:00",
+    "summary": "破甲CodeX。面向小白的实用 Skills 与插件，可直接破甲CodeX发挥出模型最大的潜能，附完整教程和示例。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 444,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "1fb9dd75-3554-4292-927e-56245cb585b0",
+    "title": "Show HN: Howler, a macOS menu bar AI that burns the chat after reading",
+    "source_url": "https://github.com/HiAriesZhou/Howler",
+    "source": "hacker_news",
+    "collected_at": "2026-10-29T14:56:06.291530+00:00",
+    "analyzed_at": "2026-10-29T14:56:06.291530+00:00",
+    "summary": "Article URL: https://github.com/HiAriesZhou/Howler\nComments URL: https://news.ycombinator.com/item?id=50290018\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "AriesIMio",
+      "language": null
+    }
+  },
+  {
+    "id": "b44fe1dd-f442-4ea0-9d90-9f5cad29a151",
+    "title": "Rethinking the tech writing portfolio in the AI age",
+    "source_url": "https://passo.uno/tech-writing-portfolio-howto/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-29T14:56:07.486566+00:00",
+    "analyzed_at": "2026-10-29T14:56:07.486566+00:00",
+    "summary": "Article URL: https://passo.uno/tech-writing-portfolio-howto/\nComments URL: https://news.ycombinator.com/item?id=50289975\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "theletterf",
+      "language": null
+    }
+  },
+  {
+    "id": "65b30a07-e4e0-41ba-b767-bf7e2f3f3fec",
+    "title": "Show HN: Apargon – Ask AI for any app and run it safely with a double-click",
+    "source_url": "https://github.com/Orcaryn/Apargon",
+    "source": "hacker_news",
+    "collected_at": "2026-10-29T14:56:08.684074+00:00",
+    "analyzed_at": "2026-10-29T14:56:08.684074+00:00",
+    "summary": "Hi HN, I think I solved personal software.I have dozens of personal apps. One queues my social posts, one scores Reddit threads for me, one is the email client for my domains, others solve small and b",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "orcaryn",
+      "language": null
+    }
+  },
+  {
+    "id": "af0e121a-ea41-4adc-8a77-74f4993e91ef",
+    "title": "FusionAuth 1.70: least privilege for your customers' AI agents",
+    "source_url": "https://fusionauth.io/blog/announcing-fusionauth-1-70",
+    "source": "hacker_news",
+    "collected_at": "2026-10-29T14:56:09.885577+00:00",
+    "analyzed_at": "2026-10-29T14:56:09.885577+00:00",
+    "summary": "Article URL: https://fusionauth.io/blog/announcing-fusionauth-1-70\nComments URL: https://news.ycombinator.com/item?id=50289960\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mooreds",
+      "language": null
+    }
+  },
+  {
+    "id": "6834bd07-691a-4dd7-8f30-6ca2d2cb17fe",
+    "title": "Show HN: Kin – Make your AI apps answer to you (allow, ask or block each action)",
+    "source_url": "https://kinlab.ai",
+    "source": "hacker_news",
+    "collected_at": "2026-10-29T14:56:11.088233+00:00",
+    "analyzed_at": "2026-10-29T14:56:11.088233+00:00",
+    "summary": "Article URL: https://kinlab.ai\nComments URL: https://news.ycombinator.com/item?id=50289830\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "troyjr4103",
+      "language": null
+    }
+  },
+  {
+    "id": "bc8695c7-3f63-4ee8-b0d0-b06d3873eb13",
+    "title": "A JSON Schema is not an AI governance layer",
+    "source_url": "https://stackoverflow.blog/2026/10/28/a-json-schema-is-not-an-ai-governance-layer/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-29T14:56:12.291495+00:00",
+    "analyzed_at": "2026-10-29T14:56:12.291495+00:00",
+    "summary": "Article URL: https://stackoverflow.blog/2026/10/28/a-json-schema-is-not-an-ai-governance-layer/\nComments URL: https://news.ycombinator.com/item?id=50289798\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "fabsalvadori",
+      "language": null
+    }
+  },
+  {
+    "id": "b5c62755-867b-4f19-a57a-87419c464ab6",
+    "title": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+    "source_url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-29T14:56:13.498583+00:00",
+    "analyzed_at": "2026-10-29T14:56:13.498583+00:00",
+    "summary": "Article URL: https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/\nComments URL: https://news.ycombinator.com/item?id=50289692\nPoints: 8\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Frieren",
+      "language": null
+    }
+  },
+  {
+    "id": "d708e3f2-0785-4afa-8b7e-05bbdd6f68cd",
+    "title": "Show HN: SpaceApp – Run several AI coding CLIs side by side, self-hosted",
+    "source_url": "https://github.com/oll4com/spaceapp",
+    "source": "hacker_news",
+    "collected_at": "2026-10-29T14:56:14.705642+00:00",
+    "analyzed_at": "2026-10-29T14:56:14.705642+00:00",
+    "summary": "Article URL: https://github.com/oll4com/spaceapp\nComments URL: https://news.ycombinator.com/item?id=50289394\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ntheogr",
+      "language": null
+    }
+  },
+  {
+    "id": "eea5c9ab-c2c0-4488-8f22-dc37135bfbc6",
+    "title": "Show HN: ROAL – AI phone host for restaurants that builds itself from your site",
+    "source_url": "https://tryroal.com",
+    "source": "hacker_news",
+    "collected_at": "2026-10-29T14:56:15.900599+00:00",
+    "analyzed_at": "2026-10-29T14:56:15.900599+00:00",
+    "summary": "Article URL: https://tryroal.com\nComments URL: https://news.ycombinator.com/item?id=50289318\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "vamsi920",
+      "language": null
+    }
+  },
+  {
+    "id": "f3d23374-7bef-4102-9c24-2459128e5b09",
+    "title": "You can just ask AI to do things",
+    "source_url": "https://www.seangoedecke.com/you-can-just-ask-ai-to-do-things/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-29T14:56:17.095216+00:00",
+    "analyzed_at": "2026-10-29T14:56:17.095216+00:00",
+    "summary": "Article URL: https://www.seangoedecke.com/you-can-just-ask-ai-to-do-things/\nComments URL: https://news.ycombinator.com/item?id=50289268\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Brajeshwar",
+      "language": null
+    }
+  },
+  {
+    "id": "43c2e379-16be-4e35-b3f5-70cc5e0add47",
+    "title": "Language and Intelligence: What Can/Cannot AI Do with Natural Language? (2022)",
+    "source_url": "https://arxiv.org/abs/2209.12829",
+    "source": "hacker_news",
+    "collected_at": "2026-10-29T14:56:18.300012+00:00",
+    "analyzed_at": "2026-10-29T14:56:18.300012+00:00",
+    "summary": "Article URL: https://arxiv.org/abs/2209.12829\nComments URL: https://news.ycombinator.com/item?id=50289256\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "danielam",
+      "language": null
+    }
+  },
+  {
+    "id": "fd693b2e-b7d3-426b-a610-7d92462347a1",
+    "title": "The AI-Augmented Developer: A Process for Writing Production Code with Agents",
+    "source_url": "https://cheikhhseck.medium.com/the-ai-augmented-developer-a-process-for-writing-production-code-with-agents-aea7c2133394",
+    "source": "hacker_news",
+    "collected_at": "2026-10-29T14:56:19.504857+00:00",
+    "analyzed_at": "2026-10-29T14:56:19.504857+00:00",
+    "summary": "Article URL: https://cheikhhseck.medium.com/the-ai-augmented-developer-a-process-for-writing-production-code-with-agents-aea7c2133394\nComments URL: https://news.ycombinator.com/item?id=50289233\nPoints",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "cheikhdev",
+      "language": null
+    }
+  },
+  {
+    "id": "e0daa2a7-a785-402d-8b2f-7f3f2bc739ab",
+    "title": "Most AI pipelines are graphs. Graph engineering treats them that way",
+    "source_url": "https://getotium.ai/blog/graph-engineering",
+    "source": "hacker_news",
+    "collected_at": "2026-10-29T14:56:20.706210+00:00",
+    "analyzed_at": "2026-10-29T14:56:20.706210+00:00",
+    "summary": "Article URL: https://getotium.ai/blog/graph-engineering\nComments URL: https://news.ycombinator.com/item?id=50289179\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "cmm324",
+      "language": null
+    }
+  },
+  {
+    "id": "ab9831be-f438-440a-8019-71ce6cd1678b",
+    "title": "AI Black Friday: a tracker of deals on AI tools",
+    "source_url": "https://aiblackfriday.net/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-29T14:56:21.929228+00:00",
+    "analyzed_at": "2026-10-29T14:56:21.929228+00:00",
+    "summary": "Article URL: https://aiblackfriday.net/\nComments URL: https://news.ycombinator.com/item?id=50289177\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "gregzeng95",
+      "language": null
+    }
+  }
+]

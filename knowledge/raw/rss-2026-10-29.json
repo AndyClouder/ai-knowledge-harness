@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-10-29T14:55:58.187212+00:00",
+  "items": [
+    {
+      "name": "Show HN: Howler, a macOS menu bar AI that burns the chat after reading",
+      "url": "https://github.com/HiAriesZhou/Howler",
+      "summary": "Article URL: https://github.com/HiAriesZhou/Howler\nComments URL: https://news.ycombinator.com/item?id=50290018\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "AriesIMio",
+      "published": "Thu, 29 Oct 2026 14:49:17 +0000"
+    },
+    {
+      "name": "Rethinking the tech writing portfolio in the AI age",
+      "url": "https://passo.uno/tech-writing-portfolio-howto/",
+      "summary": "Article URL: https://passo.uno/tech-writing-portfolio-howto/\nComments URL: https://news.ycombinator.com/item?id=50289975\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "theletterf",
+      "published": "Thu, 29 Oct 2026 14:46:45 +0000"
+    },
+    {
+      "name": "Show HN: Apargon – Ask AI for any app and run it safely with a double-click",
+      "url": "https://github.com/Orcaryn/Apargon",
+      "summary": "Hi HN, I think I solved personal software.I have dozens of personal apps. One queues my social posts, one scores Reddit threads for me, one is the email client for my domains, others solve small and b",
+      "source": "hacker_news",
+      "score": null,
+      "author": "orcaryn",
+      "published": "Thu, 29 Oct 2026 14:45:58 +0000"
+    },
+    {
+      "name": "FusionAuth 1.70: least privilege for your customers' AI agents",
+      "url": "https://fusionauth.io/blog/announcing-fusionauth-1-70",
+      "summary": "Article URL: https://fusionauth.io/blog/announcing-fusionauth-1-70\nComments URL: https://news.ycombinator.com/item?id=50289960\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mooreds",
+      "published": "Thu, 29 Oct 2026 14:45:50 +0000"
+    },
+    {
+      "name": "Show HN: Kin – Make your AI apps answer to you (allow, ask or block each action)",
+      "url": "https://kinlab.ai",
+      "summary": "Article URL: https://kinlab.ai\nComments URL: https://news.ycombinator.com/item?id=50289830\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "troyjr4103",
+      "published": "Thu, 29 Oct 2026 14:38:02 +0000"
+    },
+    {
+      "name": "A JSON Schema is not an AI governance layer",
+      "url": "https://stackoverflow.blog/2026/10/28/a-json-schema-is-not-an-ai-governance-layer/",
+      "summary": "Article URL: https://stackoverflow.blog/2026/10/28/a-json-schema-is-not-an-ai-governance-layer/\nComments URL: https://news.ycombinator.com/item?id=50289798\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "fabsalvadori",
+      "published": "Thu, 29 Oct 2026 14:35:52 +0000"
+    },
+    {
+      "name": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+      "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
+      "summary": "Article URL: https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/\nComments URL: https://news.ycombinator.com/item?id=50289692\nPoints: 8\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Frieren",
+      "published": "Thu, 29 Oct 2026 14:29:06 +0000"
+    },
+    {
+      "name": "Show HN: SpaceApp – Run several AI coding CLIs side by side, self-hosted",
+      "url": "https://github.com/oll4com/spaceapp",
+      "summary": "Article URL: https://github.com/oll4com/spaceapp\nComments URL: https://news.ycombinator.com/item?id=50289394\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ntheogr",
+      "published": "Thu, 29 Oct 2026 14:12:21 +0000"
+    },
+    {
+      "name": "Show HN: ROAL – AI phone host for restaurants that builds itself from your site",
+      "url": "https://tryroal.com",
+      "summary": "Article URL: https://tryroal.com\nComments URL: https://news.ycombinator.com/item?id=50289318\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "vamsi920",
+      "published": "Thu, 29 Oct 2026 14:08:16 +0000"
+    },
+    {
+      "name": "You can just ask AI to do things",
+      "url": "https://www.seangoedecke.com/you-can-just-ask-ai-to-do-things/",
+      "summary": "Article URL: https://www.seangoedecke.com/you-can-just-ask-ai-to-do-things/\nComments URL: https://news.ycombinator.com/item?id=50289268\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Brajeshwar",
+      "published": "Thu, 29 Oct 2026 14:05:10 +0000"
+    },
+    {
+      "name": "Language and Intelligence: What Can/Cannot AI Do with Natural Language? (2022)",
+      "url": "https://arxiv.org/abs/2209.12829",
+      "summary": "Article URL: https://arxiv.org/abs/2209.12829\nComments URL: https://news.ycombinator.com/item?id=50289256\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "danielam",
+      "published": "Thu, 29 Oct 2026 14:04:35 +0000"
+    },
+    {
+      "name": "The AI-Augmented Developer: A Process for Writing Production Code with Agents",
+      "url": "https://cheikhhseck.medium.com/the-ai-augmented-developer-a-process-for-writing-production-code-with-agents-aea7c2133394",
+      "summary": "Article URL: https://cheikhhseck.medium.com/the-ai-augmented-developer-a-process-for-writing-production-code-with-agents-aea7c2133394\nComments URL: https://news.ycombinator.com/item?id=50289233\nPoints",
+      "source": "hacker_news",
+      "score": null,
+      "author": "cheikhdev",
+      "published": "Thu, 29 Oct 2026 14:03:10 +0000"
+    },
+    {
+      "name": "Most AI pipelines are graphs. Graph engineering treats them that way",
+      "url": "https://getotium.ai/blog/graph-engineering",
+      "summary": "Article URL: https://getotium.ai/blog/graph-engineering\nComments URL: https://news.ycombinator.com/item?id=50289179\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "cmm324",
+      "published": "Thu, 29 Oct 2026 13:59:52 +0000"
+    },
+    {
+      "name": "AI Black Friday: a tracker of deals on AI tools",
+      "url": "https://aiblackfriday.net/",
+      "summary": "Article URL: https://aiblackfriday.net/\nComments URL: https://news.ycombinator.com/item?id=50289177\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "gregzeng95",
+      "published": "Thu, 29 Oct 2026 13:59:42 +0000"
+    },
+    {
+      "name": "Sorry Harvey! I Made a Free Open-Source Alternative to Your Overpriced Legal AI",
+      "url": "https://sorryharvey.com/",
+      "summary": "Article URL: https://sorryharvey.com/\nComments URL: https://news.ycombinator.com/item?id=50289163\nPoints: 16\n# Comments: 4",
+      "source": "hacker_news",
+      "score": null,
+      "author": "bigbadbubba",
+      "published": "Thu, 29 Oct 2026 13:58:45 +0000"
+    },
+    {
+      "name": "Installing claude-mem uploads your last 30 days of prompts to cmem.ai, no opt-in",
+      "url": "https://github.com/thedotmack/claude-mem/issues/5176",
+      "summary": "Article URL: https://github.com/thedotmack/claude-mem/issues/5176\nComments URL: https://news.ycombinator.com/item?id=50289137\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "saltenas",
+      "published": "Thu, 29 Oct 2026 13:56:38 +0000"
+    },
+    {
+      "name": "Slop-Free AI Programming",
+      "url": "https://zylinski.se/posts/slop-free-ai-programming/",
+      "summary": "Article URL: https://zylinski.se/posts/slop-free-ai-programming/\nComments URL: https://news.ycombinator.com/item?id=50289090\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ibobev",
+      "published": "Thu, 29 Oct 2026 13:53:49 +0000"
+    },
+    {
+      "name": "AI hardware can be hacked so chatbots provide dangerous answers, research shows",
+      "url": "https://www.cnn.com/2026/10/29/politics/ai-hardware-hacked-research-shows",
+      "summary": "Article URL: https://www.cnn.com/2026/10/29/politics/ai-hardware-hacked-research-shows\nComments URL: https://news.ycombinator.com/item?id=50289037\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "cws",
+      "published": "Thu, 29 Oct 2026 13:50:36 +0000"
+    },
+    {
+      "name": "Alphabet earnings miss first real sign that AI is taking a bite out of search",
+      "url": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html\nComments URL: https://news.ycombinator.com/item?id=50289009\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pseudolus",
+      "published": "Thu, 29 Oct 2026 13:49:13 +0000"
+    },
+    {
+      "name": "AI agents shape experts' judgment calls",
+      "url": "https://www.anthropic.com/research/agents-judgment-calls",
+      "summary": "Article URL: https://www.anthropic.com/research/agents-judgment-calls\nComments URL: https://news.ycombinator.com/item?id=50288568\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "yenniejun111",
+      "published": "Thu, 29 Oct 2026 13:19:31 +0000"
+    }
+  ]
+}
