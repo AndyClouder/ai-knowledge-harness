@@ -1,0 +1,422 @@
+[
+  {
+    "id": "77d75fd0-745a-4fe6-ace3-bf71886f71cc",
+    "title": "ccch1mneyyy/dsh-Go",
+    "source_url": "https://github.com/ccch1mneyyy/dsh-Go",
+    "source": "unknown",
+    "collected_at": "2026-10-30T14:48:05.975335+00:00",
+    "analyzed_at": "2026-10-30T14:48:05.975335+00:00",
+    "summary": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1957,
+      "score": null,
+      "author": null,
+      "language": "Dart"
+    }
+  },
+  {
+    "id": "aa86a42f-ad6d-4a92-bd03-b9a8582fca14",
+    "title": "qybaihe/bla",
+    "source_url": "https://github.com/qybaihe/bla",
+    "source": "unknown",
+    "collected_at": "2026-10-30T14:48:07.209130+00:00",
+    "analyzed_at": "2026-10-30T14:48:07.209130+00:00",
+    "summary": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> H",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1232,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "02a4bdce-78b0-4799-922f-d0aebfd735ca",
+    "title": "paipiange/nvzhuang",
+    "source_url": "https://github.com/paipiange/nvzhuang",
+    "source": "unknown",
+    "collected_at": "2026-10-30T14:48:08.442038+00:00",
+    "analyzed_at": "2026-10-30T14:48:08.442038+00:00",
+    "summary": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 942,
+      "score": null,
+      "author": null,
+      "language": "Go"
+    }
+  },
+  {
+    "id": "6b675112-d2c9-4be8-94bc-cb33cf70643d",
+    "title": "HRuiCcc/RuiC-PoseAtlas",
+    "source_url": "https://github.com/HRuiCcc/RuiC-PoseAtlas",
+    "source": "unknown",
+    "collected_at": "2026-10-30T14:48:09.676144+00:00",
+    "analyzed_at": "2026-10-30T14:48:09.676144+00:00",
+    "summary": "RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 552,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "8633b322-3a1e-480d-95dc-1d34d58f23de",
+    "title": "Show HN: Beolis – Manage your coding AI agents",
+    "source_url": "https://beolis.com",
+    "source": "hacker_news",
+    "collected_at": "2026-10-30T14:48:10.911372+00:00",
+    "analyzed_at": "2026-10-30T14:48:10.911372+00:00",
+    "summary": "Hey HN, I'm Fabio, the creator of Beolis.I've built Beolis (https://beolis.com) to better handle coding on agentic scenarios.It can be used to manage coding with agents in parallel / in the background",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "fabioz",
+      "language": null
+    }
+  },
+  {
+    "id": "510884f0-43bc-4655-a2f7-eda073ed1787",
+    "title": "Neal Stephenson on AI and What Comes Next [video]",
+    "source_url": "https://www.youtube.com/watch?v=Ii-aeW5pHPQ",
+    "source": "hacker_news",
+    "collected_at": "2026-10-30T14:48:12.147838+00:00",
+    "analyzed_at": "2026-10-30T14:48:12.147838+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=Ii-aeW5pHPQ\nComments URL: https://news.ycombinator.com/item?id=50304280\nPoints: 6\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "justin66",
+      "language": null
+    }
+  },
+  {
+    "id": "bb8dcfc2-73d8-48c0-a02b-418453140efa",
+    "title": "Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's code",
+    "source_url": "https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts",
+    "source": "hacker_news",
+    "collected_at": "2026-10-30T14:48:13.379550+00:00",
+    "analyzed_at": "2026-10-30T14:48:13.379550+00:00",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-fo",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "taubek",
+      "language": null
+    }
+  },
+  {
+    "id": "08e64fc7-7f29-4552-9600-2b990a09ed53",
+    "title": "AI Panic Rhymes with Mercantilism, AI Payoff Anywhere? Food 4 Agile Thought 568",
+    "source_url": "https://age-of-product.com/food-agile-thought-568-ai-panic/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-30T14:48:14.632952+00:00",
+    "analyzed_at": "2026-10-30T14:48:14.632952+00:00",
+    "summary": "Article URL: https://age-of-product.com/food-agile-thought-568-ai-panic/\nComments URL: https://news.ycombinator.com/item?id=50304090\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "swolpers",
+      "language": null
+    }
+  },
+  {
+    "id": "bcac2ee2-55b2-4241-a31b-1fd951adae03",
+    "title": "Making Failure Diagnosis Reliable with Pensive AI",
+    "source_url": "https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015",
+    "source": "hacker_news",
+    "collected_at": "2026-10-30T14:48:15.875611+00:00",
+    "analyzed_at": "2026-10-30T14:48:15.875611+00:00",
+    "summary": "Article URL: https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015\nComments URL: https://news.ycombinator.com/item?id=50304059\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "torutofu",
+      "language": null
+    }
+  },
+  {
+    "id": "285f7685-f756-4d6d-884a-e7a3b33c20e3",
+    "title": "AI Can Breach Crypto Apps, Not Bitcoin – That's Where the Real Risk Lives",
+    "source_url": "https://www.ainvest.com/news/ai-breach-crypto-apps-bitcoin-real-risk-lives-2610/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-30T14:48:17.108189+00:00",
+    "analyzed_at": "2026-10-30T14:48:17.108189+00:00",
+    "summary": "Article URL: https://www.ainvest.com/news/ai-breach-crypto-apps-bitcoin-real-risk-lives-2610/\nComments URL: https://news.ycombinator.com/item?id=50303963\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "AInvest",
+      "language": null
+    }
+  },
+  {
+    "id": "aaab9aa6-9c56-467d-9010-22b5047f8be9",
+    "title": "AI Bubble Burst",
+    "source_url": "https://seekingalpha.com/article/4960031-ai-bubble-burst-confirmed-by-alphabet-caterpillar-servicenow-amazon",
+    "source": "hacker_news",
+    "collected_at": "2026-10-30T14:48:18.340028+00:00",
+    "analyzed_at": "2026-10-30T14:48:18.340028+00:00",
+    "summary": "Article URL: https://seekingalpha.com/article/4960031-ai-bubble-burst-confirmed-by-alphabet-caterpillar-servicenow-amazon\nComments URL: https://news.ycombinator.com/item?id=50303833\nPoints: 13\n# Comme",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "nreece",
+      "language": null
+    }
+  },
+  {
+    "id": "814a21e3-79a0-41ba-9759-148f0bded8db",
+    "title": "Show HN: Navital Gym – open environments for testing AI agents on Indian tasks",
+    "source_url": "https://github.com/Navitallabs/navital-gym",
+    "source": "hacker_news",
+    "collected_at": "2026-10-30T14:48:19.574424+00:00",
+    "analyzed_at": "2026-10-30T14:48:19.574424+00:00",
+    "summary": "Article URL: https://github.com/Navitallabs/navital-gym\nComments URL: https://news.ycombinator.com/item?id=50303475\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "dakshbathla",
+      "language": null
+    }
+  },
+  {
+    "id": "95ef0e8d-5e4b-4ea7-a9f6-8b232eeba917",
+    "title": "What I'm teaching my children in the age of AI",
+    "source_url": "https://alfredlua.com/teaching-my-children-in-the-age-of-ai",
+    "source": "hacker_news",
+    "collected_at": "2026-10-30T14:48:20.808853+00:00",
+    "analyzed_at": "2026-10-30T14:48:20.808853+00:00",
+    "summary": "Article URL: https://alfredlua.com/teaching-my-children-in-the-age-of-ai\nComments URL: https://news.ycombinator.com/item?id=50303310\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "alfredlua",
+      "language": null
+    }
+  },
+  {
+    "id": "9415e914-d4de-4792-b070-4a208e01a72e",
+    "title": "Ask Me Twice: A longitudinal archive of AI chatbot responses",
+    "source_url": "https://wayback-api.archive.org/services/amt/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-30T14:48:22.038871+00:00",
+    "analyzed_at": "2026-10-30T14:48:22.038871+00:00",
+    "summary": "Article URL: https://wayback-api.archive.org/services/amt/\nComments URL: https://news.ycombinator.com/item?id=50303173\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "blue_green_maps",
+      "language": null
+    }
+  },
+  {
+    "id": "92c97c1e-b583-46d3-b6ab-7fcb334ed7e2",
+    "title": "Errors Found by AI in the Research of Emmanuel Saez and Gabriel Zucman",
+    "source_url": "https://marginalrevolution.com/marginalrevolution/2026/10/errors-in-the-research-of-emmanuel-saez-and-gabriel-zucman.html",
+    "source": "hacker_news",
+    "collected_at": "2026-10-30T14:48:23.271062+00:00",
+    "analyzed_at": "2026-10-30T14:48:23.271062+00:00",
+    "summary": "Article URL: https://marginalrevolution.com/marginalrevolution/2026/10/errors-in-the-research-of-emmanuel-saez-and-gabriel-zucman.html\nComments URL: https://news.ycombinator.com/item?id=50303041\nPoint",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ersinesen",
+      "language": null
+    }
+  },
+  {
+    "id": "b602b808-416d-48b1-9627-e9992d9bf13e",
+    "title": "Musk, Zuckerberg push to rebrand AI as 'super intelligence' on earnings calls",
+    "source_url": "https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html",
+    "source": "hacker_news",
+    "collected_at": "2026-10-30T14:48:24.502847+00:00",
+    "analyzed_at": "2026-10-30T14:48:24.502847+00:00",
+    "summary": "Article URL: https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html\nComments URL: https://news.ycombinator.com/item?id=50303030\nPoints: 9\n# Comments: 4",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pseudolus",
+      "language": null
+    }
+  },
+  {
+    "id": "47dd892c-309b-4f3f-ba57-ed2fca8f7011",
+    "title": "AI is letting anyone reverse engineer anything. We talked to the developer",
+    "source_url": "https://www.scientificamerican.com/article/an-exclusive-conversation-with-the-developer-of-rea-the-viral-ai-reverse-engineering-tool/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-30T14:48:25.755652+00:00",
+    "analyzed_at": "2026-10-30T14:48:25.755652+00:00",
+    "summary": "Article URL: https://www.scientificamerican.com/article/an-exclusive-conversation-with-the-developer-of-rea-the-viral-ai-reverse-engineering-tool/\nComments URL: https://news.ycombinator.com/item?id=50",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "sohkamyung",
+      "language": null
+    }
+  },
+  {
+    "id": "287afb0a-2b21-409e-bf23-778553794384",
+    "title": "Lets Stop Harassing People Online for Using AI",
+    "source_url": "https://devz.cl/posts/slop-is-bad-and-ai-isn-t-automatically-slop/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-30T14:48:26.988610+00:00",
+    "analyzed_at": "2026-10-30T14:48:26.988610+00:00",
+    "summary": "Article URL: https://devz.cl/posts/slop-is-bad-and-ai-isn-t-automatically-slop/\nComments URL: https://news.ycombinator.com/item?id=50303011\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "DanielVZ",
+      "language": null
+    }
+  },
+  {
+    "id": "f9be75e1-1592-4127-82f8-e369b31bb6e3",
+    "title": "Cisco is letting a 27-year-old rewrite 98% of its legacy code with AI: 'Go nuts'",
+    "source_url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+    "source": "hacker_news",
+    "collected_at": "2026-10-30T14:48:28.221732+00:00",
+    "analyzed_at": "2026-10-30T14:48:28.221732+00:00",
+    "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/\nComments URL: https://news.ycombinator.com/item?id=5",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ndiddy",
+      "language": null
+    }
+  },
+  {
+    "id": "9e6970b3-42d1-491b-bd21-87caf937174e",
+    "title": "AI Can Draw Blueprints Now",
+    "source_url": "https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now",
+    "source": "hacker_news",
+    "collected_at": "2026-10-30T14:48:29.454983+00:00",
+    "analyzed_at": "2026-10-30T14:48:29.454983+00:00",
+    "summary": "Article URL: https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now\nComments URL: https://news.ycombinator.com/item?id=50302962\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "SteveGallag",
+      "language": null
+    }
+  }
+]
