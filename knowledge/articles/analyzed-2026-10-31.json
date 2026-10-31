@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1ccab1aa-7db8-4a0c-b2d8-8025b70a096f",
+    "title": "heydamir/unslop",
+    "source_url": "https://github.com/heydamir/unslop",
+    "source": "unknown",
+    "collected_at": "2026-10-31T14:16:14.080572+00:00",
+    "analyzed_at": "2026-10-31T14:16:14.080572+00:00",
+    "summary": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 2627,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "74b55f08-ab66-4d32-b8b5-a40b33094d60",
+    "title": "wangzan101/Mika",
+    "source_url": "https://github.com/wangzan101/Mika",
+    "source": "unknown",
+    "collected_at": "2026-10-31T14:16:15.290891+00:00",
+    "analyzed_at": "2026-10-31T14:16:15.290891+00:00",
+    "summary": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 2269,
+      "score": null,
+      "author": null,
+      "language": "Kotlin"
+    }
+  },
+  {
+    "id": "cf70e385-908d-4b7a-ba3c-af9525f61362",
+    "title": "patch-gg/pixelfx",
+    "source_url": "https://github.com/patch-gg/pixelfx",
+    "source": "unknown",
+    "collected_at": "2026-10-31T14:16:16.489443+00:00",
+    "analyzed_at": "2026-10-31T14:16:16.489443+00:00",
+    "summary": "232 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 887,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "1d3edd71-a1fa-40e5-af65-731003da35ca",
+    "title": "jackwener/DSH-Android",
+    "source_url": "https://github.com/jackwener/DSH-Android",
+    "source": "unknown",
+    "collected_at": "2026-10-31T14:16:17.689154+00:00",
+    "analyzed_at": "2026-10-31T14:16:17.689154+00:00",
+    "summary": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 601,
+      "score": null,
+      "author": null,
+      "language": "Kotlin"
+    }
+  }
+]
