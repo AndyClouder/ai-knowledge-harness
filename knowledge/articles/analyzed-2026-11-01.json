@@ -1,0 +1,422 @@
+[
+  {
+    "id": "3c846ef7-8bb6-48ea-adb7-05ac704e448b",
+    "title": "deepseek-ai/dsh-superagent-prototype",
+    "source_url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+    "source": "unknown",
+    "collected_at": "2026-11-01T14:42:45.194865+00:00",
+    "analyzed_at": "2026-11-01T14:42:45.194865+00:00",
+    "summary": "Towards a More Autonomous Agent System",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 5894,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "db1c2aef-5039-4d59-9024-276f0ceb58f7",
+    "title": "haydenschmitty/floorplan",
+    "source_url": "https://github.com/haydenschmitty/floorplan",
+    "source": "unknown",
+    "collected_at": "2026-11-01T14:42:46.438565+00:00",
+    "analyzed_at": "2026-11-01T14:42:46.438565+00:00",
+    "summary": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1246,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "f7097c52-82b7-475d-821d-8b5239e0c147",
+    "title": "elvarofficial/teardown",
+    "source_url": "https://github.com/elvarofficial/teardown",
+    "source": "unknown",
+    "collected_at": "2026-11-01T14:42:47.702943+00:00",
+    "analyzed_at": "2026-11-01T14:42:47.702943+00:00",
+    "summary": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 767,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "2bf2a541-9f01-4701-9014-3e08dfa1240f",
+    "title": "jacke-pp/open-yoki",
+    "source_url": "https://github.com/jacke-pp/open-yoki",
+    "source": "unknown",
+    "collected_at": "2026-11-01T14:42:48.941936+00:00",
+    "analyzed_at": "2026-11-01T14:42:48.941936+00:00",
+    "summary": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 706,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "da387956-ec09-494d-b16c-dea5ebbb778a",
+    "title": "NiazMorshed2007/reanimate",
+    "source_url": "https://github.com/NiazMorshed2007/reanimate",
+    "source": "unknown",
+    "collected_at": "2026-11-01T14:42:50.186053+00:00",
+    "analyzed_at": "2026-11-01T14:42:50.186053+00:00",
+    "summary": "A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 625,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "cdea301e-45bf-43f9-b35d-1e2d69ebc623",
+    "title": "AI as Social Technology",
+    "source_url": "https://knightcolumbia.org/content/ai-as-social-technology",
+    "source": "hacker_news",
+    "collected_at": "2026-11-01T14:42:51.441901+00:00",
+    "analyzed_at": "2026-11-01T14:42:51.441901+00:00",
+    "summary": "Article URL: https://knightcolumbia.org/content/ai-as-social-technology\nComments URL: https://news.ycombinator.com/item?id=50326124\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "justin_",
+      "language": null
+    }
+  },
+  {
+    "id": "dec662a1-7f3c-42ef-9339-90aeea3a156a",
+    "title": "Opt out of AI use at work based on religious freedoms law",
+    "source_url": "https://fortune.com/2026/10/30/kentucky-administrator-ai-religious-exemption-title-vii-humanism/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-01T14:42:52.698246+00:00",
+    "analyzed_at": "2026-11-01T14:42:52.698246+00:00",
+    "summary": "Article URL: https://fortune.com/2026/10/30/kentucky-administrator-ai-religious-exemption-title-vii-humanism/\nComments URL: https://news.ycombinator.com/item?id=50326000\nPoints: 5\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "sheeshkebab",
+      "language": null
+    }
+  },
+  {
+    "id": "aaff18ec-7a94-4fba-a43e-97e6252a4f06",
+    "title": "Terence Tao on how AI math solutions miss the point",
+    "source_url": "https://www.sciencefriday.com/segments/terence-tao-ai-math-solutions/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-01T14:42:53.941750+00:00",
+    "analyzed_at": "2026-11-01T14:42:53.941750+00:00",
+    "summary": "Article URL: https://www.sciencefriday.com/segments/terence-tao-ai-math-solutions/\nComments URL: https://news.ycombinator.com/item?id=50325983\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "digital55",
+      "language": null
+    }
+  },
+  {
+    "id": "499559d8-9893-437f-a207-94e7a125c162",
+    "title": "Show HN: Let formal specs test AI implementations",
+    "source_url": "https://github.com/mrasu/spec-guardian",
+    "source": "hacker_news",
+    "collected_at": "2026-11-01T14:42:55.197753+00:00",
+    "analyzed_at": "2026-11-01T14:42:55.197753+00:00",
+    "summary": "Article URL: https://github.com/mrasu/spec-guardian\nComments URL: https://news.ycombinator.com/item?id=50325878\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mrasu",
+      "language": null
+    }
+  },
+  {
+    "id": "9ec6f84b-e99a-49f5-823f-0a42cce9acd8",
+    "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+    "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+    "source": "hacker_news",
+    "collected_at": "2026-11-01T14:42:56.452997+00:00",
+    "analyzed_at": "2026-11-01T14:42:56.452997+00:00",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzin",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "entryleveljobsc",
+      "language": null
+    }
+  },
+  {
+    "id": "06f9732a-7ac6-4b55-8d3b-ef55a56d0270",
+    "title": "What does good AI mean?",
+    "source_url": "https://thoughts.wyounas.com/p/what-does-good-ai-mean",
+    "source": "hacker_news",
+    "collected_at": "2026-11-01T14:42:57.707562+00:00",
+    "analyzed_at": "2026-11-01T14:42:57.707562+00:00",
+    "summary": "Article URL: https://thoughts.wyounas.com/p/what-does-good-ai-mean\nComments URL: https://news.ycombinator.com/item?id=50325593\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "simplegeek",
+      "language": null
+    }
+  },
+  {
+    "id": "85644682-1ab7-4a28-9726-96b3e8d963f0",
+    "title": "AI is a technological version of the Homeric songs",
+    "source_url": "https://www.economist.com/by-invitation/2026/10/28/ai-is-a-technological-version-of-the-homeric-songs",
+    "source": "hacker_news",
+    "collected_at": "2026-11-01T14:42:58.943372+00:00",
+    "analyzed_at": "2026-11-01T14:42:58.943372+00:00",
+    "summary": "Article URL: https://www.economist.com/by-invitation/2026/10/28/ai-is-a-technological-version-of-the-homeric-songs\nComments URL: https://news.ycombinator.com/item?id=50325580\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "andsoitis",
+      "language": null
+    }
+  },
+  {
+    "id": "b26cc2a6-e1b0-4bb0-9c26-b0a174fccbc9",
+    "title": "Vibe Coding an Autonomous Agent Harness in Go: Self-Healing AI Workflows",
+    "source_url": "https://medium.com/@vishwanathanraman/vibe-coding-an-autonomous-agent-harness-in-go-from-zero-to-self-healing-ai-workflows-785d82f981b6",
+    "source": "hacker_news",
+    "collected_at": "2026-11-01T14:43:00.182101+00:00",
+    "analyzed_at": "2026-11-01T14:43:00.182101+00:00",
+    "summary": "Article URL: https://medium.com/@vishwanathanraman/vibe-coding-an-autonomous-agent-harness-in-go-from-zero-to-self-healing-ai-workflows-785d82f981b6\nComments URL: https://news.ycombinator.com/item?id=",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "andsoitis",
+      "language": null
+    }
+  },
+  {
+    "id": "bb7a22fd-402e-4592-a7c3-97ce3ff0e989",
+    "title": "Agentic AI is myth set in motion",
+    "source_url": "https://www.programmablemutter.com/p/agentic-ai-is-myth-set-in-motion",
+    "source": "hacker_news",
+    "collected_at": "2026-11-01T14:43:01.436991+00:00",
+    "analyzed_at": "2026-11-01T14:43:01.436991+00:00",
+    "summary": "Article URL: https://www.programmablemutter.com/p/agentic-ai-is-myth-set-in-motion\nComments URL: https://news.ycombinator.com/item?id=50325547\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "hackandthink",
+      "language": null
+    }
+  },
+  {
+    "id": "69abc75d-ccbf-4156-b970-8df377e162b8",
+    "title": "A 90% Chance of AI Saving Humanity",
+    "source_url": "https://joshbocanegra.medium.com/a-90-chance-of-ai-saving-humanity-bf12fb7914ee",
+    "source": "hacker_news",
+    "collected_at": "2026-11-01T14:43:02.683181+00:00",
+    "analyzed_at": "2026-11-01T14:43:02.683181+00:00",
+    "summary": "Article URL: https://joshbocanegra.medium.com/a-90-chance-of-ai-saving-humanity-bf12fb7914ee\nComments URL: https://news.ycombinator.com/item?id=50325398\nPoints: 10\n# Comments: 5",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jbai",
+      "language": null
+    }
+  },
+  {
+    "id": "fe84988d-5b16-41b3-84e3-44c706deea8b",
+    "title": "The question we should all be asking about AI",
+    "source_url": "https://www.cnn.com/2026/10/30/business/ai-stocks-bonds-debt",
+    "source": "hacker_news",
+    "collected_at": "2026-11-01T14:43:03.941256+00:00",
+    "analyzed_at": "2026-11-01T14:43:03.941256+00:00",
+    "summary": "Article URL: https://www.cnn.com/2026/10/30/business/ai-stocks-bonds-debt\nComments URL: https://news.ycombinator.com/item?id=50325107\nPoints: 12\n# Comments: 10",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "heresie-dabord",
+      "language": null
+    }
+  },
+  {
+    "id": "1b61ee4b-e132-4736-ae47-8f98031716cc",
+    "title": "Context Mode – An Open-Source MCP Server That Reduces AI Coding Context Usage",
+    "source_url": "https://github.com/mksglu/context-mode",
+    "source": "hacker_news",
+    "collected_at": "2026-11-01T14:43:05.187776+00:00",
+    "analyzed_at": "2026-11-01T14:43:05.187776+00:00",
+    "summary": "Article URL: https://github.com/mksglu/context-mode\nComments URL: https://news.ycombinator.com/item?id=50324789\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Moon_Y",
+      "language": null
+    }
+  },
+  {
+    "id": "c79327bc-ef1a-4255-814d-283a36fb18ca",
+    "title": "When AI Writes the Code, Show Your Judgment",
+    "source_url": "https://www.eyosias.dev/case-studies/ai-mailbox-analysis",
+    "source": "hacker_news",
+    "collected_at": "2026-11-01T14:43:06.427224+00:00",
+    "analyzed_at": "2026-11-01T14:43:06.427224+00:00",
+    "summary": "Article URL: https://www.eyosias.dev/case-studies/ai-mailbox-analysis\nComments URL: https://news.ycombinator.com/item?id=50324711\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Eyosias_x5",
+      "language": null
+    }
+  },
+  {
+    "id": "79baadf0-232c-43ca-946d-1823443aa94c",
+    "title": "Will Agent Resource Registries ever have their moment, the way AI gateways did?",
+    "source_url": "https://agenticresourcediscovery.org/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-01T14:43:07.663530+00:00",
+    "analyzed_at": "2026-11-01T14:43:07.663530+00:00",
+    "summary": "Article URL: https://agenticresourcediscovery.org/\nComments URL: https://news.ycombinator.com/item?id=50324679\nPoints: 3\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Dhanpraja231",
+      "language": null
+    }
+  },
+  {
+    "id": "006f8ba3-27cd-414d-b970-c743fd9545cc",
+    "title": "AI Warning for Steam – Increases Visibility of AI Generated Content Disclosures",
+    "source_url": "https://github.com/seeeeew/aiwarningforsteam",
+    "source": "hacker_news",
+    "collected_at": "2026-11-01T14:43:08.919778+00:00",
+    "analyzed_at": "2026-11-01T14:43:08.919778+00:00",
+    "summary": "Article URL: https://github.com/seeeeew/aiwarningforsteam\nComments URL: https://news.ycombinator.com/item?id=50324387\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "SockThief",
+      "language": null
+    }
+  }
+]
