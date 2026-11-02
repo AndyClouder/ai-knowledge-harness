@@ -1,0 +1,422 @@
+[
+  {
+    "id": "942eb9e0-8e48-43c3-9259-5c3847eac07b",
+    "title": "modelflare-ai/AnyModelBot",
+    "source_url": "https://github.com/modelflare-ai/AnyModelBot",
+    "source": "unknown",
+    "collected_at": "2026-11-02T17:46:20.889704+00:00",
+    "analyzed_at": "2026-11-02T17:46:20.889704+00:00",
+    "summary": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1309,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "5afd29d8-a655-4ef7-992f-119b5409a82a",
+    "title": "caru-ini/stack-diagram",
+    "source_url": "https://github.com/caru-ini/stack-diagram",
+    "source": "unknown",
+    "collected_at": "2026-11-02T17:46:22.141361+00:00",
+    "analyzed_at": "2026-11-02T17:46:22.141361+00:00",
+    "summary": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1030,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "9c14f043-a3d8-4af8-9c21-106504aea10a",
+    "title": "benjitaylor/skills",
+    "source_url": "https://github.com/benjitaylor/skills",
+    "source": "unknown",
+    "collected_at": "2026-11-02T17:46:23.390367+00:00",
+    "analyzed_at": "2026-11-02T17:46:23.390367+00:00",
+    "summary": "Skills for AI coding agents.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 753,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "0392b652-0029-484d-925c-7daee203f4af",
+    "title": "hyz317/HairDeck",
+    "source_url": "https://github.com/hyz317/HairDeck",
+    "source": "unknown",
+    "collected_at": "2026-11-02T17:46:24.641087+00:00",
+    "analyzed_at": "2026-11-02T17:46:24.641087+00:00",
+    "summary": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 730,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "fa6421b7-1b61-4660-8374-4dfcf846f14a",
+    "title": "We replaced 11,000 lines of AI chat code with CopilotKit and AG-UI",
+    "source_url": "https://fynk.com/en/blog/fynk-assistant-copilotkit-vue/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-02T17:46:25.890239+00:00",
+    "analyzed_at": "2026-11-02T17:46:25.890239+00:00",
+    "summary": "Article URL: https://fynk.com/en/blog/fynk-assistant-copilotkit-vue/\nComments URL: https://news.ycombinator.com/item?id=50340387\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "0cool",
+      "language": null
+    }
+  },
+  {
+    "id": "892543e3-1edb-4b18-8e1b-ffac2120d819",
+    "title": "Show HN: Build and explore a shared AI computer, just by talking",
+    "source_url": "https://duplex.party/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-02T17:46:27.139450+00:00",
+    "analyzed_at": "2026-11-02T17:46:27.139450+00:00",
+    "summary": "Article URL: https://duplex.party/\nComments URL: https://news.ycombinator.com/item?id=50340215\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "SebastianSosa",
+      "language": null
+    }
+  },
+  {
+    "id": "c10eb2d1-b6a5-43d6-8654-a5cc771ae769",
+    "title": "Vibe-Coding a Game in 2026: What AI Builds, What Breaks",
+    "source_url": "https://vlstudio.app/blog/vibe-coding-a-game-2026/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-02T17:46:28.389125+00:00",
+    "analyzed_at": "2026-11-02T17:46:28.389125+00:00",
+    "summary": "Article URL: https://vlstudio.app/blog/vibe-coding-a-game-2026/\nComments URL: https://news.ycombinator.com/item?id=50340109\nPoints: 5\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "vladosskins",
+      "language": null
+    }
+  },
+  {
+    "id": "82261222-73bf-46f0-b794-e4553c2df94d",
+    "title": "Hume launches the first decision model for voice AI",
+    "source_url": "https://www.hume.ai/products/decision-model-api",
+    "source": "hacker_news",
+    "collected_at": "2026-11-02T17:46:29.640004+00:00",
+    "analyzed_at": "2026-11-02T17:46:29.640004+00:00",
+    "summary": "Article URL: https://www.hume.ai/products/decision-model-api\nComments URL: https://news.ycombinator.com/item?id=50339949\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "dndx",
+      "language": null
+    }
+  },
+  {
+    "id": "75f3b6de-7093-445e-a0d7-0eaba1c97261",
+    "title": "Microsoft just gave us the perfect name for AI thieves: Kyle",
+    "source_url": "https://ketanjoshi.co/2026/11/02/microsoft-just-gave-us-the-perfect-name-for-ai-thieves-kyle/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-02T17:46:30.888923+00:00",
+    "analyzed_at": "2026-11-02T17:46:30.888923+00:00",
+    "summary": "Article URL: https://ketanjoshi.co/2026/11/02/microsoft-just-gave-us-the-perfect-name-for-ai-thieves-kyle/\nComments URL: https://news.ycombinator.com/item?id=50339940\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "_____k",
+      "language": null
+    }
+  },
+  {
+    "id": "fc19bc89-a6d6-4317-b601-6df0c4b5275b",
+    "title": "It's time to block reckless AI IPOs and tax billionaires",
+    "source_url": "https://www.theguardian.com/commentisfree/2026/nov/02/ai-ipos-tax-billionaires",
+    "source": "hacker_news",
+    "collected_at": "2026-11-02T17:46:32.136815+00:00",
+    "analyzed_at": "2026-11-02T17:46:32.136815+00:00",
+    "summary": "Article URL: https://www.theguardian.com/commentisfree/2026/nov/02/ai-ipos-tax-billionaires\nComments URL: https://news.ycombinator.com/item?id=50339800\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "entryleveljobsc",
+      "language": null
+    }
+  },
+  {
+    "id": "488ba525-cec2-4e39-894e-3c26c621de35",
+    "title": "Show HN: Agent Drift Game – short games about why AI agents drift",
+    "source_url": "https://drift.seethis.dev/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-02T17:46:33.385359+00:00",
+    "analyzed_at": "2026-11-02T17:46:33.385359+00:00",
+    "summary": "Article URL: https://drift.seethis.dev/\nComments URL: https://news.ycombinator.com/item?id=50339784\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "aming557",
+      "language": null
+    }
+  },
+  {
+    "id": "ba8605f4-5eb7-47d4-95c1-70d3c2dec2b0",
+    "title": "SUSE to cut one in ten employees because of AI",
+    "source_url": "https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950",
+    "source": "hacker_news",
+    "collected_at": "2026-11-02T17:46:34.634958+00:00",
+    "analyzed_at": "2026-11-02T17:46:34.634958+00:00",
+    "summary": "Article URL: https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950\nComments URL: https://news.ycombinator.com/item?id=50339628\nPoints: 4\n# Comments: 5",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "klhs",
+      "language": null
+    }
+  },
+  {
+    "id": "aae7d9fe-a294-479b-bebf-38b9f21614b0",
+    "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+    "source_url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+    "source": "hacker_news",
+    "collected_at": "2026-11-02T17:46:35.882255+00:00",
+    "analyzed_at": "2026-11-02T17:46:35.882255+00:00",
+    "summary": "Article URL: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11\nComments URL: https://news.ycombinator.com/item?id=50339494\nPoints: 38\n# Comments: 28",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "entryleveljobsc",
+      "language": null
+    }
+  },
+  {
+    "id": "e86dac48-7232-4837-946d-7c913e5cb5f0",
+    "title": "The Fruits of AI Drug Abundance: Indigestion in the Near Term",
+    "source_url": "https://lifescivc.com/2026/10/the-fruits-of-ai-drug-abundance-indigestion-in-the-near-term/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-02T17:46:37.127978+00:00",
+    "analyzed_at": "2026-11-02T17:46:37.127978+00:00",
+    "summary": "Article URL: https://lifescivc.com/2026/10/the-fruits-of-ai-drug-abundance-indigestion-in-the-near-term/\nComments URL: https://news.ycombinator.com/item?id=50339226\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "brandonb",
+      "language": null
+    }
+  },
+  {
+    "id": "f5bdb6c1-b730-44c7-a9b3-c0e5a2f8675c",
+    "title": "Grokipedia offers lessons in how AI can help Wikipedia",
+    "source_url": "https://www.niemanlab.org/2026/11/elon-musks-grokipedia-is-littered-with-mistakes-but-wikipedia-could-still-learn-some-things-from-it/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-02T17:46:38.374271+00:00",
+    "analyzed_at": "2026-11-02T17:46:38.374271+00:00",
+    "summary": "Article URL: https://www.niemanlab.org/2026/11/elon-musks-grokipedia-is-littered-with-mistakes-but-wikipedia-could-still-learn-some-things-from-it/\nComments URL: https://news.ycombinator.com/item?id=5",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ibn_khaldun",
+      "language": null
+    }
+  },
+  {
+    "id": "77c541a6-94cd-43af-a3c0-75611387d8b1",
+    "title": "Basically no one is using AI agents for their DoorDash orders",
+    "source_url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-02T17:46:39.623606+00:00",
+    "analyzed_at": "2026-11-02T17:46:39.623606+00:00",
+    "summary": "Article URL: https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/\nComments URL: https://news.ycombinator.com/item?id=50338474\nPoints: 3\n# Comm",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "PaulHoule",
+      "language": null
+    }
+  },
+  {
+    "id": "7283802a-708a-4eee-b121-e7cd0beacde2",
+    "title": "Can AI Spot a Bad Business Plan?",
+    "source_url": "https://www.yovico.ai/blog/can-ai-spot-a-bad-business-plan/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-02T17:46:40.871561+00:00",
+    "analyzed_at": "2026-11-02T17:46:40.871561+00:00",
+    "summary": "Article URL: https://www.yovico.ai/blog/can-ai-spot-a-bad-business-plan/\nComments URL: https://news.ycombinator.com/item?id=50338403\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "siberiankot",
+      "language": null
+    }
+  },
+  {
+    "id": "05861a27-6fdc-42f5-8251-fdc2d607e531",
+    "title": "Senior Engineers Are Using AI Wrong and Software Factories Are Dumb [video]",
+    "source_url": "https://www.youtube.com/watch?v=4Oq_gdhjYUw",
+    "source": "hacker_news",
+    "collected_at": "2026-11-02T17:46:42.126882+00:00",
+    "analyzed_at": "2026-11-02T17:46:42.126882+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=4Oq_gdhjYUw\nComments URL: https://news.ycombinator.com/item?id=50338402\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "asilis",
+      "language": null
+    }
+  },
+  {
+    "id": "c2c3cfe8-9678-4333-8da4-e12be19e7a22",
+    "title": "Ask HN: Are you using AI for company messaging?",
+    "source_url": "https://news.ycombinator.com/item?id=50338383",
+    "source": "hacker_news",
+    "collected_at": "2026-11-02T17:46:43.373520+00:00",
+    "analyzed_at": "2026-11-02T17:46:43.373520+00:00",
+    "summary": "I've noticed that a lot of startup websites have messaging that has clearly been written by AI. Is the time investment to get to excellent messaging simply not worth it?\n\nComments URL: https://news.yc",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "fapi1974",
+      "language": null
+    }
+  },
+  {
+    "id": "1c1b8e98-0774-44c2-8d12-19a97870136c",
+    "title": "You Can't Just Add AI",
+    "source_url": "https://www.yusufbirader.com/writing/you-cant-just-add-ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-02T17:46:44.623539+00:00",
+    "analyzed_at": "2026-11-02T17:46:44.623539+00:00",
+    "summary": "Article URL: https://www.yusufbirader.com/writing/you-cant-just-add-ai/\nComments URL: https://news.ycombinator.com/item?id=50338351\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "exposition",
+      "language": null
+    }
+  }
+]

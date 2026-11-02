@@ -1,0 +1,178 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-11-02T17:46:19.632779+00:00",
+  "items": [
+    {
+      "name": "We replaced 11,000 lines of AI chat code with CopilotKit and AG-UI",
+      "url": "https://fynk.com/en/blog/fynk-assistant-copilotkit-vue/",
+      "summary": "Article URL: https://fynk.com/en/blog/fynk-assistant-copilotkit-vue/\nComments URL: https://news.ycombinator.com/item?id=50340387\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "0cool",
+      "published": "Mon, 02 Nov 2026 17:34:13 +0000"
+    },
+    {
+      "name": "Show HN: Build and explore a shared AI computer, just by talking",
+      "url": "https://duplex.party/",
+      "summary": "Article URL: https://duplex.party/\nComments URL: https://news.ycombinator.com/item?id=50340215\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "SebastianSosa",
+      "published": "Mon, 02 Nov 2026 17:23:39 +0000"
+    },
+    {
+      "name": "Vibe-Coding a Game in 2026: What AI Builds, What Breaks",
+      "url": "https://vlstudio.app/blog/vibe-coding-a-game-2026/",
+      "summary": "Article URL: https://vlstudio.app/blog/vibe-coding-a-game-2026/\nComments URL: https://news.ycombinator.com/item?id=50340109\nPoints: 5\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "vladosskins",
+      "published": "Mon, 02 Nov 2026 17:17:41 +0000"
+    },
+    {
+      "name": "Hume launches the first decision model for voice AI",
+      "url": "https://www.hume.ai/products/decision-model-api",
+      "summary": "Article URL: https://www.hume.ai/products/decision-model-api\nComments URL: https://news.ycombinator.com/item?id=50339949\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "dndx",
+      "published": "Mon, 02 Nov 2026 17:07:10 +0000"
+    },
+    {
+      "name": "Microsoft just gave us the perfect name for AI thieves: Kyle",
+      "url": "https://ketanjoshi.co/2026/11/02/microsoft-just-gave-us-the-perfect-name-for-ai-thieves-kyle/",
+      "summary": "Article URL: https://ketanjoshi.co/2026/11/02/microsoft-just-gave-us-the-perfect-name-for-ai-thieves-kyle/\nComments URL: https://news.ycombinator.com/item?id=50339940\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "_____k",
+      "published": "Mon, 02 Nov 2026 17:06:43 +0000"
+    },
+    {
+      "name": "It's time to block reckless AI IPOs and tax billionaires",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/02/ai-ipos-tax-billionaires",
+      "summary": "Article URL: https://www.theguardian.com/commentisfree/2026/nov/02/ai-ipos-tax-billionaires\nComments URL: https://news.ycombinator.com/item?id=50339800\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "entryleveljobsc",
+      "published": "Mon, 02 Nov 2026 16:59:08 +0000"
+    },
+    {
+      "name": "Show HN: Agent Drift Game – short games about why AI agents drift",
+      "url": "https://drift.seethis.dev/",
+      "summary": "Article URL: https://drift.seethis.dev/\nComments URL: https://news.ycombinator.com/item?id=50339784\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "aming557",
+      "published": "Mon, 02 Nov 2026 16:58:12 +0000"
+    },
+    {
+      "name": "SUSE to cut one in ten employees because of AI",
+      "url": "https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950",
+      "summary": "Article URL: https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950\nComments URL: https://news.ycombinator.com/item?id=50339628\nPoints: 4\n# Comments: 5",
+      "source": "hacker_news",
+      "score": null,
+      "author": "klhs",
+      "published": "Mon, 02 Nov 2026 16:48:14 +0000"
+    },
+    {
+      "name": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+      "summary": "Article URL: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11\nComments URL: https://news.ycombinator.com/item?id=50339494\nPoints: 38\n# Comments: 28",
+      "source": "hacker_news",
+      "score": null,
+      "author": "entryleveljobsc",
+      "published": "Mon, 02 Nov 2026 16:40:29 +0000"
+    },
+    {
+      "name": "The Fruits of AI Drug Abundance: Indigestion in the Near Term",
+      "url": "https://lifescivc.com/2026/10/the-fruits-of-ai-drug-abundance-indigestion-in-the-near-term/",
+      "summary": "Article URL: https://lifescivc.com/2026/10/the-fruits-of-ai-drug-abundance-indigestion-in-the-near-term/\nComments URL: https://news.ycombinator.com/item?id=50339226\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "brandonb",
+      "published": "Mon, 02 Nov 2026 16:25:38 +0000"
+    },
+    {
+      "name": "Grokipedia offers lessons in how AI can help Wikipedia",
+      "url": "https://www.niemanlab.org/2026/11/elon-musks-grokipedia-is-littered-with-mistakes-but-wikipedia-could-still-learn-some-things-from-it/",
+      "summary": "Article URL: https://www.niemanlab.org/2026/11/elon-musks-grokipedia-is-littered-with-mistakes-but-wikipedia-could-still-learn-some-things-from-it/\nComments URL: https://news.ycombinator.com/item?id=5",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ibn_khaldun",
+      "published": "Mon, 02 Nov 2026 16:15:26 +0000"
+    },
+    {
+      "name": "Basically no one is using AI agents for their DoorDash orders",
+      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/\nComments URL: https://news.ycombinator.com/item?id=50338474\nPoints: 3\n# Comm",
+      "source": "hacker_news",
+      "score": null,
+      "author": "PaulHoule",
+      "published": "Mon, 02 Nov 2026 15:48:45 +0000"
+    },
+    {
+      "name": "Can AI Spot a Bad Business Plan?",
+      "url": "https://www.yovico.ai/blog/can-ai-spot-a-bad-business-plan/",
+      "summary": "Article URL: https://www.yovico.ai/blog/can-ai-spot-a-bad-business-plan/\nComments URL: https://news.ycombinator.com/item?id=50338403\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "siberiankot",
+      "published": "Mon, 02 Nov 2026 15:44:27 +0000"
+    },
+    {
+      "name": "Senior Engineers Are Using AI Wrong and Software Factories Are Dumb [video]",
+      "url": "https://www.youtube.com/watch?v=4Oq_gdhjYUw",
+      "summary": "Article URL: https://www.youtube.com/watch?v=4Oq_gdhjYUw\nComments URL: https://news.ycombinator.com/item?id=50338402\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "asilis",
+      "published": "Mon, 02 Nov 2026 15:44:22 +0000"
+    },
+    {
+      "name": "Ask HN: Are you using AI for company messaging?",
+      "url": "https://news.ycombinator.com/item?id=50338383",
+      "summary": "I've noticed that a lot of startup websites have messaging that has clearly been written by AI. Is the time investment to get to excellent messaging simply not worth it?\n\nComments URL: https://news.yc",
+      "source": "hacker_news",
+      "score": null,
+      "author": "fapi1974",
+      "published": "Mon, 02 Nov 2026 15:42:59 +0000"
+    },
+    {
+      "name": "You Can't Just Add AI",
+      "url": "https://www.yusufbirader.com/writing/you-cant-just-add-ai/",
+      "summary": "Article URL: https://www.yusufbirader.com/writing/you-cant-just-add-ai/\nComments URL: https://news.ycombinator.com/item?id=50338351\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "exposition",
+      "published": "Mon, 02 Nov 2026 15:40:51 +0000"
+    },
+    {
+      "name": "AI agents raised their own spending caps",
+      "url": "https://theainewsreport.com/2026-11-02-ai-agents-raise-own-spending-caps-explained.html",
+      "summary": "Article URL: https://theainewsreport.com/2026-11-02-ai-agents-raise-own-spending-caps-explained.html\nComments URL: https://news.ycombinator.com/item?id=50338327\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "titusblair",
+      "published": "Mon, 02 Nov 2026 15:39:33 +0000"
+    },
+    {
+      "name": "Spotify plans AI song remixes next year, costing up to $5 extra a month",
+      "url": "https://www.techspot.com/news/114410-spotify-plans-users-remix-artists-songs-using-ai.html",
+      "summary": "Article URL: https://www.techspot.com/news/114410-spotify-plans-users-remix-artists-songs-using-ai.html\nComments URL: https://news.ycombinator.com/item?id=50338293\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "entryleveljobsc",
+      "published": "Mon, 02 Nov 2026 15:37:26 +0000"
+    },
+    {
+      "name": "AI Applications Earn Their Premium",
+      "url": "https://www.a16z.news/p/how-ai-applications-earn-their-premium",
+      "summary": "Article URL: https://www.a16z.news/p/how-ai-applications-earn-their-premium\nComments URL: https://news.ycombinator.com/item?id=50338145\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "jbredeche",
+      "published": "Mon, 02 Nov 2026 15:27:27 +0000"
+    }
+  ]
+}
