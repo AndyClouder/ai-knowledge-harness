@@ -1,0 +1,422 @@
+[
+  {
+    "id": "ab0bdd74-d23d-4d5a-861e-050089e8d102",
+    "title": "lexifina/global-law",
+    "source_url": "https://github.com/lexifina/global-law",
+    "source": "unknown",
+    "collected_at": "2026-11-03T15:47:58.315658+00:00",
+    "analyzed_at": "2026-11-03T15:47:58.315658+00:00",
+    "summary": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1730,
+      "score": null,
+      "author": null,
+      "language": "HTML"
+    }
+  },
+  {
+    "id": "269c7522-734f-47f5-ac13-6b1071856e6a",
+    "title": "mromidev/claude-animated-shorts",
+    "source_url": "https://github.com/mromidev/claude-animated-shorts",
+    "source": "unknown",
+    "collected_at": "2026-11-03T15:47:59.558938+00:00",
+    "analyzed_at": "2026-11-03T15:47:59.558938+00:00",
+    "summary": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1049,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "06065537-c9ef-4485-94b8-593116630d7d",
+    "title": "sleepy-zone/ai-ref-library-cn",
+    "source_url": "https://github.com/sleepy-zone/ai-ref-library-cn",
+    "source": "unknown",
+    "collected_at": "2026-11-03T15:48:00.803343+00:00",
+    "analyzed_at": "2026-11-03T15:48:00.803343+00:00",
+    "summary": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 697,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "a514cae8-b5c7-4e4b-84c2-5bb532915cec",
+    "title": "N1nEmAn/sapper-v2",
+    "source_url": "https://github.com/N1nEmAn/sapper-v2",
+    "source": "unknown",
+    "collected_at": "2026-11-03T15:48:02.047223+00:00",
+    "analyzed_at": "2026-11-03T15:48:02.047223+00:00",
+    "summary": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 657,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "15f29686-9d91-4e7a-bbe6-4cdaa0030931",
+    "title": "cutetailbud/ff-ruyijs",
+    "source_url": "https://github.com/cutetailbud/ff-ruyijs",
+    "source": "unknown",
+    "collected_at": "2026-11-03T15:48:03.289592+00:00",
+    "analyzed_at": "2026-11-03T15:48:03.289592+00:00",
+    "summary": "A AI Browser run any site JavaScript from Python with the real Firefox engine. Headless SpiderMonkey + Necko for automation and scraping.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 653,
+      "score": null,
+      "author": null,
+      "language": "C++"
+    }
+  },
+  {
+    "id": "c24c6103-09e4-458f-9fde-8ab689243c95",
+    "title": "World of Warcraft: Forever Is Overrun with AI Slop",
+    "source_url": "https://www.404media.co/world-of-warcraft-forever-is-already-overrun-with-ai-slop/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-03T15:48:04.533908+00:00",
+    "analyzed_at": "2026-11-03T15:48:04.533908+00:00",
+    "summary": "Article URL: https://www.404media.co/world-of-warcraft-forever-is-already-overrun-with-ai-slop/\nComments URL: https://news.ycombinator.com/item?id=50353364\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "speckx",
+      "language": null
+    }
+  },
+  {
+    "id": "565c3516-79b1-45d4-8bf4-9faeb846c3a3",
+    "title": "Is AI Mainly Being Used to Stop Hiring Young Workers",
+    "source_url": "https://finance.yahoo.com/technology/ai/articles/most-powerful-technology-history-using-113000128.html",
+    "source": "hacker_news",
+    "collected_at": "2026-11-03T15:48:05.779161+00:00",
+    "analyzed_at": "2026-11-03T15:48:05.779161+00:00",
+    "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/most-powerful-technology-history-using-113000128.html\nComments URL: https://news.ycombinator.com/item?id=50353338\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "KazaNLP",
+      "language": null
+    }
+  },
+  {
+    "id": "67ecf4eb-e839-43e0-9e39-228cee234c21",
+    "title": "AI is destroying my CS degree",
+    "source_url": "https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-03T15:48:07.032815+00:00",
+    "analyzed_at": "2026-11-03T15:48:07.032815+00:00",
+    "summary": "Article URL: https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/\nComments URL: https://news.ycombinator.com/item?id=50353300\nPoints: 6\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "speckx",
+      "language": null
+    }
+  },
+  {
+    "id": "a821cfb0-2b4b-4dae-879a-8096292ebc1b",
+    "title": "'Our Risk, Their Reward': Zohran Mamdani on AI and Data Centers",
+    "source_url": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-03T15:48:08.286820+00:00",
+    "analyzed_at": "2026-11-03T15:48:08.286820+00:00",
+    "summary": "Article URL: https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/\nComments URL: https://news.ycombinator.com/item?id=50353184\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mooreds",
+      "language": null
+    }
+  },
+  {
+    "id": "f43d732c-8596-40f2-ab18-66489fd066e1",
+    "title": "Free courses for AI at work (chat, delegate, automate, engineer)",
+    "source_url": "https://learn.zapier.com",
+    "source": "hacker_news",
+    "collected_at": "2026-11-03T15:48:09.525837+00:00",
+    "analyzed_at": "2026-11-03T15:48:09.525837+00:00",
+    "summary": "Article URL: https://learn.zapier.com\nComments URL: https://news.ycombinator.com/item?id=50353140\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ryanric",
+      "language": null
+    }
+  },
+  {
+    "id": "1e236148-dcd9-454c-886b-08536c3a7636",
+    "title": "Octomind – open-source AI harness that saves your tokens, static rust",
+    "source_url": "https://github.com/Muvon/octomind",
+    "source": "hacker_news",
+    "collected_at": "2026-11-03T15:48:10.763647+00:00",
+    "analyzed_at": "2026-11-03T15:48:10.763647+00:00",
+    "summary": "Article URL: https://github.com/Muvon/octomind\nComments URL: https://news.ycombinator.com/item?id=50352898\nPoints: 21\n# Comments: 10",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "donk8r",
+      "language": null
+    }
+  },
+  {
+    "id": "adafca67-aaa5-4c5c-975c-3c43cdc2492a",
+    "title": "A.I. Stories in the Age of AI Hype: A Conversation with Ted Chiang",
+    "source_url": "https://buttondown.com/charliejane/archive/ai-stories-in-the-age-of-ai-hype-a-conversation/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-03T15:48:12.001559+00:00",
+    "analyzed_at": "2026-11-03T15:48:12.001559+00:00",
+    "summary": "Article URL: https://buttondown.com/charliejane/archive/ai-stories-in-the-age-of-ai-hype-a-conversation/\nComments URL: https://news.ycombinator.com/item?id=50352792\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "cainxinth",
+      "language": null
+    }
+  },
+  {
+    "id": "126c8ea6-0458-4500-9072-a0bbcf8c5729",
+    "title": "Sloptorio – I Let AI Rebuild Factorio in 3D [video]",
+    "source_url": "https://www.youtube.com/watch?v=PTSlcqYslgc",
+    "source": "hacker_news",
+    "collected_at": "2026-11-03T15:48:13.241390+00:00",
+    "analyzed_at": "2026-11-03T15:48:13.241390+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=PTSlcqYslgc\nComments URL: https://news.ycombinator.com/item?id=50352736\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "__natty__",
+      "language": null
+    }
+  },
+  {
+    "id": "ecbcc007-4a75-4bce-a61b-9abc65253f13",
+    "title": "The AI Bubble Monitor",
+    "source_url": "https://cepr.net/publications/ai-bubble-monitor/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-03T15:48:14.479328+00:00",
+    "analyzed_at": "2026-11-03T15:48:14.479328+00:00",
+    "summary": "Article URL: https://cepr.net/publications/ai-bubble-monitor/\nComments URL: https://news.ycombinator.com/item?id=50352727\nPoints: 19\n# Comments: 6",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mooreds",
+      "language": null
+    }
+  },
+  {
+    "id": "f0839656-98a6-4bfa-ae07-dc1afb401778",
+    "title": "People We Imagine: Human Possibility in an Age of AI",
+    "source_url": "https://marycamacho.com/writing/the-people-we-imagine/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-03T15:48:15.721871+00:00",
+    "analyzed_at": "2026-11-03T15:48:15.721871+00:00",
+    "summary": "Article URL: https://marycamacho.com/writing/the-people-we-imagine/\nComments URL: https://news.ycombinator.com/item?id=50352690\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "marycamacho",
+      "language": null
+    }
+  },
+  {
+    "id": "0e92dc08-4ef6-46f4-8230-0ff0192f1313",
+    "title": "2M databases and counting: the architecture behind Sauna's AI teammate",
+    "source_url": "https://turso.tech/blog/2-million-databases-and-counting-the-architecture-behind-saunas-ai-teammate",
+    "source": "hacker_news",
+    "collected_at": "2026-11-03T15:48:16.964921+00:00",
+    "analyzed_at": "2026-11-03T15:48:16.964921+00:00",
+    "summary": "Article URL: https://turso.tech/blog/2-million-databases-and-counting-the-architecture-behind-saunas-ai-teammate\nComments URL: https://news.ycombinator.com/item?id=50352647\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "argoeris",
+      "language": null
+    }
+  },
+  {
+    "id": "9d40ba37-92ab-4f90-9c02-16f74bdef9ca",
+    "title": "Show HN: React and NextJS Interactions with MCP for AI Coding – Hyperiux Vault",
+    "source_url": "https://vault.hyperiux.com",
+    "source": "hacker_news",
+    "collected_at": "2026-11-03T15:48:18.207924+00:00",
+    "analyzed_at": "2026-11-03T15:48:18.207924+00:00",
+    "summary": "Article URL: https://vault.hyperiux.com\nComments URL: https://news.ycombinator.com/item?id=50352620\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "bvarshney",
+      "language": null
+    }
+  },
+  {
+    "id": "883e2b77-036d-4762-ace4-e5602fc6961c",
+    "title": "Show HN: How to Disable Google AI Overview",
+    "source_url": "https://howtodisableaioverview.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-03T15:48:19.452990+00:00",
+    "analyzed_at": "2026-11-03T15:48:19.452990+00:00",
+    "summary": "Article URL: https://howtodisableaioverview.com/\nComments URL: https://news.ycombinator.com/item?id=50352590\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "fireflywedding",
+      "language": null
+    }
+  },
+  {
+    "id": "4bb7f676-d163-40e5-9f1d-dce1a0fe1ca1",
+    "title": "Rooting an Echo Plus 2 with AI",
+    "source_url": "https://blog.tripton.dev/rooting-an-echo-plus-2-with-ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-03T15:48:20.691529+00:00",
+    "analyzed_at": "2026-11-03T15:48:20.691529+00:00",
+    "summary": "Article URL: https://blog.tripton.dev/rooting-an-echo-plus-2-with-ai/\nComments URL: https://news.ycombinator.com/item?id=50352557\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "speckx",
+      "language": null
+    }
+  },
+  {
+    "id": "46943899-6851-4aa6-bff5-1b313fb720c8",
+    "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
+    "source_url": "https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice",
+    "source": "hacker_news",
+    "collected_at": "2026-11-03T15:48:21.928461+00:00",
+    "analyzed_at": "2026-11-03T15:48:21.928461+00:00",
+    "summary": "Article URL: https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice\nComments URL: https://news.ycombinator.com/item?id=50352479\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "geox",
+      "language": null
+    }
+  }
+]

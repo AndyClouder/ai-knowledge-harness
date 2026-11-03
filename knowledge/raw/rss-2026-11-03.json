@@ -1,0 +1,178 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-11-03T15:47:57.117985+00:00",
+  "items": [
+    {
+      "name": "World of Warcraft: Forever Is Overrun with AI Slop",
+      "url": "https://www.404media.co/world-of-warcraft-forever-is-already-overrun-with-ai-slop/",
+      "summary": "Article URL: https://www.404media.co/world-of-warcraft-forever-is-already-overrun-with-ai-slop/\nComments URL: https://news.ycombinator.com/item?id=50353364\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "speckx",
+      "published": "Tue, 03 Nov 2026 15:40:23 +0000"
+    },
+    {
+      "name": "Is AI Mainly Being Used to Stop Hiring Young Workers",
+      "url": "https://finance.yahoo.com/technology/ai/articles/most-powerful-technology-history-using-113000128.html",
+      "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/most-powerful-technology-history-using-113000128.html\nComments URL: https://news.ycombinator.com/item?id=50353338\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "KazaNLP",
+      "published": "Tue, 03 Nov 2026 15:38:10 +0000"
+    },
+    {
+      "name": "AI is destroying my CS degree",
+      "url": "https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/",
+      "summary": "Article URL: https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/\nComments URL: https://news.ycombinator.com/item?id=50353300\nPoints: 6\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "speckx",
+      "published": "Tue, 03 Nov 2026 15:35:06 +0000"
+    },
+    {
+      "name": "'Our Risk, Their Reward': Zohran Mamdani on AI and Data Centers",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
+      "summary": "Article URL: https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/\nComments URL: https://news.ycombinator.com/item?id=50353184\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mooreds",
+      "published": "Tue, 03 Nov 2026 15:25:23 +0000"
+    },
+    {
+      "name": "Free courses for AI at work (chat, delegate, automate, engineer)",
+      "url": "https://learn.zapier.com",
+      "summary": "Article URL: https://learn.zapier.com\nComments URL: https://news.ycombinator.com/item?id=50353140\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ryanric",
+      "published": "Tue, 03 Nov 2026 15:22:12 +0000"
+    },
+    {
+      "name": "Octomind – open-source AI harness that saves your tokens, static rust",
+      "url": "https://github.com/Muvon/octomind",
+      "summary": "Article URL: https://github.com/Muvon/octomind\nComments URL: https://news.ycombinator.com/item?id=50352898\nPoints: 21\n# Comments: 10",
+      "source": "hacker_news",
+      "score": null,
+      "author": "donk8r",
+      "published": "Tue, 03 Nov 2026 15:02:58 +0000"
+    },
+    {
+      "name": "A.I. Stories in the Age of AI Hype: A Conversation with Ted Chiang",
+      "url": "https://buttondown.com/charliejane/archive/ai-stories-in-the-age-of-ai-hype-a-conversation/",
+      "summary": "Article URL: https://buttondown.com/charliejane/archive/ai-stories-in-the-age-of-ai-hype-a-conversation/\nComments URL: https://news.ycombinator.com/item?id=50352792\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "cainxinth",
+      "published": "Tue, 03 Nov 2026 14:56:37 +0000"
+    },
+    {
+      "name": "Sloptorio – I Let AI Rebuild Factorio in 3D [video]",
+      "url": "https://www.youtube.com/watch?v=PTSlcqYslgc",
+      "summary": "Article URL: https://www.youtube.com/watch?v=PTSlcqYslgc\nComments URL: https://news.ycombinator.com/item?id=50352736\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "__natty__",
+      "published": "Tue, 03 Nov 2026 14:52:01 +0000"
+    },
+    {
+      "name": "The AI Bubble Monitor",
+      "url": "https://cepr.net/publications/ai-bubble-monitor/",
+      "summary": "Article URL: https://cepr.net/publications/ai-bubble-monitor/\nComments URL: https://news.ycombinator.com/item?id=50352727\nPoints: 19\n# Comments: 6",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mooreds",
+      "published": "Tue, 03 Nov 2026 14:51:31 +0000"
+    },
+    {
+      "name": "People We Imagine: Human Possibility in an Age of AI",
+      "url": "https://marycamacho.com/writing/the-people-we-imagine/",
+      "summary": "Article URL: https://marycamacho.com/writing/the-people-we-imagine/\nComments URL: https://news.ycombinator.com/item?id=50352690\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "marycamacho",
+      "published": "Tue, 03 Nov 2026 14:49:09 +0000"
+    },
+    {
+      "name": "2M databases and counting: the architecture behind Sauna's AI teammate",
+      "url": "https://turso.tech/blog/2-million-databases-and-counting-the-architecture-behind-saunas-ai-teammate",
+      "summary": "Article URL: https://turso.tech/blog/2-million-databases-and-counting-the-architecture-behind-saunas-ai-teammate\nComments URL: https://news.ycombinator.com/item?id=50352647\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "argoeris",
+      "published": "Tue, 03 Nov 2026 14:46:11 +0000"
+    },
+    {
+      "name": "Show HN: React and NextJS Interactions with MCP for AI Coding – Hyperiux Vault",
+      "url": "https://vault.hyperiux.com",
+      "summary": "Article URL: https://vault.hyperiux.com\nComments URL: https://news.ycombinator.com/item?id=50352620\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "bvarshney",
+      "published": "Tue, 03 Nov 2026 14:43:40 +0000"
+    },
+    {
+      "name": "Show HN: How to Disable Google AI Overview",
+      "url": "https://howtodisableaioverview.com/",
+      "summary": "Article URL: https://howtodisableaioverview.com/\nComments URL: https://news.ycombinator.com/item?id=50352590\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "fireflywedding",
+      "published": "Tue, 03 Nov 2026 14:41:52 +0000"
+    },
+    {
+      "name": "Rooting an Echo Plus 2 with AI",
+      "url": "https://blog.tripton.dev/rooting-an-echo-plus-2-with-ai/",
+      "summary": "Article URL: https://blog.tripton.dev/rooting-an-echo-plus-2-with-ai/\nComments URL: https://news.ycombinator.com/item?id=50352557\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "speckx",
+      "published": "Tue, 03 Nov 2026 14:39:48 +0000"
+    },
+    {
+      "name": "AI chatbots are becoming political advisers. Their answers can mislead voters",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice",
+      "summary": "Article URL: https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice\nComments URL: https://news.ycombinator.com/item?id=50352479\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "geox",
+      "published": "Tue, 03 Nov 2026 14:33:18 +0000"
+    },
+    {
+      "name": "US Hedge Funds Just Sold Every AI Stock They Bought Since 2025",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-hedge-funds-just-sold-113114644.html",
+      "summary": "Article URL: https://finance.yahoo.com/markets/stocks/articles/us-hedge-funds-just-sold-113114644.html\nComments URL: https://news.ycombinator.com/item?id=50352405\nPoints: 5\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "robin_reala",
+      "published": "Tue, 03 Nov 2026 14:27:03 +0000"
+    },
+    {
+      "name": "The Missing Operational Layer in Large-Scale AI Training",
+      "url": "https://www.hpcwire.com/2026/10/12/the-missing-operational-layer-in-large-scale-ai-training/",
+      "summary": "Article URL: https://www.hpcwire.com/2026/10/12/the-missing-operational-layer-in-large-scale-ai-training/\nComments URL: https://news.ycombinator.com/item?id=50352365\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "eapotapov",
+      "published": "Tue, 03 Nov 2026 14:23:57 +0000"
+    },
+    {
+      "name": "Show HN: An AI bot with its own Linux computer that delivers files (€39/mo)",
+      "url": "https://positrom.com/?lang=en",
+      "summary": "Article URL: https://positrom.com/?lang=en\nComments URL: https://news.ycombinator.com/item?id=50352351\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "cerewro_team",
+      "published": "Tue, 03 Nov 2026 14:22:18 +0000"
+    },
+    {
+      "name": "Show HN: Isitslop.org: AI Can build anything. Was it worth it?",
+      "url": "https://isitslop.org",
+      "summary": "AI can build anything. Was it worth it?\nBuilt by people who were bitter when they spent years crafting https://apiblaze.com and it got lost in the sea of slop\n\nComments URL: https://news.ycombinator.c",
+      "source": "hacker_news",
+      "score": null,
+      "author": "jayjaychicago",
+      "published": "Tue, 03 Nov 2026 14:19:28 +0000"
+    }
+  ]
+}
