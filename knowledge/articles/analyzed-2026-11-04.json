@@ -1,0 +1,107 @@
+[
+  {
+    "id": "365e8715-50a7-4c8f-b0cf-c0edb13cb599",
+    "title": "KKKKhazix/agent-autoloop",
+    "source_url": "https://github.com/KKKKhazix/agent-autoloop",
+    "source": "unknown",
+    "collected_at": "2026-11-04T15:56:26.537046+00:00",
+    "analyzed_at": "2026-11-04T15:56:26.537046+00:00",
+    "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 2256,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "cb8ee6da-db9a-4336-8a13-aa7f175bf0b0",
+    "title": "wquguru/cicada",
+    "source_url": "https://github.com/wquguru/cicada",
+    "source": "unknown",
+    "collected_at": "2026-11-04T15:56:27.759799+00:00",
+    "analyzed_at": "2026-11-04T15:56:27.759799+00:00",
+    "summary": "知了 Cicada · 任意会议与直播的实时字幕、同声传译、AI 会议纪要（macOS）。Live subtitles, interpreting and meeting notes for any call or stream on your Mac.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1014,
+      "score": null,
+      "author": null,
+      "language": "Swift"
+    }
+  },
+  {
+    "id": "cf691811-e507-4cd6-9a37-553a116aa4f7",
+    "title": "RikiyaT/lm_understand-logs",
+    "source_url": "https://github.com/RikiyaT/lm_understand-logs",
+    "source": "unknown",
+    "collected_at": "2026-11-04T15:56:28.972839+00:00",
+    "analyzed_at": "2026-11-04T15:56:28.972839+00:00",
+    "summary": "Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 873,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "67d7fbf1-15bf-49d0-926b-88a9aae12808",
+    "title": "anthropics/FlashProve",
+    "source_url": "https://github.com/anthropics/FlashProve",
+    "source": "unknown",
+    "collected_at": "2026-11-04T15:56:30.185410+00:00",
+    "analyzed_at": "2026-11-04T15:56:30.185410+00:00",
+    "summary": "A research prototype for zero-knowledge proofs of AI inference. Not maintained.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 731,
+      "score": null,
+      "author": null,
+      "language": "Lean"
+    }
+  },
+  {
+    "id": "87c6be6b-fda5-4eda-aa7d-ac62a8792416",
+    "title": "rerun-build/rerun",
+    "source_url": "https://github.com/rerun-build/rerun",
+    "source": "unknown",
+    "collected_at": "2026-11-04T15:56:31.410853+00:00",
+    "analyzed_at": "2026-11-04T15:56:31.410853+00:00",
+    "summary": "AI coworkers that run your work. Self-hostable, AGPL-3.0.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 650,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  }
+]

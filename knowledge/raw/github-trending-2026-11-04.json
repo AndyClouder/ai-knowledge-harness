@@ -1,0 +1,70 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-11-04T15:56:24.346252+00:00",
+  "items": [
+    {
+      "name": "KKKKhazix/agent-autoloop",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "stars": 2256,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "automation",
+        "claude-code",
+        "cli",
+        "codex",
+        "event-driven",
+        "mcp",
+        "nodejs",
+        "self-hosted",
+        "typescript",
+        "workflow"
+      ]
+    },
+    {
+      "name": "wquguru/cicada",
+      "url": "https://github.com/wquguru/cicada",
+      "summary": "知了 Cicada · 任意会议与直播的实时字幕、同声传译、AI 会议纪要（macOS）。Live subtitles, interpreting and meeting notes for any call or stream on your Mac.",
+      "stars": 1014,
+      "language": "Swift",
+      "topics": [
+        "live-captions",
+        "macos",
+        "meeting-notes",
+        "menubar-app",
+        "simultaneous-interpretation",
+        "speech-recognition",
+        "subtitles",
+        "swift",
+        "swiftui",
+        "translation"
+      ]
+    },
+    {
+      "name": "RikiyaT/lm_understand-logs",
+      "url": "https://github.com/RikiyaT/lm_understand-logs",
+      "summary": "Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'",
+      "stars": 873,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "anthropics/FlashProve",
+      "url": "https://github.com/anthropics/FlashProve",
+      "summary": "A research prototype for zero-knowledge proofs of AI inference. Not maintained.",
+      "stars": 731,
+      "language": "Lean",
+      "topics": []
+    },
+    {
+      "name": "rerun-build/rerun",
+      "url": "https://github.com/rerun-build/rerun",
+      "summary": "AI coworkers that run your work. Self-hostable, AGPL-3.0.",
+      "stars": 650,
+      "language": "TypeScript",
+      "topics": []
+    }
+  ]
+}
