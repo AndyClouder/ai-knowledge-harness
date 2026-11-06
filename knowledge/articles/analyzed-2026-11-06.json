@@ -1,0 +1,233 @@
+[
+  {
+    "id": "5396239f-c350-4b1d-a5c6-a078f92abc75",
+    "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+    "source_url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+    "source": "unknown",
+    "collected_at": "2026-11-06T15:38:43.161978+00:00",
+    "analyzed_at": "2026-11-06T15:38:43.161978+00:00",
+    "summary": "Google_AI_Pro_2Year_ZeroCost_Auto",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 2798,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "f73aa17a-688a-4c1a-b060-44ad1661cba6",
+    "title": "UncensoredLabs/uncensored-ai-api",
+    "source_url": "https://github.com/UncensoredLabs/uncensored-ai-api",
+    "source": "unknown",
+    "collected_at": "2026-11-06T15:38:44.355651+00:00",
+    "analyzed_at": "2026-11-06T15:38:44.355651+00:00",
+    "summary": "Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 953,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "7a3afb48-8974-459c-b1e7-55039bf12b18",
+    "title": "andrew-babo/muse4ai",
+    "source_url": "https://github.com/andrew-babo/muse4ai",
+    "source": "unknown",
+    "collected_at": "2026-11-06T15:38:45.545214+00:00",
+    "analyzed_at": "2026-11-06T15:38:45.545214+00:00",
+    "summary": "Muse4AI — let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 933,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "af85e03a-e7f9-4ba8-90d8-be4d6bb341d8",
+    "title": "Minglink/dsh-jailbreak-workflow",
+    "source_url": "https://github.com/Minglink/dsh-jailbreak-workflow",
+    "source": "unknown",
+    "collected_at": "2026-11-06T15:38:46.886205+00:00",
+    "analyzed_at": "2026-11-06T15:38:46.886205+00:00",
+    "summary": "DSH 破甲词制作作工作流 ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 705,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "5409943a-a356-4503-a93e-b08e77602c37",
+    "title": "alchaincyf/huashu-bird-sticker",
+    "source_url": "https://github.com/alchaincyf/huashu-bird-sticker",
+    "source": "unknown",
+    "collected_at": "2026-11-06T15:38:48.080958+00:00",
+    "analyzed_at": "2026-11-06T15:38:48.080958+00:00",
+    "summary": "花叔开源的全球鸟类贴纸库 · Stickers for all 11,064 living bird species, with names in 43 languages and structured data",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 695,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "272da5bc-ec58-4cb9-8f44-5c42bd2395de",
+    "title": "Sandflow-ai/sand3d",
+    "source_url": "https://github.com/Sandflow-ai/sand3d",
+    "source": "unknown",
+    "collected_at": "2026-11-06T15:38:49.280899+00:00",
+    "analyzed_at": "2026-11-06T15:38:49.280899+00:00",
+    "summary": "3D modeling in Python, built for LLMs.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 657,
+      "score": null,
+      "author": null,
+      "language": "HTML"
+    }
+  },
+  {
+    "id": "4dc243d3-0a41-49fc-a30b-89826bb85494",
+    "title": "Balanov/uncut",
+    "source_url": "https://github.com/Balanov/uncut",
+    "source": "unknown",
+    "collected_at": "2026-11-06T15:38:50.471345+00:00",
+    "analyzed_at": "2026-11-06T15:38:50.471345+00:00",
+    "summary": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 611,
+      "score": null,
+      "author": null,
+      "language": "Go"
+    }
+  },
+  {
+    "id": "a1b167a9-8bb0-4926-baee-fe518aa20baa",
+    "title": "zhanghao123vip/ai-manju-skills",
+    "source_url": "https://github.com/zhanghao123vip/ai-manju-skills",
+    "source": "unknown",
+    "collected_at": "2026-11-06T15:38:51.661054+00:00",
+    "analyzed_at": "2026-11-06T15:38:51.661054+00:00",
+    "summary": "21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 600,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "eb1b2500-9463-4b6b-bafb-95d04be40bee",
+    "title": "op7418/dsh-guizang-design",
+    "source_url": "https://github.com/op7418/dsh-guizang-design",
+    "source": "unknown",
+    "collected_at": "2026-11-06T15:38:52.868024+00:00",
+    "analyzed_at": "2026-11-06T15:38:52.868024+00:00",
+    "summary": "歸藏设计 · DeepSeek Harness 插件：网页 PPT、图文卡片、网页排版、去 AI 味四个 skill，一套设计系统；作品库、内容生产工作流、语气档案",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 539,
+      "score": null,
+      "author": null,
+      "language": "HTML"
+    }
+  },
+  {
+    "id": "4d18192f-f360-497d-98c7-5758e0ee5a26",
+    "title": "sqlpxc/airhand",
+    "source_url": "https://github.com/sqlpxc/airhand",
+    "source": "unknown",
+    "collected_at": "2026-11-06T15:38:54.063150+00:00",
+    "analyzed_at": "2026-11-06T15:38:54.063150+00:00",
+    "summary": "High-performance remote desktop over QUIC · Rust + Tauri + React",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 508,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "b10a2b8a-30ee-4fc0-9dac-4763514ca14d",
+    "title": "smarkyie/NSP-Box",
+    "source_url": "https://github.com/smarkyie/NSP-Box",
+    "source": "unknown",
+    "collected_at": "2026-11-06T15:38:55.246808+00:00",
+    "analyzed_at": "2026-11-06T15:38:55.246808+00:00",
+    "summary": "NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 505,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  }
+]

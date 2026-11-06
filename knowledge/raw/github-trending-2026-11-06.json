@@ -1,0 +1,159 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-11-06T15:38:33.260863+00:00",
+  "items": [
+    {
+      "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "summary": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "stars": 2798,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "UncensoredLabs/uncensored-ai-api",
+      "url": "https://github.com/UncensoredLabs/uncensored-ai-api",
+      "summary": "Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
+      "stars": 953,
+      "language": "JavaScript",
+      "topics": [
+        "abliterated-models",
+        "ai-models",
+        "chat-api",
+        "deepseek",
+        "deepseek-flash-uncensored",
+        "deepseek-v4-1-flash-abliterated",
+        "developer-tools",
+        "glm",
+        "glm-abliterated",
+        "glm-uncensored",
+        "streaming-api",
+        "typescript",
+        "uncensored-ai",
+        "uncensored-ai-api",
+        "uncensored-ai-list",
+        "uncensored-chat",
+        "uncensored-llm",
+        "uncensored-models",
+        "unfiltered-ai",
+        "unfiltered-chat"
+      ]
+    },
+    {
+      "name": "andrew-babo/muse4ai",
+      "url": "https://github.com/andrew-babo/muse4ai",
+      "summary": "Muse4AI — let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.",
+      "stars": 933,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "Minglink/dsh-jailbreak-workflow",
+      "url": "https://github.com/Minglink/dsh-jailbreak-workflow",
+      "summary": "DSH 破甲词制作作工作流 ",
+      "stars": 705,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "name": "alchaincyf/huashu-bird-sticker",
+      "url": "https://github.com/alchaincyf/huashu-bird-sticker",
+      "summary": "花叔开源的全球鸟类贴纸库 · Stickers for all 11,064 living bird species, with names in 43 languages and structured data",
+      "stars": 695,
+      "language": null,
+      "topics": [
+        "ai-generated",
+        "biodiversity",
+        "birding",
+        "birds",
+        "birdwatching",
+        "claude-code",
+        "codex",
+        "dataset",
+        "illustration",
+        "ioc-world-bird-list",
+        "multilingual",
+        "open-data",
+        "ornithology",
+        "stickers",
+        "taxonomy"
+      ]
+    },
+    {
+      "name": "Sandflow-ai/sand3d",
+      "url": "https://github.com/Sandflow-ai/sand3d",
+      "summary": "3D modeling in Python, built for LLMs.",
+      "stars": 657,
+      "language": "HTML",
+      "topics": [
+        "3d",
+        "blender",
+        "cad",
+        "llm",
+        "procedural-modeling",
+        "python",
+        "usd"
+      ]
+    },
+    {
+      "name": "Balanov/uncut",
+      "url": "https://github.com/Balanov/uncut",
+      "summary": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+      "stars": 611,
+      "language": "Go",
+      "topics": [
+        "agent-harness",
+        "cli",
+        "coding-agent",
+        "go",
+        "headless",
+        "llm",
+        "local-models"
+      ]
+    },
+    {
+      "name": "zhanghao123vip/ai-manju-skills",
+      "url": "https://github.com/zhanghao123vip/ai-manju-skills",
+      "summary": "21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek",
+      "stars": 600,
+      "language": null,
+      "topics": [
+        "ai-skills",
+        "ai-video",
+        "chinese",
+        "claude-code",
+        "prompt-engineering"
+      ]
+    },
+    {
+      "name": "op7418/dsh-guizang-design",
+      "url": "https://github.com/op7418/dsh-guizang-design",
+      "summary": "歸藏设计 · DeepSeek Harness 插件：网页 PPT、图文卡片、网页排版、去 AI 味四个 skill，一套设计系统；作品库、内容生产工作流、语气档案",
+      "stars": 539,
+      "language": "HTML",
+      "topics": [
+        "deepseek-harness",
+        "design-system",
+        "dsh-plugin",
+        "skills"
+      ]
+    },
+    {
+      "name": "sqlpxc/airhand",
+      "url": "https://github.com/sqlpxc/airhand",
+      "summary": "High-performance remote desktop over QUIC · Rust + Tauri + React",
+      "stars": 508,
+      "language": "Rust",
+      "topics": []
+    },
+    {
+      "name": "smarkyie/NSP-Box",
+      "url": "https://github.com/smarkyie/NSP-Box",
+      "summary": "NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
+      "stars": 505,
+      "language": "Python",
+      "topics": []
+    }
+  ]
+}
