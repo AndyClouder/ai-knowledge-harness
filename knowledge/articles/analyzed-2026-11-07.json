@@ -1,0 +1,422 @@
+[
+  {
+    "id": "2c743e80-d0f9-4fb3-a31c-e12aa1469ff8",
+    "title": "voyager-so/vork",
+    "source_url": "https://github.com/voyager-so/vork",
+    "source": "unknown",
+    "collected_at": "2026-11-07T14:39:20.962356+00:00",
+    "analyzed_at": "2026-11-07T14:39:20.962356+00:00",
+    "summary": "Headless 3D and VFX engine for agents. Research preview.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 684,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "78fef034-1006-431e-b2ea-7312e823a147",
+    "title": "libracoder/kiri",
+    "source_url": "https://github.com/libracoder/kiri",
+    "source": "unknown",
+    "collected_at": "2026-11-07T14:39:22.131571+00:00",
+    "analyzed_at": "2026-11-07T14:39:22.131571+00:00",
+    "summary": "A small, fast container runtime for macOS, Windows and Linux",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 672,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "5ff16ff2-cc6d-40df-8ae5-952189e8de2b",
+    "title": "Lee-xeo/Claude-Cage",
+    "source_url": "https://github.com/Lee-xeo/Claude-Cage",
+    "source": "unknown",
+    "collected_at": "2026-11-07T14:39:23.303772+00:00",
+    "analyzed_at": "2026-11-07T14:39:23.303772+00:00",
+    "summary": "Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 569,
+      "score": null,
+      "author": null,
+      "language": "Go"
+    }
+  },
+  {
+    "id": "f52a20cc-bed4-4654-88b3-6fef0d88dca7",
+    "title": "stubbi/asm",
+    "source_url": "https://github.com/stubbi/asm",
+    "source": "unknown",
+    "collected_at": "2026-11-07T14:39:24.475494+00:00",
+    "analyzed_at": "2026-11-07T14:39:24.475494+00:00",
+    "summary": "The package registry and command-line tool for assembly projects.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 547,
+      "score": null,
+      "author": null,
+      "language": "Assembly"
+    }
+  },
+  {
+    "id": "b48c4fec-5007-4759-b5fc-41b469fc1322",
+    "title": "sarpstar/cinecode",
+    "source_url": "https://github.com/sarpstar/cinecode",
+    "source": "unknown",
+    "collected_at": "2026-11-07T14:39:25.645902+00:00",
+    "analyzed_at": "2026-11-07T14:39:25.645902+00:00",
+    "summary": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 526,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "02e5157c-d8ba-4d9b-81ed-6c57524e9302",
+    "title": "majorminorlabs/hermes-voice",
+    "source_url": "https://github.com/majorminorlabs/hermes-voice",
+    "source": "unknown",
+    "collected_at": "2026-11-07T14:39:26.817368+00:00",
+    "analyzed_at": "2026-11-07T14:39:26.817368+00:00",
+    "summary": "Talk to a Hermes Agent profile through Home Assistant Assist",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 483,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "5506e0a9-8083-408c-94e3-2b5fd8af0527",
+    "title": "zeekk0/OpenAmika",
+    "source_url": "https://github.com/zeekk0/OpenAmika",
+    "source": "unknown",
+    "collected_at": "2026-11-07T14:39:27.988876+00:00",
+    "analyzed_at": "2026-11-07T14:39:27.988876+00:00",
+    "summary": "OpenAmika: MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 474,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "9c43936c-0e79-452a-a2b3-c3df729fbca8",
+    "title": "mhfed/vn-law-check",
+    "source_url": "https://github.com/mhfed/vn-law-check",
+    "source": "unknown",
+    "collected_at": "2026-11-07T14:39:29.162765+00:00",
+    "analyzed_at": "2026-11-07T14:39:29.162765+00:00",
+    "summary": "Audit pháp lý website theo luật Việt Nam (BVDLCN 91/2025, TMĐT 122/2025, ANM 116/2025, AI 134/2025) cho Claude Code, Cursor, Copilot, Windsurf, Cline",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 469,
+      "score": null,
+      "author": null,
+      "language": "Shell"
+    }
+  },
+  {
+    "id": "9a0a3357-3ca6-4871-b3de-0182a934e675",
+    "title": "artemnovitckii/claude-animation-skills",
+    "source_url": "https://github.com/artemnovitckii/claude-animation-skills",
+    "source": "unknown",
+    "collected_at": "2026-11-07T14:39:30.334253+00:00",
+    "analyzed_at": "2026-11-07T14:39:30.334253+00:00",
+    "summary": "Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, line graph.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 465,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "07224c7d-9a0c-4c97-9231-02b1983708bf",
+    "title": "Show HN: Image to Image AI: Free AI Image Editor Online – Tancky AI",
+    "source_url": "https://tancky.io/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-07T14:39:31.505348+00:00",
+    "analyzed_at": "2026-11-07T14:39:31.505348+00:00",
+    "summary": "Article URL: https://tancky.io/\nComments URL: https://news.ycombinator.com/item?id=50404825\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "tancky",
+      "language": null
+    }
+  },
+  {
+    "id": "ba510ffb-39c4-4f3c-849f-fe4f855528b1",
+    "title": "AI can track a single bird over time–based solely on its song",
+    "source_url": "https://www.science.org/content/article/ai-can-track-single-bird-over-time-based-solely-its-song",
+    "source": "hacker_news",
+    "collected_at": "2026-11-07T14:39:32.675191+00:00",
+    "analyzed_at": "2026-11-07T14:39:32.675191+00:00",
+    "summary": "Article URL: https://www.science.org/content/article/ai-can-track-single-bird-over-time-based-solely-its-song\nComments URL: https://news.ycombinator.com/item?id=50404785\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Brajeshwar",
+      "language": null
+    }
+  },
+  {
+    "id": "717f567e-730d-48b2-947b-57340188abb2",
+    "title": "I don't care if web content is AI-generated",
+    "source_url": "https://kevinboone.me/ai.html",
+    "source": "hacker_news",
+    "collected_at": "2026-11-07T14:39:33.858398+00:00",
+    "analyzed_at": "2026-11-07T14:39:33.858398+00:00",
+    "summary": "Article URL: https://kevinboone.me/ai.html\nComments URL: https://news.ycombinator.com/item?id=50404622\nPoints: 7\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "andsoitis",
+      "language": null
+    }
+  },
+  {
+    "id": "4cd5d2f3-992b-4d97-8094-b2be1b2ca34b",
+    "title": "Former Meta Security Chief Calls Password Access for AI Agents 'Insane'",
+    "source_url": "https://epyhia.com/meta-launches-muse-ai-spaces-former-security-chief-calls-password",
+    "source": "hacker_news",
+    "collected_at": "2026-11-07T14:39:35.041051+00:00",
+    "analyzed_at": "2026-11-07T14:39:35.041051+00:00",
+    "summary": "Article URL: https://epyhia.com/meta-launches-muse-ai-spaces-former-security-chief-calls-password\nComments URL: https://news.ycombinator.com/item?id=50404588\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "arbuge",
+      "language": null
+    }
+  },
+  {
+    "id": "94a7c348-3a81-4a84-b4bf-4074bec932a8",
+    "title": "Show HN: I made a guardrail against AI outreach slop (API/MCP)",
+    "source_url": "https://maildignity.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-07T14:39:36.224031+00:00",
+    "analyzed_at": "2026-11-07T14:39:36.224031+00:00",
+    "summary": "Article URL: https://maildignity.com/\nComments URL: https://news.ycombinator.com/item?id=50404494\nPoints: 5\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "harryden",
+      "language": null
+    }
+  },
+  {
+    "id": "8e2cc8e1-6c83-4e4a-ad97-e84882bb5cbb",
+    "title": "Why does America hate AI?",
+    "source_url": "https://www.ft.com/content/af97585a-3381-42a9-838b-9a205ab81232",
+    "source": "hacker_news",
+    "collected_at": "2026-11-07T14:39:37.404519+00:00",
+    "analyzed_at": "2026-11-07T14:39:37.404519+00:00",
+    "summary": "Article URL: https://www.ft.com/content/af97585a-3381-42a9-838b-9a205ab81232\nComments URL: https://news.ycombinator.com/item?id=50404484\nPoints: 3\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "bookofjoe",
+      "language": null
+    }
+  },
+  {
+    "id": "85967ddf-bfc9-4481-acba-88105a5cc63e",
+    "title": "AI Santa Video Generator – Personalized Santa Videos",
+    "source_url": "https://aisantavideo.net",
+    "source": "hacker_news",
+    "collected_at": "2026-11-07T14:39:38.584137+00:00",
+    "analyzed_at": "2026-11-07T14:39:38.584137+00:00",
+    "summary": "Article URL: https://aisantavideo.net\nComments URL: https://news.ycombinator.com/item?id=50404445\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jacksteven",
+      "language": null
+    }
+  },
+  {
+    "id": "00aacc26-ef2e-4087-80db-445a6d6d828a",
+    "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+    "source_url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-07T14:39:39.756579+00:00",
+    "analyzed_at": "2026-11-07T14:39:39.756579+00:00",
+    "summary": "Article URL: https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/\nComments URL: https://news.ycombinator.com/item?id=50404412\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jgalt212",
+      "language": null
+    }
+  },
+  {
+    "id": "0727869f-6fae-49dc-bcb7-bbee2ddb69f1",
+    "title": "Baidu Hit with Securities Fraud Class Action over AI Growth Claims",
+    "source_url": "https://epyhia.com/baidu-hit-with-securities-fraud-class-action-over-ai-growth-claims",
+    "source": "hacker_news",
+    "collected_at": "2026-11-07T14:39:40.927476+00:00",
+    "analyzed_at": "2026-11-07T14:39:40.927476+00:00",
+    "summary": "Article URL: https://epyhia.com/baidu-hit-with-securities-fraud-class-action-over-ai-growth-claims\nComments URL: https://news.ycombinator.com/item?id=50404378\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "arbuge",
+      "language": null
+    }
+  },
+  {
+    "id": "3a1523d4-a38c-4472-8aec-1c53ab15a2a5",
+    "title": "AI is turning protectionists into free traders",
+    "source_url": "https://www.economist.com/finance-and-economics/2026/11/05/ai-is-turning-protectionists-into-free-traders",
+    "source": "hacker_news",
+    "collected_at": "2026-11-07T14:39:42.105901+00:00",
+    "analyzed_at": "2026-11-07T14:39:42.105901+00:00",
+    "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/11/05/ai-is-turning-protectionists-into-free-traders\nComments URL: https://news.ycombinator.com/item?id=50404341\nPoints: 3\n# Comments:",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "andsoitis",
+      "language": null
+    }
+  },
+  {
+    "id": "f5a8437f-18e7-4ced-8dd1-b0dc526c5962",
+    "title": "Post-AI Computer Science – Volume 4",
+    "source_url": "https://thingspool.net/shards-of-sanity/page-4.html",
+    "source": "hacker_news",
+    "collected_at": "2026-11-07T14:39:43.275413+00:00",
+    "analyzed_at": "2026-11-07T14:39:43.275413+00:00",
+    "summary": "Article URL: https://thingspool.net/shards-of-sanity/page-4.html\nComments URL: https://news.ycombinator.com/item?id=50404332\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "architsch",
+      "language": null
+    }
+  }
+]

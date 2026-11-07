@@ -1,0 +1,135 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-11-07T14:39:13.304522+00:00",
+  "items": [
+    {
+      "name": "voyager-so/vork",
+      "url": "https://github.com/voyager-so/vork",
+      "summary": "Headless 3D and VFX engine for agents. Research preview.",
+      "stars": 684,
+      "language": "Rust",
+      "topics": [
+        "3d",
+        "ai-agents",
+        "gpu",
+        "metal",
+        "ray-tracing",
+        "rendering",
+        "rust",
+        "slang",
+        "vfx",
+        "vulkan"
+      ]
+    },
+    {
+      "name": "libracoder/kiri",
+      "url": "https://github.com/libracoder/kiri",
+      "summary": "A small, fast container runtime for macOS, Windows and Linux",
+      "stars": 672,
+      "language": "Rust",
+      "topics": []
+    },
+    {
+      "name": "Lee-xeo/Claude-Cage",
+      "url": "https://github.com/Lee-xeo/Claude-Cage",
+      "summary": "Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。",
+      "stars": 569,
+      "language": "Go",
+      "topics": []
+    },
+    {
+      "name": "stubbi/asm",
+      "url": "https://github.com/stubbi/asm",
+      "summary": "The package registry and command-line tool for assembly projects.",
+      "stars": 547,
+      "language": "Assembly",
+      "topics": [
+        "aarch64",
+        "assembly",
+        "cli",
+        "linux",
+        "macos",
+        "mcp-server",
+        "package-manager",
+        "package-registry",
+        "riscv",
+        "x86-64"
+      ]
+    },
+    {
+      "name": "sarpstar/cinecode",
+      "url": "https://github.com/sarpstar/cinecode",
+      "summary": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
+      "stars": 526,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "majorminorlabs/hermes-voice",
+      "url": "https://github.com/majorminorlabs/hermes-voice",
+      "summary": "Talk to a Hermes Agent profile through Home Assistant Assist",
+      "stars": 483,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "zeekk0/OpenAmika",
+      "url": "https://github.com/zeekk0/OpenAmika",
+      "summary": "OpenAmika: MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain.",
+      "stars": 474,
+      "language": "Python",
+      "topics": [
+        "ai-companion",
+        "live2d",
+        "long-term-memory",
+        "mekahime",
+        "ollama",
+        "openrouter",
+        "speech-recognition",
+        "text-to-speech"
+      ]
+    },
+    {
+      "name": "mhfed/vn-law-check",
+      "url": "https://github.com/mhfed/vn-law-check",
+      "summary": "Audit pháp lý website theo luật Việt Nam (BVDLCN 91/2025, TMĐT 122/2025, ANM 116/2025, AI 134/2025) cho Claude Code, Cursor, Copilot, Windsurf, Cline",
+      "stars": 469,
+      "language": "Shell",
+      "topics": [
+        "agent-md",
+        "agent-skills",
+        "claude-code",
+        "claude-plugin",
+        "claude-skills",
+        "compliance",
+        "copilot-instructions",
+        "cursor-rules",
+        "data-protection",
+        "ecommerce",
+        "legal-tech",
+        "pdpl",
+        "privacy",
+        "skills",
+        "vibe-coding",
+        "vietnam",
+        "vietnam-law"
+      ]
+    },
+    {
+      "name": "artemnovitckii/claude-animation-skills",
+      "url": "https://github.com/artemnovitckii/claude-animation-skills",
+      "summary": "Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, line graph.",
+      "stars": 465,
+      "language": "JavaScript",
+      "topics": [
+        "animation",
+        "claude-code",
+        "claude-skills",
+        "hyperframes",
+        "reels",
+        "threejs"
+      ]
+    }
+  ]
+}
