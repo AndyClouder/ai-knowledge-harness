@@ -1,0 +1,422 @@
+[
+  {
+    "id": "6df511a3-1513-4e98-a406-5d0a622b471e",
+    "title": "shanselman/gputaskman",
+    "source_url": "https://github.com/shanselman/gputaskman",
+    "source": "unknown",
+    "collected_at": "2026-11-08T14:44:54.352518+00:00",
+    "analyzed_at": "2026-11-08T14:44:54.352518+00:00",
+    "summary": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 668,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "52852d02-0184-4278-9d8b-9838142cd93d",
+    "title": "JosssphZhou/poki",
+    "source_url": "https://github.com/JosssphZhou/poki",
+    "source": "unknown",
+    "collected_at": "2026-11-08T14:44:55.529840+00:00",
+    "analyzed_at": "2026-11-08T14:44:55.529840+00:00",
+    "summary": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 572,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "23e6dd1d-0d84-4af3-bd96-4cc8947b82e4",
+    "title": "DIYgod/pinky",
+    "source_url": "https://github.com/DIYgod/pinky",
+    "source": "unknown",
+    "collected_at": "2026-11-08T14:44:56.705811+00:00",
+    "analyzed_at": "2026-11-08T14:44:56.705811+00:00",
+    "summary": "Let AI agents use your phone, with you in the loop.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 535,
+      "score": null,
+      "author": null,
+      "language": "Go"
+    }
+  },
+  {
+    "id": "8a2db113-1df8-4b37-8edb-467bcbc9965c",
+    "title": "Renly1994/xiaotang-daozai",
+    "source_url": "https://github.com/Renly1994/xiaotang-daozai",
+    "source": "unknown",
+    "collected_at": "2026-11-08T14:44:57.875536+00:00",
+    "analyzed_at": "2026-11-08T14:44:57.875536+00:00",
+    "summary": "岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 494,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "555ab13c-ab22-4d11-a760-12f5dfd17b4d",
+    "title": "SAOS-3624/dsh-see-now",
+    "source_url": "https://github.com/SAOS-3624/dsh-see-now",
+    "source": "unknown",
+    "collected_at": "2026-11-08T14:44:59.058199+00:00",
+    "analyzed_at": "2026-11-08T14:44:59.058199+00:00",
+    "summary": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 487,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "60494fb0-6078-4cf9-b738-27efa387f36d",
+    "title": "1337isnot1337/DOPPLERGEIST",
+    "source_url": "https://github.com/1337isnot1337/DOPPLERGEIST",
+    "source": "unknown",
+    "collected_at": "2026-11-08T14:45:00.229326+00:00",
+    "analyzed_at": "2026-11-08T14:45:00.229326+00:00",
+    "summary": "Python tool for aircraft Doppler audio geolocation using historical ADS-B flight data (Source-available)",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 453,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "065da487-d20b-410f-92b5-59840ebfadb2",
+    "title": "We review 4x more AI code without reading every line",
+    "source_url": "https://thenewstack.io/scale-ai-code-reviews/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-08T14:45:01.403038+00:00",
+    "analyzed_at": "2026-11-08T14:45:01.403038+00:00",
+    "summary": "Article URL: https://thenewstack.io/scale-ai-code-reviews/\nComments URL: https://news.ycombinator.com/item?id=50413647\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Brajeshwar",
+      "language": null
+    }
+  },
+  {
+    "id": "07ac5131-0d5e-4503-bfc5-1951ed91f4dd",
+    "title": "AI stance is not binary",
+    "source_url": "https://carette.xyz/posts/ai-stance-is-not-binary/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-08T14:45:02.578955+00:00",
+    "analyzed_at": "2026-11-08T14:45:02.578955+00:00",
+    "summary": "Article URL: https://carette.xyz/posts/ai-stance-is-not-binary/\nComments URL: https://news.ycombinator.com/item?id=50413632\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "LucidLynx",
+      "language": null
+    }
+  },
+  {
+    "id": "9540dc6b-83a4-4fb4-aac4-8f7d26f3a141",
+    "title": "Mercedes Gives Its Cars an AI Upgrade",
+    "source_url": "https://www.wsj.com/cio-journal/mercedes-gives-its-cars-an-ai-upgrade-607daae2",
+    "source": "hacker_news",
+    "collected_at": "2026-11-08T14:45:03.753540+00:00",
+    "analyzed_at": "2026-11-08T14:45:03.753540+00:00",
+    "summary": "Article URL: https://www.wsj.com/cio-journal/mercedes-gives-its-cars-an-ai-upgrade-607daae2\nComments URL: https://news.ycombinator.com/item?id=50413615\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "bookofjoe",
+      "language": null
+    }
+  },
+  {
+    "id": "fd2d4643-a4c5-45b2-95ad-78b5776604fa",
+    "title": "Archimedes: AI agents that design physical things",
+    "source_url": "https://standardphysics.com/archimedes",
+    "source": "hacker_news",
+    "collected_at": "2026-11-08T14:45:04.929262+00:00",
+    "analyzed_at": "2026-11-08T14:45:04.929262+00:00",
+    "summary": "Article URL: https://standardphysics.com/archimedes\nComments URL: https://news.ycombinator.com/item?id=50413440\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "torutofu",
+      "language": null
+    }
+  },
+  {
+    "id": "ea173fa2-3242-442f-b3e0-dfe1223754ac",
+    "title": "Anthropic Let an Outsider Check Its AI Progress. Here's What We Can't See",
+    "source_url": "https://www.youtube.com/watch?v=oFuoPEtIqWg",
+    "source": "hacker_news",
+    "collected_at": "2026-11-08T14:45:06.104573+00:00",
+    "analyzed_at": "2026-11-08T14:45:06.104573+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=oFuoPEtIqWg\nComments URL: https://news.ycombinator.com/item?id=50413425\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "lroe",
+      "language": null
+    }
+  },
+  {
+    "id": "f93dc400-9496-4088-957e-f9e848b17e6c",
+    "title": "I Resist Generative \"AI\"",
+    "source_url": "https://estherweidauer.com/articles/why-resist-generative-ai.html",
+    "source": "hacker_news",
+    "collected_at": "2026-11-08T14:45:07.280025+00:00",
+    "analyzed_at": "2026-11-08T14:45:07.280025+00:00",
+    "summary": "Article URL: https://estherweidauer.com/articles/why-resist-generative-ai.html\nComments URL: https://news.ycombinator.com/item?id=50413357\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "lobo_tuerto",
+      "language": null
+    }
+  },
+  {
+    "id": "e9415482-1665-48fd-84b0-749c68c5f500",
+    "title": "Show HN: OfflineVault – AI based offline library for when the internet is down",
+    "source_url": "https://offlinevault.dev",
+    "source": "hacker_news",
+    "collected_at": "2026-11-08T14:45:08.457617+00:00",
+    "analyzed_at": "2026-11-08T14:45:08.457617+00:00",
+    "summary": "Article URL: https://offlinevault.dev\nComments URL: https://news.ycombinator.com/item?id=50413282\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "nc",
+      "language": null
+    }
+  },
+  {
+    "id": "c642de2d-faf0-495d-8c66-d429f6a17379",
+    "title": "Ask HN: Is it possible to backtest math/scinse breakthroughs with AI models?",
+    "source_url": "https://news.ycombinator.com/item?id=50413158",
+    "source": "hacker_news",
+    "collected_at": "2026-11-08T14:45:09.633704+00:00",
+    "analyzed_at": "2026-11-08T14:45:09.633704+00:00",
+    "summary": "By creating a synthetic dataset of everything we know with a cutoff of say 1900 and see if it actually can come up with the same (or more interestingly, different) theories.\n\nComments URL: https://new",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ran_cohen",
+      "language": null
+    }
+  },
+  {
+    "id": "d6c15e66-aed0-44c8-864a-121021098398",
+    "title": "AI clog': UK public bodies battle onslaught of chatbot-generated complaints",
+    "source_url": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
+    "source": "hacker_news",
+    "collected_at": "2026-11-08T14:45:10.809422+00:00",
+    "analyzed_at": "2026-11-08T14:45:10.809422+00:00",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence\nComments URL: https://news.ycombinator.com/item?id=50",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "alibarber",
+      "language": null
+    }
+  },
+  {
+    "id": "2de383ea-7b8d-4d8e-bf9c-d669952ff244",
+    "title": "LLMs are terrible at designing AI systems",
+    "source_url": "https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-08T14:45:11.981713+00:00",
+    "analyzed_at": "2026-11-08T14:45:11.981713+00:00",
+    "summary": "Article URL: https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/\nComments URL: https://news.ycombinator.com/item?id=50412713\nPoints: 5\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ingve",
+      "language": null
+    }
+  },
+  {
+    "id": "cf92ae3b-5870-45d4-afe3-276522371801",
+    "title": "Why Your AI Agent Can't Solve CTF Challenges",
+    "source_url": "https://h4c.team/en/posts/97",
+    "source": "hacker_news",
+    "collected_at": "2026-11-08T14:45:13.157437+00:00",
+    "analyzed_at": "2026-11-08T14:45:13.157437+00:00",
+    "summary": "Article URL: https://h4c.team/en/posts/97\nComments URL: https://news.ycombinator.com/item?id=50412675\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "therepanic",
+      "language": null
+    }
+  },
+  {
+    "id": "a555f7ba-d7ae-4aa6-b0a6-449330574e39",
+    "title": "Empires of AI – The Rise and Fall of a New Global Order",
+    "source_url": "https://www.foreignaffairs.com/china/empires-artificial-intelligence-niall-ferguson-eric-schmidt",
+    "source": "hacker_news",
+    "collected_at": "2026-11-08T14:45:14.339172+00:00",
+    "analyzed_at": "2026-11-08T14:45:14.339172+00:00",
+    "summary": "Article URL: https://www.foreignaffairs.com/china/empires-artificial-intelligence-niall-ferguson-eric-schmidt\nComments URL: https://news.ycombinator.com/item?id=50412645\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "yubblegum",
+      "language": null
+    }
+  },
+  {
+    "id": "017a1772-09f8-4331-b6fd-8fa301e5315e",
+    "title": "Etsy AI training terms change",
+    "source_url": "https://consumerrights.wiki/w/Etsy_AI_training_terms_change_(2026)",
+    "source": "hacker_news",
+    "collected_at": "2026-11-08T14:45:15.514655+00:00",
+    "analyzed_at": "2026-11-08T14:45:15.514655+00:00",
+    "summary": "Article URL: https://consumerrights.wiki/w/Etsy_AI_training_terms_change_(2026)\nComments URL: https://news.ycombinator.com/item?id=50412447\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ourcat",
+      "language": null
+    }
+  },
+  {
+    "id": "883c4e4b-1480-43b6-82bb-7a6690439837",
+    "title": "AI Alignment Considered Harmful",
+    "source_url": "http://togelius.blogspot.com/2026/11/ai-alignment-considered-harmful.html",
+    "source": "hacker_news",
+    "collected_at": "2026-11-08T14:45:16.694316+00:00",
+    "analyzed_at": "2026-11-08T14:45:16.694316+00:00",
+    "summary": "Article URL: http://togelius.blogspot.com/2026/11/ai-alignment-considered-harmful.html\nComments URL: https://news.ycombinator.com/item?id=50412294\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "pretext",
+      "language": null
+    }
+  }
+]

@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-11-08T14:44:53.382883+00:00",
+  "items": [
+    {
+      "name": "We review 4x more AI code without reading every line",
+      "url": "https://thenewstack.io/scale-ai-code-reviews/",
+      "summary": "Article URL: https://thenewstack.io/scale-ai-code-reviews/\nComments URL: https://news.ycombinator.com/item?id=50413647\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Brajeshwar",
+      "published": "Sun, 08 Nov 2026 14:27:00 +0000"
+    },
+    {
+      "name": "AI stance is not binary",
+      "url": "https://carette.xyz/posts/ai-stance-is-not-binary/",
+      "summary": "Article URL: https://carette.xyz/posts/ai-stance-is-not-binary/\nComments URL: https://news.ycombinator.com/item?id=50413632\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "LucidLynx",
+      "published": "Sun, 08 Nov 2026 14:24:58 +0000"
+    },
+    {
+      "name": "Mercedes Gives Its Cars an AI Upgrade",
+      "url": "https://www.wsj.com/cio-journal/mercedes-gives-its-cars-an-ai-upgrade-607daae2",
+      "summary": "Article URL: https://www.wsj.com/cio-journal/mercedes-gives-its-cars-an-ai-upgrade-607daae2\nComments URL: https://news.ycombinator.com/item?id=50413615\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "bookofjoe",
+      "published": "Sun, 08 Nov 2026 14:22:57 +0000"
+    },
+    {
+      "name": "Archimedes: AI agents that design physical things",
+      "url": "https://standardphysics.com/archimedes",
+      "summary": "Article URL: https://standardphysics.com/archimedes\nComments URL: https://news.ycombinator.com/item?id=50413440\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "torutofu",
+      "published": "Sun, 08 Nov 2026 13:59:08 +0000"
+    },
+    {
+      "name": "Anthropic Let an Outsider Check Its AI Progress. Here's What We Can't See",
+      "url": "https://www.youtube.com/watch?v=oFuoPEtIqWg",
+      "summary": "Article URL: https://www.youtube.com/watch?v=oFuoPEtIqWg\nComments URL: https://news.ycombinator.com/item?id=50413425\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "lroe",
+      "published": "Sun, 08 Nov 2026 13:57:22 +0000"
+    },
+    {
+      "name": "I Resist Generative \"AI\"",
+      "url": "https://estherweidauer.com/articles/why-resist-generative-ai.html",
+      "summary": "Article URL: https://estherweidauer.com/articles/why-resist-generative-ai.html\nComments URL: https://news.ycombinator.com/item?id=50413357\nPoints: 4\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "lobo_tuerto",
+      "published": "Sun, 08 Nov 2026 13:49:01 +0000"
+    },
+    {
+      "name": "Show HN: OfflineVault – AI based offline library for when the internet is down",
+      "url": "https://offlinevault.dev",
+      "summary": "Article URL: https://offlinevault.dev\nComments URL: https://news.ycombinator.com/item?id=50413282\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "nc",
+      "published": "Sun, 08 Nov 2026 13:42:10 +0000"
+    },
+    {
+      "name": "Ask HN: Is it possible to backtest math/scinse breakthroughs with AI models?",
+      "url": "https://news.ycombinator.com/item?id=50413158",
+      "summary": "By creating a synthetic dataset of everything we know with a cutoff of say 1900 and see if it actually can come up with the same (or more interestingly, different) theories.\n\nComments URL: https://new",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ran_cohen",
+      "published": "Sun, 08 Nov 2026 13:29:05 +0000"
+    },
+    {
+      "name": "AI clog': UK public bodies battle onslaught of chatbot-generated complaints",
+      "url": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence\nComments URL: https://news.ycombinator.com/item?id=50",
+      "source": "hacker_news",
+      "score": null,
+      "author": "alibarber",
+      "published": "Sun, 08 Nov 2026 13:01:16 +0000"
+    },
+    {
+      "name": "LLMs are terrible at designing AI systems",
+      "url": "https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/",
+      "summary": "Article URL: https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/\nComments URL: https://news.ycombinator.com/item?id=50412713\nPoints: 5\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ingve",
+      "published": "Sun, 08 Nov 2026 12:33:58 +0000"
+    },
+    {
+      "name": "Why Your AI Agent Can't Solve CTF Challenges",
+      "url": "https://h4c.team/en/posts/97",
+      "summary": "Article URL: https://h4c.team/en/posts/97\nComments URL: https://news.ycombinator.com/item?id=50412675\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "therepanic",
+      "published": "Sun, 08 Nov 2026 12:25:54 +0000"
+    },
+    {
+      "name": "Empires of AI – The Rise and Fall of a New Global Order",
+      "url": "https://www.foreignaffairs.com/china/empires-artificial-intelligence-niall-ferguson-eric-schmidt",
+      "summary": "Article URL: https://www.foreignaffairs.com/china/empires-artificial-intelligence-niall-ferguson-eric-schmidt\nComments URL: https://news.ycombinator.com/item?id=50412645\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "yubblegum",
+      "published": "Sun, 08 Nov 2026 12:21:47 +0000"
+    },
+    {
+      "name": "Etsy AI training terms change",
+      "url": "https://consumerrights.wiki/w/Etsy_AI_training_terms_change_(2026)",
+      "summary": "Article URL: https://consumerrights.wiki/w/Etsy_AI_training_terms_change_(2026)\nComments URL: https://news.ycombinator.com/item?id=50412447\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ourcat",
+      "published": "Sun, 08 Nov 2026 11:48:06 +0000"
+    },
+    {
+      "name": "AI Alignment Considered Harmful",
+      "url": "http://togelius.blogspot.com/2026/11/ai-alignment-considered-harmful.html",
+      "summary": "Article URL: http://togelius.blogspot.com/2026/11/ai-alignment-considered-harmful.html\nComments URL: https://news.ycombinator.com/item?id=50412294\nPoints: 4\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pretext",
+      "published": "Sun, 08 Nov 2026 11:19:35 +0000"
+    },
+    {
+      "name": "What Can AI Hack? Inside Frontier Labs' Tests",
+      "url": "https://dorcohen.dev/posts/what-can-ai-actually-hack/",
+      "summary": "Article URL: https://dorcohen.dev/posts/what-can-ai-actually-hack/\nComments URL: https://news.ycombinator.com/item?id=50411752\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "dibidee",
+      "published": "Sun, 08 Nov 2026 09:42:03 +0000"
+    },
+    {
+      "name": "Researchers unveiled new techniques to protect AI from backdoor attacks",
+      "url": "https://news.ncsu.edu/2026/11/new-techniques-to-prevent-backdoor-attacks/",
+      "summary": "Article URL: https://news.ncsu.edu/2026/11/new-techniques-to-prevent-backdoor-attacks/\nComments URL: https://news.ycombinator.com/item?id=50411704\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "giuliomagnifico",
+      "published": "Sun, 08 Nov 2026 09:32:43 +0000"
+    },
+    {
+      "name": "ThinkStream – AI generates the work. We still need to understand it",
+      "url": "https://thinkstream.app/",
+      "summary": "Article URL: https://thinkstream.app/\nComments URL: https://news.ycombinator.com/item?id=50411638\nPoints: 10\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "aginext",
+      "published": "Sun, 08 Nov 2026 09:20:04 +0000"
+    },
+    {
+      "name": "AI Companies Want to Buy Your Work Files and Emails",
+      "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+      "summary": "Article URL: https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/\nComments URL: https://news.ycombinator.com/item?id=50411618\nPoints: 3\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "benrmatthews",
+      "published": "Sun, 08 Nov 2026 09:15:06 +0000"
+    },
+    {
+      "name": "Being a line cook without talking to AI",
+      "url": "https://knhash.in/no-ai-line-cook/",
+      "summary": "Article URL: https://knhash.in/no-ai-line-cook/\nComments URL: https://news.ycombinator.com/item?id=50411352\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "knhash",
+      "published": "Sun, 08 Nov 2026 08:16:14 +0000"
+    },
+    {
+      "name": "Show HN: Ramen – an AI agent that has to earn its own rent",
+      "url": "https://usdt-kit-production.up.railway.app/ramen",
+      "summary": "Article URL: https://usdt-kit-production.up.railway.app/ramen\nComments URL: https://news.ycombinator.com/item?id=50411182\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "showang",
+      "published": "Sun, 08 Nov 2026 07:38:55 +0000"
+    }
+  ]
+}
