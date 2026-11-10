@@ -1,0 +1,422 @@
+[
+  {
+    "id": "0091647c-b864-4370-8f32-66b5e3b140a4",
+    "title": "janestreet/agent_skills",
+    "source_url": "https://github.com/janestreet/agent_skills",
+    "source": "unknown",
+    "collected_at": "2026-11-10T16:04:00.267225+00:00",
+    "analyzed_at": "2026-11-10T16:04:00.267225+00:00",
+    "summary": "Agent skills",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 3348,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "24bf3450-53af-4686-8c15-77c43d9c50b1",
+    "title": "IainKay/ram-altman",
+    "source_url": "https://github.com/IainKay/ram-altman",
+    "source": "unknown",
+    "collected_at": "2026-11-10T16:04:01.474686+00:00",
+    "analyzed_at": "2026-11-10T16:04:01.474686+00:00",
+    "summary": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1730,
+      "score": null,
+      "author": null,
+      "language": "Shell"
+    }
+  },
+  {
+    "id": "e822e2a6-3b7d-4350-ba6f-c910292dad7c",
+    "title": "AtomIllusionistDwell/watson-username-footprint-finder",
+    "source_url": "https://github.com/AtomIllusionistDwell/watson-username-footprint-finder",
+    "source": "unknown",
+    "collected_at": "2026-11-10T16:04:02.705439+00:00",
+    "analyzed_at": "2026-11-10T16:04:02.705439+00:00",
+    "summary": "Free people-search desktop app: look up a nickname, email, phone or site across 3,100+ public pages and get one readable report.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 740,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "d51b7282-82d4-4045-a528-292b0512682a",
+    "title": "kubai087/kubai-icons",
+    "source_url": "https://github.com/kubai087/kubai-icons",
+    "source": "unknown",
+    "collected_at": "2026-11-10T16:04:03.939078+00:00",
+    "analyzed_at": "2026-11-10T16:04:03.939078+00:00",
+    "summary": "An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React, Vue and SVG, and a website to browse th",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 639,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "5a55b2bc-d42e-4ca8-bee3-35434c3d309a",
+    "title": "lxe/phoneuse",
+    "source_url": "https://github.com/lxe/phoneuse",
+    "source": "unknown",
+    "collected_at": "2026-11-10T16:04:05.137094+00:00",
+    "analyzed_at": "2026-11-10T16:04:05.137094+00:00",
+    "summary": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 556,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "091cab61-f444-4144-8b79-b2b0dcfd3d69",
+    "title": "dabingfy-dot/solo-to-team-skills",
+    "source_url": "https://github.com/dabingfy-dot/solo-to-team-skills",
+    "source": "unknown",
+    "collected_at": "2026-11-10T16:04:06.348840+00:00",
+    "analyzed_at": "2026-11-10T16:04:06.348840+00:00",
+    "summary": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 534,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "57f8b0cb-700d-4018-af8f-6ac7bdc24f57",
+    "title": "devvmhq/devvm",
+    "source_url": "https://github.com/devvmhq/devvm",
+    "source": "unknown",
+    "collected_at": "2026-11-10T16:04:07.561004+00:00",
+    "analyzed_at": "2026-11-10T16:04:07.561004+00:00",
+    "summary": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 527,
+      "score": null,
+      "author": null,
+      "language": "Go"
+    }
+  },
+  {
+    "id": "bedabfdf-3a9f-47bd-86e6-acce6ff05f9c",
+    "title": "thiagoaureliomartins-programador/chief-architect-premier",
+    "source_url": "https://github.com/thiagoaureliomartins-programador/chief-architect-premier",
+    "source": "unknown",
+    "collected_at": "2026-11-10T16:04:08.772212+00:00",
+    "analyzed_at": "2026-11-10T16:04:08.772212+00:00",
+    "summary": "Chief Architect Premier 2026: Pre-Configured Desktop Edition with All Features Enabled",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 482,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "9f6f1eb4-88c6-4f7d-84de-9f2873a606b6",
+    "title": "dhruvthakur11/youtube-ai-video-editing-system",
+    "source_url": "https://github.com/dhruvthakur11/youtube-ai-video-editing-system",
+    "source": "unknown",
+    "collected_at": "2026-11-10T16:04:09.983135+00:00",
+    "analyzed_at": "2026-11-10T16:04:09.983135+00:00",
+    "summary": "Eyeline teleprompter meets editing agents: JSON-driven animation and motion graphics workflow",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 481,
+      "score": null,
+      "author": null,
+      "language": "HTML"
+    }
+  },
+  {
+    "id": "312bb42a-7309-4cf6-8aff-49f9572b1558",
+    "title": "Show HN: Storefinch – US business data for AI agents, openly licensed (MCP)",
+    "source_url": "https://storefinch.com/try?what=roofers&where=Austin%2C+TX",
+    "source": "hacker_news",
+    "collected_at": "2026-11-10T16:04:11.193454+00:00",
+    "analyzed_at": "2026-11-10T16:04:11.193454+00:00",
+    "summary": "Storefinch is a remote MCP server over the US slice of Overture Maps places: 14.9M businesses with name, category, address, phone, website, and email where the sources have one. You ask Claude somethi",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jesecamilo",
+      "language": null
+    }
+  },
+  {
+    "id": "5433fb56-95a6-40c0-8cc5-8dc6476d1f04",
+    "title": "RapidFort Secures the AI Stack from GPU Runtime to Kubernetes",
+    "source_url": "https://www.rapidfort.com/company/about-us",
+    "source": "hacker_news",
+    "collected_at": "2026-11-10T16:04:12.402748+00:00",
+    "analyzed_at": "2026-11-10T16:04:12.402748+00:00",
+    "summary": "Article URL: https://www.rapidfort.com/company/about-us\nComments URL: https://news.ycombinator.com/item?id=50442187\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "SpaldingLY77",
+      "language": null
+    }
+  },
+  {
+    "id": "c48ddcfc-1de5-4420-8ef9-7b9dc03bfcc7",
+    "title": "Show HN: Estimate the carbon footprint of your company's AI use (open data)",
+    "source_url": "https://somaai.earth/ai-footprint/calculator",
+    "source": "hacker_news",
+    "collected_at": "2026-11-10T16:04:13.614210+00:00",
+    "analyzed_at": "2026-11-10T16:04:13.614210+00:00",
+    "summary": "Article URL: https://somaai.earth/ai-footprint/calculator\nComments URL: https://news.ycombinator.com/item?id=50442186\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "guillermollopis",
+      "language": null
+    }
+  },
+  {
+    "id": "4435bf50-8a3e-45f2-aea8-1401f690cfcc",
+    "title": "Show HN: Dryplate MCP – local image tools for AI agents (HEIC, strip metadata)",
+    "source_url": "https://github.com/dryplate/dryplate",
+    "source": "hacker_news",
+    "collected_at": "2026-11-10T16:04:14.824517+00:00",
+    "analyzed_at": "2026-11-10T16:04:14.824517+00:00",
+    "summary": "Article URL: https://github.com/dryplate/dryplate\nComments URL: https://news.ycombinator.com/item?id=50442087\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "tsvillain",
+      "language": null
+    }
+  },
+  {
+    "id": "a4b068fd-a6dd-4a15-8ac5-48f89c6d443a",
+    "title": "How Not to Use AI",
+    "source_url": "https://www.annashipman.co.uk/jfdi/how-not-to-use-ai.html",
+    "source": "hacker_news",
+    "collected_at": "2026-11-10T16:04:16.025290+00:00",
+    "analyzed_at": "2026-11-10T16:04:16.025290+00:00",
+    "summary": "Article URL: https://www.annashipman.co.uk/jfdi/how-not-to-use-ai.html\nComments URL: https://news.ycombinator.com/item?id=50442021\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Garbage",
+      "language": null
+    }
+  },
+  {
+    "id": "cfffd4e0-ed5f-4d68-a399-72d7a7151ee9",
+    "title": "Can you prompt your AI into telling the truth? I tested it",
+    "source_url": "https://scottdesapio.com/thoughts",
+    "source": "hacker_news",
+    "collected_at": "2026-11-10T16:04:17.249650+00:00",
+    "analyzed_at": "2026-11-10T16:04:17.249650+00:00",
+    "summary": "Article URL: https://scottdesapio.com/thoughts\nComments URL: https://news.ycombinator.com/item?id=50442016\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "esjaydee",
+      "language": null
+    }
+  },
+  {
+    "id": "0d19b1ed-fe50-4742-aa38-1caa464a8ee4",
+    "title": "New Linux-Based Desktop Operating System Is Built for AI Nerds",
+    "source_url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-10T16:04:18.474555+00:00",
+    "analyzed_at": "2026-11-10T16:04:18.474555+00:00",
+    "summary": "Article URL: https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/\nComments URL: https://news.ycombinator.com/item?id=50441957\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "hyrix",
+      "language": null
+    }
+  },
+  {
+    "id": "79c15b7c-44ca-40e6-af20-37032eb0a287",
+    "title": "Show HN: Deedglass – Verify AI Agent SQL Changes Using Postgres WAL",
+    "source_url": "https://github.com/deedglass/deedglass",
+    "source": "hacker_news",
+    "collected_at": "2026-11-10T16:04:19.675908+00:00",
+    "analyzed_at": "2026-11-10T16:04:19.675908+00:00",
+    "summary": "Article URL: https://github.com/deedglass/deedglass\nComments URL: https://news.ycombinator.com/item?id=50441923\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ajuxarjun",
+      "language": null
+    }
+  },
+  {
+    "id": "ef7d42c4-1ba1-4944-8fd7-a2faeb7b6fd6",
+    "title": "Show HN: We wanted to build an AI application, not maintain RAG pipelines",
+    "source_url": "https://akropolys.cloud/docs/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-10T16:04:20.881494+00:00",
+    "analyzed_at": "2026-11-10T16:04:20.881494+00:00",
+    "summary": "Article URL: https://akropolys.cloud/docs/\nComments URL: https://news.ycombinator.com/item?id=50441876\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "kareu",
+      "language": null
+    }
+  },
+  {
+    "id": "3da38d7e-a205-4c1f-b8c0-47119d6831c1",
+    "title": "Ask HN: Is misaligned AI less dangerous than AI controlled by a bad actor",
+    "source_url": "https://news.ycombinator.com/item?id=50441674",
+    "source": "hacker_news",
+    "collected_at": "2026-11-10T16:04:22.085368+00:00",
+    "analyzed_at": "2026-11-10T16:04:22.085368+00:00",
+    "summary": "Ultimately I think, most trains of “thought” that could be a milestone towards a misaligned AI taking a dangerous action could be input by humans, especially if programmers have little oversight on wh",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "InfiniteRand",
+      "language": null
+    }
+  },
+  {
+    "id": "b890cfd1-4b79-499d-a33d-f5a24a81c3f5",
+    "title": "AI Companies Crack Down on the Coolest Thing People Were Doing with AI",
+    "source_url": "https://www.404media.co/reverse-engineer-anything-ai-companies-crack-down-on-the-coolest-thing-people-were-doing-with-ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-10T16:04:23.296684+00:00",
+    "analyzed_at": "2026-11-10T16:04:23.296684+00:00",
+    "summary": "Article URL: https://www.404media.co/reverse-engineer-anything-ai-companies-crack-down-on-the-coolest-thing-people-were-doing-with-ai/\nComments URL: https://news.ycombinator.com/item?id=50441618\nPoint",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "toomuchtodo",
+      "language": null
+    }
+  }
+]

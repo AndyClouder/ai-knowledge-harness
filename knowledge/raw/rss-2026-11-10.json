@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-11-10T16:03:59.127818+00:00",
+  "items": [
+    {
+      "name": "Show HN: Storefinch – US business data for AI agents, openly licensed (MCP)",
+      "url": "https://storefinch.com/try?what=roofers&where=Austin%2C+TX",
+      "summary": "Storefinch is a remote MCP server over the US slice of Overture Maps places: 14.9M businesses with name, category, address, phone, website, and email where the sources have one. You ask Claude somethi",
+      "source": "hacker_news",
+      "score": null,
+      "author": "jesecamilo",
+      "published": "Tue, 10 Nov 2026 16:03:15 +0000"
+    },
+    {
+      "name": "RapidFort Secures the AI Stack from GPU Runtime to Kubernetes",
+      "url": "https://www.rapidfort.com/company/about-us",
+      "summary": "Article URL: https://www.rapidfort.com/company/about-us\nComments URL: https://news.ycombinator.com/item?id=50442187\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "SpaldingLY77",
+      "published": "Tue, 10 Nov 2026 15:57:45 +0000"
+    },
+    {
+      "name": "Show HN: Estimate the carbon footprint of your company's AI use (open data)",
+      "url": "https://somaai.earth/ai-footprint/calculator",
+      "summary": "Article URL: https://somaai.earth/ai-footprint/calculator\nComments URL: https://news.ycombinator.com/item?id=50442186\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "guillermollopis",
+      "published": "Tue, 10 Nov 2026 15:57:41 +0000"
+    },
+    {
+      "name": "Show HN: Dryplate MCP – local image tools for AI agents (HEIC, strip metadata)",
+      "url": "https://github.com/dryplate/dryplate",
+      "summary": "Article URL: https://github.com/dryplate/dryplate\nComments URL: https://news.ycombinator.com/item?id=50442087\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "tsvillain",
+      "published": "Tue, 10 Nov 2026 15:50:19 +0000"
+    },
+    {
+      "name": "How Not to Use AI",
+      "url": "https://www.annashipman.co.uk/jfdi/how-not-to-use-ai.html",
+      "summary": "Article URL: https://www.annashipman.co.uk/jfdi/how-not-to-use-ai.html\nComments URL: https://news.ycombinator.com/item?id=50442021\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Garbage",
+      "published": "Tue, 10 Nov 2026 15:46:39 +0000"
+    },
+    {
+      "name": "Can you prompt your AI into telling the truth? I tested it",
+      "url": "https://scottdesapio.com/thoughts",
+      "summary": "Article URL: https://scottdesapio.com/thoughts\nComments URL: https://news.ycombinator.com/item?id=50442016\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "esjaydee",
+      "published": "Tue, 10 Nov 2026 15:46:24 +0000"
+    },
+    {
+      "name": "New Linux-Based Desktop Operating System Is Built for AI Nerds",
+      "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+      "summary": "Article URL: https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/\nComments URL: https://news.ycombinator.com/item?id=50441957\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "hyrix",
+      "published": "Tue, 10 Nov 2026 15:43:06 +0000"
+    },
+    {
+      "name": "Show HN: Deedglass – Verify AI Agent SQL Changes Using Postgres WAL",
+      "url": "https://github.com/deedglass/deedglass",
+      "summary": "Article URL: https://github.com/deedglass/deedglass\nComments URL: https://news.ycombinator.com/item?id=50441923\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ajuxarjun",
+      "published": "Tue, 10 Nov 2026 15:40:34 +0000"
+    },
+    {
+      "name": "Show HN: We wanted to build an AI application, not maintain RAG pipelines",
+      "url": "https://akropolys.cloud/docs/",
+      "summary": "Article URL: https://akropolys.cloud/docs/\nComments URL: https://news.ycombinator.com/item?id=50441876\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "kareu",
+      "published": "Tue, 10 Nov 2026 15:37:40 +0000"
+    },
+    {
+      "name": "Ask HN: Is misaligned AI less dangerous than AI controlled by a bad actor",
+      "url": "https://news.ycombinator.com/item?id=50441674",
+      "summary": "Ultimately I think, most trains of “thought” that could be a milestone towards a misaligned AI taking a dangerous action could be input by humans, especially if programmers have little oversight on wh",
+      "source": "hacker_news",
+      "score": null,
+      "author": "InfiniteRand",
+      "published": "Tue, 10 Nov 2026 15:22:46 +0000"
+    },
+    {
+      "name": "AI Companies Crack Down on the Coolest Thing People Were Doing with AI",
+      "url": "https://www.404media.co/reverse-engineer-anything-ai-companies-crack-down-on-the-coolest-thing-people-were-doing-with-ai/",
+      "summary": "Article URL: https://www.404media.co/reverse-engineer-anything-ai-companies-crack-down-on-the-coolest-thing-people-were-doing-with-ai/\nComments URL: https://news.ycombinator.com/item?id=50441618\nPoint",
+      "source": "hacker_news",
+      "score": null,
+      "author": "toomuchtodo",
+      "published": "Tue, 10 Nov 2026 15:18:54 +0000"
+    },
+    {
+      "name": "Maybe Be Careful: What games like RuneScape, Clocktower teach us about AI trust",
+      "url": "https://miguelconner.substack.com/p/maybe-be-careful",
+      "summary": "Article URL: https://miguelconner.substack.com/p/maybe-be-careful\nComments URL: https://news.ycombinator.com/item?id=50441543\nPoints: 4\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "evakhoury",
+      "published": "Tue, 10 Nov 2026 15:13:35 +0000"
+    },
+    {
+      "name": "Using AI to write a Wine-like layer for running macOS apps on Linux",
+      "url": "https://www.neowin.net/news/this-project-is-now-using-ai-to-build-a-wine-like-layer-for-running-macos-apps-on-linux/",
+      "summary": "Article URL: https://www.neowin.net/news/this-project-is-now-using-ai-to-build-a-wine-like-layer-for-running-macos-apps-on-linux/\nComments URL: https://news.ycombinator.com/item?id=50441454\nPoints: 1\n",
+      "source": "hacker_news",
+      "score": null,
+      "author": "bundie",
+      "published": "Tue, 10 Nov 2026 15:08:09 +0000"
+    },
+    {
+      "name": "Generative AI uses more energy on non-English text",
+      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+      "summary": "Article URL: https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/\nComments URL: https://news.ycombinator.com/item?id=50441444\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "DeepLogin",
+      "published": "Tue, 10 Nov 2026 15:07:28 +0000"
+    },
+    {
+      "name": "Worktrunk – Git worktree management for parallel AI agent workflows",
+      "url": "https://worktrunk.dev/",
+      "summary": "Article URL: https://worktrunk.dev/\nComments URL: https://news.ycombinator.com/item?id=50441354\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rhazn",
+      "published": "Tue, 10 Nov 2026 15:01:34 +0000"
+    },
+    {
+      "name": "Don't hate AI 'cause it's bad; hate it 'cause it's good",
+      "url": "https://aspiz.uk/essays/dont-hate-ai",
+      "summary": "Article URL: https://aspiz.uk/essays/dont-hate-ai\nComments URL: https://news.ycombinator.com/item?id=50441336\nPoints: 7\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "aspizu",
+      "published": "Tue, 10 Nov 2026 15:00:22 +0000"
+    },
+    {
+      "name": "Steve – AI CEO",
+      "url": "https://twitter.com/spisallyouneed/status/2119829366758604963",
+      "summary": "Article URL: https://twitter.com/spisallyouneed/status/2119829366758604963\nComments URL: https://news.ycombinator.com/item?id=50441261\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "lamename",
+      "published": "Tue, 10 Nov 2026 14:55:25 +0000"
+    },
+    {
+      "name": "The core reason to be against AI",
+      "url": "https://jasonpolak.substack.com/p/the-core-reason-to-be-against-ai",
+      "summary": "Article URL: https://jasonpolak.substack.com/p/the-core-reason-to-be-against-ai\nComments URL: https://news.ycombinator.com/item?id=50441068\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "bemtevi",
+      "published": "Tue, 10 Nov 2026 14:40:54 +0000"
+    },
+    {
+      "name": "Designing human and generative AI collaboration",
+      "url": "https://academic.oup.com/pnasnexus/article/5/11/pgag353/9025436",
+      "summary": "Article URL: https://academic.oup.com/pnasnexus/article/5/11/pgag353/9025436\nComments URL: https://news.ycombinator.com/item?id=50440883\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "geox",
+      "published": "Tue, 10 Nov 2026 14:28:06 +0000"
+    },
+    {
+      "name": "Perplexity launches its own take on AI agents for work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work\nComments URL: https://news.ycombinator.com/item?id=50440684\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "DGAP",
+      "published": "Tue, 10 Nov 2026 14:14:30 +0000"
+    }
+  ]
+}

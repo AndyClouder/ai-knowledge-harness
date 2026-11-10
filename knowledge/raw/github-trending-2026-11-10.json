@@ -1,0 +1,170 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-11-10T16:03:46.410482+00:00",
+  "items": [
+    {
+      "name": "janestreet/agent_skills",
+      "url": "https://github.com/janestreet/agent_skills",
+      "summary": "Agent skills",
+      "stars": 3348,
+      "language": null,
+      "topics": []
+    },
+    {
+      "name": "IainKay/ram-altman",
+      "url": "https://github.com/IainKay/ram-altman",
+      "summary": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
+      "stars": 1730,
+      "language": "Shell",
+      "topics": [
+        "bash",
+        "cron",
+        "dram",
+        "email",
+        "humor",
+        "linux",
+        "meminfo",
+        "memory",
+        "monitoring",
+        "openai",
+        "parody",
+        "ram",
+        "ram-altman",
+        "sam-altman",
+        "sam-altman-openai",
+        "shell-script",
+        "sysadmin"
+      ]
+    },
+    {
+      "name": "AtomIllusionistDwell/watson-username-footprint-finder",
+      "url": "https://github.com/AtomIllusionistDwell/watson-username-footprint-finder",
+      "summary": "Free people-search desktop app: look up a nickname, email, phone or site across 3,100+ public pages and get one readable report.",
+      "stars": 740,
+      "language": "TypeScript",
+      "topics": [
+        "digital-footprint",
+        "electron",
+        "people-search",
+        "react",
+        "reverse-lookup",
+        "sherlock",
+        "social-media-search",
+        "username-lookup",
+        "windows"
+      ]
+    },
+    {
+      "name": "kubai087/kubai-icons",
+      "url": "https://github.com/kubai087/kubai-icons",
+      "summary": "An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React, Vue and SVG, and a website to browse th",
+      "stars": 639,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "animated-icons",
+        "animation",
+        "claude",
+        "claude-skill",
+        "codex",
+        "design-system",
+        "hover-effects",
+        "icon-set",
+        "icons",
+        "react",
+        "svg",
+        "svg-icons",
+        "vue"
+      ]
+    },
+    {
+      "name": "lxe/phoneuse",
+      "url": "https://github.com/lxe/phoneuse",
+      "summary": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
+      "stars": 556,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "dabingfy-dot/solo-to-team-skills",
+      "url": "https://github.com/dabingfy-dot/solo-to-team-skills",
+      "summary": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
+      "stars": 534,
+      "language": null,
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "collaboration",
+        "human-in-the-loop",
+        "workflow"
+      ]
+    },
+    {
+      "name": "devvmhq/devvm",
+      "url": "https://github.com/devvmhq/devvm",
+      "summary": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
+      "stars": 527,
+      "language": "Go",
+      "topics": [
+        "coding-agent",
+        "coding-agents",
+        "developer-tools",
+        "development",
+        "lima",
+        "lima-vm",
+        "linux",
+        "sandbox",
+        "sandbox-environment",
+        "ubuntu",
+        "virtual-machine",
+        "vm"
+      ]
+    },
+    {
+      "name": "thiagoaureliomartins-programador/chief-architect-premier",
+      "url": "https://github.com/thiagoaureliomartins-programador/chief-architect-premier",
+      "summary": "Chief Architect Premier 2026: Pre-Configured Desktop Edition with All Features Enabled",
+      "stars": 482,
+      "language": "Rust",
+      "topics": [
+        "automation",
+        "chief-architect",
+        "chief-architect-setup-failed-fix",
+        "chief-architect-x16",
+        "chief-architect-x16-not-installing-on-windows-11",
+        "desktop",
+        "developer-tools",
+        "how-to-install-chief-architect-x16-on-pc",
+        "open-source",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ]
+    },
+    {
+      "name": "dhruvthakur11/youtube-ai-video-editing-system",
+      "url": "https://github.com/dhruvthakur11/youtube-ai-video-editing-system",
+      "summary": "Eyeline teleprompter meets editing agents: JSON-driven animation and motion graphics workflow",
+      "stars": 481,
+      "language": "HTML",
+      "topics": [
+        "ai-agents",
+        "ai-video-editing",
+        "animation",
+        "claude-design",
+        "design",
+        "motion-graphics",
+        "open-source",
+        "teleprompter",
+        "video-editing",
+        "workflow",
+        "youtube"
+      ]
+    }
+  ]
+}
