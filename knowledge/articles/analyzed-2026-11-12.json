@@ -1,0 +1,422 @@
+[
+  {
+    "id": "788d132e-fc85-4ee0-9a4b-2f0e46cb5a58",
+    "title": "App-MonicaWEB/auslogics-audio-studio-desktop",
+    "source_url": "https://github.com/App-MonicaWEB/auslogics-audio-studio-desktop",
+    "source": "unknown",
+    "collected_at": "2026-11-12T16:32:39.883946+00:00",
+    "analyzed_at": "2026-11-12T16:32:39.883946+00:00",
+    "summary": "Auslogics Audio Studio 2026 Desktop Edition: Pre-Activated Standalone Setup",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1103,
+      "score": null,
+      "author": null,
+      "language": "HTML"
+    }
+  },
+  {
+    "id": "e182428a-9ac4-4fa9-a55b-5c7cd14deabc",
+    "title": "Marcian15350/mt5-tradeprotocol",
+    "source_url": "https://github.com/Marcian15350/mt5-tradeprotocol",
+    "source": "unknown",
+    "collected_at": "2026-11-12T16:32:41.110129+00:00",
+    "analyzed_at": "2026-11-12T16:32:41.110129+00:00",
+    "summary": "",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1103,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "c3c3b3de-37eb-48bf-b6d7-ec9bd8ef6d34",
+    "title": "The Conflict Between Generative Art and AI",
+    "source_url": "https://lostpixels.io/writings/the-ai-and-generative-art-conflict",
+    "source": "hacker_news",
+    "collected_at": "2026-11-12T16:32:42.335337+00:00",
+    "analyzed_at": "2026-11-12T16:32:42.335337+00:00",
+    "summary": "Article URL: https://lostpixels.io/writings/the-ai-and-generative-art-conflict\nComments URL: https://news.ycombinator.com/item?id=50469809\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "cosiiine",
+      "language": null
+    }
+  },
+  {
+    "id": "ec6f29e6-e707-4025-8827-22d9f1d53183",
+    "title": "Umo – Your AI CMO",
+    "source_url": "https://www.umo.ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-12T16:32:43.562519+00:00",
+    "analyzed_at": "2026-11-12T16:32:43.562519+00:00",
+    "summary": "Article URL: https://www.umo.ai/\nComments URL: https://news.ycombinator.com/item?id=50469782\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "sahil_chaudhary",
+      "language": null
+    }
+  },
+  {
+    "id": "e9672185-9b13-40dd-b257-9bb4553a6bfd",
+    "title": "Students at Architecture schools are using AI for everything – what's the fix?",
+    "source_url": "https://www.reddit.com/r/Architects/comments/1xp9yfs/students_at_architecture_schools_are_using_ai_for/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-12T16:32:44.788781+00:00",
+    "analyzed_at": "2026-11-12T16:32:44.788781+00:00",
+    "summary": "Article URL: https://www.reddit.com/r/Architects/comments/1xp9yfs/students_at_architecture_schools_are_using_ai_for/\nComments URL: https://news.ycombinator.com/item?id=50469481\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jbl0ndie",
+      "language": null
+    }
+  },
+  {
+    "id": "9b43cedc-1cca-4d2a-8448-3b35eda06b41",
+    "title": "Open benchmark of AI decision APIs vs. XGBoost for fraud triage",
+    "source_url": "https://github.com/SmartMobileHouse/fraud-decision-lab",
+    "source": "hacker_news",
+    "collected_at": "2026-11-12T16:32:46.014016+00:00",
+    "analyzed_at": "2026-11-12T16:32:46.014016+00:00",
+    "summary": "Article URL: https://github.com/SmartMobileHouse/fraud-decision-lab\nComments URL: https://news.ycombinator.com/item?id=50469366\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jpietrus1",
+      "language": null
+    }
+  },
+  {
+    "id": "3d45bced-c242-4d08-9cfc-5f4ba2c555bb",
+    "title": "Learning shaders when AI can write them for you",
+    "source_url": "https://shader-learn.vercel.app/en",
+    "source": "hacker_news",
+    "collected_at": "2026-11-12T16:32:47.241372+00:00",
+    "analyzed_at": "2026-11-12T16:32:47.241372+00:00",
+    "summary": "Article URL: https://shader-learn.vercel.app/en\nComments URL: https://news.ycombinator.com/item?id=50469293\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "huozhi",
+      "language": null
+    }
+  },
+  {
+    "id": "e369055e-1f67-47ac-919d-c14d707b4a8f",
+    "title": "Show HN: Cinnamon AI – an agent for your family",
+    "source_url": "https://getcinnamon.ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-12T16:32:48.467612+00:00",
+    "analyzed_at": "2026-11-12T16:32:48.467612+00:00",
+    "summary": "Article URL: https://getcinnamon.ai/\nComments URL: https://news.ycombinator.com/item?id=50469267\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mv4",
+      "language": null
+    }
+  },
+  {
+    "id": "8c40d40f-7e8e-48ab-af5b-321f59077214",
+    "title": "Chicago schools tell Google they'd rather lose Search than be forced to use AI",
+    "source_url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
+    "source": "hacker_news",
+    "collected_at": "2026-11-12T16:32:49.706980+00:00",
+    "analyzed_at": "2026-11-12T16:32:49.706980+00:00",
+    "summary": "Article URL: https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html\nComments URL: https://news.ycombinator.com/item?id=50469203\nPoints: 5\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "healsdata",
+      "language": null
+    }
+  },
+  {
+    "id": "d147ca8c-e73c-4238-a8fc-0226478862d7",
+    "title": "Frontier AI models bypassed Perplexity's sandbox network rules",
+    "source_url": "https://www.perplexity.ai/hub/blog/escaping-space-part-ii",
+    "source": "hacker_news",
+    "collected_at": "2026-11-12T16:32:50.933928+00:00",
+    "analyzed_at": "2026-11-12T16:32:50.933928+00:00",
+    "summary": "Article URL: https://www.perplexity.ai/hub/blog/escaping-space-part-ii\nComments URL: https://news.ycombinator.com/item?id=50469079\nPoints: 3\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "dvaplima",
+      "language": null
+    }
+  },
+  {
+    "id": "f33c3d9c-0fb4-40e1-bd6c-ccd7ddbeb374",
+    "title": "Agent-access-review – an access review for AI agents' MCP configs",
+    "source_url": "https://github.com/Mihirajmera/agent-access-review",
+    "source": "hacker_news",
+    "collected_at": "2026-11-12T16:32:52.158317+00:00",
+    "analyzed_at": "2026-11-12T16:32:52.158317+00:00",
+    "summary": "Article URL: https://github.com/Mihirajmera/agent-access-review\nComments URL: https://news.ycombinator.com/item?id=50469061\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mihirajmera1",
+      "language": null
+    }
+  },
+  {
+    "id": "f11664e2-2e23-4f6b-98e4-274204a734b4",
+    "title": "AI's Threat to Lawyers",
+    "source_url": "https://mu7ami.micro.blog/2026/11/11/ais-threat-to-lawyers-you.html",
+    "source": "hacker_news",
+    "collected_at": "2026-11-12T16:32:53.396944+00:00",
+    "analyzed_at": "2026-11-12T16:32:53.396944+00:00",
+    "summary": "Article URL: https://mu7ami.micro.blog/2026/11/11/ais-threat-to-lawyers-you.html\nComments URL: https://news.ycombinator.com/item?id=50469008\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "speckx",
+      "language": null
+    }
+  },
+  {
+    "id": "c6fa79e5-c8f7-494a-9ff1-2731b6413d0b",
+    "title": "Show HN: Senku, an AI agent that can control your phone in background",
+    "source_url": "https://www.heysenku.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-12T16:32:54.860571+00:00",
+    "analyzed_at": "2026-11-12T16:32:54.860571+00:00",
+    "summary": "I built an ai agent that can control your phone in backgroundI have been trying out personal agents that work on cloud and it has been a pain to give my session details (like otp) every single time.wi",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "steve_aldrin",
+      "language": null
+    }
+  },
+  {
+    "id": "079b1ea3-ed67-47b3-a6ce-bb72afb7d5d1",
+    "title": "We Need a Data-Centric OS for AI (2025)",
+    "source_url": "https://www.nextplatform.com/control/2025/05/27/why-we-need-a-data-centric-os-for-ai/1652966",
+    "source": "hacker_news",
+    "collected_at": "2026-11-12T16:32:56.099613+00:00",
+    "analyzed_at": "2026-11-12T16:32:56.099613+00:00",
+    "summary": "Article URL: https://www.nextplatform.com/control/2025/05/27/why-we-need-a-data-centric-os-for-ai/1652966\nComments URL: https://news.ycombinator.com/item?id=50468809\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "teleforce",
+      "language": null
+    }
+  },
+  {
+    "id": "fb2bde26-0a9d-4ca6-a983-8fbce8d4fcd9",
+    "title": "Ensuring AI-generated code does what we want",
+    "source_url": "https://martinfowler.com/articles/tests-as-data.html",
+    "source": "hacker_news",
+    "collected_at": "2026-11-12T16:32:57.339759+00:00",
+    "analyzed_at": "2026-11-12T16:32:57.339759+00:00",
+    "summary": "Article URL: https://martinfowler.com/articles/tests-as-data.html\nComments URL: https://news.ycombinator.com/item?id=50468716\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "daviducolo",
+      "language": null
+    }
+  },
+  {
+    "id": "df3b742c-9352-42a7-91c2-8c98d84b079d",
+    "title": "Managing AI-Assisted Cloud Infrastructure",
+    "source_url": "https://medium.com/@InditexTech/managing-ai-assisted-cloud-infrastructure-with-an-open-source-developer-first-workflow-66a005b9b508",
+    "source": "hacker_news",
+    "collected_at": "2026-11-12T16:32:58.578900+00:00",
+    "analyzed_at": "2026-11-12T16:32:58.578900+00:00",
+    "summary": "Article URL: https://medium.com/@InditexTech/managing-ai-assisted-cloud-infrastructure-with-an-open-source-developer-first-workflow-66a005b9b508\nComments URL: https://news.ycombinator.com/item?id=5046",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "esthermll20",
+      "language": null
+    }
+  },
+  {
+    "id": "410b38ab-c40c-4c3b-b988-2524b5c9673e",
+    "title": "The AI Question",
+    "source_url": "https://kangminsuk.com/the-ai-question/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-12T16:32:59.817879+00:00",
+    "analyzed_at": "2026-11-12T16:32:59.817879+00:00",
+    "summary": "Article URL: https://kangminsuk.com/the-ai-question/\nComments URL: https://news.ycombinator.com/item?id=50468629\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "speckx",
+      "language": null
+    }
+  },
+  {
+    "id": "12b9f49b-5825-4f8e-b90c-aa3005227864",
+    "title": "Did it use REA? Checking viral AI reverse-engineering demos",
+    "source_url": "https://github.com/AIshihzong/awesome-reverse-engineer-anything/blob/main/docs/is-it-rea.md",
+    "source": "hacker_news",
+    "collected_at": "2026-11-12T16:33:01.058596+00:00",
+    "analyzed_at": "2026-11-12T16:33:01.058596+00:00",
+    "summary": "Article URL: https://github.com/AIshihzong/awesome-reverse-engineer-anything/blob/main/docs/is-it-rea.md\nComments URL: https://news.ycombinator.com/item?id=50468609\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "AIshihzong",
+      "language": null
+    }
+  },
+  {
+    "id": "09c71f2e-60a5-413a-8fe4-e1d650eb022c",
+    "title": "Today we're launching Petrichor (YC F26), a wet lab for frontier AI labs",
+    "source_url": "https://twitter.com/Petrichorbios/status/2120290803419639914",
+    "source": "hacker_news",
+    "collected_at": "2026-11-12T16:33:02.296679+00:00",
+    "analyzed_at": "2026-11-12T16:33:02.296679+00:00",
+    "summary": "Article URL: https://twitter.com/Petrichorbios/status/2120290803419639914\nComments URL: https://news.ycombinator.com/item?id=50468554\nPoints: 2\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "hentrep",
+      "language": null
+    }
+  },
+  {
+    "id": "84583d4d-2ae5-4825-8475-6747717cab20",
+    "title": "A lawyer used AI to write a report, but billed full time. What should I do?",
+    "source_url": "https://news.ycombinator.com/item?id=50468434",
+    "source": "hacker_news",
+    "collected_at": "2026-11-12T16:33:03.537874+00:00",
+    "analyzed_at": "2026-11-12T16:33:03.537874+00:00",
+    "summary": "This is not a request for legal advice, and therefore the country matters little here. I write because I am interested in hearing opinions on the moral implications of something that is bound to happe",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "isolli",
+      "language": null
+    }
+  }
+]

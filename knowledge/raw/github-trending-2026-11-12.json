@@ -1,0 +1,57 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-11-12T16:32:32.721335+00:00",
+  "items": [
+    {
+      "name": "App-MonicaWEB/auslogics-audio-studio-desktop",
+      "url": "https://github.com/App-MonicaWEB/auslogics-audio-studio-desktop",
+      "summary": "Auslogics Audio Studio 2026 Desktop Edition: Pre-Activated Standalone Setup",
+      "stars": 1103,
+      "language": "HTML",
+      "topics": [
+        "auslogics",
+        "auslogics-2026",
+        "auslogics-boostspeed",
+        "auslogics-boostspeed-2026",
+        "auslogics-crack",
+        "auslogics-driver-updater",
+        "auslogics-free",
+        "automation",
+        "boostspeed-install-setup-windows-2026",
+        "boostspeed-pro",
+        "developer-tools",
+        "disk-defrag-pro",
+        "internet-speed-boost",
+        "open-source",
+        "pc-speed-booster",
+        "python",
+        "scripts",
+        "software-engineering",
+        "trial-software",
+        "utility"
+      ]
+    },
+    {
+      "name": "Marcian15350/mt5-tradeprotocol",
+      "url": "https://github.com/Marcian15350/mt5-tradeprotocol",
+      "summary": "",
+      "stars": 1103,
+      "language": "TypeScript",
+      "topics": [
+        "algorithmic-trading-quantitative",
+        "crypto",
+        "foreign-exchange",
+        "forex",
+        "mcp",
+        "metatrader-5",
+        "metatrader-desktop",
+        "metatrader4",
+        "mql5",
+        "mt4",
+        "mt5",
+        "mt5-strategy"
+      ]
+    }
+  ]
+}

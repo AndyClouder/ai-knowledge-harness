@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-11-12T16:32:38.672351+00:00",
+  "items": [
+    {
+      "name": "The Conflict Between Generative Art and AI",
+      "url": "https://lostpixels.io/writings/the-ai-and-generative-art-conflict",
+      "summary": "Article URL: https://lostpixels.io/writings/the-ai-and-generative-art-conflict\nComments URL: https://news.ycombinator.com/item?id=50469809\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "cosiiine",
+      "published": "Thu, 12 Nov 2026 16:17:04 +0000"
+    },
+    {
+      "name": "Umo – Your AI CMO",
+      "url": "https://www.umo.ai/",
+      "summary": "Article URL: https://www.umo.ai/\nComments URL: https://news.ycombinator.com/item?id=50469782\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "sahil_chaudhary",
+      "published": "Thu, 12 Nov 2026 16:14:36 +0000"
+    },
+    {
+      "name": "Students at Architecture schools are using AI for everything – what's the fix?",
+      "url": "https://www.reddit.com/r/Architects/comments/1xp9yfs/students_at_architecture_schools_are_using_ai_for/",
+      "summary": "Article URL: https://www.reddit.com/r/Architects/comments/1xp9yfs/students_at_architecture_schools_are_using_ai_for/\nComments URL: https://news.ycombinator.com/item?id=50469481\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "jbl0ndie",
+      "published": "Thu, 12 Nov 2026 15:56:30 +0000"
+    },
+    {
+      "name": "Open benchmark of AI decision APIs vs. XGBoost for fraud triage",
+      "url": "https://github.com/SmartMobileHouse/fraud-decision-lab",
+      "summary": "Article URL: https://github.com/SmartMobileHouse/fraud-decision-lab\nComments URL: https://news.ycombinator.com/item?id=50469366\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "jpietrus1",
+      "published": "Thu, 12 Nov 2026 15:49:48 +0000"
+    },
+    {
+      "name": "Learning shaders when AI can write them for you",
+      "url": "https://shader-learn.vercel.app/en",
+      "summary": "Article URL: https://shader-learn.vercel.app/en\nComments URL: https://news.ycombinator.com/item?id=50469293\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "huozhi",
+      "published": "Thu, 12 Nov 2026 15:44:50 +0000"
+    },
+    {
+      "name": "Show HN: Cinnamon AI – an agent for your family",
+      "url": "https://getcinnamon.ai/",
+      "summary": "Article URL: https://getcinnamon.ai/\nComments URL: https://news.ycombinator.com/item?id=50469267\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mv4",
+      "published": "Thu, 12 Nov 2026 15:43:31 +0000"
+    },
+    {
+      "name": "Chicago schools tell Google they'd rather lose Search than be forced to use AI",
+      "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
+      "summary": "Article URL: https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html\nComments URL: https://news.ycombinator.com/item?id=50469203\nPoints: 5\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "healsdata",
+      "published": "Thu, 12 Nov 2026 15:40:37 +0000"
+    },
+    {
+      "name": "Frontier AI models bypassed Perplexity's sandbox network rules",
+      "url": "https://www.perplexity.ai/hub/blog/escaping-space-part-ii",
+      "summary": "Article URL: https://www.perplexity.ai/hub/blog/escaping-space-part-ii\nComments URL: https://news.ycombinator.com/item?id=50469079\nPoints: 3\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "dvaplima",
+      "published": "Thu, 12 Nov 2026 15:33:13 +0000"
+    },
+    {
+      "name": "Agent-access-review – an access review for AI agents' MCP configs",
+      "url": "https://github.com/Mihirajmera/agent-access-review",
+      "summary": "Article URL: https://github.com/Mihirajmera/agent-access-review\nComments URL: https://news.ycombinator.com/item?id=50469061\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mihirajmera1",
+      "published": "Thu, 12 Nov 2026 15:32:15 +0000"
+    },
+    {
+      "name": "AI's Threat to Lawyers",
+      "url": "https://mu7ami.micro.blog/2026/11/11/ais-threat-to-lawyers-you.html",
+      "summary": "Article URL: https://mu7ami.micro.blog/2026/11/11/ais-threat-to-lawyers-you.html\nComments URL: https://news.ycombinator.com/item?id=50469008\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "speckx",
+      "published": "Thu, 12 Nov 2026 15:30:02 +0000"
+    },
+    {
+      "name": "Show HN: Senku, an AI agent that can control your phone in background",
+      "url": "https://www.heysenku.com/",
+      "summary": "I built an ai agent that can control your phone in backgroundI have been trying out personal agents that work on cloud and it has been a pain to give my session details (like otp) every single time.wi",
+      "source": "hacker_news",
+      "score": null,
+      "author": "steve_aldrin",
+      "published": "Thu, 12 Nov 2026 15:23:06 +0000"
+    },
+    {
+      "name": "We Need a Data-Centric OS for AI (2025)",
+      "url": "https://www.nextplatform.com/control/2025/05/27/why-we-need-a-data-centric-os-for-ai/1652966",
+      "summary": "Article URL: https://www.nextplatform.com/control/2025/05/27/why-we-need-a-data-centric-os-for-ai/1652966\nComments URL: https://news.ycombinator.com/item?id=50468809\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "teleforce",
+      "published": "Thu, 12 Nov 2026 15:19:20 +0000"
+    },
+    {
+      "name": "Ensuring AI-generated code does what we want",
+      "url": "https://martinfowler.com/articles/tests-as-data.html",
+      "summary": "Article URL: https://martinfowler.com/articles/tests-as-data.html\nComments URL: https://news.ycombinator.com/item?id=50468716\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "daviducolo",
+      "published": "Thu, 12 Nov 2026 15:14:50 +0000"
+    },
+    {
+      "name": "Managing AI-Assisted Cloud Infrastructure",
+      "url": "https://medium.com/@InditexTech/managing-ai-assisted-cloud-infrastructure-with-an-open-source-developer-first-workflow-66a005b9b508",
+      "summary": "Article URL: https://medium.com/@InditexTech/managing-ai-assisted-cloud-infrastructure-with-an-open-source-developer-first-workflow-66a005b9b508\nComments URL: https://news.ycombinator.com/item?id=5046",
+      "source": "hacker_news",
+      "score": null,
+      "author": "esthermll20",
+      "published": "Thu, 12 Nov 2026 15:11:56 +0000"
+    },
+    {
+      "name": "The AI Question",
+      "url": "https://kangminsuk.com/the-ai-question/",
+      "summary": "Article URL: https://kangminsuk.com/the-ai-question/\nComments URL: https://news.ycombinator.com/item?id=50468629\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "speckx",
+      "published": "Thu, 12 Nov 2026 15:10:28 +0000"
+    },
+    {
+      "name": "Did it use REA? Checking viral AI reverse-engineering demos",
+      "url": "https://github.com/AIshihzong/awesome-reverse-engineer-anything/blob/main/docs/is-it-rea.md",
+      "summary": "Article URL: https://github.com/AIshihzong/awesome-reverse-engineer-anything/blob/main/docs/is-it-rea.md\nComments URL: https://news.ycombinator.com/item?id=50468609\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "AIshihzong",
+      "published": "Thu, 12 Nov 2026 15:09:12 +0000"
+    },
+    {
+      "name": "Today we're launching Petrichor (YC F26), a wet lab for frontier AI labs",
+      "url": "https://twitter.com/Petrichorbios/status/2120290803419639914",
+      "summary": "Article URL: https://twitter.com/Petrichorbios/status/2120290803419639914\nComments URL: https://news.ycombinator.com/item?id=50468554\nPoints: 2\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "hentrep",
+      "published": "Thu, 12 Nov 2026 15:05:46 +0000"
+    },
+    {
+      "name": "A lawyer used AI to write a report, but billed full time. What should I do?",
+      "url": "https://news.ycombinator.com/item?id=50468434",
+      "summary": "This is not a request for legal advice, and therefore the country matters little here. I write because I am interested in hearing opinions on the moral implications of something that is bound to happe",
+      "source": "hacker_news",
+      "score": null,
+      "author": "isolli",
+      "published": "Thu, 12 Nov 2026 14:59:34 +0000"
+    },
+    {
+      "name": "Jensen Huang Resigns as Nvidia CEO: What Happens Next for AI Chips?",
+      "url": "https://oplexa.com/blogs/jensen-huang-resigns-nvidia-ceo-november-2026/",
+      "summary": "Article URL: https://oplexa.com/blogs/jensen-huang-resigns-nvidia-ceo-november-2026/\nComments URL: https://news.ycombinator.com/item?id=50468267\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "oplexa07",
+      "published": "Thu, 12 Nov 2026 14:51:57 +0000"
+    },
+    {
+      "name": "Advanced AI models could infer the activity of the brain",
+      "url": "https://english.elpais.com/science-tech/2026-11-09/karl-deisseroth-nobel-prize-in-physiology-or-medicine-advanced-ai-models-could-infer-the-activity-of-the-brain.html",
+      "summary": "Article URL: https://english.elpais.com/science-tech/2026-11-09/karl-deisseroth-nobel-prize-in-physiology-or-medicine-advanced-ai-models-could-infer-the-activity-of-the-brain.html\nComments URL: https:",
+      "source": "hacker_news",
+      "score": null,
+      "author": "geox",
+      "published": "Thu, 12 Nov 2026 14:41:13 +0000"
+    }
+  ]
+}
