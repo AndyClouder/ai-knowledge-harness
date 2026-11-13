@@ -1,0 +1,89 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-11-13T15:53:58.395467+00:00",
+  "items": [
+    {
+      "name": "agentes-chat/agentes-chat",
+      "url": "https://github.com/agentes-chat/agentes-chat",
+      "summary": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and ",
+      "stars": 1298,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "ai-agents",
+        "browser-automation",
+        "chat",
+        "claude",
+        "claude-code",
+        "codex",
+        "collaboration",
+        "computer-use",
+        "docker-compose",
+        "gemini",
+        "grok",
+        "human-in-the-loop",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "openai",
+        "self-hosted",
+        "slack-alternative",
+        "team-chat"
+      ]
+    },
+    {
+      "name": "FrigadeHQ/yogurt",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "summary": "Private AI meeting notes. Free and open source.",
+      "stars": 1184,
+      "language": "TypeScript",
+      "topics": [
+        "ai-meeting-assistant",
+        "electron",
+        "linux",
+        "llama-cpp",
+        "local-ai",
+        "macos",
+        "mcp",
+        "meeting-notes",
+        "open-source",
+        "privacy",
+        "speech-to-text",
+        "transcription",
+        "whisper",
+        "whisper-cpp",
+        "windows"
+      ]
+    },
+    {
+      "name": "uchihamx999-beep/imei-repair-toolkit",
+      "url": "https://github.com/uchihamx999-beep/imei-repair-toolkit",
+      "summary": "IMEI Repair 2026: Standalone Installer and Complete Setup for Device Repair Solutions",
+      "stars": 1102,
+      "language": "TypeScript",
+      "topics": [
+        "automation",
+        "chimera",
+        "cpid",
+        "developer-tools",
+        "device-unlocking",
+        "imei-check",
+        "imei-check-myanmar",
+        "imei-masker",
+        "imei-number",
+        "imei-randomization",
+        "imei-repair",
+        "kg-bypass-by-imei",
+        "open-source",
+        "python",
+        "samfw-tool",
+        "samsung-frp-bypass-install-setup-windows-2026",
+        "samsung-frp-tool-download",
+        "software-engineering",
+        "termux-lock",
+        "xiaomi-mi-account"
+      ]
+    }
+  ]
+}

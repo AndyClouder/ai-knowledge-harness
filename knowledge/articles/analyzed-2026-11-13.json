@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ac3e5c6f-527c-4cdd-afc3-a43fb6e5fd8f",
+    "title": "agentes-chat/agentes-chat",
+    "source_url": "https://github.com/agentes-chat/agentes-chat",
+    "source": "unknown",
+    "collected_at": "2026-11-13T15:54:00.129009+00:00",
+    "analyzed_at": "2026-11-13T15:54:00.129009+00:00",
+    "summary": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1298,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "fa873573-f7e9-4784-b125-85a326ed3ecb",
+    "title": "FrigadeHQ/yogurt",
+    "source_url": "https://github.com/FrigadeHQ/yogurt",
+    "source": "unknown",
+    "collected_at": "2026-11-13T15:54:01.358690+00:00",
+    "analyzed_at": "2026-11-13T15:54:01.358690+00:00",
+    "summary": "Private AI meeting notes. Free and open source.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1184,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "1fa91c5b-358c-4699-918d-8709d8d84609",
+    "title": "uchihamx999-beep/imei-repair-toolkit",
+    "source_url": "https://github.com/uchihamx999-beep/imei-repair-toolkit",
+    "source": "unknown",
+    "collected_at": "2026-11-13T15:54:02.587769+00:00",
+    "analyzed_at": "2026-11-13T15:54:02.587769+00:00",
+    "summary": "IMEI Repair 2026: Standalone Installer and Complete Setup for Device Repair Solutions",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1102,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  }
+]
