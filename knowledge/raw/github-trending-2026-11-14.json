@@ -1,0 +1,257 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-11-14T14:44:20.436890+00:00",
+  "items": [
+    {
+      "name": "Goblinmine/homelab-diagram",
+      "url": "https://github.com/Goblinmine/homelab-diagram",
+      "summary": "Renders an r/homelab-style network diagram from a YAML inventory (Python → SVG/PNG). Written with Claude.",
+      "stars": 1020,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "kolbicz/WQFiles",
+      "url": "https://github.com/kolbicz/WQFiles",
+      "summary": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)",
+      "stars": 840,
+      "language": "Objective-C",
+      "topics": []
+    },
+    {
+      "name": "alexeyw/lot-map",
+      "url": "https://github.com/alexeyw/lot-map",
+      "summary": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
+      "stars": 786,
+      "language": "TypeScript",
+      "topics": [
+        "agent-observability",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "developer-tools",
+        "svg-animation",
+        "typescript",
+        "visualization"
+      ]
+    },
+    {
+      "name": "JDhruv14/line-art-animation",
+      "url": "https://github.com/JDhruv14/line-art-animation",
+      "summary": "A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
+      "stars": 708,
+      "language": "TypeScript",
+      "topics": [
+        "claude-skill",
+        "line-art",
+        "svg-animation",
+        "typescript"
+      ]
+    },
+    {
+      "name": "forcequitOS/worse_query",
+      "url": "https://github.com/forcequitOS/worse_query",
+      "summary": "A sandbox escape for iOS 26 and 27, again",
+      "stars": 627,
+      "language": "Objective-C",
+      "topics": []
+    },
+    {
+      "name": "Dodaios/ste80-humanizer",
+      "url": "https://github.com/Dodaios/ste80-humanizer",
+      "summary": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+      "stars": 516,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-writing",
+        "asd-ste100",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "cursor",
+        "humanize-ai-text",
+        "humanizer",
+        "karpathy",
+        "llm",
+        "plain-language",
+        "simplified-technical-english",
+        "writing"
+      ]
+    },
+    {
+      "name": "21stware/bowel",
+      "url": "https://github.com/21stware/bowel",
+      "summary": "Bowel is a mihomo client for macOS, Windows, Linux and Android.",
+      "stars": 494,
+      "language": "Go",
+      "topics": [
+        "android",
+        "clash",
+        "clash-meta",
+        "linux",
+        "macos",
+        "mcp",
+        "mihomo",
+        "proxy-client",
+        "windows"
+      ]
+    },
+    {
+      "name": "TooonyChen/finallyshell",
+      "url": "https://github.com/TooonyChen/finallyshell",
+      "summary": "类finalshell的ssh客户端 // An source-available finalshell copy, with go runtime and mygo UI",
+      "stars": 477,
+      "language": "Go",
+      "topics": [
+        "finalshell",
+        "libghostty",
+        "mygo-ui",
+        "ssh",
+        "ssh-client",
+        "terminal"
+      ]
+    },
+    {
+      "name": "linknimiball1974/ai-texture-forge",
+      "url": "https://github.com/linknimiball1974/ai-texture-forge",
+      "summary": "An AI-powered texture forge for Blender — turn text prompts into seamless PBR materials, concept art and scene-wide projections with local or cloud diffusion models, straight inside the 3D viewport on",
+      "stars": 458,
+      "language": null,
+      "topics": [
+        "dream-textures",
+        "dream-textures-addon",
+        "dream-textures-ai",
+        "dream-textures-blender",
+        "dream-textures-diffusion",
+        "dream-textures-generation",
+        "dream-textures-gpu",
+        "dream-textures-history",
+        "dream-textures-inpainting",
+        "dream-textures-local",
+        "dream-textures-material",
+        "dream-textures-outpainting",
+        "dream-textures-pbr",
+        "dream-textures-projection",
+        "dream-textures-prompt",
+        "dream-textures-python",
+        "dream-textures-render",
+        "dream-textures-seamless",
+        "dream-textures-upscaling",
+        "dream-textures-windows"
+      ]
+    },
+    {
+      "name": "failsafe-security/artex",
+      "url": "https://github.com/failsafe-security/artex",
+      "summary": "Source-built, locally bound FailSafe distribution of ARTEX (v0.3.15)",
+      "stars": 430,
+      "language": "Go",
+      "topics": []
+    },
+    {
+      "name": "duwqijlk/muse-protocol",
+      "url": "https://github.com/duwqijlk/muse-protocol",
+      "summary": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "stars": 395,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "name": "lizTheDeveloper/flyover-scrub",
+      "url": "https://github.com/lizTheDeveloper/flyover-scrub",
+      "summary": "Remove aircraft Doppler signatures from audio/video so recordings can't be geolocated from flyovers. Includes a reference attack scorer to measure it.",
+      "stars": 362,
+      "language": "Python",
+      "topics": [
+        "ads-b",
+        "audio",
+        "doppler",
+        "geolocation",
+        "osint",
+        "privacy"
+      ]
+    },
+    {
+      "name": "MiniMax-AI/MiniMax-H3-Image",
+      "url": "https://github.com/MiniMax-AI/MiniMax-H3-Image",
+      "summary": "MiniMax-H3-Image, an open-weight model for 16-megapixel image generation and editing.",
+      "stars": 356,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "diffusion-models",
+        "image-editing",
+        "image-generation",
+        "minimax-h3-image",
+        "text-to-image"
+      ]
+    },
+    {
+      "name": "Moh4696/cinematic-skill",
+      "url": "https://github.com/Moh4696/cinematic-skill",
+      "summary": "Agent skill for narrated cinematic films built entirely from code: one continuous camera over photos, maps and cards, timed to the voice. Claude Code, Codex, Cursor, Gemini CLI.",
+      "stars": 349,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "codex",
+        "documentary",
+        "explainer-video",
+        "motion-graphics",
+        "skia",
+        "video"
+      ]
+    },
+    {
+      "name": "berkantay/gpucanvas",
+      "url": "https://github.com/berkantay/gpucanvas",
+      "summary": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at th",
+      "stars": 341,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "canvas",
+        "design-tools",
+        "editor",
+        "html-in-canvas",
+        "infinite-canvas",
+        "react",
+        "shaders",
+        "transitions",
+        "typescript",
+        "webgpu",
+        "wgsl"
+      ]
+    },
+    {
+      "name": "op7418/guizang-game-skill",
+      "url": "https://github.com/op7418/guizang-game-skill",
+      "summary": "歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js, single-HTML). Playable demo in",
+      "stars": 339,
+      "language": "JavaScript",
+      "topics": [
+        "3d-game",
+        "action-game",
+        "agent-skills",
+        "ai-agents",
+        "ai-generated",
+        "browser-game",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "game-development",
+        "gamedev",
+        "html5-game",
+        "threejs",
+        "tripo",
+        "vibe-coding",
+        "webgl",
+        "wuxia"
+      ]
+    }
+  ]
+}

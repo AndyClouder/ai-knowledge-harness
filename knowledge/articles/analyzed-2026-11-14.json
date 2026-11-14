@@ -1,0 +1,422 @@
+[
+  {
+    "id": "b9ddd412-025e-4221-8814-81aa2b58efd0",
+    "title": "Goblinmine/homelab-diagram",
+    "source_url": "https://github.com/Goblinmine/homelab-diagram",
+    "source": "unknown",
+    "collected_at": "2026-11-14T14:44:54.302377+00:00",
+    "analyzed_at": "2026-11-14T14:44:54.302377+00:00",
+    "summary": "Renders an r/homelab-style network diagram from a YAML inventory (Python → SVG/PNG). Written with Claude.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1020,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "50d16c1d-d9d4-4cac-ad99-2481bd71a459",
+    "title": "kolbicz/WQFiles",
+    "source_url": "https://github.com/kolbicz/WQFiles",
+    "source": "unknown",
+    "collected_at": "2026-11-14T14:44:55.473435+00:00",
+    "analyzed_at": "2026-11-14T14:44:55.473435+00:00",
+    "summary": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 840,
+      "score": null,
+      "author": null,
+      "language": "Objective-C"
+    }
+  },
+  {
+    "id": "77d1dccd-caea-4c1d-8081-bbcab58104c8",
+    "title": "alexeyw/lot-map",
+    "source_url": "https://github.com/alexeyw/lot-map",
+    "source": "unknown",
+    "collected_at": "2026-11-14T14:44:56.656108+00:00",
+    "analyzed_at": "2026-11-14T14:44:56.656108+00:00",
+    "summary": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 786,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "33eb32a6-e33f-4ed5-ac9a-e19dbed90617",
+    "title": "JDhruv14/line-art-animation",
+    "source_url": "https://github.com/JDhruv14/line-art-animation",
+    "source": "unknown",
+    "collected_at": "2026-11-14T14:44:57.822178+00:00",
+    "analyzed_at": "2026-11-14T14:44:57.822178+00:00",
+    "summary": "A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 708,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "5961c324-93e9-49f1-a56e-9276a85b63a7",
+    "title": "forcequitOS/worse_query",
+    "source_url": "https://github.com/forcequitOS/worse_query",
+    "source": "unknown",
+    "collected_at": "2026-11-14T14:44:58.989233+00:00",
+    "analyzed_at": "2026-11-14T14:44:58.989233+00:00",
+    "summary": "A sandbox escape for iOS 26 and 27, again",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 627,
+      "score": null,
+      "author": null,
+      "language": "Objective-C"
+    }
+  },
+  {
+    "id": "4b83f1e8-5425-4d34-bb6f-6b6f487a1cab",
+    "title": "Dodaios/ste80-humanizer",
+    "source_url": "https://github.com/Dodaios/ste80-humanizer",
+    "source": "unknown",
+    "collected_at": "2026-11-14T14:45:00.160926+00:00",
+    "analyzed_at": "2026-11-14T14:45:00.160926+00:00",
+    "summary": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 516,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "70a97334-8a50-4b30-b337-51dfd6ad7ac8",
+    "title": "21stware/bowel",
+    "source_url": "https://github.com/21stware/bowel",
+    "source": "unknown",
+    "collected_at": "2026-11-14T14:45:01.327760+00:00",
+    "analyzed_at": "2026-11-14T14:45:01.327760+00:00",
+    "summary": "Bowel is a mihomo client for macOS, Windows, Linux and Android.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 494,
+      "score": null,
+      "author": null,
+      "language": "Go"
+    }
+  },
+  {
+    "id": "0fbea2da-fcb1-4b6b-9d8c-f0b49079c2b5",
+    "title": "TooonyChen/finallyshell",
+    "source_url": "https://github.com/TooonyChen/finallyshell",
+    "source": "unknown",
+    "collected_at": "2026-11-14T14:45:02.495876+00:00",
+    "analyzed_at": "2026-11-14T14:45:02.495876+00:00",
+    "summary": "类finalshell的ssh客户端 // An source-available finalshell copy, with go runtime and mygo UI",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 477,
+      "score": null,
+      "author": null,
+      "language": "Go"
+    }
+  },
+  {
+    "id": "38e70ed6-2f2b-4ee8-8609-306b96918ce9",
+    "title": "linknimiball1974/ai-texture-forge",
+    "source_url": "https://github.com/linknimiball1974/ai-texture-forge",
+    "source": "unknown",
+    "collected_at": "2026-11-14T14:45:03.661125+00:00",
+    "analyzed_at": "2026-11-14T14:45:03.661125+00:00",
+    "summary": "An AI-powered texture forge for Blender — turn text prompts into seamless PBR materials, concept art and scene-wide projections with local or cloud diffusion models, straight inside the 3D viewport on",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 458,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "59157f48-04c2-4b80-bc18-c8e0c1d0a3b5",
+    "title": "failsafe-security/artex",
+    "source_url": "https://github.com/failsafe-security/artex",
+    "source": "unknown",
+    "collected_at": "2026-11-14T14:45:04.829914+00:00",
+    "analyzed_at": "2026-11-14T14:45:04.829914+00:00",
+    "summary": "Source-built, locally bound FailSafe distribution of ARTEX (v0.3.15)",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 430,
+      "score": null,
+      "author": null,
+      "language": "Go"
+    }
+  },
+  {
+    "id": "b3796330-2d98-413b-9c49-325774fba390",
+    "title": "duwqijlk/muse-protocol",
+    "source_url": "https://github.com/duwqijlk/muse-protocol",
+    "source": "unknown",
+    "collected_at": "2026-11-14T14:45:06.001121+00:00",
+    "analyzed_at": "2026-11-14T14:45:06.001121+00:00",
+    "summary": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 395,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "db3ef32a-0b78-4275-a191-aac9f8ac0c57",
+    "title": "lizTheDeveloper/flyover-scrub",
+    "source_url": "https://github.com/lizTheDeveloper/flyover-scrub",
+    "source": "unknown",
+    "collected_at": "2026-11-14T14:45:07.165895+00:00",
+    "analyzed_at": "2026-11-14T14:45:07.165895+00:00",
+    "summary": "Remove aircraft Doppler signatures from audio/video so recordings can't be geolocated from flyovers. Includes a reference attack scorer to measure it.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 362,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "4150fbab-cc8a-44dd-996d-29dab27c7778",
+    "title": "MiniMax-AI/MiniMax-H3-Image",
+    "source_url": "https://github.com/MiniMax-AI/MiniMax-H3-Image",
+    "source": "unknown",
+    "collected_at": "2026-11-14T14:45:08.338911+00:00",
+    "analyzed_at": "2026-11-14T14:45:08.338911+00:00",
+    "summary": "MiniMax-H3-Image, an open-weight model for 16-megapixel image generation and editing.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 356,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "7ed31247-6b3e-405b-a0d7-c6c2850d9fb6",
+    "title": "Moh4696/cinematic-skill",
+    "source_url": "https://github.com/Moh4696/cinematic-skill",
+    "source": "unknown",
+    "collected_at": "2026-11-14T14:45:09.509872+00:00",
+    "analyzed_at": "2026-11-14T14:45:09.509872+00:00",
+    "summary": "Agent skill for narrated cinematic films built entirely from code: one continuous camera over photos, maps and cards, timed to the voice. Claude Code, Codex, Cursor, Gemini CLI.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 349,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "a73e077a-e9ae-43fe-9c02-f7009aeb8945",
+    "title": "berkantay/gpucanvas",
+    "source_url": "https://github.com/berkantay/gpucanvas",
+    "source": "unknown",
+    "collected_at": "2026-11-14T14:45:10.683735+00:00",
+    "analyzed_at": "2026-11-14T14:45:10.683735+00:00",
+    "summary": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at th",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 341,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "f946fd3b-353b-47b8-9adb-5ac1cac88bdb",
+    "title": "op7418/guizang-game-skill",
+    "source_url": "https://github.com/op7418/guizang-game-skill",
+    "source": "unknown",
+    "collected_at": "2026-11-14T14:45:11.853840+00:00",
+    "analyzed_at": "2026-11-14T14:45:11.853840+00:00",
+    "summary": "歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js, single-HTML). Playable demo in",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 339,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "e104f485-4167-462e-baf0-676564f4161a",
+    "title": "What new PyPI packages import: LLM, httpx, pydantic v2",
+    "source_url": "https://py-code.org/blog/new-pypi-packages-imports/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-14T14:45:13.031997+00:00",
+    "analyzed_at": "2026-11-14T14:45:13.031997+00:00",
+    "summary": "Article URL: https://py-code.org/blog/new-pypi-packages-imports/\nComments URL: https://news.ycombinator.com/item?id=50496859\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "aidotguru",
+      "language": null
+    }
+  },
+  {
+    "id": "f6b83e9d-804f-44e2-a0da-190f8d0c8601",
+    "title": "Write the eval before the fix: building a WhatsApp transcriber with LLM-TDD",
+    "source_url": "https://waldo.vanderlore.de/blog/whatyousay-privacy-voice-pipeline/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-14T14:45:14.197742+00:00",
+    "analyzed_at": "2026-11-14T14:45:14.197742+00:00",
+    "summary": "Article URL: https://waldo.vanderlore.de/blog/whatyousay-privacy-voice-pipeline/\nComments URL: https://news.ycombinator.com/item?id=50496586\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "waldov",
+      "language": null
+    }
+  },
+  {
+    "id": "9642b568-c20a-4811-865d-bffbe983c5c5",
+    "title": "Not Everything Needs an LLM",
+    "source_url": "https://posthog.com/newsletter/decision-models",
+    "source": "hacker_news",
+    "collected_at": "2026-11-14T14:45:15.370520+00:00",
+    "analyzed_at": "2026-11-14T14:45:15.370520+00:00",
+    "summary": "Article URL: https://posthog.com/newsletter/decision-models\nComments URL: https://news.ycombinator.com/item?id=50494554\nPoints: 5\n# Comments: 3",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "eigenBasis",
+      "language": null
+    }
+  },
+  {
+    "id": "9ecb8a7f-25ec-4e51-b597-4dc2a251f510",
+    "title": "We Dislike LLM Output, Not Because of Comprehension",
+    "source_url": "https://ycao.net/posts/llm-comprehension-acceptance",
+    "source": "hacker_news",
+    "collected_at": "2026-11-14T14:45:16.534793+00:00",
+    "analyzed_at": "2026-11-14T14:45:16.534793+00:00",
+    "summary": "Article URL: https://ycao.net/posts/llm-comprehension-acceptance\nComments URL: https://news.ycombinator.com/item?id=50491804\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "xiaoyu2006",
+      "language": null
+    }
+  }
+]

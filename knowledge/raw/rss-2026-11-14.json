@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-11-14T14:44:53.222497+00:00",
+  "items": [
+    {
+      "name": "What new PyPI packages import: LLM, httpx, pydantic v2",
+      "url": "https://py-code.org/blog/new-pypi-packages-imports/",
+      "summary": "Article URL: https://py-code.org/blog/new-pypi-packages-imports/\nComments URL: https://news.ycombinator.com/item?id=50496859\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "aidotguru",
+      "published": "Sat, 14 Nov 2026 13:28:13 +0000"
+    },
+    {
+      "name": "Write the eval before the fix: building a WhatsApp transcriber with LLM-TDD",
+      "url": "https://waldo.vanderlore.de/blog/whatyousay-privacy-voice-pipeline/",
+      "summary": "Article URL: https://waldo.vanderlore.de/blog/whatyousay-privacy-voice-pipeline/\nComments URL: https://news.ycombinator.com/item?id=50496586\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "waldov",
+      "published": "Sat, 14 Nov 2026 12:43:31 +0000"
+    },
+    {
+      "name": "Not Everything Needs an LLM",
+      "url": "https://posthog.com/newsletter/decision-models",
+      "summary": "Article URL: https://posthog.com/newsletter/decision-models\nComments URL: https://news.ycombinator.com/item?id=50494554\nPoints: 5\n# Comments: 3",
+      "source": "hacker_news",
+      "score": null,
+      "author": "eigenBasis",
+      "published": "Sat, 14 Nov 2026 06:25:03 +0000"
+    },
+    {
+      "name": "We Dislike LLM Output, Not Because of Comprehension",
+      "url": "https://ycao.net/posts/llm-comprehension-acceptance",
+      "summary": "Article URL: https://ycao.net/posts/llm-comprehension-acceptance\nComments URL: https://news.ycombinator.com/item?id=50491804\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "xiaoyu2006",
+      "published": "Fri, 13 Nov 2026 23:45:46 +0000"
+    },
+    {
+      "name": "Cooperation Between Autonomous LLM Agents in the Prisoner's Dilemma",
+      "url": "https://www.researchgate.net/publication/417439900_Cooperation_Between_Autonomous_LLM_Agents_in_the_Repeated_Prisoner%27s_Dilemma_Exploitation_Cheap_Talk_and_Reputation",
+      "summary": "Article URL: https://www.researchgate.net/publication/417439900_Cooperation_Between_Autonomous_LLM_Agents_in_the_Repeated_Prisoner%27s_Dilemma_Exploitation_Cheap_Talk_and_Reputation\nComments URL: http",
+      "source": "hacker_news",
+      "score": null,
+      "author": "marojejian",
+      "published": "Fri, 13 Nov 2026 20:46:58 +0000"
+    },
+    {
+      "name": "LLM's Play Zachtronics' SpaceChem",
+      "url": "https://spacechem.wincon.dev/",
+      "summary": "Article URL: https://spacechem.wincon.dev/\nComments URL: https://news.ycombinator.com/item?id=50488850\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "fairestvalue",
+      "published": "Fri, 13 Nov 2026 19:59:58 +0000"
+    },
+    {
+      "name": "Eliminating Nondeterminism in LLM Inference with Integer-Only Arithmetic",
+      "url": "https://nathan.rs/posts/detllm/",
+      "summary": "Article URL: https://nathan.rs/posts/detllm/\nComments URL: https://news.ycombinator.com/item?id=50485914\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "shortlived",
+      "published": "Fri, 13 Nov 2026 16:32:18 +0000"
+    },
+    {
+      "name": "Show HN: Langfuse AI Gateway, open source rust gateway to trace every LLM call",
+      "url": "https://github.com/langfuse/langfuse/tree/main/ai-gateway",
+      "summary": "Hi HN, this is Max, Marc and Clemens, co-founders of Langfuse, the open source tool for agent & observability & evals (https://github.com/langfuse/langfuse).It’s been a minute since our last Show HN i",
+      "source": "hacker_news",
+      "score": null,
+      "author": "clemo_ra",
+      "published": "Fri, 13 Nov 2026 15:10:20 +0000"
+    },
+    {
+      "name": "Im 17, Built a Swift-native LLM inference engine for Apple Silicon",
+      "url": "https://github.com/torinriley/alpaca",
+      "summary": "Article URL: https://github.com/torinriley/alpaca\nComments URL: https://news.ycombinator.com/item?id=50483625\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "torinriley",
+      "published": "Fri, 13 Nov 2026 14:02:26 +0000"
+    },
+    {
+      "name": "The Complete Guide to LLM Evaluation",
+      "url": "https://machinelearningmastery.com/the-complete-guide-to-llm-evaluation/",
+      "summary": "Article URL: https://machinelearningmastery.com/the-complete-guide-to-llm-evaluation/\nComments URL: https://news.ycombinator.com/item?id=50482300\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "eigenBasis",
+      "published": "Fri, 13 Nov 2026 12:02:40 +0000"
+    },
+    {
+      "name": "Show HN: Chap – Meeting notes from live captions (no bot) with any LLM or agent",
+      "url": "https://chatpanel.net/",
+      "summary": "Chap is an AI Agent that is botless in capturing meeting notes (zoom, google meet, teams, webex) and a linked notebook (AI note taking), on any model or agent (claude code, codex and any CLI agents(op",
+      "source": "hacker_news",
+      "score": null,
+      "author": "veeragoni",
+      "published": "Fri, 13 Nov 2026 06:31:06 +0000"
+    },
+    {
+      "name": "I let an LLM use my TUI like a user. It found multiple UX bugs",
+      "url": "https://github.com/con-dog/clingon",
+      "summary": "Article URL: https://github.com/con-dog/clingon\nComments URL: https://news.ycombinator.com/item?id=50478986\nPoints: 4\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "purple-leafy",
+      "published": "Fri, 13 Nov 2026 06:05:02 +0000"
+    },
+    {
+      "name": "DistDebug-Bench: Can LLM Agents Diagnose Bugs in Distributed Systems?",
+      "url": "https://distdebug.com/",
+      "summary": "Article URL: https://distdebug.com/\nComments URL: https://news.ycombinator.com/item?id=50478672\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "matt_d",
+      "published": "Fri, 13 Nov 2026 05:19:29 +0000"
+    },
+    {
+      "name": "Doubling LLM token rates in ComfyUI",
+      "url": "https://blog.comfy.org/p/doubling-llm-token-rates-in-comfyui",
+      "summary": "Article URL: https://blog.comfy.org/p/doubling-llm-token-rates-in-comfyui\nComments URL: https://news.ycombinator.com/item?id=50477506\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ivewonyoung",
+      "published": "Fri, 13 Nov 2026 02:52:50 +0000"
+    },
+    {
+      "name": "Show HN: AgentLeak – open-source privacy testing for multi-agent LLM systems",
+      "url": "https://github.com/Privatris/AgentLeak",
+      "summary": "Article URL: https://github.com/Privatris/AgentLeak\nComments URL: https://news.ycombinator.com/item?id=50476987\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "yagobski",
+      "published": "Fri, 13 Nov 2026 01:36:36 +0000"
+    },
+    {
+      "name": "Show HN: SayStreet – Voice shopping for blind users; the LLM never touches money",
+      "url": "https://github.com/saystreet/demo",
+      "summary": "Article URL: https://github.com/saystreet/demo\nComments URL: https://news.ycombinator.com/item?id=50476537\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "dminglv",
+      "published": "Fri, 13 Nov 2026 00:35:25 +0000"
+    },
+    {
+      "name": "Air-LLM: Broadcasting AI Weights for Edge LLM Inference via RF Computing",
+      "url": "https://arxiv.org/abs/2610.00465",
+      "summary": "Article URL: https://arxiv.org/abs/2610.00465\nComments URL: https://news.ycombinator.com/item?id=50471658\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "nolist_policy",
+      "published": "Thu, 12 Nov 2026 18:16:13 +0000"
+    },
+    {
+      "name": "Improving Fuzzy Robustness in LLM Safety with Automated Red Teaming",
+      "url": "https://alignment.openai.com/fuzzy-robustness/",
+      "summary": "Article URL: https://alignment.openai.com/fuzzy-robustness/\nComments URL: https://news.ycombinator.com/item?id=50471602\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Klaster_1",
+      "published": "Thu, 12 Nov 2026 18:13:02 +0000"
+    },
+    {
+      "name": "Compress any LLM 3x in one click, near-lossless, vLLM successor",
+      "url": "https://ecosistemastartup.com/spectra-comprime-llms-3x-en-menos-de-50-mb-de-ram/",
+      "summary": "Article URL: https://ecosistemastartup.com/spectra-comprime-llms-3x-en-menos-de-50-mb-de-ram/\nComments URL: https://news.ycombinator.com/item?id=50470363\nPoints: 5\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "NeuraCryption",
+      "published": "Thu, 12 Nov 2026 16:53:48 +0000"
+    },
+    {
+      "name": "Inception's Diffusion LLM API Is Shutting Down",
+      "url": "https://news.ycombinator.com/item?id=50470335",
+      "summary": "Sad to hear, but I got an email from hello@inceptionlabs.ai announcing the Mercury API that hosts their diffusion models is shutting down.No blog post yet but I assume one is coming.Here is the full e",
+      "source": "hacker_news",
+      "score": null,
+      "author": "_matthew_",
+      "published": "Thu, 12 Nov 2026 16:51:58 +0000"
+    }
+  ]
+}
