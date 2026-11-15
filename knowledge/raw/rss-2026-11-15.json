@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-11-15T15:18:07.006397+00:00",
+  "items": [
+    {
+      "name": "FlashVMM – jail your AI agent in a MicroVM that boots in 18 ms",
+      "url": "https://flashvmm.com/",
+      "summary": "Article URL: https://flashvmm.com/\nComments URL: https://news.ycombinator.com/item?id=50507449\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "wovoro",
+      "published": "Sun, 15 Nov 2026 15:09:19 +0000"
+    },
+    {
+      "name": "Show HN: A local-first AI agent for the desktop, no Electron, any LLM endpoint",
+      "url": "https://github.com/Scronkfinkle/byob",
+      "summary": "Hey folks. Most all the apps I see for agent harnesses are typescript based, and involve either electron or some form of IPC to function as a desktop app.In the age of LLM's, I thought it would be coo",
+      "source": "hacker_news",
+      "score": null,
+      "author": "scronkfinkle",
+      "published": "Sun, 15 Nov 2026 14:52:06 +0000"
+    },
+    {
+      "name": "Top scorer on South Korean tax exam confesses to cheating with AI",
+      "url": "https://www.reuters.com/world/asia-pacific/top-scorer-south-korean-tax-exam-confesses-cheating-with-ai-2026-11-15/",
+      "summary": "Article URL: https://www.reuters.com/world/asia-pacific/top-scorer-south-korean-tax-exam-confesses-cheating-with-ai-2026-11-15/\nComments URL: https://news.ycombinator.com/item?id=50507331\nPoints: 1\n# ",
+      "source": "hacker_news",
+      "score": null,
+      "author": "bookofjoe",
+      "published": "Sun, 15 Nov 2026 14:51:10 +0000"
+    },
+    {
+      "name": "All AI-generated code should be Open Source",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/\nComments URL: https://news.ycombinator.com/item?id=50507303\nPoints: 14\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "jcubic",
+      "published": "Sun, 15 Nov 2026 14:46:58 +0000"
+    },
+    {
+      "name": "Amazon Threat Intelligence observes threat actor campaigns with ARTEX AI agents",
+      "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-observes-threat-actors-running-cybercrime-campaigns-with-artex-ai-agents/",
+      "summary": "Article URL: https://aws.amazon.com/blogs/security/amazon-threat-intelligence-observes-threat-actors-running-cybercrime-campaigns-with-artex-ai-agents/\nComments URL: https://news.ycombinator.com/item?",
+      "source": "hacker_news",
+      "score": null,
+      "author": "882542F3884314B",
+      "published": "Sun, 15 Nov 2026 14:31:07 +0000"
+    },
+    {
+      "name": "OpsJarvis: A self-hosted AI ops desk where humans approve every write",
+      "url": "https://caelaralabs.com",
+      "summary": "Article URL: https://caelaralabs.com\nComments URL: https://news.ycombinator.com/item?id=50507138\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "opsjarvisai",
+      "published": "Sun, 15 Nov 2026 14:22:03 +0000"
+    },
+    {
+      "name": "LeCun: If you're interested in human-level AI, don't work on LLMs",
+      "url": "https://www.reddit.com/r/TheMachineLearning/comments/1xwp0kp/dont_work_on_llms_ylecun_at_corl/",
+      "summary": "Article URL: https://www.reddit.com/r/TheMachineLearning/comments/1xwp0kp/dont_work_on_llms_ylecun_at_corl/\nComments URL: https://news.ycombinator.com/item?id=50507084\nPoints: 5\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "theanonymousone",
+      "published": "Sun, 15 Nov 2026 14:14:23 +0000"
+    },
+    {
+      "name": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+      "url": "https://github.com/db-branch/db-branch",
+      "summary": "Article URL: https://github.com/db-branch/db-branch\nComments URL: https://news.ycombinator.com/item?id=50506940\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "nu_nu11",
+      "published": "Sun, 15 Nov 2026 13:50:51 +0000"
+    },
+    {
+      "name": "Beware the New AI-Fueled Ransomware Boom",
+      "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+      "summary": "Article URL: https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/\nComments URL: https://news.ycombinator.com/item?id=50506934\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "saikatsg",
+      "published": "Sun, 15 Nov 2026 13:49:46 +0000"
+    },
+    {
+      "name": "Let your AI agent call you, over MCP",
+      "url": "https://agline.in/mcp",
+      "summary": "Article URL: https://agline.in/mcp\nComments URL: https://news.ycombinator.com/item?id=50506919\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "franze",
+      "published": "Sun, 15 Nov 2026 13:47:29 +0000"
+    },
+    {
+      "name": "Europa, the EU's open AI model, is aiming for nearly 1T parameters",
+      "url": "https://maccus.fr/en/eu-open-ai-model-europa/",
+      "summary": "Article URL: https://maccus.fr/en/eu-open-ai-model-europa/\nComments URL: https://news.ycombinator.com/item?id=50506796\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mstkllah",
+      "published": "Sun, 15 Nov 2026 13:29:48 +0000"
+    },
+    {
+      "name": "Stop building new AI agent orchestrators – there are 636",
+      "url": "https://github.com/erson/awesome-agent-orchestrators/",
+      "summary": "Article URL: https://github.com/erson/awesome-agent-orchestrators/\nComments URL: https://news.ycombinator.com/item?id=50506724\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pulkas",
+      "published": "Sun, 15 Nov 2026 13:16:16 +0000"
+    },
+    {
+      "name": "AI Adoption Failures: Why Your Successful AI Pilot Is No Reason to Scale",
+      "url": "https://age-of-product.com/ai-adoption-failures/",
+      "summary": "Article URL: https://age-of-product.com/ai-adoption-failures/\nComments URL: https://news.ycombinator.com/item?id=50506625\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "swolpers",
+      "published": "Sun, 15 Nov 2026 12:59:22 +0000"
+    },
+    {
+      "name": "Five Layers of the AI Cake [pdf]",
+      "url": "https://futurumgroup.com/wp-content/uploads/2026/05/Five-Layers-of-the-AI-Cake.pdf",
+      "summary": "Article URL: https://futurumgroup.com/wp-content/uploads/2026/05/Five-Layers-of-the-AI-Cake.pdf\nComments URL: https://news.ycombinator.com/item?id=50506586\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "teleforce",
+      "published": "Sun, 15 Nov 2026 12:51:33 +0000"
+    },
+    {
+      "name": "The Backdoor Route That Keeps Beijing in the AI Race",
+      "url": "https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d",
+      "summary": "Article URL: https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d\nComments URL: https://news.ycombinator.com/item?id=50506584\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "heresie-dabord",
+      "published": "Sun, 15 Nov 2026 12:50:53 +0000"
+    },
+    {
+      "name": "Skills for Real Scientists – Steer Away AI Slop",
+      "url": "https://github.com/HiteSit/real-scientist-skills",
+      "summary": "Article URL: https://github.com/HiteSit/real-scientist-skills\nComments URL: https://news.ycombinator.com/item?id=50506529\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "hitesit",
+      "published": "Sun, 15 Nov 2026 12:42:08 +0000"
+    },
+    {
+      "name": "Sandlock: Confining AI Agent Code with Unprivileged Linux Primitives",
+      "url": "https://arxiv.org/abs/2605.26298",
+      "summary": "Article URL: https://arxiv.org/abs/2605.26298\nComments URL: https://news.ycombinator.com/item?id=50506416\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "equinumerous",
+      "published": "Sun, 15 Nov 2026 12:23:24 +0000"
+    },
+    {
+      "name": "Misaligned AI behaviors that indicate loss-of-control risk",
+      "url": "https://guidelight.ai/blog/categories-of-misaligned-ai-behaviors",
+      "summary": "Article URL: https://guidelight.ai/blog/categories-of-misaligned-ai-behaviors\nComments URL: https://news.ycombinator.com/item?id=50506342\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "iLuddite",
+      "published": "Sun, 15 Nov 2026 12:09:05 +0000"
+    },
+    {
+      "name": "Show HN: Aurora GeoXAI – Sovereign geospatial AI built out of frustration",
+      "url": "https://github.com/felipetjmg1-bit/aurora-geointelligence-xai",
+      "summary": "Article URL: https://github.com/felipetjmg1-bit/aurora-geointelligence-xai\nComments URL: https://news.ycombinator.com/item?id=50506332\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Impulso_Digital",
+      "published": "Sun, 15 Nov 2026 12:07:53 +0000"
+    },
+    {
+      "name": "Show HN: Aurora GeoXAI – Sovereign geospatial AI built out of frustration",
+      "url": "https://news.ycombinator.com/item?id=50506331",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=50506331\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Impulso_Digital",
+      "published": "Sun, 15 Nov 2026 12:07:30 +0000"
+    }
+  ]
+}

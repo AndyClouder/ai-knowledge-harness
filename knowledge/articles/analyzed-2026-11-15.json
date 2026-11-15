@@ -1,0 +1,422 @@
+[
+  {
+    "id": "c66c536e-132b-462a-bec2-af68b0a78507",
+    "title": "ZiChuanLan/freebie-radar",
+    "source_url": "https://github.com/ZiChuanLan/freebie-radar",
+    "source": "unknown",
+    "collected_at": "2026-11-15T15:18:08.017667+00:00",
+    "analyzed_at": "2026-11-15T15:18:08.017667+00:00",
+    "summary": "白嫖资源聚合雷达：57 个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 703,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "a0d9eec0-efc2-483c-8330-f0c47e47f859",
+    "title": "Topkiflare74/ai--manus2.0",
+    "source_url": "https://github.com/Topkiflare74/ai--manus2.0",
+    "source": "unknown",
+    "collected_at": "2026-11-15T15:18:09.283154+00:00",
+    "analyzed_at": "2026-11-15T15:18:09.283154+00:00",
+    "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 678,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "eb0af721-a751-40b9-bff9-6106b9c589d4",
+    "title": "WarriorRemember/IPTV_Player_2.0",
+    "source_url": "https://github.com/WarriorRemember/IPTV_Player_2.0",
+    "source": "unknown",
+    "collected_at": "2026-11-15T15:18:10.549718+00:00",
+    "analyzed_at": "2026-11-15T15:18:10.549718+00:00",
+    "summary": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 673,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "dea0cd55-2f66-433d-8727-25d2e293be47",
+    "title": "trackboatwrightplan/GitHub-Copilot-app",
+    "source_url": "https://github.com/trackboatwrightplan/GitHub-Copilot-app",
+    "source": "unknown",
+    "collected_at": "2026-11-15T15:18:11.815126+00:00",
+    "analyzed_at": "2026-11-15T15:18:11.815126+00:00",
+    "summary": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 672,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "00402e24-f1fa-469f-8f98-23fc11e2edce",
+    "title": "TrapAccountant/GitHub-Copilot-app",
+    "source_url": "https://github.com/TrapAccountant/GitHub-Copilot-app",
+    "source": "unknown",
+    "collected_at": "2026-11-15T15:18:13.080113+00:00",
+    "analyzed_at": "2026-11-15T15:18:13.080113+00:00",
+    "summary": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 670,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "0ff85b93-fc42-4acc-9575-641a5289ab78",
+    "title": "TurquoiseDetective/IPTV_Player_2.0",
+    "source_url": "https://github.com/TurquoiseDetective/IPTV_Player_2.0",
+    "source": "unknown",
+    "collected_at": "2026-11-15T15:18:14.344008+00:00",
+    "analyzed_at": "2026-11-15T15:18:14.344008+00:00",
+    "summary": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 669,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "3719b927-a7a7-4df0-9f07-783911391881",
+    "title": "tornadonovicewhirl40/IPTV_Player_2.0",
+    "source_url": "https://github.com/tornadonovicewhirl40/IPTV_Player_2.0",
+    "source": "unknown",
+    "collected_at": "2026-11-15T15:18:15.606317+00:00",
+    "analyzed_at": "2026-11-15T15:18:15.606317+00:00",
+    "summary": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 669,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "8bf71b96-b93d-4d32-b40d-6243b6de71ee",
+    "title": "WattBeetleLearn/IPTV_Player_2.0",
+    "source_url": "https://github.com/WattBeetleLearn/IPTV_Player_2.0",
+    "source": "unknown",
+    "collected_at": "2026-11-15T15:18:16.871894+00:00",
+    "analyzed_at": "2026-11-15T15:18:16.871894+00:00",
+    "summary": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 667,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "9648b9a8-0547-4e04-a2ad-4df7e1fdcfb3",
+    "title": "topapothecarycanal/ai--manus2.0",
+    "source_url": "https://github.com/topapothecarycanal/ai--manus2.0",
+    "source": "unknown",
+    "collected_at": "2026-11-15T15:18:18.133460+00:00",
+    "analyzed_at": "2026-11-15T15:18:18.133460+00:00",
+    "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 666,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "155b37fe-99c7-4a2c-8667-cd86102dab8e",
+    "title": "toppatronweave/GitHub-Copilot-app",
+    "source_url": "https://github.com/toppatronweave/GitHub-Copilot-app",
+    "source": "unknown",
+    "collected_at": "2026-11-15T15:18:19.398203+00:00",
+    "analyzed_at": "2026-11-15T15:18:19.398203+00:00",
+    "summary": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 666,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "0827f004-6fcf-4765-9094-4948d485c5b3",
+    "title": "Trapbraneedle/IPTV_Player_2.0",
+    "source_url": "https://github.com/Trapbraneedle/IPTV_Player_2.0",
+    "source": "unknown",
+    "collected_at": "2026-11-15T15:18:20.663440+00:00",
+    "analyzed_at": "2026-11-15T15:18:20.663440+00:00",
+    "summary": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 666,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "56f82c09-78bb-4f76-a339-ca8bfa306df9",
+    "title": "trackersnailgrip/GitHub-Copilot-app",
+    "source_url": "https://github.com/trackersnailgrip/GitHub-Copilot-app",
+    "source": "unknown",
+    "collected_at": "2026-11-15T15:18:21.929032+00:00",
+    "analyzed_at": "2026-11-15T15:18:21.929032+00:00",
+    "summary": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 666,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "d4526798-012d-4ec5-ac74-75a41444c061",
+    "title": "FlashVMM – jail your AI agent in a MicroVM that boots in 18 ms",
+    "source_url": "https://flashvmm.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-15T15:18:23.193408+00:00",
+    "analyzed_at": "2026-11-15T15:18:23.193408+00:00",
+    "summary": "Article URL: https://flashvmm.com/\nComments URL: https://news.ycombinator.com/item?id=50507449\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "wovoro",
+      "language": null
+    }
+  },
+  {
+    "id": "4ea16301-3a0a-4987-a7ab-c12b958e87d2",
+    "title": "Show HN: A local-first AI agent for the desktop, no Electron, any LLM endpoint",
+    "source_url": "https://github.com/Scronkfinkle/byob",
+    "source": "hacker_news",
+    "collected_at": "2026-11-15T15:18:24.458899+00:00",
+    "analyzed_at": "2026-11-15T15:18:24.458899+00:00",
+    "summary": "Hey folks. Most all the apps I see for agent harnesses are typescript based, and involve either electron or some form of IPC to function as a desktop app.In the age of LLM's, I thought it would be coo",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "scronkfinkle",
+      "language": null
+    }
+  },
+  {
+    "id": "73cd4df2-0f0b-450a-a7e1-65ee01881075",
+    "title": "Top scorer on South Korean tax exam confesses to cheating with AI",
+    "source_url": "https://www.reuters.com/world/asia-pacific/top-scorer-south-korean-tax-exam-confesses-cheating-with-ai-2026-11-15/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-15T15:18:25.722701+00:00",
+    "analyzed_at": "2026-11-15T15:18:25.722701+00:00",
+    "summary": "Article URL: https://www.reuters.com/world/asia-pacific/top-scorer-south-korean-tax-exam-confesses-cheating-with-ai-2026-11-15/\nComments URL: https://news.ycombinator.com/item?id=50507331\nPoints: 1\n# ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "bookofjoe",
+      "language": null
+    }
+  },
+  {
+    "id": "32ba703d-4a15-416c-87af-d364dcd0edb6",
+    "title": "All AI-generated code should be Open Source",
+    "source_url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-15T15:18:26.986984+00:00",
+    "analyzed_at": "2026-11-15T15:18:26.986984+00:00",
+    "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/\nComments URL: https://news.ycombinator.com/item?id=50507303\nPoints: 14\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jcubic",
+      "language": null
+    }
+  },
+  {
+    "id": "96b91ff2-2ba7-4056-86b4-2e55a09c4e24",
+    "title": "Amazon Threat Intelligence observes threat actor campaigns with ARTEX AI agents",
+    "source_url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-observes-threat-actors-running-cybercrime-campaigns-with-artex-ai-agents/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-15T15:18:28.442544+00:00",
+    "analyzed_at": "2026-11-15T15:18:28.442544+00:00",
+    "summary": "Article URL: https://aws.amazon.com/blogs/security/amazon-threat-intelligence-observes-threat-actors-running-cybercrime-campaigns-with-artex-ai-agents/\nComments URL: https://news.ycombinator.com/item?",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "882542F3884314B",
+      "language": null
+    }
+  },
+  {
+    "id": "dc12902c-26a7-4cd9-9524-b1cebe476d34",
+    "title": "OpsJarvis: A self-hosted AI ops desk where humans approve every write",
+    "source_url": "https://caelaralabs.com",
+    "source": "hacker_news",
+    "collected_at": "2026-11-15T15:18:29.681315+00:00",
+    "analyzed_at": "2026-11-15T15:18:29.681315+00:00",
+    "summary": "Article URL: https://caelaralabs.com\nComments URL: https://news.ycombinator.com/item?id=50507138\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "opsjarvisai",
+      "language": null
+    }
+  },
+  {
+    "id": "dfd3f418-6f21-46cd-9168-f696517bde8e",
+    "title": "LeCun: If you're interested in human-level AI, don't work on LLMs",
+    "source_url": "https://www.reddit.com/r/TheMachineLearning/comments/1xwp0kp/dont_work_on_llms_ylecun_at_corl/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-15T15:18:30.918865+00:00",
+    "analyzed_at": "2026-11-15T15:18:30.918865+00:00",
+    "summary": "Article URL: https://www.reddit.com/r/TheMachineLearning/comments/1xwp0kp/dont_work_on_llms_ylecun_at_corl/\nComments URL: https://news.ycombinator.com/item?id=50507084\nPoints: 5\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "theanonymousone",
+      "language": null
+    }
+  },
+  {
+    "id": "86de074b-b560-421b-91d3-e3274683bace",
+    "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+    "source_url": "https://github.com/db-branch/db-branch",
+    "source": "hacker_news",
+    "collected_at": "2026-11-15T15:18:32.158418+00:00",
+    "analyzed_at": "2026-11-15T15:18:32.158418+00:00",
+    "summary": "Article URL: https://github.com/db-branch/db-branch\nComments URL: https://news.ycombinator.com/item?id=50506940\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "nu_nu11",
+      "language": null
+    }
+  }
+]
