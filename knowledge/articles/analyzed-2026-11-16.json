@@ -1,0 +1,422 @@
+[
+  {
+    "id": "244c6718-625e-469d-947b-b5f5a3684b9d",
+    "title": "hitkeeen/blender-ai-mcp-addon",
+    "source_url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
+    "source": "unknown",
+    "collected_at": "2026-11-16T17:54:33.431635+00:00",
+    "analyzed_at": "2026-11-16T17:54:33.431635+00:00",
+    "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripti",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 2115,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "907adfb7-6865-45d4-ba2c-d416190a56e8",
+    "title": "haziqahmedqasmi/PeakCut",
+    "source_url": "https://github.com/haziqahmedqasmi/PeakCut",
+    "source": "unknown",
+    "collected_at": "2026-11-16T17:54:34.641079+00:00",
+    "analyzed_at": "2026-11-16T17:54:34.641079+00:00",
+    "summary": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 574,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "e852fb4f-3c42-4375-ba60-4350147a08ba",
+    "title": "n4ze3m/tiny-voca",
+    "source_url": "https://github.com/n4ze3m/tiny-voca",
+    "source": "unknown",
+    "collected_at": "2026-11-16T17:54:35.829319+00:00",
+    "analyzed_at": "2026-11-16T17:54:35.829319+00:00",
+    "summary": "A 4.5M-parameter two-voice English text-to-speech model, trained from scratch",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 560,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "5f69f614-b666-4688-9700-26b2693b29c2",
+    "title": "credoksopho1984/blender-ai-copilot-studio",
+    "source_url": "https://github.com/credoksopho1984/blender-ai-copilot-studio",
+    "source": "unknown",
+    "collected_at": "2026-11-16T17:54:37.020319+00:00",
+    "analyzed_at": "2026-11-16T17:54:37.020319+00:00",
+    "summary": "An AI copilot and MCP server for Blender that turns plain-language briefs into scene operations—inside a visual chat studio with multi-agent teams, your choice of AI models, and 27 built-in scene tool",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 514,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "978c4f71-b4ee-47d1-82fa-5e8ce7311bae",
+    "title": "BigPizzaV3/ClaudeMom",
+    "source_url": "https://github.com/BigPizzaV3/ClaudeMom",
+    "source": "unknown",
+    "collected_at": "2026-11-16T17:54:38.209015+00:00",
+    "analyzed_at": "2026-11-16T17:54:38.209015+00:00",
+    "summary": "不用 Claude 账号！把 API Key 变成登录模式，Claude 桌面版全功能解锁（汉化 / 语音 / 电脑控制）",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 514,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "e42c4354-1f9e-4705-bc6e-0ad5ef22d3f9",
+    "title": "racdeufindurch198812/Blender-AI-MCP-Studio",
+    "source_url": "https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio",
+    "source": "unknown",
+    "collected_at": "2026-11-16T17:54:39.404195+00:00",
+    "analyzed_at": "2026-11-16T17:54:39.404195+00:00",
+    "summary": "Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 512,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "c07fdf66-5c3b-422b-a81c-fb0e535f7904",
+    "title": "tiobeharxi1987/blender-ai-copilot-flow",
+    "source_url": "https://github.com/tiobeharxi1987/blender-ai-copilot-flow",
+    "source": "unknown",
+    "collected_at": "2026-11-16T17:54:40.598151+00:00",
+    "analyzed_at": "2026-11-16T17:54:40.598151+00:00",
+    "summary": "A controlled AI workflow for Blender: every copilot edit is a supervised tool call—proposed, approved, executed in sequence, cancellable after the current step and undoable by name—inside a visual stu",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 512,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "21bd2f1c-64af-4195-bb05-4930860f6e57",
+    "title": "zovulrira1974/blender-ai-copilot-assets",
+    "source_url": "https://github.com/zovulrira1974/blender-ai-copilot-assets",
+    "source": "unknown",
+    "collected_at": "2026-11-16T17:54:41.789596+00:00",
+    "analyzed_at": "2026-11-16T17:54:41.789596+00:00",
+    "summary": "An asset-savvy AI copilot for Blender—search Poly Haven, Sketchfab and Poly Pizza mid-conversation, check what fits, import after your confirmation, with 27 scene tools and a built-in MCP server along",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 508,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "67c32b22-651b-4b2b-9ca1-0e12e3c4e69a",
+    "title": "Doug-218/blender-ai-copilot-forge",
+    "source_url": "https://github.com/Doug-218/blender-ai-copilot-forge",
+    "source": "unknown",
+    "collected_at": "2026-11-16T17:54:42.981487+00:00",
+    "analyzed_at": "2026-11-16T17:54:42.981487+00:00",
+    "summary": "A scene-forging AI copilot for Blender—describe the layout and watch primitives, cameras, lights, materials and parenting assemble in ordered steps, with approvals, named undo and a built-in MCP serve",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 508,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "982696f5-dfdc-4cd0-9bff-4be7aa596dbe",
+    "title": "Poland can build the coolest AI data centre and get cheaper natural gas",
+    "source_url": "https://jacek.migdal.pl/2026/11/14/poland-coolest-ai-data-centre-cheaper-gas",
+    "source": "hacker_news",
+    "collected_at": "2026-11-16T17:54:44.170918+00:00",
+    "analyzed_at": "2026-11-16T17:54:44.170918+00:00",
+    "summary": "Article URL: https://jacek.migdal.pl/2026/11/14/poland-coolest-ai-data-centre-cheaper-gas\nComments URL: https://news.ycombinator.com/item?id=50520228\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jakozaur",
+      "language": null
+    }
+  },
+  {
+    "id": "3fd9f2e4-c926-44ec-a30f-18b85bcacabb",
+    "title": "A preregistered test of computational subjecthood in a running AI system",
+    "source_url": "https://zenodo.org/records/24075466",
+    "source": "hacker_news",
+    "collected_at": "2026-11-16T17:54:45.362274+00:00",
+    "analyzed_at": "2026-11-16T17:54:45.362274+00:00",
+    "summary": "Article URL: https://zenodo.org/records/24075466\nComments URL: https://news.ycombinator.com/item?id=50520214\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "youngbryan97",
+      "language": null
+    }
+  },
+  {
+    "id": "883861d4-dd71-4cb1-8f0d-bedb425ae0a0",
+    "title": "Broadening Access to AI for Scientists",
+    "source_url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-16T17:54:46.552463+00:00",
+    "analyzed_at": "2026-11-16T17:54:46.552463+00:00",
+    "summary": "Article URL: https://openai.com/index/expanding-chatgpt-for-academic-researchers/\nComments URL: https://news.ycombinator.com/item?id=50520161\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "waximabbax",
+      "language": null
+    }
+  },
+  {
+    "id": "afe9784f-a502-4cfd-8acd-c7dd9c397fe7",
+    "title": "Building a human-sized drone with AI in 6 days",
+    "source_url": "https://normal.ai/research/project-heavy-lift",
+    "source": "hacker_news",
+    "collected_at": "2026-11-16T17:54:47.746692+00:00",
+    "analyzed_at": "2026-11-16T17:54:47.746692+00:00",
+    "summary": "Article URL: https://normal.ai/research/project-heavy-lift\nComments URL: https://news.ycombinator.com/item?id=50520107\nPoints: 3\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "fallenbutton",
+      "language": null
+    }
+  },
+  {
+    "id": "eae23b5c-e71a-4d03-aab4-e6f5a6f18e6b",
+    "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
+    "source_url": "https://news.ycombinator.com/item?id=50520076",
+    "source": "hacker_news",
+    "collected_at": "2026-11-16T17:54:48.945033+00:00",
+    "analyzed_at": "2026-11-16T17:54:48.945033+00:00",
+    "summary": "A lot of people outside tech ask me if AI is going to replace programmers and I just think: if that were the case we should be running out of things to doThe bug backlog should be empty and we've caug",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ex-aws-dude",
+      "language": null
+    }
+  },
+  {
+    "id": "140535bd-8590-4d1b-a865-dbcb1fb10208",
+    "title": "Encrypt Every Prompt: protect AI chats with on AI GPUs by the end of 2027",
+    "source_url": "https://encrypteveryprompt.org/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-16T17:54:50.132013+00:00",
+    "analyzed_at": "2026-11-16T17:54:50.132013+00:00",
+    "summary": "Article URL: https://encrypteveryprompt.org/\nComments URL: https://news.ycombinator.com/item?id=50520038\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ljlolel",
+      "language": null
+    }
+  },
+  {
+    "id": "c79059f4-3bca-41b7-910f-4b5fc9017440",
+    "title": "The most powerful AI coding agent,editor and harness in one platform",
+    "source_url": "https://cerin.space",
+    "source": "hacker_news",
+    "collected_at": "2026-11-16T17:54:51.321980+00:00",
+    "analyzed_at": "2026-11-16T17:54:51.321980+00:00",
+    "summary": "Article URL: https://cerin.space\nComments URL: https://news.ycombinator.com/item?id=50519957\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "abrhamasbe",
+      "language": null
+    }
+  },
+  {
+    "id": "cfdd4cad-3c2a-435a-8bbc-b49fa62cde34",
+    "title": "IMF chief warns about global economy as AI circular financing hits $1T",
+    "source_url": "https://www.cnbc.com/2026/11/16/imf-georgieva-warning-ai-circular-financing.html",
+    "source": "hacker_news",
+    "collected_at": "2026-11-16T17:54:52.519290+00:00",
+    "analyzed_at": "2026-11-16T17:54:52.519290+00:00",
+    "summary": "Article URL: https://www.cnbc.com/2026/11/16/imf-georgieva-warning-ai-circular-financing.html\nComments URL: https://news.ycombinator.com/item?id=50519891\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "madihaa",
+      "language": null
+    }
+  },
+  {
+    "id": "13094bd7-61c9-4e9b-bf20-7dca63164e4d",
+    "title": "An AI Content Mill Put a Real Musician Through Copyright Hell",
+    "source_url": "https://www.404media.co/how-an-ai-content-mill-put-a-real-musician-through-copyright-hell/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-16T17:54:53.707275+00:00",
+    "analyzed_at": "2026-11-16T17:54:53.707275+00:00",
+    "summary": "Article URL: https://www.404media.co/how-an-ai-content-mill-put-a-real-musician-through-copyright-hell/\nComments URL: https://news.ycombinator.com/item?id=50519888\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "aray07",
+      "language": null
+    }
+  },
+  {
+    "id": "f6dd2d81-1567-4608-bf73-d4bc8be1f690",
+    "title": "Show HN: Emelyn, Your AI Social Media Manager",
+    "source_url": "https://www.emelyn.ai",
+    "source": "hacker_news",
+    "collected_at": "2026-11-16T17:54:54.897369+00:00",
+    "analyzed_at": "2026-11-16T17:54:54.897369+00:00",
+    "summary": "Hi HN, \nI’m Taher. I’ve been building Emelyn, an AI agent that does the day to day work of a social media manager for founders and very small teams.The problem I kept seeing was most founders know the",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "taherchhabra",
+      "language": null
+    }
+  },
+  {
+    "id": "0069e0bf-a522-401d-a8b5-de9c19e5b008",
+    "title": "Is AI Crashing?",
+    "source_url": "https://dfarq.homeip.net/is-ai-crashing/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-16T17:54:56.095170+00:00",
+    "analyzed_at": "2026-11-16T17:54:56.095170+00:00",
+    "summary": "Article URL: https://dfarq.homeip.net/is-ai-crashing/\nComments URL: https://news.ycombinator.com/item?id=50519711\nPoints: 3\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ibobev",
+      "language": null
+    }
+  }
+]
