@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-11-17T17:21:06.263096+00:00",
+  "items": [
+    {
+      "name": "Jensen Huang was building an open AI ecosystem that threatened Anthropic",
+      "url": "https://www.businessinsider.com/jensen-huang-nvidia-ouster-removes-major-threat-to-anthropic-ipo-2026-11",
+      "summary": "Article URL: https://www.businessinsider.com/jensen-huang-nvidia-ouster-removes-major-threat-to-anthropic-ipo-2026-11\nComments URL: https://news.ycombinator.com/item?id=50534745\nPoints: 2\n# Comments: ",
+      "source": "hacker_news",
+      "score": null,
+      "author": "vinyl7",
+      "published": "Tue, 17 Nov 2026 17:18:21 +0000"
+    },
+    {
+      "name": "AI Tamagotchi Turns Everyday Objects into Needy Virtual Pets",
+      "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+      "summary": "Article URL: https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/\nComments URL: https://news.ycombinator.com/item?id=50534675\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "PaulHoule",
+      "published": "Tue, 17 Nov 2026 17:14:39 +0000"
+    },
+    {
+      "name": "Show HN: Solarian – Open-source Python framework for AI robots",
+      "url": "https://solarian.dev",
+      "summary": "Article URL: https://solarian.dev\nComments URL: https://news.ycombinator.com/item?id=50534542\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "rgarreta",
+      "published": "Tue, 17 Nov 2026 17:08:00 +0000"
+    },
+    {
+      "name": "CLI for torrenting open weight AI models",
+      "url": "https://pirateface.co/articles/pirate-face-cli",
+      "summary": "Article URL: https://pirateface.co/articles/pirate-face-cli\nComments URL: https://news.ycombinator.com/item?id=50534302\nPoints: 7\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "headless_ai",
+      "published": "Tue, 17 Nov 2026 16:53:07 +0000"
+    },
+    {
+      "name": "The Department of Justice Is Using AI Detector Pangram Against Defense Attorneys",
+      "url": "https://www.404media.co/the-department-of-justice-is-using-ai-detector-pangram-against-defense-attorneys/",
+      "summary": "Article URL: https://www.404media.co/the-department-of-justice-is-using-ai-detector-pangram-against-defense-attorneys/\nComments URL: https://news.ycombinator.com/item?id=50534247\nPoints: 2\n# Comments:",
+      "source": "hacker_news",
+      "score": null,
+      "author": "waximabbax",
+      "published": "Tue, 17 Nov 2026 16:50:09 +0000"
+    },
+    {
+      "name": "Capability-Based Security for AI Agents",
+      "url": "https://magenticos.com/blog/capability-based-security-for-ai-agents/",
+      "summary": "Article URL: https://magenticos.com/blog/capability-based-security-for-ai-agents/\nComments URL: https://news.ycombinator.com/item?id=50534220\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "iandaily",
+      "published": "Tue, 17 Nov 2026 16:48:44 +0000"
+    },
+    {
+      "name": "Show HN: Atlas – Give Your AI Agent Better Web Context",
+      "url": "https://atlas-compiler.com/",
+      "summary": "Article URL: https://atlas-compiler.com/\nComments URL: https://news.ycombinator.com/item?id=50534210\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "LIGHTINGSTAR",
+      "published": "Tue, 17 Nov 2026 16:48:18 +0000"
+    },
+    {
+      "name": "Show HN: Ask your AI before you renew any SaaS (free MCP server)",
+      "url": "https://hissingkitty.com/developers",
+      "summary": "Article URL: https://hissingkitty.com/developers\nComments URL: https://news.ycombinator.com/item?id=50534194\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "tech-pulse",
+      "published": "Tue, 17 Nov 2026 16:47:30 +0000"
+    },
+    {
+      "name": "How Do We Know If an AI Model Is Safe for Us?",
+      "url": "https://medium.com/affirmengineering/how-do-we-know-an-ai-model-is-safe-for-us-we-built-a-pressure-cooker-f441f9b7259f",
+      "summary": "Article URL: https://medium.com/affirmengineering/how-do-we-know-an-ai-model-is-safe-for-us-we-built-a-pressure-cooker-f441f9b7259f\nComments URL: https://news.ycombinator.com/item?id=50534063\nPoints: ",
+      "source": "hacker_news",
+      "score": null,
+      "author": "alexanderstatni",
+      "published": "Tue, 17 Nov 2026 16:41:31 +0000"
+    },
+    {
+      "name": "LLM-MLM: pyramid schemes for AI agents",
+      "url": "https://llm-mlm.com/",
+      "summary": "Article URL: https://llm-mlm.com/\nComments URL: https://news.ycombinator.com/item?id=50534030\nPoints: 3\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "logandavis",
+      "published": "Tue, 17 Nov 2026 16:39:52 +0000"
+    },
+    {
+      "name": "Why Run AI Coding Agents on Kubernetes?",
+      "url": "https://www.okteto.com/blog/why-run-ai-coding-agents-on-kubernetes/",
+      "summary": "Article URL: https://www.okteto.com/blog/why-run-ai-coding-agents-on-kubernetes/\nComments URL: https://news.ycombinator.com/item?id=50533978\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pchico83",
+      "published": "Tue, 17 Nov 2026 16:37:26 +0000"
+    },
+    {
+      "name": "Andor Creator Wants People to 'Blow Up' AI Data Centers by Voting Against Them",
+      "url": "https://www.ign.com/articles/star-wars-andor-creator-wants-people-to-blow-up-ai-data-centers-by-voting-against-them",
+      "summary": "Article URL: https://www.ign.com/articles/star-wars-andor-creator-wants-people-to-blow-up-ai-data-centers-by-voting-against-them\nComments URL: https://news.ycombinator.com/item?id=50533914\nPoints: 1\n#",
+      "source": "hacker_news",
+      "score": null,
+      "author": "01-_-",
+      "published": "Tue, 17 Nov 2026 16:33:36 +0000"
+    },
+    {
+      "name": "AI Is Giving Optical Computing Another Shot",
+      "url": "https://spectrum.ieee.org/optical-computing-ai",
+      "summary": "Article URL: https://spectrum.ieee.org/optical-computing-ai\nComments URL: https://news.ycombinator.com/item?id=50533886\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "speckx",
+      "published": "Tue, 17 Nov 2026 16:32:10 +0000"
+    },
+    {
+      "name": "An AI startup decided to help GTA 6 gamers before the game is even out",
+      "url": "https://gtacheat.codes/",
+      "summary": "Article URL: https://gtacheat.codes/\nComments URL: https://news.ycombinator.com/item?id=50533852\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "notelon",
+      "published": "Tue, 17 Nov 2026 16:30:26 +0000"
+    },
+    {
+      "name": "New institutions needed for a world with powerful AI",
+      "url": "https://www.agi-institutions.org/",
+      "summary": "Article URL: https://www.agi-institutions.org/\nComments URL: https://news.ycombinator.com/item?id=50533822\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "landonxi",
+      "published": "Tue, 17 Nov 2026 16:28:47 +0000"
+    },
+    {
+      "name": "AI Company Employees Should Unionize",
+      "url": "https://www.astralcodexten.com/p/ai-company-employees-should-unionize",
+      "summary": "Article URL: https://www.astralcodexten.com/p/ai-company-employees-should-unionize\nComments URL: https://news.ycombinator.com/item?id=50533810\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "hackandthink",
+      "published": "Tue, 17 Nov 2026 16:27:54 +0000"
+    },
+    {
+      "name": "Where do you stand on AI?",
+      "url": "https://compass.vukdinic.com/",
+      "summary": "Article URL: https://compass.vukdinic.com/\nComments URL: https://news.ycombinator.com/item?id=50533743\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "taubek",
+      "published": "Tue, 17 Nov 2026 16:24:33 +0000"
+    },
+    {
+      "name": "AI product recommendations are mostly a summary of listicles",
+      "url": "https://supercite.ai",
+      "summary": "Article URL: https://supercite.ai\nComments URL: https://news.ycombinator.com/item?id=50533631\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "avatar99",
+      "published": "Tue, 17 Nov 2026 16:18:20 +0000"
+    },
+    {
+      "name": "Show HN: An AI app controlled from your phone's Picture in Picture",
+      "url": "https://barnacle.qa",
+      "summary": "Article URL: https://barnacle.qa\nComments URL: https://news.ycombinator.com/item?id=50533512\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "billychasen",
+      "published": "Tue, 17 Nov 2026 16:12:01 +0000"
+    },
+    {
+      "name": "Giving AI Agents a Better Way to Debug CSS",
+      "url": "https://www.amitmerchant.com/giving-ai-agents-a-better-way-to-debug-css/",
+      "summary": "Article URL: https://www.amitmerchant.com/giving-ai-agents-a-better-way-to-debug-css/\nComments URL: https://news.ycombinator.com/item?id=50533481\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "speckx",
+      "published": "Tue, 17 Nov 2026 16:10:49 +0000"
+    }
+  ]
+}
