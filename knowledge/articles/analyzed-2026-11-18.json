@@ -1,0 +1,422 @@
+[
+  {
+    "id": "07543f14-8aaa-4bc4-a145-18d234f43817",
+    "title": "boringmarketer/boring-marketing-skills",
+    "source_url": "https://github.com/boringmarketer/boring-marketing-skills",
+    "source": "unknown",
+    "collected_at": "2026-11-18T16:56:28.317176+00:00",
+    "analyzed_at": "2026-11-18T16:56:28.317176+00:00",
+    "summary": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 643,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "1b14ea55-13e0-4695-b7bd-01a440a2a96c",
+    "title": "Is AI a bicycle for the mind, or a car?",
+    "source_url": "https://twitter.com/kouhxp/status/2123096768996892959",
+    "source": "hacker_news",
+    "collected_at": "2026-11-18T16:56:29.531146+00:00",
+    "analyzed_at": "2026-11-18T16:56:29.531146+00:00",
+    "summary": "Article URL: https://twitter.com/kouhxp/status/2123096768996892959\nComments URL: https://news.ycombinator.com/item?id=50548667\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mrkn1",
+      "language": null
+    }
+  },
+  {
+    "id": "963ff65e-8820-441b-ba8c-4dcf555fa4d4",
+    "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
+    "source_url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
+    "source": "hacker_news",
+    "collected_at": "2026-11-18T16:56:30.744344+00:00",
+    "analyzed_at": "2026-11-18T16:56:30.744344+00:00",
+    "summary": "Article URL: https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Bra",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "sshah03",
+      "language": null
+    }
+  },
+  {
+    "id": "10dccf05-c071-401d-86b0-b840b4f63117",
+    "title": "Show HN: Can an AI Agent Bypass Your Website Security?",
+    "source_url": "https://assess.poh.org/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-18T16:56:31.939747+00:00",
+    "analyzed_at": "2026-11-18T16:56:31.939747+00:00",
+    "summary": "As part of our red-teaming efforts, we recently configured GPT-6 Astra to test how easily an AI agent can bypass existing bot detection and human verification systems.We built a tool that lets you run",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "timshell",
+      "language": null
+    }
+  },
+  {
+    "id": "ae3b6817-7c7f-425b-803f-40e19633b8dd",
+    "title": "We're Giving AI Agents the Keys to Our Computers. That's a Security Nightmare",
+    "source_url": "https://soargram.io/content/273880860",
+    "source": "hacker_news",
+    "collected_at": "2026-11-18T16:56:33.135755+00:00",
+    "analyzed_at": "2026-11-18T16:56:33.135755+00:00",
+    "summary": "Article URL: https://soargram.io/content/273880860\nComments URL: https://news.ycombinator.com/item?id=50548428\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "levicanskij",
+      "language": null
+    }
+  },
+  {
+    "id": "acc2202c-5655-48cf-8f88-7c5e5d2204a8",
+    "title": "High school disables AI detector after it kept mistaking everyday items for guns",
+    "source_url": "https://www.techspot.com/news/114607-pennsylvania-high-school-disables-ai-weapons-detector-after.html",
+    "source": "hacker_news",
+    "collected_at": "2026-11-18T16:56:34.346537+00:00",
+    "analyzed_at": "2026-11-18T16:56:34.346537+00:00",
+    "summary": "Article URL: https://www.techspot.com/news/114607-pennsylvania-high-school-disables-ai-weapons-detector-after.html\nComments URL: https://news.ycombinator.com/item?id=50548400\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "healsdata",
+      "language": null
+    }
+  },
+  {
+    "id": "eea8b58f-98e2-4870-bef0-5de1dd655977",
+    "title": "Ask HN: How do you use AI to get more relevant content?",
+    "source_url": "https://news.ycombinator.com/item?id=50548260",
+    "source": "hacker_news",
+    "collected_at": "2026-11-18T16:56:35.557885+00:00",
+    "analyzed_at": "2026-11-18T16:56:35.557885+00:00",
+    "summary": "The \"algorithm\" tries to give your attention something to eat. Sometimes, it's exactly what you want/need. Sometimes it's just meh, and not particularly enriching.Are any folks using AI to aggregate a",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "anoojb",
+      "language": null
+    }
+  },
+  {
+    "id": "2be8c758-5d78-473f-9d8f-4e96a47239db",
+    "title": "ECB says AI borrowing binge has 'historic parallels' with subprime bubble",
+    "source_url": "https://www.ft.com/content/d16475ce-efce-4dc1-b5a3-2f7c79e9dea9",
+    "source": "hacker_news",
+    "collected_at": "2026-11-18T16:56:36.768190+00:00",
+    "analyzed_at": "2026-11-18T16:56:36.768190+00:00",
+    "summary": "Article URL: https://www.ft.com/content/d16475ce-efce-4dc1-b5a3-2f7c79e9dea9\nComments URL: https://news.ycombinator.com/item?id=50548153\nPoints: 3\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Betelbuddy",
+      "language": null
+    }
+  },
+  {
+    "id": "30758f6c-2ccc-4944-a70c-56d3bc0bc685",
+    "title": "Who's afraid of open source AI? [video]",
+    "source_url": "https://www.youtube.com/watch?v=siy0744Ykys",
+    "source": "hacker_news",
+    "collected_at": "2026-11-18T16:56:37.961202+00:00",
+    "analyzed_at": "2026-11-18T16:56:37.961202+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=siy0744Ykys\nComments URL: https://news.ycombinator.com/item?id=50548127\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "frag",
+      "language": null
+    }
+  },
+  {
+    "id": "7587ccad-18e2-4706-81c3-7aadf531c9f2",
+    "title": "Microsoft AI: Seven new world-class models at scalable price-performance",
+    "source_url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-18T16:56:39.154185+00:00",
+    "analyzed_at": "2026-11-18T16:56:39.154185+00:00",
+    "summary": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/\nComments URL: https://news.ycombinator.com/item?id=50548021\nPoints: 32\n# Comments: 17",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "gmays",
+      "language": null
+    }
+  },
+  {
+    "id": "f0fcc2dd-a880-4f32-89c6-bf17bd0186e0",
+    "title": "FBI warns hackers weaponizing ARTEX AI framework to automate attacks",
+    "source_url": "https://industrialcyber.co/industrial-cyber-attacks/fbi-warns-hackers-weaponizing-artex-ai-framework-to-automate-attacks-on-energy-manufacturing-telecom/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-18T16:56:40.347593+00:00",
+    "analyzed_at": "2026-11-18T16:56:40.347593+00:00",
+    "summary": "Article URL: https://industrialcyber.co/industrial-cyber-attacks/fbi-warns-hackers-weaponizing-artex-ai-framework-to-automate-attacks-on-energy-manufacturing-telecom/\nComments URL: https://news.ycombi",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "neogodless",
+      "language": null
+    }
+  },
+  {
+    "id": "fd1d260c-aaf4-48e5-93a1-0fb406e7253e",
+    "title": "Show HN: RedCat an open-source AI agent for your desktop",
+    "source_url": "https://github.com/manamaliahmad/redcat",
+    "source": "hacker_news",
+    "collected_at": "2026-11-18T16:56:41.540162+00:00",
+    "analyzed_at": "2026-11-18T16:56:41.540162+00:00",
+    "summary": "AI is honestly an amazing thing. I'm a vibe coder, and I've always gotten my work done with AI. But this is the first time I used AI to build an AI agent actually, I used an AI agent to build an AI ag",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "manamaliahmed",
+      "language": null
+    }
+  },
+  {
+    "id": "ccf9b8a1-0e17-4e85-8812-649dcbc1517a",
+    "title": "Show HN: Dez – plaintext open source AI multimedia studio",
+    "source_url": "https://github.com/taoeffect/dez",
+    "source": "hacker_news",
+    "collected_at": "2026-11-18T16:56:42.735029+00:00",
+    "analyzed_at": "2026-11-18T16:56:42.735029+00:00",
+    "summary": "Hi HN!Dez is a free open source way to interact with AIs across providers in a full-featured text editor.I really loved Zed's text threads feature, and after they removed it got inspired to revive it ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "gslepak",
+      "language": null
+    }
+  },
+  {
+    "id": "afc02e24-1f63-4328-a563-6501e9cab6bd",
+    "title": "'Just Ridiculous': A Famed Philosopher Takes on AI Consciousness",
+    "source_url": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-18T16:56:43.928981+00:00",
+    "analyzed_at": "2026-11-18T16:56:43.928981+00:00",
+    "summary": "Article URL: https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/\nComments URL: https://news.ycombinator.com/item?id=50547906\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "thm",
+      "language": null
+    }
+  },
+  {
+    "id": "88faa0c2-dfd7-4044-8e4f-7fb3254874f2",
+    "title": "The Moral Mandate for AI Non-consciousness (and other responses to qualiaphobia)",
+    "source_url": "https://www.theintrinsicperspective.com/p/the-moral-mandate-for-ai-non-consciousness",
+    "source": "hacker_news",
+    "collected_at": "2026-11-18T16:56:45.125148+00:00",
+    "analyzed_at": "2026-11-18T16:56:45.125148+00:00",
+    "summary": "Article URL: https://www.theintrinsicperspective.com/p/the-moral-mandate-for-ai-non-consciousness\nComments URL: https://news.ycombinator.com/item?id=50547834\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "crescit_eundo",
+      "language": null
+    }
+  },
+  {
+    "id": "6cdceb7e-a004-4c4c-8595-a461b29952fe",
+    "title": "TheFed finds $3T of AI commitments that aren't on big tech's balance sheet",
+    "source_url": "https://finance.yahoo.com/technology/ai/articles/fed-first-close-look-ai-180000354.html",
+    "source": "hacker_news",
+    "collected_at": "2026-11-18T16:56:46.321559+00:00",
+    "analyzed_at": "2026-11-18T16:56:46.321559+00:00",
+    "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/fed-first-close-look-ai-180000354.html\nComments URL: https://news.ycombinator.com/item?id=50547790\nPoints: 5\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "PLenz",
+      "language": null
+    }
+  },
+  {
+    "id": "5b4f53a6-0509-42d5-a8d9-d46a81ad6adb",
+    "title": "AI Agents Ask Better Questions Than KPMG Accountants in Landmark Audit Trial",
+    "source_url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-18T16:56:47.517080+00:00",
+    "analyzed_at": "2026-11-18T16:56:47.517080+00:00",
+    "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/\nComments URL: https://news.ycombinator.com/item?id=50547777\nPoints: 7\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Betelbuddy",
+      "language": null
+    }
+  },
+  {
+    "id": "27d8c877-5ed4-4df9-8c7f-561bd213f76b",
+    "title": "Chief AI Officer Game",
+    "source_url": "https://www.modulos.ai/tools/chief-ai-officer/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-18T16:56:48.713289+00:00",
+    "analyzed_at": "2026-11-18T16:56:48.713289+00:00",
+    "summary": "Article URL: https://www.modulos.ai/tools/chief-ai-officer/\nComments URL: https://news.ycombinator.com/item?id=50547726\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "kschawinski",
+      "language": null
+    }
+  },
+  {
+    "id": "1c0e40c7-09d9-4529-9870-317164874952",
+    "title": "AI is writing a public web every 15 days",
+    "source_url": "https://www.sid.ai/research/llm-output-vs-human-text",
+    "source": "hacker_news",
+    "collected_at": "2026-11-18T16:56:49.908733+00:00",
+    "analyzed_at": "2026-11-18T16:56:49.908733+00:00",
+    "summary": "Article URL: https://www.sid.ai/research/llm-output-vs-human-text\nComments URL: https://news.ycombinator.com/item?id=50547635\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "maxrumpf",
+      "language": null
+    }
+  },
+  {
+    "id": "e0209dde-85a4-4971-9caa-3209b63f5b5c",
+    "title": "Nvidia halts all AI chip sales to China, including US-approved H200",
+    "source_url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+    "source": "hacker_news",
+    "collected_at": "2026-11-18T16:56:51.102549+00:00",
+    "analyzed_at": "2026-11-18T16:56:51.102549+00:00",
+    "summary": "Article URL: https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling\nComments URL: https://news.ycombinator.com/item?id=50547376\nPoints: 8\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "dvaplima",
+      "language": null
+    }
+  }
+]
