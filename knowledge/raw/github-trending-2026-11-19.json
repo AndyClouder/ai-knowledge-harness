@@ -1,0 +1,22 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-11-19T17:01:20.559241+00:00",
+  "items": [
+    {
+      "name": "Bodila51/gtavi-claudecode",
+      "url": "https://github.com/Bodila51/gtavi-claudecode",
+      "summary": "Claude Code plugin that turns GTA 6 streams into paid vertical clips: live campaigns, trending videos, best moments, 9:16 cuts with hooks, captions and credits.",
+      "stars": 522,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "clipping",
+        "gta6",
+        "tiktok",
+        "youtube-shorts"
+      ]
+    }
+  ]
+}
