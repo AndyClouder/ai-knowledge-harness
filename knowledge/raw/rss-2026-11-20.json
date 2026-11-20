@@ -1,0 +1,187 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-11-20T16:41:06.834175+00:00",
+  "items": [
+    {
+      "name": "Show HN: Cooked Yet? A daily game: real photo or AI recreation?",
+      "url": "https://www.cookedyet.com/",
+      "summary": "Article URL: https://www.cookedyet.com/\nComments URL: https://news.ycombinator.com/item?id=50577479\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "RoneStrobe",
+      "published": "Fri, 20 Nov 2026 16:39:00 +0000"
+    },
+    {
+      "name": "The AI Forecasting Agenda",
+      "url": "https://www.astralcodexten.com/p/the-ai-forecasting-agenda",
+      "summary": "Article URL: https://www.astralcodexten.com/p/the-ai-forecasting-agenda\nComments URL: https://news.ycombinator.com/item?id=50577110\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "toomuchtodo",
+      "published": "Fri, 20 Nov 2026 16:21:41 +0000"
+    },
+    {
+      "name": "Gestalt AI Model (Stealth): Who Made It, Release Date and What We Know",
+      "url": "https://teamorouter.com/blogs/gestalt-ai-model",
+      "summary": "Article URL: https://teamorouter.com/blogs/gestalt-ai-model\nComments URL: https://news.ycombinator.com/item?id=50577091\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "doener",
+      "published": "Fri, 20 Nov 2026 16:20:25 +0000"
+    },
+    {
+      "name": "The AI side effects we're not talking about",
+      "url": "https://speaking.marcusnoble.co.uk/WbXSpV",
+      "summary": "Article URL: https://speaking.marcusnoble.co.uk/WbXSpV\nComments URL: https://news.ycombinator.com/item?id=50577029\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "mooreds",
+      "published": "Fri, 20 Nov 2026 16:16:16 +0000"
+    },
+    {
+      "name": "Uncovering 100+ errors in AI’s most popular benchmarks",
+      "url": "https://www.withbeaker.ai/blog/benchmark-defects-before-the-first-rollout",
+      "summary": "Article URL: https://www.withbeaker.ai/blog/benchmark-defects-before-the-first-rollout\nComments URL: https://news.ycombinator.com/item?id=50576894\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "VictorSh",
+      "published": "Fri, 20 Nov 2026 16:08:21 +0000"
+    },
+    {
+      "name": "Bounded checking and repair for AI(or other) proposers",
+      "url": "https://github.com/Onescale414/BRACE-Harness",
+      "summary": "Article URL: https://github.com/Onescale414/BRACE-Harness\nComments URL: https://news.ycombinator.com/item?id=50576786\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "os414",
+      "published": "Fri, 20 Nov 2026 16:03:10 +0000"
+    },
+    {
+      "name": "Channel.is – email and social media with no AI. take back the human internet",
+      "url": "https://channel.is/",
+      "summary": "Article URL: https://channel.is/\nComments URL: https://news.ycombinator.com/item?id=50576649\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Aeroi",
+      "published": "Fri, 20 Nov 2026 15:55:55 +0000"
+    },
+    {
+      "name": "Tiny AI Security Model Beats Five Frontier LLMs on Privacy Detection",
+      "url": "https://www.proofagent.ai/research/ai-shield-nano",
+      "summary": "Article URL: https://www.proofagent.ai/research/ai-shield-nano\nComments URL: https://news.ycombinator.com/item?id=50576647\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "fouadb66",
+      "published": "Fri, 20 Nov 2026 15:55:51 +0000"
+    },
+    {
+      "name": "\"Artificial\" Gets a Human-Made AI-Style Poster",
+      "url": "https://www.darkhorizons.com/artificial-gets-a-human-made-ai-style-poster/",
+      "summary": "Article URL: https://www.darkhorizons.com/artificial-gets-a-human-made-ai-style-poster/\nComments URL: https://news.ycombinator.com/item?id=50576516\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "xoxxala",
+      "published": "Fri, 20 Nov 2026 15:49:41 +0000"
+    },
+    {
+      "name": "An experimental web browser written from scratch in Rust by an AI agent (Claude)",
+      "url": "https://github.com/senko/swb",
+      "summary": "Article URL: https://github.com/senko/swb\nComments URL: https://news.ycombinator.com/item?id=50576386\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "cyrc",
+      "published": "Fri, 20 Nov 2026 15:41:40 +0000"
+    },
+    {
+      "name": "AI Tutor as a Programming Learning Aid",
+      "url": "https://www.tugraz.at/en/news/article/ai-tutor-computor",
+      "summary": "Article URL: https://www.tugraz.at/en/news/article/ai-tutor-computor\nComments URL: https://news.ycombinator.com/item?id=50576334\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "geox",
+      "published": "Fri, 20 Nov 2026 15:39:08 +0000"
+    },
+    {
+      "name": "Show HN: Sandscale – Firecracker microVMs for AI coding agents",
+      "url": "https://sandscale.dev",
+      "summary": "Article URL: https://sandscale.dev\nComments URL: https://news.ycombinator.com/item?id=50576141\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Sanjay05",
+      "published": "Fri, 20 Nov 2026 15:29:29 +0000"
+    },
+    {
+      "name": "Next wave: data, AI agents, and no-code automation",
+      "url": "https://aws.amazon.com/marketplace/pp/prodview-pvfpfkgk2vdba",
+      "summary": "Article URL: https://aws.amazon.com/marketplace/pp/prodview-pvfpfkgk2vdba\nComments URL: https://news.ycombinator.com/item?id=50576123\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "sadrk",
+      "published": "Fri, 20 Nov 2026 15:28:51 +0000"
+    },
+    {
+      "name": "EU confirms AI-assisted cyberattack on European Commission",
+      "url": "https://apnews.com/article/cyberattack-european-union-artificial-intelligence-ai-79705095e8141cd650196dbff1cf3c70",
+      "summary": "Article URL: https://apnews.com/article/cyberattack-european-union-artificial-intelligence-ai-79705095e8141cd650196dbff1cf3c70\nComments URL: https://news.ycombinator.com/item?id=50576113\nPoints: 4\n# C",
+      "source": "hacker_news",
+      "score": null,
+      "author": "datascientist",
+      "published": "Fri, 20 Nov 2026 15:28:29 +0000"
+    },
+    {
+      "name": "Signal restricts screenshots to block AI from reading messages",
+      "url": "https://www.reuters.com/legal/litigation/signal-restricts-screenshots-block-ai-agents-reading-messages-2026-11-20/",
+      "summary": "Article URL: https://www.reuters.com/legal/litigation/signal-restricts-screenshots-block-ai-agents-reading-messages-2026-11-20/\nComments URL: https://news.ycombinator.com/item?id=50576061\nPoints: 3\n# ",
+      "source": "hacker_news",
+      "score": null,
+      "author": "laurex",
+      "published": "Fri, 20 Nov 2026 15:26:42 +0000"
+    },
+    {
+      "name": "Top AI models have mostly stopped inventing citations, Stanford study",
+      "url": "https://thinkpol.ca/2026/11/19/top-ai-models-have-mostly-stopped-inventing-citations-stanford-retest-of-50-findings-suggests/",
+      "summary": "Article URL: https://thinkpol.ca/2026/11/19/top-ai-models-have-mostly-stopped-inventing-citations-stanford-retest-of-50-findings-suggests/\nComments URL: https://news.ycombinator.com/item?id=50575999\nP",
+      "source": "hacker_news",
+      "score": null,
+      "author": "bazlightyear",
+      "published": "Fri, 20 Nov 2026 15:23:45 +0000"
+    },
+    {
+      "name": "Debian APT to drop legacy features, citing advances in AI security research",
+      "url": "https://lists.debian.org/debian-devel-announce/2026/11/msg00001.html",
+      "summary": "Article URL: https://lists.debian.org/debian-devel-announce/2026/11/msg00001.html\nComments URL: https://news.ycombinator.com/item?id=50575954\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "khalidkhair",
+      "published": "Fri, 20 Nov 2026 15:22:09 +0000"
+    },
+    {
+      "name": "The Dubious Idea of AI-Run Companies",
+      "url": "https://read.misalignedmag.com/the-dubious-idea-of-ai-run-companies-b26c49c77dc5",
+      "summary": "Article URL: https://read.misalignedmag.com/the-dubious-idea-of-ai-run-companies-b26c49c77dc5\nComments URL: https://news.ycombinator.com/item?id=50575947\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "lcubw",
+      "published": "Fri, 20 Nov 2026 15:21:48 +0000"
+    },
+    {
+      "name": "Show HN: Preflight-agent – five checks your AI-agent setup needs before it runs",
+      "url": "https://github.com/jasveerai88/preflight-agent",
+      "summary": "Article URL: https://github.com/jasveerai88/preflight-agent\nComments URL: https://news.ycombinator.com/item?id=50575799\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "SinghularityAI",
+      "published": "Fri, 20 Nov 2026 15:14:03 +0000"
+    },
+    {
+      "name": "An Italian court just put a price on \"I made it with AI\"",
+      "url": "https://tokyoticker.substack.com/p/six-prompts-15-minutes-no-copyright",
+      "summary": "Article URL: https://tokyoticker.substack.com/p/six-prompts-15-minutes-no-copyright\nComments URL: https://news.ycombinator.com/item?id=50575649\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "NexRebular",
+      "published": "Fri, 20 Nov 2026 15:03:51 +0000"
+    }
+  ]
+}

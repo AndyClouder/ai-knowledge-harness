@@ -1,0 +1,422 @@
+[
+  {
+    "id": "79d41513-3f67-4ca8-8aa7-e90b69121e86",
+    "title": "bookwjitchieni1986/blender-ai-mcp-addon",
+    "source_url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+    "source": "unknown",
+    "collected_at": "2026-11-20T16:41:07.780322+00:00",
+    "analyzed_at": "2026-11-20T16:41:07.780322+00:00",
+    "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripti",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1151,
+      "score": null,
+      "author": null,
+      "language": null
+    }
+  },
+  {
+    "id": "94e34dd6-448c-46a4-bcb4-8336e869216e",
+    "title": "iamajmeena/neonclipping",
+    "source_url": "https://github.com/iamajmeena/neonclipping",
+    "source": "unknown",
+    "collected_at": "2026-11-20T16:41:08.983694+00:00",
+    "analyzed_at": "2026-11-20T16:41:08.983694+00:00",
+    "summary": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1085,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "d2731d07-34a6-4970-9dcc-02a25718c8cd",
+    "title": "mankidev/antialgorithm",
+    "source_url": "https://github.com/mankidev/antialgorithm",
+    "source": "unknown",
+    "collected_at": "2026-11-20T16:41:10.176548+00:00",
+    "analyzed_at": "2026-11-20T16:41:10.176548+00:00",
+    "summary": "Agent skill that steers the model away from its first, most average pick in creative work: names, ideas, posters, UI.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 552,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "86584f05-c2d6-4458-a943-addd1a2d5df0",
+    "title": "YellowLaborerMarket/Gemini-Config-Checker-",
+    "source_url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
+    "source": "unknown",
+    "collected_at": "2026-11-20T16:41:11.372899+00:00",
+    "analyzed_at": "2026-11-20T16:41:11.372899+00:00",
+    "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 474,
+      "score": null,
+      "author": null,
+      "language": "Makefile"
+    }
+  },
+  {
+    "id": "1cb2c287-df9e-4d3c-be80-e51762adc541",
+    "title": "weightcashiercupola/Gemini-Config-Checker-",
+    "source_url": "https://github.com/weightcashiercupola/Gemini-Config-Checker-",
+    "source": "unknown",
+    "collected_at": "2026-11-20T16:41:12.567706+00:00",
+    "analyzed_at": "2026-11-20T16:41:12.567706+00:00",
+    "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 473,
+      "score": null,
+      "author": null,
+      "language": "Makefile"
+    }
+  },
+  {
+    "id": "417bee32-c0fd-46bb-851c-30cd282f706f",
+    "title": "WindGatorRise37/Gemini-Config-Checker-",
+    "source_url": "https://github.com/WindGatorRise37/Gemini-Config-Checker-",
+    "source": "unknown",
+    "collected_at": "2026-11-20T16:41:13.760723+00:00",
+    "analyzed_at": "2026-11-20T16:41:13.760723+00:00",
+    "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 472,
+      "score": null,
+      "author": null,
+      "language": "Makefile"
+    }
+  },
+  {
+    "id": "cdf5a2d6-9432-4d28-9abc-a217c2c817e8",
+    "title": "WyrmClimberManacle/Gemini-Config-Checker-",
+    "source_url": "https://github.com/WyrmClimberManacle/Gemini-Config-Checker-",
+    "source": "unknown",
+    "collected_at": "2026-11-20T16:41:14.953634+00:00",
+    "analyzed_at": "2026-11-20T16:41:14.953634+00:00",
+    "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 472,
+      "score": null,
+      "author": null,
+      "language": "Makefile"
+    }
+  },
+  {
+    "id": "9b424b7b-5e0a-4f64-9932-eacf26cf4e1a",
+    "title": "TurtleReside/Gemini-Config-Checker-",
+    "source_url": "https://github.com/TurtleReside/Gemini-Config-Checker-",
+    "source": "unknown",
+    "collected_at": "2026-11-20T16:41:16.149063+00:00",
+    "analyzed_at": "2026-11-20T16:41:16.149063+00:00",
+    "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 472,
+      "score": null,
+      "author": null,
+      "language": "Go"
+    }
+  },
+  {
+    "id": "91268cc9-c655-48bb-b4b0-13eff71df670",
+    "title": "weldbladesmithwharf/Gemini-Config-Checker-",
+    "source_url": "https://github.com/weldbladesmithwharf/Gemini-Config-Checker-",
+    "source": "unknown",
+    "collected_at": "2026-11-20T16:41:17.343727+00:00",
+    "analyzed_at": "2026-11-20T16:41:17.343727+00:00",
+    "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 472,
+      "score": null,
+      "author": null,
+      "language": "Makefile"
+    }
+  },
+  {
+    "id": "00591e0b-bf61-468c-a9aa-21964b4ca12a",
+    "title": "WindowStaffGate11/Gemini-Config-Checker-",
+    "source_url": "https://github.com/WindowStaffGate11/Gemini-Config-Checker-",
+    "source": "unknown",
+    "collected_at": "2026-11-20T16:41:18.538020+00:00",
+    "analyzed_at": "2026-11-20T16:41:18.538020+00:00",
+    "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 472,
+      "score": null,
+      "author": null,
+      "language": "Makefile"
+    }
+  },
+  {
+    "id": "2a4a4b6f-f40d-4130-b5bb-dd00064be414",
+    "title": "WerewolfEmuHub/Gemini-Config-Checker-",
+    "source_url": "https://github.com/WerewolfEmuHub/Gemini-Config-Checker-",
+    "source": "unknown",
+    "collected_at": "2026-11-20T16:41:19.728608+00:00",
+    "analyzed_at": "2026-11-20T16:41:19.728608+00:00",
+    "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 472,
+      "score": null,
+      "author": null,
+      "language": "Go"
+    }
+  },
+  {
+    "id": "008efeb6-80f9-40c6-a7c6-a2c37109db4d",
+    "title": "Show HN: Cooked Yet? A daily game: real photo or AI recreation?",
+    "source_url": "https://www.cookedyet.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-20T16:41:20.921353+00:00",
+    "analyzed_at": "2026-11-20T16:41:20.921353+00:00",
+    "summary": "Article URL: https://www.cookedyet.com/\nComments URL: https://news.ycombinator.com/item?id=50577479\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "RoneStrobe",
+      "language": null
+    }
+  },
+  {
+    "id": "229424aa-5c9e-4e90-b739-af186229a3df",
+    "title": "The AI Forecasting Agenda",
+    "source_url": "https://www.astralcodexten.com/p/the-ai-forecasting-agenda",
+    "source": "hacker_news",
+    "collected_at": "2026-11-20T16:41:22.114977+00:00",
+    "analyzed_at": "2026-11-20T16:41:22.114977+00:00",
+    "summary": "Article URL: https://www.astralcodexten.com/p/the-ai-forecasting-agenda\nComments URL: https://news.ycombinator.com/item?id=50577110\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "toomuchtodo",
+      "language": null
+    }
+  },
+  {
+    "id": "798e2c80-e604-49f9-86a3-6072af046139",
+    "title": "Gestalt AI Model (Stealth): Who Made It, Release Date and What We Know",
+    "source_url": "https://teamorouter.com/blogs/gestalt-ai-model",
+    "source": "hacker_news",
+    "collected_at": "2026-11-20T16:41:23.309711+00:00",
+    "analyzed_at": "2026-11-20T16:41:23.309711+00:00",
+    "summary": "Article URL: https://teamorouter.com/blogs/gestalt-ai-model\nComments URL: https://news.ycombinator.com/item?id=50577091\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "doener",
+      "language": null
+    }
+  },
+  {
+    "id": "625da7d5-43ce-4425-beb0-9473998804a7",
+    "title": "The AI side effects we're not talking about",
+    "source_url": "https://speaking.marcusnoble.co.uk/WbXSpV",
+    "source": "hacker_news",
+    "collected_at": "2026-11-20T16:41:24.503034+00:00",
+    "analyzed_at": "2026-11-20T16:41:24.503034+00:00",
+    "summary": "Article URL: https://speaking.marcusnoble.co.uk/WbXSpV\nComments URL: https://news.ycombinator.com/item?id=50577029\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mooreds",
+      "language": null
+    }
+  },
+  {
+    "id": "e764461b-bb3a-4d12-b26a-841a47fa563d",
+    "title": "Uncovering 100+ errors in AI’s most popular benchmarks",
+    "source_url": "https://www.withbeaker.ai/blog/benchmark-defects-before-the-first-rollout",
+    "source": "hacker_news",
+    "collected_at": "2026-11-20T16:41:25.695186+00:00",
+    "analyzed_at": "2026-11-20T16:41:25.695186+00:00",
+    "summary": "Article URL: https://www.withbeaker.ai/blog/benchmark-defects-before-the-first-rollout\nComments URL: https://news.ycombinator.com/item?id=50576894\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "VictorSh",
+      "language": null
+    }
+  },
+  {
+    "id": "e1510865-e41f-4a80-9b8b-081ac80e5d6a",
+    "title": "Bounded checking and repair for AI(or other) proposers",
+    "source_url": "https://github.com/Onescale414/BRACE-Harness",
+    "source": "hacker_news",
+    "collected_at": "2026-11-20T16:41:26.914096+00:00",
+    "analyzed_at": "2026-11-20T16:41:26.914096+00:00",
+    "summary": "Article URL: https://github.com/Onescale414/BRACE-Harness\nComments URL: https://news.ycombinator.com/item?id=50576786\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "os414",
+      "language": null
+    }
+  },
+  {
+    "id": "3285dd79-6fb8-4e24-ab88-2b4d1855984b",
+    "title": "Channel.is – email and social media with no AI. take back the human internet",
+    "source_url": "https://channel.is/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-20T16:41:28.116620+00:00",
+    "analyzed_at": "2026-11-20T16:41:28.116620+00:00",
+    "summary": "Article URL: https://channel.is/\nComments URL: https://news.ycombinator.com/item?id=50576649\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Aeroi",
+      "language": null
+    }
+  },
+  {
+    "id": "26dcebd1-4d8f-4750-920f-e851db958bbc",
+    "title": "Tiny AI Security Model Beats Five Frontier LLMs on Privacy Detection",
+    "source_url": "https://www.proofagent.ai/research/ai-shield-nano",
+    "source": "hacker_news",
+    "collected_at": "2026-11-20T16:41:29.311855+00:00",
+    "analyzed_at": "2026-11-20T16:41:29.311855+00:00",
+    "summary": "Article URL: https://www.proofagent.ai/research/ai-shield-nano\nComments URL: https://news.ycombinator.com/item?id=50576647\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "fouadb66",
+      "language": null
+    }
+  },
+  {
+    "id": "1da63b55-3247-44e4-ba9a-5d8a75be1170",
+    "title": "\"Artificial\" Gets a Human-Made AI-Style Poster",
+    "source_url": "https://www.darkhorizons.com/artificial-gets-a-human-made-ai-style-poster/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-20T16:41:30.504651+00:00",
+    "analyzed_at": "2026-11-20T16:41:30.504651+00:00",
+    "summary": "Article URL: https://www.darkhorizons.com/artificial-gets-a-human-made-ai-style-poster/\nComments URL: https://news.ycombinator.com/item?id=50576516\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "xoxxala",
+      "language": null
+    }
+  }
+]
