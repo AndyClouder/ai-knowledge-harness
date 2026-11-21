@@ -1,0 +1,23 @@
+[
+  {
+    "id": "17050ba2-9423-4d4f-8c8f-8b4e7bf3153d",
+    "title": "Violetnyudress/Gemini-Config-Checker-",
+    "source_url": "https://github.com/Violetnyudress/Gemini-Config-Checker-",
+    "source": "unknown",
+    "collected_at": "2026-11-21T15:53:43.592200+00:00",
+    "analyzed_at": "2026-11-21T15:53:43.592200+00:00",
+    "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 470,
+      "score": null,
+      "author": null,
+      "language": "Go"
+    }
+  }
+]
