@@ -1,0 +1,422 @@
+[
+  {
+    "id": "bf8322de-6b01-41a5-bf09-07213c795d3e",
+    "title": "EL4CTEO/fast-anything",
+    "source_url": "https://github.com/EL4CTEO/fast-anything",
+    "source": "unknown",
+    "collected_at": "2026-11-22T15:54:42.542119+00:00",
+    "analyzed_at": "2026-11-22T15:54:42.542119+00:00",
+    "summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1245,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "fd9c51c1-f2de-4b46-93ed-fec4554419ea",
+    "title": "omonkeyz/xbox-emulator",
+    "source_url": "https://github.com/omonkeyz/xbox-emulator",
+    "source": "unknown",
+    "collected_at": "2026-11-22T15:54:43.734962+00:00",
+    "analyzed_at": "2026-11-22T15:54:43.734962+00:00",
+    "summary": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1145,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "bf5f5ae4-d29f-4711-b040-8bbc0b3ffee1",
+    "title": "CocoSgt/riemann-hypothesis-lean",
+    "source_url": "https://github.com/CocoSgt/riemann-hypothesis-lean",
+    "source": "unknown",
+    "collected_at": "2026-11-22T15:54:44.933617+00:00",
+    "analyzed_at": "2026-11-22T15:54:44.933617+00:00",
+    "summary": "Mirror of Levent Alpöge's Lean proof of the Riemann Hypothesis (with Claude). All credit to Levent Alpöge. Source: alpo.ge",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 498,
+      "score": null,
+      "author": null,
+      "language": "Lean"
+    }
+  },
+  {
+    "id": "9849b6bd-ab66-49dc-a185-ad95f323eb7c",
+    "title": "TrooperFilter/Gemini-Config-Checker-",
+    "source_url": "https://github.com/TrooperFilter/Gemini-Config-Checker-",
+    "source": "unknown",
+    "collected_at": "2026-11-22T15:54:46.124849+00:00",
+    "analyzed_at": "2026-11-22T15:54:46.124849+00:00",
+    "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 469,
+      "score": null,
+      "author": null,
+      "language": "Makefile"
+    }
+  },
+  {
+    "id": "c09e7f21-81f4-40e7-8b30-f0d2323e334e",
+    "title": "wisemeadowlarkspike/Gemini-Config-Checker-",
+    "source_url": "https://github.com/wisemeadowlarkspike/Gemini-Config-Checker-",
+    "source": "unknown",
+    "collected_at": "2026-11-22T15:54:47.309292+00:00",
+    "analyzed_at": "2026-11-22T15:54:47.309292+00:00",
+    "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 469,
+      "score": null,
+      "author": null,
+      "language": "Go"
+    }
+  },
+  {
+    "id": "a8386744-dc9d-4405-a4d9-8c5b00a42d78",
+    "title": "The EU Commission has been the victim of a cyberattack carried out using AI",
+    "source_url": "https://www.eunews.it/en/2026/11/19/the-eu-commission-has-been-the-victim-of-a-cyberattack-carried-out-using-ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-22T15:54:48.494839+00:00",
+    "analyzed_at": "2026-11-22T15:54:48.494839+00:00",
+    "summary": "Article URL: https://www.eunews.it/en/2026/11/19/the-eu-commission-has-been-the-victim-of-a-cyberattack-carried-out-using-ai/\nComments URL: https://news.ycombinator.com/item?id=50600632\nPoints: 1\n# Co",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jruohonen",
+      "language": null
+    }
+  },
+  {
+    "id": "f42d4b0b-1a55-4ed0-95d5-461f80abedd4",
+    "title": "There's a Spider-Man neuron inside this AI (Exploring Multimodal Neurons) [video]",
+    "source_url": "https://www.youtube.com/watch?v=jp09C8ZI3o4",
+    "source": "hacker_news",
+    "collected_at": "2026-11-22T15:54:49.678968+00:00",
+    "analyzed_at": "2026-11-22T15:54:49.678968+00:00",
+    "summary": "Article URL: https://www.youtube.com/watch?v=jp09C8ZI3o4\nComments URL: https://news.ycombinator.com/item?id=50600624\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "lroe",
+      "language": null
+    }
+  },
+  {
+    "id": "3d450e5f-7244-4cf9-901e-be9407f7538e",
+    "title": "Lead the AI Shift in Your Organization",
+    "source_url": "https://age-of-product.com/ai4agile-online-course-v4/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-22T15:54:50.878684+00:00",
+    "analyzed_at": "2026-11-22T15:54:50.878684+00:00",
+    "summary": "Article URL: https://age-of-product.com/ai4agile-online-course-v4/\nComments URL: https://news.ycombinator.com/item?id=50600499\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "swolpers",
+      "language": null
+    }
+  },
+  {
+    "id": "657870bc-4497-42e8-9767-da087d81125e",
+    "title": "Bypassing ADB: 0.32ms Android UI trees and A* routing for AI agents (Rust/Kotlin",
+    "source_url": "https://github.com/V0val0x/DroidPath/blob/main/docs/benchmarks.md",
+    "source": "hacker_news",
+    "collected_at": "2026-11-22T15:54:52.072725+00:00",
+    "analyzed_at": "2026-11-22T15:54:52.072725+00:00",
+    "summary": "Article URL: https://github.com/V0val0x/DroidPath/blob/main/docs/benchmarks.md\nComments URL: https://news.ycombinator.com/item?id=50600460\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Ak4shik",
+      "language": null
+    }
+  },
+  {
+    "id": "1aa67cca-337b-45e5-9c12-68b47e765f60",
+    "title": "How do you check that an AI agent finished a task?",
+    "source_url": "https://medium.com/@csdn/two-days-at-the-top-soduwork-hits-no-1-1f32a3f89d85",
+    "source": "hacker_news",
+    "collected_at": "2026-11-22T15:54:53.266625+00:00",
+    "analyzed_at": "2026-11-22T15:54:53.266625+00:00",
+    "summary": "Article URL: https://medium.com/@csdn/two-days-at-the-top-soduwork-hits-no-1-1f32a3f89d85\nComments URL: https://news.ycombinator.com/item?id=50600422\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Aki_ii",
+      "language": null
+    }
+  },
+  {
+    "id": "a152d1a6-8d1c-4193-896f-3c428b3c820c",
+    "title": "Local AI agents investigate an unknown machine attached to a serial port",
+    "source_url": "https://github.com/podstawek/explorer-of-serial",
+    "source": "hacker_news",
+    "collected_at": "2026-11-22T15:54:54.471208+00:00",
+    "analyzed_at": "2026-11-22T15:54:54.471208+00:00",
+    "summary": "Article URL: https://github.com/podstawek/explorer-of-serial\nComments URL: https://news.ycombinator.com/item?id=50600366\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "bluepeter",
+      "language": null
+    }
+  },
+  {
+    "id": "394817cb-a380-45a9-85e3-3b43af107c3d",
+    "title": "AI as a Lifestyle Choice",
+    "source_url": "https://grahamdumpleton.me/posts/2026/11/ai-as-a-lifestyle-choice/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-22T15:54:55.661043+00:00",
+    "analyzed_at": "2026-11-22T15:54:55.661043+00:00",
+    "summary": "Article URL: https://grahamdumpleton.me/posts/2026/11/ai-as-a-lifestyle-choice/\nComments URL: https://news.ycombinator.com/item?id=50600261\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "skeledrew",
+      "language": null
+    }
+  },
+  {
+    "id": "b7fc23b5-e5fb-462b-9d18-f57f4df80863",
+    "title": "AI-free phonebooth for guaranteed human interviews",
+    "source_url": "https://www.tryairlock.ai/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-22T15:54:56.853177+00:00",
+    "analyzed_at": "2026-11-22T15:54:56.853177+00:00",
+    "summary": "Article URL: https://www.tryairlock.ai/\nComments URL: https://news.ycombinator.com/item?id=50600194\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "hackyhacky",
+      "language": null
+    }
+  },
+  {
+    "id": "87182672-5106-4590-8226-94a3ab213372",
+    "title": "The Case for Why AI Can Never Replace Conscious Beings",
+    "source_url": "https://ishadeodhar.substack.com/p/the-case-for-why-ai-can-never-replace",
+    "source": "hacker_news",
+    "collected_at": "2026-11-22T15:54:58.043921+00:00",
+    "analyzed_at": "2026-11-22T15:54:58.043921+00:00",
+    "summary": "Article URL: https://ishadeodhar.substack.com/p/the-case-for-why-ai-can-never-replace\nComments URL: https://news.ycombinator.com/item?id=50599938\nPoints: 1\n# Comments: 3",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "theanonymousone",
+      "language": null
+    }
+  },
+  {
+    "id": "61962bf2-b3a4-488c-be4d-788fae9f29aa",
+    "title": "How Hong Kong is using AI alerts and a tank to cut flood risks during storms",
+    "source_url": "https://2tinteractive.com/watch/episodes/5739/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-22T15:54:59.227501+00:00",
+    "analyzed_at": "2026-11-22T15:54:59.227501+00:00",
+    "summary": "Article URL: https://2tinteractive.com/watch/episodes/5739/\nComments URL: https://news.ycombinator.com/item?id=50599782\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "LebToki",
+      "language": null
+    }
+  },
+  {
+    "id": "eba987ea-68db-4b62-a671-70ae13390420",
+    "title": "Show HN: ReallySimpleDocs – Modern, AI-ready documentation site with Astro",
+    "source_url": "https://github.com/hunvreus/reallysimpledocs",
+    "source": "hacker_news",
+    "collected_at": "2026-11-22T15:55:00.418255+00:00",
+    "analyzed_at": "2026-11-22T15:55:00.418255+00:00",
+    "summary": "Article URL: https://github.com/hunvreus/reallysimpledocs\nComments URL: https://news.ycombinator.com/item?id=50599773\nPoints: 4\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "hunvreus",
+      "language": null
+    }
+  },
+  {
+    "id": "9b73f5cf-194e-4fed-927f-e68ba2b5d1c4",
+    "title": "Why stop at Emacs? Native apps you or an AI reprogram in Clojure while they run",
+    "source_url": "https://github.com/RiccardoSottini/AffrescoUI",
+    "source": "hacker_news",
+    "collected_at": "2026-11-22T15:55:01.612343+00:00",
+    "analyzed_at": "2026-11-22T15:55:01.612343+00:00",
+    "summary": "Article URL: https://github.com/RiccardoSottini/AffrescoUI\nComments URL: https://news.ycombinator.com/item?id=50599626\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "RiccardoSottini",
+      "language": null
+    }
+  },
+  {
+    "id": "f616e741-8c1a-4dd6-8ba2-3fb67f4972e0",
+    "title": "AI Explorables: Big Ideas in Machine Learning (People and AI Research (Pair))",
+    "source_url": "https://pair.withgoogle.com/explorables/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-22T15:55:02.810463+00:00",
+    "analyzed_at": "2026-11-22T15:55:02.810463+00:00",
+    "summary": "Article URL: https://pair.withgoogle.com/explorables/\nComments URL: https://news.ycombinator.com/item?id=50599071\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "vismit2000",
+      "language": null
+    }
+  },
+  {
+    "id": "2989232f-fd8a-40bc-b21d-cf5879c91aa1",
+    "title": "I won't leave mathematics, despite AI solving centuries-old problems",
+    "source_url": "https://www.theguardian.com/commentisfree/2026/nov/22/why-i-wont-leave-mathematics-despite-ai-solving-centuries-old-problems",
+    "source": "hacker_news",
+    "collected_at": "2026-11-22T15:55:04.011635+00:00",
+    "analyzed_at": "2026-11-22T15:55:04.011635+00:00",
+    "summary": "Article URL: https://www.theguardian.com/commentisfree/2026/nov/22/why-i-wont-leave-mathematics-despite-ai-solving-centuries-old-problems\nComments URL: https://news.ycombinator.com/item?id=50599029\nPo",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "artninja1988",
+      "language": null
+    }
+  },
+  {
+    "id": "75e9cfa0-2cd6-4bf8-84e3-87574f446575",
+    "title": "AI is becoming a disaster for the climate",
+    "source_url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+    "source": "hacker_news",
+    "collected_at": "2026-11-22T15:55:05.218437+00:00",
+    "analyzed_at": "2026-11-22T15:55:05.218437+00:00",
+    "summary": "Article URL: https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the\nComments URL: https://news.ycombinator.com/item?id=50598961\nPoints: 29\n# Comments: 5",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Brajeshwar",
+      "language": null
+    }
+  }
+]
