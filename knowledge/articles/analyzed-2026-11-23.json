@@ -1,0 +1,422 @@
+[
+  {
+    "id": "864a14f2-e35d-4a33-bb47-68502f344f90",
+    "title": "pierridotite/mobile-agent-testers",
+    "source_url": "https://github.com/pierridotite/mobile-agent-testers",
+    "source": "unknown",
+    "collected_at": "2026-11-23T19:48:46.526260+00:00",
+    "analyzed_at": "2026-11-23T19:48:46.526260+00:00",
+    "summary": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bu",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1384,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "203134af-acd1-4284-8dc9-8df553218731",
+    "title": "INK-Q/agy-fast",
+    "source_url": "https://github.com/INK-Q/agy-fast",
+    "source": "unknown",
+    "collected_at": "2026-11-23T19:48:47.710561+00:00",
+    "analyzed_at": "2026-11-23T19:48:47.710561+00:00",
+    "summary": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 771,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "6b721573-9074-47c1-b537-0dd1c361f930",
+    "title": "danielwh2/sprite-stacking",
+    "source_url": "https://github.com/danielwh2/sprite-stacking",
+    "source": "unknown",
+    "collected_at": "2026-11-23T19:48:48.894722+00:00",
+    "analyzed_at": "2026-11-23T19:48:48.894722+00:00",
+    "summary": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 631,
+      "score": null,
+      "author": null,
+      "language": "HTML"
+    }
+  },
+  {
+    "id": "85f160b8-9596-44aa-a3f3-014f62fd12df",
+    "title": "ThreatDefence/agentic-attack-detections",
+    "source_url": "https://github.com/ThreatDefence/agentic-attack-detections",
+    "source": "unknown",
+    "collected_at": "2026-11-23T19:48:50.103128+00:00",
+    "analyzed_at": "2026-11-23T19:48:50.103128+00:00",
+    "summary": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft ",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 548,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "6d4a13dc-b2cd-45a9-874b-3d0bb511b752",
+    "title": "sybil-solutions/skill-distill",
+    "source_url": "https://github.com/sybil-solutions/skill-distill",
+    "source": "unknown",
+    "collected_at": "2026-11-23T19:48:51.312542+00:00",
+    "analyzed_at": "2026-11-23T19:48:51.312542+00:00",
+    "summary": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 502,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "cb898fa9-3866-408d-97f2-1a82fcfc5313",
+    "title": "w01fb0ss/PiBot",
+    "source_url": "https://github.com/w01fb0ss/PiBot",
+    "source": "unknown",
+    "collected_at": "2026-11-23T19:48:52.520106+00:00",
+    "analyzed_at": "2026-11-23T19:48:52.520106+00:00",
+    "summary": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 494,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "b5696ff1-9f2c-472d-bc24-545f263efe81",
+    "title": "staryone/motlab",
+    "source_url": "https://github.com/staryone/motlab",
+    "source": "unknown",
+    "collected_at": "2026-11-23T19:48:53.727708+00:00",
+    "analyzed_at": "2026-11-23T19:48:53.727708+00:00",
+    "summary": "Video as code: canvas scenes rendered with WebCodecs in headless Chrome, a review viewer, and agent skills that build the video from your references.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 439,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "07b2bcb0-781a-4ade-b1a5-b204dc91ef65",
+    "title": "erkamyaman/safe-anything",
+    "source_url": "https://github.com/erkamyaman/safe-anything",
+    "source": "unknown",
+    "collected_at": "2026-11-23T19:48:54.936115+00:00",
+    "analyzed_at": "2026-11-23T19:48:54.936115+00:00",
+    "summary": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 432,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "d509668a-5453-465d-8346-6bb79fe7f6bb",
+    "title": "JimLiu/open-artifact",
+    "source_url": "https://github.com/JimLiu/open-artifact",
+    "source": "unknown",
+    "collected_at": "2026-11-23T19:48:56.141261+00:00",
+    "analyzed_at": "2026-11-23T19:48:56.141261+00:00",
+    "summary": "Open, agent- and model-agnostic artifacts, all saved locally as plain files — edit, comment on, and export slides, UI designs, design systems, whiteboards, sheets, dashboards, docs, and motion.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 432,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "4dc1656f-43d2-41b8-8621-068ab5611863",
+    "title": "hoangsvit/google-ai",
+    "source_url": "https://github.com/hoangsvit/google-ai",
+    "source": "unknown",
+    "collected_at": "2026-11-23T19:48:57.347803+00:00",
+    "analyzed_at": "2026-11-23T19:48:57.347803+00:00",
+    "summary": "A terminal toolkit for Windows and macOS to inspect Google AI Pro offers through Android, ADB, Frida and Google Play. The shared Textual dashboard uses a PowerShell/Python launcher on Windows and a na",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 427,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "992e4185-b7e5-4ad4-bb6b-f48555878a11",
+    "title": "sshkeda/minecraft-server-on-orange-cloud",
+    "source_url": "https://github.com/sshkeda/minecraft-server-on-orange-cloud",
+    "source": "unknown",
+    "collected_at": "2026-11-23T19:48:58.555397+00:00",
+    "analyzed_at": "2026-11-23T19:48:58.555397+00:00",
+    "summary": "Run a Minecraft Java server entirely on Cloudflare. Sleeps when nobody's playing.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 417,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "5a7995d9-b114-47f9-9295-a027b7deb65e",
+    "title": "xikhar/papercraft",
+    "source_url": "https://github.com/xikhar/papercraft",
+    "source": "unknown",
+    "collected_at": "2026-11-23T19:48:59.762574+00:00",
+    "analyzed_at": "2026-11-23T19:48:59.762574+00:00",
+    "summary": "Agent skill to build games, interactive scenes, web pages and animations in a handcrafted pop-up papercraft style",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 414,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "764a1a74-c28e-4dc4-91ec-511281bef317",
+    "title": "Are newer AI models getting better at self-improvement?",
+    "source_url": "https://twitter.com/Harman26Singh/status/2124911857064640826",
+    "source": "hacker_news",
+    "collected_at": "2026-11-23T19:49:00.969326+00:00",
+    "analyzed_at": "2026-11-23T19:49:00.969326+00:00",
+    "summary": "Article URL: https://twitter.com/Harman26Singh/status/2124911857064640826\nComments URL: https://news.ycombinator.com/item?id=50617916\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "harman2607",
+      "language": null
+    }
+  },
+  {
+    "id": "5ad1b509-086a-4805-9d49-b06246a9a704",
+    "title": "Show HN: Dayora, an AI journal that writes back",
+    "source_url": "https://www.dayora.ai",
+    "source": "hacker_news",
+    "collected_at": "2026-11-23T19:49:02.168654+00:00",
+    "analyzed_at": "2026-11-23T19:49:02.168654+00:00",
+    "summary": "Article URL: https://www.dayora.ai\nComments URL: https://news.ycombinator.com/item?id=50617754\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "dayora_ai",
+      "language": null
+    }
+  },
+  {
+    "id": "f1fc302c-90de-4c35-a2fd-91f713f615a0",
+    "title": "The Cognitive Debt of the AI Generation",
+    "source_url": "https://inklum.com/christiansafka/the-cognitive-debt-of-the-ai-generation-4q6y",
+    "source": "hacker_news",
+    "collected_at": "2026-11-23T19:49:03.353965+00:00",
+    "analyzed_at": "2026-11-23T19:49:03.353965+00:00",
+    "summary": "Article URL: https://inklum.com/christiansafka/the-cognitive-debt-of-the-ai-generation-4q6y\nComments URL: https://news.ycombinator.com/item?id=50617566\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "christiansafka",
+      "language": null
+    }
+  },
+  {
+    "id": "33c6016c-3f72-4712-9d08-848b6837cda7",
+    "title": "AI model capabilities are improving rapidly and getting harder to measure",
+    "source_url": "https://metr.org/blog/2026-11-20-q4-2026-capability-update/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-23T19:49:04.540474+00:00",
+    "analyzed_at": "2026-11-23T19:49:04.540474+00:00",
+    "summary": "Article URL: https://metr.org/blog/2026-11-20-q4-2026-capability-update/\nComments URL: https://news.ycombinator.com/item?id=50617490\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "gmays",
+      "language": null
+    }
+  },
+  {
+    "id": "8db8951d-a34d-44b6-b466-f7ccf9256e29",
+    "title": "AI Fire Detection System Mistakes Image for Blaze [video]",
+    "source_url": "https://www.youtube.com/shorts/sVIkB7OR6fE",
+    "source": "hacker_news",
+    "collected_at": "2026-11-23T19:49:05.728171+00:00",
+    "analyzed_at": "2026-11-23T19:49:05.728171+00:00",
+    "summary": "Article URL: https://www.youtube.com/shorts/sVIkB7OR6fE\nComments URL: https://news.ycombinator.com/item?id=50617410\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "delichon",
+      "language": null
+    }
+  },
+  {
+    "id": "9cb0089b-1987-45ec-84e5-9a4642eceb5c",
+    "title": "CrowdStrike to buy Zscaler in $44B deal as AI supercharges cyberattacks",
+    "source_url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
+    "source": "hacker_news",
+    "collected_at": "2026-11-23T19:49:06.914876+00:00",
+    "analyzed_at": "2026-11-23T19:49:06.914876+00:00",
+    "summary": "Article URL: https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html\nComments URL: https://news.ycombinator.com/item?id=50617294\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "gshakir",
+      "language": null
+    }
+  },
+  {
+    "id": "4b659f66-4a50-4d13-ab26-50ba224a5bf7",
+    "title": "Google Wants to Make a 24/7 AI TV Channel. You'll Be the Main Character",
+    "source_url": "https://www.404media.co/google-wants-to-make-a-24-7-ai-tv-channel-youll-be-the-main-character/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-23T19:49:08.105322+00:00",
+    "analyzed_at": "2026-11-23T19:49:08.105322+00:00",
+    "summary": "Article URL: https://www.404media.co/google-wants-to-make-a-24-7-ai-tv-channel-youll-be-the-main-character/\nComments URL: https://news.ycombinator.com/item?id=50617085\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "only_in_america",
+      "language": null
+    }
+  },
+  {
+    "id": "33caa0c6-fa9a-44ba-b7e1-00f9657eb890",
+    "title": "Apple Risks Losing the AI Agent War With an Outdated Playbook",
+    "source_url": "https://www.bloomberg.com/news/newsletters/2026-11-22/apple-s-ai-agent-war-early-2027-product-plans-and-iphone-duo-face-unlock-review",
+    "source": "hacker_news",
+    "collected_at": "2026-11-23T19:49:09.288069+00:00",
+    "analyzed_at": "2026-11-23T19:49:09.288069+00:00",
+    "summary": "Article URL: https://www.bloomberg.com/news/newsletters/2026-11-22/apple-s-ai-agent-war-early-2027-product-plans-and-iphone-duo-face-unlock-review\nComments URL: https://news.ycombinator.com/item?id=50",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "frank_clover",
+      "language": null
+    }
+  }
+]
