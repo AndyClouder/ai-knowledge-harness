@@ -1,0 +1,103 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-11-24T19:18:34.671108+00:00",
+  "items": [
+    {
+      "name": "4lwayz/portwatch-vi",
+      "url": "https://github.com/4lwayz/portwatch-vi",
+      "summary": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+      "stars": 2445,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "name": "qianyiai/kurocat",
+      "url": "https://github.com/qianyiai/kurocat",
+      "summary": "KuroCat — Free open-source desktop typing cat pet & OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透明源 / AI捏猫 / Win·Mac·Linux·Android）",
+      "stars": 596,
+      "language": "TypeScript",
+      "topics": [
+        "android",
+        "bongo-cat",
+        "bongocat",
+        "cross-platform",
+        "desktop-pet",
+        "keyboard-visualizer",
+        "kurocat",
+        "linux",
+        "macos",
+        "mcp",
+        "obs-studio",
+        "open-source",
+        "rust",
+        "tauri",
+        "typing-cat",
+        "windows"
+      ]
+    },
+    {
+      "name": "sous-labs/songe",
+      "url": "https://github.com/sous-labs/songe",
+      "summary": "A training engine for your local model, using your idle compute",
+      "stars": 516,
+      "language": "Python",
+      "topics": [
+        "coding-agents",
+        "distillation",
+        "fine-tuning",
+        "llm",
+        "local-llm",
+        "lora",
+        "mlx"
+      ]
+    },
+    {
+      "name": "Developing-Gamer/agent-sim",
+      "url": "https://github.com/Developing-Gamer/agent-sim",
+      "summary": "iOS simulators for AI agents, on Linux. The agent layer for x86Sim.",
+      "stars": 512,
+      "language": "Rust",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "ios",
+        "ios-simulator",
+        "linux",
+        "mcp",
+        "mobile-testing",
+        "testing"
+      ]
+    },
+    {
+      "name": "hovocope135-tech/DSH-projects",
+      "url": "https://github.com/hovocope135-tech/DSH-projects",
+      "summary": "探索人与 AI 的最佳协作方式 · Exploring the best way for people and AI to work together. DSH-projects is an open-source plugin for DeepSeek Harness: state a goal in one sentence, it asks what is unclear, runs the",
+      "stars": 446,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "context-engineering",
+        "deepseek-harness",
+        "task-management"
+      ]
+    },
+    {
+      "name": "lukendeasy/open-diagram",
+      "url": "https://github.com/lukendeasy/open-diagram",
+      "summary": "Python building blocks for dense architecture diagrams that check their own layout",
+      "stars": 385,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "architecture-diagrams",
+        "claude",
+        "diagrams",
+        "diagrams-as-code",
+        "python",
+        "svg"
+      ]
+    }
+  ]
+}

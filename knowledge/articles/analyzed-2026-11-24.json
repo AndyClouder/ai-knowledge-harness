@@ -1,0 +1,128 @@
+[
+  {
+    "id": "fc8355ae-6099-416b-b364-879b0ea7f1cd",
+    "title": "4lwayz/portwatch-vi",
+    "source_url": "https://github.com/4lwayz/portwatch-vi",
+    "source": "unknown",
+    "collected_at": "2026-11-24T19:18:38.824025+00:00",
+    "analyzed_at": "2026-11-24T19:18:38.824025+00:00",
+    "summary": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 2445,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "fbc52ea3-a816-406b-b7ee-8ca57a1db8a5",
+    "title": "qianyiai/kurocat",
+    "source_url": "https://github.com/qianyiai/kurocat",
+    "source": "unknown",
+    "collected_at": "2026-11-24T19:18:40.071991+00:00",
+    "analyzed_at": "2026-11-24T19:18:40.071991+00:00",
+    "summary": "KuroCat — Free open-source desktop typing cat pet & OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透明源 / AI捏猫 / Win·Mac·Linux·Android）",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 596,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "4eb6e048-30e1-4d9d-b1cc-7ab333423e27",
+    "title": "sous-labs/songe",
+    "source_url": "https://github.com/sous-labs/songe",
+    "source": "unknown",
+    "collected_at": "2026-11-24T19:18:41.343453+00:00",
+    "analyzed_at": "2026-11-24T19:18:41.343453+00:00",
+    "summary": "A training engine for your local model, using your idle compute",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 516,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "c322e627-380c-47ff-b538-28f8f95e9ffc",
+    "title": "Developing-Gamer/agent-sim",
+    "source_url": "https://github.com/Developing-Gamer/agent-sim",
+    "source": "unknown",
+    "collected_at": "2026-11-24T19:18:42.614040+00:00",
+    "analyzed_at": "2026-11-24T19:18:42.614040+00:00",
+    "summary": "iOS simulators for AI agents, on Linux. The agent layer for x86Sim.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 512,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "3edeae6d-52d8-41d1-a9cb-4b7dda70a18d",
+    "title": "hovocope135-tech/DSH-projects",
+    "source_url": "https://github.com/hovocope135-tech/DSH-projects",
+    "source": "unknown",
+    "collected_at": "2026-11-24T19:18:43.883646+00:00",
+    "analyzed_at": "2026-11-24T19:18:43.883646+00:00",
+    "summary": "探索人与 AI 的最佳协作方式 · Exploring the best way for people and AI to work together. DSH-projects is an open-source plugin for DeepSeek Harness: state a goal in one sentence, it asks what is unclear, runs the",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 446,
+      "score": null,
+      "author": null,
+      "language": "JavaScript"
+    }
+  },
+  {
+    "id": "d168eebb-af27-4212-a7a1-f96505d83736",
+    "title": "lukendeasy/open-diagram",
+    "source_url": "https://github.com/lukendeasy/open-diagram",
+    "source": "unknown",
+    "collected_at": "2026-11-24T19:18:45.126801+00:00",
+    "analyzed_at": "2026-11-24T19:18:45.126801+00:00",
+    "summary": "Python building blocks for dense architecture diagrams that check their own layout",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 385,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  }
+]
