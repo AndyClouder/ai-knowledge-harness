@@ -1,0 +1,77 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-11-25T18:23:56.266766+00:00",
+  "items": [
+    {
+      "name": "chanke17/KuroCat",
+      "url": "https://github.com/chanke17/KuroCat",
+      "summary": "KuroCat — Free open-source native desktop cat pet & OBS overlay (Bongo Cat alternative, Swift/C++, 802 KB)｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 / 数位板 / OBS透明绿幕 / 在线皮肤工坊 / 零按键上传）",
+      "stars": 516,
+      "language": "C++",
+      "topics": [
+        "bongo-cat",
+        "bongo-cat-alternative",
+        "cpp",
+        "desktop-companion",
+        "desktop-pet",
+        "drawing-tablet",
+        "kurocat",
+        "linux",
+        "macos",
+        "mcp",
+        "mcp-server",
+        "native-app",
+        "obs",
+        "obs-overlay",
+        "open-source",
+        "streamer-tools",
+        "swift",
+        "uos",
+        "vtuber",
+        "windows"
+      ]
+    },
+    {
+      "name": "tweak-for-me/impulse",
+      "url": "https://github.com/tweak-for-me/impulse",
+      "summary": "Lightweight alternative Windows client for game trainers: hotkeys, overlay and phone control.",
+      "stars": 444,
+      "language": "Rust",
+      "topics": [
+        "game-trainer",
+        "gpui",
+        "hotkeys",
+        "overlay",
+        "rust",
+        "windows"
+      ]
+    },
+    {
+      "name": "ProjectLeonidaL/leonida",
+      "url": "https://github.com/ProjectLeonidaL/leonida",
+      "summary": "Continuation of Project Leonida, aiming to bring GTA VI from Xbox to PC through static recompilation.",
+      "stars": 437,
+      "language": "Python",
+      "topics": [
+        "community-driven",
+        "cpp",
+        "gta6",
+        "gta6-pc",
+        "gtavi",
+        "leonida",
+        "open-source",
+        "pc-port",
+        "reverse-enginnering",
+        "rockstargames",
+        "runtime",
+        "shader-translation",
+        "static-recompilation",
+        "vulkan",
+        "windows",
+        "xbox",
+        "xbox-series-x"
+      ]
+    }
+  ]
+}

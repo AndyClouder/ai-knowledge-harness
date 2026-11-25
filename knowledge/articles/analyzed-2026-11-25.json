@@ -1,0 +1,422 @@
+[
+  {
+    "id": "705f873e-4e00-4677-84e4-595ed4cef587",
+    "title": "chanke17/KuroCat",
+    "source_url": "https://github.com/chanke17/KuroCat",
+    "source": "unknown",
+    "collected_at": "2026-11-25T18:24:03.148353+00:00",
+    "analyzed_at": "2026-11-25T18:24:03.148353+00:00",
+    "summary": "KuroCat — Free open-source native desktop cat pet & OBS overlay (Bongo Cat alternative, Swift/C++, 802 KB)｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 / 数位板 / OBS透明绿幕 / 在线皮肤工坊 / 零按键上传）",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 516,
+      "score": null,
+      "author": null,
+      "language": "C++"
+    }
+  },
+  {
+    "id": "716b1558-2a1a-4d39-81a0-abc855589bed",
+    "title": "tweak-for-me/impulse",
+    "source_url": "https://github.com/tweak-for-me/impulse",
+    "source": "unknown",
+    "collected_at": "2026-11-25T18:24:04.331118+00:00",
+    "analyzed_at": "2026-11-25T18:24:04.331118+00:00",
+    "summary": "Lightweight alternative Windows client for game trainers: hotkeys, overlay and phone control.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 444,
+      "score": null,
+      "author": null,
+      "language": "Rust"
+    }
+  },
+  {
+    "id": "139ac4c1-9953-4a01-9ff2-89a2c2afe51c",
+    "title": "ProjectLeonidaL/leonida",
+    "source_url": "https://github.com/ProjectLeonidaL/leonida",
+    "source": "unknown",
+    "collected_at": "2026-11-25T18:24:05.514511+00:00",
+    "analyzed_at": "2026-11-25T18:24:05.514511+00:00",
+    "summary": "Continuation of Project Leonida, aiming to bring GTA VI from Xbox to PC through static recompilation.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 437,
+      "score": null,
+      "author": null,
+      "language": "Python"
+    }
+  },
+  {
+    "id": "afa38828-61c7-41ea-89d0-fe77adc5cbfe",
+    "title": "Who are harvested or affected by AI",
+    "source_url": "https://news.ycombinator.com/item?id=50645469",
+    "source": "hacker_news",
+    "collected_at": "2026-11-25T18:24:06.699359+00:00",
+    "analyzed_at": "2026-11-25T18:24:06.699359+00:00",
+    "summary": "The software development industry is becoming more and more hard to make money. There are too many people flooding into the field, and the competition has grown fierce than before.The software outsour",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "lilerjee",
+      "language": null
+    }
+  },
+  {
+    "id": "b5b97d4c-1788-4401-8f9d-35ef4a060f26",
+    "title": "Who Still Gets to Borrow for AI?",
+    "source_url": "https://lesbarclays.substack.com/p/who-gets-to-borrow-for-ai",
+    "source": "hacker_news",
+    "collected_at": "2026-11-25T18:24:07.881579+00:00",
+    "analyzed_at": "2026-11-25T18:24:07.881579+00:00",
+    "summary": "Article URL: https://lesbarclays.substack.com/p/who-gets-to-borrow-for-ai\nComments URL: https://news.ycombinator.com/item?id=50645461\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "lesbarclays",
+      "language": null
+    }
+  },
+  {
+    "id": "0d0b37f6-2eb3-42b4-94be-55397d4761fb",
+    "title": "Local AI setups tested across 80 tasks on a 512GB Mac Studio M5 Ultra",
+    "source_url": "https://github.com/l8w8/videos/tree/main/2026/001-m5-ultra-22-setup-comparison",
+    "source": "hacker_news",
+    "collected_at": "2026-11-25T18:24:09.064542+00:00",
+    "analyzed_at": "2026-11-25T18:24:09.064542+00:00",
+    "summary": "Article URL: https://github.com/l8w8/videos/tree/main/2026/001-m5-ultra-22-setup-comparison\nComments URL: https://news.ycombinator.com/item?id=50645458\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "l8w8",
+      "language": null
+    }
+  },
+  {
+    "id": "06042a2a-842a-4be7-9696-636d14e52a35",
+    "title": "Ask HN: Indie founders making > 1k MRR, has your revenue been affected by AI?",
+    "source_url": "https://news.ycombinator.com/item?id=50645393",
+    "source": "hacker_news",
+    "collected_at": "2026-11-25T18:24:10.248767+00:00",
+    "analyzed_at": "2026-11-25T18:24:10.248767+00:00",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=50645393\nPoints: 3\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "asdev",
+      "language": null
+    }
+  },
+  {
+    "id": "fb5e266f-2e72-4402-a77f-c0a1f220900f",
+    "title": "Show HN: ClearFills – Let AI manage your portfolio without your broker password",
+    "source_url": "https://clearfills.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-25T18:24:11.437648+00:00",
+    "analyzed_at": "2026-11-25T18:24:11.437648+00:00",
+    "summary": "Article URL: https://clearfills.com/\nComments URL: https://news.ycombinator.com/item?id=50645254\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "abrichr",
+      "language": null
+    }
+  },
+  {
+    "id": "ee8c15a8-a041-4448-9eeb-304e22dbd16c",
+    "title": "An $80K breach forced us to own our AI stack. We're never going back",
+    "source_url": "https://twitter.com/benadamsky/status/2125643724596314433",
+    "source": "hacker_news",
+    "collected_at": "2026-11-25T18:24:12.623368+00:00",
+    "analyzed_at": "2026-11-25T18:24:12.623368+00:00",
+    "summary": "Article URL: https://twitter.com/benadamsky/status/2125643724596314433\nComments URL: https://news.ycombinator.com/item?id=50645133\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "martialg",
+      "language": null
+    }
+  },
+  {
+    "id": "95b68990-88c6-48f2-a90b-bc5bdf0f7975",
+    "title": "Trying to get our Arms around AI efficiency",
+    "source_url": "https://stackoverflow.blog/2026/11/20/trying-to-get-our-arms-around-ai-efficiency/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-25T18:24:13.807455+00:00",
+    "analyzed_at": "2026-11-25T18:24:13.807455+00:00",
+    "summary": "Article URL: https://stackoverflow.blog/2026/11/20/trying-to-get-our-arms-around-ai-efficiency/\nComments URL: https://news.ycombinator.com/item?id=50645008\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mooreds",
+      "language": null
+    }
+  },
+  {
+    "id": "a7de0e90-37dc-44f3-a71f-8e18c894bbb9",
+    "title": "Game Autoresearch Bench: Can AI agents train strong game bots on a budget?",
+    "source_url": "https://gameautoresearch.github.io/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-25T18:24:14.995928+00:00",
+    "analyzed_at": "2026-11-25T18:24:14.995928+00:00",
+    "summary": "Article URL: https://gameautoresearch.github.io/\nComments URL: https://news.ycombinator.com/item?id=50644988\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "evakhoury",
+      "language": null
+    }
+  },
+  {
+    "id": "1bb92dcd-c076-4b5f-a1b7-973fd49caca7",
+    "title": "New York bans AI toys, including those using internet to talk to children",
+    "source_url": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
+    "source": "hacker_news",
+    "collected_at": "2026-11-25T18:24:16.185074+00:00",
+    "analyzed_at": "2026-11-25T18:24:16.185074+00:00",
+    "summary": "Article URL: https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys\nComments URL: https://news.ycombinator.com/item?id=50644909\nPoints: 8\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "nephihaha",
+      "language": null
+    }
+  },
+  {
+    "id": "be6b80e5-90bf-4fa5-8cf8-9091269533ed",
+    "title": "Show HN: Nachuan – Verifiable zero-telemetry multi-worktree AI coding plane",
+    "source_url": "https://github.com/wg5759/nachuan",
+    "source": "hacker_news",
+    "collected_at": "2026-11-25T18:24:17.361996+00:00",
+    "analyzed_at": "2026-11-25T18:24:17.361996+00:00",
+    "summary": "Article URL: https://github.com/wg5759/nachuan\nComments URL: https://news.ycombinator.com/item?id=50644491\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "maomao5759",
+      "language": null
+    }
+  },
+  {
+    "id": "b8de4578-8118-466e-8ecd-ff2a46918db5",
+    "title": "US stocks fall further as fears over AI intensify",
+    "source_url": "https://www.bbc.com/news/articles/cq0md8g14zryo",
+    "source": "hacker_news",
+    "collected_at": "2026-11-25T18:24:18.550615+00:00",
+    "analyzed_at": "2026-11-25T18:24:18.550615+00:00",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cq0md8g14zryo\nComments URL: https://news.ycombinator.com/item?id=50644417\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "only_in_america",
+      "language": null
+    }
+  },
+  {
+    "id": "ea49cadd-0ee7-4588-bc4a-557e0bb4d72a",
+    "title": "US stocks sell-off deepens as AI trade cracks",
+    "source_url": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a",
+    "source": "hacker_news",
+    "collected_at": "2026-11-25T18:24:19.739100+00:00",
+    "analyzed_at": "2026-11-25T18:24:19.739100+00:00",
+    "summary": "Article URL: https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a\nComments URL: https://news.ycombinator.com/item?id=50644386\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "RockstarSprain",
+      "language": null
+    }
+  },
+  {
+    "id": "59c8e636-196b-4d21-ac7f-5e3dd79dbf6f",
+    "title": "Ask HN: Where is the merit in AI-era?",
+    "source_url": "https://news.ycombinator.com/item?id=50644329",
+    "source": "hacker_news",
+    "collected_at": "2026-11-25T18:24:20.930442+00:00",
+    "analyzed_at": "2026-11-25T18:24:20.930442+00:00",
+    "summary": "Society was partly built on rewarding a subtle mix of talent and effort and this feels slippery now.I see a lot of content being generated: some cool things, but many vibe-coded in one evening and for",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "jcolot",
+      "language": null
+    }
+  },
+  {
+    "id": "794e0b44-a0ca-46cd-b5c5-ac45b5d2b785",
+    "title": "Hands-on Kubernetes, AI infra and LLM labs that run on a laptop",
+    "source_url": "https://kdrill.5xx.tech/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-25T18:24:22.115902+00:00",
+    "analyzed_at": "2026-11-25T18:24:22.115902+00:00",
+    "summary": "Article URL: https://kdrill.5xx.tech/\nComments URL: https://news.ycombinator.com/item?id=50644290\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "0xdart",
+      "language": null
+    }
+  },
+  {
+    "id": "68197b82-6cd8-4081-bfeb-af88bc120925",
+    "title": "An AI economy won't need humans to provide demand",
+    "source_url": "https://www.lesswrong.com/posts/s5dhSdQZDEsEemYbL/an-ai-economy-won-t-need-humans-to-provide-demand",
+    "source": "hacker_news",
+    "collected_at": "2026-11-25T18:24:23.299554+00:00",
+    "analyzed_at": "2026-11-25T18:24:23.299554+00:00",
+    "summary": "Article URL: https://www.lesswrong.com/posts/s5dhSdQZDEsEemYbL/an-ai-economy-won-t-need-humans-to-provide-demand\nComments URL: https://news.ycombinator.com/item?id=50644128\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "OgsyedIE",
+      "language": null
+    }
+  },
+  {
+    "id": "afa12eec-d8d8-44c9-9c0c-48f07387eefc",
+    "title": "56% of top GitHub open-source AI agents from March are now unranked",
+    "source_url": "https://www.theagenticleaderboard.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-25T18:24:24.484981+00:00",
+    "analyzed_at": "2026-11-25T18:24:24.484981+00:00",
+    "summary": "Article URL: https://www.theagenticleaderboard.com/\nComments URL: https://news.ycombinator.com/item?id=50644126\nPoints: 1\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "theagenticleade",
+      "language": null
+    }
+  },
+  {
+    "id": "52d75084-50c1-4ed2-8f98-46285c7567c0",
+    "title": "Claude models are sabotaging AI research",
+    "source_url": "https://twitter.com/skirano/status/2125371115979641188",
+    "source": "hacker_news",
+    "collected_at": "2026-11-25T18:24:25.669288+00:00",
+    "analyzed_at": "2026-11-25T18:24:25.669288+00:00",
+    "summary": "Article URL: https://twitter.com/skirano/status/2125371115979641188\nComments URL: https://news.ycombinator.com/item?id=50644109\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "ar7hur",
+      "language": null
+    }
+  }
+]
