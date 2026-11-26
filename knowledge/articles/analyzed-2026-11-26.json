@@ -1,0 +1,422 @@
+[
+  {
+    "id": "e97498fa-ef63-4177-8bf1-9cc3c6f80857",
+    "title": "qianyiai/KuroCat",
+    "source_url": "https://github.com/qianyiai/KuroCat",
+    "source": "unknown",
+    "collected_at": "2026-11-26T18:05:54.579379+00:00",
+    "analyzed_at": "2026-11-26T18:05:54.579379+00:00",
+    "summary": "KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/Mac/Linux/Android)｜开源3D桌面打字小黑猫与AI伴侣",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1321,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "0d48a8fb-c051-4b8d-b901-79c139503380",
+    "title": "alesha-pro/llm.asm",
+    "source_url": "https://github.com/alesha-pro/llm.asm",
+    "source": "unknown",
+    "collected_at": "2026-11-26T18:05:55.841108+00:00",
+    "analyzed_at": "2026-11-26T18:05:55.841108+00:00",
+    "summary": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 1278,
+      "score": null,
+      "author": null,
+      "language": "Assembly"
+    }
+  },
+  {
+    "id": "2166dc43-684c-4ced-b0dd-ac9e8fa7ca1a",
+    "title": "nexu-io/opengame",
+    "source_url": "https://github.com/nexu-io/opengame",
+    "source": "unknown",
+    "collected_at": "2026-11-26T18:05:57.104590+00:00",
+    "analyzed_at": "2026-11-26T18:05:57.104590+00:00",
+    "summary": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": 624,
+      "score": null,
+      "author": null,
+      "language": "TypeScript"
+    }
+  },
+  {
+    "id": "ff75f720-d850-45e6-9e27-9d46e5751ce8",
+    "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+    "source_url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-26T18:05:58.370697+00:00",
+    "analyzed_at": "2026-11-26T18:05:58.370697+00:00",
+    "summary": "Article URL: https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/\nComments URL: https://news.ycombinator.com/item?id=50657814\nPoints: 1\n# Com",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "N19PEDL2",
+      "language": null
+    }
+  },
+  {
+    "id": "a0778e91-c1fd-4647-9146-1c13c91e78cd",
+    "title": "Tool-calling AI agents (not chatbots) predict slower firm hiring growth",
+    "source_url": "https://arxiv.org/abs/2611.27210",
+    "source": "hacker_news",
+    "collected_at": "2026-11-26T18:05:59.596153+00:00",
+    "analyzed_at": "2026-11-26T18:05:59.596153+00:00",
+    "summary": "Article URL: https://arxiv.org/abs/2611.27210\nComments URL: https://news.ycombinator.com/item?id=50657727\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "datascientist",
+      "language": null
+    }
+  },
+  {
+    "id": "c9857b0c-9017-499d-bfa7-47bd5240a0cf",
+    "title": "Z.ai clarifies GLM-5.5 has not been delayed, scheduled for December launch",
+    "source_url": "https://reddit.com/r/LocalLLaMA/comments/1y6260i/zai_clarifies_glm55_has_not_been_delayed/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-26T18:06:00.821377+00:00",
+    "analyzed_at": "2026-11-26T18:06:00.821377+00:00",
+    "summary": "Article URL: https://reddit.com/r/LocalLLaMA/comments/1y6260i/zai_clarifies_glm55_has_not_been_delayed/\nComments URL: https://news.ycombinator.com/item?id=50657724\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "flessio",
+      "language": null
+    }
+  },
+  {
+    "id": "f399f4f2-1e1e-4b7d-b778-e1380cbef2f3",
+    "title": "Physicist Uses AI to Tackle Quantum Gravity",
+    "source_url": "https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-26T18:06:02.046668+00:00",
+    "analyzed_at": "2026-11-26T18:06:02.046668+00:00",
+    "summary": "Article URL: https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/\nComments URL: https://news.ycombinator.com/item?id=50657658\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "a_tartaruga",
+      "language": null
+    }
+  },
+  {
+    "id": "9e3a9d8f-ebb0-4843-88be-00b5ca6ebb61",
+    "title": "What a rule-based checker found in 561 public projects, mostly AI-built",
+    "source_url": "https://lintsure.com/research/561-projects",
+    "source": "hacker_news",
+    "collected_at": "2026-11-26T18:06:03.271165+00:00",
+    "analyzed_at": "2026-11-26T18:06:03.271165+00:00",
+    "summary": "Article URL: https://lintsure.com/research/561-projects\nComments URL: https://news.ycombinator.com/item?id=50657555\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "DrMax",
+      "language": null
+    }
+  },
+  {
+    "id": "eb7af3b9-bc6d-4619-817b-77e45092c6d3",
+    "title": "The Trap of Understanding: Why AI Cannot Be Regulated Like Oil",
+    "source_url": "https://medium.com/@smoking2man/the-trap-of-understanding-why-ai-cannot-be-regulated-like-oil-and-how-to-get-out-of-it-e6f790b382e2",
+    "source": "hacker_news",
+    "collected_at": "2026-11-26T18:06:04.495366+00:00",
+    "analyzed_at": "2026-11-26T18:06:04.495366+00:00",
+    "summary": "Article URL: https://medium.com/@smoking2man/the-trap-of-understanding-why-ai-cannot-be-regulated-like-oil-and-how-to-get-out-of-it-e6f790b382e2\nComments URL: https://news.ycombinator.com/item?id=5065",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "Aldus551",
+      "language": null
+    }
+  },
+  {
+    "id": "755ee952-91fe-4c65-a3ea-e5dfa7b0b2fe",
+    "title": "Sara – A financial workspace with persistent context across AI models",
+    "source_url": "https://www.usesara.ai",
+    "source": "hacker_news",
+    "collected_at": "2026-11-26T18:06:05.721106+00:00",
+    "analyzed_at": "2026-11-26T18:06:05.721106+00:00",
+    "summary": "Article URL: https://www.usesara.ai\nComments URL: https://news.ycombinator.com/item?id=50657490\nPoints: 1\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "dodriozola",
+      "language": null
+    }
+  },
+  {
+    "id": "f8e9ce08-8a43-4d4f-b76c-5f2e70aa67b5",
+    "title": "'AI' might be the end of our careers",
+    "source_url": "https://www.baldurbjarnason.com/2026/08-ai-might-be-the-end-of-our-careers/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-26T18:06:06.945427+00:00",
+    "analyzed_at": "2026-11-26T18:06:06.945427+00:00",
+    "summary": "Article URL: https://www.baldurbjarnason.com/2026/08-ai-might-be-the-end-of-our-careers/\nComments URL: https://news.ycombinator.com/item?id=50657452\nPoints: 6\n# Comments: 2",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "tosbourn",
+      "language": null
+    }
+  },
+  {
+    "id": "4c6196b4-d3e0-4dd3-a756-e0df71073091",
+    "title": "Who Benefits Most from AI: Seniors or Juniors?",
+    "source_url": "https://languageops.com/blog/who-benefits-most-from-ai-seniors-or-juniors/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-26T18:06:08.169970+00:00",
+    "analyzed_at": "2026-11-26T18:06:08.169970+00:00",
+    "summary": "Article URL: https://languageops.com/blog/who-benefits-most-from-ai-seniors-or-juniors/\nComments URL: https://news.ycombinator.com/item?id=50657318\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "luxpir",
+      "language": null
+    }
+  },
+  {
+    "id": "73d37a3c-2062-499c-a4e0-bb1cf85c91ea",
+    "title": "Tracking Diseases Cured by AI",
+    "source_url": "https://diseasescuredbyai.com/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-26T18:06:09.396256+00:00",
+    "analyzed_at": "2026-11-26T18:06:09.396256+00:00",
+    "summary": "Article URL: https://diseasescuredbyai.com/\nComments URL: https://news.ycombinator.com/item?id=50657307\nPoints: 57\n# Comments: 16",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "spoofyroot",
+      "language": null
+    }
+  },
+  {
+    "id": "0bd82826-2286-4ec6-bdc5-019a73447328",
+    "title": "Show HN: Dev-Mem – Local-first SQLite knowledge graph for AI coding agents",
+    "source_url": "https://github.com/HarsH-1877/Dev-Mem",
+    "source": "hacker_news",
+    "collected_at": "2026-11-26T18:06:10.622748+00:00",
+    "analyzed_at": "2026-11-26T18:06:10.622748+00:00",
+    "summary": "Article URL: https://github.com/HarsH-1877/Dev-Mem\nComments URL: https://news.ycombinator.com/item?id=50657159\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "HarsH_1849",
+      "language": null
+    }
+  },
+  {
+    "id": "8156e221-fb8a-48da-b8cc-701012ceaad4",
+    "title": "Show HN: Lean 4 and nanoda proof-compression bounties for AI agents ($0 gas)",
+    "source_url": "https://swarm.tips/proofs/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-26T18:06:11.846905+00:00",
+    "analyzed_at": "2026-11-26T18:06:11.846905+00:00",
+    "summary": "Article URL: https://swarm.tips/proofs/\nComments URL: https://news.ycombinator.com/item?id=50657140\nPoints: 1\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "swarmtips",
+      "language": null
+    }
+  },
+  {
+    "id": "0901d834-25e7-4697-9f48-894868bcf766",
+    "title": "We Tested Automated AI Development: Here's Why \"Dark\" Factories Fail",
+    "source_url": "https://coding-is-like-cooking.info/2026/11/we-tested-fully-automated-ai-development-heres-why-dark-factories-fail/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-26T18:06:13.072494+00:00",
+    "analyzed_at": "2026-11-26T18:06:13.072494+00:00",
+    "summary": "Article URL: https://coding-is-like-cooking.info/2026/11/we-tested-fully-automated-ai-development-heres-why-dark-factories-fail/\nComments URL: https://news.ycombinator.com/item?id=50657101\nPoints: 1\n#",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mooreds",
+      "language": null
+    }
+  },
+  {
+    "id": "6359c52f-41ca-4148-b7af-a3035ca27264",
+    "title": "Deloitte banned from WA government work over AI-tarnished report",
+    "source_url": "https://www.afr.com/policy/health-and-education/deloitte-banned-from-wa-government-work-over-ai-tarnished-report-20261125-p61h6p",
+    "source": "hacker_news",
+    "collected_at": "2026-11-26T18:06:14.295590+00:00",
+    "analyzed_at": "2026-11-26T18:06:14.295590+00:00",
+    "summary": "Article URL: https://www.afr.com/policy/health-and-education/deloitte-banned-from-wa-government-work-over-ai-tarnished-report-20261125-p61h6p\nComments URL: https://news.ycombinator.com/item?id=5065698",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "mgh2",
+      "language": null
+    }
+  },
+  {
+    "id": "87a9ff04-167c-402e-8fb5-a520c6bc745a",
+    "title": "New research suggests AI bubble bursting and to expect major market collapse",
+    "source_url": "https://www.london.edu/think/ai-bubble-about-to-burst",
+    "source": "hacker_news",
+    "collected_at": "2026-11-26T18:06:15.520587+00:00",
+    "analyzed_at": "2026-11-26T18:06:15.520587+00:00",
+    "summary": "Article URL: https://www.london.edu/think/ai-bubble-about-to-burst\nComments URL: https://news.ycombinator.com/item?id=50656893\nPoints: 8\n# Comments: 1",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "dgellow",
+      "language": null
+    }
+  },
+  {
+    "id": "31590d71-b96a-4e18-abb7-c976f71a901a",
+    "title": "Show HN: Status page for your AI bots",
+    "source_url": "https://news.ycombinator.com/item?id=50656826",
+    "source": "hacker_news",
+    "collected_at": "2026-11-26T18:06:16.743945+00:00",
+    "analyzed_at": "2026-11-26T18:06:16.743945+00:00",
+    "summary": "Do you run multiple AI agents in terminals, in bots, concurrently remotely and locally?Does it get overwhelming to know which agent is actually doing what, and where they are in their progress?Meet ht",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "kirillzubovsky",
+      "language": null
+    }
+  },
+  {
+    "id": "5eaaec95-42d7-4e87-9de3-f59c848b272a",
+    "title": "Behavioral drift detector for AI agents",
+    "source_url": "https://crossagentsi.vercel.app/",
+    "source": "hacker_news",
+    "collected_at": "2026-11-26T18:06:17.967116+00:00",
+    "analyzed_at": "2026-11-26T18:06:17.967116+00:00",
+    "summary": "Article URL: https://crossagentsi.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=50656748\nPoints: 2\n# Comments: 0",
+    "highlights": [],
+    "score": 5,
+    "score_reason": "",
+    "tags": [],
+    "status": "raw",
+    "published_at": null,
+    "metadata": {
+      "stars": null,
+      "score": null,
+      "author": "tanmaysangam018",
+      "language": null
+    }
+  }
+]
