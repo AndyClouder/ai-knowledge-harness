@@ -1,0 +1,30 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-11-27T17:49:08.714387+00:00",
+  "items": [
+    {
+      "name": "DeadInternetStudios/100x-engineer-skill",
+      "url": "https://github.com/DeadInternetStudios/100x-engineer-skill",
+      "summary": "100x is a skill by a former Cursor engineer that turns prompts into formally verified, production-ready code",
+      "stars": 618,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "cursor",
+        "formal-verification"
+      ]
+    },
+    {
+      "name": "0x1A6C1A9Y/focus-clock",
+      "url": "https://github.com/0x1A6C1A9Y/focus-clock",
+      "summary": "Un minuteur web minimal pour se concentrer, faire une pause et avancer une chose à la fois.",
+      "stars": 563,
+      "language": "HTML",
+      "topics": []
+    }
+  ]
+}

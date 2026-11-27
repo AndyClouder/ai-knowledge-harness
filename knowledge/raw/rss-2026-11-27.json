@@ -1,0 +1,178 @@
+{
+  "source": "rss",
+  "skill": "rss",
+  "collected_at": "2026-11-27T17:49:25.624597+00:00",
+  "items": [
+    {
+      "name": "German government wants AI providers to pay up",
+      "url": "https://www.deutschland.de/en/news/german-government-wants-ai-providers-to-pay-up",
+      "summary": "Article URL: https://www.deutschland.de/en/news/german-government-wants-ai-providers-to-pay-up\nComments URL: https://news.ycombinator.com/item?id=50669491\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "giuliomagnifico",
+      "published": "Fri, 27 Nov 2026 17:38:36 +0000"
+    },
+    {
+      "name": "The Jevons Paradox of AI Code",
+      "url": "https://bexx.io/post/the-jevons-paradox-of-automated-code/",
+      "summary": "Article URL: https://bexx.io/post/the-jevons-paradox-of-automated-code/\nComments URL: https://news.ycombinator.com/item?id=50669307\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "bexxmodd",
+      "published": "Fri, 27 Nov 2026 17:23:56 +0000"
+    },
+    {
+      "name": "Tech Stocks Jump as Investors Take a Break from AI Jitters",
+      "url": "https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846",
+      "summary": "Article URL: https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846\nComments URL: https://news.ycombinator.com/item?id=50669230\nPoints: 2\n",
+      "source": "hacker_news",
+      "score": null,
+      "author": "doener",
+      "published": "Fri, 27 Nov 2026 17:17:43 +0000"
+    },
+    {
+      "name": "Dungeons and Dragons maker will pass AI settlement money to authors",
+      "url": "https://www.seattletimes.com/business/dungeons-dragons-maker-will-pass-ai-settlement-money-to-authors/",
+      "summary": "Article URL: https://www.seattletimes.com/business/dungeons-dragons-maker-will-pass-ai-settlement-money-to-authors/\nComments URL: https://news.ycombinator.com/item?id=50669073\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "doctorzook",
+      "published": "Fri, 27 Nov 2026 17:05:45 +0000"
+    },
+    {
+      "name": "What AI regulation could learn from the most hazardous industries in the world",
+      "url": "https://theconversation.com/what-ai-regulation-could-learn-from-the-most-hazardous-industries-in-the-world-295475",
+      "summary": "Article URL: https://theconversation.com/what-ai-regulation-could-learn-from-the-most-hazardous-industries-in-the-world-295475\nComments URL: https://news.ycombinator.com/item?id=50669058\nPoints: 2\n# C",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pdfernhout",
+      "published": "Fri, 27 Nov 2026 17:04:42 +0000"
+    },
+    {
+      "name": "Delaware's dangerous plan for autonomous AI companies",
+      "url": "https://www.ft.com/content/8b989597-c00b-4839-af3d-a37c1bb14e7e",
+      "summary": "Article URL: https://www.ft.com/content/8b989597-c00b-4839-af3d-a37c1bb14e7e\nComments URL: https://news.ycombinator.com/item?id=50669001\nPoints: 2\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Nydhal",
+      "published": "Fri, 27 Nov 2026 16:59:42 +0000"
+    },
+    {
+      "name": "How AI Is Transforming Mathematics",
+      "url": "https://www.nytimes.com/2026/11/27/podcasts/hardfork-terence-tao.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/11/27/podcasts/hardfork-terence-tao.html\nComments URL: https://news.ycombinator.com/item?id=50668805\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "digital55",
+      "published": "Fri, 27 Nov 2026 16:40:35 +0000"
+    },
+    {
+      "name": "SAP is reportedly cutting at least 10,000 jobs in AI push",
+      "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html\nComments URL: https://news.ycombinator.com/item?id=50668672\nPoints: 4\n# Comments: 3",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Betelbuddy",
+      "published": "Fri, 27 Nov 2026 16:29:02 +0000"
+    },
+    {
+      "name": "AI and the Socratic Method",
+      "url": "https://joelratnasothy.com/aiandthesocraticmethod/",
+      "summary": "Article URL: https://joelratnasothy.com/aiandthesocraticmethod/\nComments URL: https://news.ycombinator.com/item?id=50668305\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "MrDrDr",
+      "published": "Fri, 27 Nov 2026 15:55:09 +0000"
+    },
+    {
+      "name": "Show HN: Open-source ESP32 desk body for a local AI assistant",
+      "url": "https://www.bobebot.com/body",
+      "summary": "Here is a fun project if you want to make an open-source Meta Muse Charm.It is a cheap ESP32-S3 talking toy from Shanghai talking to my Mac/Linux desktop app (BoBe), with zero API keys on the chip. I ",
+      "source": "hacker_news",
+      "score": null,
+      "author": "JohnKozaris",
+      "published": "Fri, 27 Nov 2026 15:29:03 +0000"
+    },
+    {
+      "name": "Show HN: AI agents can now call you",
+      "url": "https://onair.io/blog/agents-can-call",
+      "summary": "Article URL: https://onair.io/blog/agents-can-call\nComments URL: https://news.ycombinator.com/item?id=50667755\nPoints: 4\n# Comments: 4",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ANaimi",
+      "published": "Fri, 27 Nov 2026 15:04:12 +0000"
+    },
+    {
+      "name": "Retail Self-Checkouts Targeted in Fight to Shield Jobs from AI",
+      "url": "https://news.bloomberglaw.com/daily-labor-report/retail-self-checkouts-targeted-in-fight-to-shield-jobs-from-ai",
+      "summary": "Article URL: https://news.bloomberglaw.com/daily-labor-report/retail-self-checkouts-targeted-in-fight-to-shield-jobs-from-ai\nComments URL: https://news.ycombinator.com/item?id=50667580\nPoints: 2\n# Com",
+      "source": "hacker_news",
+      "score": null,
+      "author": "louiereederson",
+      "published": "Fri, 27 Nov 2026 14:48:52 +0000"
+    },
+    {
+      "name": "Show HN: CoDesignFlo – Keep Figma in sync with the code your AI agents ship",
+      "url": "https://github.com/orkestralai/codesignflo",
+      "summary": "Article URL: https://github.com/orkestralai/codesignflo\nComments URL: https://news.ycombinator.com/item?id=50667572\nPoints: 3\n# Comments: 2",
+      "source": "hacker_news",
+      "score": null,
+      "author": "saccodd",
+      "published": "Fri, 27 Nov 2026 14:48:13 +0000"
+    },
+    {
+      "name": "Show HN: I made a FREE note-taking app that connects to your AI",
+      "url": "https://folio-eta-bay-59.vercel.app",
+      "summary": "Article URL: https://folio-eta-bay-59.vercel.app\nComments URL: https://news.ycombinator.com/item?id=50667549\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "Adam-Hincu",
+      "published": "Fri, 27 Nov 2026 14:45:45 +0000"
+    },
+    {
+      "name": "OpenAI offering up to $8k a month to teach small businesses AI",
+      "url": "https://openai.com/openworks/",
+      "summary": "Article URL: https://openai.com/openworks/\nComments URL: https://news.ycombinator.com/item?id=50667516\nPoints: 1\n# Comments: 1",
+      "source": "hacker_news",
+      "score": null,
+      "author": "armcat",
+      "published": "Fri, 27 Nov 2026 14:42:35 +0000"
+    },
+    {
+      "name": "Our AI QA agent on Momentic's open QA Bench, with every run and verdict",
+      "url": "https://github.com/pluswithai/qa-bench-results",
+      "summary": "Article URL: https://github.com/pluswithai/qa-bench-results\nComments URL: https://news.ycombinator.com/item?id=50667382\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "pluswithai",
+      "published": "Fri, 27 Nov 2026 14:31:17 +0000"
+    },
+    {
+      "name": "AI is straining America's open records systems",
+      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "summary": "Article URL: https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/\nComments URL: https://news.ycombinator.com/item?id=50667375\nPoints: 3\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "jonbaer",
+      "published": "Fri, 27 Nov 2026 14:30:36 +0000"
+    },
+    {
+      "name": "AI Success Factors – Food for Agile Thought 572",
+      "url": "https://age-of-product.com/food-agile-thought-572-ai-success-factors/",
+      "summary": "Article URL: https://age-of-product.com/food-agile-thought-572-ai-success-factors/\nComments URL: https://news.ycombinator.com/item?id=50667358\nPoints: 1\n# Comments: 0",
+      "source": "hacker_news",
+      "score": null,
+      "author": "swolpers",
+      "published": "Fri, 27 Nov 2026 14:28:28 +0000"
+    },
+    {
+      "name": "Show HN: Place AI and math breakthroughs on a timeline vs. Scott Aaronson",
+      "url": "https://youraitimelines.com/",
+      "summary": "Saw the Polylog × Scott Aaronson video https://www.youtube.com/watch?v=0xa_JFSUEDg and thought it would be cool to see other people's ideas and timelines.Would be good to get thoughts and comments.\n\nC",
+      "source": "hacker_news",
+      "score": null,
+      "author": "ap11071",
+      "published": "Fri, 27 Nov 2026 14:28:08 +0000"
+    }
+  ]
+}
